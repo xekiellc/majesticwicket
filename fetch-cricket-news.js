@@ -87,7 +87,6 @@ function parseRSS(xml, feedUrl) {
       if (linkHref) url = linkHref[1];
     }
     const rawDesc = get('description') || get('summary') || get('content');
-    // Strip ALL HTML — including <a href> tags Google News injects
     const description = rawDesc
       .replace(/<a[^>]*>[\s\S]*?<\/a>/gi, '')
       .replace(/<[^>]+>/g, '')
@@ -120,7 +119,6 @@ function parseRSS(xml, feedUrl) {
   return articles;
 }
 
-// Drop articles older than maxAgeDays
 function filterFresh(articles, maxAgeDays) {
   const cutoff = Date.now() - (maxAgeDays * 24 * 60 * 60 * 1000);
   const fresh = articles.filter(a => {
@@ -258,6 +256,7 @@ async function claudeFilter(articles, mode = 'news') {
   return claudeFilterChunk(deduped, mode, finalMax);
 }
 
+// Standings only — 1 hit per league vs 3, keeps us under 100/day limit
 async function fetchLeagueStats(leagueKey, seriesId) {
   if (!CRICKETDATA_API_KEY || !seriesId) return null;
   try {
@@ -267,16 +266,12 @@ async function fetchLeagueStats(leagueKey, seriesId) {
     const standingsRes = await httpsGet(`${base}/series_points_table?${key}&id=${seriesId}`);
     console.log(`    ${leagueKey} standings: status=${standingsRes.status} items=${(standingsRes.data||[]).length}`);
 
-    const battingRes  = await httpsGet(`${base}/series_stats?${key}&id=${seriesId}&stats_type=mostRuns`);
-    console.log(`    ${leagueKey} batting:   status=${battingRes.status}   items=${(battingRes.data||[]).length}`);
-
-    const bowlingRes  = await httpsGet(`${base}/series_stats?${key}&id=${seriesId}&stats_type=mostWickets`);
-    console.log(`    ${leagueKey} bowling:   status=${bowlingRes.status}   items=${(bowlingRes.data||[]).length}`);
+    if (standingsRes.status === 'failure') return null;
 
     return {
       standings:  (standingsRes.data || []).slice(0, 10),
-      topBatters: (battingRes.data   || []).slice(0, 5),
-      topBowlers: (bowlingRes.data   || []).slice(0, 5),
+      topBatters: [],
+      topBowlers: [],
     };
   } catch(e) {
     console.warn(`  ⚠ Stats fetch failed for ${leagueKey}: ${e.message}`);
@@ -293,11 +288,11 @@ async function fetchAllStats() {
   const results = {};
   for (const [id, cfg] of Object.entries(LEAGUE_SERIES)) {
     if (!cfg.seriesId) { console.log(`  ℹ ${cfg.name}: no series ID`); continue; }
-    console.log(`  Fetching ${cfg.name} (${cfg.seriesId})...`);
+    console.log(`  Fetching ${cfg.name}...`);
     const data = await fetchLeagueStats(id, cfg.seriesId);
     if (data) {
       results[id] = data;
-      console.log(`  ✓ ${cfg.name}: ${data.standings.length} standings | ${data.topBatters.length} batters | ${data.topBowlers.length} bowlers`);
+      console.log(`  ✓ ${cfg.name}: ${data.standings.length} standings`);
     }
     await new Promise(r => setTimeout(r, 500));
   }
