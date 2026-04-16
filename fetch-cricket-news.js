@@ -14,14 +14,13 @@ if (!CLAUDE_API_KEY) {
   process.exit(1);
 }
 
-// ── RSS FEEDS — free, no API key, server-safe ──
 const RSS_FEEDS = [
   'https://www.espncricinfo.com/rss/content/story/feeds/0.xml',
   'https://www.crictracker.com/feed/',
-  'https://news.google.com/rss/search?q=cricket+IPL+2025&hl=en-IN&gl=IN&ceid=IN:en',
+  'https://news.google.com/rss/search?q=cricket+IPL+2026&hl=en-IN&gl=IN&ceid=IN:en',
   'https://news.google.com/rss/search?q=cricket+PSL+2026&hl=en&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=cricket+test+match+2025&hl=en&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=cricket+T20+world+cup&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+test+match+2026&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+T20+world+cup+2026&hl=en&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=cricket+Big+Bash+BBL&hl=en&gl=AU&ceid=AU:en',
   'https://news.google.com/rss/search?q=cricket+The+Hundred+2026&hl=en-GB&gl=GB&ceid=GB:en',
   'https://news.google.com/rss/search?q=cricket+SA20+South+Africa&hl=en&gl=ZA&ceid=ZA:en',
@@ -29,9 +28,9 @@ const RSS_FEEDS = [
   'https://news.google.com/rss/search?q=Virat+Kohli+cricket&hl=en&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=Babar+Azam+cricket&hl=en&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=Ben+Stokes+cricket&hl=en&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=cricket+women+international+2025&hl=en&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=cricket+news+latest&hl=en&gl=US&ceid=US:en',
-  'https://news.google.com/rss/search?q=cricket+match+results&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+women+international+2026&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+news+today&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+match+results+today&hl=en&gl=US&ceid=US:en',
 ];
 
 const CULTURE_FEEDS = [
@@ -40,7 +39,6 @@ const CULTURE_FEEDS = [
   'https://news.google.com/rss/search?q=cricket+greatest+moments+records&hl=en&gl=US&ceid=US:en',
 ];
 
-// ── SERIES IDs from CricketData API ──
 const LEAGUE_SERIES = {
   ipl:     { name: 'IPL',         seriesId: 'd5a498c8-7596-4b93-8ab0-e0efc3345312' },
   bbl:     { name: 'BBL',         seriesId: '4e2f50ed-ed84-46fc-bdcb-ace304b0da34' },
@@ -56,7 +54,6 @@ const LEAGUE_SERIES = {
   odi:     { name: 'ODI WC',      seriesId: null },
 };
 
-// ── HTTP/HTTPS fetch with redirect following ──
 function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
     if (redirectCount > 5) return reject(new Error('Too many redirects'));
@@ -72,7 +69,6 @@ function fetchUrl(url, redirectCount = 0) {
   });
 }
 
-// ── Parse RSS/Atom XML into article objects ──
 function parseRSS(xml, feedUrl) {
   const articles = [];
   const itemRegex = /<(item|entry)[\s>]([\s\S]*?)<\/(item|entry)>/gi;
@@ -90,7 +86,18 @@ function parseRSS(xml, feedUrl) {
       const linkHref = block.match(/<link[^>]+href=["']([^"']+)["']/i);
       if (linkHref) url = linkHref[1];
     }
-    const description = get('description') || get('summary') || get('content');
+    const rawDesc = get('description') || get('summary') || get('content');
+    // Strip ALL HTML — including <a href> tags Google News injects
+    const description = rawDesc
+      .replace(/<a[^>]*>[\s\S]*?<\/a>/gi, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .trim()
+      .substring(0, 300);
+
     const pubDate = get('pubDate') || get('published') || get('updated') || '';
     const sourceName = feedUrl.includes('espncricinfo') ? 'ESPNcricinfo'
                      : feedUrl.includes('icc-cricket')  ? 'ICC'
@@ -103,7 +110,7 @@ function parseRSS(xml, feedUrl) {
       articles.push({
         title:       title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&#39;/g, "'").replace(/&quot;/g, '"'),
         url:         url.trim(),
-        description: description.replace(/<[^>]+>/g, '').substring(0, 300),
+        description,
         publishedAt: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
         source:      { name: sourceName },
         urlToImage:  null,
@@ -111,6 +118,17 @@ function parseRSS(xml, feedUrl) {
     }
   }
   return articles;
+}
+
+// Drop articles older than maxAgeDays
+function filterFresh(articles, maxAgeDays) {
+  const cutoff = Date.now() - (maxAgeDays * 24 * 60 * 60 * 1000);
+  const fresh = articles.filter(a => {
+    try { return new Date(a.publishedAt).getTime() > cutoff; }
+    catch(_) { return true; }
+  });
+  console.log(`  Freshness filter: ${articles.length} → ${fresh.length} articles (last ${maxAgeDays} days)`);
+  return fresh;
 }
 
 async function fetchFeed(feedUrl) {
@@ -172,7 +190,6 @@ function dedup(articles) {
   });
 }
 
-// ── Claude filter — single chunk call ──
 async function claudeFilterChunk(articles, mode, maxSelect) {
   if (!articles.length) return [];
   const summaries = articles.map((a, i) =>
@@ -193,13 +210,11 @@ async function claudeFilterChunk(articles, mode, maxSelect) {
     const text = (res.content?.[0]?.text || '').trim();
     console.log(`    Claude raw response (first 80 chars): ${text.substring(0, 80)}`);
 
-    // Try direct parse first
     try {
       const indices = JSON.parse(text);
       if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
     } catch(_) {}
 
-    // Fallback: extract any [...] block
     const match = text.match(/\[[\s\S]*?\]/);
     if (match) {
       const indices = JSON.parse(match[0]);
@@ -214,7 +229,6 @@ async function claudeFilterChunk(articles, mode, maxSelect) {
   }
 }
 
-// ── Claude filter — chunks large lists to stay under token limits ──
 async function claudeFilter(articles, mode = 'news') {
   if (!articles.length) return articles;
 
@@ -244,23 +258,28 @@ async function claudeFilter(articles, mode = 'news') {
   return claudeFilterChunk(deduped, mode, finalMax);
 }
 
-async function fetchLeagueStats(leagueId, seriesId) {
+async function fetchLeagueStats(leagueKey, seriesId) {
   if (!CRICKETDATA_API_KEY || !seriesId) return null;
   try {
     const base = `https://api.cricapi.com/v1`;
     const key  = `apikey=${CRICKETDATA_API_KEY}`;
-    const [standings, batting, bowling] = await Promise.allSettled([
-      httpsGet(`${base}/series_points_table?${key}&id=${seriesId}`),
-      httpsGet(`${base}/series_stats?${key}&id=${seriesId}&stats_type=mostRuns`),
-      httpsGet(`${base}/series_stats?${key}&id=${seriesId}&stats_type=mostWickets`),
-    ]);
+
+    const standingsRes = await httpsGet(`${base}/series_points_table?${key}&id=${seriesId}`);
+    console.log(`    ${leagueKey} standings: status=${standingsRes.status} items=${(standingsRes.data||[]).length}`);
+
+    const battingRes  = await httpsGet(`${base}/series_stats?${key}&id=${seriesId}&stats_type=mostRuns`);
+    console.log(`    ${leagueKey} batting:   status=${battingRes.status}   items=${(battingRes.data||[]).length}`);
+
+    const bowlingRes  = await httpsGet(`${base}/series_stats?${key}&id=${seriesId}&stats_type=mostWickets`);
+    console.log(`    ${leagueKey} bowling:   status=${bowlingRes.status}   items=${(bowlingRes.data||[]).length}`);
+
     return {
-      standings: standings.status === 'fulfilled' ? (standings.value.data || []).slice(0, 10) : [],
-      topBatters: batting.status === 'fulfilled'  ? (batting.value.data  || []).slice(0, 5)  : [],
-      topBowlers: bowling.status === 'fulfilled'  ? (bowling.value.data  || []).slice(0, 5)  : [],
+      standings:  (standingsRes.data || []).slice(0, 10),
+      topBatters: (battingRes.data   || []).slice(0, 5),
+      topBowlers: (bowlingRes.data   || []).slice(0, 5),
     };
   } catch(e) {
-    console.warn(`  ⚠ Stats fetch failed for ${leagueId}: ${e.message}`);
+    console.warn(`  ⚠ Stats fetch failed for ${leagueKey}: ${e.message}`);
     return null;
   }
 }
@@ -274,9 +293,12 @@ async function fetchAllStats() {
   const results = {};
   for (const [id, cfg] of Object.entries(LEAGUE_SERIES)) {
     if (!cfg.seriesId) { console.log(`  ℹ ${cfg.name}: no series ID`); continue; }
-    console.log(`  Fetching ${cfg.name}...`);
+    console.log(`  Fetching ${cfg.name} (${cfg.seriesId})...`);
     const data = await fetchLeagueStats(id, cfg.seriesId);
-    if (data) results[id] = data;
+    if (data) {
+      results[id] = data;
+      console.log(`  ✓ ${cfg.name}: ${data.standings.length} standings | ${data.topBatters.length} batters | ${data.topBowlers.length} bowlers`);
+    }
     await new Promise(r => setTimeout(r, 500));
   }
   return results;
@@ -314,12 +336,14 @@ async function main() {
   catch(e) { console.log('No existing articles.json — fresh start'); }
 
   console.log(`\nFetching news (${RSS_FEEDS.length} RSS feeds)...`);
-  const rawNews = dedup((await Promise.all(RSS_FEEDS.map(fetchFeed))).flat());
-  console.log(`  Raw: ${rawNews.length} articles`);
+  const rawNewsAll = dedup((await Promise.all(RSS_FEEDS.map(fetchFeed))).flat());
+  const rawNews = filterFresh(rawNewsAll, 7);
+  console.log(`  Raw after filter: ${rawNews.length} articles`);
 
   console.log(`Fetching culture (${CULTURE_FEEDS.length} RSS feeds)...`);
-  const rawCulture = dedup((await Promise.all(CULTURE_FEEDS.map(fetchFeed))).flat());
-  console.log(`  Raw: ${rawCulture.length} articles`);
+  const rawCultureAll = dedup((await Promise.all(CULTURE_FEEDS.map(fetchFeed))).flat());
+  const rawCulture = filterFresh(rawCultureAll, 30);
+  console.log(`  Raw after filter: ${rawCulture.length} articles`);
 
   if (rawNews.length < 5) {
     console.warn('⚠ Too few articles — keeping existing data');
