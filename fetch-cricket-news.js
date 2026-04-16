@@ -55,19 +55,20 @@ const CULTURE_QUERIES = [
   'cricket records statistics all time',
 ];
 
+// ── SERIES IDs from CricketData API ──
 const LEAGUE_SERIES = {
-  ipl:     { name: 'IPL',     seriesId: null },
-  bbl:     { name: 'BBL',     seriesId: null },
-  psl:     { name: 'PSL',     seriesId: null },
-  cpl:     { name: 'CPL',     seriesId: null },
-  hundred: { name: 'Hundred', seriesId: null },
-  sa20:    { name: 'SA20',    seriesId: null },
-  test:    { name: 'Tests',   seriesId: null },
-  t20wc:   { name: 'T20 WC',  seriesId: null },
-  ashes:   { name: 'Ashes',   seriesId: null },
-  wpl:     { name: 'WPL',     seriesId: null },
-  mlc:     { name: 'MLC',     seriesId: null },
-  odi:     { name: 'ODI WC',  seriesId: null },
+  ipl:     { name: 'IPL',         seriesId: 'd5a498c8-7596-4b93-8ab0-e0efc3345312' },
+  bbl:     { name: 'BBL',         seriesId: '4e2f50ed-ed84-46fc-bdcb-ace304b0da34' },
+  psl:     { name: 'PSL',         seriesId: '9aede005-627e-47d9-8cad-088c8f5585d7' },
+  cpl:     { name: 'CPL',         seriesId: 'd83eabfc-d381-4ea2-aa1d-9765506bdd9d' },
+  hundred: { name: 'The Hundred', seriesId: 'ac5127e7-663b-4666-83ca-38f5d6935228' },
+  sa20:    { name: 'SA20',        seriesId: 'a74cee46-9c63-4f2a-bb27-96bee995a45e' },
+  mlc:     { name: 'MLC',         seriesId: '5f750f13-3544-4f5e-aa4a-b5efdfbed824' },
+  test:    { name: 'Tests',       seriesId: null },
+  t20wc:   { name: 'T20 WC',      seriesId: null },
+  ashes:   { name: 'Ashes',       seriesId: null },
+  wpl:     { name: 'WPL',         seriesId: null },
+  odi:     { name: 'ODI WC',      seriesId: null },
 };
 
 function httpsGet(url) {
@@ -186,11 +187,11 @@ async function fetchAllStats() {
   console.log('Fetching league stats...');
   const results = {};
   for (const [id, cfg] of Object.entries(LEAGUE_SERIES)) {
-    if (!cfg.seriesId) { console.log(`  ℹ ${cfg.name}: no series ID yet`); continue; }
+    if (!cfg.seriesId) { console.log(`  ℹ ${cfg.name}: no series ID`); continue; }
     console.log(`  Fetching ${cfg.name}...`);
     const data = await fetchLeagueStats(id, cfg.seriesId);
     if (data) results[id] = data;
-    await new Promise(r => setTimeout(r, 300));
+    await new Promise(r => setTimeout(r, 500));
   }
   return results;
 }
@@ -266,6 +267,7 @@ async function main() {
   updateArchive(curatedNews);
 
   console.log('\n🏏 Pipeline complete!');
+  console.log(`   Articles: ${curatedNews.length} | Culture: ${curatedCulture.length} | Stats leagues: ${Object.keys(statsData).length}`);
 }
 
 main().catch(e => {
