@@ -1,58 +1,48 @@
 // fetch-cricket-news.js — MajesticWicket v2
 // Runs 4x daily via GitHub Actions
-// Fetches: news (NewsAPI + Claude) + stats (CricketData API) + archive
+// Fetches: news (RSS + Claude) + stats (CricketData API) + archive
 
 const https = require('https');
+const http  = require('http');
 const fs    = require('fs');
 
-const NEWS_API_KEY        = process.env.NEWS_API_KEY;
 const CLAUDE_API_KEY      = process.env.CLAUDE_API_KEY;
 const CRICKETDATA_API_KEY = process.env.CRICKETDATA_API_KEY;
 
-if (!NEWS_API_KEY || !CLAUDE_API_KEY) {
-  console.error('❌ Missing NEWS_API_KEY or CLAUDE_API_KEY');
+if (!CLAUDE_API_KEY) {
+  console.error('❌ Missing CLAUDE_API_KEY');
   process.exit(1);
 }
 
-const NEWS_QUERIES = [
-  'IPL Indian Premier League cricket 2025',
-  'Big Bash League BBL cricket',
-  'Pakistan Super League PSL cricket',
-  'Caribbean Premier League CPL cricket',
-  'The Hundred cricket England',
-  'SA20 cricket South Africa',
-  'Bangladesh Premier League BPL cricket',
-  'Lanka Premier League LPL cricket',
-  'Major League Cricket MLC USA',
-  'Women Premier League WPL cricket India',
-  'Test cricket series 2025',
-  'T20 World Cup cricket ICC',
-  'ODI cricket ICC',
-  'ICC World Test Championship',
-  'The Ashes England Australia cricket',
-  'cricket India vs England',
-  'cricket Australia vs India',
-  'cricket Pakistan vs New Zealand',
-  'cricket Virat Kohli',
-  'cricket Joe Root',
-  'cricket Steve Smith',
-  'cricket Babar Azam',
-  'cricket Ben Stokes',
-  'cricket Rohit Sharma',
-  'cricket women international 2025',
-  'cricket United States America growing',
-  'cricket history culture tradition',
-  'cricket transfer signing 2025',
-  'cricket match results today',
-  'cricket news latest',
+// ── RSS FEEDS — free, no API key, server-safe ──
+const RSS_FEEDS = [
+  // ESPNCricinfo
+  'https://www.espncricinfo.com/rss/content/story/feeds/0.xml',
+  // ICC Cricket
+  'https://www.icc-cricket.com/api/news/rss',
+  // CricTracker
+  'https://www.crictracker.com/feed/',
+  // The Roar Cricket (Australia)
+  'https://www.theroar.com.au/cricket/feed/',
+  // CricBuzz via Google News RSS (no auth needed)
+  'https://news.google.com/rss/search?q=cricket+IPL+2025&hl=en-IN&gl=IN&ceid=IN:en',
+  'https://news.google.com/rss/search?q=cricket+PSL+2026&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+test+match+2025&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+T20+world+cup&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+Big+Bash+BBL&hl=en&gl=AU&ceid=AU:en',
+  'https://news.google.com/rss/search?q=cricket+The+Hundred+2026&hl=en-GB&gl=GB&ceid=GB:en',
+  'https://news.google.com/rss/search?q=cricket+SA20+South+Africa&hl=en&gl=ZA&ceid=ZA:en',
+  'https://news.google.com/rss/search?q=cricket+Major+League+Cricket+MLC+USA&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=Virat+Kohli+cricket&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=Babar+Azam+cricket&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=Ben+Stokes+cricket&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+women+international+2025&hl=en&gl=US&ceid=US:en',
 ];
 
-const CULTURE_QUERIES = [
-  'cricket history origin traditions',
-  'cricket culture fans festival',
-  'cricket rules explained beginners',
-  'cricket greatest moments history',
-  'cricket records statistics all time',
+const CULTURE_FEEDS = [
+  'https://news.google.com/rss/search?q=cricket+history+culture+traditions&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+explained+beginners+rules&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+greatest+moments+records&hl=en&gl=US&ceid=US:en',
 ];
 
 // ── SERIES IDs from CricketData API ──
@@ -70,6 +60,82 @@ const LEAGUE_SERIES = {
   wpl:     { name: 'WPL',         seriesId: null },
   odi:     { name: 'ODI WC',      seriesId: null },
 };
+
+// ── HTTP/HTTPS fetch (follows redirects) ──
+function fetchUrl(url, redirectCount = 0) {
+  return new Promise((resolve, reject) => {
+    if (redirectCount > 5) return reject(new Error('Too many redirects'));
+    const lib = url.startsWith('https') ? https : http;
+    lib.get(url, { headers: { 'User-Agent': 'MajesticWicket/2.0 RSS Reader' } }, res => {
+      if ([301, 302, 307, 308].includes(res.statusCode) && res.headers.location) {
+        return fetchUrl(res.headers.location, redirectCount + 1).then(resolve).catch(reject);
+      }
+      let data = '';
+      res.on('data', c => data += c);
+      res.on('end', () => resolve(data));
+    }).on('error', reject);
+  });
+}
+
+// ── Parse RSS/Atom XML into article objects ──
+function parseRSS(xml, feedUrl) {
+  const articles = [];
+  // Handle both RSS <item> and Atom <entry>
+  const itemRegex = /<(item|entry)[\s>]([\s\S]*?)<\/(item|entry)>/gi;
+  let match;
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const block = match[2];
+    const get = (tag) => {
+      const m = block.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>`, 'i'))
+             || block.match(new RegExp(`<${tag}[^>]*>([^<]*)<\\/${tag}>`, 'i'));
+      return m ? m[1].trim() : '';
+    };
+    // Title
+    let title = get('title');
+    // URL — try <link>, <guid>, <id>
+    let url = get('link') || get('guid') || get('id');
+    // For Atom feeds, <link href="..."/>
+    if (!url) {
+      const linkHref = block.match(/<link[^>]+href=["']([^"']+)["']/i);
+      if (linkHref) url = linkHref[1];
+    }
+    // Description
+    const description = get('description') || get('summary') || get('content');
+    // Published date
+    const pubDate = get('pubDate') || get('published') || get('updated') || '';
+    // Source name from feed domain
+    const sourceName = feedUrl.includes('espncricinfo') ? 'ESPNcricinfo'
+                     : feedUrl.includes('icc-cricket')  ? 'ICC'
+                     : feedUrl.includes('crictracker')  ? 'CricTracker'
+                     : feedUrl.includes('theroar')      ? 'The Roar'
+                     : feedUrl.includes('google.com')   ? 'Google News'
+                     : new URL(feedUrl).hostname.replace('www.', '');
+
+    if (title && url && !title.includes('[Removed]')) {
+      articles.push({
+        title:       title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&#39;/g, "'").replace(/&quot;/g, '"'),
+        url:         url.trim(),
+        description: description.replace(/<[^>]+>/g, '').substring(0, 300),
+        publishedAt: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
+        source:      { name: sourceName },
+        urlToImage:  null,
+      });
+    }
+  }
+  return articles;
+}
+
+async function fetchFeed(feedUrl) {
+  try {
+    const xml = await fetchUrl(feedUrl);
+    const articles = parseRSS(xml, feedUrl);
+    console.log(`  ✓ ${new URL(feedUrl).hostname}: ${articles.length} items`);
+    return articles;
+  } catch(e) {
+    console.warn(`  ⚠ Feed failed (${feedUrl.substring(0, 60)}...): ${e.message}`);
+    return [];
+  }
+}
 
 function httpsGet(url) {
   return new Promise((resolve, reject) => {
@@ -109,33 +175,19 @@ function httpsPost(hostname, path, payload) {
   });
 }
 
-async function fetchQuery(query) {
-  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=en&sortBy=publishedAt&pageSize=5&apiKey=${NEWS_API_KEY}`;
-  try {
-    const data = await httpsGet(url);
-    return (data.articles || []).filter(a =>
-      a.title && a.url &&
-      a.title !== '[Removed]' &&
-      !a.title.toLowerCase().includes('[removed]')
-    );
-  } catch(e) {
-    console.warn(`  ⚠ Query failed: "${query}": ${e.message}`);
-    return [];
-  }
-}
-
 function dedup(articles) {
   const seen = new Set();
   return articles.filter(a => {
-    if (seen.has(a.url)) return false;
-    seen.add(a.url); return true;
+    const key = a.url.split('?')[0]; // strip query params for dedup
+    if (seen.has(key)) return false;
+    seen.add(key); return true;
   });
 }
 
 async function claudeFilter(articles, mode = 'news') {
   if (!articles.length) return articles;
   const summaries = articles.map((a, i) =>
-    `${i}. TITLE: ${a.title}\n   DESC: ${a.description || 'N/A'}\n   SOURCE: ${a.source?.name || '?'}`
+    `${i}. TITLE: ${a.title}\n   DESC: ${(a.description || 'N/A').substring(0, 150)}\n   SOURCE: ${a.source?.name || '?'}`
   ).join('\n\n');
 
   const system = mode === 'culture'
@@ -227,12 +279,12 @@ async function main() {
   try { existing = JSON.parse(fs.readFileSync('./articles.json', 'utf8')); }
   catch(e) { console.log('No existing articles.json — fresh start'); }
 
-  console.log(`\nFetching news (${NEWS_QUERIES.length} queries)...`);
-  const rawNews = dedup((await Promise.all(NEWS_QUERIES.map(fetchQuery))).flat());
+  console.log(`\nFetching news (${RSS_FEEDS.length} RSS feeds)...`);
+  const rawNews = dedup((await Promise.all(RSS_FEEDS.map(fetchFeed))).flat());
   console.log(`  Raw: ${rawNews.length} articles`);
 
-  console.log(`Fetching culture (${CULTURE_QUERIES.length} queries)...`);
-  const rawCulture = dedup((await Promise.all(CULTURE_QUERIES.map(fetchQuery))).flat());
+  console.log(`Fetching culture (${CULTURE_FEEDS.length} RSS feeds)...`);
+  const rawCulture = dedup((await Promise.all(CULTURE_FEEDS.map(fetchFeed))).flat());
   console.log(`  Raw: ${rawCulture.length} articles`);
 
   if (rawNews.length < 5) {
