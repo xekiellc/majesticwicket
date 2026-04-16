@@ -16,15 +16,8 @@ if (!CLAUDE_API_KEY) {
 
 // ── RSS FEEDS — free, no API key, server-safe ──
 const RSS_FEEDS = [
-  // ESPNCricinfo
   'https://www.espncricinfo.com/rss/content/story/feeds/0.xml',
-  // ICC Cricket
-  'https://www.icc-cricket.com/api/news/rss',
-  // CricTracker
   'https://www.crictracker.com/feed/',
-  // The Roar Cricket (Australia)
-  'https://www.theroar.com.au/cricket/feed/',
-  // CricBuzz via Google News RSS (no auth needed)
   'https://news.google.com/rss/search?q=cricket+IPL+2025&hl=en-IN&gl=IN&ceid=IN:en',
   'https://news.google.com/rss/search?q=cricket+PSL+2026&hl=en&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=cricket+test+match+2025&hl=en&gl=US&ceid=US:en',
@@ -37,6 +30,8 @@ const RSS_FEEDS = [
   'https://news.google.com/rss/search?q=Babar+Azam+cricket&hl=en&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=Ben+Stokes+cricket&hl=en&gl=US&ceid=US:en',
   'https://news.google.com/rss/search?q=cricket+women+international+2025&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+news+latest&hl=en&gl=US&ceid=US:en',
+  'https://news.google.com/rss/search?q=cricket+match+results&hl=en&gl=US&ceid=US:en',
 ];
 
 const CULTURE_FEEDS = [
@@ -61,7 +56,7 @@ const LEAGUE_SERIES = {
   odi:     { name: 'ODI WC',      seriesId: null },
 };
 
-// ── HTTP/HTTPS fetch (follows redirects) ──
+// ── HTTP/HTTPS fetch with redirect following ──
 function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
     if (redirectCount > 5) return reject(new Error('Too many redirects'));
@@ -80,7 +75,6 @@ function fetchUrl(url, redirectCount = 0) {
 // ── Parse RSS/Atom XML into article objects ──
 function parseRSS(xml, feedUrl) {
   const articles = [];
-  // Handle both RSS <item> and Atom <entry>
   const itemRegex = /<(item|entry)[\s>]([\s\S]*?)<\/(item|entry)>/gi;
   let match;
   while ((match = itemRegex.exec(xml)) !== null) {
@@ -90,20 +84,14 @@ function parseRSS(xml, feedUrl) {
              || block.match(new RegExp(`<${tag}[^>]*>([^<]*)<\\/${tag}>`, 'i'));
       return m ? m[1].trim() : '';
     };
-    // Title
     let title = get('title');
-    // URL — try <link>, <guid>, <id>
     let url = get('link') || get('guid') || get('id');
-    // For Atom feeds, <link href="..."/>
     if (!url) {
       const linkHref = block.match(/<link[^>]+href=["']([^"']+)["']/i);
       if (linkHref) url = linkHref[1];
     }
-    // Description
     const description = get('description') || get('summary') || get('content');
-    // Published date
     const pubDate = get('pubDate') || get('published') || get('updated') || '';
-    // Source name from feed domain
     const sourceName = feedUrl.includes('espncricinfo') ? 'ESPNcricinfo'
                      : feedUrl.includes('icc-cricket')  ? 'ICC'
                      : feedUrl.includes('crictracker')  ? 'CricTracker'
@@ -178,7 +166,7 @@ function httpsPost(hostname, path, payload) {
 function dedup(articles) {
   const seen = new Set();
   return articles.filter(a => {
-    const key = a.url.split('?')[0]; // strip query params for dedup
+    const key = a.url.split('?')[0];
     if (seen.has(key)) return false;
     seen.add(key); return true;
   });
@@ -191,8 +179,8 @@ async function claudeFilter(articles, mode = 'news') {
   ).join('\n\n');
 
   const system = mode === 'culture'
-    ? `You curate content for MajesticWicket.com. Select articles about cricket culture, history, traditions, player profiles, and cricket-explained content. Return ONLY a JSON array of index numbers. Maximum 20. Example: [0,2,5]`
-    : `You curate content for MajesticWicket.com, a global cricket hub. Select the most newsworthy cricket articles covering match results, player news, league updates, transfers. Remove duplicates and off-topic content. Return ONLY a JSON array of index numbers. Maximum 40. Example: [0,1,3]`;
+    ? `You curate content for MajesticWicket.com. Select articles about cricket culture, history, traditions, player profiles, and cricket-explained content. You MUST respond with ONLY a raw JSON array of index numbers and absolutely nothing else. No explanation, no preamble, no markdown. Just the array. Maximum 20. Example response: [0,2,5]`
+    : `You curate content for MajesticWicket.com, a global cricket hub. Select the most newsworthy cricket articles covering match results, player news, league updates, transfers. Remove duplicates and off-topic content. You MUST respond with ONLY a raw JSON array of index numbers and absolutely nothing else. No explanation, no preamble, no markdown. Just the array. Maximum 40. Example response: [0,1,3]`;
 
   try {
     const res = await httpsPost('api.anthropic.com', '/v1/messages', {
@@ -202,7 +190,9 @@ async function claudeFilter(articles, mode = 'news') {
       messages: [{ role: 'user', content: `Select from:\n\n${summaries}` }],
     });
     const text = res.content?.[0]?.text || '[]';
-    const indices = JSON.parse(text.replace(/```json|```/g, '').trim());
+    // Extract first [...] array found — handles any accidental preamble
+    const match = text.match(/\[[\d,\s]+\]/);
+    const indices = JSON.parse(match ? match[0] : '[]');
     return indices.map(i => articles[i]).filter(Boolean);
   } catch(e) {
     console.warn('  ⚠ Claude filter failed, using raw:', e.message);
