@@ -236,7 +236,7 @@ async function claudeFilter(articles, mode = 'news') {
   for (const chunk of chunks) {
     const selected = await claudeFilterChunk(chunk, mode, perChunk);
     chunkResults.push(...selected);
-    await new Promise(r => setTimeout(r, 300));
+    await new Promise(r => setTimeout(r, 1500));
   }
 
   console.log(`  Round 1: ${chunkResults.length} candidates — running final selection...`);
