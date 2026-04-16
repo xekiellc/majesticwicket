@@ -172,15 +172,16 @@ function dedup(articles) {
   });
 }
 
-async function claudeFilter(articles, mode = 'news') {
-  if (!articles.length) return articles;
+// ── Claude filter — chunks large lists to stay under token limits ──
+async function claudeFilterChunk(articles, mode, maxSelect) {
+  if (!articles.length) return [];
   const summaries = articles.map((a, i) =>
-    `${i}. TITLE: ${a.title}\n   DESC: ${(a.description || 'N/A').substring(0, 150)}\n   SOURCE: ${a.source?.name || '?'}`
+    `${i}. TITLE: ${a.title}\n   DESC: ${(a.description || 'N/A').substring(0, 100)}\n   SOURCE: ${a.source?.name || '?'}`
   ).join('\n\n');
 
   const system = mode === 'culture'
-    ? `You curate content for MajesticWicket.com. Select articles about cricket culture, history, traditions, player profiles, and cricket-explained content. You MUST respond with ONLY a raw JSON array of index numbers and absolutely nothing else. No explanation, no preamble, no markdown. Just the array. Maximum 20. Example response: [0,2,5]`
-    : `You curate content for MajesticWicket.com, a global cricket hub. Select the most newsworthy cricket articles covering match results, player news, league updates, transfers. Remove duplicates and off-topic content. You MUST respond with ONLY a raw JSON array of index numbers and absolutely nothing else. No explanation, no preamble, no markdown. Just the array. Maximum 40. Example response: [0,1,3]`;
+    ? `You curate content for MajesticWicket.com. Select articles about cricket culture, history, traditions, player profiles, and cricket-explained content. You MUST respond with ONLY a raw JSON array of index numbers and absolutely nothing else. No explanation, no preamble, no markdown. Just the array. Maximum ${maxSelect}. Example response: [0,2,5]`
+    : `You curate content for MajesticWicket.com, a global cricket hub. Select the most newsworthy cricket articles covering match results, player news, league updates, transfers. Remove duplicates and off-topic content. You MUST respond with ONLY a raw JSON array of index numbers and absolutely nothing else. No explanation, no preamble, no markdown. Just the array. Maximum ${maxSelect}. Example response: [0,1,3]`;
 
   try {
     const res = await httpsPost('api.anthropic.com', '/v1/messages', {
@@ -190,14 +191,46 @@ async function claudeFilter(articles, mode = 'news') {
       messages: [{ role: 'user', content: `Select from:\n\n${summaries}` }],
     });
     const text = res.content?.[0]?.text || '[]';
-    // Extract first [...] array found — handles any accidental preamble
     const match = text.match(/\[[\d,\s]+\]/);
     const indices = JSON.parse(match ? match[0] : '[]');
     return indices.map(i => articles[i]).filter(Boolean);
   } catch(e) {
-    console.warn('  ⚠ Claude filter failed, using raw:', e.message);
-    return articles.slice(0, mode === 'culture' ? 20 : 40);
+    console.warn(`  ⚠ Claude chunk failed: ${e.message}`);
+    return articles.slice(0, maxSelect);
   }
+}
+
+async function claudeFilter(articles, mode = 'news') {
+  if (!articles.length) return articles;
+
+  const CHUNK_SIZE = 150;  // safe token limit per call
+  const finalMax   = mode === 'news' ? 40 : 20;
+  const perChunk   = mode === 'news' ? 10 : 5;  // pick best N per chunk
+
+  if (articles.length <= CHUNK_SIZE) {
+    // Small enough — single call
+    return claudeFilterChunk(articles, mode, finalMax);
+  }
+
+  // Chunk into groups of CHUNK_SIZE, pick top perChunk from each
+  console.log(`  Chunking ${articles.length} articles into ${Math.ceil(articles.length / CHUNK_SIZE)} batches...`);
+  const chunks = [];
+  for (let i = 0; i < articles.length; i += CHUNK_SIZE) {
+    chunks.push(articles.slice(i, i + CHUNK_SIZE));
+  }
+
+  const chunkResults = [];
+  for (const chunk of chunks) {
+    const selected = await claudeFilterChunk(chunk, mode, perChunk);
+    chunkResults.push(...selected);
+    await new Promise(r => setTimeout(r, 300)); // avoid rate limiting
+  }
+
+  console.log(`  Round 1: ${chunkResults.length} candidates — running final selection...`);
+
+  // Final pass: pick best finalMax from all chunk winners
+  const deduped = dedup(chunkResults);
+  return claudeFilterChunk(deduped, mode, finalMax);
 }
 
 async function fetchLeagueStats(leagueId, seriesId) {
@@ -283,10 +316,9 @@ async function main() {
   }
 
   console.log('\nRunning Claude curation...');
-  const [curatedNews, curatedCulture] = await Promise.all([
-    claudeFilter(rawNews, 'news'),
-    claudeFilter(rawCulture, 'culture'),
-  ]);
+  // Run sequentially to avoid simultaneous large payloads
+  const curatedNews    = await claudeFilter(rawNews, 'news');
+  const curatedCulture = await claudeFilter(rawCulture, 'culture');
   console.log(`  News: ${curatedNews.length} | Culture: ${curatedCulture.length}`);
 
   const statsData = await fetchAllStats();
