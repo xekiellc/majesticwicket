@@ -17,26 +17,21 @@
   <link rel="manifest" href="/manifest.json" />
   <link rel="icon" href="/favicon.ico" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HP7C5BHBQJ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-HP7C5BHBQJ');
-  </script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-HP7C5BHBQJ');</script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <style>
-    :root{--g1:#061a0d;--g2:#0d3b1e;--g3:#1a5c32;--g4:#2d8a4e;--g5:#3daa62;--gold:#c9a84c;--gold-lt:#e8c97a;--gold-dk:#8a6f2e;--cream:#f5f0e8;--cream2:#e8e0d0;--white:#ffffff;--card:rgba(255,255,255,0.97);--text1:#111111;--text2:#444444;--text3:#777777;--border:rgba(201,168,76,0.18);--border2:rgba(255,255,255,0.08);--shadow-sm:0 2px 12px rgba(0,0,0,0.10);--shadow-md:0 4px 24px rgba(0,0,0,0.15);--shadow-lg:0 8px 40px rgba(0,0,0,0.22);--r:12px;}
+    :root{--g1:#061a0d;--g2:#0d3b1e;--g3:#1a5c32;--g4:#2d8a4e;--g5:#3daa62;--gold:#c9a84c;--gold-lt:#e8c97a;--gold-dk:#8a6f2e;--cream:#f5f0e8;--white:#ffffff;--card:rgba(255,255,255,0.97);--text1:#111111;--text2:#444444;--text3:#777777;--border:rgba(201,168,76,0.18);--border2:rgba(255,255,255,0.08);--shadow-sm:0 2px 12px rgba(0,0,0,0.10);--shadow-lg:0 8px 40px rgba(0,0,0,0.22);--r:12px;}
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
     html{scroll-behavior:smooth;}
     body{font-family:'DM Sans',sans-serif;background:var(--g1);color:var(--cream);min-height:100vh;overflow-x:hidden;}
-    body::before{content:'';position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(ellipse 80% 50% at 15% 15%,rgba(45,138,78,0.12) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 85% 85%,rgba(201,168,76,0.06) 0%,transparent 60%),repeating-linear-gradient(0deg,transparent,transparent 60px,rgba(255,255,255,0.008) 60px,rgba(255,255,255,0.008) 61px),repeating-linear-gradient(90deg,transparent,transparent 60px,rgba(255,255,255,0.005) 60px,rgba(255,255,255,0.005) 61px);}
+    body::before{content:'';position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(ellipse 80% 50% at 15% 15%,rgba(45,138,78,0.12) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 85% 85%,rgba(201,168,76,0.06) 0%,transparent 60%);}
     header{position:sticky;top:0;z-index:200;background:rgba(6,26,13,0.95);backdrop-filter:blur(16px);border-bottom:1px solid var(--border);}
     .header-inner{max-width:1440px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 2rem;height:68px;gap:1.5rem;}
     .logo{display:flex;align-items:center;gap:0.6rem;text-decoration:none;flex-shrink:0;cursor:pointer;}
     .logo-icon{font-size:1.75rem;line-height:1;}
-    .logo-text{font-family:'Playfair Display',serif;font-size:1.4rem;font-weight:700;color:var(--gold);letter-spacing:-0.01em;}
+    .logo-text{font-family:'Playfair Display',serif;font-size:1.4rem;font-weight:700;color:var(--gold);}
     .logo-text span{color:var(--white);}
     .header-nav{display:flex;gap:0.15rem;align-items:center;overflow-x:auto;scrollbar-width:none;}
     .header-nav::-webkit-scrollbar{display:none;}
@@ -51,7 +46,7 @@
     .hero-pill{display:inline-flex;align-items:center;gap:0.5rem;font-size:0.72rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--gold);border:1px solid var(--border);background:rgba(201,168,76,0.05);padding:0.35rem 1.1rem;border-radius:100px;margin-bottom:1.5rem;animation:fadeup 0.6s ease both;}
     .hero h1{font-family:'Playfair Display',serif;font-size:clamp(2.6rem,6vw,5rem);font-weight:900;line-height:1.04;color:var(--white);margin-bottom:0.6rem;animation:fadeup 0.6s 0.1s ease both;}
     .hero h1 em{font-style:italic;color:var(--gold);}
-    .hero-sub{font-family:'Playfair Display',serif;font-size:clamp(1rem,2.5vw,1.35rem);font-weight:700;font-style:italic;color:rgba(245,240,232,0.45);margin-bottom:1.75rem;letter-spacing:0.02em;animation:fadeup 0.6s 0.2s ease both;}
+    .hero-sub{font-family:'Playfair Display',serif;font-size:clamp(1rem,2.5vw,1.35rem);font-weight:700;font-style:italic;color:rgba(245,240,232,0.45);margin-bottom:1.75rem;animation:fadeup 0.6s 0.2s ease both;}
     .hero-stats{display:flex;justify-content:center;gap:3rem;flex-wrap:wrap;animation:fadeup 0.6s 0.3s ease both;}
     .hstat-num{font-family:'Playfair Display',serif;font-size:2rem;font-weight:700;color:var(--gold);line-height:1;}
     .hstat-lbl{font-size:0.68rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:rgba(245,240,232,0.38);margin-top:0.2rem;}
@@ -69,7 +64,7 @@
     .sec-title{font-family:'Playfair Display',serif;font-size:1.5rem;font-weight:700;color:var(--white);}
     .sec-meta{font-size:0.72rem;color:var(--text3);white-space:nowrap;}
     .chips{display:flex;gap:0.4rem;flex-wrap:wrap;margin-bottom:1.5rem;}
-    .chip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:100px;padding:0.3rem 0.85rem;font-size:0.72rem;font-weight:600;letter-spacing:0.04em;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
+    .chip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:100px;padding:0.3rem 0.85rem;font-size:0.72rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .chip:hover,.chip.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
     .news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:1.25rem;margin-bottom:2.5rem;}
     .ncard{background:var(--card);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--text1);transition:transform 0.2s,box-shadow 0.2s;}
@@ -90,18 +85,27 @@
     .ncard-featured .ncard-body{padding:2rem;justify-content:center;}
     .ncard-featured .ncard-title{font-size:1.45rem;-webkit-line-clamp:4;}
     .ncard-featured .ncard-desc{font-size:0.9rem;-webkit-line-clamp:3;}
-    .live-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;}
+    /* Live tab */
+    .live-layout{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:2rem;}
     .live-panel{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem;}
     .live-panel-title{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:700;color:var(--gold);margin-bottom:1.25rem;display:flex;align-items:center;gap:0.5rem;}
     .match-card{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.85rem 1.1rem;margin-bottom:0.6rem;}
-    .match-teams{font-size:0.88rem;font-weight:600;color:var(--cream);margin-bottom:0.25rem;}
-    .match-status{font-size:0.75rem;color:var(--gold-dk);line-height:1.4;}
-    .match-venue{font-size:0.68rem;color:var(--text3);margin-top:0.2rem;}
+    .match-teams{font-size:0.88rem;font-weight:600;color:var(--cream);margin-bottom:0.3rem;}
+    .match-score{font-size:0.78rem;color:var(--gold-lt);margin-bottom:0.2rem;line-height:1.5;}
+    .match-status{font-size:0.72rem;color:var(--gold-dk);}
+    .match-venue{font-size:0.65rem;color:var(--text3);margin-top:0.15rem;}
     .match-live-badge{display:inline-block;font-size:0.6rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:rgba(74,222,128,0.15);color:#4ade80;border:1px solid rgba(74,222,128,0.3);padding:0.1rem 0.45rem;border-radius:3px;margin-left:0.4rem;vertical-align:middle;}
-    .watch-card{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.85rem 1.1rem;margin-bottom:0.6rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;}
-    .watch-match{font-size:0.85rem;font-weight:600;color:var(--cream);}
-    .watch-channels{font-size:0.72rem;color:var(--text3);margin-top:0.2rem;}
-    .watch-date{font-size:0.72rem;color:var(--gold-dk);white-space:nowrap;}
+    /* US Guide */
+    .us-guide{background:linear-gradient(135deg,rgba(26,92,50,0.35),rgba(6,26,13,0.5));border:1px solid var(--border);border-radius:var(--r);padding:2rem 2.5rem;margin-bottom:2rem;}
+    .us-guide-title{font-family:'Playfair Display',serif;font-size:1.4rem;font-weight:700;color:var(--gold);margin-bottom:0.5rem;}
+    .us-guide-sub{font-size:0.85rem;color:rgba(245,240,232,0.6);margin-bottom:1.5rem;line-height:1.6;}
+    .platform-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.75rem;}
+    .platform-card{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.9rem 1.1rem;}
+    .platform-name{font-size:0.88rem;font-weight:700;color:var(--white);margin-bottom:0.2rem;}
+    .platform-detail{font-size:0.75rem;color:rgba(245,240,232,0.55);line-height:1.5;}
+    .platform-price{font-size:0.72rem;font-weight:700;color:var(--gold-dk);margin-top:0.3rem;}
+    .platform-covers{font-size:0.68rem;color:var(--text3);margin-top:0.15rem;}
+    /* Leagues */
     .league-selector{display:flex;gap:0.4rem;flex-wrap:wrap;margin-bottom:2rem;}
     .lchip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.4rem 1rem;font-size:0.75rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .lchip:hover,.lchip.active{background:var(--g3);border-color:var(--g4);color:var(--white);}
@@ -113,8 +117,10 @@
     .season-badge{display:inline-block;font-size:0.65rem;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;padding:0.18rem 0.55rem;border-radius:4px;margin-left:0.75rem;vertical-align:middle;}
     .season-live{background:rgba(74,222,128,0.15);color:#4ade80;border:1px solid rgba(74,222,128,0.3);}
     .season-off{background:rgba(201,168,76,0.1);color:var(--gold-dk);border:1px solid rgba(201,168,76,0.2);}
-    .stats-grid{display:grid;grid-template-columns:1fr;gap:1.25rem;margin-bottom:2rem;}
-    .stats-panel{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);overflow:hidden;}
+    /* Stats layout — full width standings + side-by-side player stats */
+    .league-stats-wrap{margin-bottom:2rem;}
+    .stats-panel{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);overflow:hidden;margin-bottom:1.25rem;}
+    .stats-player-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;margin-bottom:1.25rem;}
     .stats-panel-hdr{background:var(--g2);padding:0.75rem 1.1rem;font-size:0.72rem;font-weight:800;letter-spacing:0.1em;text-transform:uppercase;color:var(--gold);display:flex;align-items:center;gap:0.4rem;}
     .stats-table{width:100%;border-collapse:collapse;}
     .stats-table th{font-size:0.65rem;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;color:var(--text3);padding:0.5rem 0.8rem;text-align:left;border-bottom:1px solid var(--border2);background:rgba(0,0,0,0.15);}
@@ -127,6 +133,7 @@
     .stats-player{font-weight:600!important;color:var(--white)!important;}
     .stats-note{padding:1rem 1.1rem;font-size:0.78rem;color:var(--text3);line-height:1.5;}
     .league-news-title{font-family:'Playfair Display',serif;font-size:1.2rem;font-weight:700;color:var(--white);margin-bottom:1.25rem;}
+    /* Podcasts */
     .pod-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1.25rem;}
     .pod-card{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);padding:1.4rem;display:flex;flex-direction:column;gap:0.75rem;}
     .pod-top{display:flex;align-items:flex-start;gap:1rem;}
@@ -138,14 +145,16 @@
     .pod-link{font-size:0.7rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;padding:0.3rem 0.75rem;border-radius:6px;text-decoration:none;border:1px solid var(--border2);color:rgba(245,240,232,0.6);transition:all 0.18s;}
     .pod-link:hover{border-color:var(--gold);color:var(--gold);}
     .pod-link.spotify{background:rgba(30,215,96,0.1);border-color:rgba(30,215,96,0.3);color:#1ed760;}
-    .pod-link.spotify:hover{background:rgba(30,215,96,0.2);}
-    .archive-nav{display:flex;gap:0.4rem;flex-wrap:wrap;margin-bottom:1.75rem;}
-    .archive-date-btn{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.35rem 0.85rem;font-size:0.74rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
-    .archive-date-btn:hover,.archive-date-btn.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
+    /* Culture */
     .cricket101{background:linear-gradient(135deg,rgba(26,92,50,0.4),rgba(13,59,30,0.2));border:1px solid var(--border);border-radius:var(--r);padding:2rem 2.5rem;margin-bottom:2rem;display:grid;grid-template-columns:1fr auto;gap:2rem;align-items:center;}
     .c101-title{font-family:'Playfair Display',serif;font-size:1.3rem;font-weight:700;color:var(--gold);margin-bottom:0.75rem;}
     .c101-body{font-size:0.88rem;color:rgba(245,240,232,0.7);line-height:1.7;}
     .c101-icon{font-size:4rem;opacity:0.6;}
+    /* Archive */
+    .archive-nav{display:flex;gap:0.4rem;flex-wrap:wrap;margin-bottom:1.75rem;}
+    .archive-date-btn{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.35rem 0.85rem;font-size:0.74rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
+    .archive-date-btn:hover,.archive-date-btn.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
+    /* About/Contact */
     .about-wrap{max-width:800px;}
     .about-wrap h2{font-family:'Playfair Display',serif;font-size:2.2rem;font-weight:900;color:var(--gold);margin-bottom:1.25rem;}
     .about-wrap p{font-size:0.92rem;color:rgba(245,240,232,0.72);line-height:1.8;margin-bottom:1rem;}
@@ -158,6 +167,7 @@
     .form-row textarea{resize:vertical;min-height:110px;}
     .btn-submit{background:var(--gold);color:var(--g1);border:none;cursor:pointer;font-family:'DM Sans',sans-serif;font-size:0.82rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;padding:0.75rem 2.25rem;border-radius:8px;transition:background 0.18s;}
     .btn-submit:hover{background:var(--gold-lt);}
+    /* Skeletons */
     .skel-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:1.25rem;}
     .skel-card{background:rgba(255,255,255,0.03);border-radius:var(--r);overflow:hidden;}
     .skel-line{height:11px;border-radius:6px;margin-bottom:0.6rem;background:linear-gradient(90deg,rgba(255,255,255,0.04) 25%,rgba(255,255,255,0.08) 50%,rgba(255,255,255,0.04) 75%);background-size:200% 100%;animation:shimmer 1.6s infinite;}
@@ -174,8 +184,7 @@
     .footer-links a:hover{color:var(--gold);}
     .footer-email{font-size:0.78rem;color:rgba(245,240,232,0.3);margin-top:0.75rem;}
     .footer-email a{color:var(--gold-dk);text-decoration:none;}
-    .footer-email a:hover{color:var(--gold);}
-    @media(max-width:900px){.ncard-featured{grid-template-columns:1fr;max-height:none;}.ncard-featured .ncard-img{height:210px;}.live-grid{grid-template-columns:1fr;}.cricket101{grid-template-columns:1fr;}.c101-icon{display:none;}}
+    @media(max-width:900px){.ncard-featured{grid-template-columns:1fr;max-height:none;}.ncard-featured .ncard-img{height:210px;}.live-layout{grid-template-columns:1fr;}.stats-player-grid{grid-template-columns:1fr;}.cricket101{grid-template-columns:1fr;}.c101-icon{display:none;}}
     @media(max-width:600px){.header-inner{padding:0 1rem;}.main-wrap{padding:0 1rem 3rem;}.hero{padding:3rem 1rem 2rem;}.hero-stats{gap:1.5rem;}}
   </style>
 </head>
@@ -231,6 +240,7 @@
     <button class="tab-btn" onclick="showTab('contact')">✉ Contact</button>
   </div>
 
+  <!-- NEWS -->
   <div id="tab-news" class="tab-panel active">
     <div class="sec-hdr">
       <div class="sec-title">Latest Cricket News</div>
@@ -257,12 +267,13 @@
     </div>
   </div>
 
+  <!-- LIVE -->
   <div id="tab-live" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Live &amp; Recent Matches</div>
       <div class="sec-meta">Updated 4× daily</div>
     </div>
-    <div class="live-grid">
+    <div class="live-layout">
       <div class="live-panel">
         <div class="live-panel-title"><span>🔴</span> Recent Results</div>
         <div id="live-scores-container">
@@ -270,25 +281,62 @@
         </div>
       </div>
       <div class="live-panel">
-        <div class="live-panel-title"><span>📺</span> Where to Watch</div>
-        <div>
-          <div class="watch-card"><div><div class="watch-match">IPL 2026</div><div class="watch-channels">🇺🇸 Willow TV &nbsp;·&nbsp; 🇮🇳 JioCinema &nbsp;·&nbsp; 🌍 ICC.tv</div></div><div class="watch-date">Apr–Jun</div></div>
-          <div class="watch-card"><div><div class="watch-match">PSL 2026</div><div class="watch-channels">🇺🇸 Willow TV &nbsp;·&nbsp; 🇵🇰 ARY Digital &nbsp;·&nbsp; 🇬🇧 Sky Sports</div></div><div class="watch-date">Mar–May</div></div>
-          <div class="watch-card"><div><div class="watch-match">Test Cricket</div><div class="watch-channels">🇺🇸 Willow TV &nbsp;·&nbsp; 🇬🇧 Sky Sports &nbsp;·&nbsp; 🇮🇳 Hotstar</div></div><div class="watch-date">Year-round</div></div>
-          <div class="watch-card"><div><div class="watch-match">The Hundred 2026</div><div class="watch-channels">🇬🇧 BBC / Sky Sports &nbsp;·&nbsp; 🌍 ICC.tv</div></div><div class="watch-date">Jul–Aug</div></div>
-          <div class="watch-card"><div><div class="watch-match">CPL 2026</div><div class="watch-channels">🇺🇸 ESPN+ &nbsp;·&nbsp; 🌍 Flow Sports</div></div><div class="watch-date">Aug–Oct</div></div>
-          <p style="font-size:0.72rem;color:var(--text3);margin-top:1rem;line-height:1.5;">Viewing rights vary by region.</p>
+        <div class="live-panel-title"><span>📺</span> Watch Cricket in the US</div>
+        <div style="font-size:0.8rem;color:rgba(245,240,232,0.5);margin-bottom:1rem;">Cricket has never been easier to watch in America. Here's every option:</div>
+        <div class="platform-grid">
+          <div class="platform-card">
+            <div class="platform-name">🏏 Willow TV</div>
+            <div class="platform-detail">The dedicated cricket channel for the US. Official IPL broadcaster, ICC events, PSL, and more.</div>
+            <div class="platform-price">From $9.99/mo</div>
+            <div class="platform-covers">Via willow.tv, YuppTV, Prime Video, Fubo, YouTube TV Sports Plus, Sling Desi Flex</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">🎾 ESPN+</div>
+            <div class="platform-detail">Official home of Major League Cricket in the US. All MLC matches plus select international cricket.</div>
+            <div class="platform-price">$10.99/mo</div>
+            <div class="platform-covers">espn.com, ESPN app, Roku, Fire TV, Apple TV</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">📦 Amazon Prime + Willow</div>
+            <div class="platform-detail">Add Willow TV as a Prime Video channel. Great for existing Amazon subscribers.</div>
+            <div class="platform-price">$9.99/mo add-on</div>
+            <div class="platform-covers">Prime Video app on all devices</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">📡 Fubo TV</div>
+            <div class="platform-detail">Includes Willow TV in sports-focused streaming bundle. 7-day free trial available.</div>
+            <div class="platform-price">From $45.99/mo</div>
+            <div class="platform-covers">Web, Roku, Fire TV, Apple TV, smart TVs</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">🌐 Sling TV Desi Flex</div>
+            <div class="platform-detail">Best value — Willow TV plus 15 South Asian entertainment channels.</div>
+            <div class="platform-price">$10/mo</div>
+            <div class="platform-covers">Web, Roku, Fire TV, Apple TV, Android TV</div>
+          </div>
+          <div class="platform-card">
+            <div class="platform-name">🌍 ICC.tv</div>
+            <div class="platform-detail">Free streaming of ICC events in select territories. Always check for your region.</div>
+            <div class="platform-price">Free (select regions)</div>
+            <div class="platform-covers">icc-cricket.com, ICC app</div>
+          </div>
+        </div>
+        <div style="margin-top:1.25rem;padding:1rem;background:rgba(201,168,76,0.06);border:1px solid var(--border);border-radius:8px;">
+          <div style="font-size:0.8rem;font-weight:700;color:var(--gold);margin-bottom:0.4rem;">🇺🇸 Cricket is Growing in America</div>
+          <div style="font-size:0.75rem;color:rgba(245,240,232,0.6);line-height:1.6;">MLC Season 4 runs June 18 – July 18, 2026 on ESPN+. Ticket sales up 53% in 2025. Cricket comes to the Olympics at LA 2028. Over 250,000 Americans play cricket regularly. The US hosted 16 T20 World Cup matches in 2024 across Florida, New York, and Texas.</div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- LEAGUES -->
   <div id="tab-leagues" class="tab-panel">
     <div class="sec-hdr"><div class="sec-title">Leagues &amp; Competitions</div></div>
     <div class="league-selector" id="league-selector"></div>
     <div id="league-panels"></div>
   </div>
 
+  <!-- CULTURE -->
   <div id="tab-culture" class="tab-panel">
     <div class="sec-hdr"><div class="sec-title">Cricket Culture</div></div>
     <div class="cricket101">
@@ -307,6 +355,7 @@
     </div>
   </div>
 
+  <!-- VIDEOS -->
   <div id="tab-videos" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Cricket Videos</div>
@@ -317,6 +366,7 @@
     </div>
   </div>
 
+  <!-- PODCASTS -->
   <div id="tab-podcasts" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Cricket Podcasts</div>
@@ -326,6 +376,7 @@
     <div class="pod-grid" id="podcasts-container"></div>
   </div>
 
+  <!-- ARCHIVE -->
   <div id="tab-archive" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Article Archive</div>
@@ -337,19 +388,21 @@
     </div>
   </div>
 
+  <!-- ABOUT -->
   <div id="tab-about" class="tab-panel">
     <div class="about-wrap">
       <h2>About MajesticWicket</h2>
       <p>MajesticWicket is a global cricket hub built for fans everywhere — from the streets of Mumbai and Lahore to living rooms in London, Sydney, Bridgetown, and Columbus, Ohio.</p>
       <p>We cover every major league on the planet: IPL, BBL, PSL, CPL, The Hundred, SA20, MLC, and beyond. We follow every Test series, every T20 World Cup, every Ashes. If it's cricket, it's here — refreshed four times every day.</p>
-      <p>Our content pipeline pulls from the world's best cricket sources and uses AI curation to surface the stories that matter most. Standings are calculated from live match data and updated 4× daily so every league page always shows current results.</p>
+      <p>Our content pipeline pulls from the world's best cricket sources and uses AI curation to surface the stories that matter most. Standings and player stats are calculated from real match scorecard data and updated automatically every day.</p>
       <h3>Why "MajesticWicket"?</h3>
       <p>A wicket is the set of three stumps and two bails that stands at each end of the pitch. Knocking one down is the bowler's ultimate prize. It's the moment that changes everything. And yes — cricket is majestic.</p>
-      <h3>The US Cricket Opportunity</h3>
-      <p>Cricket is the fastest-growing sport in the United States. Major League Cricket launched in 2023. The ICC T20 World Cup came to American stadiums in 2024. MajesticWicket is here to be the home for global fans and introduce the game to curious American fans discovering it for the first time.</p>
+      <h3>Cricket in America</h3>
+      <p>Cricket is the fastest-growing sport in the United States. Major League Cricket launched in 2023 with $150M+ in investment. The T20 World Cup came to American stadiums in 2024. Cricket returns to the Olympics at Los Angeles 2028. MajesticWicket is here to be the home for global fans and the gateway for curious Americans discovering the game for the first time.</p>
     </div>
   </div>
 
+  <!-- CONTACT -->
   <div id="tab-contact" class="tab-panel">
     <div class="about-wrap">
       <h2>Contact Us</h2>
@@ -390,28 +443,28 @@ let allArticles=[],allCulture=[],statsData={},recentMatches=[],archiveData={},cu
 
 const LEAGUES=[
   {id:'ipl',name:'Indian Premier League',abbr:'IPL',region:'India',emoji:'🇮🇳',live:true,desc:'The world\'s richest T20 franchise league. 10 teams, explosive batting, global superstars. Season: March–June.'},
-  {id:'psl',name:'Pakistan Super League',abbr:'PSL',region:'Pakistan',emoji:'🇵🇰',live:true,desc:'Pakistan\'s premier T20 competition, showcasing the country\'s deep bowling talent alongside global stars. Season: March–May 2026.'},
-  {id:'bbl',name:'Big Bash League',abbr:'BBL',region:'Australia',emoji:'🇦🇺',live:false,desc:'Australia\'s summer T20 league — 8 city-based teams, massive crowds, played under the summer sun. Season: December–February.'},
-  {id:'cpl',name:'Caribbean Premier League',abbr:'CPL',region:'West Indies',emoji:'🏝',live:false,desc:'T20 cricket with a Caribbean carnival atmosphere. Flair, music, and some of the game\'s most exciting players. Season: August–October.'},
-  {id:'hundred',name:'The Hundred',abbr:'100-BALL',region:'England',emoji:'🏴󠁧󠁢󠁥󠁮󠁧󠁿',live:false,desc:'England\'s 100-ball format franchise league — fast, accessible, built to grow new audiences. Season: July–August.'},
+  {id:'psl',name:'Pakistan Super League',abbr:'PSL',region:'Pakistan',emoji:'🇵🇰',live:true,desc:'Pakistan\'s premier T20 competition. Season: March–May 2026.'},
+  {id:'bbl',name:'Big Bash League',abbr:'BBL',region:'Australia',emoji:'🇦🇺',live:false,desc:'Australia\'s summer T20 league — 8 city-based teams. Season: December–February.'},
+  {id:'cpl',name:'Caribbean Premier League',abbr:'CPL',region:'West Indies',emoji:'🏝',live:false,desc:'T20 cricket with a Caribbean carnival atmosphere. Season: August–October.'},
+  {id:'hundred',name:'The Hundred',abbr:'100-BALL',region:'England',emoji:'🏴󠁧󠁢󠁥󠁮󠁧󠁿',live:false,desc:'England\'s 100-ball format franchise league. Season: July–August.'},
   {id:'sa20',name:'SA20',abbr:'SA20',region:'South Africa',emoji:'🇿🇦',live:false,desc:'South Africa\'s IPL-linked franchise T20 league. Season: January–February.'},
-  {id:'test',name:'Test Cricket',abbr:'TESTS',region:'Global',emoji:'🌍',live:true,desc:'The pinnacle of the game. Five days, red ball, the ultimate examination of skill, patience, and character.'},
-  {id:'t20wc',name:'T20 World Cup',abbr:'T20 WC',region:'Global',emoji:'🏆',live:false,desc:'The ICC\'s premier T20 event held every two years. Next edition: 2026.'},
-  {id:'ashes',name:'The Ashes',abbr:'ASHES',region:'Eng / Aus',emoji:'🏺',live:false,desc:'Cricket\'s oldest and most fierce rivalry. England vs Australia, dating to 1882.'},
-  {id:'wpl',name:'Women\'s Premier League',abbr:'WPL',region:'India',emoji:'🏏',live:false,desc:'India\'s women\'s T20 franchise league — the fastest growing women\'s cricket competition in the world. Season: February–March.'},
-  {id:'mlc',name:'Major League Cricket',abbr:'MLC',region:'USA',emoji:'🇺🇸',live:false,desc:'American cricket\'s franchise future. Launched 2023. Season: July–August.'},
-  {id:'odi',name:'ODI World Cup',abbr:'ODI WC',region:'Global',emoji:'🥇',live:false,desc:'The 50-over World Cup, cricket\'s most prestigious team trophy. Held every four years by the ICC.'},
+  {id:'test',name:'Test Cricket',abbr:'TESTS',region:'Global',emoji:'🌍',live:true,desc:'The pinnacle of the game. Five days, red ball, the ultimate test of skill and character.'},
+  {id:'t20wc',name:'T20 World Cup',abbr:'T20 WC',region:'Global',emoji:'🏆',live:false,desc:'The ICC\'s premier T20 event held every two years.'},
+  {id:'ashes',name:'The Ashes',abbr:'ASHES',region:'Eng / Aus',emoji:'🏺',live:false,desc:'Cricket\'s oldest rivalry. England vs Australia, dating to 1882.'},
+  {id:'wpl',name:'Women\'s Premier League',abbr:'WPL',region:'India',emoji:'🏏',live:false,desc:'India\'s women\'s T20 franchise league. Season: February–March.'},
+  {id:'mlc',name:'Major League Cricket',abbr:'MLC',region:'USA',emoji:'🇺🇸',live:false,desc:'American cricket\'s franchise future. Season 4: June 18–July 18, 2026. On ESPN+.'},
+  {id:'odi',name:'ODI World Cup',abbr:'ODI WC',region:'Global',emoji:'🥇',live:false,desc:'The 50-over World Cup, cricket\'s most prestigious team trophy.'},
 ];
 
 const PODCASTS=[
-  {name:'Test Match Special',network:'BBC Radio · Global',emoji:'📻',desc:'The gold standard of cricket broadcasting. Live Test commentary, expert analysis, and the voices that generations of cricket fans grew up with.',spotify:'https://open.spotify.com/show/4OaFVWBTjJhZtfj9CpDXLk',apple:'https://podcasts.apple.com/gb/podcast/test-match-special/id325309042'},
-  {name:'Tailenders',network:'BBC / UK',emoji:'🎸',desc:'James Anderson, comedian Greg James, and Felix White. Humorous, personal, and genuinely brilliant.',spotify:'https://open.spotify.com/show/5D2wjZiHCAtXCNzRCfVeUu',apple:'https://podcasts.apple.com/gb/podcast/tailenders/id1441923738'},
-  {name:'Sky Sports Cricket Podcast',network:'Sky Sports · UK',emoji:'🎙',desc:'Nasser Hussain and Michael Atherton — two of England\'s greatest players and sharpest analysts.',spotify:'https://open.spotify.com/show/1M9LDxuqjKv7xY0kZeBBCN',apple:'https://podcasts.apple.com/gb/podcast/sky-sports-cricket-podcast/id525654156'},
-  {name:'The Final Word',network:'Independent · Global',emoji:'🌍',desc:'Adam Collins and Geoff Lemon travel the world following cricket. Sharp, literate, genuinely global perspective.',spotify:'https://open.spotify.com/show/1blt1BVIhBz0m4VNrQyFhR',apple:'https://podcasts.apple.com/au/podcast/the-final-word-cricket-podcast/id732001213'},
-  {name:'The Cricket Podcast',network:'Independent · Global',emoji:'🏏',desc:'Over 500 episodes covering every major story in world cricket with insight, analysis, and humor.',spotify:'https://open.spotify.com/show/6Q3RmFpRiZhCFWDGZGvJVS',apple:'https://podcasts.apple.com/gb/podcast/the-cricket-podcast/id939150843'},
-  {name:'ICC Review',network:'ICC · Global',emoji:'🏆',desc:'The official International Cricket Council podcast. Exclusive player interviews, tournament previews and reviews.',spotify:'https://open.spotify.com/show/3u9lLW3ZpOxnCUcjVPzmBG',apple:'https://podcasts.apple.com/us/podcast/icc-review/id1448287061'},
-  {name:'Wisden Cricket Weekly',network:'Wisden · UK',emoji:'📖',desc:'In-depth, thoughtful analysis from cricket\'s most trusted publication.',spotify:'https://open.spotify.com/show/4Kep7xaAlsegUBg9lxL1J0',apple:'https://podcasts.apple.com/gb/podcast/wisden-cricket-weekly/id1200780182'},
-  {name:'Fox Cricket Podcast',network:'Fox Sports · Australia',emoji:'🦊',desc:'Matthew Hayden, James Brayshaw, and Greg Blewett. Bold opinions, big laughs, unfiltered Australian cricket banter.',spotify:'https://open.spotify.com/show/4uDWTOeMuMjVKZ12MnRGxD',apple:'https://podcasts.apple.com/au/podcast/fox-cricket-podcast/id1434007773'},
+  {name:'Test Match Special',network:'BBC Radio · Global',emoji:'📻',desc:'The gold standard of cricket broadcasting. Live Test commentary, expert analysis.',spotify:'https://open.spotify.com/show/4OaFVWBTjJhZtfj9CpDXLk',apple:'https://podcasts.apple.com/gb/podcast/test-match-special/id325309042'},
+  {name:'Tailenders',network:'BBC / UK',emoji:'🎸',desc:'James Anderson, Greg James, and Felix White. Humorous, personal, and genuinely brilliant.',spotify:'https://open.spotify.com/show/5D2wjZiHCAtXCNzRCfVeUu',apple:'https://podcasts.apple.com/gb/podcast/tailenders/id1441923738'},
+  {name:'Sky Sports Cricket Podcast',network:'Sky Sports · UK',emoji:'🎙',desc:'Nasser Hussain and Michael Atherton. Tactical breakdowns, player insights.',spotify:'https://open.spotify.com/show/1M9LDxuqjKv7xY0kZeBBCN',apple:'https://podcasts.apple.com/gb/podcast/sky-sports-cricket-podcast/id525654156'},
+  {name:'The Final Word',network:'Independent · Global',emoji:'🌍',desc:'Adam Collins and Geoff Lemon. Sharp, literate, genuinely global perspective.',spotify:'https://open.spotify.com/show/1blt1BVIhBz0m4VNrQyFhR',apple:'https://podcasts.apple.com/au/podcast/the-final-word-cricket-podcast/id732001213'},
+  {name:'The Cricket Podcast',network:'Independent · Global',emoji:'🏏',desc:'500+ episodes covering every major story in world cricket.',spotify:'https://open.spotify.com/show/6Q3RmFpRiZhCFWDGZGvJVS',apple:'https://podcasts.apple.com/gb/podcast/the-cricket-podcast/id939150843'},
+  {name:'ICC Review',network:'ICC · Global',emoji:'🏆',desc:'Official ICC podcast. Exclusive player interviews, tournament previews.',spotify:'https://open.spotify.com/show/3u9lLW3ZpOxnCUcjVPzmBG',apple:'https://podcasts.apple.com/us/podcast/icc-review/id1448287061'},
+  {name:'Wisden Cricket Weekly',network:'Wisden · UK',emoji:'📖',desc:'In-depth analysis from cricket\'s most trusted publication.',spotify:'https://open.spotify.com/show/4Kep7xaAlsegUBg9lxL1J0',apple:'https://podcasts.apple.com/gb/podcast/wisden-cricket-weekly/id1200780182'},
+  {name:'Fox Cricket Podcast',network:'Fox Sports · Australia',emoji:'🦊',desc:'Matthew Hayden, James Brayshaw, and Greg Blewett. Bold Australian cricket banter.',spotify:'https://open.spotify.com/show/4uDWTOeMuMjVKZ12MnRGxD',apple:'https://podcasts.apple.com/au/podcast/fox-cricket-podcast/id1434007773'},
 ];
 
 function timeAgo(d){const s=Math.floor((Date.now()-new Date(d))/1000);if(s<60)return'just now';if(s<3600)return Math.floor(s/60)+'m ago';if(s<86400)return Math.floor(s/3600)+'h ago';return Math.floor(s/86400)+'d ago';}
@@ -420,7 +473,9 @@ function detectCat(t='',d=''){const x=(t+' '+d).toLowerCase();if(/ipl|indian pre
 
 function makeCard(a,featured=false){
   const cat=detectCat(a.title,a.description);
-  const img=a.urlToImage?`<img src="${a.urlToImage}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ncard-img-ph>🏏</div>'" />`:'<div class="ncard-img-ph">🏏</div>';
+  const img=a.urlToImage
+    ?`<img src="${a.urlToImage}" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.querySelector('.ncard-img-ph').style.display='flex'" /><div class="ncard-img-ph" style="display:none">🏏</div>`
+    :'<div class="ncard-img-ph">🏏</div>';
   return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}"><div class="ncard-img">${img}<span class="ncard-cat">${cat}</span></div><div class="ncard-body"><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
 }
 
@@ -456,7 +511,7 @@ function renderCulture(articles){
 function renderVideos(videos){
   const el=document.getElementById('videos-container');
   if(!videos||!videos.length){el.innerHTML='<div class="empty"><div class="eicon">▶</div><p>Video highlights loading from the pipeline...</p></div>';return;}
-  el.innerHTML=`<div class="video-grid">${videos.map(v=>`<a href="${v.url||'#'}" target="_blank" rel="noopener" class="vcard"><div class="vcard-thumb">${v.thumbnail?`<img src="${v.thumbnail}" alt="" loading="lazy" />`:'<div class="vcard-thumb-ph"></div>'}<div class="play-btn">▶</div></div><div class="vcard-body"><div class="vcard-title">${v.title||''}</div><div class="vcard-src">${v.channel||'Cricket'}</div></div></a>`).join('')}</div>`;
+  el.innerHTML=`<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.25rem;">${videos.map(v=>`<a href="${v.url||'#'}" target="_blank" rel="noopener" style="background:var(--card);border-radius:var(--r);overflow:hidden;text-decoration:none;display:block;"><div style="width:100%;aspect-ratio:16/9;background:var(--g2);position:relative;">${v.thumbnail?`<img src="${v.thumbnail}" alt="" style="width:100%;height:100%;object-fit:cover;" />`:'<div style="width:100%;height:100%;background:linear-gradient(135deg,var(--g3),var(--g1));display:flex;align-items:center;justify-content:center;font-size:2rem;opacity:0.3;">▶</div>'}</div><div style="padding:0.9rem 1.1rem;"><div style="font-family:Playfair Display,serif;font-size:0.92rem;font-weight:700;color:var(--text1);">${v.title||''}</div></div></a>`).join('')}</div>`;
 }
 
 function renderPodcasts(){
@@ -465,37 +520,47 @@ function renderPodcasts(){
 
 function renderRecentMatches(){
   const el=document.getElementById('live-scores-container');
-  if(!recentMatches.length){el.innerHTML='<div class="empty"><div class="eicon">🏏</div><p>Match data loading — updated 4× daily.</p></div>';return;}
+  if(!recentMatches.length){el.innerHTML='<div class="empty"><div class="eicon">🏏</div><p>Match data updates 4× daily.</p></div>';return;}
   const major=recentMatches.filter(m=>{
-    const sid=m.series_id||'';
-    const name=(m.name||'').toLowerCase();
-    return name.includes('indian premier')||name.includes('pakistan super')||name.includes('big bash')||name.includes('hundred')||name.includes('sa20')||name.includes('caribbean premier')||name.includes('major league cricket')||name.includes('test')||name.includes('odi')||name.includes('t20 international');
+    const n=(m.name||'').toLowerCase();
+    return n.includes('indian premier')||n.includes('pakistan super')||n.includes('big bash')||n.includes('hundred')||n.includes('sa20')||n.includes('caribbean premier')||n.includes('major league')||n.includes('test')||n.includes('t20 international')||n.includes('odi');
   }).slice(0,8);
   const list=major.length?major:recentMatches.slice(0,6);
   el.innerHTML=list.map(m=>{
     const isLive=m.matchStarted&&!m.matchEnded;
-    const score=(m.score||[]).map(s=>`${s.inning.replace(' Inning 1','').replace(' Inning 2','')}: ${s.r}/${s.w} (${s.o} ov)`).join(' | ');
-    return`<div class="match-card"><div class="match-teams">${(m.teams||[]).join(' vs ')}${isLive?'<span class="match-live-badge">Live</span>':''}</div><div class="match-status">${score||m.status||''}</div><div class="match-venue">${m.venue||''} · ${m.date||''}</div></div>`;
+    const scores=(m.score||[]).map(s=>`${s.inning.replace(' Inning 1','').replace(' Inning 2','')}: ${s.r}/${s.w} (${s.o} ov)`).join('<br>');
+    return`<div class="match-card"><div class="match-teams">${(m.teams||[]).join(' vs ')}${isLive?'<span class="match-live-badge">Live</span>':''}</div>${scores?`<div class="match-score">${scores}</div>`:''}<div class="match-status">${m.status||''}</div><div class="match-venue">${m.venue||''}</div></div>`;
   }).join('');
 }
 
 function renderStandings(league){
   const d=statsData[league.id];
   if(!d||!d.standings||!d.standings.length){
-    if(league.live){
-      return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table</div><div class="stats-note">Standings calculating from match results — updates with next pipeline run (4× daily).</div></div>`;
-    }
-    return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table</div><div class="stats-note">Season not yet started or no match data available. Check back when the ${league.name} season is live.</div></div>`;
+    if(league.live)return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table</div><div class="stats-note">Standings updating — refreshed 4× daily.</div></div>`;
+    return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table — ${league.name}</div><div class="stats-note">Season not yet started. Check back when the ${league.name} season goes live.</div></div>`;
   }
+  const label=d.seriesName?`🏆 Points Table — ${d.seriesName}`:'🏆 Points Table';
   const rows=d.standings.map((t,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${t.team}</td><td>${t.played}</td><td>${t.won}</td><td>${t.lost}</td><td>${t.nr||0}</td><td>${t.points}</td></tr>`).join('');
-  const label=d.standings.length&&d.seriesName?`🏆 Points Table — ${d.seriesName}`:'🏆 Points Table';
   return`<div class="stats-panel"><div class="stats-panel-hdr">${label}</div><table class="stats-table"><thead><tr><th>#</th><th>Team</th><th>P</th><th>W</th><th>L</th><th>NR</th><th>Pts</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+function renderPlayerStats(league){
+  const d=statsData[league.id];
+  const batters=d?.topBatters||[];
+  const bowlers=d?.topBowlers||[];
+  if(!batters.length&&!bowlers.length){
+    if(!league.live)return'';
+    return`<div class="stats-player-grid"><div class="stats-panel"><div class="stats-panel-hdr">🏏 Top Run Scorers</div><div class="stats-note">Player stats update nightly from match scorecards.</div></div><div class="stats-panel"><div class="stats-panel-hdr">🎯 Top Wicket Takers</div><div class="stats-note">Player stats update nightly from match scorecards.</div></div></div>`;
+  }
+  const bHtml=batters.length?`<table class="stats-table"><thead><tr><th>#</th><th>Player</th><th>Runs</th><th>Inns</th><th>Avg</th><th>SR</th></tr></thead><tbody>${batters.map((b,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${b.name}</td><td>${b.runs}</td><td>${b.innings}</td><td>${b.average}</td><td>${b.strikeRate}</td></tr>`).join('')}</tbody></table>`:`<div class="stats-note">Stats loading...</div>`;
+  const wHtml=bowlers.length?`<table class="stats-table"><thead><tr><th>#</th><th>Player</th><th>Wkts</th><th>Overs</th><th>Econ</th></tr></thead><tbody>${bowlers.map((b,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${b.name}</td><td>${b.wickets}</td><td>${b.overs}</td><td>${b.economy}</td></tr>`).join('')}</tbody></table>`:`<div class="stats-note">Stats loading...</div>`;
+  return`<div class="stats-player-grid"><div class="stats-panel"><div class="stats-panel-hdr">🏏 Top Run Scorers</div>${bHtml}</div><div class="stats-panel"><div class="stats-panel-hdr">🎯 Top Wicket Takers</div>${wHtml}</div></div>`;
 }
 
 function renderLeagueNews(league){
   const kw=[league.id,league.abbr,league.name.split(' ').slice(0,2).join(' ')];
   const matches=allArticles.filter(a=>{const txt=((a.title||'')+(a.description||'')).toLowerCase();return kw.some(k=>txt.includes(k.toLowerCase()));}).slice(0,6);
-  if(!matches.length)return'<div class="empty" style="grid-column:1/-1;padding:2rem;"><div class="eicon">🏏</div><p>No recent news for this league — check back after the next pipeline refresh.</p></div>';
+  if(!matches.length)return'<div class="empty" style="grid-column:1/-1;padding:2rem;"><div class="eicon">🏏</div><p>No recent news — check back after the next pipeline refresh.</p></div>';
   return matches.map(a=>makeCard(a)).join('');
 }
 
@@ -510,7 +575,14 @@ function renderLeagues(){
   const sel=document.getElementById('league-selector');
   const panels=document.getElementById('league-panels');
   sel.innerHTML=LEAGUES.map((l,i)=>`<button class="lchip${i===0?' active':''}" onclick="showLeague('${l.id}',this)">${l.emoji} ${l.abbr}${l.live?' 🟢':''}</button>`).join('');
-  panels.innerHTML=LEAGUES.map((l,i)=>`<div id="league-${l.id}" class="league-view${i===0?' active':''}"><div class="league-title">${l.emoji} ${l.name}<span class="season-badge ${l.live?'season-live':'season-off'}">${l.live?'In Season':'Off Season'}</span></div><div class="league-subtitle">${l.abbr} · ${l.region}</div><div class="league-desc">${l.desc}</div><div class="stats-grid">${renderStandings(l)}</div><div class="league-news-title">Latest ${l.name} News</div><div class="news-grid">${renderLeagueNews(l)}</div></div>`).join('');
+  panels.innerHTML=LEAGUES.map((l,i)=>`<div id="league-${l.id}" class="league-view${i===0?' active':''}">
+    <div class="league-title">${l.emoji} ${l.name}<span class="season-badge ${l.live?'season-live':'season-off'}">${l.live?'In Season':'Off Season'}</span></div>
+    <div class="league-subtitle">${l.abbr} · ${l.region}</div>
+    <div class="league-desc">${l.desc}</div>
+    <div class="league-stats-wrap">${renderStandings(l)}${renderPlayerStats(l)}</div>
+    <div class="league-news-title">Latest ${l.name} News</div>
+    <div class="news-grid">${renderLeagueNews(l)}</div>
+  </div>`).join('');
 }
 
 function renderArchive(){
@@ -554,7 +626,6 @@ async function loadData(){
     if(statsRes.status==='fulfilled'&&statsRes.value.ok){
       const sd=await statsRes.value.json();
       recentMatches=sd.recentMatches||[];
-      // statsData holds per-league standings keyed by league id
       statsData=sd;
     }
     if(archRes.status==='fulfilled'&&archRes.value.ok){archiveData=await archRes.value.json();}
