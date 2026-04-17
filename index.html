@@ -67,7 +67,7 @@
     .chip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:100px;padding:0.3rem 0.85rem;font-size:0.72rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .chip:hover,.chip.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
     .news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:1.25rem;margin-bottom:2.5rem;}
-    /* White card — for articles WITH images */
+    /* White card - articles WITH images */
     .ncard{background:var(--card);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--text1);transition:transform 0.2s,box-shadow 0.2s;}
     .ncard:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);}
     .ncard-img{width:100%;height:175px;overflow:hidden;background:linear-gradient(135deg,var(--g3),var(--g1));position:relative;flex-shrink:0;}
@@ -80,7 +80,7 @@
     .ncard-foot{display:flex;align-items:center;justify-content:space-between;gap:0.5rem;}
     .ncard-src{font-size:0.68rem;font-weight:700;color:var(--g4);text-transform:uppercase;letter-spacing:0.04em;}
     .ncard-time{font-size:0.68rem;color:var(--text3);}
-    /* Green card — for articles WITHOUT images */
+    /* Green card - articles WITHOUT images or failed images */
     .ncard-green{background:linear-gradient(135deg,var(--g2),var(--g3));border:1px solid rgba(45,138,78,0.3);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--cream);transition:transform 0.2s,box-shadow 0.2s;}
     .ncard-green:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:var(--gold);}
     .ncard-green .ncard-body{padding:1.4rem 1.5rem;flex:1;display:flex;flex-direction:column;}
@@ -90,7 +90,7 @@
     .ncard-green .ncard-foot{display:flex;align-items:center;justify-content:space-between;gap:0.5rem;border-top:1px solid rgba(255,255,255,0.07);padding-top:0.65rem;}
     .ncard-green .ncard-src{font-size:0.68rem;font-weight:700;color:var(--g5);text-transform:uppercase;letter-spacing:0.04em;}
     .ncard-green .ncard-time{font-size:0.68rem;color:rgba(245,240,232,0.35);}
-    /* Featured card */
+    /* Featured */
     .ncard-featured{grid-column:1/-1;display:grid;grid-template-columns:1.2fr 1fr;max-height:320px;}
     .ncard-featured .ncard-img{height:320px;border-radius:0;}
     .ncard-featured .ncard-body{padding:2rem;justify-content:center;}
@@ -480,11 +480,26 @@ function detectCat(t='',d=''){const x=(t+' '+d).toLowerCase();if(/ipl|indian pre
 
 function makeCard(a,featured=false){
   const cat=detectCat(a.title,a.description);
-  if(a.urlToImage){
-    const img=`<img src="${a.urlToImage}" alt="" loading="lazy" onerror="this.closest('.ncard-img').style.display='none'" />`;
-    return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}"><div class="ncard-img">${img}<span class="ncard-cat">${cat}</span></div><div class="ncard-body"><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
-  }
-  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${cat}</span><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
+  // Green card builder — used for no-image and failed-image articles
+  const greenCard=()=>`<a href="${a.url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${cat}</span><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
+  if(!a.urlToImage) return greenCard();
+  // White card with image — converts to green card on image load failure
+  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}" id="card-${Math.random().toString(36).slice(2)}">
+    <div class="ncard-img">
+      <img src="${a.urlToImage}" alt="" loading="lazy" onload="this.style.opacity=1" onerror="
+        var card=this.closest('a');
+        var data={url:'${(a.url||'').replace(/'/g,"\\'")}',title:'${(a.title||'').replace(/'/g,"\\'").replace(/\n/g,' ')}',desc:'${(a.description||'').replace(/'/g,"\\'").replace(/\n/g,' ')}',src:'${(a.source?.name||'Cricket News').replace(/'/g,"\\'")}',time:'${timeAgo(a.publishedAt)}',cat:'${cat}'};
+        card.className=card.className.replace('ncard','ncard-green');
+        card.innerHTML='<div class=\\'ncard-body\\'><span class=\\'ncard-cat-inline\\'>' + data.cat + '</span><div class=\\'ncard-title\\'>' + data.title + '</div><div class=\\'ncard-desc\\'>' + data.desc + '</div><div class=\\'ncard-foot\\'><span class=\\'ncard-src\\'>' + data.src + '</span><span class=\\'ncard-time\\'>' + data.time + '</span></div></div>';
+      " style="opacity:0;transition:opacity 0.3s;" />
+      <span class="ncard-cat">${cat}</span>
+    </div>
+    <div class="ncard-body">
+      <div class="ncard-title">${a.title||''}</div>
+      <div class="ncard-desc">${a.description||''}</div>
+      <div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div>
+    </div>
+  </a>`;
 }
 
 function showTab(name){
