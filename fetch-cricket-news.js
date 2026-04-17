@@ -1,4 +1,4 @@
-// fetch-cricket-news.js — MajesticWicket v4
+// fetch-cricket-news.js — MajesticWicket v5
 // Runs 4x daily via GitHub Actions
 // Stats (scorecards) run only at 2am UTC to conserve API hits
 
@@ -55,7 +55,7 @@ function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
     if (redirectCount > 5) return reject(new Error('Too many redirects'));
     const lib = url.startsWith('https') ? https : http;
-    lib.get(url, { headers: { 'User-Agent': 'MajesticWicket/4.0 RSS Reader' } }, res => {
+    lib.get(url, { headers: { 'User-Agent': 'MajesticWicket/5.0 RSS Reader' } }, res => {
       if ([301,302,307,308].includes(res.statusCode) && res.headers.location) {
         return fetchUrl(res.headers.location, redirectCount+1).then(resolve).catch(reject);
       }
@@ -125,7 +125,6 @@ function parseRSS(xml, feedUrl) {
       if (linkHref) url = linkHref[1];
     }
 
-    // Extract image from media tags or description
     let urlToImage = null;
     const mediaContent = block.match(/<media:content[^>]+url=["']([^"']+)["']/i);
     const mediaThumbs  = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
@@ -205,75 +204,72 @@ function dedup(articles) {
 }
 
 // ── Claude curation ──────────────────────────────────────────────────────────
+// Chunk size 100, titles only — keeps payload well under token limits
+// so Claude never returns empty content
 
 async function claudeFilterChunk(articles, mode, maxSelect) {
   if (!articles.length) return [];
-  const summaries = articles.map((a, i) =>
-    `${i}. TITLE: ${a.title}\n   DESC: ${(a.description||'N/A').substring(0,100)}\n   SOURCE: ${a.source?.name||'?'}`
-  ).join('\n\n');
+
+  // Titles only — small payload, reliable responses
+  const summaries = articles.map((a, i) => `${i}. ${a.title}`).join('\n');
 
   const system = mode === 'culture'
-    ? `You are a cricket content curator. Select the best articles about cricket culture, history, traditions, and player profiles. YOU MUST respond with ONLY a JSON array of integers. No text before or after. No explanation. No markdown. ONLY the array. Example of valid response: [0,2,5,8] — nothing else. Maximum ${maxSelect} items.`
-    : `You are a cricket news curator. Select the most newsworthy cricket articles. Remove duplicates and off-topic content. YOU MUST respond with ONLY a JSON array of integers. No text before or after. No explanation. No markdown. ONLY the array. Example of valid response: [0,1,3,7] — nothing else. Maximum ${maxSelect} items.`;
+    ? `You are a cricket content curator. Select the best articles about cricket culture, history, traditions, and player profiles from the numbered list. Respond with ONLY a JSON array of integers like [0,2,5]. No other text.`
+    : `You are a cricket news curator. Select the most newsworthy, diverse cricket articles from the numbered list. Avoid duplicates. Respond with ONLY a JSON array of integers like [0,1,3]. No other text.`;
 
-  for (let attempt = 1; attempt <= 3; attempt++) {
+  try {
+    const res = await httpsPost('api.anthropic.com', '/v1/messages', {
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 300,
+      system,
+      messages: [
+        { role: 'user', content: `Select up to ${maxSelect} best articles:\n\n${summaries}` },
+      ],
+    });
+
+    const text = (res.content?.[0]?.text || '').trim();
+    console.log(`    Claude (first 80 chars): ${text.substring(0,80)}`);
+
+    // Direct parse
     try {
-      const res = await httpsPost('api.anthropic.com', '/v1/messages', {
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 400,
-        system,
-        messages: [
-          { role: 'user', content: `Select best articles (respond with JSON array of integers only):\n\n${summaries}` },
-        ],
-      });
-      const text = (res.content?.[0]?.text || '').trim();
-      console.log(`    Claude attempt ${attempt} (first 80 chars): ${text.substring(0,80)}`);
+      const indices = JSON.parse(text);
+      if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
+    } catch(_) {}
 
-      // Try direct parse
+    // Extract array from response
+    const match = text.match(/\[[\d,\s]+\]/);
+    if (match) {
       try {
-        const indices = JSON.parse(text);
+        const indices = JSON.parse(match[0]);
         if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
       } catch(_) {}
-
-      // Try extracting array from response
-      const match = text.match(/\[[\d,\s]+\]/);
-      if (match) {
-        try {
-          const indices = JSON.parse(match[0]);
-          if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
-        } catch(_) {}
-      }
-
-      // Try extracting comma-separated numbers
-      const numMatch = text.match(/\d+(?:\s*,\s*\d+)+/);
-      if (numMatch) {
-        try {
-          const indices = numMatch[0].split(',').map(n => parseInt(n.trim())).filter(n => !isNaN(n));
-          if (indices.length > 0) return indices.map(i => articles[i]).filter(Boolean);
-        } catch(_) {}
-      }
-
-      if (attempt < 3) {
-        console.warn(`    ⚠ Attempt ${attempt} failed to parse — retrying in 1s...`);
-        await new Promise(r => setTimeout(r, 2000));
-      }
-    } catch(e) {
-      console.warn(`  ⚠ Claude chunk error (attempt ${attempt}): ${e.message}`);
-      if (attempt < 3) await new Promise(r => setTimeout(r, 2000));
     }
-  }
 
-  console.warn(`    ⚠ All attempts failed — using first ${maxSelect} raw`);
-  return articles.slice(0, maxSelect);
+    // Extract comma-separated numbers
+    const numMatch = text.match(/\d+(?:\s*,\s*\d+)+/);
+    if (numMatch) {
+      const indices = numMatch[0].split(',').map(n => parseInt(n.trim())).filter(n => !isNaN(n));
+      if (indices.length > 0) return indices.map(i => articles[i]).filter(Boolean);
+    }
+
+    console.warn(`    ⚠ Could not parse Claude response — using first ${maxSelect} raw`);
+    return articles.slice(0, maxSelect);
+
+  } catch(e) {
+    console.warn(`  ⚠ Claude chunk error: ${e.message}`);
+    return articles.slice(0, maxSelect);
+  }
 }
 
 async function claudeFilter(articles, mode = 'news') {
   if (!articles.length) return articles;
-  const CHUNK_SIZE = 150;
-  const finalMax = mode === 'news' ? 40 : 20;
-  const perChunk = mode === 'news' ? 10 : 5;
+  const CHUNK_SIZE = 100;
+  const finalMax   = mode === 'news' ? 40 : 20;
+  const perChunk   = mode === 'news' ? 10 : 5;
 
-  if (articles.length <= CHUNK_SIZE) return claudeFilterChunk(articles, mode, finalMax);
+  if (articles.length <= CHUNK_SIZE) {
+    return claudeFilterChunk(articles, mode, finalMax);
+  }
 
   console.log(`  Chunking ${articles.length} articles into ${Math.ceil(articles.length/CHUNK_SIZE)} batches...`);
   const chunks = [];
@@ -283,8 +279,9 @@ async function claudeFilter(articles, mode = 'news') {
   for (const chunk of chunks) {
     const selected = await claudeFilterChunk(chunk, mode, perChunk);
     chunkResults.push(...selected);
-    await new Promise(r => setTimeout(r, 3000));
+    await new Promise(r => setTimeout(r, 2000));
   }
+
   console.log(`  Round 1: ${chunkResults.length} candidates — final selection...`);
   return claudeFilterChunk(dedup(chunkResults), mode, finalMax);
 }
@@ -341,21 +338,18 @@ function tallyScorecard(scorecard, batters, bowlers) {
     for (const b of (innings.batting || [])) {
       const name = b.batsman?.name;
       if (!name) continue;
-      if (!batters[name]) batters[name] = { name, runs:0, balls:0, innings:0, fours:0, sixes:0 };
+      if (!batters[name]) batters[name] = { name, runs:0, balls:0, innings:0 };
       batters[name].runs   += b.r  || 0;
       batters[name].balls  += b.b  || 0;
-      batters[name].fours  += b['4s'] || 0;
-      batters[name].sixes  += b['6s'] || 0;
       batters[name].innings++;
     }
     for (const b of (innings.bowling || [])) {
       const name = b.bowler?.name;
       if (!name) continue;
-      if (!bowlers[name]) bowlers[name] = { name, wickets:0, runs:0, overs:0, matches:0 };
+      if (!bowlers[name]) bowlers[name] = { name, wickets:0, runs:0, overs:0 };
       bowlers[name].wickets += b.w || 0;
       bowlers[name].runs    += b.r || 0;
       bowlers[name].overs   += b.o || 0;
-      bowlers[name].matches++;
     }
   }
 }
@@ -365,8 +359,7 @@ async function fetchScorecardsForLeague(matchIds) {
   const bowlers = {};
   for (const id of matchIds) {
     try {
-      const url = `https://api.cricapi.com/v1/match_scorecard?apikey=${CRICKETDATA_API_KEY}&id=${id}`;
-      const res = await httpsGet(url);
+      const res = await httpsGet(`https://api.cricapi.com/v1/match_scorecard?apikey=${CRICKETDATA_API_KEY}&id=${id}`);
       if (res.status === 'success' && res.data?.scorecard) {
         tallyScorecard(res.data.scorecard, batters, bowlers);
         console.log(`    Scorecard ✓ ${res.data.name?.substring(0,50)}`);
@@ -376,26 +369,22 @@ async function fetchScorecardsForLeague(matchIds) {
       console.warn(`    ⚠ Scorecard failed for ${id}: ${e.message}`);
     }
   }
-  const topBatters = Object.values(batters)
-    .sort((a,b) => b.runs - a.runs)
-    .slice(0, 5)
-    .map(b => ({
-      name: b.name,
-      runs: b.runs,
-      innings: b.innings,
-      average: b.innings > 0 ? (b.runs / b.innings).toFixed(1) : '-',
-      strikeRate: b.balls > 0 ? ((b.runs / b.balls) * 100).toFixed(1) : '-',
-    }));
-  const topBowlers = Object.values(bowlers)
-    .sort((a,b) => b.wickets - a.wickets || a.runs - b.runs)
-    .slice(0, 5)
-    .map(b => ({
-      name: b.name,
-      wickets: b.wickets,
-      overs: b.overs.toFixed(1),
-      economy: b.overs > 0 ? (b.runs / b.overs).toFixed(1) : '-',
-    }));
-  return { topBatters, topBowlers };
+  return {
+    topBatters: Object.values(batters)
+      .sort((a,b) => b.runs - a.runs).slice(0,5)
+      .map(b => ({
+        name: b.name, runs: b.runs, innings: b.innings,
+        average: b.innings > 0 ? (b.runs/b.innings).toFixed(1) : '-',
+        strikeRate: b.balls > 0 ? ((b.runs/b.balls)*100).toFixed(1) : '-',
+      })),
+    topBowlers: Object.values(bowlers)
+      .sort((a,b) => b.wickets - a.wickets || a.runs - b.runs).slice(0,5)
+      .map(b => ({
+        name: b.name, wickets: b.wickets,
+        overs: b.overs.toFixed(1),
+        economy: b.overs > 0 ? (b.runs/b.overs).toFixed(1) : '-',
+      })),
+  };
 }
 
 // ── Stats fetch ──────────────────────────────────────────────────────────────
@@ -415,7 +404,6 @@ async function fetchAllStats(isStatsRun) {
       console.log(`  currentMatches: ${recentMatches.length} matches`);
     }
   } catch(e) { console.warn(`  ⚠ currentMatches failed: ${e.message}`); }
-
   await new Promise(r => setTimeout(r, 600));
 
   console.log('Fetching series standings...');
@@ -425,8 +413,7 @@ async function fetchAllStats(isStatsRun) {
 
   for (const [id, cfg] of Object.entries(LEAGUE_SERIES)) {
     try {
-      const url = `https://api.cricapi.com/v1/series_info?apikey=${CRICKETDATA_API_KEY}&id=${cfg.seriesId}`;
-      const res = await httpsGet(url);
+      const res = await httpsGet(`https://api.cricapi.com/v1/series_info?apikey=${CRICKETDATA_API_KEY}&id=${cfg.seriesId}`);
       if (res.status !== 'success' || !res.data) continue;
       const matchList  = res.data.matchList || [];
       const seriesInfo = res.data.info      || {};
@@ -437,29 +424,13 @@ async function fetchAllStats(isStatsRun) {
         console.log(`  Fetching scorecards for ${cfg.name}...`);
         const recentMatchIds = matchList
           .filter(m => m.matchEnded && !(m.name||'').toLowerCase().match(/qualifier|eliminator|final|semi/))
-          .slice(-5)
-          .map(m => m.id)
-          .filter(Boolean);
+          .slice(-5).map(m => m.id).filter(Boolean);
         const { topBatters, topBowlers } = await fetchScorecardsForLeague(recentMatchIds);
-        standings[id] = {
-          seriesName: seriesInfo.name || cfg.name,
-          startDate: seriesInfo.startdate || '',
-          endDate: seriesInfo.enddate || '',
-          standings: standingsData,
-          topBatters,
-          topBowlers,
-        };
+        standings[id] = { seriesName: seriesInfo.name||cfg.name, startDate: seriesInfo.startdate||'', endDate: seriesInfo.enddate||'', standings: standingsData, topBatters, topBowlers };
         console.log(`  ✓ ${cfg.name}: ${topBatters.length} top batters, ${topBowlers.length} top bowlers`);
       } else {
         const existing = existingStats[id] || {};
-        standings[id] = {
-          seriesName: seriesInfo.name || cfg.name,
-          startDate: seriesInfo.startdate || '',
-          endDate: seriesInfo.enddate || '',
-          standings: standingsData,
-          topBatters: existing.topBatters || [],
-          topBowlers: existing.topBowlers || [],
-        };
+        standings[id] = { seriesName: seriesInfo.name||cfg.name, startDate: seriesInfo.startdate||'', endDate: seriesInfo.enddate||'', standings: standingsData, topBatters: existing.topBatters||[], topBowlers: existing.topBowlers||[] };
       }
       await new Promise(r => setTimeout(r, 600));
     } catch(e) {
