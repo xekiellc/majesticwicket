@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T14:08:53.778Z",
+  "lastUpdated": "2026-04-17T14:20:26.039Z",
   "recentMatches": [
     {
       "id": "b481f31f-5ad7-4218-8a6e-16fc34d38048",
@@ -27,9 +27,9 @@
       ],
       "score": [
         {
-          "r": 9,
-          "w": 1,
-          "o": 1.1,
+          "r": 29,
+          "w": 2,
+          "o": 3.2,
           "inning": "kolkata knight riders Inning 1"
         }
       ],
@@ -246,9 +246,9 @@
       ],
       "score": [
         {
-          "r": 11,
-          "w": 0,
-          "o": 1,
+          "r": 28,
+          "w": 2,
+          "o": 3.1,
           "inning": "lahore qalandars Inning 1"
         }
       ],
@@ -488,7 +488,7 @@
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Lancashire opt to bowl",
+      "status": "Day 1: Rain stops play - Lancashire opt to bowl",
       "venue": "County Ground, Bristol",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -549,9 +549,9 @@
       ],
       "score": [
         {
-          "r": 165,
+          "r": 183,
           "w": 6,
-          "o": 42,
+          "o": 45,
           "inning": "middlesex Inning 1"
         }
       ],
@@ -701,7 +701,7 @@
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
       "name": "Warwickshire vs Essex, 12th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Essex opt to bowl",
+      "status": "Day 1: Rain stops play - Essex opt to bowl",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -724,8 +724,8 @@
       "score": [
         {
           "r": 113,
-          "w": 6,
-          "o": 35,
+          "w": 7,
+          "o": 35.4,
           "inning": "Warwickshire Inning 1"
         }
       ],
@@ -762,9 +762,9 @@
       ],
       "score": [
         {
-          "r": 169,
-          "w": 7,
-          "o": 43,
+          "r": 193,
+          "w": 8,
+          "o": 47,
           "inning": "hampshire Inning 1"
         }
       ],
