@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T14:00:23.756Z",
+  "lastUpdated": "2026-04-17T14:08:53.778Z",
   "recentMatches": [
     {
       "id": "b481f31f-5ad7-4218-8a6e-16fc34d38048",
@@ -25,12 +25,19 @@
           "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 9,
+          "w": 1,
+          "o": 1.1,
+          "inning": "kolkata knight riders Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -237,12 +244,19 @@
           "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 11,
+          "w": 0,
+          "o": 1,
+          "inning": "lahore qalandars Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -535,9 +549,9 @@
       ],
       "score": [
         {
-          "r": 164,
+          "r": 165,
           "w": 6,
-          "o": 41,
+          "o": 42,
           "inning": "middlesex Inning 1"
         }
       ],
@@ -709,9 +723,9 @@
       ],
       "score": [
         {
-          "r": 100,
+          "r": 113,
           "w": 6,
-          "o": 33,
+          "o": 35,
           "inning": "Warwickshire Inning 1"
         }
       ],
