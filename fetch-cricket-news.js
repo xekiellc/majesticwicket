@@ -49,7 +49,7 @@ const LEAGUE_SERIES = {
   mlc:     { name: 'MLC 2025',     seriesId: '5f750f13-3544-4f5e-aa4a-b5efdfbed824', live: false },
 };
 
-// ── HTTP helpers ────────────────────────────────────────────────────────────
+// ── HTTP helpers ─────────────────────────────────────────────────────────────
 
 function fetchUrl(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
@@ -104,7 +104,7 @@ function httpsPost(hostname, path, payload) {
   });
 }
 
-// ── RSS parsing ─────────────────────────────────────────────────────────────
+// ── RSS parsing ──────────────────────────────────────────────────────────────
 
 function parseRSS(xml, feedUrl) {
   const articles = [];
@@ -125,18 +125,17 @@ function parseRSS(xml, feedUrl) {
       if (linkHref) url = linkHref[1];
     }
 
-    // Extract image from media:content, enclosure, or og tags
+    // Extract image from media tags or description
     let urlToImage = null;
     const mediaContent = block.match(/<media:content[^>]+url=["']([^"']+)["']/i);
-    const enclosure    = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]*type=["']image/i);
     const mediaThumbs  = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
+    const enclosure    = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]*type=["']image/i);
     if (mediaContent) urlToImage = mediaContent[1];
     else if (mediaThumbs) urlToImage = mediaThumbs[1];
     else if (enclosure)   urlToImage = enclosure[1];
 
     const rawDesc = get('description') || get('summary') || get('content');
 
-    // Also try extracting image from description HTML
     if (!urlToImage) {
       const imgInDesc = rawDesc.match(/<img[^>]+src=["']([^"']+)["']/i);
       if (imgInDesc && !imgInDesc[1].includes('icon') && !imgInDesc[1].includes('logo')) {
@@ -205,42 +204,67 @@ function dedup(articles) {
   });
 }
 
-// ── Claude curation ─────────────────────────────────────────────────────────
+// ── Claude curation ──────────────────────────────────────────────────────────
 
 async function claudeFilterChunk(articles, mode, maxSelect) {
   if (!articles.length) return [];
-  const summaries = articles.map((a,i) =>
+  const summaries = articles.map((a, i) =>
     `${i}. TITLE: ${a.title}\n   DESC: ${(a.description||'N/A').substring(0,100)}\n   SOURCE: ${a.source?.name||'?'}`
   ).join('\n\n');
 
   const system = mode === 'culture'
-    ? `You curate content for MajesticWicket.com. Select articles about cricket culture, history, traditions, player profiles, and cricket-explained content. Respond with ONLY a JSON array of integer index numbers. No words, no explanation, no markdown fences. Just the raw array. Maximum ${maxSelect}. Example: [0,2,5]`
-    : `You curate content for MajesticWicket.com, a global cricket hub. Select the most newsworthy cricket articles covering match results, player news, league updates, transfers. Remove duplicates and off-topic content. Respond with ONLY a JSON array of integer index numbers. No words, no explanation, no markdown fences. Just the raw array. Maximum ${maxSelect}. Example: [0,1,3]`;
+    ? `You are a cricket content curator. Select the best articles about cricket culture, history, traditions, and player profiles. YOU MUST respond with ONLY a JSON array of integers. No text before or after. No explanation. No markdown. ONLY the array. Example of valid response: [0,2,5,8] — nothing else. Maximum ${maxSelect} items.`
+    : `You are a cricket news curator. Select the most newsworthy cricket articles. Remove duplicates and off-topic content. YOU MUST respond with ONLY a JSON array of integers. No text before or after. No explanation. No markdown. ONLY the array. Example of valid response: [0,1,3,7] — nothing else. Maximum ${maxSelect} items.`;
 
-  try {
-    const res = await httpsPost('api.anthropic.com', '/v1/messages', {
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 800,
-      system,
-      messages: [{ role: 'user', content: `Select best articles from this list:\n\n${summaries}` }],
-    });
-    const text = (res.content?.[0]?.text || '').trim();
-    console.log(`    Claude response (first 80 chars): ${text.substring(0,80)}`);
+  for (let attempt = 1; attempt <= 3; attempt++) {
     try {
-      const indices = JSON.parse(text);
-      if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
-    } catch(_) {}
-    const m = text.match(/\[[\s\S]*?\]/);
-    if (m) {
-      const indices = JSON.parse(m[0]);
-      if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
+      const res = await httpsPost('api.anthropic.com', '/v1/messages', {
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 400,
+        system,
+        messages: [
+          { role: 'user', content: `Select best articles (respond with JSON array of integers only):\n\n${summaries}` },
+        ],
+      });
+      const text = (res.content?.[0]?.text || '').trim();
+      console.log(`    Claude attempt ${attempt} (first 80 chars): ${text.substring(0,80)}`);
+
+      // Try direct parse
+      try {
+        const indices = JSON.parse(text);
+        if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
+      } catch(_) {}
+
+      // Try extracting array from response
+      const match = text.match(/\[[\d,\s]+\]/);
+      if (match) {
+        try {
+          const indices = JSON.parse(match[0]);
+          if (Array.isArray(indices)) return indices.map(i => articles[i]).filter(Boolean);
+        } catch(_) {}
+      }
+
+      // Try extracting comma-separated numbers
+      const numMatch = text.match(/\d+(?:\s*,\s*\d+)+/);
+      if (numMatch) {
+        try {
+          const indices = numMatch[0].split(',').map(n => parseInt(n.trim())).filter(n => !isNaN(n));
+          if (indices.length > 0) return indices.map(i => articles[i]).filter(Boolean);
+        } catch(_) {}
+      }
+
+      if (attempt < 3) {
+        console.warn(`    ⚠ Attempt ${attempt} failed to parse — retrying in 1s...`);
+        await new Promise(r => setTimeout(r, 1000));
+      }
+    } catch(e) {
+      console.warn(`  ⚠ Claude chunk error (attempt ${attempt}): ${e.message}`);
+      if (attempt < 3) await new Promise(r => setTimeout(r, 1000));
     }
-    console.warn(`    ⚠ Could not parse — using first ${maxSelect} raw`);
-    return articles.slice(0, maxSelect);
-  } catch(e) {
-    console.warn(`  ⚠ Claude chunk failed: ${e.message}`);
-    return articles.slice(0, maxSelect);
   }
+
+  console.warn(`    ⚠ All attempts failed — using first ${maxSelect} raw`);
+  return articles.slice(0, maxSelect);
 }
 
 async function claudeFilter(articles, mode = 'news') {
@@ -265,7 +289,7 @@ async function claudeFilter(articles, mode = 'news') {
   return claudeFilterChunk(dedup(chunkResults), mode, finalMax);
 }
 
-// ── Standings from series_info ──────────────────────────────────────────────
+// ── Standings calculator ─────────────────────────────────────────────────────
 
 function calculateStandings(matchList) {
   const teams = {};
@@ -310,14 +334,14 @@ function calculateStandings(matchList) {
     .map(t => ({ team:t.team, played:t.played, won:t.won, lost:t.lost, nr:t.nr, points:t.points }));
 }
 
-// ── Top stats from scorecards ───────────────────────────────────────────────
+// ── Scorecard stats ──────────────────────────────────────────────────────────
 
 function tallyScorecard(scorecard, batters, bowlers) {
   for (const innings of scorecard) {
     for (const b of (innings.batting || [])) {
       const name = b.batsman?.name;
       if (!name) continue;
-      if (!batters[name]) batters[name] = { name, team:'', runs:0, balls:0, innings:0, fours:0, sixes:0 };
+      if (!batters[name]) batters[name] = { name, runs:0, balls:0, innings:0, fours:0, sixes:0 };
       batters[name].runs   += b.r  || 0;
       batters[name].balls  += b.b  || 0;
       batters[name].fours  += b['4s'] || 0;
@@ -327,7 +351,7 @@ function tallyScorecard(scorecard, batters, bowlers) {
     for (const b of (innings.bowling || [])) {
       const name = b.bowler?.name;
       if (!name) continue;
-      if (!bowlers[name]) bowlers[name] = { name, team:'', wickets:0, runs:0, overs:0, matches:0 };
+      if (!bowlers[name]) bowlers[name] = { name, wickets:0, runs:0, overs:0, matches:0 };
       bowlers[name].wickets += b.w || 0;
       bowlers[name].runs    += b.r || 0;
       bowlers[name].overs   += b.o || 0;
@@ -374,7 +398,7 @@ async function fetchScorecardsForLeague(matchIds) {
   return { topBatters, topBowlers };
 }
 
-// ── Full stats fetch ────────────────────────────────────────────────────────
+// ── Stats fetch ──────────────────────────────────────────────────────────────
 
 async function fetchAllStats(isStatsRun) {
   if (!CRICKETDATA_API_KEY) {
@@ -396,7 +420,6 @@ async function fetchAllStats(isStatsRun) {
 
   console.log('Fetching series standings...');
   const standings = {};
-  // Load existing stats to preserve scorecard data on non-stats runs
   let existingStats = {};
   try { existingStats = JSON.parse(fs.readFileSync('./stats.json','utf8')); } catch(e) {}
 
@@ -410,16 +433,13 @@ async function fetchAllStats(isStatsRun) {
       const standingsData = calculateStandings(matchList);
       console.log(`  ✓ ${cfg.name}: ${standingsData.length} teams`);
 
-      // Only re-fetch scorecards on 2am stats run and for live leagues
       if (isStatsRun && cfg.live) {
         console.log(`  Fetching scorecards for ${cfg.name}...`);
-        // Get last 5 completed league matches
         const recentMatchIds = matchList
           .filter(m => m.matchEnded && !(m.name||'').toLowerCase().match(/qualifier|eliminator|final|semi/))
           .slice(-5)
           .map(m => m.id)
           .filter(Boolean);
-
         const { topBatters, topBowlers } = await fetchScorecardsForLeague(recentMatchIds);
         standings[id] = {
           seriesName: seriesInfo.name || cfg.name,
@@ -431,7 +451,6 @@ async function fetchAllStats(isStatsRun) {
         };
         console.log(`  ✓ ${cfg.name}: ${topBatters.length} top batters, ${topBowlers.length} top bowlers`);
       } else {
-        // Preserve existing scorecard stats, just update standings
         const existing = existingStats[id] || {};
         standings[id] = {
           seriesName: seriesInfo.name || cfg.name,
@@ -450,7 +469,7 @@ async function fetchAllStats(isStatsRun) {
   return { standings, recentMatches };
 }
 
-// ── Archive ─────────────────────────────────────────────────────────────────
+// ── Archive ──────────────────────────────────────────────────────────────────
 
 function updateArchive(newArticles) {
   let archive = {};
@@ -475,7 +494,6 @@ async function main() {
   console.log('🏏 MajesticWicket pipeline starting...');
   console.log('   Time:', new Date().toISOString());
 
-  // Only fetch scorecards at 2am UTC (hour 2) to conserve API hits
   const hour = new Date().getUTCHours();
   const isStatsRun = (hour === 2);
   console.log(`   Stats run (scorecards): ${isStatsRun ? 'YES' : 'NO (standings only)'}`);
