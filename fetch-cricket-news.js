@@ -255,11 +255,11 @@ async function claudeFilterChunk(articles, mode, maxSelect) {
 
       if (attempt < 3) {
         console.warn(`    ⚠ Attempt ${attempt} failed to parse — retrying in 1s...`);
-        await new Promise(r => setTimeout(r, 1000));
+        await new Promise(r => setTimeout(r, 2000));
       }
     } catch(e) {
       console.warn(`  ⚠ Claude chunk error (attempt ${attempt}): ${e.message}`);
-      if (attempt < 3) await new Promise(r => setTimeout(r, 1000));
+      if (attempt < 3) await new Promise(r => setTimeout(r, 2000));
     }
   }
 
@@ -283,7 +283,7 @@ async function claudeFilter(articles, mode = 'news') {
   for (const chunk of chunks) {
     const selected = await claudeFilterChunk(chunk, mode, perChunk);
     chunkResults.push(...selected);
-    await new Promise(r => setTimeout(r, 1500));
+    await new Promise(r => setTimeout(r, 3000));
   }
   console.log(`  Round 1: ${chunkResults.length} candidates — final selection...`);
   return claudeFilterChunk(dedup(chunkResults), mode, finalMax);
