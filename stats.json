@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T12:50:41.319Z",
+  "lastUpdated": "2026-04-17T13:33:16.406Z",
   "recentMatches": [
     {
       "id": "6289a2c9-75ee-49e1-9b83-ad7df53dcc21",
@@ -410,7 +410,7 @@
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Lancashire opt to bowl",
+      "status": "Day 1: 2nd Session - Lancashire opt to bowl",
       "venue": "County Ground, Bristol",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -432,9 +432,9 @@
       ],
       "score": [
         {
-          "r": 80,
-          "w": 2,
-          "o": 28.1,
+          "r": 94,
+          "w": 4,
+          "o": 35,
           "inning": "Gloucestershire Inning 1"
         }
       ],
@@ -449,7 +449,7 @@
       "id": "dd4af4b7-ee1c-4a2d-9b23-a0cdd6d0e196",
       "name": "Northamptonshire vs Middlesex, 9th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Middlesex opt to bat",
+      "status": "Day 1: 2nd Session - Middlesex opt to bat",
       "venue": "County Ground, Northampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -471,9 +471,9 @@
       ],
       "score": [
         {
-          "r": 106,
+          "r": 140,
           "w": 4,
-          "o": 26,
+          "o": 33,
           "inning": "middlesex Inning 1"
         }
       ],
@@ -623,7 +623,7 @@
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
       "name": "Warwickshire vs Essex, 12th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 1st Session - Essex opt to bowl",
+      "status": "Day 1: 2nd Session - Essex opt to bowl",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -645,9 +645,9 @@
       ],
       "score": [
         {
-          "r": 65,
-          "w": 4,
-          "o": 23.4,
+          "r": 100,
+          "w": 6,
+          "o": 33,
           "inning": "Warwickshire Inning 1"
         }
       ],
@@ -662,7 +662,7 @@
       "id": "f8bfa7bd-2e42-4d04-8133-6c28fb98fc40",
       "name": "Hampshire vs Somerset, 11th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Hampshire opt to bat",
+      "status": "Day 1: 2nd Session - Hampshire opt to bat",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -684,9 +684,9 @@
       ],
       "score": [
         {
-          "r": 112,
-          "w": 4,
-          "o": 29,
+          "r": 126,
+          "w": 7,
+          "o": 35,
           "inning": "hampshire Inning 1"
         }
       ],
