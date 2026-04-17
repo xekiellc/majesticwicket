@@ -39,6 +39,9 @@ const CULTURE_FEEDS = [
   'https://news.google.com/rss/search?q=cricket+greatest+moments+records&hl=en&gl=US&ceid=US:en',
 ];
 
+// Sources that block hotlinking — always use green card (no image)
+const HOTLINK_BLOCKED = ['espncricinfo.com'];
+
 const LEAGUE_SERIES = {
   ipl:     { name: 'IPL 2026',     seriesId: '87c62aac-bc3c-4738-ab93-19da0690488f', live: true  },
   psl:     { name: 'PSL 2026',     seriesId: '9aede005-627e-47d9-8cad-088c8f5585d7', live: true  },
@@ -108,6 +111,7 @@ function httpsPost(hostname, path, payload) {
 
 function parseRSS(xml, feedUrl) {
   const articles = [];
+  const isHotlinkBlocked = HOTLINK_BLOCKED.some(h => feedUrl.includes(h));
   const itemRegex = /<(item|entry)[\s>]([\s\S]*?)<\/(item|entry)>/gi;
   let match;
   while ((match = itemRegex.exec(xml)) !== null) {
@@ -125,17 +129,21 @@ function parseRSS(xml, feedUrl) {
       if (linkHref) url = linkHref[1];
     }
 
+    // Only extract images from sources that don't block hotlinking
     let urlToImage = null;
-    const mediaContent = block.match(/<media:content[^>]+url=["']([^"']+)["']/i);
-    const mediaThumbs  = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
-    const enclosure    = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]*type=["']image/i);
-    if (mediaContent) urlToImage = mediaContent[1];
-    else if (mediaThumbs) urlToImage = mediaThumbs[1];
-    else if (enclosure)   urlToImage = enclosure[1];
+    if (!isHotlinkBlocked) {
+      const mediaContent = block.match(/<media:content[^>]+url=["']([^"']+)["']/i);
+      const mediaThumbs  = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i);
+      const enclosure    = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]*type=["']image/i);
+      if (mediaContent) urlToImage = mediaContent[1];
+      else if (mediaThumbs) urlToImage = mediaThumbs[1];
+      else if (enclosure)   urlToImage = enclosure[1];
+    }
 
     const rawDesc = get('description') || get('summary') || get('content');
 
-    if (!urlToImage) {
+    // Only extract images from description if source allows hotlinking
+    if (!urlToImage && !isHotlinkBlocked) {
       const imgInDesc = rawDesc.match(/<img[^>]+src=["']([^"']+)["']/i);
       if (imgInDesc && !imgInDesc[1].includes('icon') && !imgInDesc[1].includes('logo')) {
         urlToImage = imgInDesc[1];
@@ -204,13 +212,10 @@ function dedup(articles) {
 }
 
 // ── Claude curation ──────────────────────────────────────────────────────────
-// Chunk size 100, titles only — keeps payload well under token limits
-// so Claude never returns empty content
 
 async function claudeFilterChunk(articles, mode, maxSelect) {
   if (!articles.length) return [];
 
-  // Titles only — small payload, reliable responses
   const summaries = articles.map((a, i) => `${i}. ${a.title}`).join('\n');
 
   const system = mode === 'culture'
@@ -252,7 +257,7 @@ async function claudeFilterChunk(articles, mode, maxSelect) {
       if (indices.length > 0) return indices.map(i => articles[i]).filter(Boolean);
     }
 
-    console.warn(`    ⚠ Could not parse Claude response — using first ${maxSelect} raw`);
+    console.warn(`    ⚠ Could not parse — using first ${maxSelect} raw`);
     return articles.slice(0, maxSelect);
 
   } catch(e) {
@@ -426,11 +431,25 @@ async function fetchAllStats(isStatsRun) {
           .filter(m => m.matchEnded && !(m.name||'').toLowerCase().match(/qualifier|eliminator|final|semi/))
           .slice(-5).map(m => m.id).filter(Boolean);
         const { topBatters, topBowlers } = await fetchScorecardsForLeague(recentMatchIds);
-        standings[id] = { seriesName: seriesInfo.name||cfg.name, startDate: seriesInfo.startdate||'', endDate: seriesInfo.enddate||'', standings: standingsData, topBatters, topBowlers };
+        standings[id] = {
+          seriesName: seriesInfo.name||cfg.name,
+          startDate: seriesInfo.startdate||'',
+          endDate: seriesInfo.enddate||'',
+          standings: standingsData,
+          topBatters,
+          topBowlers,
+        };
         console.log(`  ✓ ${cfg.name}: ${topBatters.length} top batters, ${topBowlers.length} top bowlers`);
       } else {
         const existing = existingStats[id] || {};
-        standings[id] = { seriesName: seriesInfo.name||cfg.name, startDate: seriesInfo.startdate||'', endDate: seriesInfo.enddate||'', standings: standingsData, topBatters: existing.topBatters||[], topBowlers: existing.topBowlers||[] };
+        standings[id] = {
+          seriesName: seriesInfo.name||cfg.name,
+          startDate: seriesInfo.startdate||'',
+          endDate: seriesInfo.enddate||'',
+          standings: standingsData,
+          topBatters: existing.topBatters||[],
+          topBowlers: existing.topBowlers||[],
+        };
       }
       await new Promise(r => setTimeout(r, 600));
     } catch(e) {
