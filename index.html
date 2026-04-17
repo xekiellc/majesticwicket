@@ -71,9 +71,9 @@
     .ncard{background:var(--card);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--text1);transition:transform 0.2s,box-shadow 0.2s;}
     .ncard:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);}
     .ncard-img{width:100%;height:175px;overflow:hidden;background:linear-gradient(135deg,var(--g3),var(--g1));position:relative;flex-shrink:0;}
-    .ncard-img img{width:100%;height:100%;object-fit:cover;transition:transform 0.4s;}
+    .ncard-img img{width:100%;height:100%;object-fit:cover;transition:opacity 0.3s;}
     .ncard:hover .ncard-img img{transform:scale(1.05);}
-    .ncard-cat{position:absolute;top:0.6rem;left:0.6rem;font-size:0.62rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:var(--gold);color:var(--g1);padding:0.22rem 0.55rem;border-radius:4px;}
+    .ncard-cat{position:absolute;top:0.6rem;left:0.6rem;font-size:0.62rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:var(--gold);color:var(--g1);padding:0.22rem 0.55rem;border-radius:4px;z-index:2;}
     .ncard-body{padding:1rem 1.2rem 1.2rem;flex:1;display:flex;flex-direction:column;}
     .ncard-title{font-family:'Playfair Display',serif;font-size:0.98rem;font-weight:700;line-height:1.35;color:var(--text1);margin-bottom:0.45rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
     .ncard-desc{font-size:0.8rem;color:var(--text2);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;flex:1;margin-bottom:0.7rem;}
@@ -478,20 +478,23 @@ function timeAgo(d){const s=Math.floor((Date.now()-new Date(d))/1000);if(s<60)re
 function fmtDate(d){return new Date(d).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});}
 function detectCat(t='',d=''){const x=(t+' '+d).toLowerCase();if(/ipl|indian premier/.test(x))return'IPL';if(/bbl|big bash/.test(x))return'BBL';if(/psl|pakistan super/.test(x))return'PSL';if(/cpl|caribbean premier/.test(x))return'CPL';if(/hundred/.test(x))return'The Hundred';if(/ashes/.test(x))return'Ashes';if(/test match|test cricket|\btest\b/.test(x))return'Test';if(/t20|twenty20/.test(x))return'T20';if(/\bodi\b|one.?day/.test(x))return'ODI';if(/women|wpl|wwt20/.test(x))return"Women's";if(/world cup/.test(x))return'World Cup';if(/sa20/.test(x))return'SA20';if(/mlc|major league cricket/.test(x))return'MLC';return'Cricket';}
 
+// Pre-encode article data for safe inline use
+function esc(s){return(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'\\"').replace(/\n/g,' ').replace(/\r/g,'');}
+
+function makeGreenCard(a,featured,cat){
+  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${cat}</span><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
+}
+
 function makeCard(a,featured=false){
   const cat=detectCat(a.title,a.description);
-  // Green card builder — used for no-image and failed-image articles
-  const greenCard=()=>`<a href="${a.url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${cat}</span><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
-  if(!a.urlToImage) return greenCard();
-  // White card with image — converts to green card on image load failure
-  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}" id="card-${Math.random().toString(36).slice(2)}">
+  if(!a.urlToImage) return makeGreenCard(a,featured,cat);
+  // Use a JS-driven image check — if naturalWidth is 0 after load, treat as broken
+  const uid='c'+Math.random().toString(36).slice(2,8);
+  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}" id="${uid}">
     <div class="ncard-img">
-      <img src="${a.urlToImage}" alt="" loading="lazy" onload="this.style.opacity=1" onerror="
-        var card=this.closest('a');
-        var data={url:'${(a.url||'').replace(/'/g,"\\'")}',title:'${(a.title||'').replace(/'/g,"\\'").replace(/\n/g,' ')}',desc:'${(a.description||'').replace(/'/g,"\\'").replace(/\n/g,' ')}',src:'${(a.source?.name||'Cricket News').replace(/'/g,"\\'")}',time:'${timeAgo(a.publishedAt)}',cat:'${cat}'};
-        card.className=card.className.replace('ncard','ncard-green');
-        card.innerHTML='<div class=\\'ncard-body\\'><span class=\\'ncard-cat-inline\\'>' + data.cat + '</span><div class=\\'ncard-title\\'>' + data.title + '</div><div class=\\'ncard-desc\\'>' + data.desc + '</div><div class=\\'ncard-foot\\'><span class=\\'ncard-src\\'>' + data.src + '</span><span class=\\'ncard-time\\'>' + data.time + '</span></div></div>';
-      " style="opacity:0;transition:opacity 0.3s;" />
+      <img src="${a.urlToImage}" alt="" loading="lazy"
+        onload="if(this.naturalWidth<2){var c=document.getElementById('${uid}');if(c){c.outerHTML='${esc(makeGreenCard(a,featured,cat))}';}}"
+        onerror="var c=document.getElementById('${uid}');if(c){c.outerHTML='${esc(makeGreenCard(a,featured,cat))};'}" />
       <span class="ncard-cat">${cat}</span>
     </div>
     <div class="ncard-body">
