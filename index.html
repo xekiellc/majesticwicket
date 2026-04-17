@@ -67,12 +67,12 @@
     .chip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:100px;padding:0.3rem 0.85rem;font-size:0.72rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .chip:hover,.chip.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
     .news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:1.25rem;margin-bottom:2.5rem;}
+    /* White card — for articles WITH images */
     .ncard{background:var(--card);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--text1);transition:transform 0.2s,box-shadow 0.2s;}
     .ncard:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);}
     .ncard-img{width:100%;height:175px;overflow:hidden;background:linear-gradient(135deg,var(--g3),var(--g1));position:relative;flex-shrink:0;}
     .ncard-img img{width:100%;height:100%;object-fit:cover;transition:transform 0.4s;}
     .ncard:hover .ncard-img img{transform:scale(1.05);}
-    .ncard-img-ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2.5rem;opacity:0.2;}
     .ncard-cat{position:absolute;top:0.6rem;left:0.6rem;font-size:0.62rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:var(--gold);color:var(--g1);padding:0.22rem 0.55rem;border-radius:4px;}
     .ncard-body{padding:1rem 1.2rem 1.2rem;flex:1;display:flex;flex-direction:column;}
     .ncard-title{font-family:'Playfair Display',serif;font-size:0.98rem;font-weight:700;line-height:1.35;color:var(--text1);margin-bottom:0.45rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
@@ -80,6 +80,17 @@
     .ncard-foot{display:flex;align-items:center;justify-content:space-between;gap:0.5rem;}
     .ncard-src{font-size:0.68rem;font-weight:700;color:var(--g4);text-transform:uppercase;letter-spacing:0.04em;}
     .ncard-time{font-size:0.68rem;color:var(--text3);}
+    /* Green card — for articles WITHOUT images */
+    .ncard-green{background:linear-gradient(135deg,var(--g2),var(--g3));border:1px solid rgba(45,138,78,0.3);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--cream);transition:transform 0.2s,box-shadow 0.2s;}
+    .ncard-green:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:var(--gold);}
+    .ncard-green .ncard-body{padding:1.4rem 1.5rem;flex:1;display:flex;flex-direction:column;}
+    .ncard-green .ncard-cat-inline{display:inline-block;font-size:0.62rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:var(--gold);color:var(--g1);padding:0.22rem 0.55rem;border-radius:4px;margin-bottom:0.75rem;}
+    .ncard-green .ncard-title{font-family:'Playfair Display',serif;font-size:0.98rem;font-weight:700;line-height:1.4;color:var(--white);margin-bottom:0.5rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+    .ncard-green .ncard-desc{font-size:0.8rem;color:rgba(245,240,232,0.65);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;flex:1;margin-bottom:0.75rem;}
+    .ncard-green .ncard-foot{display:flex;align-items:center;justify-content:space-between;gap:0.5rem;border-top:1px solid rgba(255,255,255,0.07);padding-top:0.65rem;}
+    .ncard-green .ncard-src{font-size:0.68rem;font-weight:700;color:var(--g5);text-transform:uppercase;letter-spacing:0.04em;}
+    .ncard-green .ncard-time{font-size:0.68rem;color:rgba(245,240,232,0.35);}
+    /* Featured card */
     .ncard-featured{grid-column:1/-1;display:grid;grid-template-columns:1.2fr 1fr;max-height:320px;}
     .ncard-featured .ncard-img{height:320px;border-radius:0;}
     .ncard-featured .ncard-body{padding:2rem;justify-content:center;}
@@ -96,9 +107,6 @@
     .match-venue{font-size:0.65rem;color:var(--text3);margin-top:0.15rem;}
     .match-live-badge{display:inline-block;font-size:0.6rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:rgba(74,222,128,0.15);color:#4ade80;border:1px solid rgba(74,222,128,0.3);padding:0.1rem 0.45rem;border-radius:3px;margin-left:0.4rem;vertical-align:middle;}
     /* US Guide */
-    .us-guide{background:linear-gradient(135deg,rgba(26,92,50,0.35),rgba(6,26,13,0.5));border:1px solid var(--border);border-radius:var(--r);padding:2rem 2.5rem;margin-bottom:2rem;}
-    .us-guide-title{font-family:'Playfair Display',serif;font-size:1.4rem;font-weight:700;color:var(--gold);margin-bottom:0.5rem;}
-    .us-guide-sub{font-size:0.85rem;color:rgba(245,240,232,0.6);margin-bottom:1.5rem;line-height:1.6;}
     .platform-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.75rem;}
     .platform-card{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.9rem 1.1rem;}
     .platform-name{font-size:0.88rem;font-weight:700;color:var(--white);margin-bottom:0.2rem;}
@@ -117,7 +125,6 @@
     .season-badge{display:inline-block;font-size:0.65rem;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;padding:0.18rem 0.55rem;border-radius:4px;margin-left:0.75rem;vertical-align:middle;}
     .season-live{background:rgba(74,222,128,0.15);color:#4ade80;border:1px solid rgba(74,222,128,0.3);}
     .season-off{background:rgba(201,168,76,0.1);color:var(--gold-dk);border:1px solid rgba(201,168,76,0.2);}
-    /* Stats layout — full width standings + side-by-side player stats */
     .league-stats-wrap{margin-bottom:2rem;}
     .stats-panel{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);overflow:hidden;margin-bottom:1.25rem;}
     .stats-player-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;margin-bottom:1.25rem;}
@@ -323,7 +330,7 @@
         </div>
         <div style="margin-top:1.25rem;padding:1rem;background:rgba(201,168,76,0.06);border:1px solid var(--border);border-radius:8px;">
           <div style="font-size:0.8rem;font-weight:700;color:var(--gold);margin-bottom:0.4rem;">🇺🇸 Cricket is Growing in America</div>
-          <div style="font-size:0.75rem;color:rgba(245,240,232,0.6);line-height:1.6;">MLC Season 4 runs June 18 – July 18, 2026 on ESPN+. Ticket sales up 53% in 2025. Cricket comes to the Olympics at LA 2028. Over 250,000 Americans play cricket regularly. The US hosted 16 T20 World Cup matches in 2024 across Florida, New York, and Texas.</div>
+          <div style="font-size:0.75rem;color:rgba(245,240,232,0.6);line-height:1.6;">MLC Season 4 runs June 18–July 18, 2026 on ESPN+. Ticket sales up 53% in 2025. Cricket comes to the Olympics at LA 2028. Over 250,000 Americans play cricket regularly. The US hosted 16 T20 World Cup matches in 2024 across Florida, New York, and Texas.</div>
         </div>
       </div>
     </div>
@@ -473,10 +480,11 @@ function detectCat(t='',d=''){const x=(t+' '+d).toLowerCase();if(/ipl|indian pre
 
 function makeCard(a,featured=false){
   const cat=detectCat(a.title,a.description);
-  const img=a.urlToImage
-    ?`<img src="${a.urlToImage}" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.querySelector('.ncard-img-ph').style.display='flex'" /><div class="ncard-img-ph" style="display:none">🏏</div>`
-    :'<div class="ncard-img-ph">🏏</div>';
-  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}"><div class="ncard-img">${img}<span class="ncard-cat">${cat}</span></div><div class="ncard-body"><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
+  if(a.urlToImage){
+    const img=`<img src="${a.urlToImage}" alt="" loading="lazy" onerror="this.closest('.ncard-img').style.display='none'" />`;
+    return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}"><div class="ncard-img">${img}<span class="ncard-cat">${cat}</span></div><div class="ncard-body"><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
+  }
+  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${cat}</span><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
 }
 
 function showTab(name){
