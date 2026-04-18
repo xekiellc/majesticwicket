@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-18T14:48:18.692Z",
+  "lastUpdated": "2026-04-18T20:42:29.874Z",
   "recentMatches": [
     {
       "id": "f7b445af-5930-4eb0-9fd5-93783dce54c2",
       "name": "Nepal Women vs United States of America Women, 2nd Match, ICC Womens T20I Challenge Trophy 2026",
       "matchType": "t20",
-      "status": "Nepal Women need 77 runs in 48 balls",
+      "status": "United States of America Women won by 44 runs",
       "venue": "Gahanga International Cricket Stadium, Kigali City",
       "date": "2026-04-18",
       "dateTimeGMT": "2026-04-18T11:50:00",
@@ -33,16 +33,16 @@
           "inning": "United States of America Women Inning 1"
         },
         {
-          "r": 47,
-          "w": 6,
-          "o": 12,
+          "r": 79,
+          "w": 9,
+          "o": 20,
           "inning": "Nepal Women Inning 1"
         }
       ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -85,9 +85,9 @@
         }
       ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -95,7 +95,7 @@
       "id": "c5bf2a95-1855-463d-accf-9c1db88418cd",
       "name": "Sunrisers Hyderabad vs Chennai Super Kings, 27th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Chennai Super Kings opt to bowl",
+      "status": "Sunrisers Hyderabad won by 10 runs",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-04-18",
       "dateTimeGMT": "2026-04-18T14:00:00",
@@ -115,13 +115,26 @@
           "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 194,
+          "w": 9,
+          "o": 20,
+          "inning": "Sunrisers Hyderabad Inning 1"
+        },
+        {
+          "r": 184,
+          "w": 8,
+          "o": 20,
+          "inning": "Chennai Super Kings Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "549ba395-31e9-477b-ba2c-a2a0dd1cbec9",
@@ -237,7 +250,20 @@
           "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 195,
+          "w": 6,
+          "o": 20,
+          "inning": "Mumbai Indians Inning 1"
+        },
+        {
+          "r": 198,
+          "w": 3,
+          "o": 16.3,
+          "inning": "Punjab Kings Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -291,55 +317,10 @@
       "matchEnded": true
     },
     {
-      "id": "8b691738-66b3-4774-a7fd-5a2113a54ca5",
-      "name": "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Chennai Super Kings won by 32 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-04-14",
-      "dateTimeGMT": "2026-04-14T14:00:00",
-      "teams": [
-        "Chennai Super Kings",
-        "Kolkata Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chennai Super Kings",
-          "shortname": "CSK",
-          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
-        },
-        {
-          "name": "Kolkata Knight Riders",
-          "shortname": "KKR",
-          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 192,
-          "w": 5,
-          "o": 20,
-          "inning": "Chennai Super Kings Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 7,
-          "o": 20,
-          "inning": "Kolkata Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "2cbe3754-f896-4f41-8608-9c8a6dac4263",
       "name": "Lahore Qalandars vs Rawalpindiz, 27th Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Lahore Qalandars opt to bat",
+      "status": "Lahore Qalandars won by 32 runs",
       "venue": "National Stadium, Karachi",
       "date": "2026-04-18",
       "dateTimeGMT": "2026-04-18T14:00:00",
@@ -359,13 +340,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 210,
+          "w": 4,
+          "o": 20,
+          "inning": "lahore qalandars Inning 1"
+        },
+        {
+          "r": 178,
+          "w": 9,
+          "o": 20,
+          "inning": "Lahore Qalandars,Rawalpindiz Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8f7e2b2e-d665-4b1b-8aa1-9b5a701ad296",
@@ -436,7 +430,20 @@
           "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 150,
+          "w": 6,
+          "o": 20,
+          "inning": "Karachi Kings Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 2,
+          "o": 16,
+          "inning": "Islamabad United Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -468,7 +475,20 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 121,
+          "w": 9,
+          "o": 20,
+          "inning": "Rawalpindiz Inning 1"
+        },
+        {
+          "r": 123,
+          "w": 5,
+          "o": 16.3,
+          "inning": "Hyderabad Kingsmen Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -500,7 +520,20 @@
           "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 154,
+          "w": 10,
+          "o": 20,
+          "inning": "Quetta Gladiators Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 2,
+          "o": 18.3,
+          "inning": "Peshawar Zalmi Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -512,7 +545,7 @@
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - Lancashire trail by 30 runs",
+      "status": "Day 2: Stumps - Gloucestershire trail by 46 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -540,10 +573,16 @@
           "inning": "Gloucestershire Inning 1"
         },
         {
-          "r": 106,
-          "w": 1,
-          "o": 33,
+          "r": 240,
+          "w": 10,
+          "o": 72.2,
           "inning": "Lancashire Inning 1"
+        },
+        {
+          "r": 58,
+          "w": 3,
+          "o": 20,
+          "inning": "Gloucestershire Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -557,7 +596,7 @@
       "id": "dd4af4b7-ee1c-4a2d-9b23-a0cdd6d0e196",
       "name": "Northamptonshire vs Middlesex, 9th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - Northamptonshire trail by 243 runs",
+      "status": "Day 2: Stumps - Northamptonshire trail by 112 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -585,9 +624,9 @@
           "inning": "middlesex Inning 1"
         },
         {
-          "r": 98,
-          "w": 3,
-          "o": 26,
+          "r": 229,
+          "w": 4,
+          "o": 56,
           "inning": "Northamptonshire,Middlesex Inning 1"
         }
       ],
@@ -602,7 +641,7 @@
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
       "name": "Warwickshire vs Essex, 12th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - Essex trail by 114 runs",
+      "status": "Day 2: Stumps - Essex trail by 80 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -630,9 +669,9 @@
           "inning": "Warwickshire Inning 1"
         },
         {
-          "r": 76,
-          "w": 2,
-          "o": 27,
+          "r": 110,
+          "w": 3,
+          "o": 39,
           "inning": "Essex Inning 1"
         }
       ],
@@ -647,7 +686,7 @@
       "id": "f8bfa7bd-2e42-4d04-8133-6c28fb98fc40",
       "name": "Hampshire vs Somerset, 11th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - Somerset lead by 34 runs",
+      "status": "Day 2: Stumps - Hampshire lead by 96 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -675,10 +714,16 @@
           "inning": "hampshire Inning 1"
         },
         {
-          "r": 272,
-          "w": 9,
-          "o": 83,
+          "r": 288,
+          "w": 10,
+          "o": 85.1,
           "inning": "Hampshire,Somerset Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 1,
+          "o": 44,
+          "inning": "hampshire Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -802,7 +847,20 @@
           "img": "https://g.cricapi.com/iapi/4213-638101638135932984.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 100,
+          "w": 9,
+          "o": 20,
+          "inning": "England Women U19 Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 1,
+          "o": 15.4,
+          "inning": "Australia Women U19 Inning 1"
+        }
+      ],
       "series_id": "921e724a-aac0-4078-9ec7-23ef5d485c95",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -833,7 +891,20 @@
           "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 381,
+          "w": 10,
+          "o": 97.5,
+          "inning": "sri lanka a Inning 1"
+        },
+        {
+          "r": 416,
+          "w": 9,
+          "o": 141.3,
+          "inning": "Sri Lanka A,New Zealand A Inning 1"
+        }
+      ],
       "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -929,7 +1000,7 @@
       "id": "7a8441e8-a51c-4394-a154-4fa4375c7126",
       "name": "Namibia vs Scotland, 3rd T20I, Scotland tour of Namibia, 2026",
       "matchType": "t20",
-      "status": "Namibia need 97 runs in 65 balls",
+      "status": "Namibia won by 4 wkts",
       "venue": "Namibia Cricket Ground, Windhoek",
       "date": "2026-04-18",
       "dateTimeGMT": "2026-04-18T12:00:00",
@@ -949,13 +1020,26 @@
           "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 186,
+          "w": 4,
+          "o": 20,
+          "inning": "scotland Inning 1"
+        },
+        {
+          "r": 187,
+          "w": 6,
+          "o": 20,
+          "inning": "Namibia,Scotland Inning 1"
+        }
+      ],
       "series_id": "54fbc46a-6c29-4ebd-910b-890220dea0dc",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8c6c5373-b3e6-4380-acd4-c8e2075db4be",
@@ -993,6 +1077,51 @@
           "w": 7,
           "o": 20,
           "inning": "Namibia Inning 1"
+        }
+      ],
+      "series_id": "54fbc46a-6c29-4ebd-910b-890220dea0dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ecb42d4b-5014-4a7a-9eeb-0b6d8b84d593",
+      "name": "Namibia vs Scotland, 1st T20I, Scotland tour of Namibia, 2026",
+      "matchType": "t20",
+      "status": "Scotland won by 7 wkts",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-04-15",
+      "dateTimeGMT": "2026-04-15T12:00:00",
+      "teams": [
+        "Namibia",
+        "Scotland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 7,
+          "o": 20,
+          "inning": "namibia Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 3,
+          "o": 18.5,
+          "inning": "Namibia,Scotland Inning 1"
         }
       ],
       "series_id": "54fbc46a-6c29-4ebd-910b-890220dea0dc",
@@ -1041,6 +1170,14 @@
         "points": 6
       },
       {
+        "team": "Sunrisers Hyderabad",
+        "played": 6,
+        "won": 3,
+        "lost": 3,
+        "nr": 0,
+        "points": 6
+      },
+      {
         "team": "Gujarat Titans",
         "played": 5,
         "won": 3,
@@ -1050,17 +1187,9 @@
       },
       {
         "team": "Chennai Super Kings",
-        "played": 5,
+        "played": 6,
         "won": 2,
-        "lost": 3,
-        "nr": 0,
-        "points": 4
-      },
-      {
-        "team": "Sunrisers Hyderabad",
-        "played": 5,
-        "won": 2,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 4
       },
@@ -1122,6 +1251,14 @@
         "points": 8
       },
       {
+        "team": "Lahore Qalandars",
+        "played": 7,
+        "won": 3,
+        "lost": 4,
+        "nr": 0,
+        "points": 6
+      },
+      {
         "team": "Hyderabad Kingsmen",
         "played": 7,
         "won": 3,
@@ -1146,18 +1283,10 @@
         "points": 6
       },
       {
-        "team": "Lahore Qalandars",
-        "played": 6,
-        "won": 2,
-        "lost": 4,
-        "nr": 0,
-        "points": 4
-      },
-      {
         "team": "Rawalpindiz",
-        "played": 6,
+        "played": 7,
         "won": 0,
-        "lost": 6,
+        "lost": 7,
         "nr": 0,
         "points": 0
       }
