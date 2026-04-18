@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-04-18T08:35:36.790Z",
+  "lastUpdated": "2026-04-18T14:48:18.692Z",
   "recentMatches": [
+    {
+      "id": "f7b445af-5930-4eb0-9fd5-93783dce54c2",
+      "name": "Nepal Women vs United States of America Women, 2nd Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women need 77 runs in 48 balls",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-18",
+      "dateTimeGMT": "2026-04-18T11:50:00",
+      "teams": [
+        "Nepal Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 123,
+          "w": 6,
+          "o": 20,
+          "inning": "United States of America Women Inning 1"
+        },
+        {
+          "r": 47,
+          "w": 6,
+          "o": 12,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "f049ec10-95d1-485b-86d9-7b0e744c0992",
       "name": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026",
       "matchType": "t20",
-      "status": "Rain stops play\n - Rwanda Women opt to bowl",
+      "status": "Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
       "venue": "Gahanga International Cricket Stadium, Kigali City",
       "date": "2026-04-18",
       "dateTimeGMT": "2026-04-18T07:00:00",
@@ -31,6 +76,12 @@
           "w": 1,
           "o": 11,
           "inning": "Italy Women Inning 1"
+        },
+        {
+          "r": 50,
+          "w": 4,
+          "o": 7,
+          "inning": "Rwanda Women Inning 1"
         }
       ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
@@ -38,7 +89,84 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c5bf2a95-1855-463d-accf-9c1db88418cd",
+      "name": "Sunrisers Hyderabad vs Chennai Super Kings, 27th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Chennai Super Kings opt to bowl",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-04-18",
+      "dateTimeGMT": "2026-04-18T14:00:00",
+      "teams": [
+        "Sunrisers Hyderabad",
+        "Chennai Super Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Sunrisers Hyderabad",
+          "shortname": "SRH",
+          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "549ba395-31e9-477b-ba2c-a2a0dd1cbec9",
+      "name": "Royal Challengers Bengaluru vs Delhi Capitals, 26th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Delhi Capitals won by 6 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-04-18",
+      "dateTimeGMT": "2026-04-18T10:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru",
+        "Delhi Capitals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Delhi Capitals",
+          "shortname": "DC",
+          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+        },
+        {
+          "name": "Royal Challengers Bengaluru",
+          "shortname": "RCBW",
+          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 175,
+          "w": 8,
+          "o": 20,
+          "inning": "Royal Challengers Bengaluru Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 4,
+          "o": 19.5,
+          "inning": "Delhi Capitals Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "b481f31f-5ad7-4218-8a6e-16fc34d38048",
@@ -109,20 +237,7 @@
           "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 195,
-          "w": 6,
-          "o": 20,
-          "inning": "Mumbai Indians Inning 1"
-        },
-        {
-          "r": 198,
-          "w": 3,
-          "o": 16.3,
-          "inning": "Punjab Kings Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -221,6 +336,38 @@
       "matchEnded": true
     },
     {
+      "id": "2cbe3754-f896-4f41-8608-9c8a6dac4263",
+      "name": "Lahore Qalandars vs Rawalpindiz, 27th Match, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Lahore Qalandars opt to bat",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-04-18",
+      "dateTimeGMT": "2026-04-18T14:00:00",
+      "teams": [
+        "Lahore Qalandars",
+        "Rawalpindiz"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lahore Qalandars",
+          "shortname": "LHQ",
+          "img": "https://g.cricapi.com/iapi/41-637991979136379824.webp?w=48"
+        },
+        {
+          "name": "Rawalpindiz",
+          "shortname": "R",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "8f7e2b2e-d665-4b1b-8aa1-9b5a701ad296",
       "name": "Lahore Qalandars vs Quetta Gladiators, 26th Match, Pakistan Super League 2026",
       "matchType": "t20",
@@ -289,20 +436,7 @@
           "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 150,
-          "w": 6,
-          "o": 20,
-          "inning": "Karachi Kings Inning 1"
-        },
-        {
-          "r": 153,
-          "w": 2,
-          "o": 16,
-          "inning": "Islamabad United Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -334,20 +468,7 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
-      "score": [
-        {
-          "r": 121,
-          "w": 9,
-          "o": 20,
-          "inning": "Rawalpindiz Inning 1"
-        },
-        {
-          "r": 123,
-          "w": 5,
-          "o": 16.3,
-          "inning": "Hyderabad Kingsmen Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -379,20 +500,7 @@
           "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 154,
-          "w": 10,
-          "o": 20,
-          "inning": "Quetta Gladiators Inning 1"
-        },
-        {
-          "r": 156,
-          "w": 2,
-          "o": 18.3,
-          "inning": "Peshawar Zalmi Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -404,7 +512,7 @@
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Lancashire opt to bowl",
+      "status": "Day 2: 2nd Session - Lancashire trail by 30 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -426,10 +534,16 @@
       ],
       "score": [
         {
-          "r": 124,
-          "w": 6,
-          "o": 44,
+          "r": 136,
+          "w": 10,
+          "o": 50.5,
           "inning": "Gloucestershire Inning 1"
+        },
+        {
+          "r": 106,
+          "w": 1,
+          "o": 33,
+          "inning": "Lancashire Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -443,7 +557,7 @@
       "id": "dd4af4b7-ee1c-4a2d-9b23-a0cdd6d0e196",
       "name": "Northamptonshire vs Middlesex, 9th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Middlesex opt to bat",
+      "status": "Day 2: 2nd Session - Northamptonshire trail by 243 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -465,10 +579,16 @@
       ],
       "score": [
         {
-          "r": 284,
-          "w": 6,
-          "o": 73,
+          "r": 341,
+          "w": 10,
+          "o": 88.5,
           "inning": "middlesex Inning 1"
+        },
+        {
+          "r": 98,
+          "w": 3,
+          "o": 26,
+          "inning": "Northamptonshire,Middlesex Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -482,7 +602,7 @@
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
       "name": "Warwickshire vs Essex, 12th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Essex opt to bowl",
+      "status": "Day 2: 2nd Session - Essex trail by 114 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -504,10 +624,16 @@
       ],
       "score": [
         {
-          "r": 113,
-          "w": 7,
-          "o": 35.4,
+          "r": 190,
+          "w": 10,
+          "o": 64.5,
           "inning": "Warwickshire Inning 1"
+        },
+        {
+          "r": 76,
+          "w": 2,
+          "o": 27,
+          "inning": "Essex Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -521,7 +647,7 @@
       "id": "f8bfa7bd-2e42-4d04-8133-6c28fb98fc40",
       "name": "Hampshire vs Somerset, 11th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Somerset trail by 84 runs",
+      "status": "Day 2: 2nd Session - Somerset lead by 34 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -549,9 +675,9 @@
           "inning": "hampshire Inning 1"
         },
         {
-          "r": 154,
-          "w": 3,
-          "o": 36,
+          "r": 272,
+          "w": 9,
+          "o": 83,
           "inning": "Hampshire,Somerset Inning 1"
         }
       ],
@@ -676,20 +802,7 @@
           "img": "https://g.cricapi.com/iapi/4213-638101638135932984.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 100,
-          "w": 9,
-          "o": 20,
-          "inning": "England Women U19 Inning 1"
-        },
-        {
-          "r": 103,
-          "w": 1,
-          "o": 15.4,
-          "inning": "Australia Women U19 Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "921e724a-aac0-4078-9ec7-23ef5d485c95",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -700,7 +813,7 @@
     {
       "id": "a63f1d46-adb4-47f6-b178-479983a5688d",
       "name": "Sri Lanka A vs New Zealand A, 1st unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Day 3: 2nd Session - New Zealand A trail by 71 runs",
+      "status": "Day 3: Stumps - New Zealand A lead by 35 runs",
       "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
       "date": "2026-04-16",
       "dateTimeGMT": "2026-04-16T04:00:00",
@@ -720,20 +833,7 @@
           "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 381,
-          "w": 10,
-          "o": 97.5,
-          "inning": "sri lanka a Inning 1"
-        },
-        {
-          "r": 310,
-          "w": 5,
-          "o": 103,
-          "inning": "Sri Lanka A,New Zealand A Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -826,6 +926,38 @@
       "matchEnded": true
     },
     {
+      "id": "7a8441e8-a51c-4394-a154-4fa4375c7126",
+      "name": "Namibia vs Scotland, 3rd T20I, Scotland tour of Namibia, 2026",
+      "matchType": "t20",
+      "status": "Namibia need 97 runs in 65 balls",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-04-18",
+      "dateTimeGMT": "2026-04-18T12:00:00",
+      "teams": [
+        "Namibia",
+        "Scotland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "54fbc46a-6c29-4ebd-910b-890220dea0dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "8c6c5373-b3e6-4380-acd4-c8e2075db4be",
       "name": "Namibia vs Scotland, 2nd T20I, Scotland tour of Namibia, 2026",
       "matchType": "t20",
@@ -869,96 +1001,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "ecb42d4b-5014-4a7a-9eeb-0b6d8b84d593",
-      "name": "Namibia vs Scotland, 1st T20I, Scotland tour of Namibia, 2026",
-      "matchType": "t20",
-      "status": "Scotland won by 7 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-04-15",
-      "dateTimeGMT": "2026-04-15T12:00:00",
-      "teams": [
-        "Namibia",
-        "Scotland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 7,
-          "o": 20,
-          "inning": "namibia Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 3,
-          "o": 18.5,
-          "inning": "Namibia,Scotland Inning 1"
-        }
-      ],
-      "series_id": "54fbc46a-6c29-4ebd-910b-890220dea0dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3d19096c-d29d-4900-9a5f-f7ea771fcdc4",
-      "name": "South Africa Women vs India Women, 1st T20I, India Women tour of South Africa 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 6 wkts",
-      "venue": "Kingsmead, Durban",
-      "date": "2026-04-17",
-      "dateTimeGMT": "2026-04-17T16:00:00",
-      "teams": [
-        "South Africa Women",
-        "India Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 157,
-          "w": 7,
-          "o": 20,
-          "inning": "India Women Inning 1"
-        },
-        {
-          "r": 158,
-          "w": 4,
-          "o": 19.1,
-          "inning": "South Africa Women Inning 1"
-        }
-      ],
-      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
@@ -984,11 +1026,19 @@
       },
       {
         "team": "Royal Challengers Bengaluru",
-        "played": 5,
+        "played": 6,
         "won": 4,
-        "lost": 1,
+        "lost": 2,
         "nr": 0,
         "points": 8
+      },
+      {
+        "team": "Delhi Capitals",
+        "played": 5,
+        "won": 3,
+        "lost": 2,
+        "nr": 0,
+        "points": 6
       },
       {
         "team": "Gujarat Titans",
@@ -1003,14 +1053,6 @@
         "played": 5,
         "won": 2,
         "lost": 3,
-        "nr": 0,
-        "points": 4
-      },
-      {
-        "team": "Delhi Capitals",
-        "played": 4,
-        "won": 2,
-        "lost": 2,
         "nr": 0,
         "points": 4
       },
