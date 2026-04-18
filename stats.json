@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T20:53:04.831Z",
+  "lastUpdated": "2026-04-18T04:37:00.904Z",
   "recentMatches": [
     {
       "id": "b481f31f-5ad7-4218-8a6e-16fc34d38048",
@@ -522,6 +522,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "b73747dd-5c03-43a8-8b8b-f4d02c27abaa",
+      "name": "Australia Women U19 vs Sri Lanka Women U19, 6th unofficial T20I, Women's Under-19 Tri-Series in Australia, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women U19 won by 3 runs",
+      "venue": "Ian Healy Oval, Brisbane",
+      "date": "2026-04-18",
+      "dateTimeGMT": "2026-04-18T00:00:00",
+      "teams": [
+        "Australia Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women U19",
+          "shortname": "AUSW-U19",
+          "img": "https://g.cricapi.com/iapi/4185-638101640511053053.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 99,
+          "w": 10,
+          "o": 19.4,
+          "inning": "sri lanka women u19 Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Australia Women U19,Sri Lanka Women U19 Inning 1"
+        }
+      ],
+      "series_id": "921e724a-aac0-4078-9ec7-23ef5d485c95",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "c7f54447-7c6e-4f63-81af-4e38766e4493",
