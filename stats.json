@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-19T14:48:31.307Z",
+  "lastUpdated": "2026-04-19T20:43:16.428Z",
   "recentMatches": [
+    {
+      "id": "d2ab6f4c-7626-44df-80ba-5c7c741fda86",
+      "name": "Italy Women vs Nepal Women, 4th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 50 runs",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-04-19",
+      "dateTimeGMT": "2026-04-19T11:50:00",
+      "teams": [
+        "Italy Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 112,
+          "w": 8,
+          "o": 20,
+          "inning": "nepal women Inning 1"
+        },
+        {
+          "r": 62,
+          "w": 10,
+          "o": 18.4,
+          "inning": "Italy Women,Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "6ed6c000-4a17-4506-9e1d-0c71367ec64c",
       "name": "Rwanda Women vs Vanuatu Women, 3rd Match, ICC Womens T20I Challenge Trophy 2026",
@@ -140,7 +185,7 @@
       "id": "ca8f24c0-6eef-4f8e-b50f-c63fc2b1ca98",
       "name": "Punjab Kings vs Lucknow Super Giants, 29th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Lucknow Super Giants opt to bowl",
+      "status": "Punjab Kings won by 54 runs",
       "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
       "date": "2026-04-19",
       "dateTimeGMT": "2026-04-19T14:00:00",
@@ -162,10 +207,16 @@
       ],
       "score": [
         {
-          "r": 108,
-          "w": 1,
-          "o": 9.4,
+          "r": 254,
+          "w": 7,
+          "o": 20,
           "inning": "Punjab Kings Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 5,
+          "o": 20,
+          "inning": "Lucknow Super Giants Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -173,7 +224,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "fb4d7e4a-c420-45f2-9f2f-d45ce094efbc",
@@ -401,55 +452,10 @@
       "matchEnded": true
     },
     {
-      "id": "55e260bc-4aa7-44de-92e7-6bbd1edbb711",
-      "name": "Royal Challengers Bengaluru vs Lucknow Super Giants, 23rd Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Challengers Bengaluru won by 5 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-04-15",
-      "dateTimeGMT": "2026-04-15T14:00:00",
-      "teams": [
-        "Royal Challengers Bengaluru",
-        "Lucknow Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lucknow Super Giants",
-          "shortname": "LSG",
-          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
-        },
-        {
-          "name": "Royal Challengers Bengaluru",
-          "shortname": "RCBW",
-          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 146,
-          "w": 10,
-          "o": 20,
-          "inning": "Lucknow Super Giants Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 5,
-          "o": 15.1,
-          "inning": "Royal Challengers Bengaluru Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "fb9c38a7-14c3-462d-b862-7a578e5ae0ed",
       "name": "Peshawar Zalmi vs Quetta Gladiators, 29th Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Quetta Gladiators opt to bowl",
+      "status": "Peshawar Zalmi won by 118 runs",
       "venue": "National Stadium, Karachi",
       "date": "2026-04-19",
       "dateTimeGMT": "2026-04-19T14:00:00",
@@ -471,10 +477,16 @@
       ],
       "score": [
         {
-          "r": 117,
-          "w": 1,
-          "o": 9.2,
+          "r": 255,
+          "w": 3,
+          "o": 20,
           "inning": "Peshawar Zalmi Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 10,
+          "o": 18.1,
+          "inning": "Quetta Gladiators Inning 1"
         }
       ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
@@ -482,7 +494,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0e13247d-fc6e-429f-b0bc-c99ee2d4518e",
@@ -710,55 +722,10 @@
       "matchEnded": true
     },
     {
-      "id": "abf80dd2-35a9-46fd-8141-134103013a99",
-      "name": "Peshawar Zalmi vs Quetta Gladiators, 23rd Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Peshawar Zalmi won by 8 wkts",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-15",
-      "dateTimeGMT": "2026-04-15T14:00:00",
-      "teams": [
-        "Peshawar Zalmi",
-        "Quetta Gladiators"
-      ],
-      "teamInfo": [
-        {
-          "name": "Peshawar Zalmi",
-          "shortname": "PSZ",
-          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
-        },
-        {
-          "name": "Quetta Gladiators",
-          "shortname": "QTG",
-          "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 154,
-          "w": 10,
-          "o": 20,
-          "inning": "Quetta Gladiators Inning 1"
-        },
-        {
-          "r": 156,
-          "w": 2,
-          "o": 18.3,
-          "inning": "Peshawar Zalmi Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Gloucestershire lead by 103 runs",
+      "status": "Day 3: Stumps - Lancashire need 127 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -792,10 +759,16 @@
           "inning": "Lancashire Inning 1"
         },
         {
-          "r": 207,
-          "w": 4,
-          "o": 67,
+          "r": 305,
+          "w": 10,
+          "o": 93.5,
           "inning": "Gloucestershire Inning 2"
+        },
+        {
+          "r": 75,
+          "w": 3,
+          "o": 28,
+          "inning": "Lancashire Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -809,7 +782,7 @@
       "id": "dd4af4b7-ee1c-4a2d-9b23-a0cdd6d0e196",
       "name": "Northamptonshire vs Middlesex, 9th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Northamptonshire lead by 59 runs",
+      "status": "Day 3: Stumps - Middlesex lead by 41 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -837,10 +810,16 @@
           "inning": "middlesex Inning 1"
         },
         {
-          "r": 400,
-          "w": 9,
-          "o": 109,
+          "r": 409,
+          "w": 10,
+          "o": 111.4,
           "inning": "Northamptonshire,Middlesex Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 1,
+          "o": 38,
+          "inning": "middlesex Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -854,7 +833,7 @@
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
       "name": "Warwickshire vs Essex, 12th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Warwickshire lead by 48 runs",
+      "status": "Day 3: Stumps - Essex need 195 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -888,10 +867,16 @@
           "inning": "Essex Inning 1"
         },
         {
-          "r": 67,
-          "w": 4,
-          "o": 18,
+          "r": 220,
+          "w": 10,
+          "o": 62.2,
           "inning": "Warwickshire Inning 2"
+        },
+        {
+          "r": 11,
+          "w": 0,
+          "o": 4,
+          "inning": "Essex Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -905,7 +890,7 @@
       "id": "f8bfa7bd-2e42-4d04-8133-6c28fb98fc40",
       "name": "Hampshire vs Somerset, 11th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Hampshire lead by 268 runs",
+      "status": "Day 3: Stumps - Somerset need 148 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -939,10 +924,16 @@
           "inning": "Hampshire,Somerset Inning 1"
         },
         {
-          "r": 318,
-          "w": 8,
-          "o": 93,
+          "r": 336,
+          "w": 10,
+          "o": 101,
           "inning": "hampshire Inning 2"
+        },
+        {
+          "r": 139,
+          "w": 3,
+          "o": 39,
+          "inning": "Hampshire,Somerset Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -1043,51 +1034,6 @@
       "matchEnded": true
     },
     {
-      "id": "acd3d456-1318-4572-9752-4f076ea3badf",
-      "name": "Australia Women U19 vs England Women U19, 4th unofficial T20I, Women's Under-19 Tri-Series in Australia, 2026",
-      "matchType": "t20",
-      "status": "Australia Women U19 won by 9 wkts",
-      "venue": "Ian Healy Oval, Brisbane",
-      "date": "2026-04-15",
-      "dateTimeGMT": "2026-04-15T06:00:00",
-      "teams": [
-        "Australia Women U19",
-        "England Women U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women U19",
-          "shortname": "AUSW-U19",
-          "img": "https://g.cricapi.com/iapi/4185-638101640511053053.webp?w=48"
-        },
-        {
-          "name": "England Women U19",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/4213-638101638135932984.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 100,
-          "w": 9,
-          "o": 20,
-          "inning": "England Women U19 Inning 1"
-        },
-        {
-          "r": 103,
-          "w": 1,
-          "o": 15.4,
-          "inning": "Australia Women U19 Inning 1"
-        }
-      ],
-      "series_id": "921e724a-aac0-4078-9ec7-23ef5d485c95",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "a63f1d46-adb4-47f6-b178-479983a5688d",
       "name": "Sri Lanka A vs New Zealand A, 1st unofficial Test, New Zealand A tour of Sri Lanka, 2026",
       "status": "Match drawn",
@@ -1136,6 +1082,90 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
+      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Cyprus Women opt to bat",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-04-04",
+      "dateTimeGMT": "2026-04-04T11:30:00",
+      "teams": [
+        "Cyprus Women",
+        "Greece Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 47,
+          "w": 5,
+          "o": 7.5,
+          "inning": "cyprus women Inning 1"
+        }
+      ],
+      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "bd9be3f1-f090-4e96-9f59-103d02b12603",
+      "name": "Bangladesh vs New Zealand, 1st ODI, New Zealand tour of Bangladesh, 2026",
+      "matchType": "odi",
+      "status": "New Zealand won by 26 runs",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2026-04-17",
+      "dateTimeGMT": "2026-04-17T08:15:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 247,
+          "w": 8,
+          "o": 50,
+          "inning": "new zealand Inning 1"
+        },
+        {
+          "r": 221,
+          "w": 10,
+          "o": 48.3,
+          "inning": "Bangladesh,New Zealand Inning 1"
+        }
+      ],
+      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1145,11 +1175,11 @@
     "standings": [
       {
         "team": "Punjab Kings",
-        "played": 5,
-        "won": 4,
+        "played": 6,
+        "won": 5,
         "lost": 0,
         "nr": 1,
-        "points": 9
+        "points": 11
       },
       {
         "team": "Rajasthan Royals",
@@ -1201,9 +1231,9 @@
       },
       {
         "team": "Lucknow Super Giants",
-        "played": 5,
+        "played": 6,
         "won": 2,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 4
       },
@@ -1234,11 +1264,11 @@
     "standings": [
       {
         "team": "Peshawar Zalmi",
-        "played": 7,
-        "won": 6,
+        "played": 8,
+        "won": 7,
         "lost": 0,
         "nr": 1,
-        "points": 13
+        "points": 15
       },
       {
         "team": "Multan Sultans",
@@ -1274,9 +1304,9 @@
       },
       {
         "team": "Quetta Gladiators",
-        "played": 7,
+        "played": 8,
         "won": 3,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 6
       },
