@@ -67,7 +67,6 @@
     .chip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:100px;padding:0.3rem 0.85rem;font-size:0.72rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .chip:hover,.chip.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
     .news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:1.25rem;margin-bottom:2.5rem;}
-    /* White card - articles WITH images */
     .ncard{background:var(--card);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--text1);transition:transform 0.2s,box-shadow 0.2s;}
     .ncard:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);}
     .ncard-img{width:100%;height:175px;overflow:hidden;background:linear-gradient(135deg,var(--g3),var(--g1));position:relative;flex-shrink:0;}
@@ -80,7 +79,6 @@
     .ncard-foot{display:flex;align-items:center;justify-content:space-between;gap:0.5rem;}
     .ncard-src{font-size:0.68rem;font-weight:700;color:var(--g4);text-transform:uppercase;letter-spacing:0.04em;}
     .ncard-time{font-size:0.68rem;color:var(--text3);}
-    /* Green card - articles WITHOUT images or failed images */
     .ncard-green{background:linear-gradient(135deg,var(--g2),var(--g3));border:1px solid rgba(45,138,78,0.3);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;text-decoration:none;color:var(--cream);transition:transform 0.2s,box-shadow 0.2s;}
     .ncard-green:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:var(--gold);}
     .ncard-green .ncard-body{padding:1.4rem 1.5rem;flex:1;display:flex;flex-direction:column;}
@@ -90,13 +88,11 @@
     .ncard-green .ncard-foot{display:flex;align-items:center;justify-content:space-between;gap:0.5rem;border-top:1px solid rgba(255,255,255,0.07);padding-top:0.65rem;}
     .ncard-green .ncard-src{font-size:0.68rem;font-weight:700;color:var(--g5);text-transform:uppercase;letter-spacing:0.04em;}
     .ncard-green .ncard-time{font-size:0.68rem;color:rgba(245,240,232,0.35);}
-    /* Featured */
     .ncard-featured{grid-column:1/-1;display:grid;grid-template-columns:1.2fr 1fr;max-height:320px;}
     .ncard-featured .ncard-img{height:320px;border-radius:0;}
     .ncard-featured .ncard-body{padding:2rem;justify-content:center;}
     .ncard-featured .ncard-title{font-size:1.45rem;-webkit-line-clamp:4;}
     .ncard-featured .ncard-desc{font-size:0.9rem;-webkit-line-clamp:3;}
-    /* Live tab */
     .live-layout{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:2rem;}
     .live-panel{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem;}
     .live-panel-title{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:700;color:var(--gold);margin-bottom:1.25rem;display:flex;align-items:center;gap:0.5rem;}
@@ -106,14 +102,12 @@
     .match-status{font-size:0.72rem;color:var(--gold-dk);}
     .match-venue{font-size:0.65rem;color:var(--text3);margin-top:0.15rem;}
     .match-live-badge{display:inline-block;font-size:0.6rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;background:rgba(74,222,128,0.15);color:#4ade80;border:1px solid rgba(74,222,128,0.3);padding:0.1rem 0.45rem;border-radius:3px;margin-left:0.4rem;vertical-align:middle;}
-    /* US Guide */
     .platform-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.75rem;}
     .platform-card{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.9rem 1.1rem;}
     .platform-name{font-size:0.88rem;font-weight:700;color:var(--white);margin-bottom:0.2rem;}
     .platform-detail{font-size:0.75rem;color:rgba(245,240,232,0.55);line-height:1.5;}
     .platform-price{font-size:0.72rem;font-weight:700;color:var(--gold-dk);margin-top:0.3rem;}
     .platform-covers{font-size:0.68rem;color:var(--text3);margin-top:0.15rem;}
-    /* Leagues */
     .league-selector{display:flex;gap:0.4rem;flex-wrap:wrap;margin-bottom:2rem;}
     .lchip{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.4rem 1rem;font-size:0.75rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .lchip:hover,.lchip.active{background:var(--g3);border-color:var(--g4);color:var(--white);}
@@ -140,7 +134,6 @@
     .stats-player{font-weight:600!important;color:var(--white)!important;}
     .stats-note{padding:1rem 1.1rem;font-size:0.78rem;color:var(--text3);line-height:1.5;}
     .league-news-title{font-family:'Playfair Display',serif;font-size:1.2rem;font-weight:700;color:var(--white);margin-bottom:1.25rem;}
-    /* Podcasts */
     .pod-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1.25rem;}
     .pod-card{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:var(--r);padding:1.4rem;display:flex;flex-direction:column;gap:0.75rem;}
     .pod-top{display:flex;align-items:flex-start;gap:1rem;}
@@ -152,16 +145,13 @@
     .pod-link{font-size:0.7rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;padding:0.3rem 0.75rem;border-radius:6px;text-decoration:none;border:1px solid var(--border2);color:rgba(245,240,232,0.6);transition:all 0.18s;}
     .pod-link:hover{border-color:var(--gold);color:var(--gold);}
     .pod-link.spotify{background:rgba(30,215,96,0.1);border-color:rgba(30,215,96,0.3);color:#1ed760;}
-    /* Culture */
     .cricket101{background:linear-gradient(135deg,rgba(26,92,50,0.4),rgba(13,59,30,0.2));border:1px solid var(--border);border-radius:var(--r);padding:2rem 2.5rem;margin-bottom:2rem;display:grid;grid-template-columns:1fr auto;gap:2rem;align-items:center;}
     .c101-title{font-family:'Playfair Display',serif;font-size:1.3rem;font-weight:700;color:var(--gold);margin-bottom:0.75rem;}
     .c101-body{font-size:0.88rem;color:rgba(245,240,232,0.7);line-height:1.7;}
     .c101-icon{font-size:4rem;opacity:0.6;}
-    /* Archive */
     .archive-nav{display:flex;gap:0.4rem;flex-wrap:wrap;margin-bottom:1.75rem;}
     .archive-date-btn{background:rgba(255,255,255,0.04);border:1px solid var(--border2);border-radius:8px;padding:0.35rem 0.85rem;font-size:0.74rem;font-weight:600;color:rgba(245,240,232,0.5);cursor:pointer;transition:all 0.18s;}
     .archive-date-btn:hover,.archive-date-btn.active{background:rgba(201,168,76,0.1);border-color:var(--gold);color:var(--gold);}
-    /* About/Contact */
     .about-wrap{max-width:800px;}
     .about-wrap h2{font-family:'Playfair Display',serif;font-size:2.2rem;font-weight:900;color:var(--gold);margin-bottom:1.25rem;}
     .about-wrap p{font-size:0.92rem;color:rgba(245,240,232,0.72);line-height:1.8;margin-bottom:1rem;}
@@ -174,7 +164,6 @@
     .form-row textarea{resize:vertical;min-height:110px;}
     .btn-submit{background:var(--gold);color:var(--g1);border:none;cursor:pointer;font-family:'DM Sans',sans-serif;font-size:0.82rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;padding:0.75rem 2.25rem;border-radius:8px;transition:background 0.18s;}
     .btn-submit:hover{background:var(--gold-lt);}
-    /* Skeletons */
     .skel-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:1.25rem;}
     .skel-card{background:rgba(255,255,255,0.03);border-radius:var(--r);overflow:hidden;}
     .skel-line{height:11px;border-radius:6px;margin-bottom:0.6rem;background:linear-gradient(90deg,rgba(255,255,255,0.04) 25%,rgba(255,255,255,0.08) 50%,rgba(255,255,255,0.04) 75%);background-size:200% 100%;animation:shimmer 1.6s infinite;}
@@ -247,7 +236,6 @@
     <button class="tab-btn" onclick="showTab('contact')">✉ Contact</button>
   </div>
 
-  <!-- NEWS -->
   <div id="tab-news" class="tab-panel active">
     <div class="sec-hdr">
       <div class="sec-title">Latest Cricket News</div>
@@ -274,7 +262,6 @@
     </div>
   </div>
 
-  <!-- LIVE -->
   <div id="tab-live" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Live &amp; Recent Matches</div>
@@ -336,14 +323,12 @@
     </div>
   </div>
 
-  <!-- LEAGUES -->
   <div id="tab-leagues" class="tab-panel">
     <div class="sec-hdr"><div class="sec-title">Leagues &amp; Competitions</div></div>
     <div class="league-selector" id="league-selector"></div>
     <div id="league-panels"></div>
   </div>
 
-  <!-- CULTURE -->
   <div id="tab-culture" class="tab-panel">
     <div class="sec-hdr"><div class="sec-title">Cricket Culture</div></div>
     <div class="cricket101">
@@ -362,7 +347,6 @@
     </div>
   </div>
 
-  <!-- VIDEOS -->
   <div id="tab-videos" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Cricket Videos</div>
@@ -373,7 +357,6 @@
     </div>
   </div>
 
-  <!-- PODCASTS -->
   <div id="tab-podcasts" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Cricket Podcasts</div>
@@ -383,7 +366,6 @@
     <div class="pod-grid" id="podcasts-container"></div>
   </div>
 
-  <!-- ARCHIVE -->
   <div id="tab-archive" class="tab-panel">
     <div class="sec-hdr">
       <div class="sec-title">Article Archive</div>
@@ -395,7 +377,6 @@
     </div>
   </div>
 
-  <!-- ABOUT -->
   <div id="tab-about" class="tab-panel">
     <div class="about-wrap">
       <h2>About MajesticWicket</h2>
@@ -409,7 +390,6 @@
     </div>
   </div>
 
-  <!-- CONTACT -->
   <div id="tab-contact" class="tab-panel">
     <div class="about-wrap">
       <h2>Contact Us</h2>
@@ -449,18 +429,18 @@
 let allArticles=[],allCulture=[],statsData={},recentMatches=[],archiveData={},currentFilter='all';
 
 const LEAGUES=[
-  {id:'ipl',name:'Indian Premier League',abbr:'IPL',region:'India',emoji:'🇮🇳',live:true,desc:'The world\'s richest T20 franchise league. 10 teams, explosive batting, global superstars. Season: March–June.'},
-  {id:'psl',name:'Pakistan Super League',abbr:'PSL',region:'Pakistan',emoji:'🇵🇰',live:true,desc:'Pakistan\'s premier T20 competition. Season: March–May 2026.'},
-  {id:'bbl',name:'Big Bash League',abbr:'BBL',region:'Australia',emoji:'🇦🇺',live:false,desc:'Australia\'s summer T20 league — 8 city-based teams. Season: December–February.'},
-  {id:'cpl',name:'Caribbean Premier League',abbr:'CPL',region:'West Indies',emoji:'🏝',live:false,desc:'T20 cricket with a Caribbean carnival atmosphere. Season: August–October.'},
-  {id:'hundred',name:'The Hundred',abbr:'100-BALL',region:'England',emoji:'🏴󠁧󠁢󠁥󠁮󠁧󠁿',live:false,desc:'England\'s 100-ball format franchise league. Season: July–August.'},
-  {id:'sa20',name:'SA20',abbr:'SA20',region:'South Africa',emoji:'🇿🇦',live:false,desc:'South Africa\'s IPL-linked franchise T20 league. Season: January–February.'},
-  {id:'test',name:'Test Cricket',abbr:'TESTS',region:'Global',emoji:'🌍',live:true,desc:'The pinnacle of the game. Five days, red ball, the ultimate test of skill and character.'},
-  {id:'t20wc',name:'T20 World Cup',abbr:'T20 WC',region:'Global',emoji:'🏆',live:false,desc:'The ICC\'s premier T20 event held every two years.'},
-  {id:'ashes',name:'The Ashes',abbr:'ASHES',region:'Eng / Aus',emoji:'🏺',live:false,desc:'Cricket\'s oldest rivalry. England vs Australia, dating to 1882.'},
-  {id:'wpl',name:'Women\'s Premier League',abbr:'WPL',region:'India',emoji:'🏏',live:false,desc:'India\'s women\'s T20 franchise league. Season: February–March.'},
-  {id:'mlc',name:'Major League Cricket',abbr:'MLC',region:'USA',emoji:'🇺🇸',live:false,desc:'American cricket\'s franchise future. Season 4: June 18–July 18, 2026. On ESPN+.'},
-  {id:'odi',name:'ODI World Cup',abbr:'ODI WC',region:'Global',emoji:'🥇',live:false,desc:'The 50-over World Cup, cricket\'s most prestigious team trophy.'},
+  {id:'ipl',name:'Indian Premier League',abbr:'IPL',region:'India',emoji:'🇮🇳',live:true,desc:'The world\'s richest T20 franchise league. 10 teams, explosive batting, global superstars. Season: March–June.',teams:['Mumbai Indians','Chennai Super Kings','Royal Challengers','Kolkata Knight Riders','Delhi Capitals','Rajasthan Royals','Punjab Kings','Sunrisers Hyderabad','Gujarat Titans','Lucknow Super Giants','CSK','RCB','KKR','MI ','SRH','DC ','GT ','LSG','PBKS']},
+  {id:'psl',name:'Pakistan Super League',abbr:'PSL',region:'Pakistan',emoji:'🇵🇰',live:true,desc:'Pakistan\'s premier T20 competition. Season: March–May 2026.',teams:['Peshawar Zalmi','Karachi Kings','Lahore Qalandars','Islamabad United','Multan Sultans','Quetta Gladiators','Hyderabad Kingsmen','Rawalpindiz','Babar Azam','Shaheen Afridi']},
+  {id:'bbl',name:'Big Bash League',abbr:'BBL',region:'Australia',emoji:'🇦🇺',live:false,desc:'Australia\'s summer T20 league — 8 city-based teams. Season: December–February.',teams:['Sydney Sixers','Sydney Thunder','Melbourne Stars','Melbourne Renegades','Perth Scorchers','Brisbane Heat','Adelaide Strikers','Hobart Hurricanes']},
+  {id:'cpl',name:'Caribbean Premier League',abbr:'CPL',region:'West Indies',emoji:'🏝',live:false,desc:'T20 cricket with a Caribbean carnival atmosphere. Season: August–October.',teams:['Trinbago Knight Riders','Guyana Amazon Warriors','Barbados Royals','Saint Lucia Kings','St Kitts','Antigua','Jamaica Tallawahs']},
+  {id:'hundred',name:'The Hundred',abbr:'100-BALL',region:'England',emoji:'🏴󠁧󠁢󠁥󠁮󠁧󠁿',live:false,desc:'England\'s 100-ball format franchise league. Season: July–August.',teams:['Oval Invincibles','Trent Rockets','Manchester Originals','Welsh Fire','Southern Brave','Birmingham Phoenix','London Spirit','Northern Superchargers']},
+  {id:'sa20',name:'SA20',abbr:'SA20',region:'South Africa',emoji:'🇿🇦',live:false,desc:'South Africa\'s IPL-linked franchise T20 league. Season: January–February.',teams:['MI Cape Town','Paarl Royals','Sunrisers Eastern Cape','Joburg Super Kings','Pretoria Capitals','Durban Super Giants']},
+  {id:'test',name:'Test Cricket',abbr:'TESTS',region:'Global',emoji:'🌍',live:true,desc:'The pinnacle of the game. Five days, red ball, the ultimate test of skill and character.',teams:['Test match','Test series','Test cricket','County Championship']},
+  {id:'t20wc',name:'T20 World Cup',abbr:'T20 WC',region:'Global',emoji:'🏆',live:false,desc:'The ICC\'s premier T20 event held every two years.',teams:['T20 World Cup','T20I']},
+  {id:'ashes',name:'The Ashes',abbr:'ASHES',region:'Eng / Aus',emoji:'🏺',live:false,desc:'Cricket\'s oldest rivalry. England vs Australia, dating to 1882.',teams:['Ashes']},
+  {id:'wpl',name:'Women\'s Premier League',abbr:'WPL',region:'India',emoji:'🏏',live:false,desc:'India\'s women\'s T20 franchise league. Season: February–March.',teams:['Women\'s Premier League','WPL']},
+  {id:'mlc',name:'Major League Cricket',abbr:'MLC',region:'USA',emoji:'🇺🇸',live:false,desc:'American cricket\'s franchise future. Season 4: June 18–July 18, 2026. On ESPN+.',teams:['Washington Freedom','Texas Super Kings','San Francisco Unicorns','MI New York','Seattle Orcas','Los Angeles Knight Riders','Major League Cricket','MLC']},
+  {id:'odi',name:'ODI World Cup',abbr:'ODI WC',region:'Global',emoji:'🥇',live:false,desc:'The 50-over World Cup, cricket\'s most prestigious team trophy.',teams:['ODI World Cup','ODI ']},
 ];
 
 const PODCASTS=[
@@ -474,36 +454,81 @@ const PODCASTS=[
   {name:'Fox Cricket Podcast',network:'Fox Sports · Australia',emoji:'🦊',desc:'Matthew Hayden, James Brayshaw, and Greg Blewett. Bold Australian cricket banter.',spotify:'https://open.spotify.com/show/4uDWTOeMuMjVKZ12MnRGxD',apple:'https://podcasts.apple.com/au/podcast/fox-cricket-podcast/id1434007773'},
 ];
 
-function timeAgo(d){const s=Math.floor((Date.now()-new Date(d))/1000);if(s<60)return'just now';if(s<3600)return Math.floor(s/60)+'m ago';if(s<86400)return Math.floor(s/3600)+'h ago';return Math.floor(s/86400)+'d ago';}
+function stripHtml(s){
+  if(!s)return'';
+  return String(s)
+    .replace(/<[^>]*>/g,' ')
+    .replace(/&nbsp;/g,' ')
+    .replace(/&amp;/g,'&')
+    .replace(/&lt;/g,'<')
+    .replace(/&gt;/g,'>')
+    .replace(/&quot;/g,'"')
+    .replace(/&#39;/g,"'")
+    .replace(/\s+/g,' ')
+    .trim();
+}
+
+function escHtml(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function escAttr(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function cleanArticle(a){
+  if(!a)return null;
+  const title=stripHtml(a.title);
+  const description=stripHtml(a.description);
+  if(!title||!a.url)return null;
+  return {...a,title,description,source:a.source||{name:'Cricket News'}};
+}
+
+function timeAgo(d){if(!d)return'';const s=Math.floor((Date.now()-new Date(d))/1000);if(isNaN(s))return'';if(s<60)return'just now';if(s<3600)return Math.floor(s/60)+'m ago';if(s<86400)return Math.floor(s/3600)+'h ago';return Math.floor(s/86400)+'d ago';}
 function fmtDate(d){return new Date(d).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});}
 function detectCat(t='',d=''){const x=(t+' '+d).toLowerCase();if(/ipl|indian premier/.test(x))return'IPL';if(/bbl|big bash/.test(x))return'BBL';if(/psl|pakistan super/.test(x))return'PSL';if(/cpl|caribbean premier/.test(x))return'CPL';if(/hundred/.test(x))return'The Hundred';if(/ashes/.test(x))return'Ashes';if(/test match|test cricket|\btest\b/.test(x))return'Test';if(/t20|twenty20/.test(x))return'T20';if(/\bodi\b|one.?day/.test(x))return'ODI';if(/women|wpl|wwt20/.test(x))return"Women's";if(/world cup/.test(x))return'World Cup';if(/sa20/.test(x))return'SA20';if(/mlc|major league cricket/.test(x))return'MLC';return'Cricket';}
 
-// Pre-encode article data for safe inline use
-function esc(s){return(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'\\"').replace(/\n/g,' ').replace(/\r/g,'');}
-
 function makeGreenCard(a,featured,cat){
-  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${cat}</span><div class="ncard-title">${a.title||''}</div><div class="ncard-desc">${a.description||''}</div><div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
+  const title=escHtml(a.title);
+  const desc=escHtml(a.description);
+  const src=escHtml(a.source?.name||'Cricket News');
+  const url=escAttr(a.url);
+  return`<a href="${url}" target="_blank" rel="noopener" class="ncard-green${featured?' ncard-featured':''}"><div class="ncard-body"><span class="ncard-cat-inline">${escHtml(cat)}</span><div class="ncard-title">${title}</div>${desc?`<div class="ncard-desc">${desc}</div>`:''}<div class="ncard-foot"><span class="ncard-src">${src}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div></div></a>`;
 }
 
 function makeCard(a,featured=false){
+  if(!a||!a.title||!a.url)return'';
   const cat=detectCat(a.title,a.description);
   if(!a.urlToImage) return makeGreenCard(a,featured,cat);
-  // Use a JS-driven image check — if naturalWidth is 0 after load, treat as broken
-  const uid='c'+Math.random().toString(36).slice(2,8);
-  return`<a href="${a.url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}" id="${uid}">
+  const title=escHtml(a.title);
+  const desc=escHtml(a.description);
+  const src=escHtml(a.source?.name||'Cricket News');
+  const url=escAttr(a.url);
+  const img=escAttr(a.urlToImage);
+  const uid='c'+Math.random().toString(36).slice(2,10);
+  window.__cardSwapRegistry[uid]=a;
+  return`<a href="${url}" target="_blank" rel="noopener" class="ncard${featured?' ncard-featured':''}" id="${uid}">
     <div class="ncard-img">
-      <img src="${a.urlToImage}" alt="" loading="lazy"
-        onload="if(this.naturalWidth<2){var c=document.getElementById('${uid}');if(c){c.outerHTML='${esc(makeGreenCard(a,featured,cat))}';}}"
-        onerror="var c=document.getElementById('${uid}');if(c){c.outerHTML='${esc(makeGreenCard(a,featured,cat))};'}" />
-      <span class="ncard-cat">${cat}</span>
+      <img src="${img}" alt="" loading="lazy" onerror="window.__swapToGreen&&window.__swapToGreen('${uid}')" />
+      <span class="ncard-cat">${escHtml(cat)}</span>
     </div>
     <div class="ncard-body">
-      <div class="ncard-title">${a.title||''}</div>
-      <div class="ncard-desc">${a.description||''}</div>
-      <div class="ncard-foot"><span class="ncard-src">${a.source?.name||'Cricket News'}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div>
+      <div class="ncard-title">${title}</div>
+      ${desc?`<div class="ncard-desc">${desc}</div>`:''}
+      <div class="ncard-foot"><span class="ncard-src">${src}</span><span class="ncard-time">${timeAgo(a.publishedAt)}</span></div>
     </div>
   </a>`;
 }
+
+window.__cardSwapRegistry={};
+window.__swapToGreen=function(uid){
+  const data=window.__cardSwapRegistry[uid];
+  const el=document.getElementById(uid);
+  if(data&&el){
+    const cat=detectCat(data.title,data.description);
+    el.outerHTML=makeGreenCard(data,false,cat);
+  }
+};
 
 function showTab(name){
   document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
@@ -523,21 +548,21 @@ function filterNews(cat,el){
 function renderNews(articles){
   const el=document.getElementById('news-container');
   let list=articles;
-  if(currentFilter!=='all'){list=articles.filter(a=>{const cat=detectCat(a.title||'',a.description||'');const txt=(a.title+' '+(a.description||'')).toLowerCase();return cat.toLowerCase().includes(currentFilter.toLowerCase())||txt.includes(currentFilter.toLowerCase());});}
+  if(currentFilter!=='all'){list=articles.filter(a=>{const cat=detectCat(a.title||'',a.description||'');const txt=((a.title||'')+' '+(a.description||'')).toLowerCase();return cat.toLowerCase().includes(currentFilter.toLowerCase())||txt.includes(currentFilter.toLowerCase());});}
   if(!list.length){el.innerHTML='<div class="empty"><div class="eicon">🏏</div><p>No articles for this filter yet — check back after the next refresh.</p></div>';return;}
-  el.innerHTML=`<div class="news-grid">${list.map((a,i)=>makeCard(a,i===0&&currentFilter==='all')).join('')}</div>`;
+  el.innerHTML=`<div class="news-grid">${list.map((a,i)=>makeCard(a,i===0&&currentFilter==='all')).filter(Boolean).join('')}</div>`;
 }
 
 function renderCulture(articles){
   const el=document.getElementById('culture-container');
   if(!articles.length){el.innerHTML='<div class="empty"><div class="eicon">🌏</div><p>Culture articles loading...</p></div>';return;}
-  el.innerHTML=`<div class="news-grid">${articles.map(a=>makeCard(a)).join('')}</div>`;
+  el.innerHTML=`<div class="news-grid">${articles.map(a=>makeCard(a)).filter(Boolean).join('')}</div>`;
 }
 
 function renderVideos(videos){
   const el=document.getElementById('videos-container');
   if(!videos||!videos.length){el.innerHTML='<div class="empty"><div class="eicon">▶</div><p>Video highlights loading from the pipeline...</p></div>';return;}
-  el.innerHTML=`<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.25rem;">${videos.map(v=>`<a href="${v.url||'#'}" target="_blank" rel="noopener" style="background:var(--card);border-radius:var(--r);overflow:hidden;text-decoration:none;display:block;"><div style="width:100%;aspect-ratio:16/9;background:var(--g2);position:relative;">${v.thumbnail?`<img src="${v.thumbnail}" alt="" style="width:100%;height:100%;object-fit:cover;" />`:'<div style="width:100%;height:100%;background:linear-gradient(135deg,var(--g3),var(--g1));display:flex;align-items:center;justify-content:center;font-size:2rem;opacity:0.3;">▶</div>'}</div><div style="padding:0.9rem 1.1rem;"><div style="font-family:Playfair Display,serif;font-size:0.92rem;font-weight:700;color:var(--text1);">${v.title||''}</div></div></a>`).join('')}</div>`;
+  el.innerHTML=`<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.25rem;">${videos.map(v=>`<a href="${escAttr(v.url||'#')}" target="_blank" rel="noopener" style="background:var(--card);border-radius:var(--r);overflow:hidden;text-decoration:none;display:block;"><div style="width:100%;aspect-ratio:16/9;background:var(--g2);position:relative;">${v.thumbnail?`<img src="${escAttr(v.thumbnail)}" alt="" style="width:100%;height:100%;object-fit:cover;" />`:'<div style="width:100%;height:100%;background:linear-gradient(135deg,var(--g3),var(--g1));display:flex;align-items:center;justify-content:center;font-size:2rem;opacity:0.3;">▶</div>'}</div><div style="padding:0.9rem 1.1rem;"><div style="font-family:Playfair Display,serif;font-size:0.92rem;font-weight:700;color:var(--text1);">${escHtml(stripHtml(v.title||''))}</div></div></a>`).join('')}</div>`;
 }
 
 function renderPodcasts(){
@@ -554,8 +579,8 @@ function renderRecentMatches(){
   const list=major.length?major:recentMatches.slice(0,6);
   el.innerHTML=list.map(m=>{
     const isLive=m.matchStarted&&!m.matchEnded;
-    const scores=(m.score||[]).map(s=>`${s.inning.replace(' Inning 1','').replace(' Inning 2','')}: ${s.r}/${s.w} (${s.o} ov)`).join('<br>');
-    return`<div class="match-card"><div class="match-teams">${(m.teams||[]).join(' vs ')}${isLive?'<span class="match-live-badge">Live</span>':''}</div>${scores?`<div class="match-score">${scores}</div>`:''}<div class="match-status">${m.status||''}</div><div class="match-venue">${m.venue||''}</div></div>`;
+    const scores=(m.score||[]).map(s=>`${escHtml(s.inning.replace(' Inning 1','').replace(' Inning 2',''))}: ${s.r}/${s.w} (${s.o} ov)`).join('<br>');
+    return`<div class="match-card"><div class="match-teams">${escHtml((m.teams||[]).join(' vs '))}${isLive?'<span class="match-live-badge">Live</span>':''}</div>${scores?`<div class="match-score">${scores}</div>`:''}<div class="match-status">${escHtml(m.status||'')}</div><div class="match-venue">${escHtml(m.venue||'')}</div></div>`;
   }).join('');
 }
 
@@ -563,10 +588,10 @@ function renderStandings(league){
   const d=statsData[league.id];
   if(!d||!d.standings||!d.standings.length){
     if(league.live)return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table</div><div class="stats-note">Standings updating — refreshed 4× daily.</div></div>`;
-    return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table — ${league.name}</div><div class="stats-note">Season not yet started. Check back when the ${league.name} season goes live.</div></div>`;
+    return`<div class="stats-panel"><div class="stats-panel-hdr">🏆 Points Table — ${escHtml(league.name)}</div><div class="stats-note">Season not yet started. Check back when the ${escHtml(league.name)} season goes live.</div></div>`;
   }
-  const label=d.seriesName?`🏆 Points Table — ${d.seriesName}`:'🏆 Points Table';
-  const rows=d.standings.map((t,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${t.team}</td><td>${t.played}</td><td>${t.won}</td><td>${t.lost}</td><td>${t.nr||0}</td><td>${t.points}</td></tr>`).join('');
+  const label=d.seriesName?`🏆 Points Table — ${escHtml(d.seriesName)}`:'🏆 Points Table';
+  const rows=d.standings.map((t,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${escHtml(t.team)}</td><td>${t.played}</td><td>${t.won}</td><td>${t.lost}</td><td>${t.nr||0}</td><td>${t.points}</td></tr>`).join('');
   return`<div class="stats-panel"><div class="stats-panel-hdr">${label}</div><table class="stats-table"><thead><tr><th>#</th><th>Team</th><th>P</th><th>W</th><th>L</th><th>NR</th><th>Pts</th></tr></thead><tbody>${rows}</tbody></table></div>`;
 }
 
@@ -578,16 +603,19 @@ function renderPlayerStats(league){
     if(!league.live)return'';
     return`<div class="stats-player-grid"><div class="stats-panel"><div class="stats-panel-hdr">🏏 Top Run Scorers</div><div class="stats-note">Player stats update nightly from match scorecards.</div></div><div class="stats-panel"><div class="stats-panel-hdr">🎯 Top Wicket Takers</div><div class="stats-note">Player stats update nightly from match scorecards.</div></div></div>`;
   }
-  const bHtml=batters.length?`<table class="stats-table"><thead><tr><th>#</th><th>Player</th><th>Runs</th><th>Inns</th><th>Avg</th><th>SR</th></tr></thead><tbody>${batters.map((b,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${b.name}</td><td>${b.runs}</td><td>${b.innings}</td><td>${b.average}</td><td>${b.strikeRate}</td></tr>`).join('')}</tbody></table>`:`<div class="stats-note">Stats loading...</div>`;
-  const wHtml=bowlers.length?`<table class="stats-table"><thead><tr><th>#</th><th>Player</th><th>Wkts</th><th>Overs</th><th>Econ</th></tr></thead><tbody>${bowlers.map((b,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${b.name}</td><td>${b.wickets}</td><td>${b.overs}</td><td>${b.economy}</td></tr>`).join('')}</tbody></table>`:`<div class="stats-note">Stats loading...</div>`;
+  const bHtml=batters.length?`<table class="stats-table"><thead><tr><th>#</th><th>Player</th><th>Runs</th><th>Inns</th><th>Avg</th><th>SR</th></tr></thead><tbody>${batters.map((b,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${escHtml(b.name)}</td><td>${b.runs}</td><td>${b.innings}</td><td>${b.average}</td><td>${b.strikeRate}</td></tr>`).join('')}</tbody></table>`:`<div class="stats-note">Stats loading...</div>`;
+  const wHtml=bowlers.length?`<table class="stats-table"><thead><tr><th>#</th><th>Player</th><th>Wkts</th><th>Overs</th><th>Econ</th></tr></thead><tbody>${bowlers.map((b,i)=>`<tr><td class="stats-rank">${i+1}</td><td class="stats-player">${escHtml(b.name)}</td><td>${b.wickets}</td><td>${b.overs}</td><td>${b.economy}</td></tr>`).join('')}</tbody></table>`:`<div class="stats-note">Stats loading...</div>`;
   return`<div class="stats-player-grid"><div class="stats-panel"><div class="stats-panel-hdr">🏏 Top Run Scorers</div>${bHtml}</div><div class="stats-panel"><div class="stats-panel-hdr">🎯 Top Wicket Takers</div>${wHtml}</div></div>`;
 }
 
 function renderLeagueNews(league){
-  const kw=[league.id,league.abbr,league.name.split(' ').slice(0,2).join(' ')];
-  const matches=allArticles.filter(a=>{const txt=((a.title||'')+(a.description||'')).toLowerCase();return kw.some(k=>txt.includes(k.toLowerCase()));}).slice(0,6);
+  const kw=[league.id,league.abbr,league.name,...(league.teams||[])].map(k=>k.toLowerCase().trim()).filter(Boolean);
+  const matches=allArticles.filter(a=>{
+    const txt=(((a.title||'')+' '+(a.description||''))).toLowerCase();
+    return kw.some(k=>k.length>=2&&txt.includes(k));
+  }).slice(0,6);
   if(!matches.length)return'<div class="empty" style="grid-column:1/-1;padding:2rem;"><div class="eicon">🏏</div><p>No recent news — check back after the next pipeline refresh.</p></div>';
-  return matches.map(a=>makeCard(a)).join('');
+  return matches.map(a=>makeCard(a)).filter(Boolean).join('');
 }
 
 function showLeague(id,el){
@@ -602,11 +630,11 @@ function renderLeagues(){
   const panels=document.getElementById('league-panels');
   sel.innerHTML=LEAGUES.map((l,i)=>`<button class="lchip${i===0?' active':''}" onclick="showLeague('${l.id}',this)">${l.emoji} ${l.abbr}${l.live?' 🟢':''}</button>`).join('');
   panels.innerHTML=LEAGUES.map((l,i)=>`<div id="league-${l.id}" class="league-view${i===0?' active':''}">
-    <div class="league-title">${l.emoji} ${l.name}<span class="season-badge ${l.live?'season-live':'season-off'}">${l.live?'In Season':'Off Season'}</span></div>
-    <div class="league-subtitle">${l.abbr} · ${l.region}</div>
-    <div class="league-desc">${l.desc}</div>
+    <div class="league-title">${l.emoji} ${escHtml(l.name)}<span class="season-badge ${l.live?'season-live':'season-off'}">${l.live?'In Season':'Off Season'}</span></div>
+    <div class="league-subtitle">${escHtml(l.abbr)} · ${escHtml(l.region)}</div>
+    <div class="league-desc">${escHtml(l.desc)}</div>
     <div class="league-stats-wrap">${renderStandings(l)}${renderPlayerStats(l)}</div>
-    <div class="league-news-title">Latest ${l.name} News</div>
+    <div class="league-news-title">Latest ${escHtml(l.name)} News</div>
     <div class="news-grid">${renderLeagueNews(l)}</div>
   </div>`).join('');
 }
@@ -627,10 +655,10 @@ function showArchiveDate(date,el){
 }
 
 function showArchiveDateById(date){
-  const articles=archiveData[date]||[];
+  const articles=(archiveData[date]||[]).map(cleanArticle).filter(Boolean);
   const container=document.getElementById('archive-container');
   if(!articles.length){container.innerHTML='<div class="empty"><div class="eicon">📁</div><p>No articles stored for this date.</p></div>';return;}
-  container.innerHTML=`<div class="news-grid">${articles.map(a=>makeCard(a)).join('')}</div>`;
+  container.innerHTML=`<div class="news-grid">${articles.map(a=>makeCard(a)).filter(Boolean).join('')}</div>`;
 }
 
 async function loadData(){
@@ -643,8 +671,8 @@ async function loadData(){
     if(artRes.status==='fulfilled'&&artRes.value.ok){
       const data=await artRes.value.json();
       if(data.lastUpdated)document.getElementById('news-updated').textContent='Updated '+timeAgo(data.lastUpdated);
-      allArticles=(data.articles||[]).filter(a=>a&&a.title&&a.url);
-      allCulture=(data.culture||[]).filter(a=>a&&a.title&&a.url);
+      allArticles=(data.articles||[]).map(cleanArticle).filter(Boolean);
+      allCulture=(data.culture||[]).map(cleanArticle).filter(Boolean);
       renderNews(allArticles);
       renderCulture(allCulture);
       renderVideos(data.videos||[]);
