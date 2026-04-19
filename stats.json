@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T04:55:13.251Z",
+  "lastUpdated": "2026-04-19T08:40:56.148Z",
   "recentMatches": [
     {
       "id": "f7b445af-5930-4eb0-9fd5-93783dce54c2",
@@ -115,20 +115,7 @@
           "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 194,
-          "w": 9,
-          "o": 20,
-          "inning": "Sunrisers Hyderabad Inning 1"
-        },
-        {
-          "r": 184,
-          "w": 8,
-          "o": 20,
-          "inning": "Chennai Super Kings Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -616,20 +603,7 @@
           "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 341,
-          "w": 10,
-          "o": 88.5,
-          "inning": "middlesex Inning 1"
-        },
-        {
-          "r": 229,
-          "w": 4,
-          "o": 56,
-          "inning": "Northamptonshire,Middlesex Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -706,26 +680,7 @@
           "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 238,
-          "w": 10,
-          "o": 59.1,
-          "inning": "hampshire Inning 1"
-        },
-        {
-          "r": 288,
-          "w": 10,
-          "o": 85.1,
-          "inning": "Hampshire,Somerset Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 1,
-          "o": 44,
-          "inning": "hampshire Inning 2"
-        }
-      ],
+      "score": [],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
@@ -871,7 +826,7 @@
     {
       "id": "a63f1d46-adb4-47f6-b178-479983a5688d",
       "name": "Sri Lanka A vs New Zealand A, 1st unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Day 4: 1st Session - New Zealand A lead by 35 runs",
+      "status": "Day 4: Rain stops play - Sri Lanka A trail by 28 runs",
       "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
       "date": "2026-04-16",
       "dateTimeGMT": "2026-04-16T04:00:00",
@@ -899,10 +854,16 @@
           "inning": "sri lanka a Inning 1"
         },
         {
-          "r": 416,
-          "w": 9,
-          "o": 141.3,
+          "r": 479,
+          "w": 10,
+          "o": 153.4,
           "inning": "Sri Lanka A,New Zealand A Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 2,
+          "o": 24.4,
+          "inning": "sri lanka a Inning 2"
         }
       ],
       "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
