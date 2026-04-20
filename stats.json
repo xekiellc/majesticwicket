@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T05:17:59.692Z",
+  "lastUpdated": "2026-04-20T09:30:51.713Z",
   "recentMatches": [
     {
       "id": "d2ab6f4c-7626-44df-80ba-5c7c741fda86",
@@ -1125,7 +1125,7 @@
     {
       "id": "e95ef39a-862e-4420-a53e-017fe40d5772",
       "name": "Bangladesh Women vs Sri Lanka Women, 1st ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Sri Lanka Women opt to bat",
+      "status": "Bangladesh Women need 85 runs",
       "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
       "date": "2026-04-20",
       "dateTimeGMT": "2026-04-20T03:30:00",
@@ -1147,10 +1147,16 @@
       ],
       "score": [
         {
-          "r": 105,
-          "w": 2,
-          "o": 25.2,
+          "r": 205,
+          "w": 9,
+          "o": 50,
           "inning": "sri lanka women Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 3,
+          "o": 27.3,
+          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
         }
       ],
       "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
