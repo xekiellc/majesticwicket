@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-20T09:30:51.713Z",
+  "lastUpdated": "2026-04-20T15:21:32.591Z",
   "recentMatches": [
+    {
+      "id": "cedfd8cf-bf9a-4695-92b4-c0ff60ff6c7e",
+      "name": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026",
+      "matchType": "t20",
+      "status": "UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-04-20",
+      "dateTimeGMT": "2026-04-20T11:15:00",
+      "teams": [
+        "Nepal",
+        "United Arab Emirates"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 122,
+          "w": 8,
+          "o": 18.5,
+          "inning": "nepal Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 4,
+          "o": 8.5,
+          "inning": "Nepal,United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "d2ab6f4c-7626-44df-80ba-5c7c741fda86",
       "name": "Italy Women vs Nepal Women, 4th Match, ICC Womens T20I Challenge Trophy 2026",
@@ -180,6 +225,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "97adf747-1086-489e-b892-3823ebffa555",
+      "name": "Gujarat Titans vs Mumbai Indians, 30th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Gujarat Titans opt to bowl",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2026-04-20",
+      "dateTimeGMT": "2026-04-20T14:00:00",
+      "teams": [
+        "Gujarat Titans",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gujarat Titans",
+          "shortname": "GT",
+          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+        },
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 4,
+          "o": 16,
+          "inning": "Mumbai Indians Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "ca8f24c0-6eef-4f8e-b50f-c63fc2b1ca98",
@@ -725,7 +809,7 @@
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Lancashire need 127 runs",
+      "status": "Lancashire won by 4 wkts",
       "venue": "County Ground, Bristol",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -765,9 +849,9 @@
           "inning": "Gloucestershire Inning 2"
         },
         {
-          "r": 75,
-          "w": 3,
-          "o": 28,
+          "r": 203,
+          "w": 6,
+          "o": 61.5,
           "inning": "Lancashire Inning 2"
         }
       ],
@@ -776,13 +860,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "dd4af4b7-ee1c-4a2d-9b23-a0cdd6d0e196",
       "name": "Northamptonshire vs Middlesex, 9th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Middlesex lead by 41 runs",
+      "status": "Day 4: 3rd Session - Middlesex lead by 284 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -816,9 +900,9 @@
           "inning": "Northamptonshire,Middlesex Inning 1"
         },
         {
-          "r": 109,
-          "w": 1,
-          "o": 38,
+          "r": 352,
+          "w": 3,
+          "o": 103,
           "inning": "middlesex Inning 2"
         }
       ],
@@ -833,7 +917,7 @@
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
       "name": "Warwickshire vs Essex, 12th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Essex need 195 runs",
+      "status": "Warwickshire won by 41 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -873,9 +957,9 @@
           "inning": "Warwickshire Inning 2"
         },
         {
-          "r": 11,
-          "w": 0,
-          "o": 4,
+          "r": 164,
+          "w": 10,
+          "o": 64.2,
           "inning": "Essex Inning 2"
         }
       ],
@@ -884,13 +968,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f8bfa7bd-2e42-4d04-8133-6c28fb98fc40",
       "name": "Hampshire vs Somerset, 11th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Somerset need 148 runs",
+      "status": "Somerset won by 2 wkts",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -930,9 +1014,9 @@
           "inning": "hampshire Inning 2"
         },
         {
-          "r": 139,
-          "w": 3,
-          "o": 39,
+          "r": 288,
+          "w": 8,
+          "o": 92.1,
           "inning": "Hampshire,Somerset Inning 2"
         }
       ],
@@ -941,7 +1025,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b73747dd-5c03-43a8-8b8b-f4d02c27abaa",
@@ -1082,89 +1166,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
-      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-04-04",
-      "dateTimeGMT": "2026-04-04T11:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Greece Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 47,
-          "w": 5,
-          "o": 7.5,
-          "inning": "cyprus women Inning 1"
-        }
-      ],
-      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "e95ef39a-862e-4420-a53e-017fe40d5772",
-      "name": "Bangladesh Women vs Sri Lanka Women, 1st ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Bangladesh Women need 85 runs",
-      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T03:30:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 205,
-          "w": 9,
-          "o": 50,
-          "inning": "sri lanka women Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 3,
-          "o": 27.3,
-          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
