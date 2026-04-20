@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T20:43:16.428Z",
+  "lastUpdated": "2026-04-20T05:17:59.692Z",
   "recentMatches": [
     {
       "id": "d2ab6f4c-7626-44df-80ba-5c7c741fda86",
@@ -1123,49 +1123,42 @@
       "matchEnded": false
     },
     {
-      "id": "bd9be3f1-f090-4e96-9f59-103d02b12603",
-      "name": "Bangladesh vs New Zealand, 1st ODI, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "New Zealand won by 26 runs",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "date": "2026-04-17",
-      "dateTimeGMT": "2026-04-17T08:15:00",
+      "id": "e95ef39a-862e-4420-a53e-017fe40d5772",
+      "name": "Bangladesh Women vs Sri Lanka Women, 1st ODI, Sri Lanka Women tour of Bangladesh, 2026",
+      "status": "Sri Lanka Women opt to bat",
+      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
+      "date": "2026-04-20",
+      "dateTimeGMT": "2026-04-20T03:30:00",
       "teams": [
-        "Bangladesh",
-        "New Zealand"
+        "Bangladesh Women",
+        "Sri Lanka Women"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
         },
         {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 247,
-          "w": 8,
-          "o": 50,
-          "inning": "new zealand Inning 1"
-        },
-        {
-          "r": 221,
-          "w": 10,
-          "o": 48.3,
-          "inning": "Bangladesh,New Zealand Inning 1"
+          "r": 105,
+          "w": 2,
+          "o": 25.2,
+          "inning": "sri lanka women Inning 1"
         }
       ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
