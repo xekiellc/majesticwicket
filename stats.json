@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T15:21:32.591Z",
+  "lastUpdated": "2026-04-20T20:54:25.946Z",
   "recentMatches": [
     {
       "id": "cedfd8cf-bf9a-4695-92b4-c0ff60ff6c7e",
@@ -230,7 +230,7 @@
       "id": "97adf747-1086-489e-b892-3823ebffa555",
       "name": "Gujarat Titans vs Mumbai Indians, 30th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Gujarat Titans opt to bowl",
+      "status": "Mumbai Indians won by 99 runs",
       "venue": "Narendra Modi Stadium, Ahmedabad",
       "date": "2026-04-20",
       "dateTimeGMT": "2026-04-20T14:00:00",
@@ -252,10 +252,16 @@
       ],
       "score": [
         {
-          "r": 126,
-          "w": 4,
-          "o": 16,
+          "r": 199,
+          "w": 5,
+          "o": 20,
           "inning": "Mumbai Indians Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 10,
+          "o": 15.5,
+          "inning": "Gujarat Titans Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -263,7 +269,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "ca8f24c0-6eef-4f8e-b50f-c63fc2b1ca98",
@@ -491,51 +497,6 @@
       "matchEnded": true
     },
     {
-      "id": "6289a2c9-75ee-49e1-9b83-ad7df53dcc21",
-      "name": "Mumbai Indians vs Punjab Kings, 24th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Punjab Kings won by 7 wkts",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2026-04-16",
-      "dateTimeGMT": "2026-04-16T14:00:00",
-      "teams": [
-        "Mumbai Indians",
-        "Punjab Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        },
-        {
-          "name": "Punjab Kings",
-          "shortname": "PBKS",
-          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 195,
-          "w": 6,
-          "o": 20,
-          "inning": "Mumbai Indians Inning 1"
-        },
-        {
-          "r": 198,
-          "w": 3,
-          "o": 16.3,
-          "inning": "Punjab Kings Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "fb9c38a7-14c3-462d-b862-7a578e5ae0ed",
       "name": "Peshawar Zalmi vs Quetta Gladiators, 29th Match, Pakistan Super League 2026",
       "matchType": "t20",
@@ -716,96 +677,6 @@
       "matchEnded": true
     },
     {
-      "id": "f70c7bd5-9067-4b23-a330-294a9ce2f629",
-      "name": "Karachi Kings vs Islamabad United, 25th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Islamabad United won by 8 wkts",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-16",
-      "dateTimeGMT": "2026-04-16T14:00:00",
-      "teams": [
-        "Karachi Kings",
-        "Islamabad United"
-      ],
-      "teamInfo": [
-        {
-          "name": "Islamabad United",
-          "shortname": "ISU",
-          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
-        },
-        {
-          "name": "Karachi Kings",
-          "shortname": "KRK",
-          "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 150,
-          "w": 6,
-          "o": 20,
-          "inning": "Karachi Kings Inning 1"
-        },
-        {
-          "r": 153,
-          "w": 2,
-          "o": 16,
-          "inning": "Islamabad United Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "01a1f5b4-5dec-4259-9182-5cb5ad1bd4a0",
-      "name": "Hyderabad Kingsmen vs Rawalpindiz, 24th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Hyderabad Kingsmen won by 5 wkts",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-16",
-      "dateTimeGMT": "2026-04-16T09:30:00",
-      "teams": [
-        "Hyderabad Kingsmen",
-        "Rawalpindiz"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad Kingsmen",
-          "shortname": "HK",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Rawalpindiz",
-          "shortname": "R",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 9,
-          "o": 20,
-          "inning": "Rawalpindiz Inning 1"
-        },
-        {
-          "r": 123,
-          "w": 5,
-          "o": 16.3,
-          "inning": "Hyderabad Kingsmen Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0c4bc613-db34-4bbf-96e9-a7b1b6304adc",
       "name": "Gloucestershire vs Lancashire, 10th Match, County Championship Division Two 2026",
       "matchType": "test",
@@ -866,7 +737,7 @@
       "id": "dd4af4b7-ee1c-4a2d-9b23-a0cdd6d0e196",
       "name": "Northamptonshire vs Middlesex, 9th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 4: 3rd Session - Middlesex lead by 284 runs",
+      "status": "Match drawn",
       "venue": "County Ground, Northampton",
       "date": "2026-04-17",
       "dateTimeGMT": "2026-04-17T10:00:00",
@@ -900,9 +771,9 @@
           "inning": "Northamptonshire,Middlesex Inning 1"
         },
         {
-          "r": 352,
+          "r": 353,
           "w": 3,
-          "o": 103,
+          "o": 104,
           "inning": "middlesex Inning 2"
         }
       ],
@@ -911,7 +782,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5a97229c-daab-4baf-ad89-e7a04c3a0806",
@@ -1118,49 +989,172 @@
       "matchEnded": true
     },
     {
-      "id": "a63f1d46-adb4-47f6-b178-479983a5688d",
-      "name": "Sri Lanka A vs New Zealand A, 1st unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Match drawn",
-      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
-      "date": "2026-04-16",
-      "dateTimeGMT": "2026-04-16T04:00:00",
+      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
+      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Cyprus Women opt to bat",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-04-04",
+      "dateTimeGMT": "2026-04-04T11:30:00",
       "teams": [
-        "Sri Lanka A",
-        "New Zealand A"
+        "Cyprus Women",
+        "Greece Women"
       ],
       "teamInfo": [
         {
-          "name": "New Zealand A",
-          "shortname": "NZA",
-          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Sri Lanka A",
-          "shortname": "SLA",
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 47,
+          "w": 5,
+          "o": 7.5,
+          "inning": "cyprus women Inning 1"
+        }
+      ],
+      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e95ef39a-862e-4420-a53e-017fe40d5772",
+      "name": "Bangladesh Women vs Sri Lanka Women, 1st ODI, Sri Lanka Women tour of Bangladesh, 2026",
+      "status": "Bangladesh Women won by 3 wkts",
+      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
+      "date": "2026-04-20",
+      "dateTimeGMT": "2026-04-20T03:30:00",
+      "teams": [
+        "Bangladesh Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
           "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 381,
-          "w": 10,
-          "o": 97.5,
-          "inning": "sri lanka a Inning 1"
+          "r": 205,
+          "w": 9,
+          "o": 50,
+          "inning": "sri lanka women Inning 1"
         },
         {
-          "r": 479,
-          "w": 10,
-          "o": 153.4,
-          "inning": "Sri Lanka A,New Zealand A Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 4,
-          "o": 49,
-          "inning": "sri lanka a Inning 2"
+          "r": 206,
+          "w": 7,
+          "o": 48.3,
+          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
         }
       ],
-      "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
+      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "568fa439-cb83-4e8e-af0c-2bd6539e953d",
+      "name": "Bangladesh vs New Zealand, 2nd ODI, New Zealand tour of Bangladesh, 2026",
+      "matchType": "odi",
+      "status": "Bangladesh won by 6 wkts",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2026-04-20",
+      "dateTimeGMT": "2026-04-20T08:15:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 198,
+          "w": 10,
+          "o": 48.4,
+          "inning": "new zealand Inning 1"
+        },
+        {
+          "r": 199,
+          "w": 4,
+          "o": 35.3,
+          "inning": "Bangladesh,New Zealand Inning 1"
+        }
+      ],
+      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bd9be3f1-f090-4e96-9f59-103d02b12603",
+      "name": "Bangladesh vs New Zealand, 1st ODI, New Zealand tour of Bangladesh, 2026",
+      "matchType": "odi",
+      "status": "New Zealand won by 26 runs",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2026-04-17",
+      "dateTimeGMT": "2026-04-17T08:15:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 247,
+          "w": 8,
+          "o": 50,
+          "inning": "new zealand Inning 1"
+        },
+        {
+          "r": 221,
+          "w": 10,
+          "o": 48.3,
+          "inning": "Bangladesh,New Zealand Inning 1"
+        }
+      ],
+      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -1215,14 +1209,22 @@
       },
       {
         "team": "Gujarat Titans",
-        "played": 5,
+        "played": 6,
         "won": 3,
-        "lost": 2,
+        "lost": 3,
         "nr": 0,
         "points": 6
       },
       {
         "team": "Chennai Super Kings",
+        "played": 6,
+        "won": 2,
+        "lost": 4,
+        "nr": 0,
+        "points": 4
+      },
+      {
+        "team": "Mumbai Indians",
         "played": 6,
         "won": 2,
         "lost": 4,
@@ -1244,14 +1246,6 @@
         "lost": 5,
         "nr": 1,
         "points": 3
-      },
-      {
-        "team": "Mumbai Indians",
-        "played": 5,
-        "won": 1,
-        "lost": 4,
-        "nr": 0,
-        "points": 2
       }
     ],
     "topBatters": [],
