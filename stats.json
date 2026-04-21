@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T20:54:25.946Z",
+  "lastUpdated": "2026-04-21T04:52:29.003Z",
   "recentMatches": [
     {
       "id": "cedfd8cf-bf9a-4695-92b4-c0ff60ff6c7e",
@@ -40,9 +40,9 @@
         }
       ],
       "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
