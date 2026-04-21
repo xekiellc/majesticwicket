@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T04:52:29.003Z",
+  "lastUpdated": "2026-04-21T09:16:17.166Z",
   "recentMatches": [
     {
       "id": "cedfd8cf-bf9a-4695-92b4-c0ff60ff6c7e",
@@ -45,6 +45,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "d5d1cd95-dea3-4900-9a95-f39baa86679c",
+      "name": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "United States of America Women need 120 runs",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-21",
+      "dateTimeGMT": "2026-04-21T07:00:00",
+      "teams": [
+        "Rwanda Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 4,
+          "o": 20,
+          "inning": "rwanda women Inning 1"
+        },
+        {
+          "r": 8,
+          "w": 0,
+          "o": 2,
+          "inning": "Rwanda Women,United States of America Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "d2ab6f4c-7626-44df-80ba-5c7c741fda86",
@@ -1106,51 +1151,6 @@
           "r": 199,
           "w": 4,
           "o": 35.3,
-          "inning": "Bangladesh,New Zealand Inning 1"
-        }
-      ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bd9be3f1-f090-4e96-9f59-103d02b12603",
-      "name": "Bangladesh vs New Zealand, 1st ODI, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "New Zealand won by 26 runs",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "date": "2026-04-17",
-      "dateTimeGMT": "2026-04-17T08:15:00",
-      "teams": [
-        "Bangladesh",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 247,
-          "w": 8,
-          "o": 50,
-          "inning": "new zealand Inning 1"
-        },
-        {
-          "r": 221,
-          "w": 10,
-          "o": 48.3,
           "inning": "Bangladesh,New Zealand Inning 1"
         }
       ],
