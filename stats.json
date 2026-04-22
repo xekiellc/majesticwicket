@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T09:10:09.816Z",
+  "lastUpdated": "2026-04-22T15:15:41.199Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -92,10 +92,55 @@
       "matchEnded": true
     },
     {
+      "id": "1bd37d6c-5f15-4f1c-85ad-e782e02306dd",
+      "name": "United States of America Women vs Vanuatu Women, 8th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "United States of America Women won by 53 runs",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-04-22",
+      "dateTimeGMT": "2026-04-22T11:50:00",
+      "teams": [
+        "United States of America Women",
+        "Vanuatu Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 6,
+          "o": 20,
+          "inning": "united states of america women Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 10,
+          "o": 20,
+          "inning": "United States of America Women,Vanuatu Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "3511937e-f7b3-4e07-97ad-ed963d25a34d",
       "name": "Rwanda Women vs Nepal Women, 7th Match, ICC Womens T20I Challenge Trophy 2026",
       "matchType": "t20",
-      "status": "Nepal Women need 58 runs in 87 balls",
+      "status": "Nepal Women won by 2 wkts",
       "venue": "Gahanga B Ground, Kigali City",
       "date": "2026-04-22",
       "dateTimeGMT": "2026-04-22T07:00:00",
@@ -123,9 +168,9 @@
           "inning": "rwanda women Inning 1"
         },
         {
-          "r": 31,
-          "w": 0,
-          "o": 5.3,
+          "r": 89,
+          "w": 8,
+          "o": 19.4,
           "inning": "Rwanda Women,Nepal Women Inning 1"
         }
       ],
@@ -134,7 +179,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "cf0f6af7-20d0-463c-859c-ef4134ec7bb3",
@@ -407,6 +452,45 @@
       "matchEnded": true
     },
     {
+      "id": "b8ec0cee-4d2f-456d-a815-a987e806f99a",
+      "name": "Lucknow Super Giants vs Rajasthan Royals, 32nd Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Lucknow Super Giants opt to bowl",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2026-04-22",
+      "dateTimeGMT": "2026-04-22T14:00:00",
+      "teams": [
+        "Lucknow Super Giants",
+        "Rajasthan Royals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lucknow Super Giants",
+          "shortname": "LSG",
+          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+        },
+        {
+          "name": "Rajasthan Royals",
+          "shortname": "RR",
+          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 83,
+          "w": 5,
+          "o": 12,
+          "inning": "Rajasthan Royals Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "e4f4995f-036e-451d-861e-42567c82d87f",
       "name": "Sunrisers Hyderabad vs Delhi Capitals, 31st Match, Indian Premier League 2026",
       "matchType": "t20",
@@ -677,10 +761,49 @@
       "matchEnded": true
     },
     {
+      "id": "c06fa9d5-9451-460d-a715-50e2a13409f5",
+      "name": "Hyderabad Kingsmen vs Multan Sultans, 33rd Match, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Hyderabad Kingsmen opt to bowl",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-04-22",
+      "dateTimeGMT": "2026-04-22T14:00:00",
+      "teams": [
+        "Hyderabad Kingsmen",
+        "Multan Sultans"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad Kingsmen",
+          "shortname": "HK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Multan Sultans",
+          "shortname": "MS",
+          "img": "https://g.cricapi.com/iapi/50-637991992950999418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 60,
+          "w": 0,
+          "o": 6.3,
+          "inning": "Multan Sultans Inning 1"
+        }
+      ],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "365a7744-00d1-4feb-89de-6bf0365b0a08",
       "name": "Karachi Kings vs Peshawar Zalmi, 32nd Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Karachi Kings opt to bat",
+      "status": "Peshawar Zalmi won by 7 wkts",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-04-22",
       "dateTimeGMT": "2026-04-22T09:30:00",
@@ -700,12 +823,26 @@
           "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 182,
+          "w": 9,
+          "o": 20,
+          "inning": "karachi kings Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 3,
+          "o": 18.5,
+          "inning": "Karachi Kings,Peshawar Zalmi Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "1bde8745-ea7a-4189-a270-dac8b94e1e5c",
@@ -976,133 +1113,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
-      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-04-04",
-      "dateTimeGMT": "2026-04-04T11:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Greece Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 47,
-          "w": 5,
-          "o": 7.5,
-          "inning": "cyprus women Inning 1"
-        }
-      ],
-      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "1dde6534-3298-4181-8257-0b831c84814d",
-      "name": "Bangladesh Women vs Sri Lanka Women, 2nd ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Sri Lanka Women need 26 runs",
-      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
-      "date": "2026-04-22",
-      "dateTimeGMT": "2026-04-22T03:30:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 10,
-          "o": 45.5,
-          "inning": "bangladesh women Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 3,
-          "o": 30.3,
-          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "e95ef39a-862e-4420-a53e-017fe40d5772",
-      "name": "Bangladesh Women vs Sri Lanka Women, 1st ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Bangladesh Women won by 3 wkts",
-      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T03:30:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 205,
-          "w": 9,
-          "o": 50,
-          "inning": "sri lanka women Inning 1"
-        },
-        {
-          "r": 206,
-          "w": 7,
-          "o": 48.3,
-          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1201,11 +1211,11 @@
     "standings": [
       {
         "team": "Peshawar Zalmi",
-        "played": 8,
-        "won": 7,
+        "played": 9,
+        "won": 8,
         "lost": 0,
         "nr": 1,
-        "points": 15
+        "points": 17
       },
       {
         "team": "Multan Sultans",
@@ -1249,9 +1259,9 @@
       },
       {
         "team": "Karachi Kings",
-        "played": 7,
+        "played": 8,
         "won": 3,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 6
       },
