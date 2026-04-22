@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T04:50:51.276Z",
+  "lastUpdated": "2026-04-22T09:10:09.816Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -90,6 +90,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "3511937e-f7b3-4e07-97ad-ed963d25a34d",
+      "name": "Rwanda Women vs Nepal Women, 7th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women need 58 runs in 87 balls",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-04-22",
+      "dateTimeGMT": "2026-04-22T07:00:00",
+      "teams": [
+        "Rwanda Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 88,
+          "w": 10,
+          "o": 19.4,
+          "inning": "rwanda women Inning 1"
+        },
+        {
+          "r": 31,
+          "w": 0,
+          "o": 5.3,
+          "inning": "Rwanda Women,Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "cf0f6af7-20d0-463c-859c-ef4134ec7bb3",
@@ -632,6 +677,37 @@
       "matchEnded": true
     },
     {
+      "id": "365a7744-00d1-4feb-89de-6bf0365b0a08",
+      "name": "Karachi Kings vs Peshawar Zalmi, 32nd Match, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Karachi Kings opt to bat",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-04-22",
+      "dateTimeGMT": "2026-04-22T09:30:00",
+      "teams": [
+        "Karachi Kings",
+        "Peshawar Zalmi"
+      ],
+      "teamInfo": [
+        {
+          "name": "Karachi Kings",
+          "shortname": "KRK",
+          "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
+        },
+        {
+          "name": "Peshawar Zalmi",
+          "shortname": "PSZ",
+          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
+        }
+      ],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "1bde8745-ea7a-4189-a270-dac8b94e1e5c",
       "name": "Rawalpindiz vs Multan Sultans, 31st Match, Pakistan Super League 2026",
       "matchType": "t20",
@@ -943,7 +1019,7 @@
     {
       "id": "1dde6534-3298-4181-8257-0b831c84814d",
       "name": "Bangladesh Women vs Sri Lanka Women, 2nd ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Bangladesh Women opt to bat",
+      "status": "Sri Lanka Women need 26 runs",
       "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
       "date": "2026-04-22",
       "dateTimeGMT": "2026-04-22T03:30:00",
@@ -965,14 +1041,20 @@
       ],
       "score": [
         {
-          "r": 55,
-          "w": 3,
-          "o": 17.2,
+          "r": 165,
+          "w": 10,
+          "o": 45.5,
           "inning": "bangladesh women Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 3,
+          "o": 30.3,
+          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
         }
       ],
       "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -1016,96 +1098,6 @@
         }
       ],
       "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "568fa439-cb83-4e8e-af0c-2bd6539e953d",
-      "name": "Bangladesh vs New Zealand, 2nd ODI, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "Bangladesh won by 6 wkts",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T08:15:00",
-      "teams": [
-        "Bangladesh",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 198,
-          "w": 10,
-          "o": 48.4,
-          "inning": "new zealand Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 4,
-          "o": 35.3,
-          "inning": "Bangladesh,New Zealand Inning 1"
-        }
-      ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7a8441e8-a51c-4394-a154-4fa4375c7126",
-      "name": "Namibia vs Scotland, 3rd T20I, Scotland tour of Namibia, 2026",
-      "matchType": "t20",
-      "status": "Namibia won by 4 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-04-18",
-      "dateTimeGMT": "2026-04-18T12:00:00",
-      "teams": [
-        "Namibia",
-        "Scotland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 186,
-          "w": 4,
-          "o": 20,
-          "inning": "scotland Inning 1"
-        },
-        {
-          "r": 187,
-          "w": 6,
-          "o": 20,
-          "inning": "Namibia,Scotland Inning 1"
-        }
-      ],
-      "series_id": "54fbc46a-6c29-4ebd-910b-890220dea0dc",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
