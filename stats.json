@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T15:15:41.199Z",
+  "lastUpdated": "2026-04-22T15:20:07.796Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -477,9 +477,9 @@
       ],
       "score": [
         {
-          "r": 83,
+          "r": 95,
           "w": 5,
-          "o": 12,
+          "o": 14,
           "inning": "Rajasthan Royals Inning 1"
         }
       ],
@@ -786,9 +786,9 @@
       ],
       "score": [
         {
-          "r": 60,
-          "w": 0,
-          "o": 6.3,
+          "r": 158,
+          "w": 1,
+          "o": 15.1,
           "inning": "Multan Sultans Inning 1"
         }
       ],
