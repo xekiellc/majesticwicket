@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T09:16:59.075Z",
+  "lastUpdated": "2026-04-23T20:57:45.540Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -272,89 +272,44 @@
       "matchEnded": true
     },
     {
-      "id": "d2ab6f4c-7626-44df-80ba-5c7c741fda86",
-      "name": "Italy Women vs Nepal Women, 4th Match, ICC Womens T20I Challenge Trophy 2026",
+      "id": "50520170-15b4-49e3-8180-835202e8f623",
+      "name": "Mumbai Indians vs Chennai Super Kings, 33rd Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Nepal Women won by 50 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T11:50:00",
+      "status": "Chennai Super Kings won by 103 runs",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2026-04-23",
+      "dateTimeGMT": "2026-04-23T14:00:00",
       "teams": [
-        "Italy Women",
-        "Nepal Women"
+        "Mumbai Indians",
+        "Chennai Super Kings"
       ],
       "teamInfo": [
         {
-          "name": "Italy Women",
-          "shortname": "IT-W",
-          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
         },
         {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
         }
       ],
       "score": [
         {
-          "r": 112,
-          "w": 8,
+          "r": 207,
+          "w": 6,
           "o": 20,
-          "inning": "nepal women Inning 1"
+          "inning": "Chennai Super Kings Inning 1"
         },
         {
-          "r": 62,
+          "r": 104,
           "w": 10,
-          "o": 18.4,
-          "inning": "Italy Women,Nepal Women Inning 1"
+          "o": 19,
+          "inning": "Mumbai Indians Inning 1"
         }
       ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6ed6c000-4a17-4506-9e1d-0c71367ec64c",
-      "name": "Rwanda Women vs Vanuatu Women, 3rd Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 41 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T07:00:00",
-      "teams": [
-        "Rwanda Women",
-        "Vanuatu Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        },
-        {
-          "name": "Vanuatu Women",
-          "shortname": "VAN-W",
-          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 8,
-          "o": 20,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Rwanda Women,Vanuatu Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -497,44 +452,44 @@
       "matchEnded": true
     },
     {
-      "id": "ca8f24c0-6eef-4f8e-b50f-c63fc2b1ca98",
-      "name": "Punjab Kings vs Lucknow Super Giants, 29th Match, Indian Premier League 2026",
+      "id": "101afa4b-0d44-4cd8-b62e-06f41c44307c",
+      "name": "Lahore Qalandars vs Karachi Kings, 35th Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Punjab Kings won by 54 runs",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T14:00:00",
+      "status": "Karachi Kings won by 5 wkts",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-04-23",
+      "dateTimeGMT": "2026-04-23T14:00:00",
       "teams": [
-        "Punjab Kings",
-        "Lucknow Super Giants"
+        "Lahore Qalandars",
+        "Karachi Kings"
       ],
       "teamInfo": [
         {
-          "name": "Lucknow Super Giants",
-          "shortname": "LSG",
-          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+          "name": "Karachi Kings",
+          "shortname": "KRK",
+          "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
         },
         {
-          "name": "Punjab Kings",
-          "shortname": "PBKS",
-          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+          "name": "Lahore Qalandars",
+          "shortname": "LHQ",
+          "img": "https://g.cricapi.com/iapi/41-637991979136379824.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 254,
-          "w": 7,
+          "r": 199,
+          "w": 6,
           "o": 20,
-          "inning": "Punjab Kings Inning 1"
+          "inning": "Lahore Qalandars Inning 1"
         },
         {
-          "r": 200,
+          "r": 203,
           "w": 5,
-          "o": 20,
-          "inning": "Lucknow Super Giants Inning 1"
+          "o": 18.4,
+          "inning": "Karachi Kings Inning 1"
         }
       ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -542,44 +497,44 @@
       "matchEnded": true
     },
     {
-      "id": "fb4d7e4a-c420-45f2-9f2f-d45ce094efbc",
-      "name": "Kolkata Knight Riders vs Rajasthan Royals, 28th Match, Indian Premier League 2026",
+      "id": "6b383758-88e3-408f-a82c-e1f912c57650",
+      "name": "Rawalpindiz vs Islamabad United, 34th Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Kolkata Knight Riders won by 4 wkts",
-      "venue": "Eden Gardens, Kolkata",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T10:00:00",
+      "status": "Rawalpindiz won by 6 wkts",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-04-23",
+      "dateTimeGMT": "2026-04-23T09:30:00",
       "teams": [
-        "Kolkata Knight Riders",
-        "Rajasthan Royals"
+        "Rawalpindiz",
+        "Islamabad United"
       ],
       "teamInfo": [
         {
-          "name": "Kolkata Knight Riders",
-          "shortname": "KKR",
-          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+          "name": "Islamabad United",
+          "shortname": "ISU",
+          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
         },
         {
-          "name": "Rajasthan Royals",
-          "shortname": "RR",
-          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+          "name": "Rawalpindiz",
+          "shortname": "R",
+          "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 155,
-          "w": 9,
+          "r": 137,
+          "w": 10,
           "o": 20,
-          "inning": "rajasthan royals Inning 1"
+          "inning": "Islamabad United Inning 1"
         },
         {
-          "r": 161,
-          "w": 6,
-          "o": 19.4,
-          "inning": "Kolkata Knight Riders,Rajasthan Royals Inning 1"
+          "r": 140,
+          "w": 4,
+          "o": 18.1,
+          "inning": "Rawalpindiz Inning 1"
         }
       ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -767,99 +722,9 @@
       "matchEnded": true
     },
     {
-      "id": "fb9c38a7-14c3-462d-b862-7a578e5ae0ed",
-      "name": "Peshawar Zalmi vs Quetta Gladiators, 29th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Peshawar Zalmi won by 118 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T14:00:00",
-      "teams": [
-        "Peshawar Zalmi",
-        "Quetta Gladiators"
-      ],
-      "teamInfo": [
-        {
-          "name": "Peshawar Zalmi",
-          "shortname": "PSZ",
-          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
-        },
-        {
-          "name": "Quetta Gladiators",
-          "shortname": "QTG",
-          "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 255,
-          "w": 3,
-          "o": 20,
-          "inning": "Peshawar Zalmi Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 18.1,
-          "inning": "Quetta Gladiators Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0e13247d-fc6e-429f-b0bc-c99ee2d4518e",
-      "name": "Karachi Kings vs Multan Sultans, 28th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Multan Sultans won by 11 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T09:30:00",
-      "teams": [
-        "Karachi Kings",
-        "Multan Sultans"
-      ],
-      "teamInfo": [
-        {
-          "name": "Karachi Kings",
-          "shortname": "KRK",
-          "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
-        },
-        {
-          "name": "Multan Sultans",
-          "shortname": "MS",
-          "img": "https://g.cricapi.com/iapi/50-637991992950999418.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 207,
-          "w": 7,
-          "o": 20,
-          "inning": "Multan Sultans Inning 1"
-        },
-        {
-          "r": 196,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Karachi Kings Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "00ea101e-9996-4ada-b784-23585ca982b4",
       "name": "Sri Lanka A vs New Zealand A, 2nd unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Day 1: 2nd Session - New Zealand A opt to bat",
+      "status": "Day 1: Stumps - New Zealand A opt to bat",
       "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
       "date": "2026-04-23",
       "dateTimeGMT": "2026-04-23T04:00:00",
@@ -881,9 +746,9 @@
       ],
       "score": [
         {
-          "r": 175,
-          "w": 3,
-          "o": 45,
+          "r": 238,
+          "w": 4,
+          "o": 63,
           "inning": "new zealand a Inning 1"
         }
       ],
@@ -1025,7 +890,7 @@
       "id": "c266ffb2-34c8-4ec6-b2ba-4801b7a63d61",
       "name": "Bangladesh vs New Zealand, 3rd ODI, New Zealand tour of Bangladesh, 2026",
       "matchType": "odi",
-      "status": "New Zealand opt to bowl",
+      "status": "Bangladesh won by 55 runs",
       "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
       "date": "2026-04-23",
       "dateTimeGMT": "2026-04-23T08:15:00",
@@ -1047,10 +912,16 @@
       ],
       "score": [
         {
-          "r": 261,
+          "r": 265,
           "w": 8,
-          "o": 49.1,
+          "o": 50,
           "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 210,
+          "w": 10,
+          "o": 44.5,
+          "inning": "New Zealand Inning 1"
         }
       ],
       "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
@@ -1058,7 +929,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "568fa439-cb83-4e8e-af0c-2bd6539e953d",
@@ -1104,6 +975,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "3f3d6c80-1e50-439e-a80b-24e7b6151d03",
+      "name": "South Africa Women vs India Women, 3rd T20I, India Women tour of South Africa 2026",
+      "matchType": "t20",
+      "status": "South Africa Women won by 9 wkts",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "date": "2026-04-22",
+      "dateTimeGMT": "2026-04-22T16:00:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 192,
+          "w": 4,
+          "o": 20,
+          "inning": "India Women Inning 1"
+        },
+        {
+          "r": 193,
+          "w": 1,
+          "o": 16.3,
+          "inning": "South Africa Women Inning 1"
+        }
+      ],
+      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1144,6 +1060,14 @@
         "points": 8
       },
       {
+        "team": "Chennai Super Kings",
+        "played": 7,
+        "won": 3,
+        "lost": 4,
+        "nr": 0,
+        "points": 6
+      },
+      {
         "team": "Delhi Capitals",
         "played": 6,
         "won": 3,
@@ -1160,18 +1084,10 @@
         "points": 6
       },
       {
-        "team": "Chennai Super Kings",
-        "played": 6,
-        "won": 2,
-        "lost": 4,
-        "nr": 0,
-        "points": 4
-      },
-      {
         "team": "Mumbai Indians",
-        "played": 6,
+        "played": 7,
         "won": 2,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 4
       },
@@ -1218,17 +1134,17 @@
       },
       {
         "team": "Islamabad United",
-        "played": 7,
+        "played": 8,
         "won": 4,
-        "lost": 2,
+        "lost": 3,
         "nr": 1,
         "points": 9
       },
       {
         "team": "Lahore Qalandars",
-        "played": 8,
+        "played": 9,
         "won": 4,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 8
       },
@@ -1241,6 +1157,14 @@
         "points": 8
       },
       {
+        "team": "Karachi Kings",
+        "played": 9,
+        "won": 4,
+        "lost": 5,
+        "nr": 0,
+        "points": 8
+      },
+      {
         "team": "Quetta Gladiators",
         "played": 9,
         "won": 3,
@@ -1249,20 +1173,12 @@
         "points": 6
       },
       {
-        "team": "Karachi Kings",
-        "played": 8,
-        "won": 3,
-        "lost": 5,
-        "nr": 0,
-        "points": 6
-      },
-      {
         "team": "Rawalpindiz",
-        "played": 8,
-        "won": 0,
+        "played": 9,
+        "won": 1,
         "lost": 8,
         "nr": 0,
-        "points": 0
+        "points": 2
       }
     ],
     "topBatters": [],
