@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T04:54:49.805Z",
+  "lastUpdated": "2026-04-23T09:16:59.075Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -857,6 +857,44 @@
       "matchEnded": true
     },
     {
+      "id": "00ea101e-9996-4ada-b784-23585ca982b4",
+      "name": "Sri Lanka A vs New Zealand A, 2nd unofficial Test, New Zealand A tour of Sri Lanka, 2026",
+      "status": "Day 1: 2nd Session - New Zealand A opt to bat",
+      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
+      "date": "2026-04-23",
+      "dateTimeGMT": "2026-04-23T04:00:00",
+      "teams": [
+        "Sri Lanka A",
+        "New Zealand A"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand A",
+          "shortname": "NZA",
+          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka A",
+          "shortname": "SLA",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 175,
+          "w": 3,
+          "o": 45,
+          "inning": "new zealand a Inning 1"
+        }
+      ],
+      "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
       "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -1007,12 +1045,19 @@
           "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 261,
+          "w": 8,
+          "o": 49.1,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
       "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -1054,51 +1099,6 @@
         }
       ],
       "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3f3d6c80-1e50-439e-a80b-24e7b6151d03",
-      "name": "South Africa Women vs India Women, 3rd T20I, India Women tour of South Africa 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 9 wkts",
-      "venue": "The Wanderers Stadium, Johannesburg",
-      "date": "2026-04-22",
-      "dateTimeGMT": "2026-04-22T16:00:00",
-      "teams": [
-        "South Africa Women",
-        "India Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 192,
-          "w": 4,
-          "o": 20,
-          "inning": "India Women Inning 1"
-        },
-        {
-          "r": 193,
-          "w": 1,
-          "o": 16.3,
-          "inning": "South Africa Women Inning 1"
-        }
-      ],
-      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
