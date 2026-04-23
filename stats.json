@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T21:01:12.191Z",
+  "lastUpdated": "2026-04-23T04:54:49.805Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -984,6 +984,38 @@
       "matchEnded": true
     },
     {
+      "id": "c266ffb2-34c8-4ec6-b2ba-4801b7a63d61",
+      "name": "Bangladesh vs New Zealand, 3rd ODI, New Zealand tour of Bangladesh, 2026",
+      "matchType": "odi",
+      "status": "New Zealand opt to bowl",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2026-04-23",
+      "dateTimeGMT": "2026-04-23T08:15:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "568fa439-cb83-4e8e-af0c-2bd6539e953d",
       "name": "Bangladesh vs New Zealand, 2nd ODI, New Zealand tour of Bangladesh, 2026",
       "matchType": "odi",
@@ -1063,51 +1095,6 @@
           "r": 193,
           "w": 1,
           "o": 16.3,
-          "inning": "South Africa Women Inning 1"
-        }
-      ],
-      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5b5d8cc5-6252-47ea-989d-60bc58d47553",
-      "name": "South Africa Women vs India Women, 2nd T20I, India Women tour of South Africa 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 8 wkts",
-      "venue": "Kingsmead, Durban",
-      "date": "2026-04-19",
-      "dateTimeGMT": "2026-04-19T12:00:00",
-      "teams": [
-        "South Africa Women",
-        "India Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 147,
-          "w": 10,
-          "o": 20,
-          "inning": "India Women Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 2,
-          "o": 17.1,
           "inning": "South Africa Women Inning 1"
         }
       ],
