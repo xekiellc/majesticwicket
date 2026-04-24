@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T09:21:27.692Z",
+  "lastUpdated": "2026-04-24T15:14:01.637Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -92,10 +92,55 @@
       "matchEnded": true
     },
     {
+      "id": "cad35534-170e-4ab8-9fc8-1ba570d8d6e8",
+      "name": "Italy Women vs United States of America Women, 10th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "United States of America Women won by 72 runs",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T11:50:00",
+      "teams": [
+        "Italy Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 146,
+          "w": 6,
+          "o": 20,
+          "inning": "united states of america women Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 10,
+          "o": 16,
+          "inning": "Italy Women,United States of America Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "8c594c6c-d41e-46ee-9a48-d1cd99d10279",
       "name": "Nepal Women vs Vanuatu Women, 9th Match, ICC Womens T20I Challenge Trophy 2026",
       "matchType": "t20",
-      "status": "Nepal Women need 45 runs in 64 balls",
+      "status": "Vanuatu Women won by 22 runs",
       "venue": "Gahanga International Cricket Stadium, Kigali City",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T07:00:00",
@@ -123,9 +168,9 @@
           "inning": "vanuatu women Inning 1"
         },
         {
-          "r": 53,
-          "w": 5,
-          "o": 9.2,
+          "r": 75,
+          "w": 10,
+          "o": 15.3,
           "inning": "Nepal Women,Vanuatu Women Inning 1"
         }
       ],
@@ -134,7 +179,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1bd37d6c-5f15-4f1c-85ad-e782e02306dd",
@@ -317,6 +362,45 @@
       "matchEnded": true
     },
     {
+      "id": "ed074a44-a661-4727-83a7-4a33c2a05165",
+      "name": "Royal Challengers Bengaluru vs Gujarat Titans, 34th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Royal Challengers Bengaluru opt to bowl",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru",
+        "Gujarat Titans"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gujarat Titans",
+          "shortname": "GT",
+          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+        },
+        {
+          "name": "Royal Challengers Bengaluru",
+          "shortname": "RCBW",
+          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 1,
+          "o": 15,
+          "inning": "Gujarat Titans Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "50520170-15b4-49e3-8180-835202e8f623",
       "name": "Mumbai Indians vs Chennai Super Kings, 33rd Match, Indian Premier League 2026",
       "matchType": "t20",
@@ -495,6 +579,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "b3f5046a-b1c3-4e94-8189-e8d99dafdc3c",
+      "name": "Hyderabad Kingsmen vs Islamabad United, 36th Match, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Islamabad United opt to bowl",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T14:00:00",
+      "teams": [
+        "Hyderabad Kingsmen",
+        "Islamabad United"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad Kingsmen",
+          "shortname": "HK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Islamabad United",
+          "shortname": "ISU",
+          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 76,
+          "w": 8,
+          "o": 14.2,
+          "inning": "Hyderabad Kingsmen Inning 1"
+        }
+      ],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "101afa4b-0d44-4cd8-b62e-06f41c44307c",
@@ -767,310 +890,199 @@
       "matchEnded": true
     },
     {
-      "id": "00ea101e-9996-4ada-b784-23585ca982b4",
-      "name": "Sri Lanka A vs New Zealand A, 2nd unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Day 2: 2nd Session - Sri Lanka A trail by 283 runs",
-      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
-      "date": "2026-04-23",
-      "dateTimeGMT": "2026-04-23T04:00:00",
+      "id": "54cea8e9-8430-4010-802f-d2e0855e8910",
+      "name": "Worcestershire vs Kent, 13th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Kent opt to bat",
+      "venue": "New Road, Worcester",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
       "teams": [
-        "Sri Lanka A",
-        "New Zealand A"
+        "Worcestershire",
+        "Kent"
       ],
       "teamInfo": [
         {
-          "name": "New Zealand A",
-          "shortname": "NZA",
-          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
         },
         {
-          "name": "Sri Lanka A",
-          "shortname": "SLA",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 305,
-          "w": 10,
-          "o": 87.1,
-          "inning": "new zealand a Inning 1"
-        },
-        {
-          "r": 22,
-          "w": 0,
-          "o": 5,
-          "inning": "Sri Lanka A,New Zealand A Inning 1"
-        }
-      ],
-      "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
-      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-04-04",
-      "dateTimeGMT": "2026-04-04T11:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Greece Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 47,
-          "w": 5,
-          "o": 7.5,
-          "inning": "cyprus women Inning 1"
-        }
-      ],
-      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "1dde6534-3298-4181-8257-0b831c84814d",
-      "name": "Bangladesh Women vs Sri Lanka Women, 2nd ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Sri Lanka Women won by 4 wkts",
-      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
-      "date": "2026-04-22",
-      "dateTimeGMT": "2026-04-22T03:30:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 10,
-          "o": 45.5,
-          "inning": "bangladesh women Inning 1"
-        },
-        {
-          "r": 166,
-          "w": 6,
-          "o": 38.2,
-          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e95ef39a-862e-4420-a53e-017fe40d5772",
-      "name": "Bangladesh Women vs Sri Lanka Women, 1st ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Bangladesh Women won by 3 wkts",
-      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T03:30:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 205,
+          "r": 172,
           "w": 9,
-          "o": 50,
-          "inning": "sri lanka women Inning 1"
-        },
-        {
-          "r": 206,
-          "w": 7,
-          "o": 48.3,
-          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
+          "o": 66,
+          "inning": "kent Inning 1"
         }
       ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "c266ffb2-34c8-4ec6-b2ba-4801b7a63d61",
-      "name": "Bangladesh vs New Zealand, 3rd ODI, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "Bangladesh won by 55 runs",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "date": "2026-04-23",
-      "dateTimeGMT": "2026-04-23T08:15:00",
+      "id": "669d6925-6e15-4e9a-b00d-d96a674a5f7d",
+      "name": "Durham vs Lancashire, 12th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Durham opt to bowl",
+      "venue": "Riverside Ground, Chester-le-Street",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
       "teams": [
-        "Bangladesh",
-        "New Zealand"
+        "Durham",
+        "Lancashire"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
         },
         {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 265,
-          "w": 8,
-          "o": 50,
-          "inning": "Bangladesh Inning 1"
-        },
-        {
-          "r": 210,
-          "w": 10,
-          "o": 44.5,
-          "inning": "New Zealand Inning 1"
+          "r": 233,
+          "w": 6,
+          "o": 63.4,
+          "inning": "Lancashire Inning 1"
         }
       ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "568fa439-cb83-4e8e-af0c-2bd6539e953d",
-      "name": "Bangladesh vs New Zealand, 2nd ODI, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "Bangladesh won by 6 wkts",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T08:15:00",
+      "id": "c19e5f3c-09cd-4911-a93a-93e964a70e22",
+      "name": "Derbyshire vs Gloucestershire, 11th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Gloucestershire opt to bat",
+      "venue": "County Ground, Derby",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
       "teams": [
-        "Bangladesh",
-        "New Zealand"
+        "Derbyshire",
+        "Gloucestershire"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
         },
         {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 198,
-          "w": 10,
-          "o": 48.4,
-          "inning": "new zealand Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 4,
-          "o": 35.3,
-          "inning": "Bangladesh,New Zealand Inning 1"
+          "r": 135,
+          "w": 3,
+          "o": 52,
+          "inning": "gloucestershire Inning 1"
         }
       ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "3f3d6c80-1e50-439e-a80b-24e7b6151d03",
-      "name": "South Africa Women vs India Women, 3rd T20I, India Women tour of South Africa 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 9 wkts",
-      "venue": "The Wanderers Stadium, Johannesburg",
-      "date": "2026-04-22",
-      "dateTimeGMT": "2026-04-22T16:00:00",
+      "id": "421b1d73-ec3c-4d82-ae35-fb851df07576",
+      "name": "Nottinghamshire vs Warwickshire, 13th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Nottinghamshire opt to bowl",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
       "teams": [
-        "South Africa Women",
-        "India Women"
+        "Nottinghamshire",
+        "Warwickshire"
       ],
       "teamInfo": [
         {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
         },
         {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 192,
-          "w": 4,
-          "o": 20,
-          "inning": "India Women Inning 1"
-        },
-        {
-          "r": 193,
-          "w": 1,
-          "o": 16.3,
-          "inning": "South Africa Women Inning 1"
+          "r": 241,
+          "w": 6,
+          "o": 62,
+          "inning": "Warwickshire Inning 1"
         }
       ],
-      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
+    },
+    {
+      "id": "620cdce4-e7ca-42ee-94dd-824077946c6a",
+      "name": "Yorkshire vs Sussex, 14th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Yorkshire opt to bowl",
+      "venue": "Headingley, Leeds",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Yorkshire",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 5,
+          "o": 51,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
