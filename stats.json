@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T05:13:22.686Z",
+  "lastUpdated": "2026-04-24T09:21:27.692Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -90,6 +90,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "8c594c6c-d41e-46ee-9a48-d1cd99d10279",
+      "name": "Nepal Women vs Vanuatu Women, 9th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women need 45 runs in 64 balls",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T07:00:00",
+      "teams": [
+        "Nepal Women",
+        "Vanuatu Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 97,
+          "w": 5,
+          "o": 20,
+          "inning": "vanuatu women Inning 1"
+        },
+        {
+          "r": 53,
+          "w": 5,
+          "o": 9.2,
+          "inning": "Nepal Women,Vanuatu Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "1bd37d6c-5f15-4f1c-85ad-e782e02306dd",
@@ -724,7 +769,7 @@
     {
       "id": "00ea101e-9996-4ada-b784-23585ca982b4",
       "name": "Sri Lanka A vs New Zealand A, 2nd unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Day 2: 1st Session - New Zealand A opt to bat",
+      "status": "Day 2: 2nd Session - Sri Lanka A trail by 283 runs",
       "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
       "date": "2026-04-23",
       "dateTimeGMT": "2026-04-23T04:00:00",
@@ -746,10 +791,16 @@
       ],
       "score": [
         {
-          "r": 247,
-          "w": 5,
-          "o": 67.3,
+          "r": 305,
+          "w": 10,
+          "o": 87.1,
           "inning": "new zealand a Inning 1"
+        },
+        {
+          "r": 22,
+          "w": 0,
+          "o": 5,
+          "inning": "Sri Lanka A,New Zealand A Inning 1"
         }
       ],
       "series_id": "7ca0fcda-e65d-4125-b3c7-028616281168",
