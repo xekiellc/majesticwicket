@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T15:14:01.637Z",
+  "lastUpdated": "2026-04-24T20:55:21.903Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -37,51 +37,6 @@
           "w": 2,
           "o": 15.5,
           "inning": "Nepal Inning 1"
-        }
-      ],
-      "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cedfd8cf-bf9a-4695-92b4-c0ff60ff6c7e",
-      "name": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026",
-      "matchType": "t20",
-      "status": "UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T11:15:00",
-      "teams": [
-        "Nepal",
-        "United Arab Emirates"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 122,
-          "w": 8,
-          "o": 18.5,
-          "inning": "nepal Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 4,
-          "o": 8.5,
-          "inning": "Nepal,United Arab Emirates Inning 1"
         }
       ],
       "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
@@ -365,7 +320,7 @@
       "id": "ed074a44-a661-4727-83a7-4a33c2a05165",
       "name": "Royal Challengers Bengaluru vs Gujarat Titans, 34th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Royal Challengers Bengaluru opt to bowl",
+      "status": "Royal Challengers Bengaluru won by 5 wkts",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T14:00:00",
@@ -387,10 +342,16 @@
       ],
       "score": [
         {
-          "r": 155,
-          "w": 1,
-          "o": 15,
+          "r": 205,
+          "w": 3,
+          "o": 20,
           "inning": "Gujarat Titans Inning 1"
+        },
+        {
+          "r": 206,
+          "w": 5,
+          "o": 18.5,
+          "inning": "Royal Challengers Bengaluru Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -398,7 +359,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "50520170-15b4-49e3-8180-835202e8f623",
@@ -536,55 +497,10 @@
       "matchEnded": true
     },
     {
-      "id": "97adf747-1086-489e-b892-3823ebffa555",
-      "name": "Gujarat Titans vs Mumbai Indians, 30th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Mumbai Indians won by 99 runs",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "date": "2026-04-20",
-      "dateTimeGMT": "2026-04-20T14:00:00",
-      "teams": [
-        "Gujarat Titans",
-        "Mumbai Indians"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 5,
-          "o": 20,
-          "inning": "Mumbai Indians Inning 1"
-        },
-        {
-          "r": 100,
-          "w": 10,
-          "o": 15.5,
-          "inning": "Gujarat Titans Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b3f5046a-b1c3-4e94-8189-e8d99dafdc3c",
       "name": "Hyderabad Kingsmen vs Islamabad United, 36th Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Islamabad United opt to bowl",
+      "status": "Islamabad United won by 8 wkts",
       "venue": "National Stadium, Karachi",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T14:00:00",
@@ -606,10 +522,16 @@
       ],
       "score": [
         {
-          "r": 76,
-          "w": 8,
-          "o": 14.2,
+          "r": 80,
+          "w": 10,
+          "o": 15.5,
           "inning": "Hyderabad Kingsmen Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 2,
+          "o": 6.4,
+          "inning": "Islamabad United Inning 1"
         }
       ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
@@ -617,7 +539,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "101afa4b-0d44-4cd8-b62e-06f41c44307c",
@@ -893,7 +815,7 @@
       "id": "54cea8e9-8430-4010-802f-d2e0855e8910",
       "name": "Worcestershire vs Kent, 13th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Kent opt to bat",
+      "status": "Day 1: Stumps - Worcestershire trail by 102 runs",
       "venue": "New Road, Worcester",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -915,10 +837,16 @@
       ],
       "score": [
         {
-          "r": 172,
-          "w": 9,
-          "o": 66,
+          "r": 196,
+          "w": 10,
+          "o": 71.5,
           "inning": "kent Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 1,
+          "o": 24,
+          "inning": "Worcestershire,Kent Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -932,7 +860,7 @@
       "id": "669d6925-6e15-4e9a-b00d-d96a674a5f7d",
       "name": "Durham vs Lancashire, 12th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Durham opt to bowl",
+      "status": "Day 1: Stumps - Durham opt to bowl",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -954,9 +882,9 @@
       ],
       "score": [
         {
-          "r": 233,
-          "w": 6,
-          "o": 63.4,
+          "r": 356,
+          "w": 7,
+          "o": 96,
           "inning": "Lancashire Inning 1"
         }
       ],
@@ -971,7 +899,7 @@
       "id": "c19e5f3c-09cd-4911-a93a-93e964a70e22",
       "name": "Derbyshire vs Gloucestershire, 11th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Gloucestershire opt to bat",
+      "status": "Day 1: Stumps - Gloucestershire opt to bat",
       "venue": "County Ground, Derby",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -993,9 +921,9 @@
       ],
       "score": [
         {
-          "r": 135,
-          "w": 3,
-          "o": 52,
+          "r": 287,
+          "w": 6,
+          "o": 96,
           "inning": "gloucestershire Inning 1"
         }
       ],
@@ -1010,7 +938,7 @@
       "id": "421b1d73-ec3c-4d82-ae35-fb851df07576",
       "name": "Nottinghamshire vs Warwickshire, 13th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Nottinghamshire opt to bowl",
+      "status": "Day 1: Stumps - Nottinghamshire opt to bowl",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -1032,9 +960,9 @@
       ],
       "score": [
         {
-          "r": 241,
-          "w": 6,
-          "o": 62,
+          "r": 375,
+          "w": 8,
+          "o": 96,
           "inning": "Warwickshire Inning 1"
         }
       ],
@@ -1049,7 +977,7 @@
       "id": "620cdce4-e7ca-42ee-94dd-824077946c6a",
       "name": "Yorkshire vs Sussex, 14th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Yorkshire opt to bowl",
+      "status": "Day 1: Stumps - Yorkshire opt to bowl",
       "venue": "Headingley, Leeds",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -1071,10 +999,88 @@
       ],
       "score": [
         {
-          "r": 183,
-          "w": 5,
-          "o": 51,
+          "r": 373,
+          "w": 6,
+          "o": 96,
           "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "16ebcbe3-51af-4c10-8088-dd53edc046f6",
+      "name": "Surrey vs Essex, 15th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Surrey opt to bowl",
+      "venue": "Kennington Oval, London",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Surrey",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 325,
+          "w": 6,
+          "o": 96,
+          "inning": "Essex Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1d42fd40-0e4b-4df3-b233-1b4115982a4a",
+      "name": "Glamorgan vs Leicestershire, 16th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Glamorgan opt to bat",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Glamorgan",
+        "Leicestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 334,
+          "w": 7,
+          "o": 96,
+          "inning": "glamorgan Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -1107,18 +1113,18 @@
         "points": 10
       },
       {
+        "team": "Royal Challengers Bengaluru",
+        "played": 7,
+        "won": 5,
+        "lost": 2,
+        "nr": 0,
+        "points": 10
+      },
+      {
         "team": "Sunrisers Hyderabad",
         "played": 7,
         "won": 4,
         "lost": 3,
-        "nr": 0,
-        "points": 8
-      },
-      {
-        "team": "Royal Challengers Bengaluru",
-        "played": 6,
-        "won": 4,
-        "lost": 2,
         "nr": 0,
         "points": 8
       },
@@ -1140,9 +1146,9 @@
       },
       {
         "team": "Gujarat Titans",
-        "played": 6,
+        "played": 7,
         "won": 3,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 6
       },
@@ -1197,11 +1203,11 @@
       },
       {
         "team": "Islamabad United",
-        "played": 8,
-        "won": 4,
+        "played": 9,
+        "won": 5,
         "lost": 3,
         "nr": 1,
-        "points": 9
+        "points": 11
       },
       {
         "team": "Lahore Qalandars",
@@ -1213,9 +1219,9 @@
       },
       {
         "team": "Hyderabad Kingsmen",
-        "played": 8,
+        "played": 9,
         "won": 4,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 8
       },
