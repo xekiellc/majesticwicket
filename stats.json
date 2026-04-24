@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T20:57:45.540Z",
+  "lastUpdated": "2026-04-24T05:13:22.686Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -724,7 +724,7 @@
     {
       "id": "00ea101e-9996-4ada-b784-23585ca982b4",
       "name": "Sri Lanka A vs New Zealand A, 2nd unofficial Test, New Zealand A tour of Sri Lanka, 2026",
-      "status": "Day 1: Stumps - New Zealand A opt to bat",
+      "status": "Day 2: 1st Session - New Zealand A opt to bat",
       "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
       "date": "2026-04-23",
       "dateTimeGMT": "2026-04-23T04:00:00",
@@ -746,9 +746,9 @@
       ],
       "score": [
         {
-          "r": 238,
-          "w": 4,
-          "o": 63,
+          "r": 247,
+          "w": 5,
+          "o": 67.3,
           "inning": "new zealand a Inning 1"
         }
       ],
