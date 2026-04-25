@@ -1,50 +1,36 @@
 {
-  "lastUpdated": "2026-04-25T14:50:51.244Z",
+  "lastUpdated": "2026-04-25T20:45:47.873Z",
   "recentMatches": [
     {
-      "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
-      "name": "Nepal vs United Arab Emirates, 2nd T20I, United Arab Emirates tour of Nepal 2026",
+      "id": "3f683268-d9da-4faa-a4f7-3fb81b5679e4",
+      "name": "Costa Rica Women vs Chile Women, 2nd T20I, Chile Women tour of Costa Rica 2026",
       "matchType": "t20",
-      "status": "Nepal won by 8 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-04-21",
-      "dateTimeGMT": "2026-04-21T11:15:00",
+      "status": "Costa Rica Women opt to bowl",
+      "venue": "Los Reyes Polo Club, Guacima",
+      "date": "2026-04-25",
+      "dateTimeGMT": "2026-04-25T15:00:00",
       "teams": [
-        "Nepal",
-        "United Arab Emirates"
+        "Costa Rica Women",
+        "Chile Women"
       ],
       "teamInfo": [
         {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+          "name": "Chile Women",
+          "shortname": "CW",
+          "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+          "name": "Costa Rica Women",
+          "shortname": "CRW",
+          "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
-      "score": [
-        {
-          "r": 128,
-          "w": 8,
-          "o": 20,
-          "inning": "United Arab Emirates Inning 1"
-        },
-        {
-          "r": 129,
-          "w": 2,
-          "o": 15.5,
-          "inning": "Nepal Inning 1"
-        }
-      ],
-      "series_id": "43dd0e37-b370-4833-84b9-1f0d741540cd",
-      "fantasyEnabled": true,
+      "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
       "id": "cad35534-170e-4ab8-9fc8-1ba570d8d6e8",
@@ -227,96 +213,6 @@
       "matchEnded": true
     },
     {
-      "id": "cf0f6af7-20d0-463c-859c-ef4134ec7bb3",
-      "name": "Vanuatu Women vs Italy Women, 6th Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "Italy Women won by 4 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-04-21",
-      "dateTimeGMT": "2026-04-21T11:50:00",
-      "teams": [
-        "Vanuatu Women",
-        "Italy Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Italy Women",
-          "shortname": "IT-W",
-          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
-        },
-        {
-          "name": "Vanuatu Women",
-          "shortname": "VAN-W",
-          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 114,
-          "w": 6,
-          "o": 20,
-          "inning": "Vanuatu Women Inning 1"
-        },
-        {
-          "r": 115,
-          "w": 6,
-          "o": 19.3,
-          "inning": "Italy Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d5d1cd95-dea3-4900-9a95-f39baa86679c",
-      "name": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 1 run",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-04-21",
-      "dateTimeGMT": "2026-04-21T07:00:00",
-      "teams": [
-        "Rwanda Women",
-        "United States of America Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        },
-        {
-          "name": "United States of America Women",
-          "shortname": "USW",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 127,
-          "w": 4,
-          "o": 20,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 5,
-          "o": 20,
-          "inning": "Rwanda Women,United States of America Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "4366654e-33e0-4ed0-9e5f-e71e2b535714",
       "name": "Nepal vs United Arab Emirates, 98th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -365,7 +261,7 @@
       "id": "3d5968a6-4851-410c-b66a-811b92406933",
       "name": "Rajasthan Royals vs Sunrisers Hyderabad, 36th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Sunrisers Hyderabad opt to bowl",
+      "status": "Sunrisers Hyderabad won by 5 wkts",
       "venue": "Sawai Mansingh Stadium, Jaipur",
       "date": "2026-04-25",
       "dateTimeGMT": "2026-04-25T14:00:00",
@@ -387,10 +283,16 @@
       ],
       "score": [
         {
-          "r": 97,
-          "w": 1,
-          "o": 8.4,
+          "r": 228,
+          "w": 6,
+          "o": 20,
           "inning": "Rajasthan Royals Inning 1"
+        },
+        {
+          "r": 229,
+          "w": 5,
+          "o": 18.3,
+          "inning": "Sunrisers Hyderabad Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -398,7 +300,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7bd928c0-1961-4fb5-a7a7-acd61c4a1586",
@@ -581,55 +483,10 @@
       "matchEnded": true
     },
     {
-      "id": "e4f4995f-036e-451d-861e-42567c82d87f",
-      "name": "Sunrisers Hyderabad vs Delhi Capitals, 31st Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Hyderabad won by 47 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-04-21",
-      "dateTimeGMT": "2026-04-21T14:00:00",
-      "teams": [
-        "Sunrisers Hyderabad",
-        "Delhi Capitals"
-      ],
-      "teamInfo": [
-        {
-          "name": "Delhi Capitals",
-          "shortname": "DC",
-          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
-        },
-        {
-          "name": "Sunrisers Hyderabad",
-          "shortname": "SRH",
-          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 242,
-          "w": 2,
-          "o": 20,
-          "inning": "Sunrisers Hyderabad Inning 1"
-        },
-        {
-          "r": 195,
-          "w": 9,
-          "o": 20,
-          "inning": "Delhi Capitals Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "7f8fb738-b92b-42bc-b211-a9252952b8eb",
       "name": "Lahore Qalandars vs Peshawar Zalmi, 38th Match, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Lahore Qalandars opt to bowl",
+      "status": "Lahore Qalandars won by 6 wkts",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-04-25",
       "dateTimeGMT": "2026-04-25T14:00:00",
@@ -651,10 +508,16 @@
       ],
       "score": [
         {
-          "r": 64,
-          "w": 2,
-          "o": 8.1,
+          "r": 199,
+          "w": 4,
+          "o": 20,
           "inning": "Peshawar Zalmi Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 4,
+          "o": 19.3,
+          "inning": "Lahore Qalandars Inning 1"
         }
       ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
@@ -662,7 +525,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "27c10876-cb7a-41d0-916b-12a41ecf6d1a",
@@ -935,100 +798,10 @@
       "matchEnded": true
     },
     {
-      "id": "1bde8745-ea7a-4189-a270-dac8b94e1e5c",
-      "name": "Rawalpindiz vs Multan Sultans, 31st Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Multan Sultans won by 6 wkts",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-21",
-      "dateTimeGMT": "2026-04-21T14:00:00",
-      "teams": [
-        "Rawalpindiz",
-        "Multan Sultans"
-      ],
-      "teamInfo": [
-        {
-          "name": "Multan Sultans",
-          "shortname": "MS",
-          "img": "https://g.cricapi.com/iapi/50-637991992950999418.webp?w=48"
-        },
-        {
-          "name": "Rawalpindiz",
-          "shortname": "R",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 4,
-          "o": 20,
-          "inning": "rawalpindiz Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 4,
-          "o": 18.4,
-          "inning": "Rawalpindiz,Multan Sultans Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bff4bfc1-2e1a-453e-8a51-95f4e7456515",
-      "name": "Lahore Qalandars vs Quetta Gladiators, 30th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Lahore Qalandars won by 9 runs",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-04-21",
-      "dateTimeGMT": "2026-04-21T09:30:00",
-      "teams": [
-        "Lahore Qalandars",
-        "Quetta Gladiators"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lahore Qalandars",
-          "shortname": "LHQ",
-          "img": "https://g.cricapi.com/iapi/41-637991979136379824.webp?w=48"
-        },
-        {
-          "name": "Quetta Gladiators",
-          "shortname": "QTG",
-          "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 197,
-          "w": 6,
-          "o": 20,
-          "inning": "lahore qalandars Inning 1"
-        },
-        {
-          "r": 188,
-          "w": 7,
-          "o": 20,
-          "inning": "Lahore Qalandars,Quetta Gladiators Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "54cea8e9-8430-4010-802f-d2e0855e8910",
       "name": "Worcestershire vs Kent, 13th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - Worcestershire lead by 118 runs",
+      "status": "Day 2: Stumps - Worcestershire lead by 245 runs",
       "venue": "New Road, Worcester",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -1056,9 +829,9 @@
           "inning": "kent Inning 1"
         },
         {
-          "r": 314,
-          "w": 5,
-          "o": 81,
+          "r": 441,
+          "w": 9,
+          "o": 120,
           "inning": "Worcestershire,Kent Inning 1"
         }
       ],
@@ -1073,7 +846,7 @@
       "id": "669d6925-6e15-4e9a-b00d-d96a674a5f7d",
       "name": "Durham vs Lancashire, 12th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - Durham trail by 199 runs",
+      "status": "Day 2: Stumps - Durham trail by 75 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -1101,13 +874,238 @@
           "inning": "Lancashire Inning 1"
         },
         {
-          "r": 171,
-          "w": 8,
-          "o": 50,
+          "r": 295,
+          "w": 10,
+          "o": 87.2,
           "inning": "Durham Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "c19e5f3c-09cd-4911-a93a-93e964a70e22",
+      "name": "Derbyshire vs Gloucestershire, 11th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Derbyshire trail by 354 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Derbyshire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 498,
+          "w": 10,
+          "o": 148.4,
+          "inning": "gloucestershire Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 3,
+          "o": 41,
+          "inning": "Derbyshire,Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "421b1d73-ec3c-4d82-ae35-fb851df07576",
+      "name": "Nottinghamshire vs Warwickshire, 13th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Nottinghamshire trail by 195 runs",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Nottinghamshire",
+        "Warwickshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 459,
+          "w": 10,
+          "o": 113.1,
+          "inning": "Warwickshire Inning 1"
+        },
+        {
+          "r": 264,
+          "w": 8,
+          "o": 75.4,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "620cdce4-e7ca-42ee-94dd-824077946c6a",
+      "name": "Yorkshire vs Sussex, 14th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Yorkshire trail by 310 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Yorkshire",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 502,
+          "w": 10,
+          "o": 131.4,
+          "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 192,
+          "w": 1,
+          "o": 60,
+          "inning": "Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "16ebcbe3-51af-4c10-8088-dd53edc046f6",
+      "name": "Surrey vs Essex, 15th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Surrey trail by 217 runs",
+      "venue": "Kennington Oval, London",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Surrey",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 409,
+          "w": 10,
+          "o": 117.1,
+          "inning": "Essex Inning 1"
+        },
+        {
+          "r": 192,
+          "w": 3,
+          "o": 72,
+          "inning": "Surrey Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1d42fd40-0e4b-4df3-b233-1b4115982a4a",
+      "name": "Glamorgan vs Leicestershire, 16th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Leicestershire trail by 225 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-04-24",
+      "dateTimeGMT": "2026-04-24T10:00:00",
+      "teams": [
+        "Glamorgan",
+        "Leicestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 440,
+          "w": 10,
+          "o": 142,
+          "inning": "glamorgan Inning 1"
+        },
+        {
+          "r": 215,
+          "w": 1,
+          "o": 48,
+          "inning": "Glamorgan,Leicestershire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -1129,10 +1127,18 @@
         "points": 13
       },
       {
-        "team": "Rajasthan Royals",
-        "played": 7,
+        "team": "Sunrisers Hyderabad",
+        "played": 8,
         "won": 5,
-        "lost": 2,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Rajasthan Royals",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
         "nr": 0,
         "points": 10
       },
@@ -1143,14 +1149,6 @@
         "lost": 2,
         "nr": 0,
         "points": 10
-      },
-      {
-        "team": "Sunrisers Hyderabad",
-        "played": 7,
-        "won": 4,
-        "lost": 3,
-        "nr": 0,
-        "points": 8
       },
       {
         "team": "Chennai Super Kings",
@@ -1211,9 +1209,9 @@
     "standings": [
       {
         "team": "Peshawar Zalmi",
-        "played": 9,
+        "played": 10,
         "won": 8,
-        "lost": 0,
+        "lost": 1,
         "nr": 1,
         "points": 17
       },
@@ -1234,7 +1232,7 @@
         "points": 11
       },
       {
-        "team": "Karachi Kings",
+        "team": "Lahore Qalandars",
         "played": 10,
         "won": 5,
         "lost": 5,
@@ -1242,12 +1240,12 @@
         "points": 10
       },
       {
-        "team": "Lahore Qalandars",
-        "played": 9,
-        "won": 4,
+        "team": "Karachi Kings",
+        "played": 10,
+        "won": 5,
         "lost": 5,
         "nr": 0,
-        "points": 8
+        "points": 10
       },
       {
         "team": "Hyderabad Kingsmen",
