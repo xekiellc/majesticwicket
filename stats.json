@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:40:37.157Z",
+  "lastUpdated": "2026-04-25T08:39:57.930Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -320,7 +320,7 @@
       "id": "4366654e-33e0-4ed0-9e5f-e71e2b535714",
       "name": "Nepal vs United Arab Emirates, 98th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "United Arab Emirates opt to bowl",
+      "status": "Innings Break",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-04-25",
       "dateTimeGMT": "2026-04-25T00:00:00",
@@ -342,9 +342,9 @@
       ],
       "score": [
         {
-          "r": 45,
-          "w": 2,
-          "o": 8.1,
+          "r": 200,
+          "w": 10,
+          "o": 48.2,
           "inning": "Nepal Inning 1"
         }
       ],
