@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T20:55:21.903Z",
+  "lastUpdated": "2026-04-25T04:40:37.157Z",
   "recentMatches": [
     {
       "id": "e293dc74-c747-4625-b5a0-2e761ded149e",
@@ -315,6 +315,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "4366654e-33e0-4ed0-9e5f-e71e2b535714",
+      "name": "Nepal vs United Arab Emirates, 98th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United Arab Emirates opt to bowl",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-04-25",
+      "dateTimeGMT": "2026-04-25T00:00:00",
+      "teams": [
+        "Nepal",
+        "United Arab Emirates"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 45,
+          "w": 2,
+          "o": 8.1,
+          "inning": "Nepal Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "ed074a44-a661-4727-83a7-4a33c2a05165",
@@ -1042,45 +1081,6 @@
           "w": 6,
           "o": 96,
           "inning": "Essex Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "1d42fd40-0e4b-4df3-b233-1b4115982a4a",
-      "name": "Glamorgan vs Leicestershire, 16th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Glamorgan opt to bat",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Glamorgan",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 334,
-          "w": 7,
-          "o": 96,
-          "inning": "glamorgan Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
