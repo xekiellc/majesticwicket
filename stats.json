@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-25T20:45:47.873Z",
+  "lastUpdated": "2026-04-26T05:16:38.740Z",
   "recentMatches": [
     {
       "id": "3f683268-d9da-4faa-a4f7-3fb81b5679e4",
       "name": "Costa Rica Women vs Chile Women, 2nd T20I, Chile Women tour of Costa Rica 2026",
       "matchType": "t20",
-      "status": "Costa Rica Women opt to bowl",
+      "status": "Costa Rica Women won by 8 wkts",
       "venue": "Los Reyes Polo Club, Guacima",
       "date": "2026-04-25",
       "dateTimeGMT": "2026-04-25T15:00:00",
@@ -25,12 +25,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 81,
+          "w": 8,
+          "o": 20,
+          "inning": "Chile Women Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 2,
+          "o": 6.5,
+          "inning": "Costa Rica Women Inning 1"
+        }
+      ],
       "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "cad35534-170e-4ab8-9fc8-1ba570d8d6e8",
