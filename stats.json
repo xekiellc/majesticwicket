@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T10:03:22.596Z",
+  "lastUpdated": "2026-04-27T15:52:21.452Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -137,10 +137,55 @@
       "matchEnded": true
     },
     {
+      "id": "4b35e2b6-b5cc-4d40-a99b-25f1cf1af252",
+      "name": "United States of America Women vs Vanuatu Women, 14th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "United States of America Women won by 72 runs",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T11:50:00",
+      "teams": [
+        "United States of America Women",
+        "Vanuatu Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 162,
+          "w": 4,
+          "o": 20,
+          "inning": "united states of america women Inning 1"
+        },
+        {
+          "r": 90,
+          "w": 8,
+          "o": 20,
+          "inning": "United States of America Women,Vanuatu Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "b8c6089d-7107-4f05-9969-2ff0fafd0f30",
       "name": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026",
       "matchType": "t20",
-      "status": "Rwanda Women need 22 runs in 21 balls",
+      "status": "Rwanda Women won by 6 wkts",
       "venue": "Gahanga International Cricket Stadium, Kigali City",
       "date": "2026-04-27",
       "dateTimeGMT": "2026-04-27T07:00:00",
@@ -168,9 +213,9 @@
           "inning": "italy women Inning 1"
         },
         {
-          "r": 102,
+          "r": 126,
           "w": 4,
-          "o": 16.3,
+          "o": 19.3,
           "inning": "Rwanda Women,Italy Women Inning 1"
         }
       ],
@@ -179,7 +224,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "bd4fb230-d07f-4280-88ae-f8829937c4f4",
@@ -365,7 +410,7 @@
       "id": "77f94d90-688a-4c7e-9d9a-ee98c5e66c2a",
       "name": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Oman need 136 runs",
+      "status": "United Arab Emirates won by 25 runs",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-04-27",
       "dateTimeGMT": "2026-04-27T00:00:00",
@@ -393,9 +438,9 @@
           "inning": "United Arab Emirates Inning 1"
         },
         {
-          "r": 133,
-          "w": 3,
-          "o": 24.3,
+          "r": 243,
+          "w": 10,
+          "o": 47.5,
           "inning": "Oman Inning 1"
         }
       ],
@@ -404,7 +449,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4366654e-33e0-4ed0-9e5f-e71e2b535714",
@@ -452,10 +497,49 @@
       "matchEnded": true
     },
     {
+      "id": "63c19cfb-3544-41df-8bd8-10049818a6c5",
+      "name": "Delhi Capitals vs Royal Challengers Bengaluru, 39th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T14:00:00",
+      "teams": [
+        "Delhi Capitals",
+        "Royal Challengers Bengaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Delhi Capitals",
+          "shortname": "DC",
+          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+        },
+        {
+          "name": "Royal Challengers Bengaluru",
+          "shortname": "RCBW",
+          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 75,
+          "w": 10,
+          "o": 16.3,
+          "inning": "Delhi Capitals Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "fbd861ca-4efb-4d1d-b46c-ba3bc334bce4",
       "name": "Lucknow Super Giants vs Kolkata Knight Riders, 38th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Match tied (Kolkata Knight Riders won the Super Over)",
+      "status": "Match tied (KKR won the Super Over)",
       "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
       "date": "2026-04-26",
       "dateTimeGMT": "2026-04-26T14:00:00",
@@ -1035,114 +1119,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "54cea8e9-8430-4010-802f-d2e0855e8910",
-      "name": "Worcestershire vs Kent, 13th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Worcestershire won by an innings and 2 runs",
-      "venue": "New Road, Worcester",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Worcestershire",
-        "Kent"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 10,
-          "o": 71.5,
-          "inning": "kent Inning 1"
-        },
-        {
-          "r": 447,
-          "w": 10,
-          "o": 121,
-          "inning": "Worcestershire,Kent Inning 1"
-        },
-        {
-          "r": 249,
-          "w": 10,
-          "o": 67.1,
-          "inning": "kent Inning 2"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "669d6925-6e15-4e9a-b00d-d96a674a5f7d",
-      "name": "Durham vs Lancashire, 12th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 4: 1st Session - Durham need 336 runs",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Durham",
-        "Lancashire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 370,
-          "w": 10,
-          "o": 100,
-          "inning": "Lancashire Inning 1"
-        },
-        {
-          "r": 295,
-          "w": 10,
-          "o": 87.2,
-          "inning": "Durham Inning 1"
-        },
-        {
-          "r": 260,
-          "w": 9,
-          "o": 85.3,
-          "inning": "Lancashire Inning 2"
-        },
-        {
-          "r": 0,
-          "w": 0,
-          "o": 0,
-          "inning": "Durham Inning 2"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
@@ -1207,7 +1183,7 @@
         "points": 6
       },
       {
-        "team": "Kolkata Knight Riders",
+        "team": "Lucknow Super Giants",
         "played": 8,
         "won": 2,
         "lost": 5,
@@ -1223,11 +1199,11 @@
         "points": 4
       },
       {
-        "team": "Lucknow Super Giants",
+        "team": "Kolkata Knight Riders",
         "played": 8,
-        "won": 2,
-        "lost": 6,
-        "nr": 0,
+        "won": 1,
+        "lost": 5,
+        "nr": 2,
         "points": 4
       }
     ],
