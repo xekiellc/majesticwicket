@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-26T20:45:14.444Z",
+  "lastUpdated": "2026-04-27T05:29:43.234Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
       "name": "Costa Rica Women vs Chile Women, 3rd T20I, Chile Women tour of Costa Rica 2026",
       "matchType": "t20",
-      "status": "Costa Rica Women opt to bowl",
+      "status": "Costa Rica Women won by 9 wkts",
       "venue": "Los Reyes Polo Club, Guacima",
       "date": "2026-04-26",
       "dateTimeGMT": "2026-04-26T15:00:00",
@@ -25,12 +25,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 46,
+          "w": 10,
+          "o": 13.4,
+          "inning": "Chile Women Inning 1"
+        },
+        {
+          "r": 48,
+          "w": 1,
+          "o": 6.1,
+          "inning": "Costa Rica Women Inning 1"
+        }
+      ],
       "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3f683268-d9da-4faa-a4f7-3fb81b5679e4",
@@ -301,6 +315,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "77f94d90-688a-4c7e-9d9a-ee98c5e66c2a",
+      "name": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Oman opt to bowl",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T00:00:00",
+      "teams": [
+        "United Arab Emirates",
+        "Oman"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 69,
+          "w": 0,
+          "o": 14.3,
+          "inning": "United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "4366654e-33e0-4ed0-9e5f-e71e2b535714",
@@ -1084,57 +1137,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "421b1d73-ec3c-4d82-ae35-fb851df07576",
-      "name": "Nottinghamshire vs Warwickshire, 13th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 3: Stumps - Nottinghamshire lead by 130 runs",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Nottinghamshire",
-        "Warwickshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 459,
-          "w": 10,
-          "o": 113.1,
-          "inning": "Warwickshire Inning 1"
-        },
-        {
-          "r": 279,
-          "w": 10,
-          "o": 81.1,
-          "inning": "Nottinghamshire Inning 1"
-        },
-        {
-          "r": 310,
-          "w": 4,
-          "o": 88,
-          "inning": "Warwickshire Inning 2"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
