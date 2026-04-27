@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T05:29:43.234Z",
+  "lastUpdated": "2026-04-27T10:03:22.596Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -135,6 +135,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "b8c6089d-7107-4f05-9969-2ff0fafd0f30",
+      "name": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Rwanda Women need 22 runs in 21 balls",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T07:00:00",
+      "teams": [
+        "Rwanda Women",
+        "Italy Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 123,
+          "w": 7,
+          "o": 20,
+          "inning": "italy women Inning 1"
+        },
+        {
+          "r": 102,
+          "w": 4,
+          "o": 16.3,
+          "inning": "Rwanda Women,Italy Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "bd4fb230-d07f-4280-88ae-f8829937c4f4",
@@ -320,7 +365,7 @@
       "id": "77f94d90-688a-4c7e-9d9a-ee98c5e66c2a",
       "name": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Oman opt to bowl",
+      "status": "Oman need 136 runs",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-04-27",
       "dateTimeGMT": "2026-04-27T00:00:00",
@@ -342,10 +387,16 @@
       ],
       "score": [
         {
-          "r": 69,
-          "w": 0,
-          "o": 14.3,
+          "r": 268,
+          "w": 7,
+          "o": 50,
           "inning": "United Arab Emirates Inning 1"
+        },
+        {
+          "r": 133,
+          "w": 3,
+          "o": 24.3,
+          "inning": "Oman Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -1040,7 +1091,7 @@
       "id": "669d6925-6e15-4e9a-b00d-d96a674a5f7d",
       "name": "Durham vs Lancashire, 12th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Lancashire lead by 335 runs",
+      "status": "Day 4: 1st Session - Durham need 336 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-04-24",
       "dateTimeGMT": "2026-04-24T10:00:00",
@@ -1078,57 +1129,12 @@
           "w": 9,
           "o": 85.3,
           "inning": "Lancashire Inning 2"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "c19e5f3c-09cd-4911-a93a-93e964a70e22",
-      "name": "Derbyshire vs Gloucestershire, 11th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 3: Stumps - Derbyshire trail by 100 runs",
-      "venue": "County Ground, Derby",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Derbyshire",
-        "Gloucestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
         },
         {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 498,
-          "w": 10,
-          "o": 148.4,
-          "inning": "gloucestershire Inning 1"
-        },
-        {
-          "r": 281,
-          "w": 10,
-          "o": 101.1,
-          "inning": "Derbyshire,Gloucestershire Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 3,
-          "o": 35,
-          "inning": "gloucestershire Inning 2"
+          "r": 0,
+          "w": 0,
+          "o": 0,
+          "inning": "Durham Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
