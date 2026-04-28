@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T16:10:30.378Z",
+  "lastUpdated": "2026-04-28T21:11:18.301Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -81,51 +81,6 @@
           "r": 83,
           "w": 2,
           "o": 6.5,
-          "inning": "Costa Rica Women Inning 1"
-        }
-      ],
-      "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f193ccf5-72c1-49ac-9427-bde5cfc50307",
-      "name": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026",
-      "matchType": "t20",
-      "status": "Costa Rica Women won by 8 wkts",
-      "venue": "Los Reyes Polo Club, Guacima",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T15:00:00",
-      "teams": [
-        "Costa Rica Women",
-        "Chile Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chile Women",
-          "shortname": "CW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Costa Rica Women",
-          "shortname": "CRW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 95,
-          "w": 10,
-          "o": 18.3,
-          "inning": "Chile Women Inning 1"
-        },
-        {
-          "r": 96,
-          "w": 2,
-          "o": 11,
           "inning": "Costa Rica Women Inning 1"
         }
       ],
@@ -407,96 +362,6 @@
       "matchEnded": true
     },
     {
-      "id": "cad35534-170e-4ab8-9fc8-1ba570d8d6e8",
-      "name": "Italy Women vs United States of America Women, 10th Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "United States of America Women won by 72 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T11:50:00",
-      "teams": [
-        "Italy Women",
-        "United States of America Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Italy Women",
-          "shortname": "IT-W",
-          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
-        },
-        {
-          "name": "United States of America Women",
-          "shortname": "USW",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 146,
-          "w": 6,
-          "o": 20,
-          "inning": "united states of america women Inning 1"
-        },
-        {
-          "r": 74,
-          "w": 10,
-          "o": 16,
-          "inning": "Italy Women,United States of America Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8c594c6c-d41e-46ee-9a48-d1cd99d10279",
-      "name": "Nepal Women vs Vanuatu Women, 9th Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "Vanuatu Women won by 22 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T07:00:00",
-      "teams": [
-        "Nepal Women",
-        "Vanuatu Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Vanuatu Women",
-          "shortname": "VAN-W",
-          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 97,
-          "w": 5,
-          "o": 20,
-          "inning": "vanuatu women Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 10,
-          "o": 15.3,
-          "inning": "Nepal Women,Vanuatu Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "77f94d90-688a-4c7e-9d9a-ee98c5e66c2a",
       "name": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -590,7 +455,7 @@
       "id": "8fbd3678-6299-4e67-8c28-74d4952b6ae7",
       "name": "Punjab Kings vs Rajasthan Royals, 40th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Rajasthan Royals need 179 runs",
+      "status": "Rajasthan Royals won by 6 wkts",
       "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
       "date": "2026-04-28",
       "dateTimeGMT": "2026-04-28T14:00:00",
@@ -618,9 +483,9 @@
           "inning": "Punjab Kings Inning 1"
         },
         {
-          "r": 44,
-          "w": 0,
-          "o": 3,
+          "r": 228,
+          "w": 4,
+          "o": 19.2,
           "inning": "Rajasthan Royals Inning 1"
         }
       ],
@@ -629,7 +494,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "63c19cfb-3544-41df-8bd8-10049818a6c5",
@@ -857,55 +722,10 @@
       "matchEnded": true
     },
     {
-      "id": "ed074a44-a661-4727-83a7-4a33c2a05165",
-      "name": "Royal Challengers Bengaluru vs Gujarat Titans, 34th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Challengers Bengaluru won by 5 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T14:00:00",
-      "teams": [
-        "Royal Challengers Bengaluru",
-        "Gujarat Titans"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Royal Challengers Bengaluru",
-          "shortname": "RCBW",
-          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 205,
-          "w": 3,
-          "o": 20,
-          "inning": "Gujarat Titans Inning 1"
-        },
-        {
-          "r": 206,
-          "w": 5,
-          "o": 18.5,
-          "inning": "Royal Challengers Bengaluru Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "4bd67517-c68c-4cdf-8df0-2a4458e545ff",
       "name": "Peshawar Zalmi vs Islamabad United, Qualifier, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Islamabad United need 213 runs",
+      "status": "Peshawar Zalmi won by 70 runs",
       "venue": "National Stadium, Karachi",
       "date": "2026-04-28",
       "dateTimeGMT": "2026-04-28T14:00:00",
@@ -933,9 +753,9 @@
           "inning": "Peshawar Zalmi Inning 1"
         },
         {
-          "r": 9,
-          "w": 0,
-          "o": 0.4,
+          "r": 151,
+          "w": 10,
+          "o": 18.4,
           "inning": "Islamabad United Inning 1"
         }
       ],
@@ -944,7 +764,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "48209a90-7541-4863-b48f-28849ab2c6cc",
@@ -1125,6 +945,179 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
+      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Cyprus Women opt to bat",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-04-04",
+      "dateTimeGMT": "2026-04-04T11:30:00",
+      "teams": [
+        "Cyprus Women",
+        "Greece Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 47,
+          "w": 5,
+          "o": 7.5,
+          "inning": "cyprus women Inning 1"
+        }
+      ],
+      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "730bf426-48dc-456c-b77a-42436a9d9db3",
+      "name": "Bangladesh Women vs Sri Lanka Women, 1st T20I, Sri Lanka Women tour of Bangladesh, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 25 runs",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2026-04-28",
+      "dateTimeGMT": "2026-04-28T12:00:00",
+      "teams": [
+        "Bangladesh Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 161,
+          "w": 4,
+          "o": 20,
+          "inning": "Sri Lanka Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 7,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        }
+      ],
+      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e54d9f76-4b6a-4b4d-8656-17b116276fbf",
+      "name": "Bangladesh Women vs Sri Lanka Women, 3rd ODI, Sri Lanka Women tour of Bangladesh, 2026",
+      "status": "Sri Lanka Women won by 7 wkts",
+      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
+      "date": "2026-04-25",
+      "dateTimeGMT": "2026-04-25T03:30:00",
+      "teams": [
+        "Bangladesh Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 213,
+          "w": 8,
+          "o": 50,
+          "inning": "bangladesh women Inning 1"
+        },
+        {
+          "r": 214,
+          "w": 3,
+          "o": 46.3,
+          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "227adebd-b821-440f-bd66-d8d70b1a3b46",
+      "name": "Bangladesh vs New Zealand, 1st T20I, New Zealand tour of Bangladesh, 2026",
+      "matchType": "odi",
+      "status": "Bangladesh won by 6 wkts",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T12:30:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 6,
+          "o": 20,
+          "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 183,
+          "w": 4,
+          "o": 18,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1134,11 +1127,19 @@
     "standings": [
       {
         "team": "Punjab Kings",
-        "played": 7,
+        "played": 8,
         "won": 6,
-        "lost": 0,
+        "lost": 1,
         "nr": 1,
         "points": 13
+      },
+      {
+        "team": "Rajasthan Royals",
+        "played": 9,
+        "won": 6,
+        "lost": 3,
+        "nr": 0,
+        "points": 12
       },
       {
         "team": "Royal Challengers Bengaluru",
@@ -1150,14 +1151,6 @@
       },
       {
         "team": "Sunrisers Hyderabad",
-        "played": 8,
-        "won": 5,
-        "lost": 3,
-        "nr": 0,
-        "points": 10
-      },
-      {
-        "team": "Rajasthan Royals",
         "played": 8,
         "won": 5,
         "lost": 3,
