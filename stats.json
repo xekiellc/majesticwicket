@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T10:04:14.566Z",
+  "lastUpdated": "2026-04-28T16:10:30.378Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -130,6 +130,51 @@
         }
       ],
       "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "412016db-4431-41d9-bd54-3058d46c5315",
+      "name": "Italy Women vs Vanuatu Women, 16th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Italy Women won by 8 runs (DLS Method)",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-04-28",
+      "dateTimeGMT": "2026-04-28T11:50:00",
+      "teams": [
+        "Italy Women",
+        "Vanuatu Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 2,
+          "o": 20,
+          "inning": "Vanuatu Women Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 4,
+          "o": 11.5,
+          "inning": "Italy Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -542,6 +587,51 @@
       "matchEnded": true
     },
     {
+      "id": "8fbd3678-6299-4e67-8c28-74d4952b6ae7",
+      "name": "Punjab Kings vs Rajasthan Royals, 40th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Rajasthan Royals need 179 runs",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
+      "date": "2026-04-28",
+      "dateTimeGMT": "2026-04-28T14:00:00",
+      "teams": [
+        "Punjab Kings",
+        "Rajasthan Royals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Punjab Kings",
+          "shortname": "PBKS",
+          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+        },
+        {
+          "name": "Rajasthan Royals",
+          "shortname": "RR",
+          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 222,
+          "w": 4,
+          "o": 20,
+          "inning": "Punjab Kings Inning 1"
+        },
+        {
+          "r": 44,
+          "w": 0,
+          "o": 3,
+          "inning": "Rajasthan Royals Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "63c19cfb-3544-41df-8bd8-10049818a6c5",
       "name": "Delhi Capitals vs Royal Challengers Bengaluru, 39th Match, Indian Premier League 2026",
       "matchType": "t20",
@@ -812,6 +902,51 @@
       "matchEnded": true
     },
     {
+      "id": "4bd67517-c68c-4cdf-8df0-2a4458e545ff",
+      "name": "Peshawar Zalmi vs Islamabad United, Qualifier, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Islamabad United need 213 runs",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-04-28",
+      "dateTimeGMT": "2026-04-28T14:00:00",
+      "teams": [
+        "Peshawar Zalmi",
+        "Islamabad United"
+      ],
+      "teamInfo": [
+        {
+          "name": "Islamabad United",
+          "shortname": "ISU",
+          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
+        },
+        {
+          "name": "Peshawar Zalmi",
+          "shortname": "PSZ",
+          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 7,
+          "o": 20,
+          "inning": "Peshawar Zalmi Inning 1"
+        },
+        {
+          "r": 9,
+          "w": 0,
+          "o": 0.4,
+          "inning": "Islamabad United Inning 1"
+        }
+      ],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "48209a90-7541-4863-b48f-28849ab2c6cc",
       "name": "Islamabad United vs Multan Sultans, 40th Match, Pakistan Super League 2026",
       "matchType": "t20",
@@ -985,159 +1120,6 @@
         }
       ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b3f5046a-b1c3-4e94-8189-e8d99dafdc3c",
-      "name": "Hyderabad Kingsmen vs Islamabad United, 36th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Islamabad United won by 8 wkts",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T14:00:00",
-      "teams": [
-        "Hyderabad Kingsmen",
-        "Islamabad United"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad Kingsmen",
-          "shortname": "HK",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Islamabad United",
-          "shortname": "ISU",
-          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 80,
-          "w": 10,
-          "o": 15.5,
-          "inning": "Hyderabad Kingsmen Inning 1"
-        },
-        {
-          "r": 83,
-          "w": 2,
-          "o": 6.4,
-          "inning": "Islamabad United Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "54cea8e9-8430-4010-802f-d2e0855e8910",
-      "name": "Worcestershire vs Kent, 13th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Worcestershire won by an innings and 2 runs",
-      "venue": "New Road, Worcester",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Worcestershire",
-        "Kent"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 10,
-          "o": 71.5,
-          "inning": "kent Inning 1"
-        },
-        {
-          "r": 447,
-          "w": 10,
-          "o": 121,
-          "inning": "Worcestershire,Kent Inning 1"
-        },
-        {
-          "r": 249,
-          "w": 10,
-          "o": 67.1,
-          "inning": "kent Inning 2"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "669d6925-6e15-4e9a-b00d-d96a674a5f7d",
-      "name": "Durham vs Lancashire, 12th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Durham won by 8 wkts",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-04-24",
-      "dateTimeGMT": "2026-04-24T10:00:00",
-      "teams": [
-        "Durham",
-        "Lancashire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 370,
-          "w": 10,
-          "o": 100,
-          "inning": "Lancashire Inning 1"
-        },
-        {
-          "r": 295,
-          "w": 10,
-          "o": 87.2,
-          "inning": "Durham Inning 1"
-        },
-        {
-          "r": 260,
-          "w": 9,
-          "o": 85.3,
-          "inning": "Lancashire Inning 2"
-        },
-        {
-          "r": 336,
-          "w": 2,
-          "o": 77.5,
-          "inning": "Durham Inning 2"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
