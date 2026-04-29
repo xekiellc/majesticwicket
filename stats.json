@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T15:58:06.628Z",
+  "lastUpdated": "2026-04-29T21:10:39.207Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -36,51 +36,6 @@
           "r": 48,
           "w": 1,
           "o": 6.1,
-          "inning": "Costa Rica Women Inning 1"
-        }
-      ],
-      "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3f683268-d9da-4faa-a4f7-3fb81b5679e4",
-      "name": "Costa Rica Women vs Chile Women, 2nd T20I, Chile Women tour of Costa Rica 2026",
-      "matchType": "t20",
-      "status": "Costa Rica Women won by 8 wkts",
-      "venue": "Los Reyes Polo Club, Guacima",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T15:00:00",
-      "teams": [
-        "Costa Rica Women",
-        "Chile Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chile Women",
-          "shortname": "CW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Costa Rica Women",
-          "shortname": "CRW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 81,
-          "w": 8,
-          "o": 20,
-          "inning": "Chile Women Inning 1"
-        },
-        {
-          "r": 83,
-          "w": 2,
-          "o": 6.5,
           "inning": "Costa Rica Women Inning 1"
         }
       ],
@@ -452,55 +407,10 @@
       "matchEnded": true
     },
     {
-      "id": "4366654e-33e0-4ed0-9e5f-e71e2b535714",
-      "name": "Nepal vs United Arab Emirates, 98th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 37 runs",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T00:00:00",
-      "teams": [
-        "Nepal",
-        "United Arab Emirates"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 200,
-          "w": 10,
-          "o": 48.2,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 163,
-          "w": 10,
-          "o": 48.2,
-          "inning": "United Arab Emirates Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "05d33d50-3efe-42f9-98f7-1f363a2f153a",
       "name": "Mumbai Indians vs Sunrisers Hyderabad, 41st Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Mumbai Indians opt to bat",
+      "status": "Sunrisers Hyderabad won by 6 wkts",
       "venue": "Wankhede Stadium, Mumbai",
       "date": "2026-04-29",
       "dateTimeGMT": "2026-04-29T14:00:00",
@@ -526,7 +436,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8fbd3678-6299-4e67-8c28-74d4952b6ae7",
@@ -709,100 +619,10 @@
       "matchEnded": true
     },
     {
-      "id": "3d5968a6-4851-410c-b66a-811b92406933",
-      "name": "Rajasthan Royals vs Sunrisers Hyderabad, 36th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Hyderabad won by 5 wkts",
-      "venue": "Sawai Mansingh Stadium, Jaipur",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T14:00:00",
-      "teams": [
-        "Rajasthan Royals",
-        "Sunrisers Hyderabad"
-      ],
-      "teamInfo": [
-        {
-          "name": "Rajasthan Royals",
-          "shortname": "RR",
-          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
-        },
-        {
-          "name": "Sunrisers Hyderabad",
-          "shortname": "SRH",
-          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 228,
-          "w": 6,
-          "o": 20,
-          "inning": "Rajasthan Royals Inning 1"
-        },
-        {
-          "r": 229,
-          "w": 5,
-          "o": 18.3,
-          "inning": "Sunrisers Hyderabad Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7bd928c0-1961-4fb5-a7a7-acd61c4a1586",
-      "name": "Delhi Capitals vs Punjab Kings, 35th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Punjab Kings won by 6 wkts",
-      "venue": "Arun Jaitley Stadium, Delhi",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T10:00:00",
-      "teams": [
-        "Delhi Capitals",
-        "Punjab Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Delhi Capitals",
-          "shortname": "DC",
-          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
-        },
-        {
-          "name": "Punjab Kings",
-          "shortname": "PBKS",
-          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 264,
-          "w": 2,
-          "o": 20,
-          "inning": "delhi capitals Inning 1"
-        },
-        {
-          "r": 265,
-          "w": 4,
-          "o": 18.5,
-          "inning": "Delhi Capitals,Punjab Kings Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "890860f7-b996-48fa-9de8-c702ba22fc82",
       "name": "Multan Sultans vs Hyderabad Kingsmen, Eliminator 1, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Hyderabad Kingsmen opt to bowl",
+      "status": "Hyderabad Kingsmen won by 8 wkts",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-04-29",
       "dateTimeGMT": "2026-04-29T14:00:00",
@@ -828,7 +648,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4bd67517-c68c-4cdf-8df0-2a4458e545ff",
@@ -966,96 +786,6 @@
       "matchEnded": true
     },
     {
-      "id": "7f8fb738-b92b-42bc-b211-a9252952b8eb",
-      "name": "Lahore Qalandars vs Peshawar Zalmi, 38th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Lahore Qalandars won by 6 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T14:00:00",
-      "teams": [
-        "Lahore Qalandars",
-        "Peshawar Zalmi"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lahore Qalandars",
-          "shortname": "LHQ",
-          "img": "https://g.cricapi.com/iapi/41-637991979136379824.webp?w=48"
-        },
-        {
-          "name": "Peshawar Zalmi",
-          "shortname": "PSZ",
-          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 4,
-          "o": 20,
-          "inning": "Peshawar Zalmi Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 4,
-          "o": 19.3,
-          "inning": "Lahore Qalandars Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "27c10876-cb7a-41d0-916b-12a41ecf6d1a",
-      "name": "Quetta Gladiators vs Karachi Kings, 37th Match, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Karachi Kings won by 9 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T09:30:00",
-      "teams": [
-        "Quetta Gladiators",
-        "Karachi Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Karachi Kings",
-          "shortname": "KRK",
-          "img": "https://g.cricapi.com/iapi/37-637992689033348642.webp?w=48"
-        },
-        {
-          "name": "Quetta Gladiators",
-          "shortname": "QTG",
-          "img": "https://g.cricapi.com/iapi/74-637992667257901247.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 195,
-          "w": 6,
-          "o": 20,
-          "inning": "Quetta Gladiators Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 1,
-          "o": 18.3,
-          "inning": "Karachi Kings Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
       "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -1093,6 +823,141 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "730bf426-48dc-456c-b77a-42436a9d9db3",
+      "name": "Bangladesh Women vs Sri Lanka Women, 1st T20I, Sri Lanka Women tour of Bangladesh, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 25 runs",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2026-04-28",
+      "dateTimeGMT": "2026-04-28T12:00:00",
+      "teams": [
+        "Bangladesh Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 161,
+          "w": 4,
+          "o": 20,
+          "inning": "Sri Lanka Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 7,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        }
+      ],
+      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "227adebd-b821-440f-bd66-d8d70b1a3b46",
+      "name": "Bangladesh vs New Zealand, 1st T20I, New Zealand tour of Bangladesh, 2026",
+      "matchType": "odi",
+      "status": "Bangladesh won by 6 wkts",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T12:30:00",
+      "teams": [
+        "Bangladesh",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 6,
+          "o": 20,
+          "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 183,
+          "w": 4,
+          "o": 18,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "671c2ffd-9ba1-48c8-b6d0-69b8d0acd9ab",
+      "name": "South Africa Women vs India Women, 5th T20I, India Women tour of South Africa 2026",
+      "matchType": "t20",
+      "status": "South Africa Women won by 23 runs",
+      "venue": "Willowmoore Park, Benoni",
+      "date": "2026-04-27",
+      "dateTimeGMT": "2026-04-27T12:00:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 6,
+          "o": 20,
+          "inning": "south africa women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 8,
+          "o": 20,
+          "inning": "South Africa Women,India Women Inning 1"
+        }
+      ],
+      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1109,6 +974,14 @@
         "points": 13
       },
       {
+        "team": "Sunrisers Hyderabad",
+        "played": 9,
+        "won": 6,
+        "lost": 3,
+        "nr": 0,
+        "points": 12
+      },
+      {
         "team": "Rajasthan Royals",
         "played": 9,
         "won": 6,
@@ -1123,14 +996,6 @@
         "lost": 2,
         "nr": 0,
         "points": 12
-      },
-      {
-        "team": "Sunrisers Hyderabad",
-        "played": 8,
-        "won": 5,
-        "lost": 3,
-        "nr": 0,
-        "points": 10
       },
       {
         "team": "Gujarat Titans",
@@ -1166,9 +1031,9 @@
       },
       {
         "team": "Mumbai Indians",
-        "played": 7,
+        "played": 8,
         "won": 2,
-        "lost": 5,
+        "lost": 6,
         "nr": 0,
         "points": 4
       },
