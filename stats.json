@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T09:55:41.001Z",
+  "lastUpdated": "2026-04-29T15:58:06.628Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -365,7 +365,7 @@
       "id": "4210c10d-f87b-4552-8a53-377b3bcee7c0",
       "name": "Nepal vs Oman, 100th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Nepal need 167 runs",
+      "status": "Oman won by 102 runs (DLS method due to rain)",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-04-29",
       "dateTimeGMT": "2026-04-29T00:00:00",
@@ -393,9 +393,9 @@
           "inning": "oman Inning 1"
         },
         {
-          "r": 139,
-          "w": 6,
-          "o": 33.1,
+          "r": 155,
+          "w": 7,
+          "o": 36.5,
           "inning": "Nepal,Oman Inning 1"
         }
       ],
@@ -404,7 +404,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "77f94d90-688a-4c7e-9d9a-ee98c5e66c2a",
@@ -495,6 +495,38 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "05d33d50-3efe-42f9-98f7-1f363a2f153a",
+      "name": "Mumbai Indians vs Sunrisers Hyderabad, 41st Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Mumbai Indians opt to bat",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2026-04-29",
+      "dateTimeGMT": "2026-04-29T14:00:00",
+      "teams": [
+        "Mumbai Indians",
+        "Sunrisers Hyderabad"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        },
+        {
+          "name": "Sunrisers Hyderabad",
+          "shortname": "SRH",
+          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "8fbd3678-6299-4e67-8c28-74d4952b6ae7",
@@ -767,6 +799,38 @@
       "matchEnded": true
     },
     {
+      "id": "890860f7-b996-48fa-9de8-c702ba22fc82",
+      "name": "Multan Sultans vs Hyderabad Kingsmen, Eliminator 1, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Hyderabad Kingsmen opt to bowl",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-04-29",
+      "dateTimeGMT": "2026-04-29T14:00:00",
+      "teams": [
+        "Multan Sultans",
+        "Hyderabad Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad Kingsmen",
+          "shortname": "HK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Multan Sultans",
+          "shortname": "MS",
+          "img": "https://g.cricapi.com/iapi/50-637991992950999418.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "4bd67517-c68c-4cdf-8df0-2a4458e545ff",
       "name": "Peshawar Zalmi vs Islamabad United, Qualifier, Pakistan Super League 2026",
       "matchType": "t20",
@@ -1029,95 +1093,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "730bf426-48dc-456c-b77a-42436a9d9db3",
-      "name": "Bangladesh Women vs Sri Lanka Women, 1st T20I, Sri Lanka Women tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 25 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-04-28",
-      "dateTimeGMT": "2026-04-28T12:00:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 4,
-          "o": 20,
-          "inning": "Sri Lanka Women Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 7,
-          "o": 20,
-          "inning": "Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e54d9f76-4b6a-4b4d-8656-17b116276fbf",
-      "name": "Bangladesh Women vs Sri Lanka Women, 3rd ODI, Sri Lanka Women tour of Bangladesh, 2026",
-      "status": "Sri Lanka Women won by 7 wkts",
-      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
-      "date": "2026-04-25",
-      "dateTimeGMT": "2026-04-25T03:30:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 213,
-          "w": 8,
-          "o": 50,
-          "inning": "bangladesh women Inning 1"
-        },
-        {
-          "r": 214,
-          "w": 3,
-          "o": 46.3,
-          "inning": "Bangladesh Women,Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
