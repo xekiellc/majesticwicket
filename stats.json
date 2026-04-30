@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T05:35:04.239Z",
+  "lastUpdated": "2026-04-30T09:55:57.410Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -41,6 +41,38 @@
       ],
       "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0b9f3a23-0c7b-402b-a3ed-43ee057e048d",
+      "name": "Italy Women vs United States of America Women, 17th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "United States of America Women won by 9 wkts",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-30",
+      "dateTimeGMT": "2026-04-30T07:00:00",
+      "teams": [
+        "Italy Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -822,6 +854,38 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "35f9c510-0abf-4456-ac45-cfad9a269f6f",
+      "name": "Bangladesh Women vs Sri Lanka Women, 2nd T20I, Sri Lanka Women tour of Bangladesh, 2026",
+      "matchType": "t20",
+      "status": "Bangladesh Women need 127 runs in 90 balls",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2026-04-30",
+      "dateTimeGMT": "2026-04-30T12:00:00",
+      "teams": [
+        "Bangladesh Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
       "matchEnded": false
     },
     {
