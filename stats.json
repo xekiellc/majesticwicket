@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T09:55:57.410Z",
+  "lastUpdated": "2026-04-30T15:49:20.549Z",
   "recentMatches": [
     {
       "id": "9ce79e37-56e1-4f02-88c9-0a7534f46d8e",
@@ -41,6 +41,38 @@
       ],
       "series_id": "6f328f01-a591-4f0c-8104-d2fa2c193216",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "db50d4e3-a86a-4a71-b300-ebe2026cea10",
+      "name": "Nepal Women vs Vanuatu Women, 18th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 83 runs",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-04-30",
+      "dateTimeGMT": "2026-04-30T11:50:00",
+      "teams": [
+        "Nepal Women",
+        "Vanuatu Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Vanuatu Women",
+          "shortname": "VAN-W",
+          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -437,6 +469,38 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "7e0789c4-6bdc-48da-a67f-49213f6d731e",
+      "name": "Gujarat Titans vs Royal Challengers Bengaluru, 42nd Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Gujarat Titans opt to bowl",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2026-04-30",
+      "dateTimeGMT": "2026-04-30T14:00:00",
+      "teams": [
+        "Gujarat Titans",
+        "Royal Challengers Bengaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gujarat Titans",
+          "shortname": "GT",
+          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+        },
+        {
+          "name": "Royal Challengers Bengaluru",
+          "shortname": "RCBW",
+          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "05d33d50-3efe-42f9-98f7-1f363a2f153a",
@@ -860,7 +924,7 @@
       "id": "35f9c510-0abf-4456-ac45-cfad9a269f6f",
       "name": "Bangladesh Women vs Sri Lanka Women, 2nd T20I, Sri Lanka Women tour of Bangladesh, 2026",
       "matchType": "t20",
-      "status": "Bangladesh Women need 127 runs in 90 balls",
+      "status": "Sri Lanka Women won by 21 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-04-30",
       "dateTimeGMT": "2026-04-30T12:00:00",
@@ -885,8 +949,8 @@
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "730bf426-48dc-456c-b77a-42436a9d9db3",
@@ -972,51 +1036,6 @@
         }
       ],
       "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "671c2ffd-9ba1-48c8-b6d0-69b8d0acd9ab",
-      "name": "South Africa Women vs India Women, 5th T20I, India Women tour of South Africa 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 23 runs",
-      "venue": "Willowmoore Park, Benoni",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T12:00:00",
-      "teams": [
-        "South Africa Women",
-        "India Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 6,
-          "o": 20,
-          "inning": "south africa women Inning 1"
-        },
-        {
-          "r": 132,
-          "w": 8,
-          "o": 20,
-          "inning": "South Africa Women,India Women Inning 1"
-        }
-      ],
-      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
