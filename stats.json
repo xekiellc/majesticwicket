@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-04-30T21:05:35.082Z",
+  "lastUpdated": "2026-05-01T05:46:45.172Z",
   "recentMatches": [
+    {
+      "id": "526e3385-009c-41a3-a043-edd394cf8623",
+      "name": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 6 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T01:30:00",
+      "teams": [
+        "Malaysia",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "db50d4e3-a86a-4a71-b300-ebe2026cea10",
       "name": "Nepal Women vs Vanuatu Women, 18th Match, ICC Womens T20I Challenge Trophy 2026",
@@ -244,6 +276,38 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "60147c2f-3986-4b27-ae89-6e56f2db5d41",
+      "name": "Nepal vs United Arab Emirates, 101st Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal opt to bat",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T00:00:00",
+      "teams": [
+        "Nepal",
+        "United Arab Emirates"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "4210c10d-f87b-4552-8a53-377b3bcee7c0",
