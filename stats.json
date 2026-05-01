@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-05-01T05:46:45.172Z",
+  "lastUpdated": "2026-05-01T09:24:07.948Z",
   "recentMatches": [
+    {
+      "id": "7cde527e-9b85-4c57-8fb6-584e9f6b42da",
+      "name": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Austria opt to bowl",
+      "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T08:30:00",
+      "teams": [
+        "Germany",
+        "Austria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "526e3385-009c-41a3-a043-edd394cf8623",
       "name": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026",
@@ -32,6 +63,38 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "4ac5ddd5-4877-4cb6-914b-615dae82569d",
+      "name": "Rwanda Women vs United States of America Women, 19th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Rain stops play - United States of America Women opt to bat",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T07:00:00",
+      "teams": [
+        "Rwanda Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "db50d4e3-a86a-4a71-b300-ebe2026cea10",
@@ -281,7 +344,7 @@
       "id": "60147c2f-3986-4b27-ae89-6e56f2db5d41",
       "name": "Nepal vs United Arab Emirates, 101st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Nepal opt to bat",
+      "status": "Rain stops play - United Arab Emirates need 254 runs",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T00:00:00",
