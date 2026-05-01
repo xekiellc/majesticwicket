@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-01T09:24:07.948Z",
+  "lastUpdated": "2026-05-01T15:02:03.293Z",
   "recentMatches": [
     {
       "id": "7cde527e-9b85-4c57-8fb6-584e9f6b42da",
       "name": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Austria opt to bowl",
+      "status": "Germany won by 162 runs",
       "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T08:30:00",
@@ -30,7 +30,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "526e3385-009c-41a3-a043-edd394cf8623",
@@ -65,10 +65,42 @@
       "matchEnded": true
     },
     {
+      "id": "a363e2ce-11ca-48a8-b731-ffbf6eb84081",
+      "name": "Italy Women vs Nepal Women, 20th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women opt to bowl",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T11:50:00",
+      "teams": [
+        "Italy Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "4ac5ddd5-4877-4cb6-914b-615dae82569d",
       "name": "Rwanda Women vs United States of America Women, 19th Match, ICC Womens T20I Challenge Trophy 2026",
       "matchType": "t20",
-      "status": "Rain stops play - United States of America Women opt to bat",
+      "status": "No result due to rain",
       "venue": "Gahanga B Ground, Kigali City",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T07:00:00",
@@ -94,7 +126,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "db50d4e3-a86a-4a71-b300-ebe2026cea10",
@@ -344,7 +376,7 @@
       "id": "60147c2f-3986-4b27-ae89-6e56f2db5d41",
       "name": "Nepal vs United Arab Emirates, 101st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Rain stops play - United Arab Emirates need 254 runs",
+      "status": "Nepal won by 6 runs (DLS method due to rain)",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T00:00:00",
@@ -370,7 +402,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4210c10d-f87b-4552-8a53-377b3bcee7c0",
@@ -461,6 +493,38 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "3093f73b-639c-464c-8497-b6b238b5b9af",
+      "name": "Rajasthan Royals vs Delhi Capitals, 43rd Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Rajasthan Royals opt to bat",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T14:00:00",
+      "teams": [
+        "Rajasthan Royals",
+        "Delhi Capitals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Delhi Capitals",
+          "shortname": "DC",
+          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+        },
+        {
+          "name": "Rajasthan Royals",
+          "shortname": "RR",
+          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "7e0789c4-6bdc-48da-a67f-49213f6d731e",
@@ -617,6 +681,38 @@
       "matchEnded": true
     },
     {
+      "id": "dcc150f1-8fb3-4a5e-aa28-d9be585630f2",
+      "name": "Islamabad United vs Hyderabad Kingsmen, Eliminator 2, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Islamabad United opt to bowl",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T14:00:00",
+      "teams": [
+        "Islamabad United",
+        "Hyderabad Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad Kingsmen",
+          "shortname": "HK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Islamabad United",
+          "shortname": "ISU",
+          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "890860f7-b996-48fa-9de8-c702ba22fc82",
       "name": "Multan Sultans vs Hyderabad Kingsmen, Eliminator 1, Pakistan Super League 2026",
       "matchType": "t20",
@@ -694,210 +790,132 @@
       "matchEnded": true
     },
     {
-      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
-      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-04-04",
-      "dateTimeGMT": "2026-04-04T11:30:00",
+      "id": "dfca171e-a760-4db7-8a28-aade6b726c2c",
+      "name": "Kent vs Derbyshire, 14th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Derbyshire opt to bowl",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
       "teams": [
-        "Cyprus Women",
-        "Greece Women"
+        "Kent",
+        "Derbyshire"
       ],
       "teamInfo": [
         {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
         },
         {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 47,
-          "w": 5,
-          "o": 7.5,
-          "inning": "cyprus women Inning 1"
-        }
-      ],
-      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
-      "fantasyEnabled": true,
+      "score": [],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
     },
     {
-      "id": "35f9c510-0abf-4456-ac45-cfad9a269f6f",
-      "name": "Bangladesh Women vs Sri Lanka Women, 2nd T20I, Sri Lanka Women tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 21 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-04-30",
-      "dateTimeGMT": "2026-04-30T12:00:00",
+      "id": "6d8a26b7-6553-47b8-a082-0f32b2ba625e",
+      "name": "Northamptonshire vs Worcestershire, 15th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Worcestershire opt to bat",
+      "venue": "County Ground, Northampton",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
       "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
+        "Northamptonshire",
+        "Worcestershire"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
         },
         {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
         }
       ],
       "score": [],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "730bf426-48dc-456c-b77a-42436a9d9db3",
-      "name": "Bangladesh Women vs Sri Lanka Women, 1st T20I, Sri Lanka Women tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 25 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-04-28",
-      "dateTimeGMT": "2026-04-28T12:00:00",
+      "id": "015bf01b-9431-4343-b0b5-006ded9f4eea",
+      "name": "Middlesex vs Durham, 16th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Middlesex opt to bat",
+      "venue": "Lord's, London",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
       "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
+        "Middlesex",
+        "Durham"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
         },
         {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 161,
-          "w": 4,
-          "o": 20,
-          "inning": "Sri Lanka Women Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 7,
-          "o": 20,
-          "inning": "Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
+      "score": [],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "227adebd-b821-440f-bd66-d8d70b1a3b46",
-      "name": "Bangladesh vs New Zealand, 1st T20I, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "Bangladesh won by 6 wkts",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T12:30:00",
+      "id": "adf1ee8d-0cc6-4d37-ab63-152b6e3fe041",
+      "name": "Surrey vs Sussex, 17th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Surrey opt to bowl",
+      "venue": "Kennington Oval, London",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
       "teams": [
-        "Bangladesh",
-        "New Zealand"
+        "Surrey",
+        "Sussex"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
         },
         {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 182,
-          "w": 6,
-          "o": 20,
-          "inning": "New Zealand Inning 1"
-        },
-        {
-          "r": 183,
-          "w": 4,
-          "o": 18,
-          "inning": "Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
-      "fantasyEnabled": true,
+      "score": [],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "671c2ffd-9ba1-48c8-b6d0-69b8d0acd9ab",
-      "name": "South Africa Women vs India Women, 5th T20I, India Women tour of South Africa 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 23 runs",
-      "venue": "Willowmoore Park, Benoni",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T12:00:00",
-      "teams": [
-        "South Africa Women",
-        "India Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 6,
-          "o": 20,
-          "inning": "south africa women Inning 1"
-        },
-        {
-          "r": 132,
-          "w": 8,
-          "o": 20,
-          "inning": "South Africa Women,India Women Inning 1"
-        }
-      ],
-      "series_id": "887ee688-3535-4294-a642-19fd3488217e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
