@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-05-01T15:02:03.293Z",
+  "lastUpdated": "2026-05-01T20:58:13.828Z",
   "recentMatches": [
+    {
+      "id": "4f899f79-93a0-4e44-b151-7fda5c43157e",
+      "name": "Germany vs Austria, 2nd T20I, Austria tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Germany won by 4 wkts",
+      "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T13:30:00",
+      "teams": [
+        "Germany",
+        "Austria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "7cde527e-9b85-4c57-8fb6-584e9f6b42da",
       "name": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026",
@@ -283,96 +314,6 @@
       "matchEnded": true
     },
     {
-      "id": "4b35e2b6-b5cc-4d40-a99b-25f1cf1af252",
-      "name": "United States of America Women vs Vanuatu Women, 14th Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "United States of America Women won by 72 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T11:50:00",
-      "teams": [
-        "United States of America Women",
-        "Vanuatu Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "United States of America Women",
-          "shortname": "USW",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        },
-        {
-          "name": "Vanuatu Women",
-          "shortname": "VAN-W",
-          "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 162,
-          "w": 4,
-          "o": 20,
-          "inning": "united states of america women Inning 1"
-        },
-        {
-          "r": 90,
-          "w": 8,
-          "o": 20,
-          "inning": "United States of America Women,Vanuatu Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b8c6089d-7107-4f05-9969-2ff0fafd0f30",
-      "name": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 6 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T07:00:00",
-      "teams": [
-        "Rwanda Women",
-        "Italy Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Italy Women",
-          "shortname": "IT-W",
-          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 123,
-          "w": 7,
-          "o": 20,
-          "inning": "italy women Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 4,
-          "o": 19.3,
-          "inning": "Rwanda Women,Italy Women Inning 1"
-        }
-      ],
-      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "60147c2f-3986-4b27-ae89-6e56f2db5d41",
       "name": "Nepal vs United Arab Emirates, 101st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -450,55 +391,10 @@
       "matchEnded": true
     },
     {
-      "id": "77f94d90-688a-4c7e-9d9a-ee98c5e66c2a",
-      "name": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United Arab Emirates won by 25 runs",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T00:00:00",
-      "teams": [
-        "United Arab Emirates",
-        "Oman"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 268,
-          "w": 7,
-          "o": 50,
-          "inning": "United Arab Emirates Inning 1"
-        },
-        {
-          "r": 243,
-          "w": 10,
-          "o": 47.5,
-          "inning": "Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "3093f73b-639c-464c-8497-b6b238b5b9af",
       "name": "Rajasthan Royals vs Delhi Capitals, 43rd Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Rajasthan Royals opt to bat",
+      "status": "Delhi Capitals won by 7 wkts",
       "venue": "Sawai Mansingh Stadium, Jaipur",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T14:00:00",
@@ -524,7 +420,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7e0789c4-6bdc-48da-a67f-49213f6d731e",
@@ -636,55 +532,10 @@
       "matchEnded": true
     },
     {
-      "id": "63c19cfb-3544-41df-8bd8-10049818a6c5",
-      "name": "Delhi Capitals vs Royal Challengers Bengaluru, 39th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Challengers Bengaluru won by 9 wkts",
-      "venue": "Arun Jaitley Stadium, Delhi",
-      "date": "2026-04-27",
-      "dateTimeGMT": "2026-04-27T14:00:00",
-      "teams": [
-        "Delhi Capitals",
-        "Royal Challengers Bengaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Delhi Capitals",
-          "shortname": "DC",
-          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
-        },
-        {
-          "name": "Royal Challengers Bengaluru",
-          "shortname": "RCBW",
-          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 75,
-          "w": 10,
-          "o": 16.3,
-          "inning": "Delhi Capitals Inning 1"
-        },
-        {
-          "r": 77,
-          "w": 1,
-          "o": 6.3,
-          "inning": "Royal Challengers Bengaluru Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "dcc150f1-8fb3-4a5e-aa28-d9be585630f2",
       "name": "Islamabad United vs Hyderabad Kingsmen, Eliminator 2, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Islamabad United opt to bowl",
+      "status": "Hyderabad Kingsmen won by 2 runs",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T14:00:00",
@@ -710,7 +561,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "890860f7-b996-48fa-9de8-c702ba22fc82",
@@ -793,7 +644,7 @@
       "id": "dfca171e-a760-4db7-8a28-aade6b726c2c",
       "name": "Kent vs Derbyshire, 14th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Derbyshire opt to bowl",
+      "status": "Day 1: Stumps - Derbyshire trail by 328 runs",
       "venue": "St Lawrence Ground, Canterbury",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T10:00:00",
@@ -825,7 +676,7 @@
       "id": "6d8a26b7-6553-47b8-a082-0f32b2ba625e",
       "name": "Northamptonshire vs Worcestershire, 15th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Worcestershire opt to bat",
+      "status": "Day 1: Stumps - Northamptonshire trail by 266 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T10:00:00",
@@ -857,7 +708,7 @@
       "id": "015bf01b-9431-4343-b0b5-006ded9f4eea",
       "name": "Middlesex vs Durham, 16th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Middlesex opt to bat",
+      "status": "Day 1: Stumps - Middlesex opt to bat",
       "venue": "Lord's, London",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T10:00:00",
@@ -889,7 +740,7 @@
       "id": "adf1ee8d-0cc6-4d37-ab63-152b6e3fe041",
       "name": "Surrey vs Sussex, 17th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Surrey opt to bowl",
+      "status": "Day 1: Stumps - Surrey trail by 339 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-05-01",
       "dateTimeGMT": "2026-05-01T10:00:00",
@@ -907,6 +758,102 @@
           "name": "Sussex",
           "shortname": "SUSS",
           "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e8fd7cdc-04fc-4d3d-8fd4-9f9d531f7ef8",
+      "name": "Hampshire vs Glamorgan, 18th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Hampshire opt to bowl",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
+      "teams": [
+        "Hampshire",
+        "Glamorgan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "5208e656-825f-40bf-a558-5f5475f1f5d3",
+      "name": "Somerset vs Yorkshire, 19th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Somerset lead by 39 runs",
+      "venue": "The Cooper Associates County Ground, Taunton",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
+      "teams": [
+        "Somerset",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6b000ce4-ea88-425c-9ded-7a449e4a171f",
+      "name": "Leicestershire vs Nottinghamshire, 20th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Leicestershire opt to bowl",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
+      "teams": [
+        "Leicestershire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
         }
       ],
       "score": [],
@@ -941,9 +888,9 @@
       },
       {
         "team": "Rajasthan Royals",
-        "played": 9,
+        "played": 10,
         "won": 6,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 12
       },
@@ -964,15 +911,15 @@
         "points": 10
       },
       {
-        "team": "Chennai Super Kings",
-        "played": 8,
-        "won": 3,
+        "team": "Delhi Capitals",
+        "played": 9,
+        "won": 4,
         "lost": 5,
         "nr": 0,
-        "points": 6
+        "points": 8
       },
       {
-        "team": "Delhi Capitals",
+        "team": "Chennai Super Kings",
         "played": 8,
         "won": 3,
         "lost": 5,
