@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T05:16:01.276Z",
+  "lastUpdated": "2026-05-02T08:55:57.944Z",
   "recentMatches": [
     {
       "id": "4f899f79-93a0-4e44-b151-7fda5c43157e",
@@ -25,10 +25,24 @@
           "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 163,
+          "w": 7,
+          "o": 20,
+          "inning": "Austria Inning 1"
+        },
+        {
+          "r": 165,
+          "w": 6,
+          "o": 16.3,
+          "inning": "Germany Inning 1"
+        }
+      ],
       "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -56,10 +70,24 @@
           "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 308,
+          "w": 1,
+          "o": 20,
+          "inning": "Germany Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 10,
+          "o": 15.1,
+          "inning": "Austria Inning 1"
+        }
+      ],
       "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -87,13 +115,26 @@
           "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 137,
+          "w": 9,
+          "o": 20,
+          "inning": "Malaysia Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 7,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        }
+      ],
       "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "526e3385-009c-41a3-a043-edd394cf8623",
@@ -119,11 +160,24 @@
           "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 87,
+          "w": 6,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 4,
+          "o": 10.4,
+          "inning": "Malaysia Inning 1"
+        }
+      ],
       "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -151,9 +205,22 @@
           "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 36,
+          "w": 6,
+          "o": 7,
+          "inning": "Italy Women Inning 1"
+        },
+        {
+          "r": 40,
+          "w": 2,
+          "o": 3.3,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -183,9 +250,16 @@
           "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 62,
+          "w": 4,
+          "o": 15.3,
+          "inning": "united states of america women Inning 1"
+        }
+      ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -215,9 +289,22 @@
           "img": "https://g.cricapi.com/iapi/2551-638004821092331389.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 132,
+          "w": 3,
+          "o": 20,
+          "inning": "nepal women Inning 1"
+        },
+        {
+          "r": 49,
+          "w": 10,
+          "o": 16.4,
+          "inning": "Nepal Women,Vanuatu Women Inning 1"
+        }
+      ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -247,9 +334,22 @@
           "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 99,
+          "w": 8,
+          "o": 20,
+          "inning": "italy women Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 1,
+          "o": 16.1,
+          "inning": "Italy Women,United States of America Women Inning 1"
+        }
+      ],
       "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -369,9 +469,22 @@
           "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 289,
+          "w": 7,
+          "o": 50,
+          "inning": "nepal Inning 1"
+        },
+        {
+          "r": 248,
+          "w": 8,
+          "o": 38,
+          "inning": "Nepal,United Arab Emirates Inning 1"
+        }
+      ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -446,9 +559,22 @@
           "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 225,
+          "w": 6,
+          "o": 20,
+          "inning": "rajasthan royals Inning 1"
+        },
+        {
+          "r": 226,
+          "w": 3,
+          "o": 19.1,
+          "inning": "Rajasthan Royals,Delhi Capitals Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -478,9 +604,22 @@
           "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 155,
+          "w": 10,
+          "o": 19.2,
+          "inning": "Royal Challengers Bengaluru Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 6,
+          "o": 15.5,
+          "inning": "Gujarat Titans Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -510,9 +649,22 @@
           "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 243,
+          "w": 5,
+          "o": 20,
+          "inning": "mumbai indians Inning 1"
+        },
+        {
+          "r": 249,
+          "w": 4,
+          "o": 18.4,
+          "inning": "Mumbai Indians,Sunrisers Hyderabad Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -587,9 +739,22 @@
           "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 186,
+          "w": 5,
+          "o": 20,
+          "inning": "Hyderabad Kingsmen Inning 1"
+        },
+        {
+          "r": 184,
+          "w": 7,
+          "o": 20,
+          "inning": "Islamabad United Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -619,9 +784,22 @@
           "img": "https://g.cricapi.com/iapi/50-637991992950999418.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 159,
+          "w": 9,
+          "o": 20,
+          "inning": "Multan Sultans Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 2,
+          "o": 15.2,
+          "inning": "Hyderabad Kingsmen Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -696,9 +874,22 @@
           "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 352,
+          "w": 10,
+          "o": 89,
+          "inning": "Kent Inning 1"
+        },
+        {
+          "r": 24,
+          "w": 0,
+          "o": 5,
+          "inning": "Derbyshire Inning 1"
+        }
+      ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -728,9 +919,22 @@
           "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 306,
+          "w": 10,
+          "o": 79.1,
+          "inning": "worcestershire Inning 1"
+        },
+        {
+          "r": 40,
+          "w": 0,
+          "o": 14,
+          "inning": "Northamptonshire,Worcestershire Inning 1"
+        }
+      ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -760,9 +964,16 @@
           "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 272,
+          "w": 6,
+          "o": 96,
+          "inning": "middlesex Inning 1"
+        }
+      ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -792,9 +1003,22 @@
           "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 358,
+          "w": 9,
+          "o": 83.2,
+          "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 19,
+          "w": 0,
+          "o": 10,
+          "inning": "Surrey Inning 1"
+        }
+      ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -824,9 +1048,16 @@
           "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 353,
+          "w": 1,
+          "o": 96,
+          "inning": "Glamorgan Inning 1"
+        }
+      ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -856,9 +1087,22 @@
           "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 162,
+          "w": 10,
+          "o": 43.2,
+          "inning": "Yorkshire Inning 1"
+        },
+        {
+          "r": 201,
+          "w": 3,
+          "o": 50,
+          "inning": "Somerset Inning 1"
+        }
+      ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
