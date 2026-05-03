@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-05-03T09:11:13.015Z",
+  "lastUpdated": "2026-05-03T14:54:29.917Z",
   "recentMatches": [
+    {
+      "id": "35622e65-558c-41f8-9ed7-f3c6d9424e1d",
+      "name": "Guernsey vs Isle of Man, 2nd T20I, Isle of Man tour of Guernsey 2026",
+      "matchType": "t20",
+      "status": "Isle of Man opt to bowl",
+      "venue": "King George V Sports Ground, Castel",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T13:00:00",
+      "teams": [
+        "Guernsey",
+        "Isle of Man"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guernsey",
+          "shortname": "GUE",
+          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
+        },
+        {
+          "name": "Isle of Man",
+          "shortname": "IOM",
+          "img": "https://g.cricapi.com/iapi/616-637928917956919054.png?w=48"
+        }
+      ],
+      "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "6fc826f7-086c-4cb5-a07b-67e25d91daaf",
       "name": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026",
@@ -50,7 +81,7 @@
       "id": "d0d47f69-f4c7-41c7-a26c-ab6709dbb8c8",
       "name": "Germany vs Austria, 5th T20I, Austria tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Austria opt to bat",
+      "status": "Germany won by 5 wkts",
       "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
       "date": "2026-05-03",
       "dateTimeGMT": "2026-05-03T08:30:00",
@@ -70,12 +101,26 @@
           "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 213,
+          "w": 9,
+          "o": 20,
+          "inning": "austria Inning 1"
+        },
+        {
+          "r": 216,
+          "w": 5,
+          "o": 19,
+          "inning": "Germany,Austria Inning 1"
+        }
+      ],
       "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "243c05f2-5fdf-4d55-95fa-32e9fd420803",
@@ -525,7 +570,7 @@
       "id": "c67f530f-198e-4f23-9922-26220049341c",
       "name": "United Arab Emirates vs Oman, 102nd Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Oman need 284 runs - Match reduced to 47 overs due to rain",
+      "status": "United Arab Emirates won by 54 runs (Match reduced to 47 overs due to rain)",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-03",
       "dateTimeGMT": "2026-05-03T00:00:00",
@@ -553,9 +598,9 @@
           "inning": "united arab emirates Inning 1"
         },
         {
-          "r": 25,
-          "w": 2,
-          "o": 4.3,
+          "r": 254,
+          "w": 10,
+          "o": 39.5,
           "inning": "United Arab Emirates,Oman Inning 1"
         }
       ],
@@ -564,7 +609,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "60147c2f-3986-4b27-ae89-6e56f2db5d41",
@@ -650,6 +695,90 @@
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f039998e-28b0-4445-b431-8bbccbbc6f1f",
+      "name": "Gujarat Titans vs Punjab Kings, 46th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Gujarat Titans opt to bowl",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2026-05-03",
+      "dateTimeGMT": "2026-05-03T14:00:00",
+      "teams": [
+        "Gujarat Titans",
+        "Punjab Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gujarat Titans",
+          "shortname": "GT",
+          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+        },
+        {
+          "name": "Punjab Kings",
+          "shortname": "PBKS",
+          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 48,
+          "w": 5,
+          "o": 9.1,
+          "inning": "Punjab Kings Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1153edf6-3ae1-4722-be1e-0256495b49cb",
+      "name": "Sunrisers Hyderabad vs Kolkata Knight Riders, 45th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Kolkata Knight Riders won by 7 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-05-03",
+      "dateTimeGMT": "2026-05-03T10:00:00",
+      "teams": [
+        "Sunrisers Hyderabad",
+        "Kolkata Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kolkata Knight Riders",
+          "shortname": "KKR",
+          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+        },
+        {
+          "name": "Sunrisers Hyderabad",
+          "shortname": "SRH",
+          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 10,
+          "o": 19,
+          "inning": "sunrisers hyderabad Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 3,
+          "o": 18.2,
+          "inning": "Sunrisers Hyderabad,Kolkata Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -837,6 +966,38 @@
       "matchEnded": true
     },
     {
+      "id": "285c9084-4060-4684-b8a4-53f834e726e5",
+      "name": "Peshawar Zalmi vs Hyderabad Kingsmen, Final, Pakistan Super League 2026",
+      "matchType": "t20",
+      "status": "Peshawar Zalmi opt to bowl",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-05-03",
+      "dateTimeGMT": "2026-05-03T14:00:00",
+      "teams": [
+        "Peshawar Zalmi",
+        "Hyderabad Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad Kingsmen",
+          "shortname": "HK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Peshawar Zalmi",
+          "shortname": "PSZ",
+          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "dcc150f1-8fb3-4a5e-aa28-d9be585630f2",
       "name": "Islamabad United vs Hyderabad Kingsmen, Eliminator 2, Pakistan Super League 2026",
       "matchType": "t20",
@@ -925,192 +1086,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "dfca171e-a760-4db7-8a28-aade6b726c2c",
-      "name": "Kent vs Derbyshire, 14th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Kent lead by 86 runs",
-      "venue": "St Lawrence Ground, Canterbury",
-      "date": "2026-05-01",
-      "dateTimeGMT": "2026-05-01T10:00:00",
-      "teams": [
-        "Kent",
-        "Derbyshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 352,
-          "w": 10,
-          "o": 89,
-          "inning": "Kent Inning 1"
-        },
-        {
-          "r": 304,
-          "w": 10,
-          "o": 66,
-          "inning": "Derbyshire Inning 1"
-        },
-        {
-          "r": 38,
-          "w": 2,
-          "o": 12,
-          "inning": "Kent Inning 2"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "6d8a26b7-6553-47b8-a082-0f32b2ba625e",
-      "name": "Northamptonshire vs Worcestershire, 15th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Northamptonshire lead by 60 runs",
-      "venue": "County Ground, Northampton",
-      "date": "2026-05-01",
-      "dateTimeGMT": "2026-05-01T10:00:00",
-      "teams": [
-        "Northamptonshire",
-        "Worcestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 306,
-          "w": 10,
-          "o": 79.1,
-          "inning": "worcestershire Inning 1"
-        },
-        {
-          "r": 366,
-          "w": 5,
-          "o": 103.5,
-          "inning": "Northamptonshire,Worcestershire Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "015bf01b-9431-4343-b0b5-006ded9f4eea",
-      "name": "Middlesex vs Durham, 16th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Durham trail by 295 runs",
-      "venue": "Lord's, London",
-      "date": "2026-05-01",
-      "dateTimeGMT": "2026-05-01T10:00:00",
-      "teams": [
-        "Middlesex",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 430,
-          "w": 10,
-          "o": 141,
-          "inning": "middlesex Inning 1"
-        },
-        {
-          "r": 135,
-          "w": 1,
-          "o": 32,
-          "inning": "Middlesex,Durham Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "adf1ee8d-0cc6-4d37-ab63-152b6e3fe041",
-      "name": "Surrey vs Sussex, 17th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Surrey trail by 66 runs",
-      "venue": "Kennington Oval, London",
-      "date": "2026-05-01",
-      "dateTimeGMT": "2026-05-01T10:00:00",
-      "teams": [
-        "Surrey",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 358,
-          "w": 9,
-          "o": 83.2,
-          "inning": "Sussex Inning 1"
-        },
-        {
-          "r": 292,
-          "w": 2,
-          "o": 87.3,
-          "inning": "Surrey Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
@@ -1128,9 +1103,9 @@
       },
       {
         "team": "Sunrisers Hyderabad",
-        "played": 9,
+        "played": 10,
         "won": 6,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 12
       },
@@ -1175,6 +1150,14 @@
         "points": 8
       },
       {
+        "team": "Kolkata Knight Riders",
+        "played": 9,
+        "won": 2,
+        "lost": 5,
+        "nr": 2,
+        "points": 6
+      },
+      {
         "team": "Lucknow Super Giants",
         "played": 8,
         "won": 2,
@@ -1188,14 +1171,6 @@
         "won": 2,
         "lost": 7,
         "nr": 0,
-        "points": 4
-      },
-      {
-        "team": "Kolkata Knight Riders",
-        "played": 8,
-        "won": 1,
-        "lost": 5,
-        "nr": 2,
         "points": 4
       }
     ],
