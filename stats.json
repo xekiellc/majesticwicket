@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-05-03T14:54:29.917Z",
+  "lastUpdated": "2026-05-03T20:51:43.471Z",
   "recentMatches": [
+    {
+      "id": "c3529eb7-f856-4aff-9e14-c91d2a55bff7",
+      "name": "Guernsey vs Isle of Man, 3rd T20I, Isle of Man tour of Guernsey 2026",
+      "matchType": "t20",
+      "status": "Guernsey opt to bat",
+      "venue": "King George V Sports Ground, Castel",
+      "date": "2026-05-03",
+      "dateTimeGMT": "2026-05-03T13:00:00",
+      "teams": [
+        "Guernsey",
+        "Isle of Man"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guernsey",
+          "shortname": "GUE",
+          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
+        },
+        {
+          "name": "Isle of Man",
+          "shortname": "IOM",
+          "img": "https://g.cricapi.com/iapi/616-637928917956919054.png?w=48"
+        }
+      ],
+      "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "35622e65-558c-41f8-9ed7-f3c6d9424e1d",
       "name": "Guernsey vs Isle of Man, 2nd T20I, Isle of Man tour of Guernsey 2026",
@@ -28,7 +59,7 @@
       "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
     },
@@ -71,9 +102,9 @@
         }
       ],
       "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -657,55 +688,10 @@
       "matchEnded": true
     },
     {
-      "id": "4210c10d-f87b-4552-8a53-377b3bcee7c0",
-      "name": "Nepal vs Oman, 100th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Oman won by 102 runs (DLS method due to rain)",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-04-29",
-      "dateTimeGMT": "2026-04-29T00:00:00",
-      "teams": [
-        "Nepal",
-        "Oman"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 305,
-          "w": 8,
-          "o": 50,
-          "inning": "oman Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 7,
-          "o": 36.5,
-          "inning": "Nepal,Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f039998e-28b0-4445-b431-8bbccbbc6f1f",
       "name": "Gujarat Titans vs Punjab Kings, 46th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Gujarat Titans opt to bowl",
+      "status": "Gujarat Titans won by 4 wkts",
       "venue": "Narendra Modi Stadium, Ahmedabad",
       "date": "2026-05-03",
       "dateTimeGMT": "2026-05-03T14:00:00",
@@ -727,10 +713,16 @@
       ],
       "score": [
         {
-          "r": 48,
-          "w": 5,
-          "o": 9.1,
+          "r": 163,
+          "w": 9,
+          "o": 20,
           "inning": "Punjab Kings Inning 1"
+        },
+        {
+          "r": 167,
+          "w": 6,
+          "o": 19.5,
+          "inning": "Gujarat Titans Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -738,7 +730,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1153edf6-3ae1-4722-be1e-0256495b49cb",
@@ -921,55 +913,10 @@
       "matchEnded": true
     },
     {
-      "id": "05d33d50-3efe-42f9-98f7-1f363a2f153a",
-      "name": "Mumbai Indians vs Sunrisers Hyderabad, 41st Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Hyderabad won by 6 wkts",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2026-04-29",
-      "dateTimeGMT": "2026-04-29T14:00:00",
-      "teams": [
-        "Mumbai Indians",
-        "Sunrisers Hyderabad"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        },
-        {
-          "name": "Sunrisers Hyderabad",
-          "shortname": "SRH",
-          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 243,
-          "w": 5,
-          "o": 20,
-          "inning": "mumbai indians Inning 1"
-        },
-        {
-          "r": 249,
-          "w": 4,
-          "o": 18.4,
-          "inning": "Mumbai Indians,Sunrisers Hyderabad Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "285c9084-4060-4684-b8a4-53f834e726e5",
       "name": "Peshawar Zalmi vs Hyderabad Kingsmen, Final, Pakistan Super League 2026",
       "matchType": "t20",
-      "status": "Peshawar Zalmi opt to bowl",
+      "status": "Peshawar Zalmi won by 5 wkts",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-05-03",
       "dateTimeGMT": "2026-05-03T14:00:00",
@@ -989,13 +936,26 @@
           "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 129,
+          "w": 10,
+          "o": 18,
+          "inning": "Hyderabad Kingsmen Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 5,
+          "o": 15.2,
+          "inning": "Peshawar Zalmi Inning 1"
+        }
+      ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "dcc150f1-8fb3-4a5e-aa28-d9be585630f2",
@@ -1043,44 +1003,107 @@
       "matchEnded": true
     },
     {
-      "id": "890860f7-b996-48fa-9de8-c702ba22fc82",
-      "name": "Multan Sultans vs Hyderabad Kingsmen, Eliminator 1, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Hyderabad Kingsmen won by 8 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-04-29",
-      "dateTimeGMT": "2026-04-29T14:00:00",
+      "id": "dfca171e-a760-4db7-8a28-aade6b726c2c",
+      "name": "Kent vs Derbyshire, 14th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Derbyshire need 365 runs",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
       "teams": [
-        "Multan Sultans",
-        "Hyderabad Kingsmen"
+        "Kent",
+        "Derbyshire"
       ],
       "teamInfo": [
         {
-          "name": "Hyderabad Kingsmen",
-          "shortname": "HK",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
         },
         {
-          "name": "Multan Sultans",
-          "shortname": "MS",
-          "img": "https://g.cricapi.com/iapi/50-637991992950999418.webp?w=48"
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 159,
-          "w": 9,
-          "o": 20,
-          "inning": "Multan Sultans Inning 1"
+          "r": 352,
+          "w": 10,
+          "o": 89,
+          "inning": "Kent Inning 1"
         },
         {
-          "r": 162,
-          "w": 2,
-          "o": 15.2,
-          "inning": "Hyderabad Kingsmen Inning 1"
+          "r": 304,
+          "w": 10,
+          "o": 66,
+          "inning": "Derbyshire Inning 1"
+        },
+        {
+          "r": 335,
+          "w": 10,
+          "o": 92.2,
+          "inning": "Kent Inning 2"
+        },
+        {
+          "r": 19,
+          "w": 1,
+          "o": 10.5,
+          "inning": "Derbyshire Inning 2"
         }
       ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6d8a26b7-6553-47b8-a082-0f32b2ba625e",
+      "name": "Northamptonshire vs Worcestershire, 15th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Northamptonshire won by an innings and 177 runs",
+      "venue": "County Ground, Northampton",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T10:00:00",
+      "teams": [
+        "Northamptonshire",
+        "Worcestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 306,
+          "w": 10,
+          "o": 79.1,
+          "inning": "worcestershire Inning 1"
+        },
+        {
+          "r": 597,
+          "w": 7,
+          "o": 152,
+          "inning": "Northamptonshire,Worcestershire Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 10,
+          "o": 44.1,
+          "inning": "worcestershire Inning 2"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -1095,9 +1118,9 @@
     "standings": [
       {
         "team": "Punjab Kings",
-        "played": 8,
+        "played": 9,
         "won": 6,
-        "lost": 1,
+        "lost": 2,
         "nr": 1,
         "points": 13
       },
@@ -1127,11 +1150,11 @@
       },
       {
         "team": "Gujarat Titans",
-        "played": 9,
-        "won": 5,
+        "played": 10,
+        "won": 6,
         "lost": 4,
         "nr": 0,
-        "points": 10
+        "points": 12
       },
       {
         "team": "Chennai Super Kings",
