@@ -1,11 +1,21 @@
 {
-  "lastUpdated": "2026-05-03T05:35:47.469Z",
+  "lastUpdated": "2026-05-03T09:11:13.014Z",
   "articles": [
     {
-      "title": "Anshul Kamboj has 'found a plan that works for him' and he's cashing in",
-      "url": "https://www.espncricinfo.com/ci/content/story/1534970.html?ex_cid=OTC-RSS",
-      "description": "Though the wickets have been coming in a rush, Ambati Rayudu feels Anshul Kamboj &quot;still needs to improve his slower ball&quot;",
-      "publishedAt": "2026-05-03T05:15:23.000Z",
+      "title": "Bringing up Kartik Sharma, with a little 'duty of care' from Dhoni and Fleming",
+      "url": "https://www.espncricinfo.com/ci/content/story/1534961.html?ex_cid=OTC-RSS",
+      "description": "Kartik Sharma has had a rough time of it after joining CSK for a record fee, but finally came good with a match-winning half-century against Mumbai Indians",
+      "publishedAt": "2026-05-03T07:05:05.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "What made India recall Bhatia and Radha for the T20 World Cup?",
+      "url": "https://www.espncricinfo.com/ci/content/story/1534947.html?ex_cid=OTC-RSS",
+      "description": "The chief selector Amita Sharma and captain Harmanpreet also explained why they retained Bharti Fulmali",
+      "publishedAt": "2026-05-03T06:35:18.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -14,8 +24,8 @@
     {
       "title": "Bhatia, Nandani, Radha picked for Women's T20 World Cup",
       "url": "https://www.espncricinfo.com/ci/content/story/1534852.html?ex_cid=OTC-RSS",
-      "description": "Amanjot Kaur is not available after she also missed the recent South Africa series with an injury",
-      "publishedAt": "2026-05-03T03:38:29.000Z",
+      "description": "Amanjot Kaur and Kashvee Gautam were not available because of injuries",
+      "publishedAt": "2026-05-03T05:53:19.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -52,10 +62,30 @@
       "urlToImage": null
     },
     {
+      "title": "Bangladesh eye rare double-series win over New Zealand in rainy Dhaka",
+      "url": "https://www.espncricinfo.com/ci/content/story/1534684.html?ex_cid=OTC-RSS",
+      "description": "The weather could have a big, even a decisive, say in the third T20I but if there is play, Bangladesh would fancy their chances against an under-strength New Zealand",
+      "publishedAt": "2026-05-01T16:09:12.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Sangakkara and Mahanama part of Transformation Committee to run SLC",
       "url": "https://www.espncricinfo.com/ci/content/story/1534597.html?ex_cid=OTC-RSS",
       "description": "The majority of the committee's members hail from corporate, legal, and political spheres, with former Member of Parliament Eran Wickramaratne appointed as chair",
       "publishedAt": "2026-05-01T04:56:21.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Queensland join NSW in rejecting BBL privatisation, CA considers alternatives",
+      "url": "https://www.espncricinfo.com/ci/content/story/1534557.html?ex_cid=OTC-RSS",
+      "description": "CA chief executive Todd Greenberg says CA will look at alternative models and explained &quot;it's difficult&quot; with no consensus among the six states",
+      "publishedAt": "2026-04-30T10:25:03.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -72,10 +102,30 @@
       "urlToImage": null
     },
     {
-      "title": "BCCI provides update on IPL 2026 playoff dates and venues, Bengaluru may not host final",
-      "url": "https://www.crictracker.com/cricket-news/bcci-provides-update-on-ipl-2026-playoff-dates-and-venues-bengaluru-may-not-host-final/",
-      "description": "\"We are working on what could be the appropriate venue for the IPL playoffs and the final,\" BCCI Secretary Devajit Saikia said.",
-      "publishedAt": "2026-05-03T04:22:32.000Z",
+      "title": "‘Vaibhav Sooryavanshi could be an impact player in Test cricket’ - Ex-Australia captain on youngster’s ideal batting role",
+      "url": "https://www.crictracker.com/cricket-news/vaibhav-sooryavanshi-could-be-an-impact-player-in-test-cricket-ex-australia-captain-on-youngsters-ideal-batting-role/",
+      "description": "Vaibhav Sooryavanshi is currently the fourth-highest run-getter in the ongoing IPL season, amassing 404 runs in 10 innings.",
+      "publishedAt": "2026-05-03T08:26:52.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Arjun Tendulkar among top buys at Mumbai T20 League auction after intense bidding wars",
+      "url": "https://www.crictracker.com/cricket-news/arjun-tendulkar-among-top-buys-at-mumbai-t20-league-auction-after-intense-bidding-wars-5844/",
+      "description": "The roster features India internationals and Mumbai stars, including Suryakumar Yadav, Shreyas Iyer, Ajinkya Rahane, Shivam Dube, Yashasvi Jaiswal, Shardul Thakur, Sarfaraz Khan, and Tushar Deshpande.",
+      "publishedAt": "2026-05-03T06:36:24.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "IPL 2026: Jitesh Sharma clarifies ‘unprofessional’ remark on Vaibhav Sooryavanshi, urges everyone to let him enjoy his youth",
+      "url": "https://www.crictracker.com/cricket-news/ipl-2026-jitesh-sharma-clarifies-unprofessional-remark-on-vaibhav-sooryavanshi-urges-everyone-to-let-him-enjoy-his-youth/",
+      "description": "RCB are second while RR are fourth in the points table.",
+      "publishedAt": "2026-05-03T06:03:37.000Z",
       "source": {
         "name": "CricTracker"
       },
@@ -92,40 +142,20 @@
       "urlToImage": null
     },
     {
-      "title": "Anushka Sharma to lead India Women on 'A' tour of England",
-      "url": "https://www.crictracker.com/cricket-news/anushka-sharma-to-lead-india-women-on-a-tour-of-england/",
-      "description": "Anoushka Sharma leads the T20 side, while Harleen Deol leads the ODI side.",
-      "publishedAt": "2026-05-02T15:02:59.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "India Women's squad for one-off England Test announced, injured Amanjot Kaur misses out",
-      "url": "https://www.crictracker.com/cricket-news/india-womens-squad-for-one-off-england-test-announced-injured-amanjot-kaur-misses-out/",
-      "description": "The match will be played on 10th July, five days after the final of the T20 World Cup.",
-      "publishedAt": "2026-05-02T13:58:52.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "BCCI set to review Impact Player rule after end of IPL 2026: Devajit Saikia - India Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXRpeVBpV2V3VnhwOXFFNUhmZFA0RWxXcGp3VTJoWjc4azVLWVN3YTVFYjdaOHZ2ejNoWGExNUZ2NXYwcjBEdFZoR3ZiQkJia2h2M0JCNV9PRmtyQmE1dVlzZU9MOFNvOGlmU0NjRXdpalhwVUFFdUVVUUVqRXU5a1A5QWVRMEkwOHBJczhJWXFPTmd5SEY0dWNMbkQ1T0VndmpxTGgxYVRoYm9GdVZMVTR1ZFQzbTR6WUNzNmpXWkHSAcYBQVVfeXFMTXhJNFhjVGJfV3F0YWhYLUZQMjNyeHdBcnl1V182OWNaeHZ4UWtxdEkya0JnMFFuMFhGdVdUOWNhVEZTVHJiTm1SY2dIR0w2azFBQV9iQXBibTVvSjZVUkh5UlhRUFdfQmFYdENMYjlJOW11aVJ1MW9NVWllRW15LUVSNFdDYVQtLW56S2c1MlhIanpoZkp6QWhsRWJXRUVabEFEVVBVLTdBZ1dFQUs1X184ZUY5Rm9QcEVkMW1fVkFCUno4NzFn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXRpeVBpV2V3VnhwOXFFNUhmZFA0RWxXcGp3VTJoWjc4azVLWVN3YTVFYjdaOHZ2ejNoWGExNUZ2NXYwcjBEdFZoR3ZiQkJia2h2M0JCNV9PRmtyQmE1dVlzZU9MOFNvOGlmU0NjRXdpalhwVUFFdUVVUUVqRXU5a1A5QWVRMEkwOHBJczhJWXFPTmd5SEY0dWNMbkQ1T0VndmpxTGgxYVRoYm9GdVZMVTR1ZFQzbTR6WU",
-      "publishedAt": "2026-05-02T15:35:07.000Z",
+      "title": "IPL 2026: Gaikwad, Kartik Fifties Guide CSK To Double Over MI At Chepauk - News18",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejhjc1IwTEd4R2F6X01yMjVpdDNHNjd0S0ZzbFdfMEYwQUF3TVJnZzU3Vm5BdWwxTjA1dVlia29CcmJ3dHpIaUdoVlpENFljNDR3TE1rZWR4TEpoYjVwT3k5RmQ5T204YjlCVWpfSE02YlVzUEE4VHIzYzZiNmwyejBfM0g4N2NvUmw3SUpvMS1xaDZtTGF4UFVsdWItM2t6c0hHeFFRSk4tS1Y3NkVkSk5pVzVMZ9IBuwFBVV95cUxQT0Vxb0piNUJ6WEJFOEhpcEhEWmhjS1pHVmFLREs1Y01zY2VLVjJCZ29GTHU5MUxnb2pReWYyYnRJczNHX3ZyZXdfWXpBWG5TUXJvTUtZNUpTQ25rdHBfb2V5dHlDeXpPVWlRRVRtVThhd0FnUTBSaVdsYlp2emtZTlBnWFR3bTIxNzJRS0pwX3NkVWE0YURkVUJkNElfdGd5R05fT2Q1SW53NWJMSkdRbjh5SWpicnloc2sw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPejhjc1IwTEd4R2F6X01yMjVpdDNHNjd0S0ZzbFdfMEYwQUF3TVJnZzU3Vm5BdWwxTjA1dVlia29CcmJ3dHpIaUdoVlpENFljNDR3TE1rZWR4TEpoYjVwT3k5RmQ5T204YjlCVWpfSE02YlVzUEE4VHIzYzZiNmwyejBfM0g4N2NvUmw3SUpvMS1xaDZtTGF4UFVsdWItM2t6c0hHeFFRSk4tS1Y3NkVkSk5pVzVMZ9IBuw",
+      "publishedAt": "2026-05-02T17:43:32.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "IPL 2026: Shubman Gill scripts history, becomes first player to... - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMHZ3ZVNGR2ZEcUh2c1kzTm5JT2swS285dHhFUmZRQmlWd2t3bEhicFM3NVdNbFFLUlgyUXdiNmZfTzN4bXIxbGRCVlRqN3l3VDE1S1NLWTA3elJLQVk4REhNOHZveDdocFVvc08xOGJlT0d3RGdYMjNqQl9mTFBnTFNlNkhabGFacFRHSnlJY1FYN0E4Y1JNeDBzaF9QSHduMThIdkJyUGNEUVQtcGZjNUhYMHIydlNzTzVBYkN5bmV4ei1WeE1IYlY4b085dDlWRnJvd0FkRHFmVWVNbW04T1ZPZWNqZkXSAewBQVVfeXFMT0wzTVZxZVF2bkE0RV9pTFdRanJ2MXJPZEtiUnU3bGpPSDZwR3puMkJNZDJpT3RJRnBab25qQVY3R2RsSnpfNWhQU0dhcGktbWNiYzhrcHUyeWNLRVBqeExOSzRmd3R5N3oxOXQtLTV3QUJUektmc1BoT0ltOEdKQVFhT2VEQW9VNVVnQzFnN1ZhS09nRXB5VHVXdTFXakFYY01VSkVudUF6TWM3dFB0VUJEZ2c1bWZhZzgzT0MxNjZkd0VkTEp3ellNeGNNYmlrWG0yWXl0ZHZELXJCU1FOWDR6VmpSOW5rdkNET18?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMHZ3ZVNGR2ZEcUh2c1kzTm5JT2swS285dHhFUmZRQmlWd2t3bEhicFM3NVdNbFFLUlgyUXdiNmZfTzN4bXIxbGRCVlRqN3l3VDE1S1NLWTA3elJLQVk4REhNOHZveDdocFVvc08xOGJlT0d3RGdYMjNqQl9mTFBnTFNlNkhabGFacFRHSnlJY1FYN0E4Y1JNeDBzaF9QSHduMThIdkJyUGNEUVQtcGZjNUhYMHIydlNzTz",
-      "publishedAt": "2026-04-30T16:30:00.000Z",
+      "title": "IPL 2026 playoff qualification scenarios: PBKS and RCB all but certain, game over for MI and LSG - InsideSport",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk9yVHVNS1RScF93YTg2Ul9mMWFwRmtLb2lqQ1N5OEVMZEluVVM0bGlTVGRYZS1NYWRMRGdtVGVNclN6c2RtUHJVUzJUYmJlMTRwcUpieFlranVJb2RucVA2OThSaFgtZTNGT0xYd2hjM240d2RzN0VOTE91ZzJOclVXRXVIVmtRQkVsNk9QZ0F2LWJoRHZtaWdqTWRhZU00UE1fNUQwUExaU0xuWnhJTWc4VEpHVXRodU9VcXJuQVA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk9yVHVNS1RScF93YTg2Ul9mMWFwRmtLb2lqQ1N5OEVMZEluVVM0bGlTVGRYZS1NYWRMRGdtVGVNclN6c2RtUHJVUzJUYmJlMTRwcUpieFlranVJb2RucVA2OThSaFgtZTNGT0xYd2hjM240d2RzN0VOTE91ZzJOclVXRXVIVmtRQkVsNk9QZ0F2LWJoRHZtaWdqTWRhZU00UE1fNUQwUExaU0xuWnhJTWc4VEpHVXRodU",
+      "publishedAt": "2026-05-03T08:08:44.000Z",
       "source": {
         "name": "Google News"
       },
@@ -142,30 +172,70 @@
       "urlToImage": null
     },
     {
-      "title": "A New Pace Star Is Born In Pakistan: Uncapped 22-Year-Old Defends 5 Runs In Final Over Of PSL Thriller - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQmFfa2ZnYU9BbDVtRTN4dmpKVHVCWFNOaDZuWERJRUxLZGVnZVl2dk5XenNOZHdHOVRLbUJRWVpZbVJyVFpCQW9XM1RNVndBR1pDWkFEcTRsV1dabGZDQ0o3SEVHdUxqdEw4cmo2WWNKdnhzb0VUNDZzNjJvSGpBVFpiSXNtM2diVXJJbUNNY01CWTBsc2JMeWo3WW5yZGRzaHlzMmZwdE5mTnNab3pmQW9KNlZ1N3o5QnhhTElRamozbmc1T0xLZlRSNXIyMl9sbHBCUGx1alg4cU1zYjJjWC1pc2xodEp6dHc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQmFfa2ZnYU9BbDVtRTN4dmpKVHVCWFNOaDZuWERJRUxLZGVnZVl2dk5XenNOZHdHOVRLbUJRWVpZbVJyVFpCQW9XM1RNVndBR1pDWkFEcTRsV1dabGZDQ0o3SEVHdUxqdEw4cmo2WWNKdnhzb0VUNDZzNjJvSGpBVFpiSXNtM2diVXJJbUNNY01CWTBsc2JMeWo3WW5yZGRzaHlzMmZwdE5mTnNab3pmQW9KNlZ1N3o5Qn",
-      "publishedAt": "2026-05-02T10:57:49.000Z",
+      "title": "Babar Azam breaks silence on becoming Pakistan captain again if he wins PSL 2026: ‘If such a situation…’ | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1paYTNrQ3B1YkRwSkRsUkZvaUttdHRfMlM5VnJHOUo2cXJvM0RWVEZyMXJTZE1UZEV4d3VrVmp0MzVjMWFmZTk3Y2pMSHphckw0aGllQWtwLTJRWXNLUGN0VGpKUF9Od0tNZGgwWHVFajhVa0JhUFB3VEZkLVdnSG54cHlnT0tOUlB2U1d3ZmZqb1lFSXV5aUU5b0pKMy1VU1JQNC0wS3hRaGlzX25tbTFZNVJLWDhOVEdOMmE3SmUyOWEyTWxJRHhoVnJrQkJuRkRtZmxLVnJVeV80Zzd2TExXc0tiVjVhWS1PZEJXT25hd9IB9wFBVV95cUxNNUNKdk1DcXQ4bXd4UVFMTHg5QnhwS2s2a1hRTFI5NHFaaHZjbVpMVlIwWERBOVp4SURXVXk0enZLd3VFb2N2SS03My1RczRUQnlNSTNmWWx6WnozVk1kMXE5THI5UXRSc2hRZi1yNlRzSGRrTDhKbmpaN1Vtc2hjdVFEM2N5VWsxVElOUHpWc0tRTGxpQkVCVkpsak93Tnh5cGx6TVhXMmNwaGhRdEl4WWJTNGV2RFNOU0JMWGRqYXhobmx2bGtqQjA3a2VWS19NLURNXzlqVWw5T1dfT0dmQVpqSGN4YUhJWjNaczBMY190VWcxemFz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1paYTNrQ3B1YkRwSkRsUkZvaUttdHRfMlM5VnJHOUo2cXJvM0RWVEZyMXJTZE1UZEV4d3VrVmp0MzVjMWFmZTk3Y2pMSHphckw0aGllQWtwLTJRWXNLUGN0VGpKUF9Od0tNZGgwWHVFajhVa0JhUFB3VEZkLVdnSG54cHlnT0tOUlB2U1d3ZmZqb1lFSXV5aUU5b0pKMy1VU1JQNC0wS3hRaGlzX25tbTFZNVJLWDhOVE",
+      "publishedAt": "2026-05-02T16:32:22.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "India Squad For Women's T20 World Cup 2026: Harmanpreet Kaur To Lead; Big Name Misses Out Due To Injury - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSGtWQ2dOdDlGZ2pwcTQ2WklyLWxzZDlOdUxGTVJOUDkybmpReEtEZTBOckdjQXItT0NtWWt1Z2hlV0JZVXpNV0N2M0hXOHlqeU5hRHlva0c4dGZ1Mk5wM2dBb2d0Mk1zdC1fUVRtVGlnR0NOd2NqSmlJQkpwVWR1MmlDNXB4amJtczJjdExfcDZaVmRYZW1OelJyd1k0S1dSaUVkVWREZnZNUWF1anFZX08wYWxnM2tsa2FucDB0Ny16RzRJQUVWRHdmVFFoT3JYSkpocGNwVHVYOWV6dTJ3SlUweEE0dEhBZEFnSlEtRW5JRU0?oc=5",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSGtWQ2dOdDlGZ2pwcTQ2WklyLWxzZDlOdUxGTVJOUDkybmpReEtEZTBOckdjQXItT0NtWWt1Z2hlV0JZVXpNV0N2M0hXOHlqeU5hRHlva0c4dGZ1Mk5wM2dBb2d0Mk1zdC1fUVRtVGlnR0NOd2NqSmlJQkpwVWR1MmlDNXB4amJtczJjdExfcDZaVmRYZW1OelJyd1k0S1dSaUVkVWREZnZNUWF1anFZX08wYW",
-      "publishedAt": "2026-05-02T12:18:00.000Z",
+      "title": "PSL 2026 Qualifier: Babar Azam hits century as Peshawar Zalmi reach final - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBURk9Yd2tvSGhyazYyS2VKVzg5Q1BmVDZaX3k5ODBCX0VoekVYdUFnTlA1VTRGUkh5YmZjM3ZSUWtxMUVDTmZnMlJzNU4yRVRBQU8ydktjNlRZU0FDdW94a1FIQnFqQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBURk9Yd2tvSGhyazYyS2VKVzg5Q1BmVDZaX3k5ODBCX0VoekVYdUFnTlA1VTRGUkh5YmZjM3ZSUWtxMUVDTmZnMlJzNU4yRVRBQU8ydktjNlRZU0FDdW94a1FIQnFqQQ?oc=5\" target=\"_blank\">PSL 2026 Qualifier: Babar Azam hits century as Peshawar Zalmi reach final</a>&nbsp;&nbsp;",
+      "publishedAt": "2026-04-28T17:45:44.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Shakib Al Hasan Reignites T20 World Cup 2026 Row, Calls Bangladesh's Boycott A 'Blunder' - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHF2RWRuY0paZk5qd1p0bkF3RGt3OVc1cENIQmZSUUd5ZXVsN2N0anFWa19jcV9WU2FaTUNkSU1zemx2Vmwxazgya290RUthRjlMWmFTWGtIS1VscFhnNF9fZ1hhZnUtNTl5bDd4Mm8xb01Gc1Zwem8tbVU4Ri05OFEtelR0UTZ4akdndm16VzFsM3ZvTUtXZURRTEhGajROV0haOTJVT2FuOW1aMWJZQUVXVWFJeDNqU1N0M0VkUWtfam8?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHF2RWRuY0paZk5qd1p0bkF3RGt3OVc1cENIQmZSUUd5ZXVsN2N0anFWa19jcV9WU2FaTUNkSU1zemx2Vmwxazgya290RUthRjlMWmFTWGtIS1VscFhnNF9fZ1hhZnUtNTl5bDd4Mm8xb01Gc1Zwem8tbVU4Ri05OFEtelR0UTZ4akdndm16VzFsM3ZvTUtXZURRTEhGajROV0haOTJVT2FuOW1aMWJZQUVXVWFJeDNqU1",
-      "publishedAt": "2026-04-30T07:56:31.000Z",
+      "title": "India announce Women’s T20 World Cup squad: Yastika Bhatia returns, Pratika Rawal misses out - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZlZFVWU5VHozYTVBOXNuQVJHSTJ0bG9JWDk3dVRfZ2ttT3pkMTJJR3E0dnFYMzBIT2hNSWZJT0daamdWcDVXSUpFN2kxT2VuZTVfOG1FZ1BPbkt6U0paZ2xZanZnTTNsWmktNWpyX2ZBZTJ1azJGbHczLW1SNFJvcnkyNUFyaWxKVEdTOXVPcGJENU5SR21tREpRczBOZkxhbTBaLW1WOUFoUkNZSjJMdkhkZHlacmwwQUk5aHRzYzc5QnRkLVFYQVFSWFdzNXhrZTdtQVlRS1hseEJaSmFJT2RlMVZTZXBFYWw1YlBvS2ZhQkNrRXNPSm9uVEh6THJQ0gGGAkFVX3lxTE0tdEVKOFZhbEdVQUp2OVNkbXRWcFR3X082MEV0YVNlUUtUbjBTcElsYnpEOUNCR0xxTDJPaUFXV2FFRGZqS0I5bElieENUbnBRY3hlY0hvZFRmVDhsUVAyb1ZKVXkyVjZqSzJhRXhuVWhVOEpmS0dRcmJNc2NMeW5mVkptdEN3NVFmei1qdWw1aC05Zl9SSV9KQVFmYnh5eHFobmR3ek9fX0E5aVdEMlBIM2kwOTkwQkVxdU1GX2JYSG14bUFfVmpRMnNtZlRCUXB0LU1nV1FhVVlwRnVTbjc3a0t0ZFpqNEx2WkxISW5VREo0azVPY3BEVnZLdlU4SEREZDV5c3c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQZlZFVWU5VHozYTVBOXNuQVJHSTJ0bG9JWDk3dVRfZ2ttT3pkMTJJR3E0dnFYMzBIT2hNSWZJT0daamdWcDVXSUpFN2kxT2VuZTVfOG1FZ1BPbkt6U0paZ2xZanZnTTNsWmktNWpyX2ZBZTJ1azJGbHczLW1SNFJvcnkyNUFyaWxKVEdTOXVPcGJENU5SR21tREpRczBOZkxhbTBaLW1WOUFoUkNZSjJMdkhkZHlacmwwQU",
+      "publishedAt": "2026-05-02T12:06:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "India squad announced for Women’s T20 World Cup 2026 - ICC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFV4TTVWRUVZekd2bTdITVdzbnk1bkN2dEVmZVhNQWQwb3dTcXdxS2hvazh1LVk5OXU2bUp4d0N6aS1PNVdldF9hQy04c3RfNnhGSnVCZHZ4MGl2Yks0WXdsaWJhajRxdklCNkVmSGh3RENBZkRUaG5obzNOTmVZV0x2M1RDQzhpZFNtSS1R?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFV4TTVWRUVZekd2bTdITVdzbnk1bkN2dEVmZVhNQWQwb3dTcXdxS2hvazh1LVk5OXU2bUp4d0N6aS1PNVdldF9hQy04c3RfNnhGSnVCZHZ4MGl2Yks0WXdsaWJhajRxdklCNkVmSGh3RENBZkRUaG5obzNOTmVZV0x2M1RDQzhpZFNtSS1R?oc=5\" target=\"_blank\">India squad announced for Women’s T",
+      "publishedAt": "2026-05-02T14:29:10.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Amanjot out, Nandani in, Bhatia returns: Five takeaways from India's squad for the 2026 T20 World Cup - Wisden",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFpEQkd2aDc2NEt6dVVKczhFM1huOGZFdG5KR2xRM1FSc2dPVGdLNmJrQVJ1QXdvZVJ6SHFBZWFZSkE4dEF0NDBGRFltbGlBc2VtYUZPQmZra1AzRUlrNktXTFpzTVhtWFRRTkF3M0xZVVRLSVJ1RVNGbU9ONmhPN19hdjV3M2MxYlRFMUV4VmlGUkNuTXFSS21VZ0ktWjFWekRDZzlNNEwxc1pPZzhhVTl4aThWSU9hMWIySlE5Z0RlanNIOFpyQjVBTk0ydw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFpEQkd2aDc2NEt6dVVKczhFM1huOGZFdG5KR2xRM1FSc2dPVGdLNmJrQVJ1QXdvZVJ6SHFBZWFZSkE4dEF0NDBGRFltbGlBc2VtYUZPQmZra1AzRUlrNktXTFpzTVhtWFRRTkF3M0xZVVRLSVJ1RVNGbU9ONmhPN19hdjV3M2MxYlRFMUV4VmlGUkNuTXFSS21VZ0ktWjFWekRDZzlNNEwxc1pPZzhhVTl4aThWSU9hMW",
+      "publishedAt": "2026-05-02T14:16:35.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "India need match-winners to step up to complete white-ball World Cup double in England - Revsportz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemlyYzAxT2RSN051U3JwMnVnTnhBZUI1YWxOUWRwQUZLSUgwN0VwZm5LbERrNEN2TkhGSmVVTWp6eEpSMlA3T1Y3OFUyWGQzTG5GYXNYejBjQVE5MHp2MElYdE9EYU1td0JGdEYyVmluOURrMDdvRVBQQzNCbUlzZ2pIOXJtTFFvYkUtREpWZXlPdUFaVVdab1REaV9wQ2tEVHJHMVI2b0tjRGxi0gG0AUFVX3lxTFA4bEVaWlQ5NmtuOVZWMXRkb2RKUVhjWVVscmhYQWJpR012QXRVSm5SZm5pU1Y2cmlNUzV6LU5tRTMzalhYYV9CUS14ZHk1Ti1ld0dkdEpGWlh5b0VVMGlYeHJsMWIwQ3I2RjJNMzBQLXNzWWpVUUo4c2VIVU9zckdkc3gwZGptQjJWcTg3TEhqbzJjNVZZRk4wVi1mWVNJREp0aEZ0ZHJqMERWSHdiaWhTRnlrNQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQemlyYzAxT2RSN051U3JwMnVnTnhBZUI1YWxOUWRwQUZLSUgwN0VwZm5LbERrNEN2TkhGSmVVTWp6eEpSMlA3T1Y3OFUyWGQzTG5GYXNYejBjQVE5MHp2MElYdE9EYU1td0JGdEYyVmluOURrMDdvRVBQQzNCbUlzZ2pIOXJtTFFvYkUtREpWZXlPdUFaVVdab1REaV9wQ2tEVHJHMVI2b0tjRGxi0gG0AUFVX3lxTFA4bE",
+      "publishedAt": "2026-05-03T00:54:48.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Sri Lanka hit winning form ahead of T20 World Cup - ICC",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkE1aGJlOTNucHEzc3BiMktNVTMyVmFSNFVISWMxTkhqTllXS3paVlVkTi1CTTFYWE5WMnNmWC1yV3pYajFvUTRYamtPZFhvczNPdWdoelpCc0s4ZEVUaWZuckI2VlNjYkdJOFdjUjNVRHVGdG5KQlBvMjk0YUlZekc2Y3RYb05TYWlKSi15Z0dZYUhmbm1Hd0ZVdjMyUkFOZDVMOE5oRy0yUEtFY1RtV0JFbjFUZWo4Wnlj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkE1aGJlOTNucHEzc3BiMktNVTMyVmFSNFVISWMxTkhqTllXS3paVlVkTi1CTTFYWE5WMnNmWC1yV3pYajFvUTRYamtPZFhvczNPdWdoelpCc0s4ZEVUaWZuckI2VlNjYkdJOFdjUjNVRHVGdG5KQlBvMjk0YUlZekc2Y3RYb05TYWlKSi15Z0dZYUhmbm1Hd0ZVdjMyUkFOZDVMOE5oRy0yUEtFY1RtV0JFbjFUZWo4Wn",
+      "publishedAt": "2026-04-30T13:11:44.000Z",
       "source": {
         "name": "Google News"
       },
@@ -183,9 +253,9 @@
     },
     {
       "title": "Men's Hundred 2026 auction, live updates: 243 players, including 14 Pakistanis to go under hammer - MSN",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNeURBYlJKbVlWaUV6cWExbmNueXRzQ2N0NW4zQ1UwYVJZaFp0amloM3lZU3ZjTTFhYV9Pa1Q1MlQtOUpkN3o0Y1h1N2xSMWtRNkZTNHBGRmxNcWo4MGpXOFM5ZlkxeWJ1blpDR29GZ09hVGRqWDVCOUFKMDE5R3FDT3RieTVxSDlYYlRkTHprU21NMU9Tb0VyX1F4SEE5VFExWUxCeWdrQ2ZmRUNPRjlEV3U1dlppRkNMNjJ1dnp0dFJlOEVnZ19IcWJoLXpkZTN4Rm43MThFWExLS29IUFoyeDAtTVh0ZnpTajB0aVV6OGNjdVlidU1UaWxPM3ppWWFFWWoyM3dMY3hFQ3J3SDNrT0ZFVkhodVhSNVZkTXQ2clMtaFAzT3lIZ0xQY0Zod3o0UzhGTVpjZF82ZlFmMHRmUXNpaXQ0bFltREhZRjZiU0hrZ1pSQnhYLUlTWTlKNUNJVktBM2w5ZlZaTE4wcW85dEZYUHJlbzQyMmRSMFlCUVpFZnJCMUlIdDNCaGdCVEdlMjlvSWpTcWROb1RuSlI1T1J4Tnc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxNeURBYlJKbVlWaUV6cWExbmNueXRzQ2N0NW4zQ1UwYVJZaFp0amloM3lZU3ZjTTFhYV9Pa1Q1MlQtOUpkN3o0Y1h1N2xSMWtRNkZTNHBGRmxNcWo4MGpXOFM5ZlkxeWJ1blpDR29GZ09hVGRqWDVCOUFKMDE5R3FDT3RieTVxSDlYYlRkTHprU21NMU9Tb0VyX1F4SEE5VFExWUxCeWdrQ2ZmRUNPRjlEV3U1dlppRkNMNj",
-      "publishedAt": "2026-04-26T13:44:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQRm9qNWo2cUVyUG5aejFFYjZYRjJGV2RIQ1ZJdGl1bzlRVE45dkNQMEM3WWFVZVEwekN4aHhfR3MzaF9GZ2Q2S2llWm5Jd1hHZ29MYkYxRl9yNEZWZ2dEdVF0TlE4LWZYSEtqX2RGekpveTZPWGRZbTVLS2xhbTc4SWNwNXZEU1Y4bnJ4TVhKN19Qa2NOVWtpT2ZfWDZ4a1FYekhocDdjbFVKMXFYeE0yQ1U5WTl6U3VRb09FUGpLVWdLdmhIOEk2TlZ0U2NHcGFQQWJCRGR5VHZWQ0pCVWJFY2Z0VFNOa0FqX3JnaHVPdTM5NjRDdXc0czlOTVRyS0lqckJSTG1jdm52enE1NTFXckdRNDhWeTF6clVnczA3Z1JmNFk4dFlTSms5UktPZUVmdXEyel9UOEttbUk1NDdNNTNrQV9SQWVJMmNSUE03TVRuRXNoOUxCYzNtN0l2N2tubmJ6SzA5SVF0Z3dJdUQtdWczbW9uMTJBM3N5Wk1oeldOSm1CeGR4eEx5SEt1UUZsMjFmODZoTnlGS3NUbE9zVHZ1anJVQTlNNXVDMG1ZMjBxNXJEVE44?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxQRm9qNWo2cUVyUG5aejFFYjZYRjJGV2RIQ1ZJdGl1bzlRVE45dkNQMEM3WWFVZVEwekN4aHhfR3MzaF9GZ2Q2S2llWm5Jd1hHZ29MYkYxRl9yNEZWZ2dEdVF0TlE4LWZYSEtqX2RGekpveTZPWGRZbTVLS2xhbTc4SWNwNXZEU1Y4bnJ4TVhKN19Qa2NOVWtpT2ZfWDZ4a1FYekhocDdjbFVKMXFYeE0yQ1U5WTl6U3VRb0",
+      "publishedAt": "2026-04-29T21:12:25.000Z",
       "source": {
         "name": "Google News"
       },
@@ -202,40 +272,70 @@
       "urlToImage": null
     },
     {
-      "title": "Babar Azam Equals Virat Kohli, Abhishek Sharma's Big T20 Feat With Blistering Ton In PSL - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhKQi1LYWYzdjUyY2FNanE4VWV6c1dVWDdmU3hvcmlHaHRHOW9UZHhmdzRCY3g5Q2lEbnFodzlFVktoLS1zYU9BMTNRLURPN3RXclROUDlIOGJ6R3ZRcWFNVWp1QnduOVJLQ1h1WDJPVEJHNXhTTkFiNXo0VUpSdlh5VWhFRWdKRmJ1dWIyRTYydDNLYTNPbDNmWVpOZUJ2TU8tV2NTRkZtVURteS1sbWd1b3R4UWQ2Y0hpV1RIYkJIa05sWXc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhKQi1LYWYzdjUyY2FNanE4VWV6c1dVWDdmU3hvcmlHaHRHOW9UZHhmdzRCY3g5Q2lEbnFodzlFVktoLS1zYU9BMTNRLURPN3RXclROUDlIOGJ6R3ZRcWFNVWp1QnduOVJLQ1h1WDJPVEJHNXhTTkFiNXo0VUpSdlh5VWhFRWdKRmJ1dWIyRTYydDNLYTNPbDNmWVpOZUJ2TU8tV2NTRkZtVURteS1sbWd1b3R4UWQ2Y0",
-      "publishedAt": "2026-04-29T09:10:06.000Z",
+      "title": "Virat Kohli Left Fuming As Rajat Patidar's Dismissal Sparks Huge Controversy During GT vs RCB - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGlaQlVZRDlodVNNRV9LbnJZOFc4OTNWbWF1ZGhocWI2UTh1R0YzYnZkZlpLSHZraGFOT3F3RE1sT2ItdFZnejNocVNRMm5Lb3Nza2hBbDlmVW43eDAySE4xVVc4RUlDSWJMOXEzd1ZqMmVlUEtNY01hTDRWZ01kN1l0QkJnMTc1UUFkbmgxTUFVT3lSUk9aNkRiWU5GUkU1T0FxRVFUR2tPQTM0ajQ5UFBIWUFUSEVvcVpCMXVXU0dDQS1hYXdJRkRRX1RzZ1k?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGlaQlVZRDlodVNNRV9LbnJZOFc4OTNWbWF1ZGhocWI2UTh1R0YzYnZkZlpLSHZraGFOT3F3RE1sT2ItdFZnejNocVNRMm5Lb3Nza2hBbDlmVW43eDAySE4xVVc4RUlDSWJMOXEzd1ZqMmVlUEtNY01hTDRWZ01kN1l0QkJnMTc1UUFkbmgxTUFVT3lSUk9aNkRiWU5GUkU1T0FxRVFUR2tPQTM0ajQ5UFBIWUFUSEVvcV",
+      "publishedAt": "2026-04-30T15:14:40.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar looks inward to rediscover the old mastery - ESPNcricinfo",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3J4anp6OVd5TnRQb3BZNHlnMWRnUk1ZTGJHRjJscTJ2c2RheXd6Q08zY2VjcVhwczR6cDZHdGVDeHlfT3ZfTTJvQjJZQUtxYUlZdHBUZm5ockZpX2tOdmdwdDZWb0ZsUzhIYzQxQk82MVByQmVGRnJVbW85V2JWQU5WRmZuWUYtV2J5NHhRdi00SkpKeWJzVThkd3JscWtETWZ2Y0xmenpsdmF4WWoxa1pWOEoxdm5SM2ZYc9IBzgFBVV95cUxOeVVWRjhGZ0hDZ01zZHZMWVdoTi1zQ0NBUG92dU82M0pWc2JnRndJYWEyTTdKTkRFN2NqZ2RubTlJZm5mV3IzLUJIM2VybnlrTGU4b1Y3ZElRejVoN29oaFBNbGpGQ25zV0kzX1ZMLU0xdDNaUEZjbE9XbTRNSi1JWlZPbWhjUUlTU29FNmJOX2o0bTRMbFFLamJ1dVlLMC1INUFMRUlmRzMtb2RfVHBpY0ozX0hheENOcXBLWFFydHYtZGR1djNjdXlDWXRoZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3J4anp6OVd5TnRQb3BZNHlnMWRnUk1ZTGJHRjJscTJ2c2RheXd6Q08zY2VjcVhwczR6cDZHdGVDeHlfT3ZfTTJvQjJZQUtxYUlZdHBUZm5ockZpX2tOdmdwdDZWb0ZsUzhIYzQxQk82MVByQmVGRnJVbW85V2JWQU5WRmZuWUYtV2J5NHhRdi00SkpKeWJzVThkd3JscWtETWZ2Y0xmenpsdmF4WWoxa1pWOEoxdm5SM2",
-      "publishedAt": "2026-04-29T11:37:20.000Z",
+      "title": "KL Rahul surpasses Virat Kohli, becomes only the second batter to... - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUh4Znhtbk8zZU5jN2FoMklnZDZKeFFTemYzZWk4T0VubUxBbnN5ZkJRUVFEbXV6QTJjYjc0bXltaEczSHRTZ3p6MXRyTDdaTWJjYUJ4Y28ydy1maS1aak04OXFMeFNjeHV6bzBrSVZ0M2NCYmNOaVRGNXQ3S1FCYlNfNzNJcmRlbmVWVUJ4ckVTNmd5MzRud0NWR2oxaGpNNkJhMjlYT19tQmhDcERLczQyUDN6Y1lw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUh4Znhtbk8zZU5jN2FoMklnZDZKeFFTemYzZWk4T0VubUxBbnN5ZkJRUVFEbXV6QTJjYjc0bXltaEczSHRTZ3p6MXRyTDdaTWJjYUJ4Y28ydy1maS1aak04OXFMeFNjeHV6bzBrSVZ0M2NCYmNOaVRGNXQ3S1FCYlNfNzNJcmRlbmVWVUJ4ckVTNmd5MzRud0NWR2oxaGpNNkJhMjlYT19tQmhDcERLczQyUDN6Y1lw?o",
+      "publishedAt": "2026-05-02T18:08:03.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "‘See ya soon’ – Ben Stokes cleared to make return after broken cheekbone - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVlMEs1MDBDdlZ1c3dFTTN1bmExV3lGa0UzOUlJRmwzb2N5MVhINVU3NWRZUEU1emVKOGxaUnhtSWU1RFdtSkhZdC1VVHBQT2ZoTklGeTNCWkYxMFlrRlFNT3YtOV8wd05kU0JsTkY4SldYYngxYThmT3g0c1VHQWdhTExGWGhmQ1pqdS1YbXpGcFJoTEozYldPT0g5RkRsQU85M2ZR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVlMEs1MDBDdlZ1c3dFTTN1bmExV3lGa0UzOUlJRmwzb2N5MVhINVU3NWRZUEU1emVKOGxaUnhtSWU1RFdtSkhZdC1VVHBQT2ZoTklGeTNCWkYxMFlrRlFNT3YtOV8wd05kU0JsTkY4SldYYngxYThmT3g0c1VHQWdhTExGWGhmQ1pqdS1YbXpGcFJoTEozYldPT0g5RkRsQU85M2ZR?oc=5\" target=\"_blank\">‘Se",
-      "publishedAt": "2026-04-30T17:20:00.000Z",
+      "title": "Virat Kohli looks as dangerous as ever - how has he adapted his T20 game? - Wisden",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejI2OVlmYVVFQ2hfTzh1QU1JVjVwNjhPX05NX1U1Z0k2UmtJaldReC1FSVNPbXZPMVdUR1RjakJTS3JhaUx6SWtNaWk0Zm5hWDVwdDlxUTVMXzZSQ1VPYUxPaWZKam0zclpwMVlZcTEtQy1KdndOTHh1TG56UHZCblVraWxkZzBaSEUxNWdfR2hUWkd6XzFPNnR0NFFHc3JEaE00T2V2ZklpdVlzdlBLM2I5aV9yQzJvT1FJQWt2Yw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPejI2OVlmYVVFQ2hfTzh1QU1JVjVwNjhPX05NX1U1Z0k2UmtJaldReC1FSVNPbXZPMVdUR1RjakJTS3JhaUx6SWtNaWk0Zm5hWDVwdDlxUTVMXzZSQ1VPYUxPaWZKam0zclpwMVlZcTEtQy1KdndOTHh1TG56UHZCblVraWxkZzBaSEUxNWdfR2hUWkd6XzFPNnR0NFFHc3JEaE00T2V2ZklpdVlzdlBLM2I5aV9yQzJvT1",
+      "publishedAt": "2026-05-02T06:52:28.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Sri Lanka’s government ‘temporarily’ takes over cricket board - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPck9jRDQzaHR4QnUtQ1NxbnROYTh1cUNqOHlUQ0pqaloxZndubVZWNXBjdE10b2hQTnNUdEJ3X2IzazhpbGV6ckpMLUZQRTVKVnFKNEd2dW0wTzh1Qmo1b1UxS0tnQ2ZhbGJuRG9CSmlZblZMbEt5cUtuMkk3Nl9oT2JEYnF5b1EtcEdUTFBwMWNodHlkYzFhQkp0T29BQWpLVXlBa0NuRFbSAa4BQVVfeXFMTWp4SHBBVDNXSVVkRkZldDI1aU5YcHk4V1R3YkJaRHNDelR3c0dhdXhjVDNnQWoyam1rbC1ZYVV4Tno4ZXEwTnU5SXlKMGtHSHZ4Rl9RbVo3ckdCYnZEM0V3b1lueUt6Uk1wSEpzRG5DR2VTZl9WQlkwT1NvMnpremF4b3p1X1ViOTJQS1U3ZGZtamFqcFVrZnFxMU5DelFlbU9tcmF3eVBocUJNVnBn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPck9jRDQzaHR4QnUtQ1NxbnROYTh1cUNqOHlUQ0pqaloxZndubVZWNXBjdE10b2hQTnNUdEJ3X2IzazhpbGV6ckpMLUZQRTVKVnFKNEd2dW0wTzh1Qmo1b1UxS0tnQ2ZhbGJuRG9CSmlZblZMbEt5cUtuMkk3Nl9oT2JEYnF5b1EtcEdUTFBwMWNodHlkYzFhQkp0T29BQWpLVXlBa0NuRFbSAa4BQVVfeXFMTWp4SHBBVD",
-      "publishedAt": "2026-04-29T22:44:32.000Z",
+      "title": "Babar Azam minces no words, 'answers back' to 90s Pakistan cricketers - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUJOQnpDdFJGTExjMjd4aE0zV2pPcFBRYjBBVlZxUU93dl9xWkdQLXN2REFJdkRNRkVQTFR1ZWRXV2dMX0syQUZLSHN3dW1CWF80VmRCRDBIS2ZJQUFnSlkzNk5ZdzlteGNmUjBOV3BuQl9IVmVNVzgxcVB4VFlSaC14U2l2U243VkwzcWxERmFhMnpGYmFPMVlXUmU3Ylh3WG1aS0d0cHhZdHlLX2Q3cy1mTWpXY2R1Vzg0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUJOQnpDdFJGTExjMjd4aE0zV2pPcFBRYjBBVlZxUU93dl9xWkdQLXN2REFJdkRNRkVQTFR1ZWRXV2dMX0syQUZLSHN3dW1CWF80VmRCRDBIS2ZJQUFnSlkzNk5ZdzlteGNmUjBOV3BuQl9IVmVNVzgxcVB4VFlSaC14U2l2U243VkwzcWxERmFhMnpGYmFPMVlXUmU3Ylh3WG1aS0d0cHhZdHlLX2Q3cy1mTWpXY2R1Vz",
+      "publishedAt": "2026-05-03T05:15:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Babar Azam breaks massive T20 record; joins Virat Kohli, Abhishek Sharma in elite list - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1lJOVhDYU9Ya3VWRzJRMllSUXcxc09IcksyQk5iUVVRdkpuYmVtd3JGWDBCdVJhTFNOYUdpeGllTlJUTWtiUm1VNW4xR2tWcjJ3X2RlcDY4bndsVHItZGZZNjRkdmw4a3MwSDU4Q2xFeUdJSEdnalBnMUp4QlprU2JUUllzaXdVWXJYejFEMGVGalNzYklqYVpJME05X3FhSlV2QjFCLTc1Qnh0cHBUOTVyR1pyMWNDdDFORDQxelB1NkptYjRza1dYTHhueFhkZVpySDh1Zl84WjFqUG4tdlJ0bXhXR1dLa3FaMEVQVGJvSEtDMDBieEx30gH_AUFVX3lxTE5YemhBSVZDTjRWZFFOTkpuakROMjFRd3ktVGY1WFhkVDF1MUUtTGJsdEJRVWZNcEh5QkVIT3A2ZFM0dlptNWJPM1ZTLS1sc2h3Qm05ZDFYNldOb0ZCV2lDTXlldFJwUDRXaWNSSXNJazBHazhBSEtLVlVhMXQwQzlkY3YwdWlSM0k0LUJjTzM4QlZHVjA3dzZsU2FXSWYyMmFmbUIwWlROMVhvM1F5Qk12di0tY1BBeUMtNHNlRUdoNFBxVFNDTk5SemF4Q0ZOdHZpa2dDLXd5ZHhBOUZ2czlBeUNWMnFlbHRnMEF5UE1sX0d4SlFxMHZjWjZPaVdwNA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1lJOVhDYU9Ya3VWRzJRMllSUXcxc09IcksyQk5iUVVRdkpuYmVtd3JGWDBCdVJhTFNOYUdpeGllTlJUTWtiUm1VNW4xR2tWcjJ3X2RlcDY4bndsVHItZGZZNjRkdmw4a3MwSDU4Q2xFeUdJSEdnalBnMUp4QlprU2JUUllzaXdVWXJYejFEMGVGalNzYklqYVpJME05X3FhSlV2QjFCLTc1Qnh0cHBUOTVyR1pyMWNDdD",
+      "publishedAt": "2026-04-29T07:19:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "England cricketer Ben Stokes’ new look sparks concern after facial surgery - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPTS1OVi1XWXBtRVNYZlhEY2dCSERELVhuMnBOUUdrREMwLUM3M1ZCdHdwdXZqS2tIUEtlT3dZdC1jV0ZkNXNTTWNRV2dZaHI1U2VkTS1CSE44VktXdTQwZjZWbloxb3hwTF9DU3R4ZHZZS0JiaEJmRnEzallNMlpzb2Z4Tmd5bW5rYkpTclVpeEc0QThZLVpJd2FkZm5JSm94cmFZWm92OXhNenVXc1JvZ0lHTXJ3V0VQaFgwaGhhQ0lNNTBIdUliME9PdEJXRGV3c3BRbWt2T0NUZE1ielhXWlBOMTU4cWs5b19Jel91UzlpQ1NjSTJTM0hZQXhvbnNsYkMzcGU0M2EwVGVvTUdWaWl1UDNySEFsS1B6QnA0TTdmNmlnVFRqbldiNkxvbmc5MUtIQmQyVTFTeEliWkNRdnJXREhBU1preUxaaTVxQWt6UEluM0paRXZtY3ZObFN3SWFCb2gzVm9OVG9xdUo3eWowdFJ0eGl1WE1SdXNRZGNuWnBvLWRXU2tLSmJ1T2xQZnE3VDU5TmVhcUw4MC13UVBkMlQ4ZHZyNHY0WmZCcVpqdE43M0xJLXVR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxPTS1OVi1XWXBtRVNYZlhEY2dCSERELVhuMnBOUUdrREMwLUM3M1ZCdHdwdXZqS2tIUEtlT3dZdC1jV0ZkNXNTTWNRV2dZaHI1U2VkTS1CSE44VktXdTQwZjZWbloxb3hwTF9DU3R4ZHZZS0JiaEJmRnEzallNMlpzb2Z4Tmd5bW5rYkpTclVpeEc0QThZLVpJd2FkZm5JSm94cmFZWm92OXhNenVXc1JvZ0lHTXJ3V0VQaF",
+      "publishedAt": "2026-04-29T23:59:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "India Announce Squad For 2026 Women's T20 World Cup: Harmanpreet Kaur To Captain, No Amanjot Kaur - News18",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUm40Ukpib2xiTHB1Z0tMUUM2aFkwb1lzaGhHSE5Qak1FYXZtQkY0Mi16OUNFZEZESmFEX3prTFVkdWh1NHlrUHdrOVFfaENWbGNEajlPNDR6TDRjR01ReXNwZkdwMXZGMkJBMlZiMEhlZm5GMUNYV25TSmYxQzRWRV9yX1ozYW1NODBpcFoyN3dqZ1BkcUFEUmFYVFVWMnRTUE5td3Q5SUQ0eTZON0RRSkp5VFdvclhVS0xobTFMNzdBLTNKMEdjNTNVMU9OQlJqVDdjYjNB0gHbAUFVX3lxTE9NY1RvZFduWGkwdlJIT2plUTNQdVRDdjE5UGp0UFBBSzN2Z0pJMGFxLWhTbFoyeGQyZzRvQ01NWFRfSHRZSGNMdVNhdDkzNEhFWHpZTzRPTjBBTWNLLVZFN3dRejY5ZXhFdTdaMU9QckVxNzZVREYzcjlvU2J0Zzl5eGs4Y0twSEs4MW9BSWQ1TWhDTkd3ZlV0M2JVdmtqbVJCWVRMNGxWaW5zT29SQ2ZhVUpqS3d4eHBneHE3QVBOMnFzWWVuNWdGdGw0N1VlcnJJM0otTDYwTnBOTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUm40Ukpib2xiTHB1Z0tMUUM2aFkwb1lzaGhHSE5Qak1FYXZtQkY0Mi16OUNFZEZESmFEX3prTFVkdWh1NHlrUHdrOVFfaENWbGNEajlPNDR6TDRjR01ReXNwZkdwMXZGMkJBMlZiMEhlZm5GMUNYV25TSmYxQzRWRV9yX1ozYW1NODBpcFoyN3dqZ1BkcUFEUmFYVFVWMnRTUE5td3Q5SUQ0eTZON0RRSkp5VFdvclhVS0",
+      "publishedAt": "2026-05-02T11:43:57.000Z",
       "source": {
         "name": "Google News"
       },
@@ -260,16 +360,6 @@
         "name": "Google News"
       },
       "urlToImage": null
-    },
-    {
-      "title": "Young woman cricketer, 19, dies by suicide after selection heartbreak in Puducherry trials: Report | Cricket - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc1ZwU1UxRm1LMzVTclB6MTZVU1BHRGtVdDdSaE00V3JQR2pQTzY2OHFfczJiME1MOHVSeEdEX2NsZEQ4T3UyNlhYc2tmd0ZiUXU4RlJWMUxwY1ZuMFhCM2lqcWR5SnlLbHo0RGlkVjU5Y1NsOGhLRG5mZ3haWFFyYnZXMEtiaGlxV3JDWjdvbk9Ua3A3ZFoydlg3TVdVMEhuM3FVT29yMkVUejllR1NQVkl0d3hQanpDLWRWcGxrS250aTVBVElxM1Z6dFJuLWxOYTAtRUgzYTVjYWp2MXFnWV9B0gHnAUFVX3lxTE5EMmRDRXNVZnlScG92WThoSFl5RDN5TFpMa1lhTmx6cjV1dXZsUUtFelBnOFVKLVd5aHFaOTJiX081NTJveWE4WldZWlc4a1lVTE1ObDk2R19FWGU3ZWxkOHVGd0QxMnNfdDN3NzNxY1J4cHhONU9WME1IZFJSSmxlZTJic0FPSDJnZmV5ZTdvUGpMN0R4QnFxWkpYazJsb2NQemVWai0weUxtS3RZMHBUaTFsa29adHluVjFIZUVsMHk5RzY2UGpwSGhXOTczNkdiQkxsd0Q1WlVDOGZIRGJtZWM0OFg3MA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc1ZwU1UxRm1LMzVTclB6MTZVU1BHRGtVdDdSaE00V3JQR2pQTzY2OHFfczJiME1MOHVSeEdEX2NsZEQ4T3UyNlhYc2tmd0ZiUXU4RlJWMUxwY1ZuMFhCM2lqcWR5SnlLbHo0RGlkVjU5Y1NsOGhLRG5mZ3haWFFyYnZXMEtiaGlxV3JDWjdvbk9Ua3A3ZFoydlg3TVdVMEhuM3FVT29yMkVUejllR1NQVkl0d3hQanpDLW",
-      "publishedAt": "2026-05-02T08:40:11.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
     }
   ],
   "culture": [
@@ -288,6 +378,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTWZSQ3ZGRVpxRldmSkFwUnMxZTBBS0VtOGdIWFlkTTQ3Q2NoOFVna3l3TWRzaTBmYVc5a1JQLTBmaUlmRW5wTE9MYlBxR1FiRjlnVGJBMWpDYm5qMjFocW9CWDNyZzByZmJMM3FkY1Y2VDkxUVBTUk56R1habnVyRXc2bVEzUTc0Tl9SVVpfV3NrR2piMlZaLVBQZDlqQU8yQUJGdjRVY01TN2Q4V0hpdVVXVWpYcm9EY0tUaUF0Tl9LUkIwSnBsNnZZb3FNNnFnendDYmFMdkF4SnFxT0NnWXJVUnU0eElNc0s3bnJVLVVsX0NKSmVEa1Bpb2NmOUl6SkJ3c09SSF9ZMXluNW51amRORdIBmAJBVV95cUxQV21kajZlNmVsN0Q5N0dLbkJyX2lmZGpUSC1HTzdxWXB5dVhjLVZfRmRJZjFwQWhJaGxXUUFjZVdCNmN3dHBCWmYxeUVQVFpRSHFIekNaX3ZPdkRkUVAzMVpjM0JGaEZkWk9CMlhac2NfLUJzZTdSRUtJUXpZZFJzazRISGpOTEdDZm1mbWRkT1VzTWxYN19ibmctUUZVQnhZTHotSW1VVnhpQ2pCdnNmN0ZmbGk4M3plSkxPR2syY1FYWE9HdzExR0kwUEdxZVl5ZnpIQmdlX18xWEw2aERHRTdWZnZ2d1lQWTBDZVVlczgzSWZCdEYtVlVOMkZNZE56Q2E4aDIyTjlRN1hfcXpsTnFfV0FFQzM2?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQTWZSQ3ZGRVpxRldmSkFwUnMxZTBBS0VtOGdIWFlkTTQ3Q2NoOFVna3l3TWRzaTBmYVc5a1JQLTBmaUlmRW5wTE9MYlBxR1FiRjlnVGJBMWpDYm5qMjFocW9CWDNyZzByZmJMM3FkY1Y2VDkxUVBTUk56R1habnVyRXc2bVEzUTc0Tl9SVVpfV3NrR2piMlZaLVBQZDlqQU8yQUJGdjRVY01TN2Q4V0hpdVVXVWpYcm9EY0",
       "publishedAt": "2026-05-01T02:20:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Cricket Powerplay Rules Explained: ODI, T20 and Modern Fielding Restrictions - World in Sport",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pN2RjUEdfRjJIZ2luNXRMSEtsT29tYUNoVTNMYTViaTd5WFdmSm9YazJQaV9vRkxjejhzQnFIYVc3SThKYW9SLUd3TlFnNDBsc2k1dlQ1YWZWanJtclZxR1dQd2Q4eUFtNzRN?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1pN2RjUEdfRjJIZ2luNXRMSEtsT29tYUNoVTNMYTViaTd5WFdmSm9YazJQaV9vRkxjejhzQnFIYVc3SThKYW9SLUd3TlFnNDBsc2k1dlQ1YWZWanJtclZxR1dQd2Q4eUFtNzRN?oc=5\" target=\"_blank\">Cricket Powerplay Rules Explained: ODI, T20 and Modern Fielding Restrictions</a>&nb",
+      "publishedAt": "2026-04-21T01:06:45.000Z",
       "source": {
         "name": "Google News"
       },

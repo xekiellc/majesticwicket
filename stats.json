@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T05:35:47.470Z",
+  "lastUpdated": "2026-05-03T09:11:13.015Z",
   "recentMatches": [
     {
       "id": "6fc826f7-086c-4cb5-a07b-67e25d91daaf",
@@ -45,6 +45,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "d0d47f69-f4c7-41c7-a26c-ab6709dbb8c8",
+      "name": "Germany vs Austria, 5th T20I, Austria tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Austria opt to bat",
+      "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
+      "date": "2026-05-03",
+      "dateTimeGMT": "2026-05-03T08:30:00",
+      "teams": [
+        "Germany",
+        "Austria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "243c05f2-5fdf-4d55-95fa-32e9fd420803",
@@ -494,7 +525,7 @@
       "id": "c67f530f-198e-4f23-9922-26220049341c",
       "name": "United Arab Emirates vs Oman, 102nd Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Match reduced to 47 overs due to rain - United Arab Emirates opt to bat",
+      "status": "Oman need 284 runs - Match reduced to 47 overs due to rain",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-03",
       "dateTimeGMT": "2026-05-03T00:00:00",
@@ -516,10 +547,16 @@
       ],
       "score": [
         {
-          "r": 66,
-          "w": 0,
-          "o": 11,
+          "r": 308,
+          "w": 8,
+          "o": 47,
           "inning": "united arab emirates Inning 1"
+        },
+        {
+          "r": 25,
+          "w": 2,
+          "o": 4.3,
+          "inning": "United Arab Emirates,Oman Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -1066,51 +1103,6 @@
           "w": 2,
           "o": 87.3,
           "inning": "Surrey Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "e8fd7cdc-04fc-4d3d-8fd4-9f9d531f7ef8",
-      "name": "Hampshire vs Glamorgan, 18th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Hampshire trail by 478 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-05-01",
-      "dateTimeGMT": "2026-05-01T10:00:00",
-      "teams": [
-        "Hampshire",
-        "Glamorgan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 536,
-          "w": 7,
-          "o": 132,
-          "inning": "Glamorgan Inning 1"
-        },
-        {
-          "r": 58,
-          "w": 0,
-          "o": 16,
-          "inning": "Hampshire Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
