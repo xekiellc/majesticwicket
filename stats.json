@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T09:50:00.447Z",
+  "lastUpdated": "2026-05-05T15:55:59.599Z",
   "recentMatches": [
     {
       "id": "c3529eb7-f856-4aff-9e14-c91d2a55bff7",
@@ -648,7 +648,7 @@
       "id": "1e13031a-3091-4958-a92c-2eea628456d8",
       "name": "Nepal vs Oman, 103rd Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Oman need 139 runs",
+      "status": "Nepal won by 81 runs",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-05",
       "dateTimeGMT": "2026-05-05T00:00:00",
@@ -674,7 +674,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c67f530f-198e-4f23-9922-26220049341c",
@@ -765,6 +765,38 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "4804409b-28ee-4f3e-ab55-a4a4cb090198",
+      "name": "Delhi Capitals vs Chennai Super Kings, 48th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "date": "2026-05-05",
+      "dateTimeGMT": "2026-05-05T14:00:00",
+      "teams": [
+        "Delhi Capitals",
+        "Chennai Super Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Delhi Capitals",
+          "shortname": "DC",
+          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "ed18f7e9-d348-4ace-bfcd-9639096c6808",
@@ -1014,51 +1046,6 @@
           "w": 5,
           "o": 15.2,
           "inning": "Peshawar Zalmi Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "dcc150f1-8fb3-4a5e-aa28-d9be585630f2",
-      "name": "Islamabad United vs Hyderabad Kingsmen, Eliminator 2, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Hyderabad Kingsmen won by 2 runs",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-05-01",
-      "dateTimeGMT": "2026-05-01T14:00:00",
-      "teams": [
-        "Islamabad United",
-        "Hyderabad Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad Kingsmen",
-          "shortname": "HK",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Islamabad United",
-          "shortname": "ISU",
-          "img": "https://g.cricapi.com/iapi/34-637992689284766336.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 186,
-          "w": 5,
-          "o": 20,
-          "inning": "Hyderabad Kingsmen Inning 1"
-        },
-        {
-          "r": 184,
-          "w": 7,
-          "o": 20,
-          "inning": "Islamabad United Inning 1"
         }
       ],
       "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
