@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T10:06:20.255Z",
+  "lastUpdated": "2026-05-06T16:04:20.427Z",
   "recentMatches": [
     {
       "id": "c3529eb7-f856-4aff-9e14-c91d2a55bff7",
@@ -31,6 +31,96 @@
           "w": 0,
           "o": 1.3,
           "inning": "guernsey Inning 1"
+        }
+      ],
+      "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "35622e65-558c-41f8-9ed7-f3c6d9424e1d",
+      "name": "Guernsey vs Isle of Man, 2nd T20I, Isle of Man tour of Guernsey 2026",
+      "matchType": "t20",
+      "status": "Guernsey won by 40 runs",
+      "venue": "King George V Sports Ground, Castel",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T13:00:00",
+      "teams": [
+        "Guernsey",
+        "Isle of Man"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guernsey",
+          "shortname": "GUE",
+          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
+        },
+        {
+          "name": "Isle of Man",
+          "shortname": "IOM",
+          "img": "https://g.cricapi.com/iapi/616-637928917956919054.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 198,
+          "w": 6,
+          "o": 20,
+          "inning": "Guernsey Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 4,
+          "o": 20,
+          "inning": "Isle of Man Inning 1"
+        }
+      ],
+      "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6fc826f7-086c-4cb5-a07b-67e25d91daaf",
+      "name": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026",
+      "matchType": "t20",
+      "status": "Guernsey won by 7 wkts",
+      "venue": "King George V Sports Ground, Castel",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T09:00:00",
+      "teams": [
+        "Guernsey",
+        "Isle of Man"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guernsey",
+          "shortname": "GUE",
+          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
+        },
+        {
+          "name": "Isle of Man",
+          "shortname": "IOM",
+          "img": "https://g.cricapi.com/iapi/616-637928917956919054.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 110,
+          "w": 8,
+          "o": 20,
+          "inning": "Isle of Man Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 3,
+          "o": 16.2,
+          "inning": "Guernsey Inning 1"
         }
       ],
       "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
@@ -176,6 +266,96 @@
       "matchEnded": true
     },
     {
+      "id": "4f899f79-93a0-4e44-b151-7fda5c43157e",
+      "name": "Germany vs Austria, 2nd T20I, Austria tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Germany won by 4 wkts",
+      "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T13:30:00",
+      "teams": [
+        "Germany",
+        "Austria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 163,
+          "w": 7,
+          "o": 20,
+          "inning": "Austria Inning 1"
+        },
+        {
+          "r": 165,
+          "w": 6,
+          "o": 16.3,
+          "inning": "Germany Inning 1"
+        }
+      ],
+      "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7cde527e-9b85-4c57-8fb6-584e9f6b42da",
+      "name": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Germany won by 162 runs",
+      "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T08:30:00",
+      "teams": [
+        "Germany",
+        "Austria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 308,
+          "w": 1,
+          "o": 20,
+          "inning": "Germany Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 10,
+          "o": 15.1,
+          "inning": "Austria Inning 1"
+        }
+      ],
+      "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "a95f5561-b483-46b9-9899-30ec8f8ab4d7",
       "name": "Malaysia vs Indonesia, 4th T20I, Indonesia tour of Malaysia, 2026",
       "matchType": "t20",
@@ -199,9 +379,22 @@
           "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 73,
+          "w": 9,
+          "o": 20,
+          "inning": "indonesia Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 5,
+          "o": 15.1,
+          "inning": "Malaysia,Indonesia Inning 1"
+        }
+      ],
       "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -298,6 +491,179 @@
       "matchEnded": true
     },
     {
+      "id": "526e3385-009c-41a3-a043-edd394cf8623",
+      "name": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 6 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T01:30:00",
+      "teams": [
+        "Malaysia",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 87,
+          "w": 6,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 4,
+          "o": 10.4,
+          "inning": "Malaysia Inning 1"
+        }
+      ],
+      "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a363e2ce-11ca-48a8-b731-ffbf6eb84081",
+      "name": "Italy Women vs Nepal Women, 20th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 8 wkts (7 overs game due to rain)",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T11:50:00",
+      "teams": [
+        "Italy Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Italy Women",
+          "shortname": "IT-W",
+          "img": "https://g.cricapi.com/iapi/3002-638040162790985209.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 36,
+          "w": 6,
+          "o": 7,
+          "inning": "Italy Women Inning 1"
+        },
+        {
+          "r": 40,
+          "w": 2,
+          "o": 3.3,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4ac5ddd5-4877-4cb6-914b-615dae82569d",
+      "name": "Rwanda Women vs United States of America Women, 19th Match, ICC Womens T20I Challenge Trophy 2026",
+      "matchType": "t20",
+      "status": "No result due to rain",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T07:00:00",
+      "teams": [
+        "Rwanda Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 62,
+          "w": 4,
+          "o": 15.3,
+          "inning": "united states of america women Inning 1"
+        }
+      ],
+      "series_id": "99bdc653-7f47-4466-8d5e-5d43686c3c5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c7e23e8c-95a1-417d-8ea1-baf0ecb870a1",
+      "name": "Pakistan Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of Pakistan 2026",
+      "status": "Zimbabwe Women need 269 runs",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-05-06",
+      "dateTimeGMT": "2026-05-06T10:30:00",
+      "teams": [
+        "Pakistan Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 343,
+          "w": 4,
+          "o": 50,
+          "inning": "pakistan women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 3,
+          "o": 21.1,
+          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "0e630f03-784c-418c-8834-4571bb7b796e",
       "name": "Pakistan Women vs Zimbabwe Women, 1st ODI, Zimbabwe Women tour of Pakistan 2026",
       "status": "Pakistan Women won by 168 runs",
@@ -322,10 +688,16 @@
       ],
       "score": [
         {
-          "r": 25,
-          "w": 0,
-          "o": 3.3,
+          "r": 330,
+          "w": 5,
+          "o": 50,
           "inning": "Pakistan Women Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 10,
+          "o": 36.4,
+          "inning": "Zimbabwe Women Inning 1"
         }
       ],
       "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
@@ -359,9 +731,22 @@
           "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 256,
+          "w": 10,
+          "o": 49.5,
+          "inning": "nepal Inning 1"
+        },
+        {
+          "r": 175,
+          "w": 10,
+          "o": 39.5,
+          "inning": "Nepal,Oman Inning 1"
+        }
+      ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -413,6 +798,96 @@
       "matchEnded": true
     },
     {
+      "id": "60147c2f-3986-4b27-ae89-6e56f2db5d41",
+      "name": "Nepal vs United Arab Emirates, 101st Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal won by 6 runs (DLS method due to rain)",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-01",
+      "dateTimeGMT": "2026-05-01T00:00:00",
+      "teams": [
+        "Nepal",
+        "United Arab Emirates"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 289,
+          "w": 7,
+          "o": 50,
+          "inning": "nepal Inning 1"
+        },
+        {
+          "r": 248,
+          "w": 8,
+          "o": 38,
+          "inning": "Nepal,United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "312ba6aa-5e93-4673-bb0c-cb207fdc9e2d",
+      "name": "Sunrisers Hyderabad vs Punjab Kings, 49th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Punjab Kings need 227 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-05-06",
+      "dateTimeGMT": "2026-05-06T14:00:00",
+      "teams": [
+        "Sunrisers Hyderabad",
+        "Punjab Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Punjab Kings",
+          "shortname": "PBKS",
+          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+        },
+        {
+          "name": "Sunrisers Hyderabad",
+          "shortname": "SRH",
+          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 235,
+          "w": 4,
+          "o": 20,
+          "inning": "Sunrisers Hyderabad Inning 1"
+        },
+        {
+          "r": 9,
+          "w": 2,
+          "o": 1.5,
+          "inning": "Punjab Kings Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "4804409b-28ee-4f3e-ab55-a4a4cb090198",
       "name": "Delhi Capitals vs Chennai Super Kings, 48th Match, Indian Premier League 2026",
       "matchType": "t20",
@@ -436,9 +911,22 @@
           "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 155,
+          "w": 7,
+          "o": 20,
+          "inning": "delhi capitals Inning 1"
+        },
+        {
+          "r": 159,
+          "w": 2,
+          "o": 17.3,
+          "inning": "Delhi Capitals,Chennai Super Kings Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -468,9 +956,22 @@
           "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 228,
+          "w": 5,
+          "o": 20,
+          "inning": "Lucknow Super Giants Inning 1"
+        },
+        {
+          "r": 229,
+          "w": 4,
+          "o": 18.4,
+          "inning": "Mumbai Indians Inning 1"
+        }
+      ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -605,180 +1106,6 @@
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "285c9084-4060-4684-b8a4-53f834e726e5",
-      "name": "Peshawar Zalmi vs Hyderabad Kingsmen, Final, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Peshawar Zalmi won by 5 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T14:00:00",
-      "teams": [
-        "Peshawar Zalmi",
-        "Hyderabad Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad Kingsmen",
-          "shortname": "HK",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Peshawar Zalmi",
-          "shortname": "PSZ",
-          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 10,
-          "o": 18,
-          "inning": "Hyderabad Kingsmen Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 5,
-          "o": 15.2,
-          "inning": "Peshawar Zalmi Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
-      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-04-04",
-      "dateTimeGMT": "2026-04-04T11:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Greece Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 47,
-          "w": 5,
-          "o": 7.5,
-          "inning": "cyprus women Inning 1"
-        }
-      ],
-      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "3378e801-8ac1-4e61-9f66-e1f323649dc9",
-      "name": "Bangladesh Women vs Sri Lanka Women, 3rd T20I, Sri Lanka Women tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 3 runs  -  9-overs game due to rain",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-05-02",
-      "dateTimeGMT": "2026-05-02T12:00:00",
-      "teams": [
-        "Bangladesh Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 87,
-          "w": 6,
-          "o": 9,
-          "inning": "Sri Lanka Women Inning 1"
-        },
-        {
-          "r": 84,
-          "w": 6,
-          "o": 9,
-          "inning": "Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "9070e0d5-11ff-4f80-ba02-f645707e55cf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "50e51748-6f5b-4b89-865e-91c82f292d6c",
-      "name": "Bangladesh vs New Zealand, 3rd T20I, New Zealand tour of Bangladesh, 2026",
-      "matchType": "odi",
-      "status": "New Zealand won by 6 wkts (DLS method due to rain, 15 overs game, target 103)",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "date": "2026-05-02",
-      "dateTimeGMT": "2026-05-02T12:30:00",
-      "teams": [
-        "Bangladesh",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 10,
-          "o": 14.2,
-          "inning": "Bangladesh Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 4,
-          "o": 11.4,
-          "inning": "New Zealand Inning 1"
-        }
-      ],
-      "series_id": "d5c0239d-9840-417b-ad8f-865cc3927ff4",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
