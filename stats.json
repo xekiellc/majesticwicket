@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-05-07T05:36:54.656Z",
+  "lastUpdated": "2026-05-07T10:12:27.088Z",
   "recentMatches": [
+    {
+      "id": "28eced31-fc34-43de-a7f9-e1c580c21181",
+      "name": "Hong Kong, China Women vs Malaysia Women, 2nd Match, Hong Kong, China Women T20I Tri-Series, 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China Women won by 31 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-05-07",
+      "dateTimeGMT": "2026-05-07T05:30:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 4,
+          "o": 20,
+          "inning": "hong kong, china women Inning 1"
+        },
+        {
+          "r": 105,
+          "w": 5,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "7eb14888-93ec-42d3-8c9b-82e6dd79d1a2",
       "name": "China Women vs Malaysia Women, 1st Match, Hong Kong, China Women T20I Tri-Series, 2026",
@@ -40,9 +79,9 @@
         }
       ],
       "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -219,6 +258,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "c4bcff13-2091-4911-86c6-8c4844fd4e41",
+      "name": "Malta vs Gibraltar, 1st T20I, Gibraltar tour of Malta, 2026",
+      "matchType": "t20",
+      "status": "Gibraltar need 105 runs in 42 balls",
+      "venue": "Marsa Sports Club, Marsa",
+      "date": "2026-05-07",
+      "dateTimeGMT": "2026-05-07T07:00:00",
+      "teams": [
+        "Malta",
+        "Gibraltar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+        },
+        {
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 231,
+          "w": 4,
+          "o": 20,
+          "inning": "Malta Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 2,
+          "o": 13,
+          "inning": "Gibraltar Inning 1"
+        }
+      ],
+      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "c7e23e8c-95a1-417d-8ea1-baf0ecb870a1",
