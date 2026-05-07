@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T16:09:10.871Z",
+  "lastUpdated": "2026-05-07T21:08:18.532Z",
   "recentMatches": [
     {
       "id": "28eced31-fc34-43de-a7f9-e1c580c21181",
@@ -79,90 +79,6 @@
         }
       ],
       "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c3529eb7-f856-4aff-9e14-c91d2a55bff7",
-      "name": "Guernsey vs Isle of Man, 3rd T20I, Isle of Man tour of Guernsey 2026",
-      "matchType": "t20",
-      "status": "No result",
-      "venue": "King George V Sports Ground, Castel",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T13:00:00",
-      "teams": [
-        "Guernsey",
-        "Isle of Man"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guernsey",
-          "shortname": "GUE",
-          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
-        },
-        {
-          "name": "Isle of Man",
-          "shortname": "IOM",
-          "img": "https://g.cricapi.com/iapi/616-637928917956919054.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 27,
-          "w": 0,
-          "o": 1.3,
-          "inning": "guernsey Inning 1"
-        }
-      ],
-      "series_id": "adc7a81b-277a-4ff9-ab69-2c105f3f6a27",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d0d47f69-f4c7-41c7-a26c-ab6709dbb8c8",
-      "name": "Germany vs Austria, 5th T20I, Austria tour of Germany, 2026",
-      "matchType": "t20",
-      "status": "Germany won by 5 wkts",
-      "venue": "Bayer Uerdingen Cricket Ground, Krefeld",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T08:30:00",
-      "teams": [
-        "Germany",
-        "Austria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria",
-          "shortname": "AUT",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Germany",
-          "shortname": "GER",
-          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 213,
-          "w": 9,
-          "o": 20,
-          "inning": "austria Inning 1"
-        },
-        {
-          "r": 216,
-          "w": 5,
-          "o": 19,
-          "inning": "Germany,Austria Inning 1"
-        }
-      ],
-      "series_id": "d9a8cfd7-962e-42a0-9cf2-0640a9c0f10d",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -394,50 +310,6 @@
       "matchEnded": true
     },
     {
-      "id": "0e630f03-784c-418c-8834-4571bb7b796e",
-      "name": "Pakistan Women vs Zimbabwe Women, 1st ODI, Zimbabwe Women tour of Pakistan 2026",
-      "status": "Pakistan Women won by 168 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T10:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 330,
-          "w": 5,
-          "o": 50,
-          "inning": "Pakistan Women Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 10,
-          "o": 36.4,
-          "inning": "Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1e13031a-3091-4958-a92c-2eea628456d8",
       "name": "Nepal vs Oman, 103rd Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -483,55 +355,10 @@
       "matchEnded": true
     },
     {
-      "id": "c67f530f-198e-4f23-9922-26220049341c",
-      "name": "United Arab Emirates vs Oman, 102nd Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United Arab Emirates won by 54 runs (Match reduced to 47 overs due to rain)",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T00:00:00",
-      "teams": [
-        "United Arab Emirates",
-        "Oman"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 308,
-          "w": 8,
-          "o": 47,
-          "inning": "united arab emirates Inning 1"
-        },
-        {
-          "r": 254,
-          "w": 10,
-          "o": 39.5,
-          "inning": "United Arab Emirates,Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "8b326da3-8ff6-4e64-abe4-cb430d7a6c53",
       "name": "Lucknow Super Giants vs Royal Challengers Bengaluru, 50th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Rain stops play - Royal Challengers Bengaluru opt to bowl",
+      "status": "LSG won by 9 runs (19 Overs game due to rain, DLS Target 213)",
       "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
       "date": "2026-05-07",
       "dateTimeGMT": "2026-05-07T14:00:00",
@@ -553,10 +380,16 @@
       ],
       "score": [
         {
-          "r": 145,
-          "w": 1,
-          "o": 14,
+          "r": 209,
+          "w": 3,
+          "o": 19,
           "inning": "Lucknow Super Giants Inning 1"
+        },
+        {
+          "r": 203,
+          "w": 6,
+          "o": 19,
+          "inning": "Royal Challengers Bengaluru Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -564,7 +397,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "312ba6aa-5e93-4673-bb0c-cb207fdc9e2d",
@@ -702,141 +535,6 @@
       "matchEnded": true
     },
     {
-      "id": "f039998e-28b0-4445-b431-8bbccbbc6f1f",
-      "name": "Gujarat Titans vs Punjab Kings, 46th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Gujarat Titans won by 4 wkts",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T14:00:00",
-      "teams": [
-        "Gujarat Titans",
-        "Punjab Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Punjab Kings",
-          "shortname": "PBKS",
-          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 163,
-          "w": 9,
-          "o": 20,
-          "inning": "Punjab Kings Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 6,
-          "o": 19.5,
-          "inning": "Gujarat Titans Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1153edf6-3ae1-4722-be1e-0256495b49cb",
-      "name": "Sunrisers Hyderabad vs Kolkata Knight Riders, 45th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Kolkata Knight Riders won by 7 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T10:00:00",
-      "teams": [
-        "Sunrisers Hyderabad",
-        "Kolkata Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kolkata Knight Riders",
-          "shortname": "KKR",
-          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
-        },
-        {
-          "name": "Sunrisers Hyderabad",
-          "shortname": "SRH",
-          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 10,
-          "o": 19,
-          "inning": "sunrisers hyderabad Inning 1"
-        },
-        {
-          "r": 169,
-          "w": 3,
-          "o": 18.2,
-          "inning": "Sunrisers Hyderabad,Kolkata Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "285c9084-4060-4684-b8a4-53f834e726e5",
-      "name": "Peshawar Zalmi vs Hyderabad Kingsmen, Final, Pakistan Super League 2026",
-      "matchType": "t20",
-      "status": "Peshawar Zalmi won by 5 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-05-03",
-      "dateTimeGMT": "2026-05-03T14:00:00",
-      "teams": [
-        "Peshawar Zalmi",
-        "Hyderabad Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad Kingsmen",
-          "shortname": "HK",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Peshawar Zalmi",
-          "shortname": "PSZ",
-          "img": "https://g.cricapi.com/iapi/69-637992644554994835.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 10,
-          "o": 18,
-          "inning": "Hyderabad Kingsmen Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 5,
-          "o": 15.2,
-          "inning": "Peshawar Zalmi Inning 1"
-        }
-      ],
-      "series_id": "9aede005-627e-47d9-8cad-088c8f5585d7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
       "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -890,6 +588,14 @@
         "points": 14
       },
       {
+        "team": "Royal Challengers Bengaluru",
+        "played": 10,
+        "won": 6,
+        "lost": 3,
+        "nr": 1,
+        "points": 13
+      },
+      {
         "team": "Punjab Kings",
         "played": 10,
         "won": 6,
@@ -902,14 +608,6 @@
         "played": 10,
         "won": 6,
         "lost": 4,
-        "nr": 0,
-        "points": 12
-      },
-      {
-        "team": "Royal Challengers Bengaluru",
-        "played": 9,
-        "won": 6,
-        "lost": 3,
         "nr": 0,
         "points": 12
       },
@@ -955,11 +653,11 @@
       },
       {
         "team": "Lucknow Super Giants",
-        "played": 9,
+        "played": 10,
         "won": 2,
         "lost": 6,
-        "nr": 1,
-        "points": 5
+        "nr": 2,
+        "points": 6
       }
     ],
     "topBatters": [],
