@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T10:12:27.088Z",
+  "lastUpdated": "2026-05-07T16:09:10.871Z",
   "recentMatches": [
     {
       "id": "28eced31-fc34-43de-a7f9-e1c580c21181",
@@ -260,10 +260,55 @@
       "matchEnded": true
     },
     {
+      "id": "014c4561-373d-44a3-b81c-2a2df04aff04",
+      "name": "Malta vs Gibraltar, 2nd T20I, Gibraltar tour of Malta, 2026",
+      "matchType": "t20",
+      "status": "Malta won by 65 runs",
+      "venue": "Marsa Sports Club, Marsa",
+      "date": "2026-05-07",
+      "dateTimeGMT": "2026-05-07T12:00:00",
+      "teams": [
+        "Malta",
+        "Gibraltar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+        },
+        {
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 227,
+          "w": 8,
+          "o": 20,
+          "inning": "malta Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 6,
+          "o": 20,
+          "inning": "Malta,Gibraltar Inning 1"
+        }
+      ],
+      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "c4bcff13-2091-4911-86c6-8c4844fd4e41",
       "name": "Malta vs Gibraltar, 1st T20I, Gibraltar tour of Malta, 2026",
       "matchType": "t20",
-      "status": "Gibraltar need 105 runs in 42 balls",
+      "status": "Malta won by 50 runs",
       "venue": "Marsa Sports Club, Marsa",
       "date": "2026-05-07",
       "dateTimeGMT": "2026-05-07T07:00:00",
@@ -291,9 +336,9 @@
           "inning": "Malta Inning 1"
         },
         {
-          "r": 127,
-          "w": 2,
-          "o": 13,
+          "r": 181,
+          "w": 7,
+          "o": 20,
           "inning": "Gibraltar Inning 1"
         }
       ],
@@ -302,7 +347,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c7e23e8c-95a1-417d-8ea1-baf0ecb870a1",
@@ -481,6 +526,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "8b326da3-8ff6-4e64-abe4-cb430d7a6c53",
+      "name": "Lucknow Super Giants vs Royal Challengers Bengaluru, 50th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Rain stops play - Royal Challengers Bengaluru opt to bowl",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2026-05-07",
+      "dateTimeGMT": "2026-05-07T14:00:00",
+      "teams": [
+        "Lucknow Super Giants",
+        "Royal Challengers Bengaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lucknow Super Giants",
+          "shortname": "LSG",
+          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+        },
+        {
+          "name": "Royal Challengers Bengaluru",
+          "shortname": "RCBW",
+          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 145,
+          "w": 1,
+          "o": 14,
+          "inning": "Lucknow Super Giants Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "312ba6aa-5e93-4673-bb0c-cb207fdc9e2d",
