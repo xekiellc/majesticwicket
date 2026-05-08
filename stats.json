@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T04:56:54.397Z",
+  "lastUpdated": "2026-05-08T09:03:21.389Z",
   "recentMatches": [
     {
       "id": "28eced31-fc34-43de-a7f9-e1c580c21181",
@@ -89,7 +89,7 @@
       "id": "505f1a6f-e5d8-467d-808f-9a429f989e62",
       "name": "Cook Islands vs South Korea, 3rd Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
-      "status": "Cook Islands opt to bowl",
+      "status": "Cook Islands won by 9 wkts",
       "venue": "Korogi Sports Park, Nisshin",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T05:00:00",
@@ -109,12 +109,26 @@
           "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 47,
+          "w": 10,
+          "o": 16.2,
+          "inning": "South Korea Inning 1"
+        },
+        {
+          "r": 49,
+          "w": 1,
+          "o": 4.4,
+          "inning": "Cook Islands Inning 1"
+        }
+      ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "fe18fce0-c7b2-4c63-8a5b-2cd75d2b792c",
@@ -155,9 +169,9 @@
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -200,9 +214,9 @@
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -210,7 +224,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: 1st Session - Pakistan opt to bowl",
+      "status": "Pakistan opt to bowl",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -232,16 +246,16 @@
       ],
       "score": [
         {
-          "r": 36,
-          "w": 2,
-          "o": 11,
+          "r": 201,
+          "w": 3,
+          "o": 53,
           "inning": "Bangladesh Inning 1"
         }
       ],
       "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
     },
