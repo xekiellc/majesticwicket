@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-05-08T15:28:12.169Z",
+  "lastUpdated": "2026-05-08T21:07:08.105Z",
   "recentMatches": [
+    {
+      "id": "dc52a332-636f-47b1-80b0-c5a8c0be30a7",
+      "name": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026",
+      "matchType": "t20",
+      "status": "Romania opt to bat",
+      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T12:00:00",
+      "teams": [
+        "Romania",
+        "Bulgaria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria",
+          "shortname": "BUL",
+          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
+        },
+        {
+          "name": "Romania",
+          "shortname": "ROM",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "bf3118b0-9ff3-48b1-bf0f-be98f0cbdd7c",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "1873eb52-add6-4484-a7be-fc23b9a4f108",
       "name": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026",
@@ -31,90 +62,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "28eced31-fc34-43de-a7f9-e1c580c21181",
-      "name": "Hong Kong, China Women vs Malaysia Women, 2nd Match, Hong Kong, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China Women won by 31 runs",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-05-07",
-      "dateTimeGMT": "2026-05-07T05:30:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 136,
-          "w": 4,
-          "o": 20,
-          "inning": "hong kong, china women Inning 1"
-        },
-        {
-          "r": 105,
-          "w": 5,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7eb14888-93ec-42d3-8c9b-82e6dd79d1a2",
-      "name": "China Women vs Malaysia Women, 1st Match, Hong Kong, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women won by 26 runs",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-05-07",
-      "dateTimeGMT": "2026-05-07T01:00:00",
-      "teams": [
-        "China Women",
-        "Malaysia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 91,
-          "w": 8,
-          "o": 20,
-          "inning": "Malaysia Women Inning 1"
-        },
-        {
-          "r": 65,
-          "w": 10,
-          "o": 17.1,
-          "inning": "China Women Inning 1"
-        }
-      ],
-      "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     },
     {
       "id": "505f1a6f-e5d8-467d-808f-9a429f989e62",
@@ -252,6 +199,51 @@
       "matchEnded": true
     },
     {
+      "id": "54e9544a-24cc-4336-9ad8-7f7a436b95fc",
+      "name": "Cyprus vs Finland, 2nd T20I, Finland tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Finland won by 7 wkts",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T12:30:00",
+      "teams": [
+        "Cyprus",
+        "Finland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        },
+        {
+          "name": "Finland",
+          "shortname": "FIN",
+          "img": "https://g.cricapi.com/iapi/604-637871098066577941.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 112,
+          "w": 7,
+          "o": 20,
+          "inning": "cyprus Inning 1"
+        },
+        {
+          "r": 113,
+          "w": 3,
+          "o": 15,
+          "inning": "Cyprus,Finland Inning 1"
+        }
+      ],
+      "series_id": "9c6f171d-1028-48ee-bf28-ccd3f5f1ac2c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "4d79090f-79ac-4e7d-a522-5c39bce4104b",
       "name": "Cyprus vs Finland, 1st T20I, Finland tour of Cyprus, 2026",
       "matchType": "t20",
@@ -290,9 +282,9 @@
         }
       ],
       "series_id": "9c6f171d-1028-48ee-bf28-ccd3f5f1ac2c",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -381,47 +373,47 @@
       "matchEnded": true
     },
     {
-      "id": "4f63d2a4-f224-44cb-9aeb-11e83f7ce5bc",
-      "name": "Malaysia vs Indonesia, 3rd T20I, Indonesia tour of Malaysia, 2026",
+      "id": "10761434-d619-4205-8683-bc6b5cfce2d2",
+      "name": "Malta vs Gibraltar, 4th T20I, Gibraltar tour of Malta, 2026",
       "matchType": "t20",
-      "status": "Malaysia won by 104 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-04",
-      "dateTimeGMT": "2026-05-04T01:30:00",
+      "status": "Malta won by 49 runs",
+      "venue": "Marsa Sports Club, Marsa",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T12:00:00",
       "teams": [
-        "Malaysia",
-        "Indonesia"
+        "Malta",
+        "Gibraltar"
       ],
       "teamInfo": [
         {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
         },
         {
-          "name": "Malaysia",
-          "shortname": "MAL",
-          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 186,
-          "w": 5,
-          "o": 20,
-          "inning": "malaysia Inning 1"
-        },
-        {
-          "r": 82,
+          "r": 197,
           "w": 6,
           "o": 20,
-          "inning": "Malaysia,Indonesia Inning 1"
+          "inning": "malta Inning 1"
+        },
+        {
+          "r": 148,
+          "w": 7,
+          "o": 20,
+          "inning": "Malta,Gibraltar Inning 1"
         }
       ],
-      "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
-      "fantasyEnabled": true,
+      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -653,7 +645,7 @@
       "id": "90d5c075-3c9a-40b7-ab45-80a36a3a2351",
       "name": "Delhi Capitals vs Kolkata Knight Riders, 51st Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Kolkata Knight Riders opt to bowl",
+      "status": "Kolkata Knight Riders won by 8 wkts",
       "venue": "Arun Jaitley Stadium, Delhi",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T14:00:00",
@@ -675,10 +667,16 @@
       ],
       "score": [
         {
-          "r": 123,
-          "w": 5,
-          "o": 17.3,
+          "r": 142,
+          "w": 8,
+          "o": 20,
           "inning": "Delhi Capitals Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 2,
+          "o": 14.2,
+          "inning": "Kolkata Knight Riders Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -686,7 +684,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8b326da3-8ff6-4e64-abe4-cb430d7a6c53",
@@ -824,55 +822,10 @@
       "matchEnded": true
     },
     {
-      "id": "ed18f7e9-d348-4ace-bfcd-9639096c6808",
-      "name": "Mumbai Indians vs Lucknow Super Giants, 47th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Mumbai Indians won by 6 wkts",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2026-05-04",
-      "dateTimeGMT": "2026-05-04T14:00:00",
-      "teams": [
-        "Mumbai Indians",
-        "Lucknow Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lucknow Super Giants",
-          "shortname": "LSG",
-          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
-        },
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 228,
-          "w": 5,
-          "o": 20,
-          "inning": "Lucknow Super Giants Inning 1"
-        },
-        {
-          "r": 229,
-          "w": 4,
-          "o": 18.4,
-          "inning": "Mumbai Indians Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "8b5d39f1-4ce1-46f9-95bc-390658c2e6af",
       "name": "Lancashire vs Middlesex, 20th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Middlesex opt to bowl",
+      "status": "Day 1: Stumps - Middlesex trail by 163 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T10:00:00",
@@ -894,10 +847,16 @@
       ],
       "score": [
         {
-          "r": 172,
-          "w": 7,
-          "o": 60.1,
+          "r": 201,
+          "w": 10,
+          "o": 67.2,
           "inning": "Lancashire Inning 1"
+        },
+        {
+          "r": 38,
+          "w": 2,
+          "o": 9,
+          "inning": "Middlesex Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -911,7 +870,7 @@
       "id": "1d7dfce2-4ac4-4741-a5be-e280a6f53914",
       "name": "Worcestershire vs Durham, 19th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Durham opt to bowl",
+      "status": "Day 1: Stumps - Durham opt to bowl",
       "venue": "New Road, Worcester",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T10:00:00",
@@ -933,9 +892,9 @@
       ],
       "score": [
         {
-          "r": 149,
-          "w": 4,
-          "o": 44.4,
+          "r": 209,
+          "w": 7,
+          "o": 66,
           "inning": "Worcestershire Inning 1"
         }
       ],
@@ -950,7 +909,7 @@
       "id": "9fcfdfe3-c2c2-49e3-9ada-77c30c18fd0b",
       "name": "Gloucestershire vs Kent, 18th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Kent opt to bowl",
+      "status": "Day 1: Stumps - Kent trail by 324 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T10:00:00",
@@ -972,10 +931,16 @@
       ],
       "score": [
         {
-          "r": 215,
-          "w": 4,
-          "o": 64,
+          "r": 325,
+          "w": 10,
+          "o": 91.1,
           "inning": "Gloucestershire Inning 1"
+        },
+        {
+          "r": 1,
+          "w": 0,
+          "o": 2,
+          "inning": "Kent Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -989,7 +954,7 @@
       "id": "1646b6e0-9eef-4fd2-b493-abd00fdae2c3",
       "name": "Derbyshire vs Northamptonshire, 17th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Derbyshire opt to bat",
+      "status": "Day 1: Stumps - Derbyshire opt to bat",
       "venue": "County Ground, Derby",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T10:00:00",
@@ -1011,9 +976,9 @@
       ],
       "score": [
         {
-          "r": 230,
-          "w": 2,
-          "o": 64,
+          "r": 342,
+          "w": 3,
+          "o": 92,
           "inning": "derbyshire Inning 1"
         }
       ],
@@ -1028,7 +993,7 @@
       "id": "444167b7-0dee-4cfe-a498-54ae448c24ee",
       "name": "Sussex vs Leicestershire, 25th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Sussex opt to bowl",
+      "status": "Day 1: Stumps - Sussex trail by 325 runs",
       "venue": "County Ground, Hove",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T10:00:00",
@@ -1050,10 +1015,55 @@
       ],
       "score": [
         {
-          "r": 210,
-          "w": 7,
-          "o": 62,
+          "r": 328,
+          "w": 10,
+          "o": 88.4,
           "inning": "Leicestershire Inning 1"
+        },
+        {
+          "r": 3,
+          "w": 0,
+          "o": 5,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "016e4aed-abfc-4822-8298-ea983e86bf1d",
+      "name": "Glamorgan vs Somerset, 24th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Glamorgan opt to bowl",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T10:00:00",
+      "teams": [
+        "Glamorgan",
+        "Somerset"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 337,
+          "w": 9,
+          "o": 96,
+          "inning": "Somerset Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -1119,10 +1129,18 @@
       },
       {
         "team": "Delhi Capitals",
-        "played": 10,
+        "played": 11,
         "won": 4,
-        "lost": 6,
+        "lost": 7,
         "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "played": 10,
+        "won": 3,
+        "lost": 5,
+        "nr": 2,
         "points": 8
       },
       {
@@ -1131,14 +1149,6 @@
         "won": 3,
         "lost": 7,
         "nr": 0,
-        "points": 6
-      },
-      {
-        "team": "Kolkata Knight Riders",
-        "played": 9,
-        "won": 2,
-        "lost": 5,
-        "nr": 2,
         "points": 6
       },
       {
