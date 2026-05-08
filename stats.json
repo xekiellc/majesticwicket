@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T21:08:18.532Z",
+  "lastUpdated": "2026-05-08T04:56:54.397Z",
   "recentMatches": [
     {
       "id": "28eced31-fc34-43de-a7f9-e1c580c21181",
@@ -84,6 +84,166 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "505f1a6f-e5d8-467d-808f-9a429f989e62",
+      "name": "Cook Islands vs South Korea, 3rd Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Cook Islands opt to bowl",
+      "venue": "Korogi Sports Park, Nisshin",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T05:00:00",
+      "teams": [
+        "Cook Islands",
+        "South Korea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "South Korea",
+          "shortname": "SKO",
+          "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "fe18fce0-c7b2-4c63-8a5b-2cd75d2b792c",
+      "name": "Fiji vs Vanuatu, 2nd Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Vanuatu won by 121 runs",
+      "venue": "Korogi Sports Park, Nisshin",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T00:30:00",
+      "teams": [
+        "Fiji",
+        "Vanuatu"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji",
+          "shortname": "FIJ",
+          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 169,
+          "w": 4,
+          "o": 20,
+          "inning": "vanuatu Inning 1"
+        },
+        {
+          "r": 48,
+          "w": 10,
+          "o": 14.4,
+          "inning": "Fiji,Vanuatu Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dc1483c8-44e2-46b4-a498-e998317d482f",
+      "name": "Philippines vs Indonesia, 1st Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Indonesia won by 11 runs",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T00:30:00",
+      "teams": [
+        "Philippines",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Philippines",
+          "shortname": "PHL",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 132,
+          "w": 9,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 6,
+          "o": 20,
+          "inning": "Philippines Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
+      "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
+      "matchType": "test",
+      "status": "Day 1: 1st Session - Pakistan opt to bowl",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T03:30:00",
+      "teams": [
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 36,
+          "w": 2,
+          "o": 11,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "a95f5561-b483-46b9-9899-30ec8f8ab4d7",
