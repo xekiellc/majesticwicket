@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-08T21:07:08.105Z",
+  "lastUpdated": "2026-05-09T05:26:34.615Z",
   "recentMatches": [
     {
       "id": "dc52a332-636f-47b1-80b0-c5a8c0be30a7",
       "name": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026",
       "matchType": "t20",
-      "status": "Romania opt to bat",
+      "status": "Romania won by 31 runs",
       "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T12:00:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 164,
+          "w": 10,
+          "o": 19.2,
+          "inning": "romania Inning 1"
+        },
+        {
+          "r": 133,
+          "w": 6,
+          "o": 20,
+          "inning": "Romania,Bulgaria Inning 1"
+        }
+      ],
       "series_id": "bf3118b0-9ff3-48b1-bf0f-be98f0cbdd7c",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1873eb52-add6-4484-a7be-fc23b9a4f108",
@@ -62,6 +76,135 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "777b326e-ed02-419f-ae18-870d27f65d5b",
+      "name": "South Korea vs Papua New Guinea, 6th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Papua New Guinea opt to bat",
+      "venue": "Korogi Sports Park, Nisshin",
+      "date": "2026-05-09",
+      "dateTimeGMT": "2026-05-09T05:00:00",
+      "teams": [
+        "South Korea",
+        "Papua New Guinea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        },
+        {
+          "name": "South Korea",
+          "shortname": "SKO",
+          "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 43,
+          "w": 0,
+          "o": 4.4,
+          "inning": "papua new guinea Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1f1c6b80-0949-451d-9030-d4db613f9f21",
+      "name": "Japan vs Vanuatu, 5th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Japan won by 30 runs",
+      "venue": "Korogi Sports Park, Nisshin",
+      "date": "2026-05-09",
+      "dateTimeGMT": "2026-05-09T00:30:00",
+      "teams": [
+        "Japan",
+        "Vanuatu"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 123,
+          "w": 10,
+          "o": 19.4,
+          "inning": "japan Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 6,
+          "o": 20,
+          "inning": "Japan,Vanuatu Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fe6f7ef3-a765-455d-bc22-746d09f1c56e",
+      "name": "Indonesia vs Samoa, 4th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Samoa won by 9 wkts",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-09",
+      "dateTimeGMT": "2026-05-09T00:30:00",
+      "teams": [
+        "Indonesia",
+        "Samoa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 92,
+          "w": 8,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 1,
+          "o": 9.2,
+          "inning": "Samoa Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "505f1a6f-e5d8-467d-808f-9a429f989e62",
@@ -292,7 +435,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Pakistan opt to bowl",
+      "status": "Day 2: 1st Session - Pakistan opt to bowl",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -314,9 +457,9 @@
       ],
       "score": [
         {
-          "r": 301,
-          "w": 4,
-          "o": 85,
+          "r": 358,
+          "w": 6,
+          "o": 101.3,
           "inning": "Bangladesh Inning 1"
         }
       ],
@@ -944,129 +1087,6 @@
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "1646b6e0-9eef-4fd2-b493-abd00fdae2c3",
-      "name": "Derbyshire vs Northamptonshire, 17th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Derbyshire opt to bat",
-      "venue": "County Ground, Derby",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T10:00:00",
-      "teams": [
-        "Derbyshire",
-        "Northamptonshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 342,
-          "w": 3,
-          "o": 92,
-          "inning": "derbyshire Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "444167b7-0dee-4cfe-a498-54ae448c24ee",
-      "name": "Sussex vs Leicestershire, 25th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Sussex trail by 325 runs",
-      "venue": "County Ground, Hove",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T10:00:00",
-      "teams": [
-        "Sussex",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 328,
-          "w": 10,
-          "o": 88.4,
-          "inning": "Leicestershire Inning 1"
-        },
-        {
-          "r": 3,
-          "w": 0,
-          "o": 5,
-          "inning": "Sussex Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "016e4aed-abfc-4822-8298-ea983e86bf1d",
-      "name": "Glamorgan vs Somerset, 24th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Glamorgan opt to bowl",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T10:00:00",
-      "teams": [
-        "Glamorgan",
-        "Somerset"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 337,
-          "w": 9,
-          "o": 96,
-          "inning": "Somerset Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
