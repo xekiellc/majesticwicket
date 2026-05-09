@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T05:26:34.615Z",
+  "lastUpdated": "2026-05-09T09:05:36.045Z",
   "recentMatches": [
     {
       "id": "dc52a332-636f-47b1-80b0-c5a8c0be30a7",
@@ -81,7 +81,7 @@
       "id": "777b326e-ed02-419f-ae18-870d27f65d5b",
       "name": "South Korea vs Papua New Guinea, 6th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
-      "status": "Papua New Guinea opt to bat",
+      "status": "Papua New Guinea won by 136 runs",
       "venue": "Korogi Sports Park, Nisshin",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T05:00:00",
@@ -103,10 +103,16 @@
       ],
       "score": [
         {
-          "r": 43,
-          "w": 0,
-          "o": 4.4,
+          "r": 197,
+          "w": 3,
+          "o": 20,
           "inning": "papua new guinea Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 10,
+          "o": 19.4,
+          "inning": "South Korea,Papua New Guinea Inning 1"
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
@@ -114,7 +120,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1f1c6b80-0949-451d-9030-d4db613f9f21",
@@ -435,7 +441,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 2: 1st Session - Pakistan opt to bowl",
+      "status": "Day 2: Tea Break - Pakistan trail by 363 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -457,10 +463,16 @@
       ],
       "score": [
         {
-          "r": 358,
-          "w": 6,
-          "o": 101.3,
+          "r": 413,
+          "w": 10,
+          "o": 117.1,
           "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 50,
+          "w": 0,
+          "o": 10,
+          "inning": "Pakistan Inning 1"
         }
       ],
       "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
