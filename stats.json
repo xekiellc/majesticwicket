@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T14:58:12.397Z",
+  "lastUpdated": "2026-05-09T20:51:27.578Z",
   "recentMatches": [
     {
       "id": "7232ab90-7de0-4ec0-a34f-13c33bf215a1",
@@ -413,7 +413,7 @@
       "id": "14156528-f38e-40f4-bc79-c8842717ed07",
       "name": "Cyprus vs Finland, 4th T20I, Finland tour of Cyprus, 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Finland won by 38 runs",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T12:30:00",
@@ -439,6 +439,12 @@
           "w": 7,
           "o": 20,
           "inning": "finland Inning 1"
+        },
+        {
+          "r": 129,
+          "w": 9,
+          "o": 20,
+          "inning": "Cyprus,Finland Inning 1"
         }
       ],
       "series_id": "9c6f171d-1028-48ee-bf28-ccd3f5f1ac2c",
@@ -446,7 +452,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4712f29f-7c65-40b3-aed2-dcc58e017649",
@@ -629,47 +635,47 @@
       "matchEnded": false
     },
     {
-      "id": "a95f5561-b483-46b9-9899-30ec8f8ab4d7",
-      "name": "Malaysia vs Indonesia, 4th T20I, Indonesia tour of Malaysia, 2026",
+      "id": "4305fdfc-bb98-4f95-99b7-8a11f21a44d3",
+      "name": "Malta vs Gibraltar, 6th T20I, Gibraltar tour of Malta, 2026",
       "matchType": "t20",
-      "status": "Malaysia won by 5 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-05",
-      "dateTimeGMT": "2026-05-05T01:30:00",
+      "status": "Match tied (Gibraltar won the Super Over)",
+      "venue": "Marsa Sports Club, Marsa",
+      "date": "2026-05-09",
+      "dateTimeGMT": "2026-05-09T12:00:00",
       "teams": [
-        "Malaysia",
-        "Indonesia"
+        "Malta",
+        "Gibraltar"
       ],
       "teamInfo": [
         {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
         },
         {
-          "name": "Malaysia",
-          "shortname": "MAL",
-          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 73,
+          "r": 165,
           "w": 9,
           "o": 20,
-          "inning": "indonesia Inning 1"
+          "inning": "malta Inning 1"
         },
         {
-          "r": 74,
-          "w": 5,
-          "o": 15.1,
-          "inning": "Malaysia,Indonesia Inning 1"
+          "r": 165,
+          "w": 4,
+          "o": 20,
+          "inning": "Malta,Gibraltar Inning 1"
         }
       ],
-      "series_id": "d600412c-66dd-4bb0-a32d-daf327a381de",
-      "fantasyEnabled": true,
+      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -677,7 +683,7 @@
       "id": "a04e3762-ec6f-4ef8-ab7b-cf6bb7c69f8e",
       "name": "Malta vs Gibraltar, 5th T20I, Gibraltar tour of Malta, 2026",
       "matchType": "t20",
-      "status": "Gibraltar opt to bat",
+      "status": "Malta won by 7 wkts",
       "venue": "Marsa Sports Club, Marsa",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T07:00:00",
@@ -697,13 +703,26 @@
           "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 143,
+          "w": 7,
+          "o": 20,
+          "inning": "gibraltar Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 3,
+          "o": 17.2,
+          "inning": "Malta,Gibraltar Inning 1"
+        }
+      ],
       "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "10761434-d619-4205-8683-bc6b5cfce2d2",
@@ -888,7 +907,7 @@
     {
       "id": "d705a86d-cf09-4ef5-8398-b57199b43b2a",
       "name": "Pakistan Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of Pakistan 2026",
-      "status": "Pakistan Women need 162 runs",
+      "status": "Pakistan Women won by 9 wkts",
       "venue": "National Stadium, Karachi",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T10:30:00",
@@ -916,9 +935,9 @@
           "inning": "zimbabwe women Inning 1"
         },
         {
-          "r": 61,
-          "w": 0,
-          "o": 6.3,
+          "r": 225,
+          "w": 1,
+          "o": 31.5,
           "inning": "Pakistan Women,Zimbabwe Women Inning 1"
         }
       ],
@@ -927,7 +946,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c7e23e8c-95a1-417d-8ea1-baf0ecb870a1",
@@ -974,55 +993,10 @@
       "matchEnded": true
     },
     {
-      "id": "1e13031a-3091-4958-a92c-2eea628456d8",
-      "name": "Nepal vs Oman, 103rd Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 81 runs",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-05",
-      "dateTimeGMT": "2026-05-05T00:00:00",
-      "teams": [
-        "Nepal",
-        "Oman"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 256,
-          "w": 10,
-          "o": 49.5,
-          "inning": "nepal Inning 1"
-        },
-        {
-          "r": 175,
-          "w": 10,
-          "o": 39.5,
-          "inning": "Nepal,Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "6ffec712-6562-490c-a4fa-ae4b6ae59188",
       "name": "Rajasthan Royals vs Gujarat Titans, 52nd Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Rajasthan Royals opt to bowl",
+      "status": "Gujarat Titans won by 77 runs",
       "venue": "Sawai Mansingh Stadium, Jaipur",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T14:00:00",
@@ -1044,10 +1018,16 @@
       ],
       "score": [
         {
-          "r": 118,
-          "w": 0,
-          "o": 10.4,
+          "r": 229,
+          "w": 4,
+          "o": 20,
           "inning": "Gujarat Titans Inning 1"
+        },
+        {
+          "r": 152,
+          "w": 10,
+          "o": 16.3,
+          "inning": "Rajasthan Royals Inning 1"
         }
       ],
       "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
@@ -1055,7 +1035,52 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "90d5c075-3c9a-40b7-ab45-80a36a3a2351",
+      "name": "Delhi Capitals vs Kolkata Knight Riders, 51st Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Kolkata Knight Riders won by 8 wkts",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "date": "2026-05-08",
+      "dateTimeGMT": "2026-05-08T14:00:00",
+      "teams": [
+        "Delhi Capitals",
+        "Kolkata Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Delhi Capitals",
+          "shortname": "DC",
+          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+        },
+        {
+          "name": "Kolkata Knight Riders",
+          "shortname": "KKR",
+          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 8,
+          "o": 20,
+          "inning": "Delhi Capitals Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 2,
+          "o": 14.2,
+          "inning": "Kolkata Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1065,6 +1090,14 @@
     "standings": [
       {
         "team": "Sunrisers Hyderabad",
+        "played": 11,
+        "won": 7,
+        "lost": 4,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Gujarat Titans",
         "played": 11,
         "won": 7,
         "lost": 4,
@@ -1089,17 +1122,9 @@
       },
       {
         "team": "Rajasthan Royals",
-        "played": 10,
+        "played": 11,
         "won": 6,
-        "lost": 4,
-        "nr": 0,
-        "points": 12
-      },
-      {
-        "team": "Gujarat Titans",
-        "played": 10,
-        "won": 6,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 12
       },
