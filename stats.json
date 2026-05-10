@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T05:41:56.867Z",
+  "lastUpdated": "2026-05-10T09:19:48.371Z",
   "recentMatches": [
     {
       "id": "7232ab90-7de0-4ec0-a34f-13c33bf215a1",
@@ -166,6 +166,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "42a0e563-4161-4564-a2eb-abeb929a1dfd",
+      "name": "Papua New Guinea vs Cook Islands, 9th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Papua New Guinea won by 49 runs",
+      "venue": "Korogi Sports Park, Nisshin",
+      "date": "2026-05-10",
+      "dateTimeGMT": "2026-05-10T05:00:00",
+      "teams": [
+        "Papua New Guinea",
+        "Cook Islands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 204,
+          "w": 5,
+          "o": 20,
+          "inning": "papua new guinea Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 6,
+          "o": 20,
+          "inning": "Papua New Guinea,Cook Islands Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "0cb72e15-9978-48f1-9523-fefeb443eda0",
@@ -711,7 +756,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 3: 1st Session - Pakistan trail by 176 runs",
+      "status": "Day 3: Rain stops play - Pakistan trail by 64 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -739,9 +784,9 @@
           "inning": "Bangladesh Inning 1"
         },
         {
-          "r": 237,
-          "w": 5,
-          "o": 65,
+          "r": 349,
+          "w": 6,
+          "o": 89.4,
           "inning": "Pakistan Inning 1"
         }
       ],
@@ -1056,50 +1101,6 @@
           "r": 225,
           "w": 1,
           "o": 31.5,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c7e23e8c-95a1-417d-8ea1-baf0ecb870a1",
-      "name": "Pakistan Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of Pakistan 2026",
-      "status": "Pakistan Women won by 206 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-06",
-      "dateTimeGMT": "2026-05-06T10:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 343,
-          "w": 4,
-          "o": 50,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 39,
           "inning": "Pakistan Women,Zimbabwe Women Inning 1"
         }
       ],
