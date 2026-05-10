@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-09T20:51:27.578Z",
+  "lastUpdated": "2026-05-10T05:41:56.867Z",
   "recentMatches": [
     {
       "id": "7232ab90-7de0-4ec0-a34f-13c33bf215a1",
       "name": "Romania vs Bulgaria, 3rd T20I, Bulgaria tour of Romania 2026",
       "matchType": "t20",
-      "status": "Romania opt to bat",
+      "status": "Romania won by 17 runs (DLS method)   - Revised due to rain",
       "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T11:00:00",
@@ -25,18 +25,32 @@
           "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 198,
+          "w": 3,
+          "o": 17,
+          "inning": "romania Inning 1"
+        },
+        {
+          "r": 58,
+          "w": 3,
+          "o": 5,
+          "inning": "Romania,Bulgaria Inning 1"
+        }
+      ],
       "series_id": "bf3118b0-9ff3-48b1-bf0f-be98f0cbdd7c",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3d73a92a-ccd2-4f3f-9d48-8b5afd7541b1",
       "name": "Romania vs Bulgaria, 2nd T20I, Bulgaria tour of Romania 2026",
       "matchType": "t20",
-      "status": "Romania opt to bat",
+      "status": "Romania won by 38 runs",
       "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T07:00:00",
@@ -56,12 +70,26 @@
           "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 191,
+          "w": 3,
+          "o": 15,
+          "inning": "romania Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 4,
+          "o": 15,
+          "inning": "Romania,Bulgaria Inning 1"
+        }
+      ],
       "series_id": "bf3118b0-9ff3-48b1-bf0f-be98f0cbdd7c",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "dc52a332-636f-47b1-80b0-c5a8c0be30a7",
@@ -138,6 +166,96 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "0cb72e15-9978-48f1-9523-fefeb443eda0",
+      "name": "Japan vs Fiji, 8th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Japan won by 8 wkts",
+      "venue": "Korogi Sports Park, Nisshin",
+      "date": "2026-05-10",
+      "dateTimeGMT": "2026-05-10T00:30:00",
+      "teams": [
+        "Japan",
+        "Fiji"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji",
+          "shortname": "FIJ",
+          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
+        },
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 74,
+          "w": 10,
+          "o": 19.4,
+          "inning": "fiji Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 2,
+          "o": 7.1,
+          "inning": "Japan,Fiji Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cc487741-ece2-4c46-aca8-7a2896c66095",
+      "name": "Samoa vs Philippines, 7th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Samoa won by 96 runs",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-10",
+      "dateTimeGMT": "2026-05-10T00:30:00",
+      "teams": [
+        "Samoa",
+        "Philippines"
+      ],
+      "teamInfo": [
+        {
+          "name": "Philippines",
+          "shortname": "PHL",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 7,
+          "o": 20,
+          "inning": "samoa Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 10,
+          "o": 14.4,
+          "inning": "Samoa,Philippines Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "777b326e-ed02-419f-ae18-870d27f65d5b",
@@ -593,7 +711,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - Pakistan trail by 234 runs",
+      "status": "Day 3: 1st Session - Pakistan trail by 176 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -621,9 +739,9 @@
           "inning": "Bangladesh Inning 1"
         },
         {
-          "r": 179,
-          "w": 1,
-          "o": 46,
+          "r": 237,
+          "w": 5,
+          "o": 65,
           "inning": "Pakistan Inning 1"
         }
       ],
@@ -986,96 +1104,6 @@
         }
       ],
       "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6ffec712-6562-490c-a4fa-ae4b6ae59188",
-      "name": "Rajasthan Royals vs Gujarat Titans, 52nd Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Gujarat Titans won by 77 runs",
-      "venue": "Sawai Mansingh Stadium, Jaipur",
-      "date": "2026-05-09",
-      "dateTimeGMT": "2026-05-09T14:00:00",
-      "teams": [
-        "Rajasthan Royals",
-        "Gujarat Titans"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Rajasthan Royals",
-          "shortname": "RR",
-          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 229,
-          "w": 4,
-          "o": 20,
-          "inning": "Gujarat Titans Inning 1"
-        },
-        {
-          "r": 152,
-          "w": 10,
-          "o": 16.3,
-          "inning": "Rajasthan Royals Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "90d5c075-3c9a-40b7-ab45-80a36a3a2351",
-      "name": "Delhi Capitals vs Kolkata Knight Riders, 51st Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Kolkata Knight Riders won by 8 wkts",
-      "venue": "Arun Jaitley Stadium, Delhi",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T14:00:00",
-      "teams": [
-        "Delhi Capitals",
-        "Kolkata Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Delhi Capitals",
-          "shortname": "DC",
-          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
-        },
-        {
-          "name": "Kolkata Knight Riders",
-          "shortname": "KKR",
-          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 8,
-          "o": 20,
-          "inning": "Delhi Capitals Inning 1"
-        },
-        {
-          "r": 147,
-          "w": 2,
-          "o": 14.2,
-          "inning": "Kolkata Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
