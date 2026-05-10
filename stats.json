@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T14:59:29.402Z",
+  "lastUpdated": "2026-05-10T20:54:13.127Z",
   "recentMatches": [
     {
       "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
@@ -604,6 +604,99 @@
       "matchEnded": true
     },
     {
+      "id": "90151062-76a4-4d05-bd4f-c25bdb81acbb",
+      "name": "Greece Women vs Denmark Women, 4th T20I, Denmark Women tour of Greece, 2026",
+      "matchType": "t20",
+      "status": "Greece Women opt to bat",
+      "venue": "Marina Ground, Corfu",
+      "date": "2026-05-10",
+      "dateTimeGMT": "2026-05-10T12:00:00",
+      "teams": [
+        "Greece Women",
+        "Denmark Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d879b0f2-7fed-4073-8bf3-7589f1c34aea",
+      "name": "Greece Women vs Denmark Women, 3rd T20I, Denmark Women tour of Greece, 2026",
+      "matchType": "t20",
+      "status": "Greece Women opt to bat",
+      "venue": "Marina Ground, Corfu",
+      "date": "2026-05-10",
+      "dateTimeGMT": "2026-05-10T08:00:00",
+      "teams": [
+        "Greece Women",
+        "Denmark Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "02bf3bbd-04a3-4eb1-bce8-0011c8248fd0",
+      "name": "Greece Women vs Denmark Women, 2nd T20I, Denmark Women tour of Greece, 2026",
+      "matchType": "t20",
+      "status": "Denmark Women opt to bat",
+      "venue": "Marina Ground, Corfu",
+      "date": "2026-05-09",
+      "dateTimeGMT": "2026-05-09T12:00:00",
+      "teams": [
+        "Greece Women",
+        "Denmark Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "14156528-f38e-40f4-bc79-c8842717ed07",
       "name": "Cyprus vs Finland, 4th T20I, Finland tour of Cyprus, 2026",
       "matchType": "t20",
@@ -784,6 +877,37 @@
       "matchEnded": true
     },
     {
+      "id": "88d7e367-9913-4e6f-864d-3a957adc6381",
+      "name": "Greece Women vs Denmark Women, 1st T20I, Denmark Women tour of Greece, 2026",
+      "matchType": "t20",
+      "status": "Greece Women opt to bat",
+      "venue": "Marina Ground, Corfu",
+      "date": "2026-05-09",
+      "dateTimeGMT": "2026-05-09T08:00:00",
+      "teams": [
+        "Greece Women",
+        "Denmark Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Greece Women",
+          "shortname": "GW",
+          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
+        }
+      ],
+      "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
@@ -923,186 +1047,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "10761434-d619-4205-8683-bc6b5cfce2d2",
-      "name": "Malta vs Gibraltar, 4th T20I, Gibraltar tour of Malta, 2026",
-      "matchType": "t20",
-      "status": "Malta won by 49 runs",
-      "venue": "Marsa Sports Club, Marsa",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T12:00:00",
-      "teams": [
-        "Malta",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 197,
-          "w": 6,
-          "o": 20,
-          "inning": "malta Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 7,
-          "o": 20,
-          "inning": "Malta,Gibraltar Inning 1"
-        }
-      ],
-      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bf5b6455-899f-416f-80c4-314f883cec3f",
-      "name": "Malta vs Gibraltar, 3rd T20I, Gibraltar tour of Malta, 2026",
-      "matchType": "t20",
-      "status": "Malta won by 7 wkts",
-      "venue": "Marsa Sports Club, Marsa",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T07:00:00",
-      "teams": [
-        "Malta",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 144,
-          "w": 5,
-          "o": 20,
-          "inning": "gibraltar Inning 1"
-        },
-        {
-          "r": 145,
-          "w": 3,
-          "o": 13,
-          "inning": "Malta,Gibraltar Inning 1"
-        }
-      ],
-      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "014c4561-373d-44a3-b81c-2a2df04aff04",
-      "name": "Malta vs Gibraltar, 2nd T20I, Gibraltar tour of Malta, 2026",
-      "matchType": "t20",
-      "status": "Malta won by 65 runs",
-      "venue": "Marsa Sports Club, Marsa",
-      "date": "2026-05-07",
-      "dateTimeGMT": "2026-05-07T12:00:00",
-      "teams": [
-        "Malta",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 227,
-          "w": 8,
-          "o": 20,
-          "inning": "malta Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 6,
-          "o": 20,
-          "inning": "Malta,Gibraltar Inning 1"
-        }
-      ],
-      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c4bcff13-2091-4911-86c6-8c4844fd4e41",
-      "name": "Malta vs Gibraltar, 1st T20I, Gibraltar tour of Malta, 2026",
-      "matchType": "t20",
-      "status": "Malta won by 50 runs",
-      "venue": "Marsa Sports Club, Marsa",
-      "date": "2026-05-07",
-      "dateTimeGMT": "2026-05-07T07:00:00",
-      "teams": [
-        "Malta",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 231,
-          "w": 4,
-          "o": 20,
-          "inning": "Malta Inning 1"
-        },
-        {
-          "r": 181,
-          "w": 7,
-          "o": 20,
-          "inning": "Gibraltar Inning 1"
-        }
-      ],
-      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1110,6 +1054,14 @@
     "startDate": "2026-03-28",
     "endDate": "May 31",
     "standings": [
+      {
+        "team": "Royal Challengers Bengaluru",
+        "played": 11,
+        "won": 7,
+        "lost": 3,
+        "nr": 1,
+        "points": 15
+      },
       {
         "team": "Sunrisers Hyderabad",
         "played": 11,
@@ -1125,14 +1077,6 @@
         "lost": 4,
         "nr": 0,
         "points": 14
-      },
-      {
-        "team": "Royal Challengers Bengaluru",
-        "played": 10,
-        "won": 6,
-        "lost": 3,
-        "nr": 1,
-        "points": 13
       },
       {
         "team": "Punjab Kings",
@@ -1176,9 +1120,9 @@
       },
       {
         "team": "Mumbai Indians",
-        "played": 10,
+        "played": 11,
         "won": 3,
-        "lost": 7,
+        "lost": 8,
         "nr": 0,
         "points": 6
       },
