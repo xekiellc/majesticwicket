@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T16:35:41.232Z",
+  "lastUpdated": "2026-05-11T21:21:40.072Z",
   "recentMatches": [
     {
       "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
@@ -1108,9 +1108,9 @@
       },
       {
         "team": "Punjab Kings",
-        "played": 10,
+        "played": 11,
         "won": 6,
-        "lost": 3,
+        "lost": 4,
         "nr": 1,
         "points": 13
       },
@@ -1132,11 +1132,11 @@
       },
       {
         "team": "Delhi Capitals",
-        "played": 11,
-        "won": 4,
+        "played": 12,
+        "won": 5,
         "lost": 7,
         "nr": 0,
-        "points": 8
+        "points": 10
       },
       {
         "team": "Kolkata Knight Riders",
