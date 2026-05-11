@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-11T10:51:22.616Z",
+  "lastUpdated": "2026-05-11T16:35:41.232Z",
   "recentMatches": [
     {
       "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
       "name": "Romania vs Bulgaria, 5th T20I, Bulgaria tour of Romania 2026",
       "matchType": "t20",
-      "status": "Romania opt to bat",
+      "status": "Romania won by 30 runs",
       "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
       "date": "2026-05-10",
       "dateTimeGMT": "2026-05-10T10:00:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 154,
+          "w": 9,
+          "o": 20,
+          "inning": "romania Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 9,
+          "o": 20,
+          "inning": "Romania,Bulgaria Inning 1"
+        }
+      ],
       "series_id": "bf3118b0-9ff3-48b1-bf0f-be98f0cbdd7c",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7232ab90-7de0-4ec0-a34f-13c33bf215a1",
@@ -880,7 +894,7 @@
       "id": "88d7e367-9913-4e6f-864d-3a957adc6381",
       "name": "Greece Women vs Denmark Women, 1st T20I, Denmark Women tour of Greece, 2026",
       "matchType": "t20",
-      "status": "Greece Women opt to bat",
+      "status": "Greece Women won by 3 runs",
       "venue": "Marina Ground, Corfu",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T08:00:00",
@@ -900,18 +914,32 @@
           "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 122,
+          "w": 6,
+          "o": 20,
+          "inning": "greece women Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 7,
+          "o": 20,
+          "inning": "Greece Women,Denmark Women Inning 1"
+        }
+      ],
       "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 4: 3rd Session - Bangladesh lead by 156 runs",
+      "status": "Day 4: Stumps - Bangladesh lead by 179 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -945,9 +973,9 @@
           "inning": "Pakistan Inning 1"
         },
         {
-          "r": 129,
+          "r": 152,
           "w": 3,
-          "o": 43.1,
+          "o": 50.3,
           "inning": "Bangladesh Inning 2"
         }
       ],
