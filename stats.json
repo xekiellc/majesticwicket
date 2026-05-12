@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T10:21:36.226Z",
+  "lastUpdated": "2026-05-12T16:25:27.682Z",
   "recentMatches": [
     {
       "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
@@ -1071,7 +1071,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 5: 3rd Session - Pakistan need 124 runs",
+      "status": "Bangladesh won by 104 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -1111,9 +1111,9 @@
           "inning": "Bangladesh Inning 2"
         },
         {
-          "r": 144,
-          "w": 5,
-          "o": 39.2,
+          "r": 163,
+          "w": 10,
+          "o": 52.5,
           "inning": "Pakistan Inning 2"
         }
       ],
@@ -1122,7 +1122,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
