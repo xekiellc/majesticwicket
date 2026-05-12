@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T05:42:50.735Z",
+  "lastUpdated": "2026-05-12T10:21:36.226Z",
   "recentMatches": [
     {
       "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
@@ -213,10 +213,55 @@
       "matchEnded": false
     },
     {
+      "id": "8d56bfed-7f2a-461b-b0b7-ab9014ae19c5",
+      "name": "Japan vs Indonesia, Super Six, Match 2, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Japan won by 41 runs",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-12",
+      "dateTimeGMT": "2026-05-12T05:00:00",
+      "teams": [
+        "Japan",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 7,
+          "o": 20,
+          "inning": "japan Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Japan,Indonesia Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "ef615d83-8697-47f6-84f0-bf9cccff5d2f",
       "name": "Samoa vs Vanuatu, Super Six, Match 1, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
-      "status": "Vanuatu opt to bat",
+      "status": "Samoa won by 9 wkts",
       "venue": "Sano International Cricket Ground, Sano, Kanto",
       "date": "2026-05-12",
       "dateTimeGMT": "2026-05-12T00:30:00",
@@ -236,12 +281,26 @@
           "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 129,
+          "w": 8,
+          "o": 20,
+          "inning": "vanuatu Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 1,
+          "o": 15.3,
+          "inning": "Samoa,Vanuatu Inning 1"
+        }
+      ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "42a0e563-4161-4564-a2eb-abeb929a1dfd",
@@ -1012,7 +1071,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 5: Innings Break - Bangladesh lead by 267 runs",
+      "status": "Day 5: 3rd Session - Pakistan need 124 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -1050,6 +1109,12 @@
           "w": 9,
           "o": 70.3,
           "inning": "Bangladesh Inning 2"
+        },
+        {
+          "r": 144,
+          "w": 5,
+          "o": 39.2,
+          "inning": "Pakistan Inning 2"
         }
       ],
       "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
@@ -1058,51 +1123,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "4305fdfc-bb98-4f95-99b7-8a11f21a44d3",
-      "name": "Malta vs Gibraltar, 6th T20I, Gibraltar tour of Malta, 2026",
-      "matchType": "t20",
-      "status": "Match tied (Gibraltar won the Super Over)",
-      "venue": "Marsa Sports Club, Marsa",
-      "date": "2026-05-09",
-      "dateTimeGMT": "2026-05-09T12:00:00",
-      "teams": [
-        "Malta",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 9,
-          "o": 20,
-          "inning": "malta Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 4,
-          "o": 20,
-          "inning": "Malta,Gibraltar Inning 1"
-        }
-      ],
-      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
