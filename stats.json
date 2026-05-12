@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T21:21:40.072Z",
+  "lastUpdated": "2026-05-12T05:42:50.735Z",
   "recentMatches": [
     {
       "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
@@ -206,6 +206,37 @@
         }
       ],
       "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "ef615d83-8697-47f6-84f0-bf9cccff5d2f",
+      "name": "Samoa vs Vanuatu, Super Six, Match 1, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Vanuatu opt to bat",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-12",
+      "dateTimeGMT": "2026-05-12T00:30:00",
+      "teams": [
+        "Samoa",
+        "Vanuatu"
+      ],
+      "teamInfo": [
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -621,7 +652,7 @@
       "id": "90151062-76a4-4d05-bd4f-c25bdb81acbb",
       "name": "Greece Women vs Denmark Women, 4th T20I, Denmark Women tour of Greece, 2026",
       "matchType": "t20",
-      "status": "Greece Women opt to bat",
+      "status": "Denmark Women won by 7 wkts",
       "venue": "Marina Ground, Corfu",
       "date": "2026-05-10",
       "dateTimeGMT": "2026-05-10T12:00:00",
@@ -641,18 +672,32 @@
           "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 86,
+          "w": 10,
+          "o": 20,
+          "inning": "greece women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 3,
+          "o": 12.3,
+          "inning": "Greece Women,Denmark Women Inning 1"
+        }
+      ],
       "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d879b0f2-7fed-4073-8bf3-7589f1c34aea",
       "name": "Greece Women vs Denmark Women, 3rd T20I, Denmark Women tour of Greece, 2026",
       "matchType": "t20",
-      "status": "Greece Women opt to bat",
+      "status": "Denmark Women won by 7 wkts",
       "venue": "Marina Ground, Corfu",
       "date": "2026-05-10",
       "dateTimeGMT": "2026-05-10T08:00:00",
@@ -672,18 +717,32 @@
           "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 98,
+          "w": 9,
+          "o": 20,
+          "inning": "greece women Inning 1"
+        },
+        {
+          "r": 102,
+          "w": 3,
+          "o": 16.2,
+          "inning": "Greece Women,Denmark Women Inning 1"
+        }
+      ],
       "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "02bf3bbd-04a3-4eb1-bce8-0011c8248fd0",
       "name": "Greece Women vs Denmark Women, 2nd T20I, Denmark Women tour of Greece, 2026",
       "matchType": "t20",
-      "status": "Denmark Women opt to bat",
+      "status": "Denmark Women won by 71 runs",
       "venue": "Marina Ground, Corfu",
       "date": "2026-05-09",
       "dateTimeGMT": "2026-05-09T12:00:00",
@@ -703,12 +762,26 @@
           "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 138,
+          "w": 7,
+          "o": 20,
+          "inning": "denmark women Inning 1"
+        },
+        {
+          "r": 67,
+          "w": 10,
+          "o": 14.5,
+          "inning": "Greece Women,Denmark Women Inning 1"
+        }
+      ],
       "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "14156528-f38e-40f4-bc79-c8842717ed07",
@@ -939,7 +1012,7 @@
       "id": "4ff309cc-5d6c-4d83-97c6-c3c3ee4d1186",
       "name": "Bangladesh vs Pakistan, 1st Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 4: Stumps - Bangladesh lead by 179 runs",
+      "status": "Day 5: Innings Break - Bangladesh lead by 267 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-05-08",
       "dateTimeGMT": "2026-05-08T03:30:00",
@@ -973,9 +1046,9 @@
           "inning": "Pakistan Inning 1"
         },
         {
-          "r": 152,
-          "w": 3,
-          "o": 50.3,
+          "r": 240,
+          "w": 9,
+          "o": 70.3,
           "inning": "Bangladesh Inning 2"
         }
       ],
@@ -1021,51 +1094,6 @@
           "r": 165,
           "w": 4,
           "o": 20,
-          "inning": "Malta,Gibraltar Inning 1"
-        }
-      ],
-      "series_id": "03e05b68-03fc-4bfe-88d9-ac542e0af05e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a04e3762-ec6f-4ef8-ab7b-cf6bb7c69f8e",
-      "name": "Malta vs Gibraltar, 5th T20I, Gibraltar tour of Malta, 2026",
-      "matchType": "t20",
-      "status": "Malta won by 7 wkts",
-      "venue": "Marsa Sports Club, Marsa",
-      "date": "2026-05-09",
-      "dateTimeGMT": "2026-05-09T07:00:00",
-      "teams": [
-        "Malta",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 143,
-          "w": 7,
-          "o": 20,
-          "inning": "gibraltar Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 3,
-          "o": 17.2,
           "inning": "Malta,Gibraltar Inning 1"
         }
       ],
