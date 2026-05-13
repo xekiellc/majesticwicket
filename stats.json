@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-12T21:23:19.450Z",
+  "lastUpdated": "2026-05-13T05:53:48.980Z",
   "recentMatches": [
+    {
+      "id": "3216b2a1-5b55-4f2c-93a1-c6569ac006d8",
+      "name": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026",
+      "matchType": "t20",
+      "status": "South Korea won by 6 wkts",
+      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
+      "date": "2026-05-13",
+      "dateTimeGMT": "2026-05-13T01:00:00",
+      "teams": [
+        "Fiji",
+        "South Korea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji",
+          "shortname": "FIJ",
+          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
+        },
+        {
+          "name": "South Korea",
+          "shortname": "SKO",
+          "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 10,
+          "o": 19.5,
+          "inning": "South Korea Inning 1"
+        },
+        {
+          "r": 141,
+          "w": 4,
+          "o": 18,
+          "inning": "Fiji Inning 1"
+        }
+      ],
+      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "9981bb6d-803f-41c8-a9a7-c70e84eaece9",
       "name": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
@@ -203,6 +248,90 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "a2a15279-7f5e-455d-a1c0-47ae4797b874",
+      "name": "Vanuatu vs Cook Islands, Super Six, Match 4, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Cook Islands opt to bat",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-13",
+      "dateTimeGMT": "2026-05-13T05:00:00",
+      "teams": [
+        "Vanuatu",
+        "Cook Islands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 44,
+          "w": 2,
+          "o": 7,
+          "inning": "cook islands Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "cf03d5cb-ffcc-4308-aa7e-8afb47960a66",
+      "name": "Papua New Guinea vs Samoa, Super Six, Match 3, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Papua New Guinea won by 2 wkts",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-13",
+      "dateTimeGMT": "2026-05-13T00:30:00",
+      "teams": [
+        "Papua New Guinea",
+        "Samoa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 112,
+          "w": 10,
+          "o": 20,
+          "inning": "samoa Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 8,
+          "o": 20,
+          "inning": "Papua New Guinea,Samoa Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "8d56bfed-7f2a-461b-b0b7-ab9014ae19c5",
@@ -963,140 +1092,6 @@
         }
       ],
       "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d705a86d-cf09-4ef5-8398-b57199b43b2a",
-      "name": "Pakistan Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of Pakistan 2026",
-      "status": "Pakistan Women won by 9 wkts",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-09",
-      "dateTimeGMT": "2026-05-09T10:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 222,
-          "w": 9,
-          "o": 50,
-          "inning": "zimbabwe women Inning 1"
-        },
-        {
-          "r": 225,
-          "w": 1,
-          "o": 31.5,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7aed895a-4fea-4af2-8a86-3b6ca3e21b32",
-      "name": "Nepal vs Scotland, 104th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Scotland won by 2 runs (DLS method)",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T00:00:00",
-      "teams": [
-        "Nepal",
-        "Scotland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 243,
-          "w": 8,
-          "o": 50,
-          "inning": "scotland Inning 1"
-        },
-        {
-          "r": 218,
-          "w": 7,
-          "o": 39,
-          "inning": "Nepal,Scotland Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9413d7dd-bf8e-49f6-8ce7-91faf29a0115",
-      "name": "Gujarat Titans vs Sunrisers Hyderabad, 56th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Gujarat Titans won by 82 runs",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T14:00:00",
-      "teams": [
-        "Gujarat Titans",
-        "Sunrisers Hyderabad"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Sunrisers Hyderabad",
-          "shortname": "SRH",
-          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 168,
-          "w": 5,
-          "o": 20,
-          "inning": "Gujarat Titans Inning 1"
-        },
-        {
-          "r": 86,
-          "w": 10,
-          "o": 14.5,
-          "inning": "Sunrisers Hyderabad Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
