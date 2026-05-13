@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T05:53:48.980Z",
+  "lastUpdated": "2026-05-13T10:11:40.280Z",
   "recentMatches": [
     {
       "id": "3216b2a1-5b55-4f2c-93a1-c6569ac006d8",
@@ -40,7 +40,7 @@
         }
       ],
       "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -77,7 +77,7 @@
         }
       ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -253,7 +253,7 @@
       "id": "a2a15279-7f5e-455d-a1c0-47ae4797b874",
       "name": "Vanuatu vs Cook Islands, Super Six, Match 4, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
-      "status": "Cook Islands opt to bat",
+      "status": "Cook Islands won by 11 runs  -  2nd inns reduced to 8 overs due to rain (DLS Target 81)",
       "venue": "Sano International Cricket Ground, Sano, Kanto",
       "date": "2026-05-13",
       "dateTimeGMT": "2026-05-13T05:00:00",
@@ -275,10 +275,16 @@
       ],
       "score": [
         {
-          "r": 44,
-          "w": 2,
-          "o": 7,
+          "r": 163,
+          "w": 7,
+          "o": 20,
           "inning": "cook islands Inning 1"
+        },
+        {
+          "r": 69,
+          "w": 5,
+          "o": 8,
+          "inning": "Vanuatu,Cook Islands Inning 1"
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
@@ -286,7 +292,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "cf03d5cb-ffcc-4308-aa7e-8afb47960a66",
