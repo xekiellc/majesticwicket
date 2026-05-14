@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T10:03:31.665Z",
+  "lastUpdated": "2026-05-14T16:12:01.434Z",
   "recentMatches": [
     {
       "id": "f1724ed7-ff2a-45d0-a3de-aeae3655106a",
@@ -700,6 +700,45 @@
       "matchEnded": true
     },
     {
+      "id": "8c2ab05f-1e47-4ffc-9d0a-8abaff2b46e1",
+      "name": "Pakistan Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of Pakistan 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T14:30:00",
+      "teams": [
+        "Pakistan Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 170,
+          "w": 4,
+          "o": 20,
+          "inning": "pakistan women Inning 1"
+        }
+      ],
+      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "6a838f0a-312d-4914-b8fd-8d0a6bc5704d",
       "name": "Pakistan Women vs Zimbabwe Women, 1st T20I, Zimbabwe Women tour of Pakistan 2026",
       "matchType": "t20",
@@ -748,7 +787,7 @@
       "id": "4f15c87a-61d5-4679-93fd-416648dc1a86",
       "name": "Scotland vs United States of America, 105th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "United States of America need 219 runs - 47 overs match due to wet outfield",
+      "status": "Scotland won by 2 runs (DLS Method)",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-14",
       "dateTimeGMT": "2026-05-14T00:00:00",
@@ -776,9 +815,9 @@
           "inning": "Scotland Inning 1"
         },
         {
-          "r": 103,
-          "w": 2,
-          "o": 15.5,
+          "r": 246,
+          "w": 8,
+          "o": 32,
           "inning": "United States of America Inning 1"
         }
       ],
@@ -787,7 +826,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7aed895a-4fea-4af2-8a86-3b6ca3e21b32",
@@ -833,6 +872,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
+      "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Mumbai Indians need 188 runs",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T14:00:00",
+      "teams": [
+        "Punjab Kings",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        },
+        {
+          "name": "Punjab Kings",
+          "shortname": "PBKS",
+          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 8,
+          "o": 20,
+          "inning": "Punjab Kings Inning 1"
+        },
+        {
+          "r": 13,
+          "w": 0,
+          "o": 2,
+          "inning": "Mumbai Indians Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "0b3bab15-12b2-4a16-9f41-1096e40ff202",
@@ -1013,90 +1097,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "6aced947-319c-4e4a-9214-6f94f14c043e",
-      "name": "Chennai Super Kings vs Lucknow Super Giants, 53rd Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Chennai Super Kings won by 5 wkts",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T10:00:00",
-      "teams": [
-        "Chennai Super Kings",
-        "Lucknow Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chennai Super Kings",
-          "shortname": "CSK",
-          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
-        },
-        {
-          "name": "Lucknow Super Giants",
-          "shortname": "LSG",
-          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 8,
-          "o": 20,
-          "inning": "Lucknow Super Giants Inning 1"
-        },
-        {
-          "r": 208,
-          "w": 5,
-          "o": 19.2,
-          "inning": "Chennai Super Kings Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a08ed3ed-037a-4fa3-898b-f51eb1765099",
-      "name": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-04-04",
-      "dateTimeGMT": "2026-04-04T11:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Greece Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 47,
-          "w": 5,
-          "o": 7.5,
-          "inning": "cyprus women Inning 1"
-        }
-      ],
-      "series_id": "a7df6d61-e0d1-4335-8879-01648bbb497f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
