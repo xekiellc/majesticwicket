@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T21:28:11.235Z",
+  "lastUpdated": "2026-05-14T05:52:53.342Z",
   "recentMatches": [
+    {
+      "id": "f1724ed7-ff2a-45d0-a3de-aeae3655106a",
+      "name": "Fiji vs Philippines, 3rd Match, T20I Tri-Series In Japan, 2026",
+      "matchType": "t20",
+      "status": "Philippines won by 4 wkts",
+      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T01:00:00",
+      "teams": [
+        "Fiji",
+        "Philippines"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji",
+          "shortname": "FIJ",
+          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
+        },
+        {
+          "name": "Philippines",
+          "shortname": "PHL",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 18.4,
+          "inning": "fiji Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 6,
+          "o": 18.2,
+          "inning": "Fiji,Philippines Inning 1"
+        }
+      ],
+      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "3216b2a1-5b55-4f2c-93a1-c6569ac006d8",
       "name": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026",
@@ -158,6 +203,90 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "aa585cc4-a6d0-40e6-ab7b-69dc161f450b",
+      "name": "Cook Islands vs Japan, Super Six, Match 6, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Match starts at May 14, 05:00 GMT",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T05:00:00",
+      "teams": [
+        "Cook Islands",
+        "Japan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 40,
+          "w": 3,
+          "o": 9,
+          "inning": "japan Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "fb6b3ad8-dae1-44a7-8846-6a0f35c2df5e",
+      "name": "Indonesia vs Papua New Guinea, Super Six, Match 5, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Papua New Guinea won by 38 runs",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T00:30:00",
+      "teams": [
+        "Indonesia",
+        "Papua New Guinea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 130,
+          "w": 7,
+          "o": 20,
+          "inning": "indonesia Inning 1"
+        },
+        {
+          "r": 92,
+          "w": 10,
+          "o": 19,
+          "inning": "Indonesia,Papua New Guinea Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "a2a15279-7f5e-455d-a1c0-47ae4797b874",
@@ -610,6 +739,45 @@
       "matchEnded": true
     },
     {
+      "id": "4f15c87a-61d5-4679-93fd-416648dc1a86",
+      "name": "Scotland vs United States of America, 105th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "47 overs match due to wet outfield - United States of America opt to bowl",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T00:00:00",
+      "teams": [
+        "Scotland",
+        "United States of America"
+      ],
+      "teamInfo": [
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 54,
+          "w": 1,
+          "o": 11.2,
+          "inning": "Scotland Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "7aed895a-4fea-4af2-8a86-3b6ca3e21b32",
       "name": "Nepal vs Scotland, 104th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -917,83 +1085,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "099b0a5e-bd30-4afa-b8ff-d23fcb9ffe08",
-      "name": "England Women vs New Zealand Women, 2nd ODI, New Zealand Women tour of England 2026",
-      "matchType": "odi",
-      "status": "Match abandoned without a ball bowled due to rain (with toss)",
-      "venue": "County Ground, Northampton",
-      "date": "2026-05-13",
-      "dateTimeGMT": "2026-05-13T12:00:00",
-      "teams": [
-        "England Women",
-        "New Zealand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Women",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
-        },
-        {
-          "name": "New Zealand Women",
-          "shortname": "NZW",
-          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
-        }
-      ],
-      "score": [],
-      "series_id": "17fda001-ea50-4ce4-b3cd-7a416800d63f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e190d5fc-f442-49ad-8e4e-a3fdfc5e9f7e",
-      "name": "England Women vs New Zealand Women, 1st ODI, New Zealand Women tour of England 2026",
-      "matchType": "odi",
-      "status": "England Women won by 1 wkt",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T10:00:00",
-      "teams": [
-        "England Women",
-        "New Zealand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Women",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
-        },
-        {
-          "name": "New Zealand Women",
-          "shortname": "NZW",
-          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 210,
-          "w": 10,
-          "o": 48.4,
-          "inning": "New Zealand Women Inning 1"
-        },
-        {
-          "r": 211,
-          "w": 9,
-          "o": 48.2,
-          "inning": "England Women Inning 1"
-        }
-      ],
-      "series_id": "17fda001-ea50-4ce4-b3cd-7a416800d63f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
