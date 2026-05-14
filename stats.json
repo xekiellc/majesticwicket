@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T16:12:01.434Z",
+  "lastUpdated": "2026-05-14T21:14:54.586Z",
   "recentMatches": [
     {
       "id": "f1724ed7-ff2a-45d0-a3de-aeae3655106a",
@@ -123,51 +123,6 @@
       ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
       "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6066cb83-318b-41e3-a158-912d82ffbdc3",
-      "name": "Romania vs Bulgaria, 5th T20I, Bulgaria tour of Romania 2026",
-      "matchType": "t20",
-      "status": "Romania won by 30 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T10:00:00",
-      "teams": [
-        "Romania",
-        "Bulgaria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bulgaria",
-          "shortname": "BUL",
-          "img": "https://g.cricapi.com/iapi/591-637873698362294760.webp?w=48"
-        },
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 154,
-          "w": 9,
-          "o": 20,
-          "inning": "romania Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 9,
-          "o": 20,
-          "inning": "Romania,Bulgaria Inning 1"
-        }
-      ],
-      "series_id": "bf3118b0-9ff3-48b1-bf0f-be98f0cbdd7c",
-      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -475,235 +430,10 @@
       "matchEnded": true
     },
     {
-      "id": "42a0e563-4161-4564-a2eb-abeb929a1dfd",
-      "name": "Papua New Guinea vs Cook Islands, 9th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Papua New Guinea won by 49 runs",
-      "venue": "Korogi Sports Park, Nisshin",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T05:00:00",
-      "teams": [
-        "Papua New Guinea",
-        "Cook Islands"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cook Islands",
-          "shortname": "COI",
-          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 204,
-          "w": 5,
-          "o": 20,
-          "inning": "papua new guinea Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 6,
-          "o": 20,
-          "inning": "Papua New Guinea,Cook Islands Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0cb72e15-9978-48f1-9523-fefeb443eda0",
-      "name": "Japan vs Fiji, 8th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Japan won by 8 wkts",
-      "venue": "Korogi Sports Park, Nisshin",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T00:30:00",
-      "teams": [
-        "Japan",
-        "Fiji"
-      ],
-      "teamInfo": [
-        {
-          "name": "Fiji",
-          "shortname": "FIJ",
-          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
-        },
-        {
-          "name": "Japan",
-          "shortname": "JPN",
-          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 74,
-          "w": 10,
-          "o": 19.4,
-          "inning": "fiji Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 2,
-          "o": 7.1,
-          "inning": "Japan,Fiji Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cc487741-ece2-4c46-aca8-7a2896c66095",
-      "name": "Samoa vs Philippines, 7th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Samoa won by 96 runs",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T00:30:00",
-      "teams": [
-        "Samoa",
-        "Philippines"
-      ],
-      "teamInfo": [
-        {
-          "name": "Philippines",
-          "shortname": "PHL",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        },
-        {
-          "name": "Samoa",
-          "shortname": "SAMOA",
-          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 7,
-          "o": 20,
-          "inning": "samoa Inning 1"
-        },
-        {
-          "r": 70,
-          "w": 10,
-          "o": 14.4,
-          "inning": "Samoa,Philippines Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "90151062-76a4-4d05-bd4f-c25bdb81acbb",
-      "name": "Greece Women vs Denmark Women, 4th T20I, Denmark Women tour of Greece, 2026",
-      "matchType": "t20",
-      "status": "Denmark Women won by 7 wkts",
-      "venue": "Marina Ground, Corfu",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T12:00:00",
-      "teams": [
-        "Greece Women",
-        "Denmark Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark Women",
-          "shortname": "DW",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 86,
-          "w": 10,
-          "o": 20,
-          "inning": "greece women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 3,
-          "o": 12.3,
-          "inning": "Greece Women,Denmark Women Inning 1"
-        }
-      ],
-      "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d879b0f2-7fed-4073-8bf3-7589f1c34aea",
-      "name": "Greece Women vs Denmark Women, 3rd T20I, Denmark Women tour of Greece, 2026",
-      "matchType": "t20",
-      "status": "Denmark Women won by 7 wkts",
-      "venue": "Marina Ground, Corfu",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T08:00:00",
-      "teams": [
-        "Greece Women",
-        "Denmark Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark Women",
-          "shortname": "DW",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Greece Women",
-          "shortname": "GW",
-          "img": "https://g.cricapi.com/iapi/609-637873697911451014.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 9,
-          "o": 20,
-          "inning": "greece women Inning 1"
-        },
-        {
-          "r": 102,
-          "w": 3,
-          "o": 16.2,
-          "inning": "Greece Women,Denmark Women Inning 1"
-        }
-      ],
-      "series_id": "730a92c4-baba-4c11-82e8-55dd849aae58",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "8c2ab05f-1e47-4ffc-9d0a-8abaff2b46e1",
       "name": "Pakistan Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of Pakistan 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Pakistan Women won by 67 runs",
       "venue": "National Stadium, Karachi",
       "date": "2026-05-14",
       "dateTimeGMT": "2026-05-14T14:30:00",
@@ -729,6 +459,12 @@
           "w": 4,
           "o": 20,
           "inning": "pakistan women Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 8,
+          "o": 20,
+          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
         }
       ],
       "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
@@ -736,7 +472,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6a838f0a-312d-4914-b8fd-8d0a6bc5704d",
@@ -877,7 +613,7 @@
       "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
       "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
       "matchType": "t20",
-      "status": "Mumbai Indians need 188 runs",
+      "status": "Mumbai Indians won by 6 wkts",
       "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
       "date": "2026-05-14",
       "dateTimeGMT": "2026-05-14T14:00:00",
@@ -905,9 +641,9 @@
           "inning": "Punjab Kings Inning 1"
         },
         {
-          "r": 13,
-          "w": 0,
-          "o": 2,
+          "r": 205,
+          "w": 4,
+          "o": 19.5,
           "inning": "Mumbai Indians Inning 1"
         }
       ],
@@ -916,7 +652,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0b3bab15-12b2-4a16-9f41-1096e40ff202",
@@ -1054,47 +790,34 @@
       "matchEnded": true
     },
     {
-      "id": "02d3614d-9727-43c5-a80c-0bf46c7499c6",
-      "name": "Royal Challengers Bengaluru vs Mumbai Indians, 54th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Challengers Bengaluru won by 2 wkts",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-05-10",
-      "dateTimeGMT": "2026-05-10T14:00:00",
+      "id": "099b0a5e-bd30-4afa-b8ff-d23fcb9ffe08",
+      "name": "England Women vs New Zealand Women, 2nd ODI, New Zealand Women tour of England 2026",
+      "matchType": "odi",
+      "status": "Match abandoned without a ball bowled due to rain (with toss)",
+      "venue": "County Ground, Northampton",
+      "date": "2026-05-13",
+      "dateTimeGMT": "2026-05-13T12:00:00",
       "teams": [
-        "Royal Challengers Bengaluru",
-        "Mumbai Indians"
+        "England Women",
+        "New Zealand Women"
       ],
       "teamInfo": [
         {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
         },
         {
-          "name": "Royal Challengers Bengaluru",
-          "shortname": "RCBW",
-          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 166,
-          "w": 7,
-          "o": 20,
-          "inning": "Mumbai Indians Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 8,
-          "o": 20,
-          "inning": "Royal Challengers Bengaluru Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
+      "score": [],
+      "series_id": "17fda001-ea50-4ce4-b3cd-7a416800d63f",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
@@ -1130,9 +853,9 @@
       },
       {
         "team": "Punjab Kings",
-        "played": 11,
+        "played": 12,
         "won": 6,
-        "lost": 4,
+        "lost": 5,
         "nr": 1,
         "points": 13
       },
@@ -1161,20 +884,20 @@
         "points": 10
       },
       {
+        "team": "Mumbai Indians",
+        "played": 12,
+        "won": 4,
+        "lost": 8,
+        "nr": 0,
+        "points": 8
+      },
+      {
         "team": "Kolkata Knight Riders",
         "played": 11,
         "won": 3,
         "lost": 6,
         "nr": 2,
         "points": 8
-      },
-      {
-        "team": "Mumbai Indians",
-        "played": 11,
-        "won": 3,
-        "lost": 8,
-        "nr": 0,
-        "points": 6
       },
       {
         "team": "Lucknow Super Giants",
