@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T05:52:53.342Z",
+  "lastUpdated": "2026-05-14T10:03:31.665Z",
   "recentMatches": [
     {
       "id": "f1724ed7-ff2a-45d0-a3de-aeae3655106a",
@@ -40,7 +40,7 @@
         }
       ],
       "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -208,7 +208,7 @@
       "id": "aa585cc4-a6d0-40e6-ab7b-69dc161f450b",
       "name": "Cook Islands vs Japan, Super Six, Match 6, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
-      "status": "Match starts at May 14, 05:00 GMT",
+      "status": "Cook Islands won by 3 wkts",
       "venue": "Sano International Cricket Ground, Sano, Kanto",
       "date": "2026-05-14",
       "dateTimeGMT": "2026-05-14T05:00:00",
@@ -230,10 +230,16 @@
       ],
       "score": [
         {
-          "r": 40,
-          "w": 3,
-          "o": 9,
+          "r": 90,
+          "w": 10,
+          "o": 18.5,
           "inning": "japan Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 7,
+          "o": 20,
+          "inning": "Cook Islands,Japan Inning 1"
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
@@ -241,7 +247,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "fb6b3ad8-dae1-44a7-8846-6a0f35c2df5e",
@@ -742,7 +748,7 @@
       "id": "4f15c87a-61d5-4679-93fd-416648dc1a86",
       "name": "Scotland vs United States of America, 105th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "47 overs match due to wet outfield - United States of America opt to bowl",
+      "status": "United States of America need 219 runs - 47 overs match due to wet outfield",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-14",
       "dateTimeGMT": "2026-05-14T00:00:00",
@@ -764,10 +770,16 @@
       ],
       "score": [
         {
-          "r": 54,
-          "w": 1,
-          "o": 11.2,
+          "r": 321,
+          "w": 6,
+          "o": 47,
           "inning": "Scotland Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 2,
+          "o": 15.5,
+          "inning": "United States of America Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
