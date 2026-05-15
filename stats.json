@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-05-15T10:10:50.213Z",
+  "lastUpdated": "2026-05-15T16:06:22.053Z",
   "recentMatches": [
     {
       "id": "78702027-ac80-4814-be92-fdb5b7d89e4e",
       "name": "Sri Lanka A Women vs New Zealand A Women, 2nd Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
-      "status": "Sri Lanka A Women opt to bat",
+      "status": "No result due to rain",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-05-15",
       "dateTimeGMT": "2026-05-15T04:30:00",
@@ -25,10 +25,16 @@
       ],
       "score": [
         {
-          "r": 7,
-          "w": 0,
-          "o": 2,
+          "r": 197,
+          "w": 9,
+          "o": 50,
           "inning": "sri lanka a women Inning 1"
+        },
+        {
+          "r": 66,
+          "w": 4,
+          "o": 10.1,
+          "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
         }
       ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
@@ -36,7 +42,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f1724ed7-ff2a-45d0-a3de-aeae3655106a",
@@ -467,6 +473,45 @@
       "matchEnded": true
     },
     {
+      "id": "f6dfe2e4-a180-4556-9a10-7e05d23a5426",
+      "name": "Pakistan Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of Pakistan 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women opt to bat",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-05-15",
+      "dateTimeGMT": "2026-05-15T14:30:00",
+      "teams": [
+        "Pakistan Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 172,
+          "w": 4,
+          "o": 17.2,
+          "inning": "pakistan women Inning 1"
+        }
+      ],
+      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "8c2ab05f-1e47-4ffc-9d0a-8abaff2b46e1",
       "name": "Pakistan Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of Pakistan 2026",
       "matchType": "t20",
@@ -645,6 +690,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "68746b1f-d4b0-4f0a-a46a-46a1946aae32",
+      "name": "Lucknow Super Giants vs Chennai Super Kings, 59th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2026-05-15",
+      "dateTimeGMT": "2026-05-15T14:00:00",
+      "teams": [
+        "Lucknow Super Giants",
+        "Chennai Super Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Lucknow Super Giants",
+          "shortname": "LSG",
+          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 187,
+          "w": 5,
+          "o": 20,
+          "inning": "Chennai Super Kings Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
@@ -830,7 +914,7 @@
       "id": "7571bb90-969a-4396-8bf4-b8d4e2760015",
       "name": "Kent vs Durham, 21st Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 1st Session - Kent opt to bat",
+      "status": "Day 1: 3rd Session - Kent opt to bat",
       "venue": "Kent County Cricket Ground, Beckenham",
       "date": "2026-05-15",
       "dateTimeGMT": "2026-05-15T10:00:00",
@@ -852,9 +936,9 @@
       ],
       "score": [
         {
-          "r": 9,
-          "w": 0,
-          "o": 1,
+          "r": 319,
+          "w": 1,
+          "o": 74.4,
           "inning": "kent Inning 1"
         }
       ],
@@ -869,7 +953,7 @@
       "id": "7b0befac-0dc5-42a2-8e01-4cedf64bb80b",
       "name": "Gloucestershire vs Northamptonshire, 22nd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Northamptonshire opt to bowl",
+      "status": "Day 1: 3rd Session - Northamptonshire opt to bowl",
       "venue": "County Ground, Bristol",
       "date": "2026-05-15",
       "dateTimeGMT": "2026-05-15T10:00:00",
@@ -889,9 +973,16 @@
           "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 136,
+          "w": 8,
+          "o": 46,
+          "inning": "Gloucestershire Inning 1"
+        }
+      ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -901,7 +992,7 @@
       "id": "78a22aae-ad67-4936-96e1-ea7beb68b426",
       "name": "Middlesex vs Derbyshire, 23rd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Derbyshire opt to bowl",
+      "status": "Day 1: 3rd Session - Derbyshire trail by 153 runs",
       "venue": "Lord's, London",
       "date": "2026-05-15",
       "dateTimeGMT": "2026-05-15T10:00:00",
@@ -921,9 +1012,22 @@
           "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 177,
+          "w": 10,
+          "o": 60.5,
+          "inning": "Middlesex Inning 1"
+        },
+        {
+          "r": 24,
+          "w": 0,
+          "o": 8,
+          "inning": "Derbyshire Inning 1"
+        }
+      ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -933,7 +1037,7 @@
       "id": "3df12b7a-6a11-4763-928e-adbb9878b825",
       "name": "Lancashire vs Worcestershire, 24th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Lancashire opt to bowl",
+      "status": "Day 1: 3rd Session - Lancashire opt to bowl",
       "venue": "Trafalgar Road Ground, Southport",
       "date": "2026-05-15",
       "dateTimeGMT": "2026-05-15T10:00:00",
@@ -953,86 +1057,15 @@
           "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 247,
+          "w": 9,
+          "o": 77.1,
+          "inning": "Worcestershire Inning 1"
+        }
+      ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "0d97a5ed-5922-4ed6-9a7a-b0c30d024656",
-      "name": "Essex vs Leicestershire, 26th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 1: 1st Session - Essex opt to bowl",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Essex",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 4,
-          "w": 0,
-          "o": 1,
-          "inning": "Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "e3272229-c71e-4ab7-b4c3-33f3a92af606",
-      "name": "Hampshire vs Nottinghamshire, 27th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 1: 1st Session - Nottinghamshire opt to bowl",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Hampshire",
-        "Nottinghamshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        },
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 4,
-          "w": 0,
-          "o": 1,
-          "inning": "Hampshire Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
