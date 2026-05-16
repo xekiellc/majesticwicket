@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T15:02:30.277Z",
+  "lastUpdated": "2026-05-16T20:54:53.239Z",
   "recentMatches": [
     {
       "id": "99d5ee87-980c-4846-bcd8-f6a2e3406938",
@@ -180,43 +180,6 @@
       "matchEnded": true
     },
     {
-      "id": "9981bb6d-803f-41c8-a9a7-c70e84eaece9",
-      "name": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
-      "status": "No result",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T04:30:00",
-      "teams": [
-        "Sri Lanka A Women",
-        "New Zealand A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka A Women",
-          "shortname": "SLAW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 217,
-          "w": 7,
-          "o": 42,
-          "inning": "sri lanka a women Inning 1"
-        }
-      ],
-      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1873eb52-add6-4484-a7be-fc23b9a4f108",
       "name": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026",
       "matchType": "t20",
@@ -251,7 +214,7 @@
       "id": "260572ed-3a1b-40cf-acfa-f6c58a2173ee",
       "name": "Austria vs Malta, 4th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Austria need 53 runs in 72 balls",
+      "status": "Austria won by 7 wkts",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T12:30:00",
@@ -279,9 +242,9 @@
           "inning": "Malta Inning 1"
         },
         {
-          "r": 88,
+          "r": 141,
           "w": 3,
-          "o": 8,
+          "o": 12.5,
           "inning": "Austria Inning 1"
         }
       ],
@@ -290,7 +253,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7edfa073-0567-4f1b-b7f6-8419c9649696",
@@ -698,96 +661,6 @@
       "matchEnded": true
     },
     {
-      "id": "8d56bfed-7f2a-461b-b0b7-ab9014ae19c5",
-      "name": "Japan vs Indonesia, Super Six, Match 2, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Japan won by 41 runs",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T05:00:00",
-      "teams": [
-        "Japan",
-        "Indonesia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        },
-        {
-          "name": "Japan",
-          "shortname": "JPN",
-          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 7,
-          "o": 20,
-          "inning": "japan Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Japan,Indonesia Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ef615d83-8697-47f6-84f0-bf9cccff5d2f",
-      "name": "Samoa vs Vanuatu, Super Six, Match 1, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Samoa won by 9 wkts",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T00:30:00",
-      "teams": [
-        "Samoa",
-        "Vanuatu"
-      ],
-      "teamInfo": [
-        {
-          "name": "Samoa",
-          "shortname": "SAMOA",
-          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
-        },
-        {
-          "name": "Vanuatu",
-          "shortname": "VAN",
-          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 8,
-          "o": 20,
-          "inning": "vanuatu Inning 1"
-        },
-        {
-          "r": 132,
-          "w": 1,
-          "o": 15.3,
-          "inning": "Samoa,Vanuatu Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
       "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
@@ -923,51 +796,6 @@
       "matchEnded": true
     },
     {
-      "id": "6a838f0a-312d-4914-b8fd-8d0a6bc5704d",
-      "name": "Pakistan Women vs Zimbabwe Women, 1st T20I, Zimbabwe Women tour of Pakistan 2026",
-      "matchType": "t20",
-      "status": "Pakistan Women won by 153 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T14:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 237,
-          "w": 5,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 84,
-          "w": 10,
-          "o": 18.2,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f4756a59-f22f-4aca-940f-114f5c9bf3d4",
       "name": "Nepal vs United States of America, 106th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -1058,49 +886,229 @@
       "matchEnded": true
     },
     {
-      "id": "7aed895a-4fea-4af2-8a86-3b6ca3e21b32",
-      "name": "Nepal vs Scotland, 104th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Scotland won by 2 runs (DLS method)",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-12",
-      "dateTimeGMT": "2026-05-12T00:00:00",
+      "id": "166633a2-cecb-4cf3-a984-78dc898b5345",
+      "name": "Kolkata Knight Riders vs Gujarat Titans, 60th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Kolkata Knight Riders won by 29 runs",
+      "venue": "Eden Gardens, Kolkata",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T14:00:00",
       "teams": [
-        "Nepal",
-        "Scotland"
+        "Kolkata Knight Riders",
+        "Gujarat Titans"
       ],
       "teamInfo": [
         {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+          "name": "Gujarat Titans",
+          "shortname": "GT",
+          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
         },
         {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+          "name": "Kolkata Knight Riders",
+          "shortname": "KKR",
+          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
         }
       ],
       "score": [
         {
-          "r": 243,
-          "w": 8,
-          "o": 50,
-          "inning": "scotland Inning 1"
+          "r": 247,
+          "w": 2,
+          "o": 20,
+          "inning": "Kolkata Knight Riders Inning 1"
         },
         {
           "r": 218,
-          "w": 7,
-          "o": 39,
-          "inning": "Nepal,Scotland Inning 1"
+          "w": 4,
+          "o": 20,
+          "inning": "Gujarat Titans Inning 1"
         }
       ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "68746b1f-d4b0-4f0a-a46a-46a1946aae32",
+      "name": "Lucknow Super Giants vs Chennai Super Kings, 59th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Lucknow Super Giants won by 7 wkts",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2026-05-15",
+      "dateTimeGMT": "2026-05-15T14:00:00",
+      "teams": [
+        "Lucknow Super Giants",
+        "Chennai Super Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Lucknow Super Giants",
+          "shortname": "LSG",
+          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 187,
+          "w": 5,
+          "o": 20,
+          "inning": "Chennai Super Kings Inning 1"
+        },
+        {
+          "r": 188,
+          "w": 3,
+          "o": 16.4,
+          "inning": "Lucknow Super Giants Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
+      "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Mumbai Indians won by 6 wkts",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "date": "2026-05-14",
+      "dateTimeGMT": "2026-05-14T14:00:00",
+      "teams": [
+        "Punjab Kings",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        },
+        {
+          "name": "Punjab Kings",
+          "shortname": "PBKS",
+          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 8,
+          "o": 20,
+          "inning": "Punjab Kings Inning 1"
+        },
+        {
+          "r": 205,
+          "w": 4,
+          "o": 19.5,
+          "inning": "Mumbai Indians Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0b3bab15-12b2-4a16-9f41-1096e40ff202",
+      "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders, 57th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Royal Challengers Bengaluru won by 6 wkts",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-05-13",
+      "dateTimeGMT": "2026-05-13T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru",
+        "Kolkata Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kolkata Knight Riders",
+          "shortname": "KKR",
+          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+        },
+        {
+          "name": "Royal Challengers Bengaluru",
+          "shortname": "RCBW",
+          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 192,
+          "w": 4,
+          "o": 20,
+          "inning": "Kolkata Knight Riders Inning 1"
+        },
+        {
+          "r": 194,
+          "w": 4,
+          "o": 19.1,
+          "inning": "Royal Challengers Bengaluru Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7571bb90-969a-4396-8bf4-b8d4e2760015",
+      "name": "Kent vs Durham, 21st Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Durham trail by 350 runs",
+      "venue": "Kent County Cricket Ground, Beckenham",
+      "date": "2026-05-15",
+      "dateTimeGMT": "2026-05-15T10:00:00",
+      "teams": [
+        "Kent",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 523,
+          "w": 10,
+          "o": 132.5,
+          "inning": "kent Inning 1"
+        },
+        {
+          "r": 173,
+          "w": 5,
+          "o": 41.3,
+          "inning": "Kent,Durham Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
@@ -1118,9 +1126,9 @@
       },
       {
         "team": "Gujarat Titans",
-        "played": 12,
+        "played": 13,
         "won": 8,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 16
       },
@@ -1165,19 +1173,19 @@
         "points": 10
       },
       {
+        "team": "Kolkata Knight Riders",
+        "played": 12,
+        "won": 4,
+        "lost": 6,
+        "nr": 2,
+        "points": 10
+      },
+      {
         "team": "Mumbai Indians",
         "played": 12,
         "won": 4,
         "lost": 8,
         "nr": 0,
-        "points": 8
-      },
-      {
-        "team": "Kolkata Knight Riders",
-        "played": 11,
-        "won": 3,
-        "lost": 6,
-        "nr": 2,
         "points": 8
       },
       {
