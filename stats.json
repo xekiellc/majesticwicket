@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T09:18:48.413Z",
+  "lastUpdated": "2026-05-16T15:02:30.277Z",
   "recentMatches": [
     {
       "id": "99d5ee87-980c-4846-bcd8-f6a2e3406938",
@@ -40,7 +40,7 @@
         }
       ],
       "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -248,10 +248,100 @@
       "matchEnded": false
     },
     {
+      "id": "260572ed-3a1b-40cf-acfa-f6c58a2173ee",
+      "name": "Austria vs Malta, 4th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Austria need 53 runs in 72 balls",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T12:30:00",
+      "teams": [
+        "Austria",
+        "Malta"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 10,
+          "o": 20,
+          "inning": "Malta Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 3,
+          "o": 8,
+          "inning": "Austria Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "7edfa073-0567-4f1b-b7f6-8419c9649696",
+      "name": "Jersey vs Switzerland, 3rd Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Jersey won by 9 wkts",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T12:30:00",
+      "teams": [
+        "Jersey",
+        "Switzerland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jersey",
+          "shortname": "JER",
+          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
+        },
+        {
+          "name": "Switzerland",
+          "shortname": "SWZ",
+          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 73,
+          "w": 10,
+          "o": 16.5,
+          "inning": "switzerland Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 1,
+          "o": 7.1,
+          "inning": "Jersey,Switzerland Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "2d1433e8-1429-4c19-8f6f-6c5faeab7aea",
       "name": "Guernsey vs Sweden, 2nd Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Sweden opt to bowl",
+      "status": "Guernsey won by 12 runs",
       "venue": "Happy Valley Ground 2, Episkopi",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T07:30:00",
@@ -273,24 +363,30 @@
       ],
       "score": [
         {
-          "r": 98,
-          "w": 3,
-          "o": 13,
+          "r": 151,
+          "w": 8,
+          "o": 20,
           "inning": "Guernsey Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Sweden Inning 1"
         }
       ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "56cb0853-1d19-4b70-81e5-b64e95c26525",
       "name": "Cyprus vs France, 1st Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Cyprus opt to bat",
+      "status": "France won by 8 wkts",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T07:30:00",
@@ -312,18 +408,24 @@
       ],
       "score": [
         {
-          "r": 67,
-          "w": 4,
-          "o": 12.5,
+          "r": 115,
+          "w": 9,
+          "o": 20,
           "inning": "cyprus Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 2,
+          "o": 12.5,
+          "inning": "Cyprus,France Inning 1"
         }
       ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "87b887f4-bf9e-40a0-9a70-99fa2d1f5688",
@@ -689,7 +791,7 @@
       "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
       "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Pakistan opt to bowl",
+      "status": "Day 1: Stumps - Pakistan trail by 257 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T03:30:00",
@@ -711,10 +813,16 @@
       ],
       "score": [
         {
-          "r": 176,
-          "w": 7,
-          "o": 57.1,
+          "r": 278,
+          "w": 10,
+          "o": 77,
           "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 21,
+          "w": 0,
+          "o": 6,
+          "inning": "Pakistan Inning 1"
         }
       ],
       "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
@@ -863,7 +971,7 @@
       "id": "f4756a59-f22f-4aca-940f-114f5c9bf3d4",
       "name": "Nepal vs United States of America, 106th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Nepal need 40 runs",
+      "status": "Nepal won by 9 wkts",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T00:00:00",
@@ -891,9 +999,9 @@
           "inning": "united states of america Inning 1"
         },
         {
-          "r": 156,
+          "r": 199,
           "w": 1,
-          "o": 28.5,
+          "o": 36.4,
           "inning": "Nepal,United States of America Inning 1"
         }
       ],
@@ -902,7 +1010,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4f15c87a-61d5-4679-93fd-416648dc1a86",
@@ -988,96 +1096,6 @@
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68746b1f-d4b0-4f0a-a46a-46a1946aae32",
-      "name": "Lucknow Super Giants vs Chennai Super Kings, 59th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Lucknow Super Giants won by 7 wkts",
-      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T14:00:00",
-      "teams": [
-        "Lucknow Super Giants",
-        "Chennai Super Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chennai Super Kings",
-          "shortname": "CSK",
-          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
-        },
-        {
-          "name": "Lucknow Super Giants",
-          "shortname": "LSG",
-          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 187,
-          "w": 5,
-          "o": 20,
-          "inning": "Chennai Super Kings Inning 1"
-        },
-        {
-          "r": 188,
-          "w": 3,
-          "o": 16.4,
-          "inning": "Lucknow Super Giants Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
-      "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Mumbai Indians won by 6 wkts",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T14:00:00",
-      "teams": [
-        "Punjab Kings",
-        "Mumbai Indians"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        },
-        {
-          "name": "Punjab Kings",
-          "shortname": "PBKS",
-          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 200,
-          "w": 8,
-          "o": 20,
-          "inning": "Punjab Kings Inning 1"
-        },
-        {
-          "r": 205,
-          "w": 4,
-          "o": 19.5,
-          "inning": "Mumbai Indians Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
