@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T21:08:11.345Z",
+  "lastUpdated": "2026-05-16T05:31:44.174Z",
   "recentMatches": [
     {
       "id": "78702027-ac80-4814-be92-fdb5b7d89e4e",
@@ -201,6 +201,90 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "87b887f4-bf9e-40a0-9a70-99fa2d1f5688",
+      "name": "Japan vs Samoa, Super Six, Match 8, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Samoa opt to bat",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T05:00:00",
+      "teams": [
+        "Japan",
+        "Samoa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 20,
+          "w": 2,
+          "o": 5,
+          "inning": "samoa Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "562b34f8-aa4a-43a4-a114-10a048e3bb20",
+      "name": "Indonesia vs Vanuatu, Super Six, Match 7, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Vanuatu won by 1 run",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T00:30:00",
+      "teams": [
+        "Indonesia",
+        "Vanuatu"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 9,
+          "o": 20,
+          "inning": "Vanuatu Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 9,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "aa585cc4-a6d0-40e6-ab7b-69dc161f450b",
@@ -473,6 +557,45 @@
       "matchEnded": true
     },
     {
+      "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
+      "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
+      "matchType": "test",
+      "status": "Day 1: 1st Session - Pakistan opt to bowl",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T03:30:00",
+      "teams": [
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 66,
+          "w": 3,
+          "o": 17,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "f6dfe2e4-a180-4556-9a10-7e05d23a5426",
       "name": "Pakistan Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of Pakistan 2026",
       "matchType": "t20",
@@ -606,6 +729,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "f4756a59-f22f-4aca-940f-114f5c9bf3d4",
+      "name": "Nepal vs United States of America, 106th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United States of America opt to bat",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T00:00:00",
+      "teams": [
+        "Nepal",
+        "United States of America"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 1,
+          "o": 22,
+          "inning": "united states of america Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "4f15c87a-61d5-4679-93fd-416648dc1a86",
@@ -910,186 +1072,6 @@
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "7b0befac-0dc5-42a2-8e01-4cedf64bb80b",
-      "name": "Gloucestershire vs Northamptonshire, 22nd Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Northamptonshire trail by 117 runs",
-      "venue": "County Ground, Bristol",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Gloucestershire",
-        "Northamptonshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 154,
-          "w": 10,
-          "o": 51.5,
-          "inning": "Gloucestershire Inning 1"
-        },
-        {
-          "r": 37,
-          "w": 3,
-          "o": 17,
-          "inning": "Northamptonshire Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "78a22aae-ad67-4936-96e1-ea7beb68b426",
-      "name": "Middlesex vs Derbyshire, 23rd Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Derbyshire trail by 71 runs",
-      "venue": "Lord's, London",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Middlesex",
-        "Derbyshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 10,
-          "o": 60.5,
-          "inning": "Middlesex Inning 1"
-        },
-        {
-          "r": 106,
-          "w": 4,
-          "o": 35,
-          "inning": "Derbyshire Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "3df12b7a-6a11-4763-928e-adbb9878b825",
-      "name": "Lancashire vs Worcestershire, 24th Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Lancashire trail by 242 runs",
-      "venue": "Trafalgar Road Ground, Southport",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Lancashire",
-        "Worcestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 270,
-          "w": 10,
-          "o": 82.4,
-          "inning": "Worcestershire Inning 1"
-        },
-        {
-          "r": 28,
-          "w": 0,
-          "o": 11,
-          "inning": "Lancashire Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "0d97a5ed-5922-4ed6-9a7a-b0c30d024656",
-      "name": "Essex vs Leicestershire, 26th Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - Essex trail by 323 runs",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Essex",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 333,
-          "w": 10,
-          "o": 90.2,
-          "inning": "Leicestershire Inning 1"
-        },
-        {
-          "r": 10,
-          "w": 1,
-          "o": 3,
-          "inning": "Essex Inning 1"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
