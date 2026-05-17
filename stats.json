@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-16T20:54:53.239Z",
+  "lastUpdated": "2026-05-17T05:53:26.138Z",
   "recentMatches": [
+    {
+      "id": "e70a10b8-073c-42fe-8d88-6d15258e2305",
+      "name": "Fiji vs South Korea, 5th Match, T20I Tri-Series In Japan, 2026",
+      "matchType": "t20",
+      "status": "South Korea won by 7 wkts",
+      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T01:00:00",
+      "teams": [
+        "Fiji",
+        "South Korea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji",
+          "shortname": "FIJ",
+          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
+        },
+        {
+          "name": "South Korea",
+          "shortname": "SKO",
+          "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 107,
+          "w": 7,
+          "o": 20,
+          "inning": "Fiji Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 3,
+          "o": 14.1,
+          "inning": "South Korea Inning 1"
+        }
+      ],
+      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "99d5ee87-980c-4846-bcd8-f6a2e3406938",
       "name": "Philippines vs South Korea, 4th Match, T20I Tri-Series In Japan, 2026",
@@ -391,6 +436,82 @@
       "matchEnded": true
     },
     {
+      "id": "adf36c85-3f68-43ea-ad63-4f38b16fa78b",
+      "name": "Vanuatu vs Papua New Guinea, Super Six, Match 10, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Match starts at May 17, 05:00 GMT",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T05:00:00",
+      "teams": [
+        "Vanuatu",
+        "Papua New Guinea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f7ac420d-8bb2-4d3f-a64f-b86787aed2f7",
+      "name": "Cook Islands vs Indonesia, Super Six, Match 9, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Cook Islands won by 50 runs  -  16 overs game",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T00:30:00",
+      "teams": [
+        "Cook Islands",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 128,
+          "w": 6,
+          "o": 16,
+          "inning": "Cook Islands Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 6,
+          "o": 16,
+          "inning": "Indonesia Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "87b887f4-bf9e-40a0-9a70-99fa2d1f5688",
       "name": "Japan vs Samoa, Super Six, Match 8, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
@@ -664,7 +785,7 @@
       "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
       "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Pakistan trail by 257 runs",
+      "status": "Day 2: 1st Session - Pakistan trail by 191 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T03:30:00",
@@ -692,9 +813,9 @@
           "inning": "Bangladesh Inning 1"
         },
         {
-          "r": 21,
-          "w": 0,
-          "o": 6,
+          "r": 87,
+          "w": 4,
+          "o": 27.4,
           "inning": "Pakistan Inning 1"
         }
       ],
@@ -974,141 +1095,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
-      "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Mumbai Indians won by 6 wkts",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T14:00:00",
-      "teams": [
-        "Punjab Kings",
-        "Mumbai Indians"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        },
-        {
-          "name": "Punjab Kings",
-          "shortname": "PBKS",
-          "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 200,
-          "w": 8,
-          "o": 20,
-          "inning": "Punjab Kings Inning 1"
-        },
-        {
-          "r": 205,
-          "w": 4,
-          "o": 19.5,
-          "inning": "Mumbai Indians Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0b3bab15-12b2-4a16-9f41-1096e40ff202",
-      "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders, 57th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Challengers Bengaluru won by 6 wkts",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-05-13",
-      "dateTimeGMT": "2026-05-13T14:00:00",
-      "teams": [
-        "Royal Challengers Bengaluru",
-        "Kolkata Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kolkata Knight Riders",
-          "shortname": "KKR",
-          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
-        },
-        {
-          "name": "Royal Challengers Bengaluru",
-          "shortname": "RCBW",
-          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 192,
-          "w": 4,
-          "o": 20,
-          "inning": "Kolkata Knight Riders Inning 1"
-        },
-        {
-          "r": 194,
-          "w": 4,
-          "o": 19.1,
-          "inning": "Royal Challengers Bengaluru Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7571bb90-969a-4396-8bf4-b8d4e2760015",
-      "name": "Kent vs Durham, 21st Match, County Championship Division Two 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Durham trail by 350 runs",
-      "venue": "Kent County Cricket Ground, Beckenham",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T10:00:00",
-      "teams": [
-        "Kent",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 523,
-          "w": 10,
-          "o": 132.5,
-          "inning": "kent Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 5,
-          "o": 41.3,
-          "inning": "Kent,Durham Inning 1"
-        }
-      ],
-      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
