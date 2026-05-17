@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T09:26:08.831Z",
+  "lastUpdated": "2026-05-17T15:02:31.669Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -40,7 +40,7 @@
         }
       ],
       "series_id": "4f97072a-a926-4822-8571-e6ddb2f9f2ae",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -85,7 +85,7 @@
         }
       ],
       "series_id": "4f97072a-a926-4822-8571-e6ddb2f9f2ae",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -130,7 +130,7 @@
         }
       ],
       "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -218,7 +218,7 @@
         }
       ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -346,10 +346,72 @@
       "matchEnded": false
     },
     {
+      "id": "8066652f-a10a-42f3-92ac-2c4ca899f2cd",
+      "name": "Austria vs Slovenia, 7th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Slovenia opt to bat",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T12:30:00",
+      "teams": [
+        "Austria",
+        "Slovenia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Slovenia",
+          "shortname": "SLN",
+          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d0401bb9-aa19-478c-8579-e275afd174cc",
+      "name": "Cyprus vs Jersey, 8th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Jersey opt to bat",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T12:30:00",
+      "teams": [
+        "Cyprus",
+        "Jersey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        },
+        {
+          "name": "Jersey",
+          "shortname": "JER",
+          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "fdd5ba66-2909-4fc7-97d3-438d63486ff3",
       "name": "Croatia vs France, 6th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "France opt to bat",
+      "status": "France won by 82 runs",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-17",
       "dateTimeGMT": "2026-05-17T07:30:00",
@@ -369,18 +431,32 @@
           "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 208,
+          "w": 4,
+          "o": 20,
+          "inning": "france Inning 1"
+        },
+        {
+          "r": 126,
+          "w": 10,
+          "o": 16.4,
+          "inning": "Croatia,France Inning 1"
+        }
+      ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4a99f33f-b30c-4c50-ad32-ae2dd5f17211",
       "name": "Guernsey vs Malta, 5th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Guernsey opt to bowl",
+      "status": "Guernsey won by 6 wkts",
       "venue": "Happy Valley Ground 2, Episkopi",
       "date": "2026-05-17",
       "dateTimeGMT": "2026-05-17T07:30:00",
@@ -400,12 +476,26 @@
           "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 74,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Malta Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 4,
+          "o": 11.2,
+          "inning": "Guernsey Inning 1"
+        }
+      ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "260572ed-3a1b-40cf-acfa-f6c58a2173ee",
@@ -951,7 +1041,7 @@
       "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
       "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 2: 3rd Session - Pakistan trail by 46 runs",
+      "status": "Day 2: Stumps - Bangladesh lead by 156 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T03:30:00",
@@ -980,9 +1070,15 @@
         },
         {
           "r": 232,
-          "w": 9,
-          "o": 57.3,
+          "w": 10,
+          "o": 57.4,
           "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 110,
+          "w": 3,
+          "o": 26.4,
+          "inning": "Bangladesh Inning 2"
         }
       ],
       "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
@@ -991,96 +1087,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "f6dfe2e4-a180-4556-9a10-7e05d23a5426",
-      "name": "Pakistan Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of Pakistan 2026",
-      "matchType": "t20",
-      "status": "Pakistan Women won by 133 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T14:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 4,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 90,
-          "w": 10,
-          "o": 17.1,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8c2ab05f-1e47-4ffc-9d0a-8abaff2b46e1",
-      "name": "Pakistan Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of Pakistan 2026",
-      "matchType": "t20",
-      "status": "Pakistan Women won by 67 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T14:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 170,
-          "w": 4,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 103,
-          "w": 8,
-          "o": 20,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1090,11 +1096,11 @@
     "standings": [
       {
         "team": "Royal Challengers Bengaluru",
-        "played": 12,
-        "won": 8,
+        "played": 13,
+        "won": 9,
         "lost": 3,
         "nr": 1,
-        "points": 17
+        "points": 19
       },
       {
         "team": "Gujarat Titans",
@@ -1114,9 +1120,9 @@
       },
       {
         "team": "Punjab Kings",
-        "played": 12,
+        "played": 13,
         "won": 6,
-        "lost": 5,
+        "lost": 6,
         "nr": 1,
         "points": 13
       },
