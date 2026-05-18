@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T20:58:47.631Z",
+  "lastUpdated": "2026-05-18T06:20:03.192Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -92,6 +92,37 @@
       "matchEnded": true
     },
     {
+      "id": "99b5371a-17ec-442f-8094-8e07193868a1",
+      "name": "Fiji vs Philippines, 6th Match, T20I Tri-Series In Japan, 2026",
+      "matchType": "t20",
+      "status": "Fiji opt to bat",
+      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T05:30:00",
+      "teams": [
+        "Fiji",
+        "Philippines"
+      ],
+      "teamInfo": [
+        {
+          "name": "Fiji",
+          "shortname": "FIJ",
+          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
+        },
+        {
+          "name": "Philippines",
+          "shortname": "PHL",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        }
+      ],
+      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "e70a10b8-073c-42fe-8d88-6d15258e2305",
       "name": "Fiji vs South Korea, 5th Match, T20I Tri-Series In Japan, 2026",
       "matchType": "t20",
@@ -135,6 +166,43 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "959f0c64-b1fb-4211-8024-5ca3a8d1356a",
+      "name": "Sri Lanka A Women vs New Zealand A Women, 3rd Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
+      "status": "New Zealand A Women opt to bat",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T04:30:00",
+      "teams": [
+        "Sri Lanka A Women",
+        "New Zealand A Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand A Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sri Lanka A Women",
+          "shortname": "SLAW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 92,
+          "w": 3,
+          "o": 20,
+          "inning": "new zealand a women Inning 1"
+        }
+      ],
+      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "99d5ee87-980c-4846-bcd8-f6a2e3406938",
@@ -661,6 +729,90 @@
       "matchEnded": true
     },
     {
+      "id": "bf4f21b8-8694-408e-aaf9-0261bfc7769f",
+      "name": "Papua New Guinea vs Japan, Super Six, Match 12, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Japan opt to bat",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T05:00:00",
+      "teams": [
+        "Papua New Guinea",
+        "Japan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan",
+          "shortname": "JPN",
+          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+        },
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 97,
+          "w": 5,
+          "o": 15,
+          "inning": "japan Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "53910dbb-6b00-4775-8611-350811ed571b",
+      "name": "Samoa vs Cook Islands, Super Six, Match 11, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Samoa won by 9 wkts",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T00:30:00",
+      "teams": [
+        "Samoa",
+        "Cook Islands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "Samoa",
+          "shortname": "SAMOA",
+          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 75,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Cook Islands Inning 1"
+        },
+        {
+          "r": 79,
+          "w": 1,
+          "o": 11.2,
+          "inning": "Samoa Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "adf36c85-3f68-43ea-ad63-4f38b16fa78b",
       "name": "Vanuatu vs Papua New Guinea, Super Six, Match 10, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
@@ -924,192 +1076,6 @@
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
-      "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
-      "matchType": "test",
-      "status": "Day 2: Stumps - Bangladesh lead by 156 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T03:30:00",
-      "teams": [
-        "Bangladesh",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 278,
-          "w": 10,
-          "o": 77,
-          "inning": "Bangladesh Inning 1"
-        },
-        {
-          "r": 232,
-          "w": 10,
-          "o": 57.4,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 110,
-          "w": 3,
-          "o": 26.4,
-          "inning": "Bangladesh Inning 2"
-        }
-      ],
-      "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "f6dfe2e4-a180-4556-9a10-7e05d23a5426",
-      "name": "Pakistan Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of Pakistan 2026",
-      "matchType": "t20",
-      "status": "Pakistan Women won by 133 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T14:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 4,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 90,
-          "w": 10,
-          "o": 17.1,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8c2ab05f-1e47-4ffc-9d0a-8abaff2b46e1",
-      "name": "Pakistan Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of Pakistan 2026",
-      "matchType": "t20",
-      "status": "Pakistan Women won by 67 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T14:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 170,
-          "w": 4,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 103,
-          "w": 8,
-          "o": 20,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f4756a59-f22f-4aca-940f-114f5c9bf3d4",
-      "name": "Nepal vs United States of America, 106th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 9 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T00:00:00",
-      "teams": [
-        "Nepal",
-        "United States of America"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "United States of America",
-          "shortname": "US",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 195,
-          "w": 10,
-          "o": 43.3,
-          "inning": "united states of america Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 1,
-          "o": 36.4,
-          "inning": "Nepal,United States of America Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
