@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T16:50:19.194Z",
+  "lastUpdated": "2026-05-18T21:15:40.603Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -306,51 +306,6 @@
         }
       ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f1724ed7-ff2a-45d0-a3de-aeae3655106a",
-      "name": "Fiji vs Philippines, 3rd Match, T20I Tri-Series In Japan, 2026",
-      "matchType": "t20",
-      "status": "Philippines won by 4 wkts",
-      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T01:00:00",
-      "teams": [
-        "Fiji",
-        "Philippines"
-      ],
-      "teamInfo": [
-        {
-          "name": "Fiji",
-          "shortname": "FIJ",
-          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
-        },
-        {
-          "name": "Philippines",
-          "shortname": "PHL",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 10,
-          "o": 18.4,
-          "inning": "fiji Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 6,
-          "o": 18.2,
-          "inning": "Fiji,Philippines Inning 1"
-        }
-      ],
-      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1019,44 +974,101 @@
       "matchEnded": true
     },
     {
-      "id": "aa585cc4-a6d0-40e6-ab7b-69dc161f450b",
-      "name": "Cook Islands vs Japan, Super Six, Match 6, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Cook Islands won by 3 wkts",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T05:00:00",
+      "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
+      "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Pakistan need 437 runs",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T03:30:00",
       "teams": [
-        "Cook Islands",
-        "Japan"
+        "Bangladesh",
+        "Pakistan"
       ],
       "teamInfo": [
         {
-          "name": "Cook Islands",
-          "shortname": "COI",
-          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
         },
         {
-          "name": "Japan",
-          "shortname": "JPN",
-          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 90,
+          "r": 278,
           "w": 10,
-          "o": 18.5,
-          "inning": "japan Inning 1"
+          "o": 77,
+          "inning": "Bangladesh Inning 1"
         },
         {
-          "r": 94,
-          "w": 7,
-          "o": 20,
-          "inning": "Cook Islands,Japan Inning 1"
+          "r": 232,
+          "w": 10,
+          "o": 57.4,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 390,
+          "w": 10,
+          "o": 102.2,
+          "inning": "Bangladesh Inning 2"
+        },
+        {
+          "r": 0,
+          "w": 0,
+          "o": 2,
+          "inning": "Pakistan Inning 2"
         }
       ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f6dfe2e4-a180-4556-9a10-7e05d23a5426",
+      "name": "Pakistan Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of Pakistan 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women won by 133 runs",
+      "venue": "National Stadium, Karachi",
+      "date": "2026-05-15",
+      "dateTimeGMT": "2026-05-15T14:30:00",
+      "teams": [
+        "Pakistan Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 223,
+          "w": 4,
+          "o": 20,
+          "inning": "pakistan women Inning 1"
+        },
+        {
+          "r": 90,
+          "w": 10,
+          "o": 17.1,
+          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -1064,44 +1076,44 @@
       "matchEnded": true
     },
     {
-      "id": "fb6b3ad8-dae1-44a7-8846-6a0f35c2df5e",
-      "name": "Indonesia vs Papua New Guinea, Super Six, Match 5, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Papua New Guinea won by 38 runs",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-14",
-      "dateTimeGMT": "2026-05-14T00:30:00",
+      "id": "d4ea0a53-e3fa-4da4-b4a2-1ba7a246714b",
+      "name": "Nepal vs Scotland, 107th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal won by 6 wkts",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T00:00:00",
       "teams": [
-        "Indonesia",
-        "Papua New Guinea"
+        "Nepal",
+        "Scotland"
       ],
       "teamInfo": [
         {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
         },
         {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 130,
-          "w": 7,
-          "o": 20,
-          "inning": "indonesia Inning 1"
+          "r": 194,
+          "w": 10,
+          "o": 39.1,
+          "inning": "scotland Inning 1"
         },
         {
-          "r": 92,
-          "w": 10,
-          "o": 19,
-          "inning": "Indonesia,Papua New Guinea Inning 1"
+          "r": 199,
+          "w": 4,
+          "o": 38.1,
+          "inning": "Nepal,Scotland Inning 1"
         }
       ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -1123,7 +1135,7 @@
         "points": 19
       },
       {
-        "team": "Gujarat Titans",
+        "team": "Sunrisers Hyderabad",
         "played": 13,
         "won": 8,
         "lost": 5,
@@ -1131,12 +1143,12 @@
         "points": 16
       },
       {
-        "team": "Sunrisers Hyderabad",
-        "played": 12,
-        "won": 7,
+        "team": "Gujarat Titans",
+        "played": 13,
+        "won": 8,
         "lost": 5,
         "nr": 0,
-        "points": 14
+        "points": 16
       },
       {
         "team": "Punjab Kings",
@@ -1148,9 +1160,9 @@
       },
       {
         "team": "Chennai Super Kings",
-        "played": 12,
+        "played": 13,
         "won": 6,
-        "lost": 6,
+        "lost": 7,
         "nr": 0,
         "points": 12
       },
