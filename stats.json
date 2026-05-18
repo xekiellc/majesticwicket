@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T11:35:09.311Z",
+  "lastUpdated": "2026-05-18T16:50:19.194Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -184,7 +184,7 @@
     {
       "id": "959f0c64-b1fb-4211-8024-5ca3a8d1356a",
       "name": "Sri Lanka A Women vs New Zealand A Women, 3rd Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
-      "status": "Sri Lanka A Women need 194 runs - 2nd inns reduced to 38 overs (DLS Target 26) due to rain",
+      "status": "NZ A Women won by 84 runs  -  2nd inns reduced to 38 overs (DLS Target 234)",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-05-18",
       "dateTimeGMT": "2026-05-18T04:30:00",
@@ -211,9 +211,9 @@
           "inning": "new zealand a women Inning 1"
         },
         {
-          "r": 40,
-          "w": 0,
-          "o": 9.5,
+          "r": 149,
+          "w": 10,
+          "o": 33.2,
           "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
         }
       ],
@@ -222,7 +222,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "99d5ee87-980c-4846-bcd8-f6a2e3406938",
