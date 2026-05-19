@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T16:52:00.485Z",
+  "lastUpdated": "2026-05-19T21:23:41.467Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -37,51 +37,6 @@
           "w": 4,
           "o": 20,
           "inning": "Malaysia Women,Indonesia Women Inning 1"
-        }
-      ],
-      "series_id": "4f97072a-a926-4822-8571-e6ddb2f9f2ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4a897823-d2af-4c5c-953a-a128ad46c7cc",
-      "name": "Malaysia Women vs Indonesia Women, 1st T20I, Indonesia Women tour of Malaysia, 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 7 wkts",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T00:00:00",
-      "teams": [
-        "Malaysia Women",
-        "Indonesia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 86,
-          "w": 8,
-          "o": 20,
-          "inning": "Malaysia Women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 3,
-          "o": 13.5,
-          "inning": "Indonesia Women Inning 1"
         }
       ],
       "series_id": "4f97072a-a926-4822-8571-e6ddb2f9f2ae",
@@ -263,49 +218,6 @@
         }
       ],
       "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "78702027-ac80-4814-be92-fdb5b7d89e4e",
-      "name": "Sri Lanka A Women vs New Zealand A Women, 2nd Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
-      "status": "No result due to rain",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T04:30:00",
-      "teams": [
-        "Sri Lanka A Women",
-        "New Zealand A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka A Women",
-          "shortname": "SLAW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 197,
-          "w": 9,
-          "o": 50,
-          "inning": "sri lanka a women Inning 1"
-        },
-        {
-          "r": 66,
-          "w": 4,
-          "o": 10.1,
-          "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
-        }
-      ],
-      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1107,6 +1019,108 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "562b34f8-aa4a-43a4-a114-10a048e3bb20",
+      "name": "Indonesia vs Vanuatu, Super Six, Match 7, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Vanuatu won by 1 run",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T00:30:00",
+      "teams": [
+        "Indonesia",
+        "Vanuatu"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 9,
+          "o": 20,
+          "inning": "Vanuatu Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 9,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
+      "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
+      "matchType": "test",
+      "status": "Day 4: Stumps - Pakistan need 121 runs",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2026-05-16",
+      "dateTimeGMT": "2026-05-16T03:30:00",
+      "teams": [
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 278,
+          "w": 10,
+          "o": 77,
+          "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 232,
+          "w": 10,
+          "o": 57.4,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 390,
+          "w": 10,
+          "o": 102.2,
+          "inning": "Bangladesh Inning 2"
+        },
+        {
+          "r": 316,
+          "w": 7,
+          "o": 86,
+          "inning": "Pakistan Inning 2"
+        }
+      ],
+      "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
@@ -1139,6 +1153,14 @@
         "points": 16
       },
       {
+        "team": "Rajasthan Royals",
+        "played": 13,
+        "won": 7,
+        "lost": 6,
+        "nr": 0,
+        "points": 14
+      },
+      {
         "team": "Punjab Kings",
         "played": 13,
         "won": 6,
@@ -1163,14 +1185,6 @@
         "points": 12
       },
       {
-        "team": "Rajasthan Royals",
-        "played": 12,
-        "won": 6,
-        "lost": 6,
-        "nr": 0,
-        "points": 12
-      },
-      {
         "team": "Kolkata Knight Riders",
         "played": 12,
         "won": 4,
@@ -1188,9 +1202,9 @@
       },
       {
         "team": "Lucknow Super Giants",
-        "played": 12,
+        "played": 13,
         "won": 3,
-        "lost": 7,
+        "lost": 8,
         "nr": 2,
         "points": 8
       }
