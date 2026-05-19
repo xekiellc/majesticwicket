@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T21:15:40.603Z",
+  "lastUpdated": "2026-05-19T06:13:49.855Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -977,7 +977,7 @@
       "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
       "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Pakistan need 437 runs",
+      "status": "Day 4: Lunch Break - Pakistan need 336 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T03:30:00",
@@ -1017,9 +1017,9 @@
           "inning": "Bangladesh Inning 2"
         },
         {
-          "r": 0,
-          "w": 0,
-          "o": 2,
+          "r": 101,
+          "w": 2,
+          "o": 26,
           "inning": "Pakistan Inning 2"
         }
       ],
