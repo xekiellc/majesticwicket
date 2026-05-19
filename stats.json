@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T06:13:49.855Z",
+  "lastUpdated": "2026-05-19T10:52:02.805Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -338,6 +338,96 @@
       ],
       "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
       "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "19b9e0d0-cb5a-42ca-b2e2-695d27d36693",
+      "name": "Slovenia vs Sweden, 10th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Sweden need 72 runs in 84 balls",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-19",
+      "dateTimeGMT": "2026-05-19T07:30:00",
+      "teams": [
+        "Slovenia",
+        "Sweden"
+      ],
+      "teamInfo": [
+        {
+          "name": "Slovenia",
+          "shortname": "SLN",
+          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+        },
+        {
+          "name": "Sweden",
+          "shortname": "SWE",
+          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 133,
+          "w": 5,
+          "o": 20,
+          "inning": "slovenia Inning 1"
+        },
+        {
+          "r": 62,
+          "w": 2,
+          "o": 6,
+          "inning": "Slovenia,Sweden Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "c222563d-5cdb-4bfa-a5a1-e22701a0ea45",
+      "name": "France vs Jersey, 9th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Jersey need 99 runs in 90 balls",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-19",
+      "dateTimeGMT": "2026-05-19T07:30:00",
+      "teams": [
+        "France",
+        "Jersey"
+      ],
+      "teamInfo": [
+        {
+          "name": "France",
+          "shortname": "FRA",
+          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
+        },
+        {
+          "name": "Jersey",
+          "shortname": "JER",
+          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 145,
+          "w": 10,
+          "o": 19.2,
+          "inning": "France Inning 1"
+        },
+        {
+          "r": 47,
+          "w": 0,
+          "o": 5,
+          "inning": "Jersey Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -977,7 +1067,7 @@
       "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
       "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 4: Lunch Break - Pakistan need 336 runs",
+      "status": "Day 4: 3rd Session - Pakistan need 162 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-05-16",
       "dateTimeGMT": "2026-05-16T03:30:00",
@@ -1017,9 +1107,9 @@
           "inning": "Bangladesh Inning 2"
         },
         {
-          "r": 101,
-          "w": 2,
-          "o": 26,
+          "r": 275,
+          "w": 5,
+          "o": 76.1,
           "inning": "Pakistan Inning 2"
         }
       ],
@@ -1029,96 +1119,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "f6dfe2e4-a180-4556-9a10-7e05d23a5426",
-      "name": "Pakistan Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of Pakistan 2026",
-      "matchType": "t20",
-      "status": "Pakistan Women won by 133 runs",
-      "venue": "National Stadium, Karachi",
-      "date": "2026-05-15",
-      "dateTimeGMT": "2026-05-15T14:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 4,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 90,
-          "w": 10,
-          "o": 17.1,
-          "inning": "Pakistan Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "73a86437-1eb7-4024-a6eb-1105a9fa2173",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4ea0a53-e3fa-4da4-b4a2-1ba7a246714b",
-      "name": "Nepal vs Scotland, 107th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 6 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T00:00:00",
-      "teams": [
-        "Nepal",
-        "Scotland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 10,
-          "o": 39.1,
-          "inning": "scotland Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 4,
-          "o": 38.1,
-          "inning": "Nepal,Scotland Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
