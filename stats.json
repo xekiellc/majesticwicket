@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T10:52:02.805Z",
+  "lastUpdated": "2026-05-19T16:52:00.485Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -344,10 +344,100 @@
       "matchEnded": false
     },
     {
+      "id": "7ebcc1ee-5c3a-41d2-bb48-ff3066234cb2",
+      "name": "Austria vs Guernsey, 12th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Guernsey won by 46 runs",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-19",
+      "dateTimeGMT": "2026-05-19T12:30:00",
+      "teams": [
+        "Austria",
+        "Guernsey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Guernsey",
+          "shortname": "GUE",
+          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 196,
+          "w": 7,
+          "o": 20,
+          "inning": "Guernsey Inning 1"
+        },
+        {
+          "r": 150,
+          "w": 10,
+          "o": 17.4,
+          "inning": "Austria Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f537fe3d-da8b-489c-afa9-39a033964d8e",
+      "name": "Croatia vs Switzerland, 11th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Croatia won by 16 runs",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-19",
+      "dateTimeGMT": "2026-05-19T12:30:00",
+      "teams": [
+        "Croatia",
+        "Switzerland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Croatia",
+          "shortname": "CRT",
+          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
+        },
+        {
+          "name": "Switzerland",
+          "shortname": "SWZ",
+          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 199,
+          "w": 2,
+          "o": 20,
+          "inning": "croatia Inning 1"
+        },
+        {
+          "r": 183,
+          "w": 8,
+          "o": 20,
+          "inning": "Croatia,Switzerland Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "19b9e0d0-cb5a-42ca-b2e2-695d27d36693",
       "name": "Slovenia vs Sweden, 10th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Sweden need 72 runs in 84 balls",
+      "status": "Sweden won by 7 wkts",
       "venue": "Happy Valley Ground 2, Episkopi",
       "date": "2026-05-19",
       "dateTimeGMT": "2026-05-19T07:30:00",
@@ -375,9 +465,9 @@
           "inning": "slovenia Inning 1"
         },
         {
-          "r": 62,
-          "w": 2,
-          "o": 6,
+          "r": 136,
+          "w": 3,
+          "o": 14.2,
           "inning": "Slovenia,Sweden Inning 1"
         }
       ],
@@ -386,13 +476,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c222563d-5cdb-4bfa-a5a1-e22701a0ea45",
       "name": "France vs Jersey, 9th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Jersey need 99 runs in 90 balls",
+      "status": "Jersey won by 8 wkts",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-19",
       "dateTimeGMT": "2026-05-19T07:30:00",
@@ -420,9 +510,9 @@
           "inning": "France Inning 1"
         },
         {
-          "r": 47,
-          "w": 0,
-          "o": 5,
+          "r": 148,
+          "w": 2,
+          "o": 15.5,
           "inning": "Jersey Inning 1"
         }
       ],
@@ -431,7 +521,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8066652f-a10a-42f3-92ac-2c4ca899f2cd",
@@ -1017,108 +1107,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "562b34f8-aa4a-43a4-a114-10a048e3bb20",
-      "name": "Indonesia vs Vanuatu, Super Six, Match 7, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Vanuatu won by 1 run",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T00:30:00",
-      "teams": [
-        "Indonesia",
-        "Vanuatu"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        },
-        {
-          "name": "Vanuatu",
-          "shortname": "VAN",
-          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 9,
-          "o": 20,
-          "inning": "Vanuatu Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 9,
-          "o": 20,
-          "inning": "Indonesia Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cd6409fd-af91-47bb-b6d3-beaa9dbfad3b",
-      "name": "Bangladesh vs Pakistan, 2nd Test, Pakistan tour of Bangladesh, 2026",
-      "matchType": "test",
-      "status": "Day 4: 3rd Session - Pakistan need 162 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T03:30:00",
-      "teams": [
-        "Bangladesh",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 278,
-          "w": 10,
-          "o": 77,
-          "inning": "Bangladesh Inning 1"
-        },
-        {
-          "r": 232,
-          "w": 10,
-          "o": 57.4,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 390,
-          "w": 10,
-          "o": 102.2,
-          "inning": "Bangladesh Inning 2"
-        },
-        {
-          "r": 275,
-          "w": 5,
-          "o": 76.1,
-          "inning": "Pakistan Inning 2"
-        }
-      ],
-      "series_id": "122a012b-7af2-472c-9555-80bc3d786a37",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
