@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T16:57:27.538Z",
+  "lastUpdated": "2026-05-20T22:00:03.711Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -218,51 +218,6 @@
         }
       ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "99d5ee87-980c-4846-bcd8-f6a2e3406938",
-      "name": "Philippines vs South Korea, 4th Match, T20I Tri-Series In Japan, 2026",
-      "matchType": "t20",
-      "status": "South Korea won by 8 wkts",
-      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T05:30:00",
-      "teams": [
-        "Philippines",
-        "South Korea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Philippines",
-          "shortname": "PHL",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        },
-        {
-          "name": "South Korea",
-          "shortname": "SKO",
-          "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 94,
-          "w": 8,
-          "o": 20,
-          "inning": "philippines Inning 1"
-        },
-        {
-          "r": 95,
-          "w": 2,
-          "o": 13.2,
-          "inning": "Philippines,South Korea Inning 1"
-        }
-      ],
-      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -841,186 +796,6 @@
       "matchEnded": true
     },
     {
-      "id": "260572ed-3a1b-40cf-acfa-f6c58a2173ee",
-      "name": "Austria vs Malta, 4th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Austria won by 7 wkts",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T12:30:00",
-      "teams": [
-        "Austria",
-        "Malta"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria",
-          "shortname": "AUT",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 10,
-          "o": 20,
-          "inning": "Malta Inning 1"
-        },
-        {
-          "r": 141,
-          "w": 3,
-          "o": 12.5,
-          "inning": "Austria Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7edfa073-0567-4f1b-b7f6-8419c9649696",
-      "name": "Jersey vs Switzerland, 3rd Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Jersey won by 9 wkts",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T12:30:00",
-      "teams": [
-        "Jersey",
-        "Switzerland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 73,
-          "w": 10,
-          "o": 16.5,
-          "inning": "switzerland Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 1,
-          "o": 7.1,
-          "inning": "Jersey,Switzerland Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2d1433e8-1429-4c19-8f6f-6c5faeab7aea",
-      "name": "Guernsey vs Sweden, 2nd Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Guernsey won by 12 runs",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T07:30:00",
-      "teams": [
-        "Guernsey",
-        "Sweden"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guernsey",
-          "shortname": "GUE",
-          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
-        },
-        {
-          "name": "Sweden",
-          "shortname": "SWE",
-          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 8,
-          "o": 20,
-          "inning": "Guernsey Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Sweden Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "56cb0853-1d19-4b70-81e5-b64e95c26525",
-      "name": "Cyprus vs France, 1st Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "France won by 8 wkts",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T07:30:00",
-      "teams": [
-        "Cyprus",
-        "France"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus",
-          "shortname": "CYP",
-          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
-        },
-        {
-          "name": "France",
-          "shortname": "FRA",
-          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 115,
-          "w": 9,
-          "o": 20,
-          "inning": "cyprus Inning 1"
-        },
-        {
-          "r": 119,
-          "w": 2,
-          "o": 12.5,
-          "inning": "Cyprus,France Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "bf4f21b8-8694-408e-aaf9-0261bfc7769f",
       "name": "Papua New Guinea vs Japan, Super Six, Match 12, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
@@ -1109,6 +884,231 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "adf36c85-3f68-43ea-ad63-4f38b16fa78b",
+      "name": "Vanuatu vs Papua New Guinea, Super Six, Match 10, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Papua New Guinea won by 147 runs",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T05:00:00",
+      "teams": [
+        "Vanuatu",
+        "Papua New Guinea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        },
+        {
+          "name": "Vanuatu",
+          "shortname": "VAN",
+          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 207,
+          "w": 5,
+          "o": 20,
+          "inning": "papua new guinea Inning 1"
+        },
+        {
+          "r": 60,
+          "w": 10,
+          "o": 14.2,
+          "inning": "Vanuatu,Papua New Guinea Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f7ac420d-8bb2-4d3f-a64f-b86787aed2f7",
+      "name": "Cook Islands vs Indonesia, Super Six, Match 9, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
+      "matchType": "t20",
+      "status": "Cook Islands won by 50 runs  -  16 overs game",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-05-17",
+      "dateTimeGMT": "2026-05-17T00:30:00",
+      "teams": [
+        "Cook Islands",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cook Islands",
+          "shortname": "COI",
+          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
+        },
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 128,
+          "w": 6,
+          "o": 16,
+          "inning": "Cook Islands Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 6,
+          "o": 16,
+          "inning": "Indonesia Inning 1"
+        }
+      ],
+      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5385eecd-60e2-4d55-9fac-eb6f147f456a",
+      "name": "Scotland vs United States of America, 108th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United States of America won by 6 wkts",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T00:00:00",
+      "teams": [
+        "Scotland",
+        "United States of America"
+      ],
+      "teamInfo": [
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 169,
+          "w": 10,
+          "o": 43.3,
+          "inning": "scotland Inning 1"
+        },
+        {
+          "r": 170,
+          "w": 4,
+          "o": 27.1,
+          "inning": "Scotland,United States of America Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d4ea0a53-e3fa-4da4-b4a2-1ba7a246714b",
+      "name": "Nepal vs Scotland, 107th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal won by 6 wkts",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T00:00:00",
+      "teams": [
+        "Nepal",
+        "Scotland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 194,
+          "w": 10,
+          "o": 39.1,
+          "inning": "scotland Inning 1"
+        },
+        {
+          "r": 199,
+          "w": 4,
+          "o": 38.1,
+          "inning": "Nepal,Scotland Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5b1d59f9-51fd-449d-8cf1-9fc15ef15675",
+      "name": "Kolkata Knight Riders vs Mumbai Indians, 65th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Kolkata Knight Riders won by 4 wkts",
+      "venue": "Eden Gardens, Kolkata",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T14:00:00",
+      "teams": [
+        "Kolkata Knight Riders",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kolkata Knight Riders",
+          "shortname": "KKR",
+          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+        },
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 147,
+          "w": 8,
+          "o": 20,
+          "inning": "Mumbai Indians Inning 1"
+        },
+        {
+          "r": 148,
+          "w": 6,
+          "o": 18.5,
+          "inning": "Kolkata Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1174,17 +1174,17 @@
       },
       {
         "team": "Kolkata Knight Riders",
-        "played": 12,
-        "won": 4,
+        "played": 13,
+        "won": 5,
         "lost": 6,
         "nr": 2,
-        "points": 10
+        "points": 12
       },
       {
         "team": "Mumbai Indians",
-        "played": 12,
+        "played": 13,
         "won": 4,
-        "lost": 8,
+        "lost": 9,
         "nr": 0,
         "points": 8
       },
