@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T06:14:38.472Z",
+  "lastUpdated": "2026-05-20T10:40:03.649Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -50,7 +50,7 @@
       "id": "9a1a919f-facc-4574-a00a-b369c20f44e7",
       "name": "Malaysia Women vs Nepal Women, 1st T20I, Nepal Women tour of Malaysia 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Nepal Women won by 2 wkts",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-05-19",
       "dateTimeGMT": "2026-05-19T02:30:00",
@@ -76,6 +76,12 @@
           "w": 10,
           "o": 16.5,
           "inning": "malaysia women Inning 1"
+        },
+        {
+          "r": 71,
+          "w": 8,
+          "o": 17.3,
+          "inning": "Malaysia Women,Nepal Women Inning 1"
         }
       ],
       "series_id": "2360bef2-965a-40cf-b9c4-c8aacbd0ac67",
@@ -83,7 +89,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "99b5371a-17ec-442f-8094-8e07193868a1",
@@ -289,6 +295,90 @@
       ],
       "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
       "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "c5f49e0c-c2c1-4915-93cf-02534c05ae74",
+      "name": "Guernsey vs Slovenia, 13th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Guernsey need 12 runs in 53 balls",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T07:30:00",
+      "teams": [
+        "Guernsey",
+        "Slovenia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guernsey",
+          "shortname": "GUE",
+          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
+        },
+        {
+          "name": "Slovenia",
+          "shortname": "SLN",
+          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 99,
+          "w": 10,
+          "o": 19.4,
+          "inning": "slovenia Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 5,
+          "o": 11.1,
+          "inning": "Guernsey,Slovenia Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f6f540d5-cae7-4fe4-ad66-d4b86710212c",
+      "name": "Cyprus vs Switzerland, 14th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T07:30:00",
+      "teams": [
+        "Cyprus",
+        "Switzerland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        },
+        {
+          "name": "Switzerland",
+          "shortname": "SWZ",
+          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 9,
+          "o": 20,
+          "inning": "Switzerland Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -1004,96 +1094,6 @@
           "r": 78,
           "w": 6,
           "o": 16,
-          "inning": "Indonesia Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "87b887f4-bf9e-40a0-9a70-99fa2d1f5688",
-      "name": "Japan vs Samoa, Super Six, Match 8, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Japan won by 9 wkts",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T05:00:00",
-      "teams": [
-        "Japan",
-        "Samoa"
-      ],
-      "teamInfo": [
-        {
-          "name": "Japan",
-          "shortname": "JPN",
-          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
-        },
-        {
-          "name": "Samoa",
-          "shortname": "SAMOA",
-          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 81,
-          "w": 10,
-          "o": 18.5,
-          "inning": "samoa Inning 1"
-        },
-        {
-          "r": 82,
-          "w": 1,
-          "o": 11.1,
-          "inning": "Japan,Samoa Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "562b34f8-aa4a-43a4-a114-10a048e3bb20",
-      "name": "Indonesia vs Vanuatu, Super Six, Match 7, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Vanuatu won by 1 run",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-16",
-      "dateTimeGMT": "2026-05-16T00:30:00",
-      "teams": [
-        "Indonesia",
-        "Vanuatu"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        },
-        {
-          "name": "Vanuatu",
-          "shortname": "VAN",
-          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 9,
-          "o": 20,
-          "inning": "Vanuatu Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 9,
-          "o": 20,
           "inning": "Indonesia Inning 1"
         }
       ],
