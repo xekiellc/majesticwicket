@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:40:03.649Z",
+  "lastUpdated": "2026-05-20T16:57:27.538Z",
   "recentMatches": [
     {
       "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
@@ -301,10 +301,100 @@
       "matchEnded": false
     },
     {
+      "id": "be400343-a521-4313-81d9-827b8629c8f8",
+      "name": "Croatia vs Jersey, 16th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Jersey won by 109 runs",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T12:30:00",
+      "teams": [
+        "Croatia",
+        "Jersey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Croatia",
+          "shortname": "CRT",
+          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
+        },
+        {
+          "name": "Jersey",
+          "shortname": "JER",
+          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 280,
+          "w": 3,
+          "o": 20,
+          "inning": "Jersey Inning 1"
+        },
+        {
+          "r": 171,
+          "w": 10,
+          "o": 19.3,
+          "inning": "Croatia Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "434b24cb-8405-46e7-be26-3077cfd911a0",
+      "name": "Malta vs Sweden, 15th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Malta won by 6 wkts",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T12:30:00",
+      "teams": [
+        "Malta",
+        "Sweden"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        },
+        {
+          "name": "Sweden",
+          "shortname": "SWE",
+          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 181,
+          "w": 8,
+          "o": 20,
+          "inning": "Sweden Inning 1"
+        },
+        {
+          "r": 182,
+          "w": 4,
+          "o": 19,
+          "inning": "Malta Inning 1"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "c5f49e0c-c2c1-4915-93cf-02534c05ae74",
       "name": "Guernsey vs Slovenia, 13th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Guernsey need 12 runs in 53 balls",
+      "status": "Guernsey won by 4 wkts",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-20",
       "dateTimeGMT": "2026-05-20T07:30:00",
@@ -332,9 +422,9 @@
           "inning": "slovenia Inning 1"
         },
         {
-          "r": 88,
-          "w": 5,
-          "o": 11.1,
+          "r": 103,
+          "w": 6,
+          "o": 14.1,
           "inning": "Guernsey,Slovenia Inning 1"
         }
       ],
@@ -343,13 +433,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f6f540d5-cae7-4fe4-ad66-d4b86710212c",
       "name": "Cyprus vs Switzerland, 14th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Switzerland won by 25 runs",
       "venue": "Happy Valley Ground 2, Episkopi",
       "date": "2026-05-20",
       "dateTimeGMT": "2026-05-20T07:30:00",
@@ -375,6 +465,12 @@
           "w": 9,
           "o": 20,
           "inning": "Switzerland Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Cyprus Inning 1"
         }
       ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
@@ -382,7 +478,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7ebcc1ee-5c3a-41d2-bb48-ff3066234cb2",
@@ -1005,96 +1101,6 @@
           "w": 1,
           "o": 11.2,
           "inning": "Samoa Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "adf36c85-3f68-43ea-ad63-4f38b16fa78b",
-      "name": "Vanuatu vs Papua New Guinea, Super Six, Match 10, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Papua New Guinea won by 147 runs",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T05:00:00",
-      "teams": [
-        "Vanuatu",
-        "Papua New Guinea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        },
-        {
-          "name": "Vanuatu",
-          "shortname": "VAN",
-          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 207,
-          "w": 5,
-          "o": 20,
-          "inning": "papua new guinea Inning 1"
-        },
-        {
-          "r": 60,
-          "w": 10,
-          "o": 14.2,
-          "inning": "Vanuatu,Papua New Guinea Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f7ac420d-8bb2-4d3f-a64f-b86787aed2f7",
-      "name": "Cook Islands vs Indonesia, Super Six, Match 9, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Cook Islands won by 50 runs  -  16 overs game",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T00:30:00",
-      "teams": [
-        "Cook Islands",
-        "Indonesia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cook Islands",
-          "shortname": "COI",
-          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
-        },
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 6,
-          "o": 16,
-          "inning": "Cook Islands Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 6,
-          "o": 16,
-          "inning": "Indonesia Inning 1"
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
