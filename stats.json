@@ -1,51 +1,6 @@
 {
-  "lastUpdated": "2026-05-21T16:41:22.078Z",
+  "lastUpdated": "2026-05-21T21:39:42.982Z",
   "recentMatches": [
-    {
-      "id": "25e697dd-10c3-42e9-b7a3-84c0e81a6637",
-      "name": "Malaysia Women vs Indonesia Women, 2nd T20I, Indonesia Women tour of Malaysia, 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 36 runs",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T00:00:00",
-      "teams": [
-        "Malaysia Women",
-        "Indonesia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 135,
-          "w": 6,
-          "o": 20,
-          "inning": "indonesia women Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 4,
-          "o": 20,
-          "inning": "Malaysia Women,Indonesia Women Inning 1"
-        }
-      ],
-      "series_id": "4f97072a-a926-4822-8571-e6ddb2f9f2ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "9a1a919f-facc-4574-a00a-b369c20f44e7",
       "name": "Malaysia Women vs Nepal Women, 1st T20I, Nepal Women tour of Malaysia 2026",
@@ -127,51 +82,6 @@
           "w": 1,
           "o": 15.4,
           "inning": "Fiji,Philippines Inning 1"
-        }
-      ],
-      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e70a10b8-073c-42fe-8d88-6d15258e2305",
-      "name": "Fiji vs South Korea, 5th Match, T20I Tri-Series In Japan, 2026",
-      "matchType": "t20",
-      "status": "South Korea won by 7 wkts",
-      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T01:00:00",
-      "teams": [
-        "Fiji",
-        "South Korea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Fiji",
-          "shortname": "FIJ",
-          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
-        },
-        {
-          "name": "South Korea",
-          "shortname": "SKO",
-          "img": "https://g.cricapi.com/iapi/656-637928913987986366.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 107,
-          "w": 7,
-          "o": 20,
-          "inning": "Fiji Inning 1"
-        },
-        {
-          "r": 109,
-          "w": 3,
-          "o": 14.1,
-          "inning": "South Korea Inning 1"
         }
       ],
       "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
@@ -660,186 +570,6 @@
       "matchEnded": true
     },
     {
-      "id": "8066652f-a10a-42f3-92ac-2c4ca899f2cd",
-      "name": "Austria vs Slovenia, 7th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Austria won by 2 wkts",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T12:30:00",
-      "teams": [
-        "Austria",
-        "Slovenia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria",
-          "shortname": "AUT",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Slovenia",
-          "shortname": "SLN",
-          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 164,
-          "w": 6,
-          "o": 20,
-          "inning": "slovenia Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 8,
-          "o": 18.4,
-          "inning": "Austria,Slovenia Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d0401bb9-aa19-478c-8579-e275afd174cc",
-      "name": "Cyprus vs Jersey, 8th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Jersey won by 52 runs",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T12:30:00",
-      "teams": [
-        "Cyprus",
-        "Jersey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus",
-          "shortname": "CYP",
-          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
-        },
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 172,
-          "w": 9,
-          "o": 20,
-          "inning": "jersey Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 9,
-          "o": 20,
-          "inning": "Cyprus,Jersey Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fdd5ba66-2909-4fc7-97d3-438d63486ff3",
-      "name": "Croatia vs France, 6th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "France won by 82 runs",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T07:30:00",
-      "teams": [
-        "Croatia",
-        "France"
-      ],
-      "teamInfo": [
-        {
-          "name": "Croatia",
-          "shortname": "CRT",
-          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
-        },
-        {
-          "name": "France",
-          "shortname": "FRA",
-          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 208,
-          "w": 4,
-          "o": 20,
-          "inning": "france Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 10,
-          "o": 16.4,
-          "inning": "Croatia,France Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4a99f33f-b30c-4c50-ad32-ae2dd5f17211",
-      "name": "Guernsey vs Malta, 5th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Guernsey won by 6 wkts",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T07:30:00",
-      "teams": [
-        "Guernsey",
-        "Malta"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guernsey",
-          "shortname": "GUE",
-          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
-        },
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 74,
-          "w": 10,
-          "o": 18.2,
-          "inning": "Malta Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 4,
-          "o": 11.2,
-          "inning": "Guernsey Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "bf4f21b8-8694-408e-aaf9-0261bfc7769f",
       "name": "Papua New Guinea vs Japan, Super Six, Match 12, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
       "matchType": "t20",
@@ -920,96 +650,6 @@
           "w": 1,
           "o": 11.2,
           "inning": "Samoa Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "adf36c85-3f68-43ea-ad63-4f38b16fa78b",
-      "name": "Vanuatu vs Papua New Guinea, Super Six, Match 10, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Papua New Guinea won by 147 runs",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T05:00:00",
-      "teams": [
-        "Vanuatu",
-        "Papua New Guinea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        },
-        {
-          "name": "Vanuatu",
-          "shortname": "VAN",
-          "img": "https://g.cricapi.com/iapi/666-637870996123242059.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 207,
-          "w": 5,
-          "o": 20,
-          "inning": "papua new guinea Inning 1"
-        },
-        {
-          "r": 60,
-          "w": 10,
-          "o": 14.2,
-          "inning": "Vanuatu,Papua New Guinea Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f7ac420d-8bb2-4d3f-a64f-b86787aed2f7",
-      "name": "Cook Islands vs Indonesia, Super Six, Match 9, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Cook Islands won by 50 runs  -  16 overs game",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-17",
-      "dateTimeGMT": "2026-05-17T00:30:00",
-      "teams": [
-        "Cook Islands",
-        "Indonesia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cook Islands",
-          "shortname": "COI",
-          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
-        },
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 6,
-          "o": 16,
-          "inning": "Cook Islands Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 6,
-          "o": 16,
-          "inning": "Indonesia Inning 1"
         }
       ],
       "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
@@ -1108,6 +748,231 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "fd660ab1-c4bf-4c0f-b1b9-7232361cd1e8",
+      "name": "Gujarat Titans vs Chennai Super Kings, 66th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Gujarat Titans won by 89 runs",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2026-05-21",
+      "dateTimeGMT": "2026-05-21T14:00:00",
+      "teams": [
+        "Gujarat Titans",
+        "Chennai Super Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Gujarat Titans",
+          "shortname": "GT",
+          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 229,
+          "w": 4,
+          "o": 20,
+          "inning": "Gujarat Titans Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 10,
+          "o": 13.4,
+          "inning": "Chennai Super Kings Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5b1d59f9-51fd-449d-8cf1-9fc15ef15675",
+      "name": "Kolkata Knight Riders vs Mumbai Indians, 65th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Kolkata Knight Riders won by 4 wkts",
+      "venue": "Eden Gardens, Kolkata",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T14:00:00",
+      "teams": [
+        "Kolkata Knight Riders",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kolkata Knight Riders",
+          "shortname": "KKR",
+          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+        },
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 147,
+          "w": 8,
+          "o": 20,
+          "inning": "Mumbai Indians Inning 1"
+        },
+        {
+          "r": 148,
+          "w": 6,
+          "o": 18.5,
+          "inning": "Kolkata Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3b225f44-ddf2-41d4-8079-7a3f81876e35",
+      "name": "Rajasthan Royals vs Lucknow Super Giants, 64th Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Rajasthan Royals won by 7 wkts",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2026-05-19",
+      "dateTimeGMT": "2026-05-19T14:00:00",
+      "teams": [
+        "Rajasthan Royals",
+        "Lucknow Super Giants"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lucknow Super Giants",
+          "shortname": "LSG",
+          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+        },
+        {
+          "name": "Rajasthan Royals",
+          "shortname": "RR",
+          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 220,
+          "w": 5,
+          "o": 20,
+          "inning": "Lucknow Super Giants Inning 1"
+        },
+        {
+          "r": 225,
+          "w": 3,
+          "o": 19.1,
+          "inning": "Rajasthan Royals Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8416c2a9-4a74-4ac2-a6ae-5ad2538cbc56",
+      "name": "Chennai Super Kings vs Sunrisers Hyderabad, 63rd Match, Indian Premier League 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Hyderabad won by 5 wkts",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-05-18",
+      "dateTimeGMT": "2026-05-18T14:00:00",
+      "teams": [
+        "Chennai Super Kings",
+        "Sunrisers Hyderabad"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chennai Super Kings",
+          "shortname": "CSK",
+          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+        },
+        {
+          "name": "Sunrisers Hyderabad",
+          "shortname": "SRH",
+          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 180,
+          "w": 7,
+          "o": 20,
+          "inning": "chennai super kings Inning 1"
+        },
+        {
+          "r": 181,
+          "w": 5,
+          "o": 19,
+          "inning": "Chennai Super Kings,Sunrisers Hyderabad Inning 1"
+        }
+      ],
+      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "641ecd9b-a235-420a-a03e-d04ca55587ca",
+      "name": "England Women vs New Zealand Women, 1st T20I, New Zealand Women tour of England 2026",
+      "matchType": "t20",
+      "status": "England Women won by 7 wkts",
+      "venue": "County Ground, Derby",
+      "date": "2026-05-20",
+      "dateTimeGMT": "2026-05-20T17:30:00",
+      "teams": [
+        "England Women",
+        "New Zealand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 7,
+          "o": 20,
+          "inning": "New Zealand Women Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 3,
+          "o": 17.2,
+          "inning": "England Women Inning 1"
+        }
+      ],
+      "series_id": "17fda001-ea50-4ce4-b3cd-7a416800d63f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1124,15 +989,15 @@
         "points": 19
       },
       {
-        "team": "Sunrisers Hyderabad",
-        "played": 13,
-        "won": 8,
+        "team": "Gujarat Titans",
+        "played": 14,
+        "won": 9,
         "lost": 5,
         "nr": 0,
-        "points": 16
+        "points": 18
       },
       {
-        "team": "Gujarat Titans",
+        "team": "Sunrisers Hyderabad",
         "played": 13,
         "won": 8,
         "lost": 5,
@@ -1157,9 +1022,9 @@
       },
       {
         "team": "Chennai Super Kings",
-        "played": 13,
+        "played": 14,
         "won": 6,
-        "lost": 7,
+        "lost": 8,
         "nr": 0,
         "points": 12
       },
