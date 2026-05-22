@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-22T16:30:20.573Z",
+  "lastUpdated": "2026-05-22T21:15:58.074Z",
   "recentMatches": [
     {
       "id": "3e393388-7b61-4a8f-8a12-93bed9f25864",
       "name": "Gloucestershire Women vs Glamorgan Women, 3rd Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Gloucestershire Women need 105 runs in 30 balls",
+      "status": "Glamorgan Women won by 65 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T14:00:00",
@@ -31,9 +31,9 @@
           "inning": "Glamorgan Women Inning 1"
         },
         {
-          "r": 80,
-          "w": 5,
-          "o": 15,
+          "r": 119,
+          "w": 6,
+          "o": 20,
           "inning": "Gloucestershire Women Inning 1"
         }
       ],
@@ -42,13 +42,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e9e19cdd-085b-404a-a7b6-4f1d95c0a155",
       "name": "Leicestershire Women vs Worcestershire Women, 4th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Worcestershire Women need 43 runs in 44 balls",
+      "status": "Worcestershire Women won by 2 wkts",
       "venue": "Grace Road, Leicester",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T13:30:00",
@@ -74,9 +74,9 @@
           "inning": "Leicestershire Women Inning 1"
         },
         {
-          "r": 114,
-          "w": 5,
-          "o": 12.4,
+          "r": 157,
+          "w": 8,
+          "o": 19.1,
           "inning": "Worcestershire Women Inning 1"
         }
       ],
@@ -177,7 +177,7 @@
       "id": "e39680e0-a4aa-4e33-b00f-025ef24c5d3a",
       "name": "The Blaze Women vs Yorkshire Women, 4th Match, Womens T20 Blast 2026",
       "matchType": "t20",
-      "status": "The Blaze Women need 3 runs in 4 balls",
+      "status": "The Blaze Women won by 4 wkts",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T13:30:00",
@@ -203,9 +203,9 @@
           "inning": "yorkshire women Inning 1"
         },
         {
-          "r": 177,
+          "r": 181,
           "w": 6,
-          "o": 19.2,
+          "o": 19.3,
           "inning": "The Blaze Women,Yorkshire Women Inning 1"
         }
       ],
@@ -214,7 +214,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "11e4600b-4283-4a66-aa6f-f49448052350",
@@ -263,7 +263,7 @@
       "id": "c5601c21-32c8-453e-8815-68cfa1d95038",
       "name": "Surrey Women vs Lancashire Women, 2nd Match, Womens T20 Blast 2026",
       "matchType": "t20",
-      "status": "Surrey Women need 13 runs in 23 balls",
+      "status": "Surrey Women won by 6 wkts",
       "venue": "Kennington Oval, London",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T13:15:00",
@@ -289,9 +289,9 @@
           "inning": "lancashire women Inning 1"
         },
         {
-          "r": 173,
-          "w": 3,
-          "o": 16.1,
+          "r": 191,
+          "w": 4,
+          "o": 18.5,
           "inning": "Surrey Women,Lancashire Women Inning 1"
         }
       ],
@@ -339,6 +339,411 @@
         }
       ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5a64ac32-0aa1-46aa-b3f2-99242803cbcd",
+      "name": "Gloucestershire vs Warwickshire, 7th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Gloucestershire won by 47 runs",
+      "venue": "County Ground, Bristol",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T18:00:00",
+      "teams": [
+        "Gloucestershire",
+        "Warwickshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 10,
+          "o": 16.1,
+          "inning": "Gloucestershire Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 10,
+          "o": 14.4,
+          "inning": "Warwickshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "403d799e-d35b-4d65-9037-97ca3209fffe",
+      "name": "Essex vs Sussex, 1st Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Sussex won by 6 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T18:00:00",
+      "teams": [
+        "Essex",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 191,
+          "w": 5,
+          "o": 20,
+          "inning": "Essex Inning 1"
+        },
+        {
+          "r": 192,
+          "w": 4,
+          "o": 16,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d15a851c-8f68-46cc-9747-3b9e05d8ca75",
+      "name": "Derbyshire vs Durham, 4th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Durham won by 6 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:30:00",
+      "teams": [
+        "Derbyshire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 203,
+          "w": 8,
+          "o": 20,
+          "inning": "Durham Inning 1"
+        },
+        {
+          "r": 197,
+          "w": 8,
+          "o": 20,
+          "inning": "Derbyshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "853f6d40-51ee-4190-8c14-c49049d203c0",
+      "name": "Leicestershire vs Worcestershire, 9th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Leicestershire need 46 runs in 13 balls",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:30:00",
+      "teams": [
+        "Leicestershire",
+        "Worcestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 188,
+          "w": 9,
+          "o": 20,
+          "inning": "Worcestershire Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 4,
+          "o": 17.5,
+          "inning": "Leicestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cf73e1fb-6678-4025-8ddf-4c2be0ed0e23",
+      "name": "Northamptonshire vs Glamorgan, 6th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Northamptonshire won by 3 runs",
+      "venue": "County Ground, Northampton",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:30:00",
+      "teams": [
+        "Northamptonshire",
+        "Glamorgan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 8,
+          "o": 20,
+          "inning": "Northamptonshire Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 8,
+          "o": 20,
+          "inning": "Glamorgan Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b568376d-8496-481c-b6d9-b58f9d90f6ee",
+      "name": "Nottinghamshire vs Yorkshire, 8th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Yorkshire won by 7 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:30:00",
+      "teams": [
+        "Nottinghamshire",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 7,
+          "o": 20,
+          "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 3,
+          "o": 16.3,
+          "inning": "Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "42f772e0-aacb-4f05-b605-28d5185aaadc",
+      "name": "Somerset vs Hampshire, 5th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Somerset won by 7 wkts",
+      "venue": "The Cooper Associates County Ground, Taunton",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:30:00",
+      "teams": [
+        "Somerset",
+        "Hampshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 158,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 3,
+          "o": 16.2,
+          "inning": "Somerset Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "24ceeabe-e9a3-40aa-b48f-2b3e6d527ca3",
+      "name": "Surrey vs Lancashire, 2nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Lancashire need 76 runs in 33 balls",
+      "venue": "Kennington Oval, London",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:30:00",
+      "teams": [
+        "Surrey",
+        "Lancashire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 213,
+          "w": 6,
+          "o": 20,
+          "inning": "Surrey Inning 1"
+        },
+        {
+          "r": 138,
+          "w": 7,
+          "o": 14.3,
+          "inning": "Lancashire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6a9c81b9-d2b4-4da1-bd04-6420f27ff58a",
+      "name": "Middlesex vs Kent, 3rd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Kent won by 27 runs",
+      "venue": "Lord's, London",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T17:15:00",
+      "teams": [
+        "Middlesex",
+        "Kent"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 6,
+          "o": 20,
+          "inning": "kent Inning 1"
+        },
+        {
+          "r": 181,
+          "w": 8,
+          "o": 20,
+          "inning": "Middlesex,Kent Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -436,51 +841,6 @@
       "matchEnded": true
     },
     {
-      "id": "99b5371a-17ec-442f-8094-8e07193868a1",
-      "name": "Fiji vs Philippines, 6th Match, T20I Tri-Series In Japan, 2026",
-      "matchType": "t20",
-      "status": "Philippines won by 9 wkts",
-      "venue": "Sano International Cricket Ground 2, Sano, Kanto",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T05:30:00",
-      "teams": [
-        "Fiji",
-        "Philippines"
-      ],
-      "teamInfo": [
-        {
-          "name": "Fiji",
-          "shortname": "FIJ",
-          "img": "https://g.cricapi.com/iapi/603-637928918261367034.png?w=48"
-        },
-        {
-          "name": "Philippines",
-          "shortname": "PHL",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 136,
-          "w": 10,
-          "o": 20,
-          "inning": "fiji Inning 1"
-        },
-        {
-          "r": 141,
-          "w": 1,
-          "o": 15.4,
-          "inning": "Fiji,Philippines Inning 1"
-        }
-      ],
-      "series_id": "bb1f6346-0f9c-4de6-961e-ccf1c8f076a0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f56bfb54-0954-4429-9230-d009a7555c90",
       "name": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
       "matchType": "t20",
@@ -514,49 +874,6 @@
           "r": 131,
           "w": 7,
           "o": 19.3,
-          "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
-        }
-      ],
-      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "959f0c64-b1fb-4211-8024-5ca3a8d1356a",
-      "name": "Sri Lanka A Women vs New Zealand A Women, 3rd Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026",
-      "status": "NZ A Women won by 84 runs  -  2nd inns reduced to 38 overs (DLS Target 234)",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T04:30:00",
-      "teams": [
-        "Sri Lanka A Women",
-        "New Zealand A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka A Women",
-          "shortname": "SLAW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 273,
-          "w": 8,
-          "o": 50,
-          "inning": "new zealand a women Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 10,
-          "o": 33.2,
           "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
         }
       ],
@@ -721,321 +1038,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "be400343-a521-4313-81d9-827b8629c8f8",
-      "name": "Croatia vs Jersey, 16th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Jersey won by 109 runs",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T12:30:00",
-      "teams": [
-        "Croatia",
-        "Jersey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Croatia",
-          "shortname": "CRT",
-          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
-        },
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 280,
-          "w": 3,
-          "o": 20,
-          "inning": "Jersey Inning 1"
-        },
-        {
-          "r": 171,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Croatia Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "434b24cb-8405-46e7-be26-3077cfd911a0",
-      "name": "Malta vs Sweden, 15th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Malta won by 6 wkts",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T12:30:00",
-      "teams": [
-        "Malta",
-        "Sweden"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malta",
-          "shortname": "MLT",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        },
-        {
-          "name": "Sweden",
-          "shortname": "SWE",
-          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 181,
-          "w": 8,
-          "o": 20,
-          "inning": "Sweden Inning 1"
-        },
-        {
-          "r": 182,
-          "w": 4,
-          "o": 19,
-          "inning": "Malta Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c5f49e0c-c2c1-4915-93cf-02534c05ae74",
-      "name": "Guernsey vs Slovenia, 13th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Guernsey won by 4 wkts",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T07:30:00",
-      "teams": [
-        "Guernsey",
-        "Slovenia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guernsey",
-          "shortname": "GUE",
-          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
-        },
-        {
-          "name": "Slovenia",
-          "shortname": "SLN",
-          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 99,
-          "w": 10,
-          "o": 19.4,
-          "inning": "slovenia Inning 1"
-        },
-        {
-          "r": 103,
-          "w": 6,
-          "o": 14.1,
-          "inning": "Guernsey,Slovenia Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f6f540d5-cae7-4fe4-ad66-d4b86710212c",
-      "name": "Cyprus vs Switzerland, 14th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Switzerland won by 25 runs",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T07:30:00",
-      "teams": [
-        "Cyprus",
-        "Switzerland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus",
-          "shortname": "CYP",
-          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 9,
-          "o": 20,
-          "inning": "Switzerland Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Cyprus Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7ebcc1ee-5c3a-41d2-bb48-ff3066234cb2",
-      "name": "Austria vs Guernsey, 12th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Guernsey won by 46 runs",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-19",
-      "dateTimeGMT": "2026-05-19T12:30:00",
-      "teams": [
-        "Austria",
-        "Guernsey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria",
-          "shortname": "AUT",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Guernsey",
-          "shortname": "GUE",
-          "img": "https://g.cricapi.com/iapi/610-637867646502139699.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 7,
-          "o": 20,
-          "inning": "Guernsey Inning 1"
-        },
-        {
-          "r": 150,
-          "w": 10,
-          "o": 17.4,
-          "inning": "Austria Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f537fe3d-da8b-489c-afa9-39a033964d8e",
-      "name": "Croatia vs Switzerland, 11th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Croatia won by 16 runs",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-19",
-      "dateTimeGMT": "2026-05-19T12:30:00",
-      "teams": [
-        "Croatia",
-        "Switzerland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Croatia",
-          "shortname": "CRT",
-          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 2,
-          "o": 20,
-          "inning": "croatia Inning 1"
-        },
-        {
-          "r": 183,
-          "w": 8,
-          "o": 20,
-          "inning": "Croatia,Switzerland Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "19b9e0d0-cb5a-42ca-b2e2-695d27d36693",
-      "name": "Slovenia vs Sweden, 10th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Sweden won by 7 wkts",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-19",
-      "dateTimeGMT": "2026-05-19T07:30:00",
-      "teams": [
-        "Slovenia",
-        "Sweden"
-      ],
-      "teamInfo": [
-        {
-          "name": "Slovenia",
-          "shortname": "SLN",
-          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
-        },
-        {
-          "name": "Sweden",
-          "shortname": "SWE",
-          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 133,
-          "w": 5,
-          "o": 20,
-          "inning": "slovenia Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 3,
-          "o": 14.2,
-          "inning": "Slovenia,Sweden Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1045,11 +1047,19 @@
     "standings": [
       {
         "team": "Royal Challengers Bengaluru",
-        "played": 13,
+        "played": 14,
         "won": 9,
-        "lost": 3,
+        "lost": 4,
         "nr": 1,
         "points": 19
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
       },
       {
         "team": "Gujarat Titans",
@@ -1058,14 +1068,6 @@
         "lost": 5,
         "nr": 0,
         "points": 18
-      },
-      {
-        "team": "Sunrisers Hyderabad",
-        "played": 13,
-        "won": 8,
-        "lost": 5,
-        "nr": 0,
-        "points": 16
       },
       {
         "team": "Rajasthan Royals",
