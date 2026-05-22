@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T21:39:42.982Z",
+  "lastUpdated": "2026-05-22T06:13:37.275Z",
   "recentMatches": [
     {
       "id": "9a1a919f-facc-4574-a00a-b369c20f44e7",
@@ -658,6 +658,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "8471b30e-6762-4e37-96c4-77dcd748a419",
+      "name": "Nepal vs United States of America, 109th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United States of America opt to bowl",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T00:00:00",
+      "teams": [
+        "Nepal",
+        "United States of America"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 70,
+          "w": 1,
+          "o": 13.1,
+          "inning": "Nepal Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5385eecd-60e2-4d55-9fac-eb6f147f456a",
