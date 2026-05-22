@@ -1,6 +1,350 @@
 {
-  "lastUpdated": "2026-05-22T10:40:08.465Z",
+  "lastUpdated": "2026-05-22T16:30:20.573Z",
   "recentMatches": [
+    {
+      "id": "3e393388-7b61-4a8f-8a12-93bed9f25864",
+      "name": "Gloucestershire Women vs Glamorgan Women, 3rd Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Gloucestershire Women need 105 runs in 30 balls",
+      "venue": "County Ground, Bristol",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T14:00:00",
+      "teams": [
+        "Gloucestershire Women",
+        "Glamorgan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Gloucestershire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 184,
+          "w": 6,
+          "o": 20,
+          "inning": "Glamorgan Women Inning 1"
+        },
+        {
+          "r": 80,
+          "w": 5,
+          "o": 15,
+          "inning": "Gloucestershire Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e9e19cdd-085b-404a-a7b6-4f1d95c0a155",
+      "name": "Leicestershire Women vs Worcestershire Women, 4th Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Worcestershire Women need 43 runs in 44 balls",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:30:00",
+      "teams": [
+        "Leicestershire Women",
+        "Worcestershire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Leicestershire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Worcestershire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 156,
+          "w": 8,
+          "o": 20,
+          "inning": "Leicestershire Women Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 5,
+          "o": 12.4,
+          "inning": "Worcestershire Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7f42b186-2b7b-4015-98fd-ff3d2edcc1df",
+      "name": "Derbyshire Women vs Sussex Women, 2nd Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Derbyshire Women won by 6 wkts",
+      "venue": "County Ground, Derby",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:30:00",
+      "teams": [
+        "Derbyshire Women",
+        "Sussex Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sussex Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 8,
+          "o": 20,
+          "inning": "Sussex Women Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 4,
+          "o": 19.1,
+          "inning": "Derbyshire Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f0fbf2c0-41ee-450c-9a66-bdc10196fc26",
+      "name": "Middlesex Women vs Kent Women, 1st Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Middlesex Women won by 106 runs",
+      "venue": "Lord's, London",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:15:00",
+      "teams": [
+        "Middlesex Women",
+        "Kent Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Middlesex Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 160,
+          "w": 6,
+          "o": 20,
+          "inning": "middlesex women Inning 1"
+        },
+        {
+          "r": 54,
+          "w": 10,
+          "o": 13.4,
+          "inning": "Middlesex Women,Kent Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e39680e0-a4aa-4e33-b00f-025ef24c5d3a",
+      "name": "The Blaze Women vs Yorkshire Women, 4th Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "The Blaze Women need 3 runs in 4 balls",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:30:00",
+      "teams": [
+        "The Blaze Women",
+        "Yorkshire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "The Blaze Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yorkshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 179,
+          "w": 5,
+          "o": 20,
+          "inning": "yorkshire women Inning 1"
+        },
+        {
+          "r": 177,
+          "w": 6,
+          "o": 19.2,
+          "inning": "The Blaze Women,Yorkshire Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "11e4600b-4283-4a66-aa6f-f49448052350",
+      "name": "Somerset Women vs Hampshire Women, 3rd Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Match tied",
+      "venue": "The Cooper Associates County Ground, Taunton",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:30:00",
+      "teams": [
+        "Somerset Women",
+        "Hampshire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Somerset Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 6,
+          "o": 20,
+          "inning": "somerset women Inning 1"
+        },
+        {
+          "r": 159,
+          "w": 5,
+          "o": 20,
+          "inning": "Somerset Women,Hampshire Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c5601c21-32c8-453e-8815-68cfa1d95038",
+      "name": "Surrey Women vs Lancashire Women, 2nd Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Surrey Women need 13 runs in 23 balls",
+      "venue": "Kennington Oval, London",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:15:00",
+      "teams": [
+        "Surrey Women",
+        "Lancashire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Surrey Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 185,
+          "w": 7,
+          "o": 20,
+          "inning": "lancashire women Inning 1"
+        },
+        {
+          "r": 173,
+          "w": 3,
+          "o": 16.1,
+          "inning": "Surrey Women,Lancashire Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "67cfa52a-1a21-4926-a2e7-a19e619fb7cd",
+      "name": "Essex Women vs Warwickshire Women, 1st Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex Women won by 7 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T13:00:00",
+      "teams": [
+        "Essex Women",
+        "Warwickshire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Warwickshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 164,
+          "w": 8,
+          "o": 20,
+          "inning": "Warwickshire Women Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 3,
+          "o": 14.2,
+          "inning": "Essex Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "bcb7c22b-e940-46f6-9b4a-2446d811b0bc",
       "name": "Malaysia Women vs Nepal Women, 2nd T20I, Nepal Women tour of Malaysia 2026",
@@ -248,6 +592,130 @@
         }
       ],
       "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "073f9034-8d87-414c-9309-a8ca2a33dfb8",
+      "name": "Cyprus vs Croatia, 19th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Cyprus opt to bowl",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T12:30:00",
+      "teams": [
+        "Cyprus",
+        "Croatia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Croatia",
+          "shortname": "CRT",
+          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
+        },
+        {
+          "name": "Cyprus",
+          "shortname": "CYP",
+          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "a4f95845-b3ea-49dc-b48a-9037d34bf364",
+      "name": "Malta vs Slovenia, 20th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Slovenia opt to bat",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T12:30:00",
+      "teams": [
+        "Malta",
+        "Slovenia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malta",
+          "shortname": "MLT",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        },
+        {
+          "name": "Slovenia",
+          "shortname": "SLN",
+          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "94ad0ece-e5ee-4656-ad5b-60d1521b60f9",
+      "name": "Austria vs Sweden, 18th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Sweden opt to bowl",
+      "venue": "Happy Valley Ground 2, Episkopi",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T07:30:00",
+      "teams": [
+        "Austria",
+        "Sweden"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria",
+          "shortname": "AUT",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Sweden",
+          "shortname": "SWE",
+          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2e22e00d-1086-4bf2-8255-df92efd45ee5",
+      "name": "France vs Switzerland, 17th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "France opt to bat",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-05-22",
+      "dateTimeGMT": "2026-05-22T07:30:00",
+      "teams": [
+        "France",
+        "Switzerland"
+      ],
+      "teamInfo": [
+        {
+          "name": "France",
+          "shortname": "FRA",
+          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
+        },
+        {
+          "name": "Switzerland",
+          "shortname": "SWZ",
+          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
+        }
+      ],
+      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -566,531 +1034,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c222563d-5cdb-4bfa-a5a1-e22701a0ea45",
-      "name": "France vs Jersey, 9th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Jersey won by 8 wkts",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-19",
-      "dateTimeGMT": "2026-05-19T07:30:00",
-      "teams": [
-        "France",
-        "Jersey"
-      ],
-      "teamInfo": [
-        {
-          "name": "France",
-          "shortname": "FRA",
-          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
-        },
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 145,
-          "w": 10,
-          "o": 19.2,
-          "inning": "France Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 2,
-          "o": 15.5,
-          "inning": "Jersey Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bf4f21b8-8694-408e-aaf9-0261bfc7769f",
-      "name": "Papua New Guinea vs Japan, Super Six, Match 12, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Japan won by 26 runs",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T05:00:00",
-      "teams": [
-        "Papua New Guinea",
-        "Japan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Japan",
-          "shortname": "JPN",
-          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 7,
-          "o": 20,
-          "inning": "japan Inning 1"
-        },
-        {
-          "r": 95,
-          "w": 8,
-          "o": 20,
-          "inning": "Papua New Guinea,Japan Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "53910dbb-6b00-4775-8611-350811ed571b",
-      "name": "Samoa vs Cook Islands, Super Six, Match 11, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026",
-      "matchType": "t20",
-      "status": "Samoa won by 9 wkts",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T00:30:00",
-      "teams": [
-        "Samoa",
-        "Cook Islands"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cook Islands",
-          "shortname": "COI",
-          "img": "https://g.cricapi.com/iapi/2342-637987698055825091.webp?w=48"
-        },
-        {
-          "name": "Samoa",
-          "shortname": "SAMOA",
-          "img": "https://g.cricapi.com/iapi/648-637928914295612472.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 75,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Cook Islands Inning 1"
-        },
-        {
-          "r": 79,
-          "w": 1,
-          "o": 11.2,
-          "inning": "Samoa Inning 1"
-        }
-      ],
-      "series_id": "37e7f091-fd4b-4b15-9a4d-8e8df4c46340",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "270b2018-1ace-4e9c-b6d2-cb22d62bee5e",
-      "name": "England Lions vs South Africa A, 1st unofficial Test, South Africa A tour of England, 2026",
-      "status": "England Lions opt to bat",
-      "venue": "Arundel Castle, Arundel",
-      "date": "2026-05-22",
-      "dateTimeGMT": "2026-05-22T10:00:00",
-      "teams": [
-        "England Lions",
-        "South Africa A"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Lions",
-          "shortname": "ENGL",
-          "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
-        },
-        {
-          "name": "South Africa A",
-          "shortname": "SA-A",
-          "img": "https://g.cricapi.com/iapi/1132-637877069157056525.webp?w=48"
-        }
-      ],
-      "series_id": "087d5de8-f7d7-4746-af55-a2e7b6fa2071",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "8471b30e-6762-4e37-96c4-77dcd748a419",
-      "name": "Nepal vs United States of America, 109th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United States of America need 193 runs",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-22",
-      "dateTimeGMT": "2026-05-22T00:00:00",
-      "teams": [
-        "Nepal",
-        "United States of America"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "United States of America",
-          "shortname": "US",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 317,
-          "w": 8,
-          "o": 50,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 125,
-          "w": 7,
-          "o": 28.2,
-          "inning": "United States of America Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "5385eecd-60e2-4d55-9fac-eb6f147f456a",
-      "name": "Scotland vs United States of America, 108th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United States of America won by 6 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T00:00:00",
-      "teams": [
-        "Scotland",
-        "United States of America"
-      ],
-      "teamInfo": [
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        },
-        {
-          "name": "United States of America",
-          "shortname": "US",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 169,
-          "w": 10,
-          "o": 43.3,
-          "inning": "scotland Inning 1"
-        },
-        {
-          "r": 170,
-          "w": 4,
-          "o": 27.1,
-          "inning": "Scotland,United States of America Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4ea0a53-e3fa-4da4-b4a2-1ba7a246714b",
-      "name": "Nepal vs Scotland, 107th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 6 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T00:00:00",
-      "teams": [
-        "Nepal",
-        "Scotland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 10,
-          "o": 39.1,
-          "inning": "scotland Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 4,
-          "o": 38.1,
-          "inning": "Nepal,Scotland Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fd660ab1-c4bf-4c0f-b1b9-7232361cd1e8",
-      "name": "Gujarat Titans vs Chennai Super Kings, 66th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Gujarat Titans won by 89 runs",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "date": "2026-05-21",
-      "dateTimeGMT": "2026-05-21T14:00:00",
-      "teams": [
-        "Gujarat Titans",
-        "Chennai Super Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chennai Super Kings",
-          "shortname": "CSK",
-          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
-        },
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 229,
-          "w": 4,
-          "o": 20,
-          "inning": "Gujarat Titans Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 10,
-          "o": 13.4,
-          "inning": "Chennai Super Kings Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5b1d59f9-51fd-449d-8cf1-9fc15ef15675",
-      "name": "Kolkata Knight Riders vs Mumbai Indians, 65th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Kolkata Knight Riders won by 4 wkts",
-      "venue": "Eden Gardens, Kolkata",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T14:00:00",
-      "teams": [
-        "Kolkata Knight Riders",
-        "Mumbai Indians"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kolkata Knight Riders",
-          "shortname": "KKR",
-          "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
-        },
-        {
-          "name": "Mumbai Indians",
-          "shortname": "MI",
-          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 147,
-          "w": 8,
-          "o": 20,
-          "inning": "Mumbai Indians Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 6,
-          "o": 18.5,
-          "inning": "Kolkata Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3b225f44-ddf2-41d4-8079-7a3f81876e35",
-      "name": "Rajasthan Royals vs Lucknow Super Giants, 64th Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Rajasthan Royals won by 7 wkts",
-      "venue": "Sawai Mansingh Stadium, Jaipur",
-      "date": "2026-05-19",
-      "dateTimeGMT": "2026-05-19T14:00:00",
-      "teams": [
-        "Rajasthan Royals",
-        "Lucknow Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lucknow Super Giants",
-          "shortname": "LSG",
-          "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
-        },
-        {
-          "name": "Rajasthan Royals",
-          "shortname": "RR",
-          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 220,
-          "w": 5,
-          "o": 20,
-          "inning": "Lucknow Super Giants Inning 1"
-        },
-        {
-          "r": 225,
-          "w": 3,
-          "o": 19.1,
-          "inning": "Rajasthan Royals Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8416c2a9-4a74-4ac2-a6ae-5ad2538cbc56",
-      "name": "Chennai Super Kings vs Sunrisers Hyderabad, 63rd Match, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Hyderabad won by 5 wkts",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-05-18",
-      "dateTimeGMT": "2026-05-18T14:00:00",
-      "teams": [
-        "Chennai Super Kings",
-        "Sunrisers Hyderabad"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chennai Super Kings",
-          "shortname": "CSK",
-          "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
-        },
-        {
-          "name": "Sunrisers Hyderabad",
-          "shortname": "SRH",
-          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
-          "w": 7,
-          "o": 20,
-          "inning": "chennai super kings Inning 1"
-        },
-        {
-          "r": 181,
-          "w": 5,
-          "o": 19,
-          "inning": "Chennai Super Kings,Sunrisers Hyderabad Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "641ecd9b-a235-420a-a03e-d04ca55587ca",
-      "name": "England Women vs New Zealand Women, 1st T20I, New Zealand Women tour of England 2026",
-      "matchType": "t20",
-      "status": "England Women won by 7 wkts",
-      "venue": "County Ground, Derby",
-      "date": "2026-05-20",
-      "dateTimeGMT": "2026-05-20T17:30:00",
-      "teams": [
-        "England Women",
-        "New Zealand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Women",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
-        },
-        {
-          "name": "New Zealand Women",
-          "shortname": "NZW",
-          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 136,
-          "w": 7,
-          "o": 20,
-          "inning": "New Zealand Women Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 3,
-          "o": 17.2,
-          "inning": "England Women Inning 1"
-        }
-      ],
-      "series_id": "17fda001-ea50-4ce4-b3cd-7a416800d63f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
