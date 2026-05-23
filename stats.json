@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T15:06:19.906Z",
+  "lastUpdated": "2026-05-23T20:58:39.909Z",
   "recentMatches": [
     {
       "id": "d65c1f98-2fc3-4561-be49-19931c3dc259",
@@ -98,7 +98,7 @@
       "id": "5bcbaa68-4350-4e05-82b5-76361159559a",
       "name": "Glamorgan Women vs Derbyshire Women, 5th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Derbyshire Women opt to bowl",
+      "status": "Glamorgan Women won by 92 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T14:00:00",
@@ -118,18 +118,24 @@
       ],
       "score": [
         {
-          "r": 85,
-          "w": 1,
-          "o": 8.3,
+          "r": 167,
+          "w": 8,
+          "o": 20,
           "inning": "Glamorgan Women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 10,
+          "o": 14.3,
+          "inning": "Derbyshire Women Inning 1"
         }
       ],
       "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3e393388-7b61-4a8f-8a12-93bed9f25864",
@@ -474,6 +480,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "c76f3fb6-6ef6-4596-8ec7-62b333613be4",
+      "name": "Glamorgan vs Gloucestershire, 10th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Gloucestershire need 27 runs in 12 balls",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-05-23",
+      "dateTimeGMT": "2026-05-23T18:00:00",
+      "teams": [
+        "Glamorgan",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 157,
+          "w": 8,
+          "o": 20,
+          "inning": "Glamorgan Inning 1"
+        },
+        {
+          "r": 131,
+          "w": 8,
+          "o": 18,
+          "inning": "Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5a64ac32-0aa1-46aa-b3f2-99242803cbcd",
@@ -926,51 +977,6 @@
       "matchEnded": true
     },
     {
-      "id": "9a1a919f-facc-4574-a00a-b369c20f44e7",
-      "name": "Malaysia Women vs Nepal Women, 1st T20I, Nepal Women tour of Malaysia 2026",
-      "matchType": "t20",
-      "status": "Nepal Women won by 2 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-19",
-      "dateTimeGMT": "2026-05-19T02:30:00",
-      "teams": [
-        "Malaysia Women",
-        "Nepal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 67,
-          "w": 10,
-          "o": 16.5,
-          "inning": "malaysia women Inning 1"
-        },
-        {
-          "r": 71,
-          "w": 8,
-          "o": 17.3,
-          "inning": "Malaysia Women,Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "2360bef2-965a-40cf-b9c4-c8aacbd0ac67",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "77fc1424-cdf9-47e7-84fe-2279b04ca1d1",
       "name": "Sri Lanka A Women vs New Zealand A Women, 2nd Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
       "matchType": "t20",
@@ -1089,20 +1095,20 @@
         "points": 18
       },
       {
+        "team": "Punjab Kings",
+        "played": 14,
+        "won": 7,
+        "lost": 6,
+        "nr": 1,
+        "points": 15
+      },
+      {
         "team": "Rajasthan Royals",
         "played": 13,
         "won": 7,
         "lost": 6,
         "nr": 0,
         "points": 14
-      },
-      {
-        "team": "Punjab Kings",
-        "played": 13,
-        "won": 6,
-        "lost": 6,
-        "nr": 1,
-        "points": 13
       },
       {
         "team": "Chennai Super Kings",
@@ -1138,9 +1144,9 @@
       },
       {
         "team": "Lucknow Super Giants",
-        "played": 13,
+        "played": 14,
         "won": 3,
-        "lost": 8,
+        "lost": 9,
         "nr": 2,
         "points": 8
       }
