@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T21:15:58.074Z",
+  "lastUpdated": "2026-05-23T05:43:48.769Z",
   "recentMatches": [
     {
       "id": "3e393388-7b61-4a8f-8a12-93bed9f25864",
@@ -484,7 +484,7 @@
       "id": "853f6d40-51ee-4190-8c14-c49049d203c0",
       "name": "Leicestershire vs Worcestershire, 9th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Leicestershire need 46 runs in 13 balls",
+      "status": "Worcestershire won by 18 runs",
       "venue": "Grace Road, Leicester",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T17:30:00",
@@ -512,9 +512,9 @@
           "inning": "Worcestershire Inning 1"
         },
         {
-          "r": 143,
+          "r": 170,
           "w": 4,
-          "o": 17.5,
+          "o": 20,
           "inning": "Leicestershire Inning 1"
         }
       ],
@@ -664,7 +664,7 @@
       "id": "24ceeabe-e9a3-40aa-b48f-2b3e6d527ca3",
       "name": "Surrey vs Lancashire, 2nd Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Lancashire need 76 runs in 33 balls",
+      "status": "Surrey won by 59 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T17:30:00",
@@ -692,9 +692,9 @@
           "inning": "Surrey Inning 1"
         },
         {
-          "r": 138,
-          "w": 7,
-          "o": 14.3,
+          "r": 154,
+          "w": 10,
+          "o": 16.1,
           "inning": "Lancashire Inning 1"
         }
       ],
@@ -841,6 +841,36 @@
       "matchEnded": true
     },
     {
+      "id": "77fc1424-cdf9-47e7-84fe-2279b04ca1d1",
+      "name": "Sri Lanka A Women vs New Zealand A Women, 2nd Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
+      "matchType": "t20",
+      "status": "Match starts at May 23, 04:30 GMT",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-05-23",
+      "dateTimeGMT": "2026-05-23T04:30:00",
+      "teams": [
+        "Sri Lanka A Women",
+        "New Zealand A Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand A Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sri Lanka A Women",
+          "shortname": "SLAW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "f56bfb54-0954-4429-9230-d009a7555c90",
       "name": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
       "matchType": "t20",
@@ -919,7 +949,7 @@
       "id": "073f9034-8d87-414c-9309-a8ca2a33dfb8",
       "name": "Cyprus vs Croatia, 19th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Cyprus opt to bowl",
+      "status": "Croatia won by 7 runs",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T12:30:00",
@@ -939,18 +969,32 @@
           "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 147,
+          "w": 9,
+          "o": 20,
+          "inning": "Croatia Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 6,
+          "o": 20,
+          "inning": "Cyprus Inning 1"
+        }
+      ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a4f95845-b3ea-49dc-b48a-9037d34bf364",
       "name": "Malta vs Slovenia, 20th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Slovenia opt to bat",
+      "status": "Malta won by 9 wkts",
       "venue": "Happy Valley Ground 2, Episkopi",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T12:30:00",
@@ -970,18 +1014,32 @@
           "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 68,
+          "w": 10,
+          "o": 17,
+          "inning": "slovenia Inning 1"
+        },
+        {
+          "r": 69,
+          "w": 1,
+          "o": 5.3,
+          "inning": "Malta,Slovenia Inning 1"
+        }
+      ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "94ad0ece-e5ee-4656-ad5b-60d1521b60f9",
       "name": "Austria vs Sweden, 18th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Sweden opt to bowl",
+      "status": "Sweden won by 3 wkts",
       "venue": "Happy Valley Ground 2, Episkopi",
       "date": "2026-05-22",
       "dateTimeGMT": "2026-05-22T07:30:00",
@@ -1001,43 +1059,26 @@
           "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
         }
       ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "2e22e00d-1086-4bf2-8255-df92efd45ee5",
-      "name": "France vs Switzerland, 17th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "France opt to bat",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-22",
-      "dateTimeGMT": "2026-05-22T07:30:00",
-      "teams": [
-        "France",
-        "Switzerland"
-      ],
-      "teamInfo": [
+      "score": [
         {
-          "name": "France",
-          "shortname": "FRA",
-          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
+          "r": 148,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Austria Inning 1"
         },
         {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
+          "r": 149,
+          "w": 7,
+          "o": 19.3,
+          "inning": "Sweden Inning 1"
         }
       ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
