@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-05-23T05:43:48.769Z",
+  "lastUpdated": "2026-05-23T09:30:45.358Z",
   "recentMatches": [
+    {
+      "id": "c6361f65-709b-4d1f-b78b-59f7b056a974",
+      "name": "Cameroon vs Rwanda, 1st Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Match starts at May 23, 07:30 GMT",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2026-05-23",
+      "dateTimeGMT": "2026-05-23T07:30:00",
+      "teams": [
+        "Cameroon",
+        "Rwanda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cameroon",
+          "shortname": "CAM",
+          "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+        },
+        {
+          "name": "Rwanda",
+          "shortname": "RWN",
+          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "3e393388-7b61-4a8f-8a12-93bed9f25864",
       "name": "Gloucestershire Women vs Glamorgan Women, 3rd Match, Womens T20 Blast League Two 2026",
@@ -844,7 +875,7 @@
       "id": "77fc1424-cdf9-47e7-84fe-2279b04ca1d1",
       "name": "Sri Lanka A Women vs New Zealand A Women, 2nd Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
       "matchType": "t20",
-      "status": "Match starts at May 23, 04:30 GMT",
+      "status": "Sri Lanka A Women won by 56 runs",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T04:30:00",
@@ -863,12 +894,26 @@
           "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 152,
+          "w": 5,
+          "o": 20,
+          "inning": "sri lanka a women Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
+        }
+      ],
       "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f56bfb54-0954-4429-9230-d009a7555c90",
@@ -946,61 +991,16 @@
       "matchEnded": false
     },
     {
-      "id": "073f9034-8d87-414c-9309-a8ca2a33dfb8",
-      "name": "Cyprus vs Croatia, 19th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "id": "c88225e2-b6be-4795-a7ec-04cd232fb8f0",
+      "name": "Switzerland vs Malta, 7th Place Play-off, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Croatia won by 7 runs",
+      "status": "Match starts at May 23, 07:30 GMT",
       "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-05-22",
-      "dateTimeGMT": "2026-05-22T12:30:00",
+      "date": "2026-05-23",
+      "dateTimeGMT": "2026-05-23T07:30:00",
       "teams": [
-        "Cyprus",
-        "Croatia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Croatia",
-          "shortname": "CRT",
-          "img": "https://g.cricapi.com/iapi/1773-637935033567722609.webp?w=48"
-        },
-        {
-          "name": "Cyprus",
-          "shortname": "CYP",
-          "img": "https://g.cricapi.com/iapi/597-637872833850554962.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 147,
-          "w": 9,
-          "o": 20,
-          "inning": "Croatia Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 6,
-          "o": 20,
-          "inning": "Cyprus Inning 1"
-        }
-      ],
-      "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a4f95845-b3ea-49dc-b48a-9037d34bf364",
-      "name": "Malta vs Slovenia, 20th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Malta won by 9 wkts",
-      "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-22",
-      "dateTimeGMT": "2026-05-22T12:30:00",
-      "teams": [
-        "Malta",
-        "Slovenia"
+        "Switzerland",
+        "Malta"
       ],
       "teamInfo": [
         {
@@ -1009,49 +1009,35 @@
           "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
         },
         {
-          "name": "Slovenia",
-          "shortname": "SLN",
-          "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 68,
-          "w": 10,
-          "o": 17,
-          "inning": "slovenia Inning 1"
-        },
-        {
-          "r": 69,
-          "w": 1,
-          "o": 5.3,
-          "inning": "Malta,Slovenia Inning 1"
+          "name": "Switzerland",
+          "shortname": "SWZ",
+          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
         }
       ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "94ad0ece-e5ee-4656-ad5b-60d1521b60f9",
-      "name": "Austria vs Sweden, 18th Match, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
+      "id": "4691528f-e666-4617-9d8b-44a7704bb66f",
+      "name": "France vs Sweden, 3rd Place Play-off, ICC Men's T20 World Cup Europe Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Sweden won by 3 wkts",
+      "status": "Sweden opt to bowl",
       "venue": "Happy Valley Ground 2, Episkopi",
-      "date": "2026-05-22",
-      "dateTimeGMT": "2026-05-22T07:30:00",
+      "date": "2026-05-23",
+      "dateTimeGMT": "2026-05-23T07:30:00",
       "teams": [
-        "Austria",
+        "France",
         "Sweden"
       ],
       "teamInfo": [
         {
-          "name": "Austria",
-          "shortname": "AUT",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+          "name": "France",
+          "shortname": "FRA",
+          "img": "https://g.cricapi.com/iapi/605-637872735496563451.webp?w=48"
         },
         {
           "name": "Sweden",
@@ -1059,26 +1045,12 @@
           "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 148,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Austria Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 7,
-          "o": 19.3,
-          "inning": "Sweden Inning 1"
-        }
-      ],
       "series_id": "bb833bc4-4fc4-4c08-9821-7a697446ac07",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
