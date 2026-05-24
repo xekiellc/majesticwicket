@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-23T20:58:39.909Z",
+  "lastUpdated": "2026-05-24T06:07:13.813Z",
   "recentMatches": [
     {
       "id": "d65c1f98-2fc3-4561-be49-19931c3dc259",
       "name": "Kenya vs Mali, 3rd Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Kenya opt to bat",
+      "status": "Innings Break",
       "venue": "Botswana Cricket Association Oval 2, Gaborone",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T11:50:00",
@@ -25,8 +25,16 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 247,
+          "w": 5,
+          "o": 20,
+          "inning": "kenya Inning 1"
+        }
+      ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -36,7 +44,7 @@
       "id": "353a0d15-0c10-49c5-8817-f44acb4c9714",
       "name": "Botswana vs Sierra Leone, 2nd Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Sierra Leone opt to bowl",
+      "status": "Botswana won by 70 runs",
       "venue": "Botswana Cricket Association Oval 1, Gaborone",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T11:50:00",
@@ -56,18 +64,32 @@
           "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 166,
+          "w": 5,
+          "o": 20,
+          "inning": "Botswana Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 7,
+          "o": 20,
+          "inning": "Sierra Leone Inning 1"
+        }
+      ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c6361f65-709b-4d1f-b78b-59f7b056a974",
       "name": "Cameroon vs Rwanda, 1st Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Rwanda opt to bowl",
+      "status": "Rwanda won by 7 wkts",
       "venue": "Botswana Cricket Association Oval 1, Gaborone",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T07:30:00",
@@ -87,12 +109,26 @@
           "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 107,
+          "w": 7,
+          "o": 20,
+          "inning": "Cameroon Inning 1"
+        },
+        {
+          "r": 108,
+          "w": 3,
+          "o": 18.4,
+          "inning": "Rwanda Inning 1"
+        }
+      ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5bcbaa68-4350-4e05-82b5-76361159559a",
@@ -485,7 +521,7 @@
       "id": "c76f3fb6-6ef6-4596-8ec7-62b333613be4",
       "name": "Glamorgan vs Gloucestershire, 10th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Gloucestershire need 27 runs in 12 balls",
+      "status": "Gloucestershire won by 2 wkts",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T18:00:00",
@@ -513,9 +549,9 @@
           "inning": "Glamorgan Inning 1"
         },
         {
-          "r": 131,
+          "r": 158,
           "w": 8,
-          "o": 18,
+          "o": 20,
           "inning": "Gloucestershire Inning 1"
         }
       ],
@@ -524,7 +560,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5a64ac32-0aa1-46aa-b3f2-99242803cbcd",
