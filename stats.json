@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-05-24T06:07:13.813Z",
+  "lastUpdated": "2026-05-24T09:46:25.356Z",
   "recentMatches": [
+    {
+      "id": "e38493bf-b331-42ad-a814-2917e34e1300",
+      "name": "Ivory Coast vs Rwanda, 4th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Rwanda opt to bat",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2026-05-24",
+      "dateTimeGMT": "2026-05-24T07:30:00",
+      "teams": [
+        "Ivory Coast",
+        "Rwanda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ivory Coast",
+          "shortname": "IC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Rwanda",
+          "shortname": "RWN",
+          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "d65c1f98-2fc3-4561-be49-19931c3dc259",
       "name": "Kenya vs Mali, 3rd Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Kenya won by 172 runs",
       "venue": "Botswana Cricket Association Oval 2, Gaborone",
       "date": "2026-05-23",
       "dateTimeGMT": "2026-05-23T11:50:00",
@@ -31,6 +62,12 @@
           "w": 5,
           "o": 20,
           "inning": "kenya Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Kenya,Mali Inning 1"
         }
       ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
@@ -38,7 +75,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "353a0d15-0c10-49c5-8817-f44acb4c9714",
@@ -129,6 +166,43 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "e6553c68-830f-4c1f-b968-232c652de396",
+      "name": "Worcestershire Women vs Northamptonshire Women, 7th Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Worcestershire Women opt to bowl",
+      "venue": "New Road, Worcester",
+      "date": "2026-05-24",
+      "dateTimeGMT": "2026-05-24T09:30:00",
+      "teams": [
+        "Worcestershire Women",
+        "Northamptonshire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Worcestershire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 29,
+          "w": 0,
+          "o": 5,
+          "inning": "Northamptonshire Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5bcbaa68-4350-4e05-82b5-76361159559a",
@@ -1006,94 +1080,6 @@
         }
       ],
       "series_id": "2360bef2-965a-40cf-b9c4-c8aacbd0ac67",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "77fc1424-cdf9-47e7-84fe-2279b04ca1d1",
-      "name": "Sri Lanka A Women vs New Zealand A Women, 2nd Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka A Women won by 56 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-05-23",
-      "dateTimeGMT": "2026-05-23T04:30:00",
-      "teams": [
-        "Sri Lanka A Women",
-        "New Zealand A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka A Women",
-          "shortname": "SLAW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 152,
-          "w": 5,
-          "o": 20,
-          "inning": "sri lanka a women Inning 1"
-        },
-        {
-          "r": 96,
-          "w": 10,
-          "o": 19.5,
-          "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
-        }
-      ],
-      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f56bfb54-0954-4429-9230-d009a7555c90",
-      "name": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial T20I, New Zealand A Women tour of Sri Lanka, 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka A Women won by 3 wkts",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-05-21",
-      "dateTimeGMT": "2026-05-21T04:30:00",
-      "teams": [
-        "Sri Lanka A Women",
-        "New Zealand A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka A Women",
-          "shortname": "SLAW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 6,
-          "o": 20,
-          "inning": "new zealand a women Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 7,
-          "o": 19.3,
-          "inning": "Sri Lanka A Women,New Zealand A Women Inning 1"
-        }
-      ],
-      "series_id": "04434116-9d6d-4f64-b790-cd562e78aafd",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
