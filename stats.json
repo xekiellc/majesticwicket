@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-25T11:40:40.928Z",
+  "lastUpdated": "2026-05-25T16:25:59.073Z",
   "recentMatches": [
+    {
+      "id": "fa23f07c-d0a3-400b-8a79-333af36bde14",
+      "name": "Ivory Coast vs Mali, 9th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Mali won by 6 wkts",
+      "venue": "Botswana Cricket Association Oval 2, Gaborone",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T11:50:00",
+      "teams": [
+        "Ivory Coast",
+        "Mali"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ivory Coast",
+          "shortname": "IC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Mali",
+          "shortname": "ML",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 78,
+          "w": 5,
+          "o": 20,
+          "inning": "Ivory Coast Inning 1"
+        },
+        {
+          "r": 79,
+          "w": 4,
+          "o": 13.3,
+          "inning": "Mali Inning 1"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "0ee09ff1-197f-49e5-a549-691e0047f06c",
       "name": "Botswana vs Cameroon, 8th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
@@ -365,7 +410,7 @@
       "id": "e3ee5299-679e-4398-9ef5-2362e86c12a2",
       "name": "Kent Women vs Sussex Women, 8th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Kent Women need 79 runs in 87 balls",
+      "status": "Kent Women won by 9 wkts",
       "venue": "St Lawrence Ground, Canterbury",
       "date": "2026-05-25",
       "dateTimeGMT": "2026-05-25T13:30:00",
@@ -391,9 +436,9 @@
           "inning": "sussex women Inning 1"
         },
         {
-          "r": 52,
-          "w": 0,
-          "o": 5.3,
+          "r": 132,
+          "w": 1,
+          "o": 15.5,
           "inning": "Kent Women,Sussex Women Inning 1"
         }
       ],
@@ -401,8 +446,8 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "a4eae77e-5818-4baa-81b7-eb86bb7480a3",
@@ -709,7 +754,7 @@
       "id": "cd43f80a-ae12-4d94-af7b-5f7c4d39837c",
       "name": "Lancashire Women vs The Blaze Women, 8th Match, Womens T20 Blast 2026",
       "matchType": "t20",
-      "status": "The Blaze Women need 95 runs in 78 balls",
+      "status": "The Blaze Women won by 3 wkts",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-05-25",
       "dateTimeGMT": "2026-05-25T09:30:00",
@@ -735,9 +780,9 @@
           "inning": "Lancashire Women Inning 1"
         },
         {
-          "r": 68,
-          "w": 1,
-          "o": 7,
+          "r": 163,
+          "w": 7,
+          "o": 19.3,
           "inning": "The Blaze Women Inning 1"
         }
       ],
@@ -746,7 +791,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6a89d7bb-0d7a-4bdc-8ca4-1e0b18118f5c",
@@ -1043,51 +1088,6 @@
         }
       ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5689c7aa-4901-45da-a9b0-feb67258c0de",
-      "name": "Durham vs Leicestershire, 13th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Durham won by 6 wkts",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T14:30:00",
-      "teams": [
-        "Durham",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 8,
-          "o": 20,
-          "inning": "leicestershire Inning 1"
-        },
-        {
-          "r": 150,
-          "w": 4,
-          "o": 14,
-          "inning": "Durham,Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
