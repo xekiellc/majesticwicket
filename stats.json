@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-27T17:24:27.891Z",
+  "lastUpdated": "2026-05-27T22:00:21.059Z",
   "recentMatches": [
     {
       "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
       "name": "Ireland vs New Zealand, Only Test, New Zealand tour of Ireland, 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Ireland opt to bowl",
+      "status": "Day 1: Stumps - Ireland opt to bowl",
       "venue": "Civil Service Cricket Club, Belfast",
       "date": "2026-05-27",
       "dateTimeGMT": "2026-05-27T10:00:00",
@@ -27,9 +27,9 @@
       ],
       "score": [
         {
-          "r": 325,
+          "r": 361,
           "w": 5,
-          "o": 85.1,
+          "o": 94,
           "inning": "New Zealand Inning 1"
         }
       ],
@@ -446,141 +446,6 @@
       "matchEnded": true
     },
     {
-      "id": "d65c1f98-2fc3-4561-be49-19931c3dc259",
-      "name": "Kenya vs Mali, 3rd Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Kenya won by 172 runs",
-      "venue": "Botswana Cricket Association Oval 2, Gaborone",
-      "date": "2026-05-23",
-      "dateTimeGMT": "2026-05-23T11:50:00",
-      "teams": [
-        "Kenya",
-        "Mali"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        },
-        {
-          "name": "Mali",
-          "shortname": "ML",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 247,
-          "w": 5,
-          "o": 20,
-          "inning": "kenya Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Kenya,Mali Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "353a0d15-0c10-49c5-8817-f44acb4c9714",
-      "name": "Botswana vs Sierra Leone, 2nd Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Botswana won by 70 runs",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-23",
-      "dateTimeGMT": "2026-05-23T11:50:00",
-      "teams": [
-        "Botswana",
-        "Sierra Leone"
-      ],
-      "teamInfo": [
-        {
-          "name": "Botswana",
-          "shortname": "BOT",
-          "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
-        },
-        {
-          "name": "Sierra Leone",
-          "shortname": "SLE",
-          "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 5,
-          "o": 20,
-          "inning": "Botswana Inning 1"
-        },
-        {
-          "r": 96,
-          "w": 7,
-          "o": 20,
-          "inning": "Sierra Leone Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c6361f65-709b-4d1f-b78b-59f7b056a974",
-      "name": "Cameroon vs Rwanda, 1st Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Rwanda won by 7 wkts",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-23",
-      "dateTimeGMT": "2026-05-23T07:30:00",
-      "teams": [
-        "Cameroon",
-        "Rwanda"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cameroon",
-          "shortname": "CAM",
-          "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
-        },
-        {
-          "name": "Rwanda",
-          "shortname": "RWN",
-          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 107,
-          "w": 7,
-          "o": 20,
-          "inning": "Cameroon Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 3,
-          "o": 18.4,
-          "inning": "Rwanda Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "e3ee5299-679e-4398-9ef5-2362e86c12a2",
       "name": "Kent Women vs Sussex Women, 8th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
@@ -710,53 +575,10 @@
       "matchEnded": true
     },
     {
-      "id": "5bcbaa68-4350-4e05-82b5-76361159559a",
-      "name": "Glamorgan Women vs Derbyshire Women, 5th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Glamorgan Women won by 92 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-05-23",
-      "dateTimeGMT": "2026-05-23T14:00:00",
-      "teams": [
-        "Glamorgan Women",
-        "Derbyshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Glamorgan Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 167,
-          "w": 8,
-          "o": 20,
-          "inning": "Glamorgan Women Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 10,
-          "o": 14.3,
-          "inning": "Derbyshire Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1851a269-fe0b-46a1-ade6-fadc3d965048",
       "name": "Surrey Women vs Durham Women, 11th Match, Womens T20 Blast 2026",
       "matchType": "t20",
-      "status": "Surrey Women opt to bowl",
+      "status": "Surrey Women won by 2 wkts",
       "venue": "Kennington Oval, London",
       "date": "2026-05-27",
       "dateTimeGMT": "2026-05-27T17:30:00",
@@ -774,12 +596,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 102,
+          "w": 10,
+          "o": 17,
+          "inning": "Durham Women Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 8,
+          "o": 16.4,
+          "inning": "Surrey Women Inning 1"
+        }
+      ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "a1b6ee47-8d21-4172-af95-e4ec0ea508ab",
@@ -1076,6 +912,186 @@
         }
       ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2f2e0eee-560d-4227-b32e-f0a4b1863c49",
+      "name": "Leicestershire vs Derbyshire, 19th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Derbyshire won by 85 runs",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-05-27",
+      "dateTimeGMT": "2026-05-27T17:00:00",
+      "teams": [
+        "Leicestershire",
+        "Derbyshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 230,
+          "w": 5,
+          "o": 20,
+          "inning": "Derbyshire Inning 1"
+        },
+        {
+          "r": 145,
+          "w": 10,
+          "o": 15.2,
+          "inning": "Leicestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "eb6fdac0-db82-47fd-80be-e3c9541982d5",
+      "name": "Hampshire vs Essex, 18th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Hampshire won by 30 runs",
+      "venue": "County Ground, Southampton",
+      "date": "2026-05-26",
+      "dateTimeGMT": "2026-05-26T18:00:00",
+      "teams": [
+        "Hampshire",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 4,
+          "o": 20,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 170,
+          "w": 7,
+          "o": 20,
+          "inning": "Essex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f0be3c4f-0356-4b55-8951-74ca84240601",
+      "name": "Kent vs Sussex, 17th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Kent won by 7 wkts",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T14:30:00",
+      "teams": [
+        "Kent",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 197,
+          "w": 6,
+          "o": 20,
+          "inning": "sussex Inning 1"
+        },
+        {
+          "r": 199,
+          "w": 3,
+          "o": 18.2,
+          "inning": "Kent,Sussex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ed6ba65d-69e6-46ad-98fd-2f6102ef7017",
+      "name": "Lancashire vs Nottinghamshire, 16th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Lancashire won by 39 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T14:00:00",
+      "teams": [
+        "Lancashire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 4,
+          "o": 20,
+          "inning": "lancashire Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 9,
+          "o": 20,
+          "inning": "Lancashire,Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
