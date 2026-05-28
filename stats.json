@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-28T17:36:28.115Z",
+  "lastUpdated": "2026-05-28T21:58:29.002Z",
   "recentMatches": [
     {
       "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
       "name": "Ireland vs New Zealand, Only Test, New Zealand tour of Ireland, 2026",
       "matchType": "test",
-      "status": "Day 2: 3rd Session - Ireland trail by 322 runs",
+      "status": "Day 2: Stumps - Ireland trail by 246 runs",
       "venue": "Civil Service Cricket Club, Belfast",
       "date": "2026-05-27",
       "dateTimeGMT": "2026-05-27T10:00:00",
@@ -33,10 +33,16 @@
           "inning": "New Zealand Inning 1"
         },
         {
-          "r": 168,
-          "w": 8,
-          "o": 43,
+          "r": 179,
+          "w": 10,
+          "o": 45,
           "inning": "Ireland Inning 1"
+        },
+        {
+          "r": 65,
+          "w": 2,
+          "o": 16,
+          "inning": "New Zealand Inning 2"
         }
       ],
       "series_id": "f90497a7-d2f8-46fd-abb9-eda98c0b1104",
@@ -452,141 +458,6 @@
       "matchEnded": true
     },
     {
-      "id": "dff09ae1-3ad5-4ca6-aa4f-e5de078fb2d0",
-      "name": "Botswana vs Mali, 5th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Botswana won by 10 wkts",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T11:50:00",
-      "teams": [
-        "Botswana",
-        "Mali"
-      ],
-      "teamInfo": [
-        {
-          "name": "Botswana",
-          "shortname": "BOT",
-          "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
-        },
-        {
-          "name": "Mali",
-          "shortname": "ML",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 24,
-          "w": 10,
-          "o": 9.4,
-          "inning": "mali Inning 1"
-        },
-        {
-          "r": 25,
-          "w": 0,
-          "o": 2.2,
-          "inning": "Botswana,Mali Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "858aa575-9a8c-49ad-bcc8-c618f3ff70c7",
-      "name": "Cameroon vs Sierra Leone, 6th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Cameroon won by 1 wkt",
-      "venue": "Botswana Cricket Association Oval 2, Gaborone",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T11:50:00",
-      "teams": [
-        "Cameroon",
-        "Sierra Leone"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cameroon",
-          "shortname": "CAM",
-          "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
-        },
-        {
-          "name": "Sierra Leone",
-          "shortname": "SLE",
-          "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 64,
-          "w": 10,
-          "o": 12.1,
-          "inning": "Sierra Leone Inning 1"
-        },
-        {
-          "r": 67,
-          "w": 9,
-          "o": 15.4,
-          "inning": "Cameroon Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e38493bf-b331-42ad-a814-2917e34e1300",
-      "name": "Ivory Coast vs Rwanda, 4th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Rwanda won by 271 runs",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T07:30:00",
-      "teams": [
-        "Ivory Coast",
-        "Rwanda"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ivory Coast",
-          "shortname": "IC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Rwanda",
-          "shortname": "RWN",
-          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 288,
-          "w": 2,
-          "o": 20,
-          "inning": "rwanda Inning 1"
-        },
-        {
-          "r": 17,
-          "w": 10,
-          "o": 15.2,
-          "inning": "Ivory Coast,Rwanda Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "e3ee5299-679e-4398-9ef5-2362e86c12a2",
       "name": "Kent Women vs Sussex Women, 8th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
@@ -620,92 +491,6 @@
           "w": 1,
           "o": 15.5,
           "inning": "Kent Women,Sussex Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a4eae77e-5818-4baa-81b7-eb86bb7480a3",
-      "name": "Middlesex Women vs Leicestershire Women, 6th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Leicestershire Women won by 5 wkts",
-      "venue": "Lord's, London",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T13:00:00",
-      "teams": [
-        "Middlesex Women",
-        "Leicestershire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Leicestershire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Middlesex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 115,
-          "w": 4,
-          "o": 20,
-          "inning": "middlesex women Inning 1"
-        },
-        {
-          "r": 119,
-          "w": 5,
-          "o": 17.2,
-          "inning": "Middlesex Women,Leicestershire Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e6553c68-830f-4c1f-b968-232c652de396",
-      "name": "Worcestershire Women vs Northamptonshire Women, 7th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Northamptonshire Women won by 39 runs",
-      "venue": "New Road, Worcester",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T09:30:00",
-      "teams": [
-        "Worcestershire Women",
-        "Northamptonshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Worcestershire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 6,
-          "o": 20,
-          "inning": "Northamptonshire Women Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 10,
-          "o": 17.5,
-          "inning": "Worcestershire Women Inning 1"
         }
       ],
       "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
@@ -931,135 +716,6 @@
       "matchEnded": true
     },
     {
-      "id": "6a89d7bb-0d7a-4bdc-8ca4-1e0b18118f5c",
-      "name": "Yorkshire Women vs Surrey Women, 7th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Surrey Women won by 4 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T10:30:00",
-      "teams": [
-        "Yorkshire Women",
-        "Surrey Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Surrey Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Yorkshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 133,
-          "w": 10,
-          "o": 20,
-          "inning": "yorkshire women Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 6,
-          "o": 15.3,
-          "inning": "Yorkshire Women,Surrey Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "85a28e90-1157-4ae3-8d67-c83d320d9809",
-      "name": "Warwickshire Women vs Somerset Women, 6th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset Women won by 7 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T10:30:00",
-      "teams": [
-        "Warwickshire Women",
-        "Somerset Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Somerset Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warwickshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 9,
-          "o": 20,
-          "inning": "warwickshire women Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 3,
-          "o": 18.2,
-          "inning": "Warwickshire Women,Somerset Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d71267ff-6ee5-41b6-81a1-272f33f2864c",
-      "name": "Durham Women vs Hampshire Women, 5th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Durham Women won by 32 runs",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-05-24",
-      "dateTimeGMT": "2026-05-24T10:30:00",
-      "teams": [
-        "Durham Women",
-        "Hampshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hampshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 178,
-          "w": 5,
-          "o": 20,
-          "inning": "durham women Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 8,
-          "o": 20,
-          "inning": "Durham Women,Hampshire Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "2f2e0eee-560d-4227-b32e-f0a4b1863c49",
       "name": "Leicestershire vs Derbyshire, 19th Match, T20 Blast 2026",
       "matchType": "t20",
@@ -1098,6 +754,366 @@
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "eb6fdac0-db82-47fd-80be-e3c9541982d5",
+      "name": "Hampshire vs Essex, 18th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Hampshire won by 30 runs",
+      "venue": "County Ground, Southampton",
+      "date": "2026-05-26",
+      "dateTimeGMT": "2026-05-26T18:00:00",
+      "teams": [
+        "Hampshire",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 4,
+          "o": 20,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 170,
+          "w": 7,
+          "o": 20,
+          "inning": "Essex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f0be3c4f-0356-4b55-8951-74ca84240601",
+      "name": "Kent vs Sussex, 17th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Kent won by 7 wkts",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T14:30:00",
+      "teams": [
+        "Kent",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 197,
+          "w": 6,
+          "o": 20,
+          "inning": "sussex Inning 1"
+        },
+        {
+          "r": 199,
+          "w": 3,
+          "o": 18.2,
+          "inning": "Kent,Sussex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ed6ba65d-69e6-46ad-98fd-2f6102ef7017",
+      "name": "Lancashire vs Nottinghamshire, 16th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Lancashire won by 39 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T14:00:00",
+      "teams": [
+        "Lancashire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 4,
+          "o": 20,
+          "inning": "lancashire Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 9,
+          "o": 20,
+          "inning": "Lancashire,Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1f89685e-50f9-4836-b83b-679c107e9ca9",
+      "name": "Indonesia Women vs Nepal Women, 6th Match, Group B, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 4 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-26",
+      "dateTimeGMT": "2026-05-26T06:00:00",
+      "teams": [
+        "Indonesia Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 113,
+          "w": 4,
+          "o": 20,
+          "inning": "indonesia women Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 6,
+          "o": 19.3,
+          "inning": "Indonesia Women,Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b329bd90-6fb7-4047-a21f-e0e780a8c319",
+      "name": "Malaysia Women vs Hong Kong, China Women, 5th Match, Group A, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "Malaysia Women won by 34 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-26",
+      "dateTimeGMT": "2026-05-26T01:30:00",
+      "teams": [
+        "Malaysia Women",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 6,
+          "o": 20,
+          "inning": "Malaysia WomenHong Kong Inning 1"
+        },
+        {
+          "r": 69,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Malaysia Women,Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7aa9d7bd-001b-4c49-81c6-c4e79a6213cb",
+      "name": "China Women vs Nepal Women, 4th Match, Group B, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 19 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-26",
+      "dateTimeGMT": "2026-05-26T01:30:00",
+      "teams": [
+        "China Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 125,
+          "w": 5,
+          "o": 20,
+          "inning": "nepal women Inning 1"
+        },
+        {
+          "r": 106,
+          "w": 5,
+          "o": 20,
+          "inning": "China Women,Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "41e225d3-716c-4696-9383-2ee7c01b5374",
+      "name": "Malaysia Women vs Thailand Women, 3rd Match, Group A, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "Thailand Women won by 7 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T06:00:00",
+      "teams": [
+        "Malaysia Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 82,
+          "w": 7,
+          "o": 20,
+          "inning": "malaysia women Inning 1"
+        },
+        {
+          "r": 85,
+          "w": 3,
+          "o": 12.3,
+          "inning": "Malaysia Women,Thailand Women Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cb1cbdbb-4ebd-464d-8858-ace9d58d2a8d",
+      "name": "China Women vs Indonesia Women, 2nd Match, Group B, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "China Women won by 3 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-25",
+      "dateTimeGMT": "2026-05-25T01:30:00",
+      "teams": [
+        "China Women",
+        "Indonesia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 82,
+          "w": 9,
+          "o": 20,
+          "inning": "indonesia women Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 7,
+          "o": 19.5,
+          "inning": "China Women,Indonesia Women Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
