@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-28T11:27:17.411Z",
+  "lastUpdated": "2026-05-28T17:36:28.115Z",
   "recentMatches": [
     {
       "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
       "name": "Ireland vs New Zealand, Only Test, New Zealand tour of Ireland, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Ireland opt to bowl",
+      "status": "Day 2: 3rd Session - Ireland trail by 322 runs",
       "venue": "Civil Service Cricket Club, Belfast",
       "date": "2026-05-27",
       "dateTimeGMT": "2026-05-27T10:00:00",
@@ -27,10 +27,16 @@
       ],
       "score": [
         {
-          "r": 361,
-          "w": 5,
-          "o": 94,
+          "r": 490,
+          "w": 8,
+          "o": 119,
           "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 168,
+          "w": 8,
+          "o": 43,
+          "inning": "Ireland Inning 1"
         }
       ],
       "series_id": "f90497a7-d2f8-46fd-abb9-eda98c0b1104",
@@ -41,10 +47,55 @@
       "matchEnded": false
     },
     {
+      "id": "d9a4bae6-3ed7-4751-b98a-7408f9f4d54f",
+      "name": "Cameroon vs Kenya, 15th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Kenya won by 10 wkts",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2026-05-28",
+      "dateTimeGMT": "2026-05-28T11:50:00",
+      "teams": [
+        "Cameroon",
+        "Kenya"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cameroon",
+          "shortname": "CAM",
+          "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
+        },
+        {
+          "name": "Kenya",
+          "shortname": "KEN",
+          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 42,
+          "w": 10,
+          "o": 11,
+          "inning": "Cameroon Inning 1"
+        },
+        {
+          "r": 43,
+          "w": 0,
+          "o": 2.2,
+          "inning": "Kenya Inning 1"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "8f797f9c-d7cd-4442-8864-648763b51a4b",
       "name": "Rwanda vs Sierra Leone, 14th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Rwanda won by 8 wkts",
       "venue": "Botswana Cricket Association Oval 2, Gaborone",
       "date": "2026-05-28",
       "dateTimeGMT": "2026-05-28T07:30:00",
@@ -70,6 +121,12 @@
           "w": 10,
           "o": 19.3,
           "inning": "Sierra Leone Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 2,
+          "o": 15,
+          "inning": "Rwanda Inning 1"
         }
       ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
@@ -77,13 +134,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "9344d3be-6a9e-4de7-9997-576fe0c690b2",
       "name": "Botswana vs Ivory Coast, 13th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Botswana won by 231 runs",
       "venue": "Botswana Cricket Association Oval 1, Gaborone",
       "date": "2026-05-28",
       "dateTimeGMT": "2026-05-28T07:30:00",
@@ -109,6 +166,12 @@
           "w": 3,
           "o": 20,
           "inning": "botswana Inning 1"
+        },
+        {
+          "r": 24,
+          "w": 10,
+          "o": 8.3,
+          "inning": "Botswana,Ivory Coast Inning 1"
         }
       ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
@@ -116,7 +179,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f7af6be7-47c2-4f94-8255-e88ea9a08c05",
@@ -1032,51 +1095,6 @@
           "w": 10,
           "o": 15.2,
           "inning": "Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "eb6fdac0-db82-47fd-80be-e3c9541982d5",
-      "name": "Hampshire vs Essex, 18th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Hampshire won by 30 runs",
-      "venue": "County Ground, Southampton",
-      "date": "2026-05-26",
-      "dateTimeGMT": "2026-05-26T18:00:00",
-      "teams": [
-        "Hampshire",
-        "Essex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 200,
-          "w": 4,
-          "o": 20,
-          "inning": "Hampshire Inning 1"
-        },
-        {
-          "r": 170,
-          "w": 7,
-          "o": 20,
-          "inning": "Essex Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
