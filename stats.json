@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T06:17:52.687Z",
+  "lastUpdated": "2026-05-28T11:27:17.411Z",
   "recentMatches": [
     {
       "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
@@ -34,6 +34,84 @@
         }
       ],
       "series_id": "f90497a7-d2f8-46fd-abb9-eda98c0b1104",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8f797f9c-d7cd-4442-8864-648763b51a4b",
+      "name": "Rwanda vs Sierra Leone, 14th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Botswana Cricket Association Oval 2, Gaborone",
+      "date": "2026-05-28",
+      "dateTimeGMT": "2026-05-28T07:30:00",
+      "teams": [
+        "Rwanda",
+        "Sierra Leone"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rwanda",
+          "shortname": "RWN",
+          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
+        },
+        {
+          "name": "Sierra Leone",
+          "shortname": "SLE",
+          "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 88,
+          "w": 10,
+          "o": 19.3,
+          "inning": "Sierra Leone Inning 1"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "9344d3be-6a9e-4de7-9997-576fe0c690b2",
+      "name": "Botswana vs Ivory Coast, 13th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2026-05-28",
+      "dateTimeGMT": "2026-05-28T07:30:00",
+      "teams": [
+        "Botswana",
+        "Ivory Coast"
+      ],
+      "teamInfo": [
+        {
+          "name": "Botswana",
+          "shortname": "BOT",
+          "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
+        },
+        {
+          "name": "Ivory Coast",
+          "shortname": "IC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 255,
+          "w": 3,
+          "o": 20,
+          "inning": "botswana Inning 1"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -999,96 +1077,6 @@
           "w": 7,
           "o": 20,
           "inning": "Essex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f0be3c4f-0356-4b55-8951-74ca84240601",
-      "name": "Kent vs Sussex, 17th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Kent won by 7 wkts",
-      "venue": "St Lawrence Ground, Canterbury",
-      "date": "2026-05-25",
-      "dateTimeGMT": "2026-05-25T14:30:00",
-      "teams": [
-        "Kent",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 197,
-          "w": 6,
-          "o": 20,
-          "inning": "sussex Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 3,
-          "o": 18.2,
-          "inning": "Kent,Sussex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ed6ba65d-69e6-46ad-98fd-2f6102ef7017",
-      "name": "Lancashire vs Nottinghamshire, 16th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Lancashire won by 39 runs",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-05-25",
-      "dateTimeGMT": "2026-05-25T14:00:00",
-      "teams": [
-        "Lancashire",
-        "Nottinghamshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 208,
-          "w": 4,
-          "o": 20,
-          "inning": "lancashire Inning 1"
-        },
-        {
-          "r": 169,
-          "w": 9,
-          "o": 20,
-          "inning": "Lancashire,Nottinghamshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",

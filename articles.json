@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-28T06:17:52.686Z",
+  "lastUpdated": "2026-05-28T11:27:17.411Z",
   "articles": [
     {
-      "title": "West Indies to host Sri Lanka, New Zealand and Pakistan in 2026 home season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538577.html?ex_cid=OTC-RSS",
-      "description": "West Indies will play Test matches against Sri Lanka and Pakistan in the home season",
-      "publishedAt": "2026-05-28T05:21:53.000Z",
+      "title": "Sooryavanshi smashes his way to the top of IPL 2026 Orange Cap table",
+      "url": "https://www.espncricinfo.com/ci/content/story/1538572.html?ex_cid=OTC-RSS",
+      "description": "Jofra Archer, meanwhile, picked up three wickets for the second game running, and is only two behind Purple Cap leaders Bhuvneshwar Kumar and Kagiso Rabada",
+      "publishedAt": "2026-05-28T06:51:57.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -32,40 +32,10 @@
       "urlToImage": null
     },
     {
-      "title": "Alice Tector replaces injured Laura Delany in Ireland's T20 World Cup squad",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538496.html?ex_cid=OTC-RSS",
-      "description": "Tector will also be part of Ireland's home tri-series against West Indies and Pakistan which starts on Thursday",
-      "publishedAt": "2026-05-27T12:42:11.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "World Cup contenders England and India hope to get their combinations right",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538421.html?ex_cid=OTC-RSS",
-      "description": "England will want time in the middle for the new opening pair of Sophia Dunkley and Alice Capsey, while India will want a repeat of the historic first T20I series win in England last year",
-      "publishedAt": "2026-05-27T11:25:27.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rashid and Zadran rested for one-off Test against India",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538386.html?ex_cid=OTC-RSS",
-      "description": "They will return for the three-match ODI series against India, which takes place from June 13 to 20",
-      "publishedAt": "2026-05-27T07:49:48.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Ireland host rare home Test as New Zealand seek red-ball rhythm",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538405.html?ex_cid=OTC-RSS",
-      "description": "This will be the first ever Test between the two countries, who have both had little red-ball practice lately",
-      "publishedAt": "2026-05-26T19:56:57.000Z",
+      "title": "Patidar leads the way as RCB storm into second straight final",
+      "url": "https://www.espncricinfo.com/ci/content/story/1538439.html?ex_cid=OTC-RSS",
+      "description": "After amassing 254, the RCB quicks ran riot, taking out half of GT's side in the powerplay and eventually bowling them out for 162",
+      "publishedAt": "2026-05-27T07:24:38.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -92,12 +62,52 @@
       "urlToImage": null
     },
     {
+      "title": "Zak Crawley channels England disappointment into match-winning 75*",
+      "url": "https://www.espncricinfo.com/ci/content/story/1538285.html?ex_cid=OTC-RSS",
+      "description": "Sussex were 98 for no loss in the eighth over but only ended up posting 197 for 6",
+      "publishedAt": "2026-05-25T17:46:05.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Gibson, Dean knock over NZ for 80 as England cruise to series win",
       "url": "https://www.espncricinfo.com/ci/content/story/1538286.html?ex_cid=OTC-RSS",
       "description": "England closed out the chase in the decider with seven wickets and 37 balls to spare",
       "publishedAt": "2026-05-25T16:32:29.000Z",
       "source": {
         "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "West Indies legend elected as new President of Lancashire Cricket",
+      "url": "https://www.crictracker.com/cricket-news/west-indies-legend-elected-as-new-president-of-lancashire-cricket/",
+      "description": "Former England Women’s star and 2017 World Cup-winning bowler, Alex Hartley, also joined the board after being appointed as the Vice-President of Lancashire Cricket.",
+      "publishedAt": "2026-05-28T07:18:24.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "West Indies to host Sri Lanka, New Zealand and Pakistan during 2026 home season",
+      "url": "https://www.crictracker.com/cricket-news/west-indies-to-host-sri-lanka-new-zealand-and-pakistan-during-2026-home-season/",
+      "description": "Cricket West Indies (CWI) have branded their upcoming home season under the name of “WI OUTSIDE.”",
+      "publishedAt": "2026-05-28T04:58:12.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "ENG v NZ 2026: Jacob Bethell in line to play Lord's Test after leaving RCB camp through finger injury",
+      "url": "https://www.crictracker.com/cricket-news/eng-v-nz-2026-jacob-bethell-in-line-to-play-lords-test-after-leaving-rcb-camp-through-finger-injury/",
+      "description": "Should Bethell be available for selection for the first Test match against New Zealand, the left-hander would slot in at number three in the batting order.",
+      "publishedAt": "2026-05-28T04:42:47.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -112,7 +122,17 @@
       "urlToImage": null
     },
     {
-      "title": "Afghanistan announce squad for upcoming India series - icc-cricket.com",
+      "title": "Ireland host rare home Test as New Zealand seek red-ball rhythm - ESPNcricinfo",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGlvUjY5ZjAzZDk5NmlGdTJkX01Sai0ydlp3aVdXdTV3UmVLNThNYUZDMmd1MTRWS0FOTUpDYWVscElxbUZBY0d5LWVqRm9VOEQ2cTlNTTQ5NVQ3RVloS1piN0R1YUtEczZOX2ZZTHhuWmpYbXZyb0NkZkxzU1dnYlF6U3RyUkdkbXJtS0dtU3NRNmxYMERIOHN0SGlscFF6YmtEbGhrUnVRNDAxcGxCdUx0dkZKMDZUWDBvWmIzNGxnWXV0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGlvUjY5ZjAzZDk5NmlGdTJkX01Sai0ydlp3aVdXdTV3UmVLNThNYUZDMmd1MTRWS0FOTUpDYWVscElxbUZBY0d5LWVqRm9VOEQ2cTlNTTQ5NVQ3RVloS1piN0R1YUtEczZOX2ZZTHhuWmpYbXZyb0NkZkxzU1dnYlF6U3RyUkdkbXJtS0dtU3NRNmxYMERIOHN0SGlscFF6YmtEbGhrUnVRNDAxcGxCdUx0dkZKMDZUWD",
+      "publishedAt": "2026-05-26T17:33:39.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Afghanistan announce squad for upcoming India series - ICC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJNVk1CU1U1SjZfbXNtVmZiVmgteVhCZEM4NU1WbTViXzk1bm03bkEtLTBOeldYVHpXMHdkOWs4NDVZVXNfczNkT25SQ0ZLNWEyRThRd05TV3JMaFVpb3hnMUVnOG41TmtkVW5KWUUyR0xIakNoVTkzQk1Xai14RWNHZTJxUDZXWU1RTmxB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJNVk1CU1U1SjZfbXNtVmZiVmgteVhCZEM4NU1WbTViXzk1bm03bkEtLTBOeldYVHpXMHdkOWs4NDVZVXNfczNkT25SQ0ZLNWEyRThRd05TV3JMaFVpb3hnMUVnOG41TmtkVW5KWUUyR0xIakNoVTkzQk1Xai14RWNHZTJxUDZXWU1RTmxB?oc=5\" target=\"_blank\">Afghanistan announce squad for upco",
       "publishedAt": "2026-05-26T17:07:11.000Z",
@@ -122,30 +142,70 @@
       "urlToImage": null
     },
     {
-      "title": "Kaur eyeing full-circle moment at the T20 World Cup - icc-cricket.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3o2bWJDSml1azJTY0cwSFJ6UVhrY1FPcmVWSmo2RTItUUxIUFZNdkF4TjVHRzNlOTFRQnRnWXVCOVJZd1BmSTBOeUYxWnpFMTJ3bFB2VkNjR1VuMDRLR3V3dUU1QVRDUmx4ckpVRzFwVXFlMWpqUzFKZ2VSeFlzUEUwQXFrODV6VmhFeS1mRGFGbEJFdVNsaHljLW1BSVVsX1RjYm9lRXBnUm9yWGk2d25xSk5pQjBlNHJJTjJ3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3o2bWJDSml1azJTY0cwSFJ6UVhrY1FPcmVWSmo2RTItUUxIUFZNdkF4TjVHRzNlOTFRQnRnWXVCOVJZd1BmSTBOeUYxWnpFMTJ3bFB2VkNjR1VuMDRLR3V3dUU1QVRDUmx4ckpVRzFwVXFlMWpqUzFKZ2VSeFlzUEUwQXFrODV6VmhFeS1mRGFGbEJFdVNsaHljLW1BSVVsX1RjYm9lRXBnUm9yWGk2d25xSk5pQjBlNH",
-      "publishedAt": "2026-05-28T02:30:02.000Z",
+      "title": "ICC announces all-female match officials panel for Women’s T20 World Cup 2026, four Indians included - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkV1Y1B4N0IzVXA0SkhCS3U2QV9hbUZvR3N0NUlXTkdSMFM5WjAyLU5iNGNQMHRxZXhTTktvUmtqU2U0TjM3ZjhHazBySjZJaVZPVnFPSDZaTm92cFI4UExwbTBXRUFGVk5wbXlYUTM4U3MtUDFBZWQtU29hZjJxcUJRYzNsbmhZaGJ6clJCQWZHRjNtTlZIdXU1dkVqNkFEYW9TbVdCTXl5WFE0NGdhMmJoSzJjYXpZM1d5cDNXLUJPVWRnbGV5TTVRUmpjY1daS19oUHEyeWM2SVBFcm1XV25Od1nSAeoBQVVfeXFMUHY3S1dBa28zdEtIcE1yRFZYeUVTMjBvNU05WjBVdEplOW1mSG9INkJ4WEdrMnZLTXREMW51NzdoZkRfSVAxRWxVMndXeDhaTGtyUzNBaUx5VXE5S2RlNlBoamVHeTVIRldyN2lTbUpfUXFDaTZyTG12V0tTalVaLUxSUktONGpkV0tSU25wUkZCODFqbDJrQTkyQmNuNmU3R0ZGX1FTUm1CREcxdVctYUJ6MUJsTUFBdnMwNXA2eEdBUll4bWg1TXp5X0FKNS1HbS1JNHVDTF9yb01yTTYxTGFyUkFkSDNpSWZB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkV1Y1B4N0IzVXA0SkhCS3U2QV9hbUZvR3N0NUlXTkdSMFM5WjAyLU5iNGNQMHRxZXhTTktvUmtqU2U0TjM3ZjhHazBySjZJaVZPVnFPSDZaTm92cFI4UExwbTBXRUFGVk5wbXlYUTM4U3MtUDFBZWQtU29hZjJxcUJRYzNsbmhZaGJ6clJCQWZHRjNtTlZIdXU1dkVqNkFEYW9TbVdCTXl5WFE0NGdhMmJoSzJjYXpZM1",
+      "publishedAt": "2026-05-28T10:51:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar Azam Returns As Pakistan Name ODI Squad For Australia Series - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNElGYUFRSkIxSmNxVTAxT1Y0WGV5R2tKS0JmYzVYVkxndS1iRlZ5b1ZrVG43RmFLaTFPZkdNcUxIZC1DeEFsR0NTSG8ybUtTSXdoLXA2ajBwa2p5VGhNbThnd3hESzlFTHlYQU9YM1NlOVFkUWptYVlTZzl5aTZKdnZKYU5rSWU4dnIwcUY3c1RtQVRpQ2tXWFR4VVUwMHpvQU5oOVJzZ2FlTkk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNElGYUFRSkIxSmNxVTAxT1Y0WGV5R2tKS0JmYzVYVkxndS1iRlZ5b1ZrVG43RmFLaTFPZkdNcUxIZC1DeEFsR0NTSG8ybUtTSXdoLXA2ajBwa2p5VGhNbThnd3hESzlFTHlYQU9YM1NlOVFkUWptYVlTZzl5aTZKdnZKYU5rSWU4dnIwcUY3c1RtQVRpQ2tXWFR4VVUwMHpvQU5oOVJzZ2FlTkk?oc=5\" target=\"_bla",
-      "publishedAt": "2026-05-22T06:08:12.000Z",
+      "title": "Improved Pakistan seek to shine at the T20 World Cup - ICC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWFpZHBfRXlwRXJiNFFOeldzQTNYT1p0VGxyNmdKczB6eTVUMl9EdW9kODE1TmRYQndKNjY2bnhiZHB4b2N0Zkp2LW9OdnpEVm90cVZUbTFkU18wMWlfcFIxNmxSOWRlRkx2SXh3OG83anB0bEY1MEpzU0JULVJFNXY3T1FnS2tOemljVTNvQ2F6cVdBb0lCMHVlRWVJbHJYQUduWjFzVkpJTWdIUzhMem5RU2FVaHVyS1pobzRtZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWFpZHBfRXlwRXJiNFFOeldzQTNYT1p0VGxyNmdKczB6eTVUMl9EdW9kODE1TmRYQndKNjY2bnhiZHB4b2N0Zkp2LW9OdnpEVm90cVZUbTFkU18wMWlfcFIxNmxSOWRlRkx2SXh3OG83anB0bEY1MEpzU0JULVJFNXY3T1FnS2tOemljVTNvQ2F6cVdBb0lCMHVlRWVJbHJYQUduWjFzVkpJTWdIUzhMem5RU2FVaHVyS1",
+      "publishedAt": "2026-05-28T11:01:32.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Brendon McCullum defends missing start of county season, insists England’s ‘best years’ are ahead - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTlhRTHNXWUhkeHpCRTh4dC1fc1dIaGtsdWtxblUtV1c3RjRQRWZ3QzI2c2c0Z1NYblJvYmhZQVJkeVhJYnlxS0hrb0lWb1ZOUVpja2xLTnE0WVRoWUt6NGhocjlFRm1vSmNiSld2dmM4M1hKaHoxVzV4NTJXd0lodEYtc3lDWURXbmRCbFB4MHlFOGM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTlhRTHNXWUhkeHpCRTh4dC1fc1dIaGtsdWtxblUtV1c3RjRQRWZ3QzI2c2c0Z1NYblJvYmhZQVJkeVhJYnlxS0hrb0lWb1ZOUVpja2xLTnE0WVRoWUt6NGhocjlFRm1vSmNiSld2dmM4M1hKaHoxVzV4NTJXd0lodEYtc3lDWURXbmRCbFB4MHlFOGM?oc=5\" target=\"_blank\">Brendon McCullum defends mis",
-      "publishedAt": "2026-05-27T15:41:32.000Z",
+      "title": "India Squad For Women's T20 World Cup 2026: Harmanpreet Kaur To Lead; Big Name Misses Out Due To Injury - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOWxQUU9EWnVBdlRURVpsS0wydW5yVU0wT3JVbHh0b3Z2UGI2QUdJYUlZczZyTGFENHMwcUVVQmxCM3Ywb0hNLW5kVHQ5VUk1ekJHczlkbUFlMzRhNC1aQzF6MnZJWG5qV0ZfMjdmWE5lMzFLVFNZekh5VFduLUtDR3lGT2FJS2ZQRERIZUwxX1owaXliOGh6NjRhbEczeVFUOTlvQ0U2N2VUMTE5bjdTM0NMdnZZdkdRenhtWk1pV3VheUZicFVacUIyd1kwT2hLT2FXb1pmaTBCUy1JMGlROHpqWEpCUlg2YktUcWpYT05mOVJka0tmSnRvcmdUS1Bac1hmTUZKUzhWYUxy?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPOWxQUU9EWnVBdlRURVpsS0wydW5yVU0wT3JVbHh0b3Z2UGI2QUdJYUlZczZyTGFENHMwcUVVQmxCM3Ywb0hNLW5kVHQ5VUk1ekJHczlkbUFlMzRhNC1aQzF6MnZJWG5qV0ZfMjdmWE5lMzFLVFNZekh5VFduLUtDR3lGT2FJS2ZQRERIZUwxX1owaXliOGh6NjRhbEczeVFUOTlvQ0U2N2VUMTE5bjdTM0NMdnZZdkdRen",
+      "publishedAt": "2026-05-28T08:09:16.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Inside cricket’s second attempt at BBL sale - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWhfQjZnVWhXY0pVV29uTVN0U3NMMzR1YmctQy12alNUc3Q5VXFuQVU1WkI5Qk1HTU84aDdlOGdRb0VVa0pOSUwzMkd3WDAwcXpxTVdIMTlvakZqRmxEVzRILWZZZHBoV1RUX0kxck9jX1RYbkVabFhNQkkyNmZ2M2V5MXJ5SFk4WW45S0lRbW1mNUFkS0Q2V2FCZzlLQ2dFSGgyWlFfalk1dzNtMmk1WU8xRTBLdEZkWXpXeG4xeU5Ec0tS?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWhfQjZnVWhXY0pVV29uTVN0U3NMMzR1YmctQy12alNUc3Q5VXFuQVU1WkI5Qk1HTU84aDdlOGdRb0VVa0pOSUwzMkd3WDAwcXpxTVdIMTlvakZqRmxEVzRILWZZZHBoV1RUX0kxck9jX1RYbkVabFhNQkkyNmZ2M2V5MXJ5SFk4WW45S0lRbW1mNUFkS0Q2V2FCZzlLQ2dFSGgyWlFfalk1dzNtMmk1WU8xRTBLdEZkWX",
+      "publishedAt": "2026-05-24T06:11:06.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Pakistan Cricket Board Announces ODI Squad For Series Against Australia; Babar Azam Included - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzM2NFVDVW83UnZEOHZfS01FNXpPRi01d0puWVdVWXF3U3VIZTVzaTE0ZTJNLThfanZvbkI3Y0ktOXl6OTlzZzk0ZXR3em9RVy1vSS0zYnpiUkk5cjFoYWRqaWpUbUNzSmtIVjZqVUpXXzJFU0FDU0tzV3A4OHg1blNxNHBNcVJMR3VGdHhSRXZ6cTRGMFN3YjFhaTRHTWdsOHNzSk10Tk1WS0FSTjVhN2I4QWV0OXBNSUk4RHVrSnFWanhuTE84U3lKdUs1WGvSAdcBQVVfeXFMT0lMWGthTUwyYzNaQUFBZ1JXb3BBLS1IeWlnZ1ZhV1J6R3JEUnRwNjd4VEZCZ3E4VjNjTFFCOVpEMG9VZHBkc3V5MlBNN1ZJV3NpdU02SFM5OEZ6TVRkQmVrZFp5UFd0OTVhQWhEV1M5VGpGV3drMDhkMHcxMVpWWnJtWjltQTJUckxORzBZWFBwakQxcFdtZGMzeEFNOUIxcTBCUV9tNmdDVW9kRXl6NTFhSXZnQnFVLVVPbEJkR0d4SHZDMlBrbTNBMTAwNWNZSXBPckxSa2M?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzM2NFVDVW83UnZEOHZfS01FNXpPRi01d0puWVdVWXF3U3VIZTVzaTE0ZTJNLThfanZvbkI3Y0ktOXl6OTlzZzk0ZXR3em9RVy1vSS0zYnpiUkk5cjFoYWRqaWpUbUNzSmtIVjZqVUpXXzJFU0FDU0tzV3A4OHg1blNxNHBNcVJMR3VGdHhSRXZ6cTRGMFN3YjFhaTRHTWdsOHNzSk10Tk1WS0FSTjVhN2I4QWV0OXBNSU",
+      "publishedAt": "2026-05-22T07:09:15.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "England v New Zealand on TV 2026: 1st Test schedule, coverage and live stream - Radio Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VeHplZTlSYUlRWGhwcWxwaGdsSS1obE1VeVFrVkI3MDZrcnRCbTh5OW9ZNUNEMG9zcVRuUVZha18ybHdQd3JQekRQNktxVkxZbjFKZ21JT1g4dnp4QWlORk5jSUNmNk5lNi10bzhTWTZsUVhMOFhEQmFmT3M?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1VeHplZTlSYUlRWGhwcWxwaGdsSS1obE1VeVFrVkI3MDZrcnRCbTh5OW9ZNUNEMG9zcVRuUVZha18ybHdQd3JQekRQNktxVkxZbjFKZ21JT1g4dnp4QWlORk5jSUNmNk5lNi10bzhTWTZsUVhMOFhEQmFmT3M?oc=5\" target=\"_blank\">England v New Zealand on TV 2026: 1st Test schedule, coverag",
+      "publishedAt": "2026-05-28T08:00:13.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Women’s T20 World Cup 2026 squads: Full list of teams and players - olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZG02SThnSEFLYjFoT0xZeDYwRzB3OUNZMEEyMFUtRWU0dEY5cU40OFE5WHBNYnMtTnRxU0g2MlF3WTZsemV1cFZ4RGlXcmpHODh0enNsVVd6bzZYSmNMVXhlT1U1NGNPSTVMa0F5WGVZU01QeklmTEw2QzZTLUJkRDNyZ0ZlMVRGOUF1RWsyM2RIUkJQREE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZG02SThnSEFLYjFoT0xZeDYwRzB3OUNZMEEyMFUtRWU0dEY5cU40OFE5WHBNYnMtTnRxU0g2MlF3WTZsemV1cFZ4RGlXcmpHODh0enNsVVd6bzZYSmNMVXhlT1U1NGNPSTVMa0F5WGVZU01QeklmTEw2QzZTLUJkRDNyZ0ZlMVRGOUF1RWsyM2RIUkJQREE?oc=5\" target=\"_blank\">Women’s T20 World Cup 20",
+      "publishedAt": "2026-05-27T12:28:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -154,9 +214,9 @@
   ],
   "culture": [
     {
-      "title": "From Healthcare, IT to Cricket and Cultural camaraderie: Jaishankar calls India-Jamaica's ties a \"story of continuity and change\" - Dailyhunt",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV2hZbDBwNkU3MEd6bGVPNlo4WElPRDhiTUh6VU1WMTl1aUtIN2JPN3FKM1JJXzlQaUU0Tlc1b21VeDdjcWRjeHI1ZUJlRGg5MXdJR3loMmluaGFLSkhncEZSeFRlNnhzSjBGNW5oOUNuOVNZYXp1aHBWSXA1aUl3R3JHa3Vkd3dmUEJURWoxNnkwU2ZUNUl6b054Wm9fS3dhNmFCa2xOb2FQY1BtWEVleHZMdGtWeVJmUWpjdGxaRkp2c2pTV1Vqb2xTdV9rc0sxc0JLSGwzc1R5TVZXSUFNUTlLNlZveGdxSXd6S3FBMmZkZjBCUm85TmxnZGhBc2FkcDE4c1l6NjRaOFpPemlGbnhJSVlPYU1ZWGFHTzR4TGRlU2hUTXlmNGpLYTBsLUFKNkxnT0luX0M?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV2hZbDBwNkU3MEd6bGVPNlo4WElPRDhiTUh6VU1WMTl1aUtIN2JPN3FKM1JJXzlQaUU0Tlc1b21VeDdjcWRjeHI1ZUJlRGg5MXdJR3loMmluaGFLSkhncEZSeFRlNnhzSjBGNW5oOUNuOVNZYXp1aHBWSXA1aUl3R3JHa3Vkd3dmUEJURWoxNnkwU2ZUNUl6b054Wm9fS3dhNmFCa2xOb2FQY1BtWEVleHZMdGtWeVJmUW",
+      "title": "From Healthcare, IT to Cricket and Cultural camaraderie: Jaishankar calls India-Jamaica's ties a \"story of continuity and change\" - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbjZMd2tmQ2Z2VHFycmVMU05QMFk3dVV1VjE4VmEwT1RkTGdaM3J6Rk9ycXp1TjlYN2V6bEtwaVhnZ2lENFJCRnpiWE1pNGtLTWNSZUM0ZnFPNHlZTDZLYlpTZzZJOUszTHVKbkFFVUwxLVRMWkI5cHhQQzhnSzJrMDRFOFB0bkR6X2ZBUmVGRGI5ZnNteTB2SThVeEFINEUwcXZGOElPemRIU0laX2xjRGYwQ0VVNEtVR3NFeEhLYlFKdW9mZWZrS1pacGVkTU1sMlNvOS1ZSThGTXlSbXc4aERDcjEwMDVjV1gwUTMtU2dfTUMxN0VfWVFqV2xLRHAzeFlVbEt5RkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbjZMd2tmQ2Z2VHFycmVMU05QMFk3dVV1VjE4VmEwT1RkTGdaM3J6Rk9ycXp1TjlYN2V6bEtwaVhnZ2lENFJCRnpiWE1pNGtLTWNSZUM0ZnFPNHlZTDZLYlpTZzZJOUszTHVKbkFFVUwxLVRMWkI5cHhQQzhnSzJrMDRFOFB0bkR6X2ZBUmVGRGI5ZnNteTB2SThVeEFINEUwcXZGOElPemRIU0laX2xjRGYwQ0VVNEtVR3",
       "publishedAt": "2026-05-04T07:00:00.000Z",
       "source": {
         "name": "Google News"
@@ -184,16 +244,6 @@
       "urlToImage": null
     },
     {
-      "title": "Cricket - Rules, Teams, History - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hZjRMMGRTeXN0c1ZJYkd5OW1mU2g2dEY5V1VJa1RWbHpTT0FzMkpLSTJBR0RfdEVadTVnSTFBam1CeEhXUktQNzFiTkZmQkxKb08xWWN3Y20zcGxEa2FtaDBHVmxEN2djdjA2NV9qWlJ6alpjWnREeQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1hZjRMMGRTeXN0c1ZJYkd5OW1mU2g2dEY5V1VJa1RWbHpTT0FzMkpLSTJBR0RfdEVadTVnSTFBam1CeEhXUktQNzFiTkZmQkxKb08xWWN3Y20zcGxEa2FtaDBHVmxEN2djdjA2NV9qWlJ6alpjWnREeQ?oc=5\" target=\"_blank\">Cricket - Rules, Teams, History</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "publishedAt": "2026-05-02T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "ICC plans massive cricket rule overhaul: Coach field access, pink ball tests and T20I changes - MSN",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQlpZWkJVdmxsSnBXV0xyTUp0dEh1cUU3THE4Y3VsNE9PSVJteVVrMXBGNWZidVZybUFERFZTUmdyNVpSWGxWc1lST1JkT3VRaDV6TXpkbTZWcFFtSXBEZUl1QWkyZDg0Vk1hX0hFWUQ5cDA3ZkdyYVlzM3gxMUJNQ2V0T0JPUDkzSVloTV9TYXJLOFJGd1BZbDFtSXBMYkY3NDRubWZTRV9EVlMwQ0J6d2tfd3pFVGhlQ1FkaDRpeVhGdmc1SElUMkRvOGxTeEhnc2xYM0VPOA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQlpZWkJVdmxsSnBXV0xyTUp0dEh1cUU3THE4Y3VsNE9PSVJteVVrMXBGNWZidVZybUFERFZTUmdyNVpSWGxWc1lST1JkT3VRaDV6TXpkbTZWcFFtSXBEZUl1QWkyZDg0Vk1hX0hFWUQ5cDA3ZkdyYVlzM3gxMUJNQ2V0T0JPUDkzSVloTV9TYXJLOFJGd1BZbDFtSXBMYkY3NDRubWZTRV9EVlMwQ0J6d2tfd3pFVGhlQ1",
@@ -214,10 +264,10 @@
       "urlToImage": null
     },
     {
-      "title": "Test Cricket Explained: How the Five-Day Format Works - World In Sport",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdHh4akxveGxWRGtWTi1tTVZxbkhkUHNBckdEUk1zdVhaV2daeGFQd01MZHAyVU14NExBOE1PNVJobC1DSFpwRVBlLUEyRUg5V1JVM0hWQ09GVTlr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdHh4akxveGxWRGtWTi1tTVZxbkhkUHNBckdEUk1zdVhaV2daeGFQd01MZHAyVU14NExBOE1PNVJobC1DSFpwRVBlLUEyRUg5V1JVM0hWQ09GVTlr?oc=5\" target=\"_blank\">Test Cricket Explained: How the Five-Day Format Works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World In Spo",
-      "publishedAt": "2026-05-19T14:26:17.000Z",
+      "title": "ICC weighs sweeping cricket rule changes across formats - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDQxUllnOEN1NlRydDNHV0tXR0g2OXBhallUaDV5VDU3bHBUVmpGTEZSQldSQVFrQWlqNDllTnNQS0NOM1U5ZWJpN1AwTGl6eGRhbWJZckpSS2tiWUk2ZHVhelJRdDNFTDhUN2ZkWnlvak1nSjZUZ1Ztei15UE1fRDBLbGVhMEFYdkhmQTdnNGpMWTFnNEVHVmE1aGt0akdpQ0xfUi1yb3A?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDQxUllnOEN1NlRydDNHV0tXR0g2OXBhallUaDV5VDU3bHBUVmpGTEZSQldSQVFrQWlqNDllTnNQS0NOM1U5ZWJpN1AwTGl6eGRhbWJZckpSS2tiWUk2ZHVhelJRdDNFTDhUN2ZkWnlvak1nSjZUZ1Ztei15UE1fRDBLbGVhMEFYdkhmQTdnNGpMWTFnNEVHVmE1aGt0akdpQ0xfUi1yb3A?oc=5\" target=\"_blank\">",
+      "publishedAt": "2026-05-24T21:01:40.000Z",
       "source": {
         "name": "Google News"
       },
