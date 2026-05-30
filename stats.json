@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T09:48:26.903Z",
+  "lastUpdated": "2026-05-30T15:14:35.916Z",
   "recentMatches": [
     {
       "id": "3cd4df43-ad64-42e2-9cf4-a1d8477176e2",
@@ -45,6 +45,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "50d2ed95-e7c4-4f6f-a694-eb46a88f6e58",
+      "name": "Pakistan vs Australia, 1st ODI, Australia tour of Pakistan 2026",
+      "matchType": "odi",
+      "status": "Pakistan opt to bowl",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T11:30:00",
+      "teams": [
+        "Pakistan",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 29,
+          "w": 0,
+          "o": 5.3,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
@@ -98,10 +137,41 @@
       "matchEnded": true
     },
     {
+      "id": "eb4997d7-68fe-488c-ac0e-fea802568b5c",
+      "name": "Kuwait Women vs Myanmar Women, 1st T20I, Kuwait Women and Myanmar Women tour of Malaysia, 2026",
+      "matchType": "t20",
+      "status": "Kuwait Women opt to bowl",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T06:00:00",
+      "teams": [
+        "Kuwait Women",
+        "Myanmar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait Women",
+          "shortname": "KU-W",
+          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
+        },
+        {
+          "name": "Myanmar Women",
+          "shortname": "MYW",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
+      "series_id": "5db01d89-4997-4805-a9bd-44c1cf55bd0b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "e61c02fb-6669-4e7f-835b-b5a87adc3914",
       "name": "Ivory Coast vs Kenya, 20th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Kenya need 14 runs",
+      "status": "Kenya won by 9 wkts",
       "venue": "Botswana Cricket Association Oval 2, Gaborone",
       "date": "2026-05-30",
       "dateTimeGMT": "2026-05-30T07:30:00",
@@ -129,9 +199,9 @@
           "inning": "Ivory Coast Inning 1"
         },
         {
-          "r": 5,
-          "w": 0,
-          "o": 0.1,
+          "r": 19,
+          "w": 1,
+          "o": 1.4,
           "inning": "Kenya Inning 1"
         }
       ],
@@ -140,7 +210,52 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "11e689cd-74df-4c61-8f5b-96f9b1d9d0a5",
+      "name": "Mali vs Sierra Leone, 19th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Sierra Leone won by 6 wkts",
+      "venue": "Botswana Cricket Association Oval 1, Gaborone",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T07:30:00",
+      "teams": [
+        "Mali",
+        "Sierra Leone"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mali",
+          "shortname": "ML",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sierra Leone",
+          "shortname": "SLE",
+          "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 97,
+          "w": 9,
+          "o": 20,
+          "inning": "mali Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 4,
+          "o": 12.1,
+          "inning": "Mali,Sierra Leone Inning 1"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "4325b3da-0765-4ff7-bc57-48c93dafb7e2",
@@ -975,141 +1090,6 @@
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d1db59bc-d643-46c7-968f-831ae75869b4",
-      "name": "Malaysia Women vs Nepal Women, 2nd Semi-Final, Asian Games Women's T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women won by 2 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T06:00:00",
-      "teams": [
-        "Malaysia Women",
-        "Nepal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 6,
-          "o": 20,
-          "inning": "nepal women Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 8,
-          "o": 18.4,
-          "inning": "Malaysia Women,Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f6f3f26e-7abb-41d8-bac8-9d3dc200dbfd",
-      "name": "China Women vs Thailand Women, 1st Semi-Final, Asian Games Women's T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "Thailand Women won by 84 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T01:30:00",
-      "teams": [
-        "China Women",
-        "Thailand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Thailand Women",
-          "shortname": "THW",
-          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 137,
-          "w": 3,
-          "o": 20,
-          "inning": "Thailand Women Inning 1"
-        },
-        {
-          "r": 53,
-          "w": 10,
-          "o": 19.5,
-          "inning": "China Women Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1f89685e-50f9-4836-b83b-679c107e9ca9",
-      "name": "Indonesia Women vs Nepal Women, 6th Match, Group B, Asian Games Women's T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "Nepal Women won by 4 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-26",
-      "dateTimeGMT": "2026-05-26T06:00:00",
-      "teams": [
-        "Indonesia Women",
-        "Nepal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 113,
-          "w": 4,
-          "o": 20,
-          "inning": "indonesia women Inning 1"
-        },
-        {
-          "r": 114,
-          "w": 6,
-          "o": 19.3,
-          "inning": "Indonesia Women,Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
