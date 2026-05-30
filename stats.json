@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T05:52:40.565Z",
+  "lastUpdated": "2026-05-30T09:48:26.903Z",
   "recentMatches": [
     {
       "id": "3cd4df43-ad64-42e2-9cf4-a1d8477176e2",
@@ -96,6 +96,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "e61c02fb-6669-4e7f-835b-b5a87adc3914",
+      "name": "Ivory Coast vs Kenya, 20th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
+      "matchType": "t20",
+      "status": "Kenya need 14 runs",
+      "venue": "Botswana Cricket Association Oval 2, Gaborone",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T07:30:00",
+      "teams": [
+        "Ivory Coast",
+        "Kenya"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ivory Coast",
+          "shortname": "IC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kenya",
+          "shortname": "KEN",
+          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 18,
+          "w": 10,
+          "o": 12.3,
+          "inning": "Ivory Coast Inning 1"
+        },
+        {
+          "r": 5,
+          "w": 0,
+          "o": 0.1,
+          "inning": "Kenya Inning 1"
+        }
+      ],
+      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "4325b3da-0765-4ff7-bc57-48c93dafb7e2",
@@ -937,6 +982,96 @@
       "matchEnded": true
     },
     {
+      "id": "d1db59bc-d643-46c7-968f-831ae75869b4",
+      "name": "Malaysia Women vs Nepal Women, 2nd Semi-Final, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "Malaysia Women won by 2 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T06:00:00",
+      "teams": [
+        "Malaysia Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 6,
+          "o": 20,
+          "inning": "nepal women Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 8,
+          "o": 18.4,
+          "inning": "Malaysia Women,Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f6f3f26e-7abb-41d8-bac8-9d3dc200dbfd",
+      "name": "China Women vs Thailand Women, 1st Semi-Final, Asian Games Women's T20I Qualifier 2026",
+      "matchType": "t20",
+      "status": "Thailand Women won by 84 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T01:30:00",
+      "teams": [
+        "China Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 3,
+          "o": 20,
+          "inning": "Thailand Women Inning 1"
+        },
+        {
+          "r": 53,
+          "w": 10,
+          "o": 19.5,
+          "inning": "China Women Inning 1"
+        }
+      ],
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "1f89685e-50f9-4836-b83b-679c107e9ca9",
       "name": "Indonesia Women vs Nepal Women, 6th Match, Group B, Asian Games Women's T20I Qualifier 2026",
       "matchType": "t20",
@@ -978,141 +1113,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b329bd90-6fb7-4047-a21f-e0e780a8c319",
-      "name": "Malaysia Women vs Hong Kong, China Women, 5th Match, Group A, Asian Games Women's T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women won by 34 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-26",
-      "dateTimeGMT": "2026-05-26T01:30:00",
-      "teams": [
-        "Malaysia Women",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 103,
-          "w": 6,
-          "o": 20,
-          "inning": "Malaysia WomenHong Kong Inning 1"
-        },
-        {
-          "r": 69,
-          "w": 10,
-          "o": 18.2,
-          "inning": "Malaysia Women,Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7aa9d7bd-001b-4c49-81c6-c4e79a6213cb",
-      "name": "China Women vs Nepal Women, 4th Match, Group B, Asian Games Women's T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "Nepal Women won by 19 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-26",
-      "dateTimeGMT": "2026-05-26T01:30:00",
-      "teams": [
-        "China Women",
-        "Nepal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 125,
-          "w": 5,
-          "o": 20,
-          "inning": "nepal women Inning 1"
-        },
-        {
-          "r": 106,
-          "w": 5,
-          "o": 20,
-          "inning": "China Women,Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ab13f9a8-3660-4706-91d2-c1363810415d",
-      "name": "Gujarat Titans vs Rajasthan Royals, Qualifier 2, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Gujarat Titans won by 7 wkts",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T14:00:00",
-      "teams": [
-        "Gujarat Titans",
-        "Rajasthan Royals"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Rajasthan Royals",
-          "shortname": "RR",
-          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 214,
-          "w": 6,
-          "o": 20,
-          "inning": "rajasthan royals Inning 1"
-        },
-        {
-          "r": 219,
-          "w": 3,
-          "o": 18.4,
-          "inning": "Gujarat Titans,Rajasthan Royals Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
