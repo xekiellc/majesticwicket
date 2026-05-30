@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-29T21:54:33.389Z",
+  "lastUpdated": "2026-05-30T05:52:40.565Z",
   "recentMatches": [
     {
       "id": "3cd4df43-ad64-42e2-9cf4-a1d8477176e2",
       "name": "Oman Women vs Bahrain Women, 1st T20I, Oman Women and Bahrain Women tour of Malaysia, 2026",
       "matchType": "t20",
-      "status": "Bahrain Women opt to bat",
+      "status": "Oman Women won by 9 wkts",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-05-29",
       "dateTimeGMT": "2026-05-29T01:30:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 86,
+          "w": 8,
+          "o": 20,
+          "inning": "bahrain women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 1,
+          "o": 9.3,
+          "inning": "Oman Women,Bahrain Women Inning 1"
+        }
+      ],
       "series_id": "aa733d0d-18aa-4ab7-958a-3d466948b033",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
@@ -132,7 +146,7 @@
       "id": "bf52a1a9-f0fb-46e2-9309-e23ee7543f01",
       "name": "Cameroon vs Mali, 16th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Cameroon opt to bat",
+      "status": "Cameroon won by 90 runs",
       "venue": "Botswana Cricket Association Oval 1, Gaborone",
       "date": "2026-05-29",
       "dateTimeGMT": "2026-05-29T07:30:00",
@@ -152,18 +166,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 159,
+          "w": 6,
+          "o": 20,
+          "inning": "cameroon Inning 1"
+        },
+        {
+          "r": 69,
+          "w": 10,
+          "o": 16.1,
+          "inning": "Cameroon,Mali Inning 1"
+        }
+      ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "ee5a57eb-da03-4fea-885f-265f5bfd9881",
       "name": "Ivory Coast vs Sierra Leone, 17th Match, ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Ivory Coast opt to bat",
+      "status": "Sierra Leone won by 9 wkts",
       "venue": "Botswana Cricket Association Oval 2, Gaborone",
       "date": "2026-05-29",
       "dateTimeGMT": "2026-05-29T07:30:00",
@@ -183,12 +211,26 @@
           "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 53,
+          "w": 8,
+          "o": 20,
+          "inning": "ivory coast Inning 1"
+        },
+        {
+          "r": 54,
+          "w": 1,
+          "o": 5.2,
+          "inning": "Ivory Coast,Sierra Leone Inning 1"
+        }
+      ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d9a4bae6-3ed7-4751-b98a-7408f9f4d54f",
