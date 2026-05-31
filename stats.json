@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T21:03:57.904Z",
+  "lastUpdated": "2026-05-31T06:25:03.715Z",
   "recentMatches": [
     {
       "id": "f67ced18-dbec-424a-a2a5-386ac523a782",
@@ -167,6 +167,51 @@
         }
       ],
       "series_id": "f90497a7-d2f8-46fd-abb9-eda98c0b1104",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6c976308-f248-4b2d-ad15-fdb99df3b5c2",
+      "name": "Nepal vs China, 1st Match, Group A, Asian Games Mens T20I Qualifier, 2026",
+      "matchType": "t20",
+      "status": "Nepal won by 221 runs",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T01:30:00",
+      "teams": [
+        "Nepal",
+        "China"
+      ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 313,
+          "w": 2,
+          "o": 20,
+          "inning": "Nepal Inning 1"
+        },
+        {
+          "r": 92,
+          "w": 10,
+          "o": 19.2,
+          "inning": "China Inning 1"
+        }
+      ],
+      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -956,67 +1001,22 @@
       "matchEnded": true
     },
     {
-      "id": "d1db59bc-d643-46c7-968f-831ae75869b4",
-      "name": "Malaysia Women vs Nepal Women, 2nd Semi-Final, Asian Games Womens T20I Qualifier 2026",
+      "id": "d73b331c-05a0-4341-8770-6dc05da6fa2d",
+      "name": "Thailand Women vs Malaysia Women, Final, Asian Games Womens T20I Qualifier 2026",
       "matchType": "t20",
-      "status": "Malaysia Women won by 2 wkts",
+      "status": "Match starts at May 31, 06:00 GMT",
       "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T06:00:00",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T06:00:00",
       "teams": [
-        "Malaysia Women",
-        "Nepal Women"
+        "Thailand Women",
+        "Malaysia Women"
       ],
       "teamInfo": [
         {
           "name": "Malaysia Women",
           "shortname": "ML-W",
           "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 6,
-          "o": 20,
-          "inning": "nepal women Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 8,
-          "o": 18.4,
-          "inning": "Malaysia Women,Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f6f3f26e-7abb-41d8-bac8-9d3dc200dbfd",
-      "name": "China Women vs Thailand Women, 1st Semi-Final, Asian Games Womens T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "Thailand Women won by 84 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T01:30:00",
-      "teams": [
-        "China Women",
-        "Thailand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
         },
         {
           "name": "Thailand Women",
@@ -1026,16 +1026,10 @@
       ],
       "score": [
         {
-          "r": 137,
-          "w": 3,
-          "o": 20,
-          "inning": "Thailand Women Inning 1"
-        },
-        {
-          "r": 53,
-          "w": 10,
-          "o": 19.5,
-          "inning": "China Women Inning 1"
+          "r": 14,
+          "w": 2,
+          "o": 3.4,
+          "inning": "malaysia women Inning 1"
         }
       ],
       "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
@@ -1043,50 +1037,50 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "ab13f9a8-3660-4706-91d2-c1363810415d",
-      "name": "Gujarat Titans vs Rajasthan Royals, Qualifier 2, Indian Premier League 2026",
+      "id": "477a2001-cd54-4b61-8a4c-969f12890d7d",
+      "name": "China Women vs Nepal Women, 3rd Place Play-off, Asian Games Womens T20I Qualifier 2026",
       "matchType": "t20",
-      "status": "Gujarat Titans won by 7 wkts",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T14:00:00",
+      "status": "China Women won by 5 wkts (DLS method)",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T01:30:00",
       "teams": [
-        "Gujarat Titans",
-        "Rajasthan Royals"
+        "China Women",
+        "Nepal Women"
       ],
       "teamInfo": [
         {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
         },
         {
-          "name": "Rajasthan Royals",
-          "shortname": "RR",
-          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 214,
-          "w": 6,
-          "o": 20,
-          "inning": "rajasthan royals Inning 1"
+          "r": 50,
+          "w": 5,
+          "o": 7,
+          "inning": "Nepal Women Inning 1"
         },
         {
-          "r": 219,
-          "w": 3,
-          "o": 18.4,
-          "inning": "Gujarat Titans,Rajasthan Royals Inning 1"
+          "r": 45,
+          "w": 5,
+          "o": 7,
+          "inning": "China Women Inning 1"
         }
       ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
