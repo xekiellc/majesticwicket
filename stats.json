@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-31T15:20:48.293Z",
+  "lastUpdated": "2026-05-31T21:05:08.990Z",
   "recentMatches": [
     {
       "id": "f67ced18-dbec-424a-a2a5-386ac523a782",
       "name": "Oman Women vs Bahrain Women, 2nd T20I, Oman Women and Bahrain Women tour of Malaysia, 2026",
       "matchType": "t20",
-      "status": "Oman Women opt to bat",
+      "status": "Oman Women won by 118 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-05-30",
       "dateTimeGMT": "2026-05-30T01:30:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 147,
+          "w": 5,
+          "o": 20,
+          "inning": "oman women Inning 1"
+        },
+        {
+          "r": 29,
+          "w": 7,
+          "o": 20,
+          "inning": "Oman Women,Bahrain Women Inning 1"
+        }
+      ],
       "series_id": "aa733d0d-18aa-4ab7-958a-3d466948b033",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3cd4df43-ad64-42e2-9cf4-a1d8477176e2",
@@ -123,61 +137,10 @@
       "matchEnded": true
     },
     {
-      "id": "e3066e0a-1065-44b5-b7bb-86d4a34def85",
-      "name": "Ireland vs New Zealand, Only Test, New Zealand tour of Ireland, 2026",
-      "matchType": "test",
-      "status": "New Zealand won by an innings and 79 runs",
-      "venue": "Civil Service Cricket Club, Belfast",
-      "date": "2026-05-27",
-      "dateTimeGMT": "2026-05-27T10:00:00",
-      "teams": [
-        "Ireland",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 490,
-          "w": 8,
-          "o": 119,
-          "inning": "New Zealand Inning 1"
-        },
-        {
-          "r": 179,
-          "w": 10,
-          "o": 45,
-          "inning": "Ireland Inning 1"
-        },
-        {
-          "r": 232,
-          "w": 10,
-          "o": 63.2,
-          "inning": "New Zealand Inning 2"
-        }
-      ],
-      "series_id": "f90497a7-d2f8-46fd-abb9-eda98c0b1104",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1276aa2e-fbda-4c9c-9062-d0037b1b6767",
       "name": "Kuwait Women vs Myanmar Women, 2nd T20I, Kuwait Women and Myanmar Women tour of Malaysia, 2026",
       "matchType": "t20",
-      "status": "Kuwait Women opt to bowl",
+      "status": "Myanmar Women won by 20 runs",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-05-31",
       "dateTimeGMT": "2026-05-31T03:30:00",
@@ -197,12 +160,26 @@
           "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 112,
+          "w": 5,
+          "o": 20,
+          "inning": "Myanmar Women Inning 1"
+        },
+        {
+          "r": 92,
+          "w": 7,
+          "o": 20,
+          "inning": "Kuwait Women Inning 1"
+        }
+      ],
       "series_id": "5db01d89-4997-4805-a9bd-44c1cf55bd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6c976308-f248-4b2d-ad15-fdb99df3b5c2",
@@ -298,7 +275,7 @@
       "id": "076c6497-4d6f-4ba5-9b85-963095895fb2",
       "name": "Botswana vs Rwanda, 21st Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
       "matchType": "t20",
-      "status": "Rwanda opt to bat",
+      "status": "Rwanda won by 2 runs",
       "venue": "Botswana Cricket Association Oval 1, Gaborone",
       "date": "2026-05-30",
       "dateTimeGMT": "2026-05-30T11:50:00",
@@ -318,12 +295,26 @@
           "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 117,
+          "w": 8,
+          "o": 20,
+          "inning": "rwanda Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 8,
+          "o": 20,
+          "inning": "Botswana,Rwanda Inning 1"
+        }
+      ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e61c02fb-6669-4e7f-835b-b5a87adc3914",
@@ -818,7 +809,7 @@
       "id": "63006784-efeb-4845-b9f0-840f1b1e0cf8",
       "name": "Kent Women vs Gloucestershire Women, 11th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Kent Women need 178 runs",
+      "status": "Gloucestershire Women won by 15 runs",
       "venue": "St Lawrence Ground, Canterbury",
       "date": "2026-05-31",
       "dateTimeGMT": "2026-05-31T13:30:00",
@@ -844,9 +835,9 @@
           "inning": "Gloucestershire Women Inning 1"
         },
         {
-          "r": 14,
-          "w": 0,
-          "o": 1.4,
+          "r": 176,
+          "w": 5,
+          "o": 20,
           "inning": "Kent Women Inning 1"
         }
       ],
@@ -855,13 +846,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "67f6d9a7-6013-4349-a11b-b3a4b933027f",
       "name": "Sussex Women vs Glamorgan Women, 9th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Glamorgan Women need 130 runs",
+      "status": "Glamorgan Women won by 8 wkts",
       "venue": "County Ground, Hove",
       "date": "2026-05-31",
       "dateTimeGMT": "2026-05-31T13:30:00",
@@ -887,9 +878,9 @@
           "inning": "sussex women Inning 1"
         },
         {
-          "r": 37,
-          "w": 1,
-          "o": 3,
+          "r": 167,
+          "w": 2,
+          "o": 19.4,
           "inning": "Sussex Women,Glamorgan Women Inning 1"
         }
       ],
@@ -898,13 +889,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "153f6bec-fca1-4547-beda-39d4520ffda6",
       "name": "Northamptonshire Women vs Middlesex Women, 10th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Middlesex Women need 137 runs",
+      "status": "Middlesex Women won by 7 wkts",
       "venue": "County Ground, Northampton",
       "date": "2026-05-31",
       "dateTimeGMT": "2026-05-31T13:30:00",
@@ -930,9 +921,9 @@
           "inning": "Northamptonshire Women Inning 1"
         },
         {
-          "r": 13,
-          "w": 0,
-          "o": 3.2,
+          "r": 153,
+          "w": 3,
+          "o": 20,
           "inning": "Middlesex Women Inning 1"
         }
       ],
@@ -941,13 +932,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "fafd1499-b631-4480-a3a3-1ae3261b6266",
       "name": "Worcestershire Women vs Derbyshire Women, 12th Match, Womens T20 Blast League Two 2026",
       "matchType": "t20",
-      "status": "Derbyshire Women need 84 runs",
+      "status": "Derbyshire Women won by 7 wkts",
       "venue": "New Road, Worcester",
       "date": "2026-05-31",
       "dateTimeGMT": "2026-05-31T13:30:00",
@@ -973,9 +964,9 @@
           "inning": "Worcestershire Women Inning 1"
         },
         {
-          "r": 26,
-          "w": 2,
-          "o": 3.4,
+          "r": 112,
+          "w": 3,
+          "o": 17,
           "inning": "Derbyshire Women Inning 1"
         }
       ],
@@ -984,7 +975,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4409d0ce-c75e-4f55-859a-b5d0d5396e60",
@@ -1063,6 +1054,49 @@
           "w": 10,
           "o": 19.4,
           "inning": "Yorkshire Women,Essex Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fc9509f2-5df5-490b-8518-982e3a736312",
+      "name": "Lancashire Women vs Somerset Women, 14th Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Lancashire Women won by 7 wkts",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T13:30:00",
+      "teams": [
+        "Lancashire Women",
+        "Somerset Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Somerset Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 6,
+          "o": 20,
+          "inning": "somerset women Inning 1"
+        },
+        {
+          "r": 138,
+          "w": 3,
+          "o": 15.3,
+          "inning": "Lancashire Women,Somerset Women Inning 1"
         }
       ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
