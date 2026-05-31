@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T10:05:45.227Z",
+  "lastUpdated": "2026-05-31T15:20:48.293Z",
   "recentMatches": [
     {
       "id": "f67ced18-dbec-424a-a2a5-386ac523a782",
@@ -689,7 +689,7 @@
       "id": "f2c58961-dfbe-4aeb-b470-78a1b489183a",
       "name": "The Blaze Women vs Durham Women, 19th Match, Womens T20 Blast 2026",
       "matchType": "t20",
-      "status": "Durham Women opt to bowl",
+      "status": "Durham Women won by 7 wkts",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-05-31",
       "dateTimeGMT": "2026-05-31T11:15:00",
@@ -709,17 +709,281 @@
       ],
       "score": [
         {
-          "r": 0,
-          "w": 0,
-          "o": 0,
+          "r": 153,
+          "w": 10,
+          "o": 19.5,
           "inning": "The Blaze Women Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 3,
+          "o": 19.1,
+          "inning": "Durham Women Inning 1"
         }
       ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "72fbf3aa-9b56-4f68-9b71-d9041dc9dec3",
+      "name": "Essex Women vs Lancashire Women, 17th Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex Women won by 6 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T10:30:00",
+      "teams": [
+        "Essex Women",
+        "Lancashire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Lancashire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 128,
+          "w": 8,
+          "o": 20,
+          "inning": "Lancashire Women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 4,
+          "o": 17.5,
+          "inning": "Essex Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "53139d57-fb87-4113-b023-881b63701a0f",
+      "name": "Surrey Women vs Somerset Women, 18th Match, Womens T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Somerset Women won by 4 wkts",
+      "venue": "Kennington Oval, London",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T09:00:00",
+      "teams": [
+        "Surrey Women",
+        "Somerset Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Somerset Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Surrey Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 5,
+          "o": 20,
+          "inning": "Surrey Women Inning 1"
+        },
+        {
+          "r": 154,
+          "w": 6,
+          "o": 19.3,
+          "inning": "Somerset Women Inning 1"
+        }
+      ],
+      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "63006784-efeb-4845-b9f0-840f1b1e0cf8",
+      "name": "Kent Women vs Gloucestershire Women, 11th Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Kent Women need 178 runs",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T13:30:00",
+      "teams": [
+        "Kent Women",
+        "Gloucestershire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kent Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 191,
+          "w": 6,
+          "o": 20,
+          "inning": "Gloucestershire Women Inning 1"
+        },
+        {
+          "r": 14,
+          "w": 0,
+          "o": 1.4,
+          "inning": "Kent Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "67f6d9a7-6013-4349-a11b-b3a4b933027f",
+      "name": "Sussex Women vs Glamorgan Women, 9th Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Glamorgan Women need 130 runs",
+      "venue": "County Ground, Hove",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T13:30:00",
+      "teams": [
+        "Sussex Women",
+        "Glamorgan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sussex Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 5,
+          "o": 20,
+          "inning": "sussex women Inning 1"
+        },
+        {
+          "r": 37,
+          "w": 1,
+          "o": 3,
+          "inning": "Sussex Women,Glamorgan Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "153f6bec-fca1-4547-beda-39d4520ffda6",
+      "name": "Northamptonshire Women vs Middlesex Women, 10th Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Middlesex Women need 137 runs",
+      "venue": "County Ground, Northampton",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T13:30:00",
+      "teams": [
+        "Northamptonshire Women",
+        "Middlesex Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Middlesex Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Northamptonshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 149,
+          "w": 6,
+          "o": 20,
+          "inning": "Northamptonshire Women Inning 1"
+        },
+        {
+          "r": 13,
+          "w": 0,
+          "o": 3.2,
+          "inning": "Middlesex Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "fafd1499-b631-4480-a3a3-1ae3261b6266",
+      "name": "Worcestershire Women vs Derbyshire Women, 12th Match, Womens T20 Blast League Two 2026",
+      "matchType": "t20",
+      "status": "Derbyshire Women need 84 runs",
+      "venue": "New Road, Worcester",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T13:30:00",
+      "teams": [
+        "Worcestershire Women",
+        "Derbyshire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Worcestershire Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 9,
+          "o": 20,
+          "inning": "Worcestershire Women Inning 1"
+        },
+        {
+          "r": 26,
+          "w": 2,
+          "o": 3.4,
+          "inning": "Derbyshire Women Inning 1"
+        }
+      ],
+      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -802,266 +1066,6 @@
         }
       ],
       "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fc9509f2-5df5-490b-8518-982e3a736312",
-      "name": "Lancashire Women vs Somerset Women, 14th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Lancashire Women won by 7 wkts",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T13:30:00",
-      "teams": [
-        "Lancashire Women",
-        "Somerset Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Somerset Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 137,
-          "w": 6,
-          "o": 20,
-          "inning": "somerset women Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 3,
-          "o": 15.3,
-          "inning": "Lancashire Women,Somerset Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a0f10f9f-be6b-4370-b39d-5b2aecb6b320",
-      "name": "Durham Women vs Warwickshire Women, 13th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Durham Women won by 27 runs",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T13:30:00",
-      "teams": [
-        "Durham Women",
-        "Warwickshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warwickshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 5,
-          "o": 20,
-          "inning": "durham women Inning 1"
-        },
-        {
-          "r": 113,
-          "w": 10,
-          "o": 18.1,
-          "inning": "Durham Women,Warwickshire Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1851a269-fe0b-46a1-ade6-fadc3d965048",
-      "name": "Surrey Women vs Durham Women, 11th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Surrey Women won by 2 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-05-27",
-      "dateTimeGMT": "2026-05-27T17:30:00",
-      "teams": [
-        "Surrey Women",
-        "Durham Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Surrey Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 10,
-          "o": 17,
-          "inning": "Durham Women Inning 1"
-        },
-        {
-          "r": 103,
-          "w": 8,
-          "o": 16.4,
-          "inning": "Surrey Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a1b6ee47-8d21-4172-af95-e4ec0ea508ab",
-      "name": "Somerset Women vs Yorkshire Women, 12th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset Women won by 39 runs",
-      "venue": "The Cooper Associates County Ground, Taunton",
-      "date": "2026-05-27",
-      "dateTimeGMT": "2026-05-27T13:30:00",
-      "teams": [
-        "Somerset Women",
-        "Yorkshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Somerset Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Yorkshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 5,
-          "o": 20,
-          "inning": "Somerset Women Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 9,
-          "o": 20,
-          "inning": "Yorkshire Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a3815864-8dde-427b-8aef-0530ec58489a",
-      "name": "Warwickshire Women vs The Blaze Women, 10th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "The Blaze Women won by 4 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-05-27",
-      "dateTimeGMT": "2026-05-27T13:30:00",
-      "teams": [
-        "Warwickshire Women",
-        "The Blaze Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "The Blaze Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warwickshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 158,
-          "w": 8,
-          "o": 20,
-          "inning": "Warwickshire Women Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 6,
-          "o": 19.2,
-          "inning": "The Blaze Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2f2e0eee-560d-4227-b32e-f0a4b1863c49",
-      "name": "Leicestershire vs Derbyshire, 19th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Derbyshire won by 85 runs",
-      "venue": "Grace Road, Leicester",
-      "date": "2026-05-27",
-      "dateTimeGMT": "2026-05-27T17:00:00",
-      "teams": [
-        "Leicestershire",
-        "Derbyshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 230,
-          "w": 5,
-          "o": 20,
-          "inning": "Derbyshire Inning 1"
-        },
-        {
-          "r": 145,
-          "w": 10,
-          "o": 15.2,
-          "inning": "Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,

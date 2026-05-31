@@ -1,11 +1,21 @@
 {
-  "lastUpdated": "2026-05-31T10:05:45.226Z",
+  "lastUpdated": "2026-05-31T15:20:48.292Z",
   "articles": [
     {
-      "title": "Thailand, Malaysia and China qualify for Asian Games women's competition",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539028.html?ex_cid=OTC-RSS",
-      "description": "The three teams join the four Full Members from the region - Bangladesh, India, Pakistan and Sri Lanka - and hosts Japan at the main event",
-      "publishedAt": "2026-05-31T08:59:52.000Z",
+      "title": "Ruturaj Gaikwad replaces Riyan Parag for India A's tri-series in Sri Lanka",
+      "url": "https://www.espncricinfo.com/ci/content/story/1539038.html?ex_cid=OTC-RSS",
+      "description": "Parag has been ruled out due to a hamstring injury that he carried through the later stages of the IPL",
+      "publishedAt": "2026-05-31T13:12:09.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Santner added to New Zealand Test squad to face England",
+      "url": "https://www.espncricinfo.com/ci/content/story/1539029.html?ex_cid=OTC-RSS",
+      "description": "Spinning allrounder has completed recovery from shoulder injury, Foxcroft to return home",
+      "publishedAt": "2026-05-31T10:25:15.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -42,26 +52,6 @@
       "urlToImage": null
     },
     {
-      "title": "Hermann hundred puts South Africa A in command at Canterbury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538994.html?ex_cid=OTC-RSS",
-      "description": "Rehan and Ekansh holding on at stumps, with aim to eke out a defendable fourth-innings lead",
-      "publishedAt": "2026-05-30T22:38:32.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Ros Rivaz appointed to ICC board as independent director",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538924.html?ex_cid=OTC-RSS",
-      "description": "Dr Ros Rivaz is set to join the ICC board on an initial three-year term, which can be extended for a maximum of one further three-year term",
-      "publishedAt": "2026-05-30T11:46:29.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Henry's all-round heroics hands West Indies win against Pakistan",
       "url": "https://www.espncricinfo.com/ci/content/story/1538916.html?ex_cid=OTC-RSS",
       "description": "West Indies are in the lead on the tri-series points table, having beaten Ireland in the opening match on Thursday",
@@ -82,22 +72,32 @@
       "urlToImage": null
     },
     {
-      "title": "Ambidextrous spinner Shashini Gimhani in Sri Lanka's T20 World Cup squad",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538811.html?ex_cid=OTC-RSS",
-      "description": "Chamari Athapaththu named captain of 15-member squad; set to play her tenth T20 World Cup",
-      "publishedAt": "2026-05-29T18:25:51.000Z",
+      "title": "Gibson, Dean knock over NZ for 80 as England cruise to series win",
+      "url": "https://www.espncricinfo.com/ci/content/story/1538286.html?ex_cid=OTC-RSS",
+      "description": "England closed out the chase in the decider with seven wickets and 37 balls to spare",
+      "publishedAt": "2026-05-25T16:32:29.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
       "urlToImage": null
     },
     {
-      "title": "Munisar replaces Brathwaite as West Indies name T20 World Cup squad",
-      "url": "https://www.espncricinfo.com/ci/content/story/1538664.html?ex_cid=OTC-RSS",
-      "description": "The same squad will face Ireland and Pakistan in a tri-nation T20I series, which got underway on May 28",
-      "publishedAt": "2026-05-28T16:31:33.000Z",
+      "title": "‘Don’t put me on the spot’ - Ajit Agarkar left amused by tricky questions on India selections",
+      "url": "https://www.crictracker.com/cricket-news/dont-put-me-on-the-spot-ajit-agarkar-left-amused-by-tricky-questions-on-india-selections/",
+      "description": "The event was held in Mumbai to honour the legends of the game.",
+      "publishedAt": "2026-05-31T14:12:08.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Nepal breaks records in historic thrashing of China in Asian Games Qualifier",
+      "url": "https://www.crictracker.com/cricket-news/nepal-breaks-records-in-historic-thrashing-of-china-in-asian-games-qualifier-9545/",
+      "description": "Being put into bat in the opening game of the Qualifiers, Nepal amassed a massive total of 313 for 2 in their 20 overs.",
+      "publishedAt": "2026-05-31T10:19:47.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -122,10 +122,30 @@
       "urlToImage": null
     },
     {
-      "title": "West Indies to host Sri Lanka, New Zealand and Pakistan in 2026 home season - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnBqZm9Rc1lhOEdnMkdvc21sa29oM19EV2F3bDRabUxQalp6aWJuTS1oWERaMk1LNWE0Q2oyZDFyYlpUeVRyYU8xWHB1VkotajdWYlRpR3lHbzNfeEdJX1RDU2poT1htRVBveHNxQ2lZVnQ4aFRtTW12U3dDWWlZOWVSVks2U1FEQ0NXVEVuQzV0TTZjcHJMTjNiR0tpQmVLRlY3djRWS3NTTGdPdjBLREYwY0g0dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnBqZm9Rc1lhOEdnMkdvc21sa29oM19EV2F3bDRabUxQalp6aWJuTS1oWERaMk1LNWE0Q2oyZDFyYlpUeVRyYU8xWHB1VkotajdWYlRpR3lHbzNfeEdJX1RDU2poT1htRVBveHNxQ2lZVnQ4aFRtTW12U3dDWWlZOWVSVks2U1FEQ0NXVEVuQzV0TTZjcHJMTjNiR0tpQmVLRlY3djRWS3NTTGdPdjBLREYwY0g0dw?oc=",
-      "publishedAt": "2026-05-28T07:04:00.000Z",
+      "title": "Can Virat Kohli strike gold? Rashid Khan a big concern: Key stats for IPL 2026 final - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnl6WmRoNDFyNTlDNU8tc2J6ZTM2dWNTVHN1QTBwUGV2dDJzYlNpY09yMjRKc25wTWVkVm8yM25Rd2tqTHE1VTdNV1NtUGQ3NVJVTVVjMlFsdHc4aUNmYXRfN1VrdFJmWnd6SkNYMXl2Nnd3LWxoRmxZLWtUWmFJX2o1N1o0U0J6V1B4UVlmSUgwclZJSGpvaEx5UU5SV3ZxVGJEMEwySlA3cFlmRk1GN2d2dEtpdV9PeTZPUUl1WURmTEpIVG8zSzBrd1FrR3ZhTi1ZQm1jUm53R0FoX01hZkFfQ05CRjhqcnlOZ3N30gHzAUFVX3lxTE5nSHhDaENZTHJrV0xKaTU0UzdQNnF6MGcySlI3VmNBRS1hYmZNeTUwQnF6M1JZbjBrN0NydnFQb1U0Q1NrZEhndWI4aVJ2VThrbTg0Mnc0VVZzV3lYcUVmd2l1bUFmVFZnZ3dpeUQtSHBhVnhUMGJUYmx2SmF6dEtOcmc5MzNyZ2lvV2lSY3hiRG1nTV9KY0JpSHNVVlNocEdQaVFWXzdvSUFPOGpPSW1DXzE0Z09ldmw2NlhRdjZ0QmloSjFBeU1iMFZNMFRNelRuRVZHaXVhRDNHdVdJeHByNjBGaDdkbWk2SmozUDB2clMzQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnl6WmRoNDFyNTlDNU8tc2J6ZTM2dWNTVHN1QTBwUGV2dDJzYlNpY09yMjRKc25wTWVkVm8yM25Rd2tqTHE1VTdNV1NtUGQ3NVJVTVVjMlFsdHc4aUNmYXRfN1VrdFJmWnd6SkNYMXl2Nnd3LWxoRmxZLWtUWmFJX2o1N1o0U0J6V1B4UVlmSUgwclZJSGpvaEx5UU5SV3ZxVGJEMEwySlA3cFlmRk1GN2d2dEtpdV9PeT",
+      "publishedAt": "2026-05-31T06:08:27.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Sachin Tendulkar's major IPL suggestion: Scrap Impact Player rule, allow 5 overs per bowler - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOUgxWGtXQWp5ZjhoSDBhRXRucEJUMjhzLU9ORzhBVnZOTlJWYnQ1eUNiVXhLdGtCbTYzWlBKS1p2NFVyblJlVGFaNkIwYWQtNTdsOTM5MXdCcUt0dFByU3R0V1hzNExfLXdiTUNIQnhpemlwWHdSeE03R2JWejJxQVZYdWdKWVlrb0FmTGF4aEQ0QVFRMzk4bjFBRXlpeUVYMDdTYnROZXQzVWVJSkgxUU14T2RRSmhoeDRNOGFOZWoyUF83TEtpSVNmcVdjblJoenBvYnZOX0NudDNQRzFBN0pLOVVpMm93dmRweTNPZXloMnJQUmZEc0tOTzFjaXNPNXl3TXRYODVyQdIBjwJBVV95cUxNbElSS2lIWHZ2SU5SZkxmZzdFSU5Pc0R1ZHpKd3pjNGI1Smk3cW9TcTM4ajVTa0hoMzJPZlRGVXREQ09IZGp3V01NX0R6c2d1bjR4WTEtV2JyNUdQN0RLXzlZU2tfSF9vdkQzOFNoWXRsTXBlYncyTHM0QlJGV2x0WE9PaWo5SmxBbmdMZUR1ZkNtdElOUG5xVThjSkJUQ240RUVIeFNKa0hxcUE5Z0lhVmJONm9sUWxLQ29ZeTdqY1JKSnZPV0x5OUgwSDdJY2xzNzFjVjd0M1VsOGFCWklsWFZEeDNuLW5SNTFGTzFNSEt5YzdGWDRKNVQ5aHE2VVkxNE1idVhkRTRvZFZ1cno4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOOUgxWGtXQWp5ZjhoSDBhRXRucEJUMjhzLU9ORzhBVnZOTlJWYnQ1eUNiVXhLdGtCbTYzWlBKS1p2NFVyblJlVGFaNkIwYWQtNTdsOTM5MXdCcUt0dFByU3R0V1hzNExfLXdiTUNIQnhpemlwWHdSeE03R2JWejJxQVZYdWdKWVlrb0FmTGF4aEQ0QVFRMzk4bjFBRXlpeUVYMDdTYnROZXQzVWVJSkgxUU14T2RRSmhoeD",
+      "publishedAt": "2026-05-31T09:34:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "ICC considering pink ball option for Test matches delayed by bad light - Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWJTblA4dnBTV255c2t3d29MZDBielduMjhDN3NHemY0MEdfenNac0RhZ2ZhcmlTQlNnSnZwR0lSV1V5LXMwalY5SVpmeWNjTVFqUjg3ekdTblRkYW5IQ29WdjRzcjFKaEczVVNhZHVteUpQTzFRbnVteks4RXAwUkJzNm4tSzFGNWs1RENMZEVUZHBkNXd0XzlHVVdNRThNT2NLajZISjg3bGlHNUNldFl1UU5zc09o0gF3QVVfeXFMTkhMOGEzWHNtMzR2dk5IMlB1T1BmbDZhY0JMeTI0djREeTI4VDRReV96Zi1INmlhb1RybENxOWI2dUdrcDA4cW1UamMzdUpHblJoa1NsUmFlYVQ4X2xUVDc2Q2FFUHpIOXJYS3dRdUJnVHRSUENTa0U?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWJTblA4dnBTV255c2t3d29MZDBielduMjhDN3NHemY0MEdfenNac0RhZ2ZhcmlTQlNnSnZwR0lSV1V5LXMwalY5SVpmeWNjTVFqUjg3ekdTblRkYW5IQ29WdjRzcjFKaEczVVNhZHVteUpQTzFRbnVteks4RXAwUkJzNm4tSzFGNWs1RENMZEVUZHBkNXd0XzlHVVdNRThNT2NLajZISjg3bGlHNUNldFl1UU5zc09o0g",
+      "publishedAt": "2026-05-27T02:37:06.000Z",
       "source": {
         "name": "Google News"
       },
@@ -142,10 +162,20 @@
       "urlToImage": null
     },
     {
-      "title": "Sri Lanka unveil T20 World Cup 2026 squad - ICC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2dQYkhNU3BKeFJoYnlJNTljT3dJajlRMms1MF9MQVlUOEIydFVoNTVQRG5RaFN0azRuYjctVUJ2M0dtY0dyb3JJdFNPYks0YUl4bGZqNnJaVzRBczFBNUJBc0hhbEUwdEZ5dC1DN0lGNDVUUnBTMG1nb3l5VVBGanZ1Y214Y1Rld0NybUM5SFpXcXZReng2U1p2YnRyN2YtX0IyMnVEaTZONWdEakJPbQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2dQYkhNU3BKeFJoYnlJNTljT3dJajlRMms1MF9MQVlUOEIydFVoNTVQRG5RaFN0azRuYjctVUJ2M0dtY0dyb3JJdFNPYks0YUl4bGZqNnJaVzRBczFBNUJBc0hhbEUwdEZ5dC1DN0lGNDVUUnBTMG1nb3l5VVBGanZ1Y214Y1Rld0NybUM5SFpXcXZReng2U1p2YnRyN2YtX0IyMnVEaTZONWdEakJPbQ?oc=5\" targe",
-      "publishedAt": "2026-05-29T14:38:06.000Z",
+      "title": "RWANDA AND KENYA QUALIFY FOR ICC MEN’S T20 WORLD CUP AFRICA QUALIFIER 2027 AFTER THRILLING WEEK IN BOTSWANA - ICC",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0lzWC1rVmhyeGF1SjZtMVBiVG9mdDBXVGppcUxQVjhsMUJEdVlzdlNZZ1N6dVV4V1VrYzFtblZYVXF3eEJ5ejJ6UGNsVjQzSDRyTnZiNlFXdW9tVVgtUVBlbk5mOGh2bnpMUVhPcTAzNWJyQmhMdlFWSkQxQzRIV2pnNXdnQ25jR1R6MmRGV29ONE9EdkUtQ2dnLU0zUlZkYlhLRV9XNHVqZk80cWZ4VnlPM29udlEzd2tfNENWUWhuY1lOUzM5cTlrcm1xUy1zeFdrWGV0VUJrV1FuNTRUaEtiamY?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0lzWC1rVmhyeGF1SjZtMVBiVG9mdDBXVGppcUxQVjhsMUJEdVlzdlNZZ1N6dVV4V1VrYzFtblZYVXF3eEJ5ejJ6UGNsVjQzSDRyTnZiNlFXdW9tVVgtUVBlbk5mOGh2bnpMUVhPcTAzNWJyQmhMdlFWSkQxQzRIV2pnNXdnQ25jR1R6MmRGV29ONE9EdkUtQ2dnLU0zUlZkYlhLRV9XNHVqZk80cWZ4VnlPM29udlEzd2",
+      "publishedAt": "2026-05-31T15:01:07.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Improved Pakistan seek to shine at the T20 World Cup - ICC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWFpZHBfRXlwRXJiNFFOeldzQTNYT1p0VGxyNmdKczB6eTVUMl9EdW9kODE1TmRYQndKNjY2bnhiZHB4b2N0Zkp2LW9OdnpEVm90cVZUbTFkU18wMWlfcFIxNmxSOWRlRkx2SXh3OG83anB0bEY1MEpzU0JULVJFNXY3T1FnS2tOemljVTNvQ2F6cVdBb0lCMHVlRWVJbHJYQUduWjFzVkpJTWdIUzhMem5RU2FVaHVyS1pobzRtZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWFpZHBfRXlwRXJiNFFOeldzQTNYT1p0VGxyNmdKczB6eTVUMl9EdW9kODE1TmRYQndKNjY2bnhiZHB4b2N0Zkp2LW9OdnpEVm90cVZUbTFkU18wMWlfcFIxNmxSOWRlRkx2SXh3OG83anB0bEY1MEpzU0JULVJFNXY3T1FnS2tOemljVTNvQ2F6cVdBb0lCMHVlRWVJbHJYQUduWjFzVkpJTWdIUzhMem5RU2FVaHVyS1",
+      "publishedAt": "2026-05-28T11:02:11.000Z",
       "source": {
         "name": "Google News"
       },
@@ -162,30 +192,10 @@
       "urlToImage": null
     },
     {
-      "title": "Pakistan vs Australia, 1st ODI: Babar Azam and Arafat Minhas lead hosts to victory - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWE82ZGtxYlVTNHlQd09Jc0NZSEtCdUlTTmt5NzNlWEh3SGgxcVNSX1U0QWZwRnRlTjIxb1B3ZVFIUFNRblNNbml4WTRSbzNQSVQ5TWFwUm5aVHZRazEtbDhHWWg4NThmczZOZWRKVUhBeE1kM0wyOVhHdlpaMjFWVFlmdDVScGFmOFhhUzJJUVFkZ1M2QmNiNENMWG1UM0N5NHI4cHdmMlpSZDNrbklQcEYwRU51VDI5M1dCMQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWE82ZGtxYlVTNHlQd09Jc0NZSEtCdUlTTmt5NzNlWEh3SGgxcVNSX1U0QWZwRnRlTjIxb1B3ZVFIUFNRblNNbml4WTRSbzNQSVQ5TWFwUm5aVHZRazEtbDhHWWg4NThmczZOZWRKVUhBeE1kM0wyOVhHdlpaMjFWVFlmdDVScGFmOFhhUzJJUVFkZ1M2QmNiNENMWG1UM0N5NHI4cHdmMlpSZDNrbklQcEYwRU51VDI5M1",
-      "publishedAt": "2026-05-30T18:18:42.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "McCullum signals Stokes-Smith swap in England batting order - ESPN",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemtJQUdxSUI1MElab2hNYk5mZjhVTWRFNDM5Zmd4bG55YjM2WmFxZlNJT0h3MFpjck9YaVNuV05yX01rRFY3ZVBNVHQtQ1kzWENvYmJXSHRWOTZROEtwQmlhZEhaVEtkb3R2QUJmWmtOdWQ2VmtzVExVbVFzazRTYW9MWl8zeThBaXYwcWFCdDhJekVReFRWb0NIRjBRZ0VPR25sZEd1YnVSZmpDRklIRDdFM1h3SS1KcTZWbV9hcF8?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemtJQUdxSUI1MElab2hNYk5mZjhVTWRFNDM5Zmd4bG55YjM2WmFxZlNJT0h3MFpjck9YaVNuV05yX01rRFY3ZVBNVHQtQ1kzWENvYmJXSHRWOTZROEtwQmlhZEhaVEtkb3R2QUJmWmtOdWQ2VmtzVExVbVFzazRTYW9MWl8zeThBaXYwcWFCdDhJekVReFRWb0NIRjBRZ0VPR25sZEd1YnVSZmpDRklIRDdFM1h3SS1KcT",
       "publishedAt": "2026-05-29T17:18:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Brendon McCullum exclusive: England coach on Ben Stokes, how side will evolve after Ashes and new opener Emilio Gay - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUVh0a3NfamJuQ0tJS2RTcGRHQ1kxUjJaQ1FZbFZaNWxncDlEbFdpZFhCYzF6NGNEdFU2cVQ4QldENEVqSl83elhkTGFueVFNcnowZW15MThVcmxLUkFGMkpsSEdlNm5KUUdhSnBCSnVkcXhudHhRZzBYWXQ3TnRGM29jeTRhcy1walREYXB3a2drdl9NNGVCNFhMTzRCY18wdUpNc2dBRldDQ2tTenAyUlc5WlJEYXBkWmtMdFVTaWlrWXN4V2xLYzFUdmlyUWh4MzZIZkNreENKQzhTQmtPQWliZnV6dTl0eUg0dS1ubWJKNmNhLUVpbTc5dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUVh0a3NfamJuQ0tJS2RTcGRHQ1kxUjJaQ1FZbFZaNWxncDlEbFdpZFhCYzF6NGNEdFU2cVQ4QldENEVqSl83elhkTGFueVFNcnowZW15MThVcmxLUkFGMkpsSEdlNm5KUUdhSnBCSnVkcXhudHhRZzBYWXQ3TnRGM29jeTRhcy1walREYXB3a2drdl9NNGVCNFhMTzRCY18wdUpNc2dBRldDQ2tTenAyUlc5WlJEYXBkWm",
-      "publishedAt": "2026-05-29T15:10:52.000Z",
       "source": {
         "name": "Google News"
       },
@@ -202,30 +212,10 @@
       "urlToImage": null
     },
     {
-      "title": "Malaysian women's cricket team seals 2026 Asian Games berth with dramatic semi-final win over Nepal - thestar.com.my",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRDFreDF4bU8walBWYTdRckxpaDVQTko2QXViUXgya0dCRmlLVFhqa3JKN3M2SmhiZjJDY3lpdHFVOUZvY0NhUWJUNmhEVUVzbXl6TDJoNms5OEc4MjMzMkxqbHRQZzlTWkZUb1ZIdWxXeFVacFItRk4ydWIxQ1FiRTJGNV9XTHBtUWg3YTB6dzM4SzhkVVU4eDdScm5wY2QyMXlvcXd2b0VhUUFqcm1xcGlHcE1DNG5tMUNKbGNDQ1NSaU1uOEtUWXh2V3ZkQW9PbGlDMVFwa2xxWkI1blNmMDMybGwxQlhX?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRDFreDF4bU8walBWYTdRckxpaDVQTko2QXViUXgya0dCRmlLVFhqa3JKN3M2SmhiZjJDY3lpdHFVOUZvY0NhUWJUNmhEVUVzbXl6TDJoNms5OEc4MjMzMkxqbHRQZzlTWkZUb1ZIdWxXeFVacFItRk4ydWIxQ1FiRTJGNV9XTHBtUWg3YTB6dzM4SzhkVVU4eDdScm5wY2QyMXlvcXd2b0VhUUFqcm1xcGlHcE1DNG5tMU",
-      "publishedAt": "2026-05-31T01:37:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Vaibhav Sooryavanshi: Teenage wonderkid becomes second fastest player to reach 1,000 IPL runs but falls short of century - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYU1zdDI0SHlELU54enp3eFBjTUpOdWFVUURhMHppQ1FkeWZlTUkyTjBSN25YX1Y0Yk91MERFOWFOWmhMdHh3R0tocjgxWGFFMDZaU2RuQnpiak55RGlBVERVSXp3ZWRCZWlzWWRISW1JalNaQ1U2eGV0bFp4VlRZWEI2bDUzcS1KRHh6c24yVmVteVllU3c2bTJqOXFFcXZaRV9KR3ZicGlXbkN1SzFPLWJaRzNITTlacmQwekw5MlBoUndNVjJHWFJYLXU1enh3QnJjd29QdDF2M3BIT0FmaVV0bDNXNVdyenRoVVVpNTdxbFktRng2d3R2N0ZpN0w4Qmpv?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNYU1zdDI0SHlELU54enp3eFBjTUpOdWFVUURhMHppQ1FkeWZlTUkyTjBSN25YX1Y0Yk91MERFOWFOWmhMdHh3R0tocjgxWGFFMDZaU2RuQnpiak55RGlBVERVSXp3ZWRCZWlzWWRISW1JalNaQ1U2eGV0bFp4VlRZWEI2bDUzcS1KRHh6c24yVmVteVllU3c2bTJqOXFFcXZaRV9KR3ZicGlXbkN1SzFPLWJaRzNITTlacm",
-      "publishedAt": "2026-05-30T07:40:43.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Mohsin Naqvi adds intrigue to ICC Board Meeting as cricket's power circle gathers in Ahmedabad during IPL final weekend | Cricket - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNDRMQ2wweGFYQnYwVGsyNXBtSFJ6b3FHbVQzZjVBX3pPSDluVXk0RXJEMkI5S1FyNEhHeTczY3JWLWM3UnN0YmxpXzNFRFRIbWl3RlY1eTFVbFlCejlxektkaDNOYW85VnA2UjFhS3ZwRFoybzNsNjJRaWpraVl0Y3pCRHNFWUNPejVOV1BfQlduSkpKQjA4Y3NoVFdpdklNRFEyRFV5eE1BUzVIUVR6V0l6TkM5bkVBdWhQZy1VOEtmV0J4Q2wwY0FxZEJ4ZUZsTXphbWZZbWp3MkszN3JIWi0wVkFyeHR6aEFTYjByb0NWTWZxUVY4ME56RUFoM0pmVTh1VFoxMzFMd9IBjwJBVV95cUxOdWNyaDBxSkZoVlRUWmYwekdkV1Rsc1JtTzVEdm5fZUZUNGE4Z0VyOWVTUlNFVlFhUnhPYzAtWWdzYWFSUGJfT3J2ZVUtSTNvMEt0ZW1sUkxlVGI3TXVfYWtnelVVcXp5ZzNfNC1nazhmamN2WEVXcWsxZkg3VzlwR0REX2t0S1JkQnJ2NWFlZldSWExYeG1sNldldTRNVVhaTVNrdXAzeTFJbFl4MGx1bkNFMGZ1MWdZX3lpczlrSE1IQjhTaFNPMzVWZnBOUy1HOExrNENsdFBObjFYZlBWdkVMTmd3NjU0ME5hMzFXM1JJS2tfaW9saVNkZmQ2SFNzZGtoeVRQZU5xQWJKSDdn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPNDRMQ2wweGFYQnYwVGsyNXBtSFJ6b3FHbVQzZjVBX3pPSDluVXk0RXJEMkI5S1FyNEhHeTczY3JWLWM3UnN0YmxpXzNFRFRIbWl3RlY1eTFVbFlCejlxektkaDNOYW85VnA2UjFhS3ZwRFoybzNsNjJRaWpraVl0Y3pCRHNFWUNPejVOV1BfQlduSkpKQjA4Y3NoVFdpdklNRFEyRFV5eE1BUzVIUVR6V0l6TkM5bkVBdW",
-      "publishedAt": "2026-05-30T08:26:34.000Z",
+      "title": "Women's T20 World Cup 2026 squads: England, Scotland, Ireland, Australia, India, New Zealand and more - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWxnenhLOEk0VHF4aTZSclh6MEJlMk5BNTJhUlEwZk52Tmg4RE1YOUxpSEttZkwtZVJPazYxSkdfZGMwNDl0ZlE3Q3NsQktnVTZkSkNBYU14TURtb0ZtM1RIZXd1RXZuaDRNNERDVUxrYlZfZFdMRDZlemhFWjJOc01aamxKbkgzdGQ3ekRRbjljTTVoMWlQY2h2N0xzV205NTczNkRPdk5xV1o0VnhMZDk2d0lCMDduUnU4dzlvVjdpdlNPaVplbUJQaDhmWnZib3JaVVMwSmtLTnR1bFBPYmd3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWxnenhLOEk0VHF4aTZSclh6MEJlMk5BNTJhUlEwZk52Tmg4RE1YOUxpSEttZkwtZVJPazYxSkdfZGMwNDl0ZlE3Q3NsQktnVTZkSkNBYU14TURtb0ZtM1RIZXd1RXZuaDRNNERDVUxrYlZfZFdMRDZlemhFWjJOc01aamxKbkgzdGQ3ekRRbjljTTVoMWlQY2h2N0xzV205NTczNkRPdk5xV1o0VnhMZDk2d0lCMDduUn",
+      "publishedAt": "2026-05-29T07:00:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -244,20 +234,30 @@
       "urlToImage": null
     },
     {
-      "title": "How to play Cricket Darts: Rules, Scoring & Winning Strategies - Darts Planet TV",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXbEpkcDFmTDBFRmRwMm9lbV9Lc1BhYlNFZ0p1QndSS0ZraGtydnk5U1NXSnZVQzEyR2tPMzJxa0tHSnFzVWt5bXphZmc0Wmw5NDhSZkJQLVB6TThwZFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXbEpkcDFmTDBFRmRwMm9lbV9Lc1BhYlNFZ0p1QndSS0ZraGtydnk5U1NXSnZVQzEyR2tPMzJxa0tHSnFzVWt5bXphZmc0Wmw5NDhSZkJQLVB6TThwZFE?oc=5\" target=\"_blank\">How to play Cricket Darts: Rules, Scoring & Winning Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "title": "From Healthcare, IT to Cricket and Cultural camaraderie: Jaishankar calls India-Jamaica's ties a \"story of continuity and change\" - Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV2hZbDBwNkU3MEd6bGVPNlo4WElPRDhiTUh6VU1WMTl1aUtIN2JPN3FKM1JJXzlQaUU0Tlc1b21VeDdjcWRjeHI1ZUJlRGg5MXdJR3loMmluaGFLSkhncEZSeFRlNnhzSjBGNW5oOUNuOVNZYXp1aHBWSXA1aUl3R3JHa3Vkd3dmUEJURWoxNnkwU2ZUNUl6b054Wm9fS3dhNmFCa2xOb2FQY1BtWEVleHZMdGtWeVJmUWpjdGxaRkp2c2pTV1Vqb2xTdV9rc0sxc0JLSGwzc1R5TVZXSUFNUTlLNlZveGdxSXd6S3FBMmZkZjBCUm85TmxnZGhBc2FkcDE4c1l6NjRaOFpPemlGbnhJSVlPYU1ZWGFHTzR4TGRlU2hUTXlmNGpLYTBsLUFKNkxnT0luX0M?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV2hZbDBwNkU3MEd6bGVPNlo4WElPRDhiTUh6VU1WMTl1aUtIN2JPN3FKM1JJXzlQaUU0Tlc1b21VeDdjcWRjeHI1ZUJlRGg5MXdJR3loMmluaGFLSkhncEZSeFRlNnhzSjBGNW5oOUNuOVNZYXp1aHBWSXA1aUl3R3JHa3Vkd3dmUEJURWoxNnkwU2ZUNUl6b054Wm9fS3dhNmFCa2xOb2FQY1BtWEVleHZMdGtWeVJmUW",
+      "publishedAt": "2026-05-04T07:00:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "What is Back and Lay in Cricket Betting - sportsboom.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoSlhmSm53RnRwZzZfVVg1eHpXVFFKMEV4VEFlVnBYZTI4dzltemNhZ1NsV3NrUGE5VlZOOW02c1lzUEJ4cm5nLXdhY1JvcVFZX3JjX2g4VW1IRGJTN3RTUjlrRjlFNnM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoSlhmSm53RnRwZzZfVVg1eHpXVFFKMEV4VEFlVnBYZTI4dzltemNhZ1NsV3NrUGE5VlZOOW02c1lzUEJ4cm5nLXdhY1JvcVFZX3JjX2g4VW1IRGJTN3RTUjlrRjlFNnM?oc=5\" target=\"_blank\">What is Back and Lay in Cricket Betting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sportsboom.",
-      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "title": "Twenty20 cricket | Rules, History, World Cup, 2026, Scores, Matches, Highlights, Rankings, Schedule, & Facts - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5\" target=\"_blank\">Twenty20 cricket | Rules, History, World Cup, 2026, Scores, Matches, Highlights, Rankings, Schedule",
+      "publishedAt": "2026-05-29T05:00:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5\" target=\"_blank\">Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts</a>&nbsp;&nbsp;<font col",
+      "publishedAt": "2026-05-29T05:00:00.000Z",
       "source": {
         "name": "Google News"
       },
