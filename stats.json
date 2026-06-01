@@ -1,6 +1,681 @@
 {
-  "lastUpdated": "2026-06-01T19:22:31.381Z",
+  "lastUpdated": "2026-06-01T22:34:27.016Z",
   "recentMatches": [
+    {
+      "id": "865ffb8b-df0e-4db3-8a5d-777c379c3285",
+      "name": "Surrey vs Kent, 32nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Kent won by 8 wkts",
+      "venue": "Kennington Oval, London",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Surrey",
+        "Kent"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Surrey Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 2,
+          "o": 14,
+          "inning": "Kent Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "45559608-a23c-4b6c-b336-5c074ec9b85e",
+      "name": "Essex vs Derbyshire, 29th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex won by 5 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Essex",
+        "Derbyshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 10,
+          "o": 20,
+          "inning": "derbyshire Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 5,
+          "o": 19.4,
+          "inning": "Essex,Derbyshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bfb9e13c-5ae8-4058-961f-003c106f48df",
+      "name": "Nottinghamshire vs Durham, 34th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Nottinghamshire won by 6 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Nottinghamshire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 156,
+          "w": 8,
+          "o": 20,
+          "inning": "Durham Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 4,
+          "o": 17.2,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4de0125b-aea3-4933-b5f5-085ae03819d9",
+      "name": "Warwickshire vs Northamptonshire, 30th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Northamptonshire won by 6 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Warwickshire",
+        "Northamptonshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 7,
+          "o": 20,
+          "inning": "warwickshire Inning 1"
+        },
+        {
+          "r": 209,
+          "w": 4,
+          "o": 19.2,
+          "inning": "Warwickshire,Northamptonshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9c5ff4d7-9faf-4dab-b244-9e8927cb7760",
+      "name": "Yorkshire vs Gloucestershire, 31st Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Gloucestershire won by 56 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Yorkshire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 217,
+          "w": 6,
+          "o": 20,
+          "inning": "gloucestershire Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 10,
+          "o": 17.4,
+          "inning": "Yorkshire,Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dcd4507d-398b-415d-a847-c20d3c5ed563",
+      "name": "Middlesex vs Hampshire, 33rd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Hampshire won by 8 wkts",
+      "venue": "Merchant Taylors' School Ground, Northwood",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Middlesex",
+        "Hampshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        },
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 7,
+          "o": 20,
+          "inning": "Middlesex Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 2,
+          "o": 14,
+          "inning": "Hampshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "45ea43f9-f3d9-4348-8baa-580ca5234885",
+      "name": "Sussex vs Middlesex, 28th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Middlesex won by 31 runs",
+      "venue": "County Ground, Hove",
+      "date": "2026-05-30",
+      "dateTimeGMT": "2026-05-30T00:00:00",
+      "teams": [
+        "Sussex",
+        "Middlesex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 213,
+          "w": 4,
+          "o": 20,
+          "inning": "Middlesex Inning 1"
+        },
+        {
+          "r": 182,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "40b0448f-add4-4d09-b8cd-67d45c9faf4d",
+      "name": "Hampshire vs Surrey, 26th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Hampshire won by 5 wkts",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Hampshire",
+        "Surrey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 174,
+          "w": 8,
+          "o": 20,
+          "inning": "surrey Inning 1"
+        },
+        {
+          "r": 178,
+          "w": 5,
+          "o": 19.1,
+          "inning": "Hampshire,Surrey Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "189c0a99-6946-4560-9065-15795d3e1d2a",
+      "name": "Durham vs Yorkshire, 20th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Yorkshire won by 58 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Durham",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 9,
+          "o": 20,
+          "inning": "Yorkshire Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 10,
+          "o": 16.2,
+          "inning": "Durham Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "42414473-4349-4569-9672-c1b00569c140",
+      "name": "Lancashire vs Leicestershire, 21st Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Leicestershire won by 2 wkts",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Lancashire",
+        "Leicestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 145,
+          "w": 9,
+          "o": 20,
+          "inning": "lancashire Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 8,
+          "o": 19.5,
+          "inning": "Lancashire,Leicestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7c2a8c98-c2ff-42ec-8727-1aeedca2e8c6",
+      "name": "Glamorgan vs Somerset, 22nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Glamorgan won by 7 wkts",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Glamorgan",
+        "Somerset"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 171,
+          "w": 9,
+          "o": 20,
+          "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 175,
+          "w": 3,
+          "o": 13.5,
+          "inning": "Glamorgan Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3826ee5c-0524-4536-9a0c-6b9fdc69eb94",
+      "name": "Derbyshire vs Nottinghamshire, 23rd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Derbyshire won by 23 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Derbyshire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 234,
+          "w": 4,
+          "o": 20,
+          "inning": "derbyshire Inning 1"
+        },
+        {
+          "r": 211,
+          "w": 6,
+          "o": 20,
+          "inning": "Derbyshire,Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2f33fb47-278a-4608-9841-8c4849021c1a",
+      "name": "Northamptonshire vs Gloucestershire, 24th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Northamptonshire won by 7 wkts",
+      "venue": "County Ground, Northampton",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Northamptonshire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 164,
+          "w": 9,
+          "o": 20,
+          "inning": "Gloucestershire Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 3,
+          "o": 16.2,
+          "inning": "Northamptonshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5294f0ba-334f-472b-82ff-d09a639208e6",
+      "name": "Kent vs Essex, 25th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex won by 9 wkts",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Kent",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 129,
+          "w": 9,
+          "o": 20,
+          "inning": "Kent Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 1,
+          "o": 13.4,
+          "inning": "Essex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cea1611e-6907-437f-876d-c42b79790330",
+      "name": "Worcestershire vs Warwickshire, 27th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Worcestershire won by 6 wkts",
+      "venue": "New Road, Worcester",
+      "date": "2026-05-29",
+      "dateTimeGMT": "2026-05-29T00:00:00",
+      "teams": [
+        "Worcestershire",
+        "Warwickshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Warwickshire Inning 1"
+        },
+        {
+          "r": 142,
+          "w": 4,
+          "o": 18.5,
+          "inning": "Worcestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "f67ced18-dbec-424a-a2a5-386ac523a782",
       "name": "Oman Women vs Bahrain Women, 2nd T20I, Oman Women and Bahrain Women tour of Malaysia, 2026",
@@ -439,659 +1114,6 @@
         }
       ],
       "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "11e689cd-74df-4c61-8f5b-96f9b1d9d0a5",
-      "name": "Mali vs Sierra Leone, 19th Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Sierra Leone won by 6 wkts",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T07:30:00",
-      "teams": [
-        "Mali",
-        "Sierra Leone"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mali",
-          "shortname": "ML",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sierra Leone",
-          "shortname": "SLE",
-          "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 97,
-          "w": 9,
-          "o": 20,
-          "inning": "mali Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 4,
-          "o": 12.1,
-          "inning": "Mali,Sierra Leone Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4325b3da-0765-4ff7-bc57-48c93dafb7e2",
-      "name": "Botswana vs Kenya, 18th Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Kenya won by 62 runs",
-      "venue": "Botswana Cricket Association Oval 2, Gaborone",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T11:50:00",
-      "teams": [
-        "Botswana",
-        "Kenya"
-      ],
-      "teamInfo": [
-        {
-          "name": "Botswana",
-          "shortname": "BOT",
-          "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
-        },
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 193,
-          "w": 3,
-          "o": 20,
-          "inning": "kenya Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 8,
-          "o": 20,
-          "inning": "Botswana,Kenya Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bf52a1a9-f0fb-46e2-9309-e23ee7543f01",
-      "name": "Cameroon vs Mali, 16th Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Cameroon won by 90 runs",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T07:30:00",
-      "teams": [
-        "Cameroon",
-        "Mali"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cameroon",
-          "shortname": "CAM",
-          "img": "https://g.cricapi.com/iapi/2415-637992079740539457.webp?w=48"
-        },
-        {
-          "name": "Mali",
-          "shortname": "ML",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 6,
-          "o": 20,
-          "inning": "cameroon Inning 1"
-        },
-        {
-          "r": 69,
-          "w": 10,
-          "o": 16.1,
-          "inning": "Cameroon,Mali Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ee5a57eb-da03-4fea-885f-265f5bfd9881",
-      "name": "Ivory Coast vs Sierra Leone, 17th Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Sierra Leone won by 9 wkts",
-      "venue": "Botswana Cricket Association Oval 2, Gaborone",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T07:30:00",
-      "teams": [
-        "Ivory Coast",
-        "Sierra Leone"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ivory Coast",
-          "shortname": "IC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sierra Leone",
-          "shortname": "SLE",
-          "img": "https://g.cricapi.com/iapi/653-637870989563858219.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 53,
-          "w": 8,
-          "o": 20,
-          "inning": "ivory coast Inning 1"
-        },
-        {
-          "r": 54,
-          "w": 1,
-          "o": 5.2,
-          "inning": "Ivory Coast,Sierra Leone Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f2c58961-dfbe-4aeb-b470-78a1b489183a",
-      "name": "The Blaze Women vs Durham Women, 19th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Durham Women won by 7 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T11:15:00",
-      "teams": [
-        "The Blaze Women",
-        "Durham Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "The Blaze Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 153,
-          "w": 10,
-          "o": 19.5,
-          "inning": "The Blaze Women Inning 1"
-        },
-        {
-          "r": 156,
-          "w": 3,
-          "o": 19.1,
-          "inning": "Durham Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "72fbf3aa-9b56-4f68-9b71-d9041dc9dec3",
-      "name": "Essex Women vs Lancashire Women, 17th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Essex Women won by 6 wkts",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T10:30:00",
-      "teams": [
-        "Essex Women",
-        "Lancashire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Lancashire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 8,
-          "o": 20,
-          "inning": "Lancashire Women Inning 1"
-        },
-        {
-          "r": 132,
-          "w": 4,
-          "o": 17.5,
-          "inning": "Essex Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "53139d57-fb87-4113-b023-881b63701a0f",
-      "name": "Surrey Women vs Somerset Women, 18th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset Women won by 4 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T09:00:00",
-      "teams": [
-        "Surrey Women",
-        "Somerset Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Somerset Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Surrey Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 153,
-          "w": 5,
-          "o": 20,
-          "inning": "Surrey Women Inning 1"
-        },
-        {
-          "r": 154,
-          "w": 6,
-          "o": 19.3,
-          "inning": "Somerset Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "63006784-efeb-4845-b9f0-840f1b1e0cf8",
-      "name": "Kent Women vs Gloucestershire Women, 11th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Gloucestershire Women won by 15 runs",
-      "venue": "St Lawrence Ground, Canterbury",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Kent Women",
-        "Gloucestershire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kent Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 6,
-          "o": 20,
-          "inning": "Gloucestershire Women Inning 1"
-        },
-        {
-          "r": 176,
-          "w": 5,
-          "o": 20,
-          "inning": "Kent Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "67f6d9a7-6013-4349-a11b-b3a4b933027f",
-      "name": "Sussex Women vs Glamorgan Women, 9th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Glamorgan Women won by 8 wkts",
-      "venue": "County Ground, Hove",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Sussex Women",
-        "Glamorgan Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sussex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 5,
-          "o": 20,
-          "inning": "sussex women Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 2,
-          "o": 19.4,
-          "inning": "Sussex Women,Glamorgan Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "153f6bec-fca1-4547-beda-39d4520ffda6",
-      "name": "Northamptonshire Women vs Middlesex Women, 10th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Middlesex Women won by 7 wkts",
-      "venue": "County Ground, Northampton",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Northamptonshire Women",
-        "Middlesex Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Middlesex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Northamptonshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 149,
-          "w": 6,
-          "o": 20,
-          "inning": "Northamptonshire Women Inning 1"
-        },
-        {
-          "r": 153,
-          "w": 3,
-          "o": 20,
-          "inning": "Middlesex Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fafd1499-b631-4480-a3a3-1ae3261b6266",
-      "name": "Worcestershire Women vs Derbyshire Women, 12th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Derbyshire Women won by 7 wkts",
-      "venue": "New Road, Worcester",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Worcestershire Women",
-        "Derbyshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Worcestershire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 9,
-          "o": 20,
-          "inning": "Worcestershire Women Inning 1"
-        },
-        {
-          "r": 112,
-          "w": 3,
-          "o": 17,
-          "inning": "Derbyshire Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4409d0ce-c75e-4f55-859a-b5d0d5396e60",
-      "name": "Hampshire Women vs Surrey Women, 15th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Match tied",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T14:00:00",
-      "teams": [
-        "Hampshire Women",
-        "Surrey Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hampshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Surrey Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 10,
-          "o": 20,
-          "inning": "surrey women Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 8,
-          "o": 20,
-          "inning": "Hampshire Women,Surrey Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1cfbca19-2145-4792-b27a-4bb284b794ef",
-      "name": "Yorkshire Women vs Essex Women, 16th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Essex Women won by 3 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T14:00:00",
-      "teams": [
-        "Yorkshire Women",
-        "Essex Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Yorkshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 146,
-          "w": 7,
-          "o": 20,
-          "inning": "essex women Inning 1"
-        },
-        {
-          "r": 143,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Yorkshire Women,Essex Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fc9509f2-5df5-490b-8518-982e3a736312",
-      "name": "Lancashire Women vs Somerset Women, 14th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Lancashire Women won by 7 wkts",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T13:30:00",
-      "teams": [
-        "Lancashire Women",
-        "Somerset Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Somerset Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 137,
-          "w": 6,
-          "o": 20,
-          "inning": "somerset women Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 3,
-          "o": 15.3,
-          "inning": "Lancashire Women,Somerset Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a0f10f9f-be6b-4370-b39d-5b2aecb6b320",
-      "name": "Durham Women vs Warwickshire Women, 13th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Durham Women won by 27 runs",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-05-29",
-      "dateTimeGMT": "2026-05-29T13:30:00",
-      "teams": [
-        "Durham Women",
-        "Warwickshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warwickshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 5,
-          "o": 20,
-          "inning": "durham women Inning 1"
-        },
-        {
-          "r": 113,
-          "w": 10,
-          "o": 18.1,
-          "inning": "Durham Women,Warwickshire Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
