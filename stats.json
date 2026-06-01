@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T07:06:10.978Z",
+  "lastUpdated": "2026-06-01T13:25:11.262Z",
   "recentMatches": [
     {
       "id": "f67ced18-dbec-424a-a2a5-386ac523a782",
@@ -185,7 +185,7 @@
       "id": "67799b22-ffcf-45bc-b87b-7407e475a967",
       "name": "Hong Kong, China vs Bahrain, 3rd Match, Group B, Asian Games Mens T20I Qualifier, 2026",
       "matchType": "t20",
-      "status": "Hong Kong, China opt to bowl",
+      "status": "Hong Kong, China won by 8 wkts",
       "venue": "Singapore National Cricket Ground, Singapore",
       "date": "2026-06-01",
       "dateTimeGMT": "2026-06-01T06:30:00",
@@ -199,18 +199,32 @@
           "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 173,
+          "w": 9,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 175,
+          "w": 2,
+          "o": 16,
+          "inning": " Inning 1"
+        }
+      ],
       "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0e064659-6478-4a6b-a8c0-8aa41d1e1066",
       "name": "Oman vs Singapore, 2nd Match, Group B, Asian Games Mens T20I Qualifier, 2026",
       "matchType": "t20",
-      "status": "Oman won by 6 runs - Match reduced to 15 overs due to rain",
+      "status": "Oman won by 7 runs (DLS method due to rain, target 151)",
       "venue": "Singapore National Cricket Ground, Singapore",
       "date": "2026-06-01",
       "dateTimeGMT": "2026-06-01T01:30:00",
@@ -249,7 +263,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6c976308-f248-4b2d-ad15-fdb99df3b5c2",
