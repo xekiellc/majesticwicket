@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T06:47:34.601Z",
+  "lastUpdated": "2026-06-02T11:56:10.055Z",
   "recentMatches": [
     {
       "id": "865ffb8b-df0e-4db3-8a5d-777c379c3285",
@@ -767,6 +767,45 @@
       "matchEnded": true
     },
     {
+      "id": "55022c26-a190-40ad-95b1-6be787604810",
+      "name": "Pakistan vs Australia, 2nd ODI, Australia tour of Pakistan 2026",
+      "matchType": "odi",
+      "status": "Pakistan opt to bowl",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-06-02",
+      "dateTimeGMT": "2026-06-02T11:30:00",
+      "teams": [
+        "Pakistan",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 30,
+          "w": 1,
+          "o": 4.3,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "50d2ed95-e7c4-4f6f-a694-eb46a88f6e58",
       "name": "Pakistan vs Australia, 1st ODI, Australia tour of Pakistan 2026",
       "matchType": "odi",
@@ -850,6 +889,51 @@
         }
       ],
       "series_id": "5db01d89-4997-4805-a9bd-44c1cf55bd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1a071b6a-ae99-43b4-9d25-4019038e08ae",
+      "name": "Malaysia vs China, 4th Match, Group A, Asian Games Mens T20I Qualifier, 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 9 wkts",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-02",
+      "dateTimeGMT": "2026-06-02T06:30:00",
+      "teams": [
+        "Malaysia",
+        "China"
+      ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 84,
+          "w": 9,
+          "o": 20,
+          "inning": "China Inning 1"
+        },
+        {
+          "r": 85,
+          "w": 1,
+          "o": 7.5,
+          "inning": "Malaysia Inning 1"
+        }
+      ],
+      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1024,96 +1108,6 @@
         }
       ],
       "series_id": "5db01d89-4997-4805-a9bd-44c1cf55bd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "076c6497-4d6f-4ba5-9b85-963095895fb2",
-      "name": "Botswana vs Rwanda, 21st Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Rwanda won by 2 runs",
-      "venue": "Botswana Cricket Association Oval 1, Gaborone",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T11:50:00",
-      "teams": [
-        "Botswana",
-        "Rwanda"
-      ],
-      "teamInfo": [
-        {
-          "name": "Botswana",
-          "shortname": "BOT",
-          "img": "https://g.cricapi.com/iapi/589-637867438995934034.webp?w=48"
-        },
-        {
-          "name": "Rwanda",
-          "shortname": "RWN",
-          "img": "https://g.cricapi.com/iapi/646-637873697602208351.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 117,
-          "w": 8,
-          "o": 20,
-          "inning": "rwanda Inning 1"
-        },
-        {
-          "r": 115,
-          "w": 8,
-          "o": 20,
-          "inning": "Botswana,Rwanda Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e61c02fb-6669-4e7f-835b-b5a87adc3914",
-      "name": "Ivory Coast vs Kenya, 20th Match, ICC Mens T20 World Cup Sub Regional Africa Qualifier Group A 2026",
-      "matchType": "t20",
-      "status": "Kenya won by 9 wkts",
-      "venue": "Botswana Cricket Association Oval 2, Gaborone",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T07:30:00",
-      "teams": [
-        "Ivory Coast",
-        "Kenya"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ivory Coast",
-          "shortname": "IC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 18,
-          "w": 10,
-          "o": 12.3,
-          "inning": "Ivory Coast Inning 1"
-        },
-        {
-          "r": 19,
-          "w": 1,
-          "o": 1.4,
-          "inning": "Kenya Inning 1"
-        }
-      ],
-      "series_id": "ba064151-7e74-4882-ac4e-9f47d08211c8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
