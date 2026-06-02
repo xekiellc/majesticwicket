@@ -1,21 +1,31 @@
 {
-  "lastUpdated": "2026-06-02T11:56:10.054Z",
+  "lastUpdated": "2026-06-02T18:07:25.924Z",
   "articles": [
     {
-      "title": "Pakistan bowl; Australia bring in Zampa for Stanlake",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539303.html?ex_cid=OTC-RSS",
-      "description": "The hosts, who are leading 1-0, will be looking to seal the series in Lahore",
-      "publishedAt": "2026-06-02T11:34:38.000Z",
+      "title": "Unchanged England opt to bowl in decider; India bring Gaud back",
+      "url": "https://www.espncricinfo.com/ci/content/story/1539345.html?ex_cid=OTC-RSS",
+      "description": "Play was set to begin in cloudy yet bright conditions with no forecast for rain",
+      "publishedAt": "2026-06-02T17:36:12.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
       "urlToImage": null
     },
     {
-      "title": "Sairaj Bahutule joins India team as spin-bowling coach ahead of Afghanistan Test",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539301.html?ex_cid=OTC-RSS",
-      "description": "He was recently with PBKS in IPL 2026 in a similar capacity",
-      "publishedAt": "2026-06-02T11:17:00.000Z",
+      "title": "West Indies, Sri Lanka in high-stakes push to claim 2027 World Cup spot",
+      "url": "https://www.espncricinfo.com/ci/content/story/1539344.html?ex_cid=OTC-RSS",
+      "description": "After recent struggles in major tournament qualification, both teams have plenty to play for in this ODI series",
+      "publishedAt": "2026-06-02T17:35:44.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Melbourne Stars and Renegades set to merge, second franchise to be sold in full",
+      "url": "https://www.espncricinfo.com/ci/content/story/1539296.html?ex_cid=OTC-RSS",
+      "description": "The Stars' name and colours will be rebranded by CV; Renegades could play under caretaker administration in 2026-27",
+      "publishedAt": "2026-06-02T13:16:19.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -26,16 +36,6 @@
       "url": "https://www.espncricinfo.com/ci/content/story/1539222.html?ex_cid=OTC-RSS",
       "description": "Thunder general manager Trent Copeland says Flintoff's &quot;knowledge of Australian cricket and our Thunder program stood out during the process&quot;",
       "publishedAt": "2026-06-02T08:09:06.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Prendergast ensures Ireland's narrow one-run win over West Indies",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539220.html?ex_cid=OTC-RSS",
-      "description": "Ireland move atop the tri-nation series points table after winning via the DLS method in Dublin",
-      "publishedAt": "2026-06-02T04:49:33.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -72,6 +72,56 @@
       "urlToImage": null
     },
     {
+      "title": "Santner added to New Zealand Test squad to face England",
+      "url": "https://www.espncricinfo.com/ci/content/story/1539029.html?ex_cid=OTC-RSS",
+      "description": "Spinning allrounder has completed recovery from shoulder injury, Foxcroft to return home",
+      "publishedAt": "2026-05-31T10:25:15.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Ambidextrous spinner Shashini Gimhani in Sri Lanka's T20 World Cup squad",
+      "url": "https://www.espncricinfo.com/ci/content/story/1538811.html?ex_cid=OTC-RSS",
+      "description": "Chamari Athapaththu named captain of 15-member squad; set to play her tenth T20 World Cup",
+      "publishedAt": "2026-05-29T18:25:51.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "England announce 12-man squad for first Test vs New Zealand, Shoaib Bashir and Ollie Robinson recalled",
+      "url": "https://www.crictracker.com/cricket-news/england-announce-12-man-squad-for-first-test-vs-new-zealand-shoaib-bashir-and-ollie-robinson-recalled/",
+      "description": "England and New Zealand will face each other in a three-match Test series, starting on Thursday, June 4.",
+      "publishedAt": "2026-06-02T16:47:17.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Who is Sairaj Bahutule? All you need to know about India's newest spin-bowling coach",
+      "url": "https://www.crictracker.com/cricket-news/who-is-sairaj-bahutule-india-new-spin-bowling-coach/",
+      "description": "Bahutule represented India in two Tests and eight One-Day Internationals and enjoyed a distinguished first-class career spanning nearly two decades.",
+      "publishedAt": "2026-06-02T13:06:32.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Sairaj Bahutule joins India's backroom setup as spin-bowling coach ahead of one-off Test against Afghanistan",
+      "url": "https://www.crictracker.com/cricket-news/sairaj-bahutule-joins-indias-backroom-setup-as-spin-bowling-coach-ahead-of-one-off-test-against-afghanistan/",
+      "description": "Bahutule joins the coaching team led by head coach Gautam Gambhir, along with Sitanshu Kotak (batting), Morne Morkel (fast bowling), T Dilip (fielding) and Ryan ten Doeschate (assistant coach).",
+      "publishedAt": "2026-06-02T11:57:13.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "‘ICC suspension was unexpected’ - Cricket Canada unveils reform plan & commits to full compliance",
       "url": "https://www.crictracker.com/cricket-news/icc-suspension-was-unexpected-cricket-canada-unveils-reform-plan-commits-to-full-compliance/",
       "description": "The ICC suspended Cricket Canada's membership with immediate effect during its board meeting in Ahmedabad on June 1, citing serious breaches of the organisation's membership obligations.",
@@ -82,12 +132,12 @@
       "urlToImage": null
     },
     {
-      "title": "‘He reminds me of 16-year-old Sachin Tendulkar’ - Atul Wassan hails Vaibhav Sooryavanshi as a one-in-a-million talent",
-      "url": "https://www.crictracker.com/cricket-news/he-reminds-me-of-16-year-old-sachin-tendulkar-atul-wassan-hails-vaibhav-sooryavanshi-as-a-one-in-a-million-talent/",
-      "description": "Vaibhav Sooryavanshi emerged as the breakout star of the recently concluded IPL season, finishing with 776 runs in 16 innings at a remarkable strike rate of 237.30.",
-      "publishedAt": "2026-06-02T09:36:27.000Z",
+      "title": "IPL To Take Place In September-October Window From 2027? Chairman Makes Big Revelation - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0J2dm9ISkdLQTBqUFB5TFNEa3dOcHlTbWhXMGRLSnN1enBENVMyZmxTS18tUmR2d2UyRVM1VUVZVUtiV18zUDBxRDZWRWRfa1Rtd2hrbkxva19qYVRCWF9yNVlpcTFyQ1NvQldzWWFDQ0tWQm5GQmdaNk9DUXF1Q21nQ3BFMU9hVWVsWEtYaXBtMTQyeWlzUzNwZ1hUcDdoakFrT1VPVlNlY3RCRUdDQ250VlNUQ0UwSkFQaDJWSUtQSUpicHc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0J2dm9ISkdLQTBqUFB5TFNEa3dOcHlTbWhXMGRLSnN1enBENVMyZmxTS18tUmR2d2UyRVM1VUVZVUtiV18zUDBxRDZWRWRfa1Rtd2hrbkxva19qYVRCWF9yNVlpcTFyQ1NvQldzWWFDQ0tWQm5GQmdaNk9DUXF1Q21nQ3BFMU9hVWVsWEtYaXBtMTQyeWlzUzNwZ1hUcDdoakFrT1VPVlNlY3RCRUdDQ250VlNUQ0UwSk",
+      "publishedAt": "2026-06-02T09:18:28.000Z",
       "source": {
-        "name": "CricTracker"
+        "name": "Google News"
       },
       "urlToImage": null
     },
@@ -96,6 +146,26 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXIyT05INUdxZDhUSHRUQW9VQm1ROU1zYm5ZeVVPaEhWV1RQOWt5SlVxRlc5am1sYUVIZ21UWkpBTUd5b0dJaGpIS0tSUk8tVEJSVGdkN093aFU5M0NqMDlCVDAyT21pQ2hIQkNaZnI4UE1JYm9NVFZMVU1HTHBwZ3FoRGRXRktKZjlBNy1hZzVwYkhmSktBdmduZGF5NURjQ0szT0RZZEdaWW5ZVE1yTG1yM2txVUlqOGgzZdIBzgFBVV95cUxQeWU4SEF5LWR1YXV1ZFc0VGZpMmRGNkduS1F2UHBHUzZjSWpsX3NmOHlTYmViOVYzNmRlS2prY1lraTJObnJkcmxTNjBhR095T254N2h2SWh4OGF0bzM3ME1MWWlaalJxT3dMMkNLR05VaUJWN0NSUU9pVjYtRGQ5S055X0dzZ1FoOTFIMGE3MTIxRVJPaFpKNDJzc3RqaTZRSjJ5TkZwbmxOQ254b1pkaTEzbGdaeTJuR09kRmRibTgtdjNfWEttZkNmTW5tUQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXIyT05INUdxZDhUSHRUQW9VQm1ROU1zYm5ZeVVPaEhWV1RQOWt5SlVxRlc5am1sYUVIZ21UWkpBTUd5b0dJaGpIS0tSUk8tVEJSVGdkN093aFU5M0NqMDlCVDAyT21pQ2hIQkNaZnI4UE1JYm9NVFZMVU1HTHBwZ3FoRGRXRktKZjlBNy1hZzVwYkhmSktBdmduZGF5NURjQ0szT0RZZEdaWW5ZVE1yTG1yM2txVUlqOG",
       "publishedAt": "2026-06-02T03:06:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Banned, injured, forgotten: Rasikh Salam Dar never stopped believing - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbjNmNFg4d0Q2MlEyc241RC1VeGZZck5VQ3VPY3U5dExyT2xsVlZCaHN0WHd5LWxMYm5JS3dUM3FRNHBNYTNidjdmVF80Q3p2Ums2Y1BoeGR2aEdXWDRwNWhMejUwUWE3Zm9aYzc5U1ltMnlHYTlOMHFDQ0tEMjlDekwyM1QyRmtLMTYyZXU4cUtHbnB4Sm94bmxTQ25Cc2xBeDNUU2tWcjZGZ0hFMEZ2X0VjM0xwaFhJVllvd01EbG5qVXhQcWFZU3FWZU5GZlJGVlRJclVhTUFNaVRYYVFsOHhvdlhwbEwzazZz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbjNmNFg4d0Q2MlEyc241RC1VeGZZck5VQ3VPY3U5dExyT2xsVlZCaHN0WHd5LWxMYm5JS3dUM3FRNHBNYTNidjdmVF80Q3p2Ums2Y1BoeGR2aEdXWDRwNWhMejUwUWE3Zm9aYzc5U1ltMnlHYTlOMHFDQ0tEMjlDekwyM1QyRmtLMTYyZXU4cUtHbnB4Sm94bmxTQ25Cc2xBeDNUU2tWcjZGZ0hFMEZ2X0VjM0xwaFhJVl",
+      "publishedAt": "2026-06-02T00:46:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "India vs Afghanistan Only Test 2026 tickets: How to buy tickets for IND vs AFG Test at Mullanpur? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUpCMjRNbkVINEcxUWtsUVBnb0pldGRPLU1NZ2RGNGl2bFVpTnc2ZlZHYWtiZ1NWVFRkZFozeWxpSTdwbGZWdDVudGU2SHBES3dkZEk3S1gzbFVrazVQSUpkMzZQY2RXaTdrN2Y4SnFIM29FZ3FtSjlUMHdIV0Y1WWpZLWwtZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUpCMjRNbkVINEcxUWtsUVBnb0pldGRPLU1NZ2RGNGl2bFVpTnc2ZlZHYWtiZ1NWVFRkZFozeWxpSTdwbGZWdDVudGU2SHBES3dkZEk3S1gzbFVrazVQSUpkMzZQY2RXaTdrN2Y4SnFIM29FZ3FtSjlUMHdIV0Y1WWpZLWwtZw?oc=5\" target=\"_blank\">India vs Afghanistan Only Test 2026 tickets: ",
+      "publishedAt": "2026-06-01T10:22:14.000Z",
       "source": {
         "name": "Google News"
       },
@@ -112,6 +182,16 @@
       "urlToImage": null
     },
     {
+      "title": "ICC Board approves key women’s cricket pathway decisions - ICC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEd3YWJiajRvQVhkbEJtemFaNTgtS0lXVjlzNWhZZ3h0bDl2YkZTMl83VlBnc0FiUVFscW4ta2REQkFDb19GNUpLQWljdndWMVQzRUYyWG4zUFA0RWNUR241c3JCUEFJOXQzQ0s2eGV6ZVVmSDdsSlpOY3h4a2FnOFRGdnQtUld3Y2syQUtUc1U5MjQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEd3YWJiajRvQVhkbEJtemFaNTgtS0lXVjlzNWhZZ3h0bDl2YkZTMl83VlBnc0FiUVFscW4ta2REQkFDb19GNUpLQWljdndWMVQzRUYyWG4zUFA0RWNUR241c3JCUEFJOXQzQ0s2eGV6ZVVmSDdsSlpOY3h4a2FnOFRGdnQtUld3Y2syQUtUc1U5MjQ?oc=5\" target=\"_blank\">ICC Board approves key women",
+      "publishedAt": "2026-06-01T13:08:57.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Nepal opener creates history by hitting six sixes in an over - ICC",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEZDakdsQzRvVTA1TVRWeDJHUmd1UktOV2tHek1WTUZpaE9oajFGN3lPZElFcmtvUDEyWU9zZTJTdkVjNmF6UDNBS2ZJZjhLWVFmb3BlejBaeDBvQm1aQjV1NEFEZXA1SFhjZGgyRUFfSjlweV8xVzVmZWZuOW1rTzZiSnFpR3MxdDAtQVY2VFh3TF9kVnk5ZQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEZDakdsQzRvVTA1TVRWeDJHUmd1UktOV2tHek1WTUZpaE9oajFGN3lPZElFcmtvUDEyWU9zZTJTdkVjNmF6UDNBS2ZJZjhLWVFmb3BlejBaeDBvQm1aQjV1NEFEZXA1SFhjZGgyRUFfSjlweV8xVzVmZWZuOW1rTzZiSnFpR3MxdDAtQVY2VFh3TF9kVnk5ZQ?oc=5\" target=\"_blank\">Nepal opener creates ",
@@ -122,30 +202,20 @@
       "urlToImage": null
     },
     {
-      "title": "ICC suspends this cricket board from its membership after serious breaches | Cricket - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcm12Sm9LSXdfWmRRbU9vdnlESzEzNmFkNG9fNVVpdWIzcWU0ZXdxUHdma2hPYW9OVDctRFBwa2RSd2FMWGxVcXZOLXI5TlREc3RfTVMyb0thZEZnOFBIaEliSVdvZ0xVXzd1Tlpyb0ZlaUVxX2xiYzhoX1E1SXVxNGk1dVFvQk15STh3S0ZGalg3dzItVkJ0QW00anYzajUtRkhHdkJaQ0puTXhYZjlyT2xfemoyN2Jwb3Yza0dpSjFQYnZfTVVqUkF4U1JrQzZFUXJRSNIB2gFBVV95cUxQdHpoS3c5ZTljRU9qMjZTdkk3eWgwSlpGU3ZuLXVuMFJwdkc4NUNDUDN1NEpoRmwyRFFsOXFMOGJXemdPRm9KWTA0YVlib3QwaFFzLXhrRS1DMHRlenFnQXNjWmVTRy1XYkNCQS1OR1dURk1CYzBKaTR1ZlZXWUgzbUdDUDY2RGcxcmNxSERSMTRSeHo5S1VEbVVmQ2NSM1ZEdEhmSFN0Z3VGbW96YVRzbHdZdTl3SjVocFFkTHR0cFh6UWg0cUxETUhYOWJ2c1laUGtscTI3LWRnUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcm12Sm9LSXdfWmRRbU9vdnlESzEzNmFkNG9fNVVpdWIzcWU0ZXdxUHdma2hPYW9OVDctRFBwa2RSd2FMWGxVcXZOLXI5TlREc3RfTVMyb0thZEZnOFBIaEliSVdvZ0xVXzd1Tlpyb0ZlaUVxX2xiYzhoX1E1SXVxNGk1dVFvQk15STh3S0ZGalg3dzItVkJ0QW00anYzajUtRkhHdkJaQ0puTXhYZjlyT2xfemoyN2Jwb3",
-      "publishedAt": "2026-06-01T15:23:08.000Z",
+      "title": "Plan for Stars and Renegades to merge in BBL shake-up - Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxek8zOVZqRUIzRmhsenMzUVVCM0FKcHBLZkFBYXQzRmhNY2VtLTVzRWNpeDl6UFRuSzV3WTBYa0t6em9hTFNhT0pEUnlPZjhHbE5PWkR0a2NibjlsV2VVbGQzZlpaWXhHbEFnTUFEWEg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxek8zOVZqRUIzRmhsenMzUVVCM0FKcHBLZkFBYXQzRmhNY2VtLTVzRWNpeDl6UFRuSzV3WTBYa0t6em9hTFNhT0pEUnlPZjhHbE5PWkR0a2NibjlsV2VVbGQzZlpaWXhHbEFnTUFEWEg?oc=5\" target=\"_blank\">Plan for Stars and Renegades to merge in BBL shake-up</a>&nbsp;&nbsp;<font c",
+      "publishedAt": "2026-06-02T13:42:26.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Pakistan awarded hosting rights for ICC Women’s T20 World Cup 2028 - The Nation (Pakistan )",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlk2ei16UFFlckdKVk02cHVjMlRESW04M0FGc0F4LXhrOXgtbkpKeXZqZ1VuVTJVcE0zamlsVVBkaG9yNV9ZYjMwdGo2Y1BPS1dLTFFKbHJST05xX0ZaWmlTUURENDlNVzA3N21tdVpQNXFMYXBJTHdqZkEzOHBZSW83bWxhSThtZ2NKMXhsMEhFNEpDVks1MnV3WlNfQVZMM0E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlk2ei16UFFlckdKVk02cHVjMlRESW04M0FGc0F4LXhrOXgtbkpKeXZqZ1VuVTJVcE0zamlsVVBkaG9yNV9ZYjMwdGo2Y1BPS1dLTFFKbHJST05xX0ZaWmlTUURENDlNVzA3N21tdVpQNXFMYXBJTHdqZkEzOHBZSW83bWxhSThtZ2NKMXhsMEhFNEpDVks1MnV3WlNfQVZMM0E?oc=5\" target=\"_blank\">Pakistan",
-      "publishedAt": "2026-06-01T18:44:28.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Big Bash teams ‘set to merge’ as two new Melbourne sides loom in sell-off stunner - Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPZU1aWUl1TTRUUXkwVFd4aE1jMDltYWhNZ1R1U05kVUdCRmt1NF83bndXYVFFUG9KOTN6SkExNFRrbHlBYTVGZFE1UGVsNHZIN3ZWaWpzNVVobjFQVGY3bUZXeGZsTENZZHJGekVYQ08zXzdpNE5iMEp5bFNMdlFMd0hjeGlkMEFrZWFvUVplNTNxeUotcFdTSXZRQkNmSS0ydlo2N3BWRjVZX01LRWgxWXk1a21ibHBiTXRIU0NacUltcTJWRWFnTkdyejlWdkVNckduTTdCVEF5UTVIVW9Tc0gxZFN3M0hsS05SeWZGSTR6Z3hCdklnZmJZdmlWY2VhX3RRd3FOTWZBdWNCUk1PTlhkQWRJR2FnR0xQSEpfT1JiU0VxOVpVR29wMl9YOTBUTTV6eW1xRTVRWGFrUFVzNExHZGpDNGR2NmF0QkNIZzBSX0dBbVB3Y0h6UXYyNTFiclJibDhoQVAwUlIxUlVJUUdaSdIB8wJBVV95cUxPZU1aWUl1TTRUUXkwVFd4aE1jMDltYWhNZ1R1U05kVUdCRmt1NF83bndXYVFFUG9KOTN6SkExNFRrbHlBYTVGZFE1UGVsNHZIN3ZWaWpzNVVobjFQVGY3bUZXeGZsTENZZHJGekVYQ08zXzdpNE5iMEp5bFNMdlFMd0hjeGlkMEFrZWFvUVplNTNxeUotcFdTSXZRQkNmSS0ydlo2N3BWRjVZX01LRWgxWXk1a21ibHBiTXRIU0NacUltcTJWRWFnTkdyejlWdkVNckduTTdCVEF5UTVIVW9Tc0gxZFN3M0hsS05SeWZGSTR6Z3hCdklnZmJZdmlWY2VhX3RRd3FOTWZBdWNCUk1PTlhkQWRJR2FnR0xQSEpfT1JiU0VxOVpVR29wMl9YOTBUTTV6eW1xRTVRWGFrUFVzNExHZGpDNGR2NmF0QkNIZzBSX0dBbVB3Y0h6UXYyNTFiclJibDhoQVAwUlIxUlVJUUdaSQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wJBVV95cUxPZU1aWUl1TTRUUXkwVFd4aE1jMDltYWhNZ1R1U05kVUdCRmt1NF83bndXYVFFUG9KOTN6SkExNFRrbHlBYTVGZFE1UGVsNHZIN3ZWaWpzNVVobjFQVGY3bUZXeGZsTENZZHJGekVYQ08zXzdpNE5iMEp5bFNMdlFMd0hjeGlkMEFrZWFvUVplNTNxeUotcFdTSXZRQkNmSS0ydlo2N3BWRjVZX01LRWgxWXk1a21ibHBiTX",
-      "publishedAt": "2026-06-02T09:35:21.000Z",
+      "title": "The Hundred: New trophy for combined men's and women's results added for 2026 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XSFJkcVZXVmVvZXc2NWNMRWhoakpwNE9DcmQ1aHlCRVloTnlqam81dzhBSEpkLVVuTk53VkVuMFhxTXhrTXVrWS0xYTY3cmtEbFY1ekdqeXlxcEdKeTNiMjVHUkdwbjc0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XSFJkcVZXVmVvZXc2NWNMRWhoakpwNE9DcmQ1aHlCRVloTnlqam81dzhBSEpkLVVuTk53VkVuMFhxTXhrTXVrWS0xYTY3cmtEbFY1ekdqeXlxcEdKeTNiMjVHUkdwbjc0?oc=5\" target=\"_blank\">The Hundred: New trophy for combined men's and women's results added for 2026</a>&nbsp;",
+      "publishedAt": "2026-06-01T11:05:12.000Z",
       "source": {
         "name": "Google News"
       },
@@ -162,10 +232,30 @@
       "urlToImage": null
     },
     {
-      "title": "ICC suspends Cricket Canada after corruption allegations: What it means for players and the board - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNV1dnSzFBczBfd0NjZ2ViLVZPdDlpWWJJYWlHbHctUUx2UU5ua01RLWNVd2lzZXNFYi1oTnp0TVZqTndWM2dXN1RWcUNsWkFCVmgtM05WanFyX1lhajFKYlVTOHVOTDI1ekdTRklHR3JIRkM1VzBucDM0NHNNNmJyem9LM294bVlIZzdPQUhGanpjMlhqVGdCZXlGajhlZzhXcm5jMHVCODdMUW13Z2dIS1RtVk92WnJkTWFuU1UzLW42N19XekU5X3p6OThsVGRldXZqdWY3Vl9ZTUgtUWdfc1hYWDFhMHZWaWVBU0Y5ZXRKWUxKTU5xZVB6cW8zLXVuejN0YTlxRVV2d9IBjwJBVV95cUxQelJCVzF3enNsS01jd3NXWkZvVm9JNVpzZFFoeVBSMkxoMGZBVUpCNUhLUnROTnFpeEpObFFSMDk4NkUwQ2ZXa2NOTWlYS0ptV2JqeGlMMUp0Y01yX1JSamFSZHhiRFJQSFRqU2lMRVdmdDJOV28weXhLVkZaVXhtYWNWUGdZX1NOV25STnJocW1nX3Rxd2x0LVNvV2ZJVEEwM2lDNzRwY2V6bXQ1cXJ6aG1EX21DVnZ4QlZGZGZ3NVc1ZHlwOVFkR2sxZ3BhWkpfYThnLTVPa3pqV1ZfUzdwdzhydlIzeVF6UmhLQTZOaHVCVUNsS2NmbDI5T3JLajk2YTFtTDdvTDEwQzV5ZnhN?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNV1dnSzFBczBfd0NjZ2ViLVZPdDlpWWJJYWlHbHctUUx2UU5ua01RLWNVd2lzZXNFYi1oTnp0TVZqTndWM2dXN1RWcUNsWkFCVmgtM05WanFyX1lhajFKYlVTOHVOTDI1ekdTRklHR3JIRkM1VzBucDM0NHNNNmJyem9LM294bVlIZzdPQUhGanpjMlhqVGdCZXlGajhlZzhXcm5jMHVCODdMUW13Z2dIS1RtVk92WnJkTW",
-      "publishedAt": "2026-06-01T12:22:00.000Z",
+      "title": "Bazball comes full circle with a promise to ‘evolve slightly’ as New Zealand roll into town - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVlOeFZlZkRTMnJEMm1talYyY2F1SC12VTFHV0Vtb1J5N3U2cjNiZ3Nxd2RSMVR0bDBPcUU3Y3BrQ3ZwQWJ5VjctckVqNG1UYlRIejRfcjRaU0VDVXdHbnZxU3RkcTRvS3RTN0I0QUNGMkFnV3FfTWdmNjU0Y2lYNmVZenVZR0VscmtxMjZDdjVHT0hra0dCLTdqTUFwT0JhYktQeWVsSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVlOeFZlZkRTMnJEMm1talYyY2F1SC12VTFHV0Vtb1J5N3U2cjNiZ3Nxd2RSMVR0bDBPcUU3Y3BrQ3ZwQWJ5VjctckVqNG1UYlRIejRfcjRaU0VDVXdHbnZxU3RkcTRvS3RTN0I0QUNGMkFnV3FfTWdmNjU0Y2lYNmVZenVZR0VscmtxMjZDdjVHT0hra0dCLTdqTUFwT0JhYktQeWVsSQ?oc=5\" target=\"_blank\">B",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Cricket West Indies Announces Squad for 2026 ICC Women’s T20 World Cup - Windies",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzhsVjhta25lZ2FkVnRSTm5yckRZLW1nUm1SSDFIU25Gd21SaTFIakRFTzIyVmNjLU9mV3VGNktUNmozRVVoTlhlYVJoUktEeXVvQmZKZkpjbEx0WDMxUjVRYTVpNF93b2pET2l5Rl9lZFVDS2xBVF9QbXcxcXhOeV95ZmttY2FIWk9VVUZUbWJIeUlHYzFXUWRTa3FJUHBoWlE0ZVB0akYwdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzhsVjhta25lZ2FkVnRSTm5yckRZLW1nUm1SSDFIU25Gd21SaTFIakRFTzIyVmNjLU9mV3VGNktUNmozRVVoTlhlYVJoUktEeXVvQmZKZkpjbEx0WDMxUjVRYTVpNF93b2pET2l5Rl9lZFVDS2xBVF9QbXcxcXhOeV95ZmttY2FIWk9VVUZUbWJIeUlHYzFXUWRTa3FJUHBoWlE0ZVB0akYwdw?oc=5\" target=\"_blan",
+      "publishedAt": "2026-05-28T14:53:46.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Watch: Team India arrives in New Chandigarh ahead of their one-off Test against Afghanistan - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOM0NGWVo0QTJjVEk1OThvOWNmSGVMXzlvUG80d3V3Rkg3SGtkbVFKTC1MbFAzUFBuZ3NCZjNkdHlucmNxYkowcUdKQUhWeUloSVpITXdielFUSUJMcUkwN01ERk5ocFQ3S1J0ZE1pc0Z5Um5NQzNZY01Lcml4LUlYakxKV21kQk81N0hjMHFyS1JGT0laZ0pRWmtlbWcyWVdfTmxueWRLQ1FCXzUtVXRpd21OMHpMWkQ5Qk1qVllTOE5DUDFicDliZm9jYUZaaFNaNnhmeWFXVjlMLTdUMEZTZWE4UG9iNWdEc2s2NUxkRjliTVZSZVdwWVJfT1NYN21MN2w1aVFVa3dmR1VPRmFKTHVkdXpUQ1nSAZwCQVVfeXFMTUZWQTliYVhLeXJCa0pMazBBcUs3clFya29DUmIzYUFhZ1I1TmVZNVhBRTJacmFNcTNZbGxncmN3Y1o5alFGam8wRW4xd3B0WGswamVmY0pFa2ZrN29HZURKQXNJbkJBVmN5VnJvRjNiU1dvT0lmc05LOXNfWmo5QnZlZFdjaUFSMVVqd1lUdVg4R1N2MjFZeVE0MlQ4d21PaU9EOWFFNTRJN1FZZld6UURZSW9VYTZpZWVYMzA4VHhWSk5JLTgyMF85eXFzelRCN25VUVowdzZ6cjdtTWJkdW84ZXluWkFqYlBMVE5YcklsNTVPeThvcDIzYTFveGFqaHVmbzNfTnhfd2ltd05FWi15N20tdDBwcU05VlI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOM0NGWVo0QTJjVEk1OThvOWNmSGVMXzlvUG80d3V3Rkg3SGtkbVFKTC1MbFAzUFBuZ3NCZjNkdHlucmNxYkowcUdKQUhWeUloSVpITXdielFUSUJMcUkwN01ERk5ocFQ3S1J0ZE1pc0Z5Um5NQzNZY01Lcml4LUlYakxKV21kQk81N0hjMHFyS1JGT0laZ0pRWmtlbWcyWVdfTmxueWRLQ1FCXzUtVXRpd21OMHpMWkQ5Qk",
+      "publishedAt": "2026-06-02T14:42:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -224,10 +314,10 @@
       "urlToImage": null
     },
     {
-      "title": "Test Cricket Explained: How the Five-Day Format Works - World In Sport",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdHh4akxveGxWRGtWTi1tTVZxbkhkUHNBckdEUk1zdVhaV2daeGFQd01MZHAyVU14NExBOE1PNVJobC1DSFpwRVBlLUEyRUg5V1JVM0hWQ09GVTlr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdHh4akxveGxWRGtWTi1tTVZxbkhkUHNBckdEUk1zdVhaV2daeGFQd01MZHAyVU14NExBOE1PNVJobC1DSFpwRVBlLUEyRUg5V1JVM0hWQ09GVTlr?oc=5\" target=\"_blank\">Test Cricket Explained: How the Five-Day Format Works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World In Spo",
-      "publishedAt": "2026-05-22T21:30:59.000Z",
+      "title": "IPL 2026 stats and records: Biggest runs, wickets, sixes and historic moments - MSN",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNQjNDUy12WDhsX0Nfam50elF3OWVEamhZWmZMREw5ajBpV3plMXhaRl9XUGUtQkZpdkplQ0ZYZFZEWkYtTUotMkZVMHRvaWVhdU1XLXg1Q0Z3el9kZGJHSnA2amZpVlEyYlctMTlUcURUeEpKbHNFZXpycG9zekFMZzZycVFEem40OHZ5VGFOdDItMEVBWTJ3ODBNUHpBR2NFUkVrcGRndzh0a0M3NEhHWkRMUlJkRTU1Tk04NWg2dWg0VThlci16LVlzZzdMMTN0QlhWSzZWZWJRSDZvMDBCTEUwTHk3WGd6Q1dkemFRc3JmdmsxSWtWalRxaHVMZnZrT1JRWGxsV3JsOW9iYzNreWg3ZEg1RnlsRXQzN09FUVpLcHVfLWctYlRPbUNTSlpEMHdCSFFVZm1EUVoyZGEtSVItbGwyeTUzNEZJS0RWVzBzRElvTDU5aHhZVngwV0s4TVc4NVUydnAxNTFndkpBWU9Mem1yaEdkMGtSVkJRTXZKZWU2ZTNxLXM5SmhkUWNnbE9DSUpNSUx6VjFGR3c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingNBVV95cUxNQjNDUy12WDhsX0Nfam50elF3OWVEamhZWmZMREw5ajBpV3plMXhaRl9XUGUtQkZpdkplQ0ZYZFZEWkYtTUotMkZVMHRvaWVhdU1XLXg1Q0Z3el9kZGJHSnA2amZpVlEyYlctMTlUcURUeEpKbHNFZXpycG9zekFMZzZycVFEem40OHZ5VGFOdDItMEVBWTJ3ODBNUHpBR2NFUkVrcGRndzh0a0M3NEhHWkRMUlJkRTU1Tk",
+      "publishedAt": "2026-05-27T18:47:41.000Z",
       "source": {
         "name": "Google News"
       },

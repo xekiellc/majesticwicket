@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T11:56:10.055Z",
+  "lastUpdated": "2026-06-02T18:07:25.925Z",
   "recentMatches": [
     {
       "id": "865ffb8b-df0e-4db3-8a5d-777c379c3285",
@@ -770,7 +770,7 @@
       "id": "55022c26-a190-40ad-95b1-6be787604810",
       "name": "Pakistan vs Australia, 2nd ODI, Australia tour of Pakistan 2026",
       "matchType": "odi",
-      "status": "Pakistan opt to bowl",
+      "status": "Pakistan need 89 runs",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-06-02",
       "dateTimeGMT": "2026-06-02T11:30:00",
@@ -792,10 +792,16 @@
       ],
       "score": [
         {
-          "r": 30,
-          "w": 1,
-          "o": 4.3,
+          "r": 231,
+          "w": 9,
+          "o": 50,
           "inning": "Australia Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 7,
+          "o": 33,
+          "inning": "Pakistan Inning 1"
         }
       ],
       "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
