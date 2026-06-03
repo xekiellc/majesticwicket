@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-06-03T12:27:30.897Z",
+  "lastUpdated": "2026-06-03T18:24:41.536Z",
   "recentMatches": [
+    {
+      "id": "b0fbe45d-2ecc-45e3-a332-03e37c768871",
+      "name": "Gwalior Cheetahs vs Ujjain Falcons, 1st Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Ujjain Falcons won by 92 runs",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T14:00:00",
+      "teams": [
+        "Gwalior Cheetahs",
+        "Ujjain Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 6,
+          "o": 20,
+          "inning": "Ujjain Falcons Inning 1"
+        },
+        {
+          "r": 129,
+          "w": 10,
+          "o": 14.2,
+          "inning": "Gwalior Cheetahs Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "00c725b8-5b5b-48d7-af9c-bc32cc586712",
       "name": "Bahrain Women vs Myanmar Women, 5th Match, Group A, ACC Womens T20I Premier Cup 2026",
@@ -359,6 +403,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "1be42d03-37bb-493d-be80-7ecc51e79551",
+      "name": "Surrey vs Middlesex, 36th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Surrey opt to bowl",
+      "venue": "Kennington Oval, London",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T17:30:00",
+      "teams": [
+        "Surrey",
+        "Middlesex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 44,
+          "w": 4,
+          "o": 7,
+          "inning": "Middlesex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "361c8e3d-f1f5-4e80-91a9-b0fe0e055ac2",
@@ -1020,90 +1103,6 @@
           "w": 1,
           "o": 7.5,
           "inning": "Malaysia Inning 1"
-        }
-      ],
-      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "67799b22-ffcf-45bc-b87b-7407e475a967",
-      "name": "Hong Kong, China vs Bahrain, 3rd Match, Group B, Asian Games Mens T20I Qualifier, 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China won by 8 wkts",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-01",
-      "dateTimeGMT": "2026-06-01T06:30:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 173,
-          "w": 9,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 175,
-          "w": 2,
-          "o": 16,
-          "inning": " Inning 1"
-        }
-      ],
-      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0e064659-6478-4a6b-a8c0-8aa41d1e1066",
-      "name": "Oman vs Singapore, 2nd Match, Group B, Asian Games Mens T20I Qualifier, 2026",
-      "matchType": "t20",
-      "status": "Oman won by 7 runs (DLS method due to rain, target 151)",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-01",
-      "dateTimeGMT": "2026-06-01T01:30:00",
-      "teams": [
-        "Oman",
-        "Singapore"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        },
-        {
-          "name": "Singapore",
-          "shortname": "SGP",
-          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 149,
-          "w": 7,
-          "o": 15,
-          "inning": "Oman Inning 1"
-        },
-        {
-          "r": 143,
-          "w": 6,
-          "o": 15,
-          "inning": "Singapore Inning 1"
         }
       ],
       "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
