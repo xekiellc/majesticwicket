@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-03T06:59:09.100Z",
+  "lastUpdated": "2026-06-03T12:27:30.897Z",
   "recentMatches": [
     {
       "id": "00c725b8-5b5b-48d7-af9c-bc32cc586712",
       "name": "Bahrain Women vs Myanmar Women, 5th Match, Group A, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Bahrain Women opt to bat",
+      "status": "Myanmar Women won by 8 wkts",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-06-03",
       "dateTimeGMT": "2026-06-03T06:00:00",
@@ -27,10 +27,16 @@
       ],
       "score": [
         {
-          "r": 37,
-          "w": 3,
-          "o": 11,
+          "r": 64,
+          "w": 10,
+          "o": 19.5,
           "inning": "bahrain women Inning 1"
+        },
+        {
+          "r": 65,
+          "w": 2,
+          "o": 12.4,
+          "inning": "Bahrain Women,Myanmar Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
@@ -38,13 +44,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7f0cdd12-a50a-4de2-9961-026aaffada30",
       "name": "China Women vs Oman Women, 6th Match, Group B, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "China Women opt to bowl",
+      "status": "Oman Women won by 16 runs",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-06-03",
       "dateTimeGMT": "2026-06-03T06:00:00",
@@ -66,10 +72,16 @@
       ],
       "score": [
         {
-          "r": 46,
-          "w": 3,
-          "o": 9,
+          "r": 105,
+          "w": 7,
+          "o": 20,
           "inning": "Oman Women Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 10,
+          "o": 18.4,
+          "inning": "China Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
@@ -77,7 +89,97 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "96f3e5ea-d823-4996-9fa9-009efbca75a4",
+      "name": "Indonesia Women vs Singapore Women, 7th Match, Group C, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 8 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T06:00:00",
+      "teams": [
+        "Indonesia Women",
+        "Singapore Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        },
+        {
+          "name": "Singapore Women",
+          "shortname": "SIN-W",
+          "img": "https://g.cricapi.com/iapi/1553-637926305464374356.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 82,
+          "w": 7,
+          "o": 20,
+          "inning": "singapore women Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 2,
+          "o": 10.5,
+          "inning": "Indonesia Women,Singapore Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ee74e052-f1a0-4c80-8117-59b07b3e2c02",
+      "name": "Bhutan Women vs Hong Kong, China Women, 8th Match, Group D, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China Women won by 14 runs",
+      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T06:00:00",
+      "teams": [
+        "Bhutan Women",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan Women",
+          "shortname": "BHU-W",
+          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
+        },
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 133,
+          "w": 3,
+          "o": 20,
+          "inning": "hong kong, china women Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 6,
+          "o": 20,
+          "inning": "Bhutan Women,Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "e566b841-5063-4327-a7de-4acf2f628529",
@@ -802,7 +904,7 @@
       "id": "6dc3fea9-a715-46c0-b88f-57fb98f846ca",
       "name": "Hong Kong, China vs Singapore, 6th Match, Group B, Asian Games Mens T20I Qualifier, 2026",
       "matchType": "t20",
-      "status": "Singapore opt to bat",
+      "status": "Hong Kong, China won by 9 wkts",
       "venue": "Singapore National Cricket Ground, Singapore",
       "date": "2026-06-03",
       "dateTimeGMT": "2026-06-03T06:30:00",
@@ -818,10 +920,16 @@
       ],
       "score": [
         {
-          "r": 28,
-          "w": 3,
-          "o": 4,
+          "r": 61,
+          "w": 10,
+          "o": 12.3,
           "inning": "singapore Inning 1"
+        },
+        {
+          "r": 64,
+          "w": 1,
+          "o": 6.3,
+          "inning": "Hong Kong Inning 1"
         }
       ],
       "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
@@ -829,7 +937,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "fb7fc7df-8b9a-4be9-b4cc-ee72659e9fa4",
@@ -999,96 +1107,6 @@
         }
       ],
       "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6c976308-f248-4b2d-ad15-fdb99df3b5c2",
-      "name": "Nepal vs China, 1st Match, Group A, Asian Games Mens T20I Qualifier, 2026",
-      "matchType": "t20",
-      "status": "Nepal won by 221 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T01:30:00",
-      "teams": [
-        "Nepal",
-        "China"
-      ],
-      "teamInfo": [
-        {
-          "name": "China",
-          "shortname": "CHN",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 313,
-          "w": 2,
-          "o": 20,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 92,
-          "w": 10,
-          "o": 19.2,
-          "inning": "China Inning 1"
-        }
-      ],
-      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "eb4997d7-68fe-488c-ac0e-fea802568b5c",
-      "name": "Kuwait Women vs Myanmar Women, 1st T20I, Kuwait Women and Myanmar Women tour of Malaysia, 2026",
-      "matchType": "t20",
-      "status": "Kuwait Women won by 7 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-05-30",
-      "dateTimeGMT": "2026-05-30T06:00:00",
-      "teams": [
-        "Kuwait Women",
-        "Myanmar Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait Women",
-          "shortname": "KU-W",
-          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
-        },
-        {
-          "name": "Myanmar Women",
-          "shortname": "MYW",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 92,
-          "w": 6,
-          "o": 20,
-          "inning": "Myanmar Women Inning 1"
-        },
-        {
-          "r": 93,
-          "w": 3,
-          "o": 19.2,
-          "inning": "Kuwait Women Inning 1"
-        }
-      ],
-      "series_id": "5db01d89-4997-4805-a9bd-44c1cf55bd0b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
