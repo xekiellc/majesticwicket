@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-04T16:57:04.781Z",
+  "lastUpdated": "2026-06-04T21:44:25.002Z",
   "recentMatches": [
     {
       "id": "6cfc4222-dae8-4111-ad8e-fac487ddb5ce",
       "name": "Bhopal Leopards vs Indore Pink Panthers, 3rd Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Indore Pink Panthers need 95 runs in 64 balls",
+      "status": "Bhopal Leopards won by 27 runs",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T14:00:00",
@@ -33,9 +33,9 @@
           "inning": "bhopal leopards Inning 1"
         },
         {
-          "r": 80,
-          "w": 6,
-          "o": 9.2,
+          "r": 147,
+          "w": 10,
+          "o": 18.5,
           "inning": "Bhopal Leopards,Indore Pink Panthers Inning 1"
         }
       ],
@@ -44,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5854dab2-4395-4e34-a756-a33e6deed289",
@@ -138,7 +138,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - New Zealand trail by 135 runs",
+      "status": "Day 1: Stumps - New Zealand trail by 79 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -166,9 +166,9 @@
           "inning": "England Inning 1"
         },
         {
-          "r": 5,
-          "w": 3,
-          "o": 2.5,
+          "r": 61,
+          "w": 6,
+          "o": 19.2,
           "inning": "New Zealand Inning 1"
         }
       ],
@@ -671,7 +671,7 @@
       "id": "ee74e052-f1a0-4c80-8117-59b07b3e2c02",
       "name": "Bhutan Women vs Hong Kong, China Women, 8th Match, Group D, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Hong Kong, China Women opt to bat",
+      "status": "Hong Kong, China Women won by 14 runs",
       "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
       "date": "2026-06-03",
       "dateTimeGMT": "2026-06-03T06:00:00",
@@ -892,6 +892,51 @@
       "matchEnded": true
     },
     {
+      "id": "0416de6f-c383-4fea-9966-16e42d969378",
+      "name": "Somerset vs Glamorgan, 37th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Glamorgan need 135 runs in 72 balls",
+      "venue": "The Cooper Associates County Ground, Taunton",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T18:00:00",
+      "teams": [
+        "Somerset",
+        "Glamorgan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 202,
+          "w": 6,
+          "o": 20,
+          "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 68,
+          "w": 3,
+          "o": 8,
+          "inning": "Glamorgan Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "1be42d03-37bb-493d-be80-7ecc51e79551",
       "name": "Surrey vs Middlesex, 36th Match, T20 Blast 2026",
       "matchType": "t20",
@@ -982,134 +1027,89 @@
       "matchEnded": true
     },
     {
-      "id": "865ffb8b-df0e-4db3-8a5d-777c379c3285",
-      "name": "Surrey vs Kent, 32nd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Kent won by 8 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T00:00:00",
+      "id": "28904fcb-3cab-460e-a4e8-5cd5fa733d67",
+      "name": "Pakistan vs Australia, 3rd ODI, Australia tour of Pakistan 2026",
+      "matchType": "odi",
+      "status": "Pakistan won by 4 wkts",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T11:30:00",
       "teams": [
-        "Surrey",
-        "Kent"
+        "Pakistan",
+        "Australia"
       ],
       "teamInfo": [
         {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
         },
         {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
         }
       ],
       "score": [
-        {
-          "r": 116,
-          "w": 10,
-          "o": 19.5,
-          "inning": "Surrey Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 2,
-          "o": 14,
-          "inning": "Kent Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "45559608-a23c-4b6c-b336-5c074ec9b85e",
-      "name": "Essex vs Derbyshire, 29th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Essex won by 5 wkts",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T00:00:00",
-      "teams": [
-        "Essex",
-        "Derbyshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 173,
-          "w": 10,
-          "o": 20,
-          "inning": "derbyshire Inning 1"
-        },
-        {
-          "r": 179,
-          "w": 5,
-          "o": 19.4,
-          "inning": "Essex,Derbyshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bfb9e13c-5ae8-4058-961f-003c106f48df",
-      "name": "Nottinghamshire vs Durham, 34th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Nottinghamshire won by 6 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T00:00:00",
-      "teams": [
-        "Nottinghamshire",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 156,
-          "w": 8,
-          "o": 20,
-          "inning": "Durham Inning 1"
-        },
         {
           "r": 157,
-          "w": 4,
-          "o": 17.2,
-          "inning": "Nottinghamshire Inning 1"
+          "w": 10,
+          "o": 42,
+          "inning": "australia Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 6,
+          "o": 41.5,
+          "inning": "Pakistan,Australia Inning 1"
         }
       ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "55022c26-a190-40ad-95b1-6be787604810",
+      "name": "Pakistan vs Australia, 2nd ODI, Australia tour of Pakistan 2026",
+      "matchType": "odi",
+      "status": "Australia won by 41 runs",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-06-02",
+      "dateTimeGMT": "2026-06-02T11:30:00",
+      "teams": [
+        "Pakistan",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 231,
+          "w": 9,
+          "o": 50,
+          "inning": "Australia Inning 1"
+        },
+        {
+          "r": 190,
+          "w": 10,
+          "o": 44,
+          "inning": "Pakistan Inning 1"
+        }
+      ],
+      "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
