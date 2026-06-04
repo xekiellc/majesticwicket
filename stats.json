@@ -1,6 +1,437 @@
 {
-  "lastUpdated": "2026-06-03T22:29:35.556Z",
+  "lastUpdated": "2026-06-04T06:48:18.404Z",
   "recentMatches": [
+    {
+      "id": "b0fbe45d-2ecc-45e3-a332-03e37c768871",
+      "name": "Gwalior Cheetahs vs Ujjain Falcons, 1st Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Ujjain Falcons won by 92 runs",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T14:00:00",
+      "teams": [
+        "Gwalior Cheetahs",
+        "Ujjain Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 6,
+          "o": 20,
+          "inning": "Ujjain Falcons Inning 1"
+        },
+        {
+          "r": 129,
+          "w": 10,
+          "o": 14.2,
+          "inning": "Gwalior Cheetahs Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "00c1ee82-9553-40ac-85fd-2c9071f41539",
+      "name": "Hong Kong, China Women vs Qatar Women, 16th Match, Group D, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Qatar Women opt to bowl",
+      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T06:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "63a47585-23d7-42e2-b9b7-7ee613b8834c",
+      "name": "Indonesia Women vs Kuwait Women, 15th Match, Group C, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women opt to bowl",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T06:00:00",
+      "teams": [
+        "Indonesia Women",
+        "Kuwait Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        },
+        {
+          "name": "Kuwait Women",
+          "shortname": "KU-W",
+          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "66e80ab7-647c-413c-8de3-b4760bbd2e22",
+      "name": "Philippines Women vs Saudi Arabia Women, 14th Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Philippines Women opt to bat",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T06:00:00",
+      "teams": [
+        "Philippines Women",
+        "Saudi Arabia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Philippines Women",
+          "shortname": "PHW",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        },
+        {
+          "name": "Saudi Arabia Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6c9a88fe-5eda-4367-a530-5b34bff260c2",
+      "name": "Japan Women vs Mongolia Women, 13th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Mongolia Women opt to bowl",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T06:00:00",
+      "teams": [
+        "Japan Women",
+        "Mongolia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        },
+        {
+          "name": "Mongolia Women",
+          "shortname": "MW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e89e9abc-973f-4dd5-8bb7-372f487bd8c5",
+      "name": "Malaysia Women vs Singapore Women, 9th Match, Group C, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Malaysia Women won by 40 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T01:30:00",
+      "teams": [
+        "Malaysia Women",
+        "Singapore Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "Singapore Women",
+          "shortname": "SIN-W",
+          "img": "https://g.cricapi.com/iapi/1553-637926305464374356.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 6,
+          "o": 20,
+          "inning": "Malaysia Women Inning 1"
+        },
+        {
+          "r": 80,
+          "w": 6,
+          "o": 20,
+          "inning": "Singapore Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a8e2d0b6-296a-4fc3-9349-5739693bb739",
+      "name": "Bahrain Women vs Thailand Women, 10th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Thailand Women won by 10 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T01:30:00",
+      "teams": [
+        "Bahrain Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain Women",
+          "shortname": "BAH-W",
+          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 40,
+          "w": 10,
+          "o": 13.4,
+          "inning": "Bahrain Women Inning 1"
+        },
+        {
+          "r": 41,
+          "w": 0,
+          "o": 3.3,
+          "inning": "Thailand Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7504e6d9-1a37-498c-9aaf-0c2b40feda11",
+      "name": "Oman Women vs United Arab Emirates Women, 11th Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 9 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T01:30:00",
+      "teams": [
+        "Oman Women",
+        "United Arab Emirates Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman Women",
+          "shortname": "OMN-W",
+          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 64,
+          "w": 9,
+          "o": 20,
+          "inning": "oman women Inning 1"
+        },
+        {
+          "r": 66,
+          "w": 1,
+          "o": 6.4,
+          "inning": "Oman Women,United Arab Emirates Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "15e9aec4-a332-4e7b-a2b4-3891d9f3a37e",
+      "name": "Bhutan Women vs Nepal Women, 12th Match, Group D, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 51 runs",
+      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T01:30:00",
+      "teams": [
+        "Bhutan Women",
+        "Nepal Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan Women",
+          "shortname": "BHU-W",
+          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 113,
+          "w": 10,
+          "o": 20,
+          "inning": "Nepal Women Inning 1"
+        },
+        {
+          "r": 62,
+          "w": 8,
+          "o": 20,
+          "inning": "Bhutan Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "00c725b8-5b5b-48d7-af9c-bc32cc586712",
+      "name": "Bahrain Women vs Myanmar Women, 5th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Myanmar Women won by 8 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T06:00:00",
+      "teams": [
+        "Bahrain Women",
+        "Myanmar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain Women",
+          "shortname": "BAH-W",
+          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
+        },
+        {
+          "name": "Myanmar Women",
+          "shortname": "MYW",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 64,
+          "w": 10,
+          "o": 19.5,
+          "inning": "bahrain women Inning 1"
+        },
+        {
+          "r": 65,
+          "w": 2,
+          "o": 12.4,
+          "inning": "Bahrain Women,Myanmar Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7f0cdd12-a50a-4de2-9961-026aaffada30",
+      "name": "China Women vs Oman Women, 6th Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Oman Women won by 16 runs",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T06:00:00",
+      "teams": [
+        "China Women",
+        "Oman Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Oman Women",
+          "shortname": "OMN-W",
+          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 105,
+          "w": 7,
+          "o": 20,
+          "inning": "Oman Women Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 10,
+          "o": 18.4,
+          "inning": "China Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "96f3e5ea-d823-4996-9fa9-009efbca75a4",
       "name": "Indonesia Women vs Singapore Women, 7th Match, Group C, ACC Womens T20I Premier Cup 2026",
@@ -92,6 +523,51 @@
       "matchEnded": true
     },
     {
+      "id": "e566b841-5063-4327-a7de-4acf2f628529",
+      "name": "Nepal Women vs Qatar Women, 4th Match, Group D, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Nepal Women won by 8 wkts",
+      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T01:30:00",
+      "teams": [
+        "Nepal Women",
+        "Qatar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Qatar Women",
+          "shortname": "QAT-W",
+          "img": "https://g.cricapi.com/iapi/1578-637914186206691459.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 76,
+          "w": 10,
+          "o": 16.5,
+          "inning": "Qatar Women Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 2,
+          "o": 10.5,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "0c1e9887-9131-4965-ba20-558307d38ce3",
       "name": "Mongolia Women vs Thailand Women, 3rd Match, Group A, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
@@ -127,6 +603,50 @@
           "w": 0,
           "o": 2.2,
           "inning": "Mongolia Women,Thailand Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "263f1623-96ef-49ce-983a-e1b4e06ab28e",
+      "name": "Saudi Arabia Women vs United Arab Emirates Women, 2nd Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 10 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-03",
+      "dateTimeGMT": "2026-06-03T01:30:00",
+      "teams": [
+        "Saudi Arabia Women",
+        "United Arab Emirates Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Saudi Arabia Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 25,
+          "w": 10,
+          "o": 15.3,
+          "inning": "saudi arabia women Inning 1"
+        },
+        {
+          "r": 30,
+          "w": 0,
+          "o": 0.5,
+          "inning": "Saudi Arabia Women,United Arab Emirates Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
@@ -185,7 +705,7 @@
       "id": "1be42d03-37bb-493d-be80-7ecc51e79551",
       "name": "Surrey vs Middlesex, 36th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Surrey opt to bowl",
+      "status": "Surrey won by 8 wkts",
       "venue": "Kennington Oval, London",
       "date": "2026-06-03",
       "dateTimeGMT": "2026-06-03T17:30:00",
@@ -207,10 +727,16 @@
       ],
       "score": [
         {
-          "r": 90,
-          "w": 5,
-          "o": 15,
+          "r": 130,
+          "w": 7,
+          "o": 20,
           "inning": "Middlesex Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 2,
+          "o": 14.1,
+          "inning": "Surrey Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
@@ -218,7 +744,277 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "361c8e3d-f1f5-4e80-91a9-b0fe0e055ac2",
+      "name": "Hampshire vs Sussex, 35th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Hampshire won by 29 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-02",
+      "dateTimeGMT": "2026-06-02T18:00:00",
+      "teams": [
+        "Hampshire",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 6,
+          "o": 20,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "865ffb8b-df0e-4db3-8a5d-777c379c3285",
+      "name": "Surrey vs Kent, 32nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Kent won by 8 wkts",
+      "venue": "Kennington Oval, London",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Surrey",
+        "Kent"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Surrey Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 2,
+          "o": 14,
+          "inning": "Kent Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "45559608-a23c-4b6c-b336-5c074ec9b85e",
+      "name": "Essex vs Derbyshire, 29th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex won by 5 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Essex",
+        "Derbyshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 10,
+          "o": 20,
+          "inning": "derbyshire Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 5,
+          "o": 19.4,
+          "inning": "Essex,Derbyshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bfb9e13c-5ae8-4058-961f-003c106f48df",
+      "name": "Nottinghamshire vs Durham, 34th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Nottinghamshire won by 6 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Nottinghamshire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 156,
+          "w": 8,
+          "o": 20,
+          "inning": "Durham Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 4,
+          "o": 17.2,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4de0125b-aea3-4933-b5f5-085ae03819d9",
+      "name": "Warwickshire vs Northamptonshire, 30th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Northamptonshire won by 6 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Warwickshire",
+        "Northamptonshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 7,
+          "o": 20,
+          "inning": "warwickshire Inning 1"
+        },
+        {
+          "r": 209,
+          "w": 4,
+          "o": 19.2,
+          "inning": "Warwickshire,Northamptonshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9c5ff4d7-9faf-4dab-b244-9e8927cb7760",
+      "name": "Yorkshire vs Gloucestershire, 31st Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Gloucestershire won by 56 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-05-31",
+      "dateTimeGMT": "2026-05-31T00:00:00",
+      "teams": [
+        "Yorkshire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 217,
+          "w": 6,
+          "o": 20,
+          "inning": "gloucestershire Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 10,
+          "o": 17.4,
+          "inning": "Yorkshire,Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "dcd4507d-398b-415d-a847-c20d3c5ed563",
@@ -259,723 +1055,6 @@
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1276aa2e-fbda-4c9c-9062-d0037b1b6767",
-      "name": "Kuwait Women vs Myanmar Women, 2nd T20I, Kuwait Women and Myanmar Women tour of Malaysia, 2026",
-      "matchType": "t20",
-      "status": "Myanmar Women won by 20 runs",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T03:30:00",
-      "teams": [
-        "Kuwait Women",
-        "Myanmar Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait Women",
-          "shortname": "KU-W",
-          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
-        },
-        {
-          "name": "Myanmar Women",
-          "shortname": "MYW",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 112,
-          "w": 5,
-          "o": 20,
-          "inning": "Myanmar Women Inning 1"
-        },
-        {
-          "r": 92,
-          "w": 7,
-          "o": 20,
-          "inning": "Kuwait Women Inning 1"
-        }
-      ],
-      "series_id": "5db01d89-4997-4805-a9bd-44c1cf55bd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fb7fc7df-8b9a-4be9-b4cc-ee72659e9fa4",
-      "name": "Oman vs Bahrain, 5th Match, Group B, Asian Games Mens T20I Qualifier, 2026",
-      "matchType": "t20",
-      "status": "Oman won by 20 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T01:30:00",
-      "teams": [
-        "Oman",
-        "Bahrain"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain",
-          "shortname": "BHR",
-          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 4,
-          "o": 20,
-          "inning": "Oman Inning 1"
-        },
-        {
-          "r": 164,
-          "w": 5,
-          "o": 20,
-          "inning": "Bahrain Inning 1"
-        }
-      ],
-      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6c976308-f248-4b2d-ad15-fdb99df3b5c2",
-      "name": "Nepal vs China, 1st Match, Group A, Asian Games Mens T20I Qualifier, 2026",
-      "matchType": "t20",
-      "status": "Nepal won by 221 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T01:30:00",
-      "teams": [
-        "Nepal",
-        "China"
-      ],
-      "teamInfo": [
-        {
-          "name": "China",
-          "shortname": "CHN",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 313,
-          "w": 2,
-          "o": 20,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 92,
-          "w": 10,
-          "o": 19.2,
-          "inning": "China Inning 1"
-        }
-      ],
-      "series_id": "8dfe58aa-0fb2-468f-8e66-116e0d8359d6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e3f2674f-79c9-45d0-9aa3-119e439eb2fa",
-      "name": "Lesotho vs Mozambique, 2nd Match, Eswatini Tri Series, 2026",
-      "matchType": "t20",
-      "status": "Lesotho opt to bowl",
-      "venue": "Malkerns Country Club oval, Malkerns",
-      "date": "2026-06-02",
-      "dateTimeGMT": "2026-06-02T12:00:00",
-      "teams": [
-        "Lesotho",
-        "Mozambique"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
-        },
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 67,
-          "w": 3,
-          "o": 5,
-          "inning": "Mozambique Inning 1"
-        }
-      ],
-      "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "fbe45d3d-300d-49a4-925a-0bbd7cc626cc",
-      "name": "Eswatini vs Mozambique, 1st Match, Eswatini Tri Series, 2026",
-      "matchType": "t20",
-      "status": "Innings Break",
-      "venue": "Malkerns Country Club oval, Malkerns",
-      "date": "2026-06-02",
-      "dateTimeGMT": "2026-06-02T07:00:00",
-      "teams": [
-        "Eswatini",
-        "Mozambique"
-      ],
-      "teamInfo": [
-        {
-          "name": "Eswatini",
-          "shortname": "EWZ",
-          "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
-        },
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 237,
-          "w": 4,
-          "o": 20,
-          "inning": "eswatini Inning 1"
-        }
-      ],
-      "series_id": "7510a3b3-cfb5-4b0c-864e-e8473fb7d25f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "72fbf3aa-9b56-4f68-9b71-d9041dc9dec3",
-      "name": "Essex Women vs Lancashire Women, 17th Match, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Essex Women won by 6 wkts",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T10:30:00",
-      "teams": [
-        "Essex Women",
-        "Lancashire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Lancashire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 8,
-          "o": 20,
-          "inning": "Lancashire Women Inning 1"
-        },
-        {
-          "r": 132,
-          "w": 4,
-          "o": 17.5,
-          "inning": "Essex Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "63006784-efeb-4845-b9f0-840f1b1e0cf8",
-      "name": "Kent Women vs Gloucestershire Women, 11th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Gloucestershire Women won by 15 runs",
-      "venue": "St Lawrence Ground, Canterbury",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Kent Women",
-        "Gloucestershire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kent Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 6,
-          "o": 20,
-          "inning": "Gloucestershire Women Inning 1"
-        },
-        {
-          "r": 176,
-          "w": 5,
-          "o": 20,
-          "inning": "Kent Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "153f6bec-fca1-4547-beda-39d4520ffda6",
-      "name": "Northamptonshire Women vs Middlesex Women, 10th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Middlesex Women won by 7 wkts",
-      "venue": "County Ground, Northampton",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Northamptonshire Women",
-        "Middlesex Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Middlesex Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Northamptonshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 149,
-          "w": 6,
-          "o": 20,
-          "inning": "Northamptonshire Women Inning 1"
-        },
-        {
-          "r": 153,
-          "w": 3,
-          "o": 20,
-          "inning": "Middlesex Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fafd1499-b631-4480-a3a3-1ae3261b6266",
-      "name": "Worcestershire Women vs Derbyshire Women, 12th Match, Womens T20 Blast League Two 2026",
-      "matchType": "t20",
-      "status": "Derbyshire Women won by 7 wkts",
-      "venue": "New Road, Worcester",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T13:30:00",
-      "teams": [
-        "Worcestershire Women",
-        "Derbyshire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Worcestershire Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 9,
-          "o": 20,
-          "inning": "Worcestershire Women Inning 1"
-        },
-        {
-          "r": 112,
-          "w": 3,
-          "o": 17,
-          "inning": "Derbyshire Women Inning 1"
-        }
-      ],
-      "series_id": "380260d3-37fb-47e4-93b4-e35d198f6223",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "477a2001-cd54-4b61-8a4c-969f12890d7d",
-      "name": "China Women vs Nepal Women, 3rd Place Play-off, Asian Games Womens T20I Qualifier 2026",
-      "matchType": "t20",
-      "status": "China Women won by 5 wkts (DLS method)",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T01:30:00",
-      "teams": [
-        "China Women",
-        "Nepal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 50,
-          "w": 5,
-          "o": 7,
-          "inning": "Nepal Women Inning 1"
-        },
-        {
-          "r": 45,
-          "w": 5,
-          "o": 7,
-          "inning": "China Women Inning 1"
-        }
-      ],
-      "series_id": "ec6eb783-9865-4945-8355-e6c5a1911125",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "45f72a48-5eb6-4ce3-9447-50f36673050c",
-      "name": "North Mumbai Panthers vs Bandra Blasters, 5th Match, T20 Mumbai 2026",
-      "matchType": "t20",
-      "status": "Match tied (North Mumbai Panthers won the Super Over)",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T08:30:00",
-      "teams": [
-        "North Mumbai Panthers",
-        "Bandra Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bandra Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "North Mumbai Panthers",
-          "shortname": "NMP",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 228,
-          "w": 5,
-          "o": 20,
-          "inning": "Bandra Blasters Inning 1"
-        },
-        {
-          "r": 228,
-          "w": 8,
-          "o": 20,
-          "inning": "North Mumbai Panthers Inning 1"
-        }
-      ],
-      "series_id": "baee917f-8dfe-4f69-ab81-5ea245cfe47c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "182d11e6-db9d-4f56-a43a-52adb7b4d42a",
-      "name": "Royal Challengers Bengaluru vs Gujarat Titans, Final, Indian Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Challengers Bengaluru won by 5 wkts",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T14:00:00",
-      "teams": [
-        "Royal Challengers Bengaluru",
-        "Gujarat Titans"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat Titans",
-          "shortname": "GT",
-          "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
-        },
-        {
-          "name": "Royal Challengers Bengaluru",
-          "shortname": "RCBW",
-          "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 8,
-          "o": 20,
-          "inning": "Gujarat Titans Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 5,
-          "o": 18,
-          "inning": "Royal Challengers Bengaluru Inning 1"
-        }
-      ],
-      "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1873eb52-add6-4484-a7be-fc23b9a4f108",
-      "name": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women opt to bowl",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-05-08",
-      "dateTimeGMT": "2026-05-08T01:00:00",
-      "teams": [
-        "China Women",
-        "Malaysia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "series_id": "bcb2cd5b-7be6-4b10-bb81-c3166a14b8a0",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "91fffc6a-5443-47a4-bdb5-515d9adb6685",
-      "name": "Scotland Women vs Netherlands Women, 5th Match, Scotland Womens T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Scotland Women won by 24 runs (DLS Method)",
-      "venue": "Grange Cricket Club, Edinburgh",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T12:00:00",
-      "teams": [
-        "Scotland Women",
-        "Netherlands Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Netherlands Women",
-          "shortname": "NET-W",
-          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
-        },
-        {
-          "name": "Scotland Women",
-          "shortname": "SCOW",
-          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 124,
-          "w": 3,
-          "o": 12,
-          "inning": "Scotland Women Inning 1"
-        },
-        {
-          "r": 80,
-          "w": 6,
-          "o": 10,
-          "inning": "Netherlands Women Inning 1"
-        }
-      ],
-      "series_id": "8ca43880-dbff-44f7-99b2-a038b270ccbd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f2f37a2b-3a94-4d8b-9d52-61e043b0b782",
-      "name": "Bangladesh Women vs Netherlands Women, 3rd Match, Scotland Womens T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Netherlands Women won by 8 runs",
-      "venue": "Grange Cricket Club, Edinburgh",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T12:00:00",
-      "teams": [
-        "Bangladesh Women",
-        "Netherlands Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Netherlands Women",
-          "shortname": "NET-W",
-          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 162,
-          "w": 5,
-          "o": 20,
-          "inning": "Netherlands Women Inning 1"
-        },
-        {
-          "r": 154,
-          "w": 8,
-          "o": 20,
-          "inning": "Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "8ca43880-dbff-44f7-99b2-a038b270ccbd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "dabb15bb-113e-4f97-b8bd-5f562c66c304",
-      "name": "West Indies vs Sri Lanka, 1st ODI, Sri Lanka tour of West Indies 2026",
-      "status": "West Indies opt to bowl",
-      "venue": "Sabina Park, Kingston, Jamaica",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T14:00:00",
-      "teams": [
-        "West Indies",
-        "Sri Lanka"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 285,
-          "w": 4,
-          "o": 48.2,
-          "inning": "Sri Lanka Inning 1"
-        }
-      ],
-      "series_id": "cfb08428-4fd5-4d35-be9b-d18f73ae4d3a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "c3fbc669-5d8b-4df3-a50c-8c7c1af38570",
-      "name": "Pakistan Women vs West Indies Women, 5th Match, Womens Tri-Series in Ireland, 2026",
-      "matchType": "t20",
-      "status": "No result due to rain",
-      "venue": "Castle Avenue, Dublin",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T15:00:00",
-      "teams": [
-        "Pakistan Women",
-        "West Indies Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "West Indies Women",
-          "shortname": "WIW",
-          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 111,
-          "w": 7,
-          "o": 16.5,
-          "inning": "Pakistan Women Inning 1"
-        }
-      ],
-      "series_id": "a765cc61-8842-49cf-b0cd-8216a58bd60e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
