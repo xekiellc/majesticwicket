@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-06-04T10:53:02.961Z",
+  "lastUpdated": "2026-06-04T16:57:04.781Z",
   "recentMatches": [
+    {
+      "id": "6cfc4222-dae8-4111-ad8e-fac487ddb5ce",
+      "name": "Bhopal Leopards vs Indore Pink Panthers, 3rd Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Indore Pink Panthers need 95 runs in 64 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T14:00:00",
+      "teams": [
+        "Bhopal Leopards",
+        "Indore Pink Panthers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhopal Leopards",
+          "shortname": "BL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Indore Pink Panthers",
+          "shortname": "IPP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 174,
+          "w": 10,
+          "o": 20,
+          "inning": "bhopal leopards Inning 1"
+        },
+        {
+          "r": 80,
+          "w": 6,
+          "o": 9.2,
+          "inning": "Bhopal Leopards,Indore Pink Panthers Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "5854dab2-4395-4e34-a756-a33e6deed289",
       "name": "Malwa Stallions vs Chambal Ghariyals, 2nd Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Chambal Ghariyals opt to bowl",
+      "status": "Chambal Ghariyals won by 6 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T09:30:00",
@@ -26,10 +71,16 @@
       ],
       "score": [
         {
-          "r": 59,
-          "w": 4,
-          "o": 9,
+          "r": 154,
+          "w": 7,
+          "o": 20,
           "inning": "Malwa Stallions Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 4,
+          "o": 15.4,
+          "inning": "Chambal Ghariyals Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -37,7 +88,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b0fbe45d-2ecc-45e3-a332-03e37c768871",
@@ -87,7 +138,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 1: 1st Session - New Zealand opt to bowl",
+      "status": "Day 1: 3rd Session - New Zealand trail by 135 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -109,10 +160,16 @@
       ],
       "score": [
         {
-          "r": 24,
-          "w": 1,
-          "o": 10,
+          "r": 140,
+          "w": 10,
+          "o": 39.4,
           "inning": "England Inning 1"
+        },
+        {
+          "r": 5,
+          "w": 3,
+          "o": 2.5,
+          "inning": "New Zealand Inning 1"
         }
       ],
       "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
@@ -614,7 +671,7 @@
       "id": "ee74e052-f1a0-4c80-8117-59b07b3e2c02",
       "name": "Bhutan Women vs Hong Kong, China Women, 8th Match, Group D, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Hong Kong, China Women won by 14 runs",
+      "status": "Hong Kong, China Women opt to bat",
       "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
       "date": "2026-06-03",
       "dateTimeGMT": "2026-06-03T06:00:00",
@@ -1050,51 +1107,6 @@
           "w": 4,
           "o": 17.2,
           "inning": "Nottinghamshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4de0125b-aea3-4933-b5f5-085ae03819d9",
-      "name": "Warwickshire vs Northamptonshire, 30th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Northamptonshire won by 6 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T00:00:00",
-      "teams": [
-        "Warwickshire",
-        "Northamptonshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 208,
-          "w": 7,
-          "o": 20,
-          "inning": "warwickshire Inning 1"
-        },
-        {
-          "r": 209,
-          "w": 4,
-          "o": 19.2,
-          "inning": "Warwickshire,Northamptonshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
