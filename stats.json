@@ -1,6 +1,44 @@
 {
-  "lastUpdated": "2026-06-04T06:48:18.404Z",
+  "lastUpdated": "2026-06-04T10:53:02.961Z",
   "recentMatches": [
+    {
+      "id": "5854dab2-4395-4e34-a756-a33e6deed289",
+      "name": "Malwa Stallions vs Chambal Ghariyals, 2nd Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Chambal Ghariyals opt to bowl",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T09:30:00",
+      "teams": [
+        "Malwa Stallions",
+        "Chambal Ghariyals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malwa Stallions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 59,
+          "w": 4,
+          "o": 9,
+          "inning": "Malwa Stallions Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "b0fbe45d-2ecc-45e3-a332-03e37c768871",
       "name": "Gwalior Cheetahs vs Ujjain Falcons, 1st Match, Madhya Pradesh Premier League 2026",
@@ -46,10 +84,49 @@
       "matchEnded": true
     },
     {
+      "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
+      "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
+      "matchType": "test",
+      "status": "Day 1: 1st Session - New Zealand opt to bowl",
+      "venue": "Lord's, London",
+      "date": "2026-06-04",
+      "dateTimeGMT": "2026-06-04T10:00:00",
+      "teams": [
+        "England",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 24,
+          "w": 1,
+          "o": 10,
+          "inning": "England Inning 1"
+        }
+      ],
+      "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "00c1ee82-9553-40ac-85fd-2c9071f41539",
       "name": "Hong Kong, China Women vs Qatar Women, 16th Match, Group D, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Qatar Women opt to bowl",
+      "status": "Hong Kong, China Women won by 83 runs",
       "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T06:00:00",
@@ -63,18 +140,32 @@
           "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 164,
+          "w": 3,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 81,
+          "w": 10,
+          "o": 17.2,
+          "inning": " Inning 1"
+        }
+      ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "63a47585-23d7-42e2-b9b7-7ee613b8834c",
       "name": "Indonesia Women vs Kuwait Women, 15th Match, Group C, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Indonesia Women opt to bowl",
+      "status": "Indonesia Women won by 10 wkts",
       "venue": "Selangor Turf Club, Kuala Lumpur",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T06:00:00",
@@ -94,18 +185,32 @@
           "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 60,
+          "w": 9,
+          "o": 20,
+          "inning": "Kuwait Women Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 0,
+          "o": 8.5,
+          "inning": "Indonesia Women Inning 1"
+        }
+      ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "66e80ab7-647c-413c-8de3-b4760bbd2e22",
       "name": "Philippines Women vs Saudi Arabia Women, 14th Match, Group B, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Philippines Women opt to bat",
+      "status": "Philippines Women won by 133 runs",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T06:00:00",
@@ -124,18 +229,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 203,
+          "w": 5,
+          "o": 20,
+          "inning": "philippines women Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 9,
+          "o": 20,
+          "inning": "Philippines Women,Saudi Arabia Women Inning 1"
+        }
+      ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6c9a88fe-5eda-4367-a530-5b34bff260c2",
       "name": "Japan Women vs Mongolia Women, 13th Match, Group A, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Mongolia Women opt to bowl",
+      "status": "Japan Women won by 116 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T06:00:00",
@@ -155,12 +274,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 188,
+          "w": 4,
+          "o": 20,
+          "inning": "Japan Women Inning 1"
+        },
+        {
+          "r": 72,
+          "w": 8,
+          "o": 20,
+          "inning": "Mongolia Women Inning 1"
+        }
+      ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e89e9abc-973f-4dd5-8bb7-372f487bd8c5",
@@ -962,96 +1095,6 @@
           "w": 4,
           "o": 19.2,
           "inning": "Warwickshire,Northamptonshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9c5ff4d7-9faf-4dab-b244-9e8927cb7760",
-      "name": "Yorkshire vs Gloucestershire, 31st Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Gloucestershire won by 56 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T00:00:00",
-      "teams": [
-        "Yorkshire",
-        "Gloucestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 217,
-          "w": 6,
-          "o": 20,
-          "inning": "gloucestershire Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 10,
-          "o": 17.4,
-          "inning": "Yorkshire,Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "dcd4507d-398b-415d-a847-c20d3c5ed563",
-      "name": "Middlesex vs Hampshire, 33rd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Hampshire won by 8 wkts",
-      "venue": "Merchant Taylors' School Ground, Northwood",
-      "date": "2026-05-31",
-      "dateTimeGMT": "2026-05-31T00:00:00",
-      "teams": [
-        "Middlesex",
-        "Hampshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 7,
-          "o": 20,
-          "inning": "Middlesex Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 2,
-          "o": 14,
-          "inning": "Hampshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
