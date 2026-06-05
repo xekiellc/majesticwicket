@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-06-05T06:37:16.607Z",
+  "lastUpdated": "2026-06-05T11:16:24.369Z",
   "recentMatches": [
+    {
+      "id": "ec04e800-6083-4169-aa04-38a0939933e3",
+      "name": "Gwalior Cheetahs vs Bhopal Leopards, 4th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Match reduced to 18 ovs due to wet outfield - Gwalior Cheetahs opt to bat",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-05",
+      "dateTimeGMT": "2026-06-05T09:30:00",
+      "teams": [
+        "Gwalior Cheetahs",
+        "Bhopal Leopards"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhopal Leopards",
+          "shortname": "BL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 2,
+          "o": 12,
+          "inning": "gwalior cheetahs Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "6cfc4222-dae8-4111-ad8e-fac487ddb5ce",
       "name": "Bhopal Leopards vs Indore Pink Panthers, 3rd Match, Madhya Pradesh Premier League 2026",
@@ -138,7 +177,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - New Zealand trail by 79 runs",
+      "status": "Day 2: Innings Break - New Zealand trail by 27 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -166,9 +205,9 @@
           "inning": "England Inning 1"
         },
         {
-          "r": 61,
-          "w": 6,
-          "o": 19.2,
+          "r": 113,
+          "w": 10,
+          "o": 29.5,
           "inning": "New Zealand Inning 1"
         }
       ],
@@ -1062,51 +1101,6 @@
           "w": 6,
           "o": 41.5,
           "inning": "Pakistan,Australia Inning 1"
-        }
-      ],
-      "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "55022c26-a190-40ad-95b1-6be787604810",
-      "name": "Pakistan vs Australia, 2nd ODI, Australia tour of Pakistan 2026",
-      "matchType": "odi",
-      "status": "Australia won by 41 runs",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-06-02",
-      "dateTimeGMT": "2026-06-02T11:30:00",
-      "teams": [
-        "Pakistan",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 231,
-          "w": 9,
-          "o": 50,
-          "inning": "Australia Inning 1"
-        },
-        {
-          "r": 190,
-          "w": 10,
-          "o": 44,
-          "inning": "Pakistan Inning 1"
         }
       ],
       "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
