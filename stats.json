@@ -1,11 +1,48 @@
 {
-  "lastUpdated": "2026-06-05T11:16:24.369Z",
+  "lastUpdated": "2026-06-05T16:32:18.551Z",
   "recentMatches": [
+    {
+      "id": "29e5e45b-29b2-4e63-b64c-ef1b5f3c049f",
+      "name": "Ujjain Falcons vs Malwa Stallions, 5th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-05",
+      "dateTimeGMT": "2026-06-05T14:00:00",
+      "teams": [
+        "Ujjain Falcons",
+        "Malwa Stallions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malwa Stallions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 206,
+          "w": 8,
+          "o": 20,
+          "inning": "ujjain falcons Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "ec04e800-6083-4169-aa04-38a0939933e3",
       "name": "Gwalior Cheetahs vs Bhopal Leopards, 4th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Match reduced to 18 ovs due to wet outfield - Gwalior Cheetahs opt to bat",
+      "status": "Gwalior Cheetahs won by 12 runs (18 overs match due to wet outfield)",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-05",
       "dateTimeGMT": "2026-06-05T09:30:00",
@@ -27,10 +64,16 @@
       ],
       "score": [
         {
-          "r": 141,
-          "w": 2,
-          "o": 12,
+          "r": 220,
+          "w": 6,
+          "o": 18,
           "inning": "gwalior cheetahs Inning 1"
+        },
+        {
+          "r": 208,
+          "w": 7,
+          "o": 18,
+          "inning": "Gwalior Cheetahs,Bhopal Leopards Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -38,7 +81,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6cfc4222-dae8-4111-ad8e-fac487ddb5ce",
@@ -177,7 +220,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 2: Innings Break - New Zealand trail by 27 runs",
+      "status": "Day 2: 3rd Session - England lead by 241 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -209,6 +252,12 @@
           "w": 10,
           "o": 29.5,
           "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 214,
+          "w": 8,
+          "o": 50.3,
+          "inning": "England Inning 2"
         }
       ],
       "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
@@ -931,6 +980,37 @@
       "matchEnded": true
     },
     {
+      "id": "b451bc04-3364-46b6-8c87-b6caa7e53a00",
+      "name": "Worcestershire vs Glamorgan, 43rd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Glamorgan opt to bowl",
+      "venue": "New Road, Worcester",
+      "date": "2026-06-05",
+      "dateTimeGMT": "2026-06-05T16:30:00",
+      "teams": [
+        "Worcestershire",
+        "Glamorgan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "0416de6f-c383-4fea-9966-16e42d969378",
       "name": "Somerset vs Glamorgan, 37th Match, T20 Blast 2026",
       "matchType": "t20",
@@ -1014,96 +1094,6 @@
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "361c8e3d-f1f5-4e80-91a9-b0fe0e055ac2",
-      "name": "Hampshire vs Sussex, 35th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Hampshire won by 29 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-06-02",
-      "dateTimeGMT": "2026-06-02T18:00:00",
-      "teams": [
-        "Hampshire",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 173,
-          "w": 6,
-          "o": 20,
-          "inning": "Hampshire Inning 1"
-        },
-        {
-          "r": 144,
-          "w": 10,
-          "o": 17.3,
-          "inning": "Sussex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "28904fcb-3cab-460e-a4e8-5cd5fa733d67",
-      "name": "Pakistan vs Australia, 3rd ODI, Australia tour of Pakistan 2026",
-      "matchType": "odi",
-      "status": "Pakistan won by 4 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T11:30:00",
-      "teams": [
-        "Pakistan",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 157,
-          "w": 10,
-          "o": 42,
-          "inning": "australia Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 6,
-          "o": 41.5,
-          "inning": "Pakistan,Australia Inning 1"
-        }
-      ],
-      "series_id": "71753f7b-841a-4e7d-aa16-86f2a4ec75be",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
