@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T21:44:25.002Z",
+  "lastUpdated": "2026-06-05T06:37:16.607Z",
   "recentMatches": [
     {
       "id": "6cfc4222-dae8-4111-ad8e-fac487ddb5ce",
@@ -895,7 +895,7 @@
       "id": "0416de6f-c383-4fea-9966-16e42d969378",
       "name": "Somerset vs Glamorgan, 37th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Glamorgan need 135 runs in 72 balls",
+      "status": "Glamorgan won by 4 wkts",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T18:00:00",
@@ -923,9 +923,9 @@
           "inning": "Somerset Inning 1"
         },
         {
-          "r": 68,
-          "w": 3,
-          "o": 8,
+          "r": 203,
+          "w": 6,
+          "o": 20,
           "inning": "Glamorgan Inning 1"
         }
       ],
@@ -934,7 +934,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1be42d03-37bb-493d-be80-7ecc51e79551",
