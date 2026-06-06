@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T21:27:54.966Z",
+  "lastUpdated": "2026-06-06T05:58:35.319Z",
   "recentMatches": [
     {
       "id": "29e5e45b-29b2-4e63-b64c-ef1b5f3c049f",
@@ -276,6 +276,186 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "15be9069-db04-4f87-aa36-6355ca4ef1e5",
+      "name": "Malaysia Women vs Indonesia Women, 17th Match, Group C, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 6 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T01:30:00",
+      "teams": [
+        "Malaysia Women",
+        "Indonesia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        },
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 87,
+          "w": 6,
+          "o": 20,
+          "inning": "Malaysia Women Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 4,
+          "o": 18.1,
+          "inning": "Indonesia Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1c4ce7a2-fb03-4e66-a1d1-64ebd179ead7",
+      "name": "China Women vs Philippines Women, 18th Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "China Women won by 8 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T01:30:00",
+      "teams": [
+        "China Women",
+        "Philippines Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Philippines Women",
+          "shortname": "PHW",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 6,
+          "o": 20,
+          "inning": "philippines women Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 2,
+          "o": 13.3,
+          "inning": "China Women,Philippines Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a58e0910-5164-4576-9e96-e3ba0def04fc",
+      "name": "Japan Women vs Myanmar Women, 19th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Japan Women won by 12 runs",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T01:30:00",
+      "teams": [
+        "Japan Women",
+        "Myanmar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        },
+        {
+          "name": "Myanmar Women",
+          "shortname": "MYW",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 106,
+          "w": 4,
+          "o": 20,
+          "inning": "Japan Women Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 7,
+          "o": 20,
+          "inning": "Myanmar Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b2344ef3-c667-441f-9b92-56133a512b11",
+      "name": "Bhutan Women vs Qatar Women, 20th Match, Group D, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Bhutan Women need 26 runs in 38 balls",
+      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T01:30:00",
+      "teams": [
+        "Bhutan Women",
+        "Qatar Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan Women",
+          "shortname": "BHU-W",
+          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
+        },
+        {
+          "name": "Qatar Women",
+          "shortname": "QAT-W",
+          "img": "https://g.cricapi.com/iapi/1578-637914186206691459.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 99,
+          "w": 7,
+          "o": 20,
+          "inning": "Qatar Women Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 3,
+          "o": 13.4,
+          "inning": "Bhutan Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
     },
@@ -940,186 +1120,6 @@
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "21183494-3fda-4914-980f-b42f348b12bf",
-      "name": "Malaysia Women vs Kuwait Women, 1st Match, Group C, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women won by 9 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T01:30:00",
-      "teams": [
-        "Malaysia Women",
-        "Kuwait Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait Women",
-          "shortname": "KU-W",
-          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 7,
-          "o": 20,
-          "inning": "malaysia women Inning 1"
-        },
-        {
-          "r": 93,
-          "w": 7,
-          "o": 20,
-          "inning": "Malaysia Women,Kuwait Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ac2ad14c-bef9-4524-ae3d-d6f466cee596",
-      "name": "Yorkshire vs Lancashire, 38th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Yorkshire won by 106 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-06-05",
-      "dateTimeGMT": "2026-06-05T18:00:00",
-      "teams": [
-        "Yorkshire",
-        "Lancashire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 213,
-          "w": 7,
-          "o": 20,
-          "inning": "Yorkshire Inning 1"
-        },
-        {
-          "r": 107,
-          "w": 10,
-          "o": 14.3,
-          "inning": "Lancashire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "876aba15-8fc7-4836-9ba3-67785bdbb5dc",
-      "name": "Sussex vs Leicestershire, 40th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Leicestershire won by 4 wkts",
-      "venue": "County Ground, Hove",
-      "date": "2026-06-05",
-      "dateTimeGMT": "2026-06-05T18:00:00",
-      "teams": [
-        "Sussex",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 179,
-          "w": 10,
-          "o": 19.5,
-          "inning": "sussex Inning 1"
-        },
-        {
-          "r": 180,
-          "w": 6,
-          "o": 17.4,
-          "inning": "Sussex,Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f50f4445-607e-49d6-be94-954a77eba0f7",
-      "name": "Gloucestershire vs Somerset, 41st Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Gloucestershire won by 7 wkts",
-      "venue": "County Ground, Bristol",
-      "date": "2026-06-05",
-      "dateTimeGMT": "2026-06-05T18:00:00",
-      "teams": [
-        "Gloucestershire",
-        "Somerset"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 137,
-          "w": 8,
-          "o": 20,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 3,
-          "o": 14.1,
-          "inning": "Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
