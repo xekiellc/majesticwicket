@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-06-06T05:58:35.319Z",
+  "lastUpdated": "2026-06-06T09:51:40.323Z",
   "recentMatches": [
+    {
+      "id": "57ea0afb-b7aa-45c1-a6f1-455be3bf84ff",
+      "name": "Bundelkhand Bulls vs Rewa Jaguars, 6th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Rewa Jaguars opt to bowl",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T09:30:00",
+      "teams": [
+        "Bundelkhand Bulls",
+        "Rewa Jaguars"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 24,
+          "w": 2,
+          "o": 3,
+          "inning": "Bundelkhand Bulls Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "29e5e45b-29b2-4e63-b64c-ef1b5f3c049f",
       "name": "Ujjain Falcons vs Malwa Stallions, 5th Match, Madhya Pradesh Premier League 2026",
@@ -280,6 +319,185 @@
       "matchEnded": false
     },
     {
+      "id": "f7477d5b-ad33-4226-9f32-e81087c85786",
+      "name": "Bahrain Women vs Mongolia Women, 21st Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Mongolia Women won by 3 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T06:00:00",
+      "teams": [
+        "Bahrain Women",
+        "Mongolia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain Women",
+          "shortname": "BAH-W",
+          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
+        },
+        {
+          "name": "Mongolia Women",
+          "shortname": "MW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 97,
+          "w": 10,
+          "o": 18.2,
+          "inning": "bahrain women Inning 1"
+        },
+        {
+          "r": 98,
+          "w": 7,
+          "o": 14.3,
+          "inning": "Bahrain Women,Mongolia Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b7d9c1ed-322e-4bc1-b7ad-815ee569cfa9",
+      "name": "Oman Women vs Saudi Arabia Women, 22nd Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Oman Women won by 10 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T06:00:00",
+      "teams": [
+        "Oman Women",
+        "Saudi Arabia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman Women",
+          "shortname": "OMN-W",
+          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
+        },
+        {
+          "name": "Saudi Arabia Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 38,
+          "w": 10,
+          "o": 13.4,
+          "inning": "Saudi Arabia Women Inning 1"
+        },
+        {
+          "r": 39,
+          "w": 0,
+          "o": 3.2,
+          "inning": "Oman Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a293171b-c3da-4695-8481-ae66dee81c00",
+      "name": "Kuwait Women vs Singapore Women, 23rd Match, Group C, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Kuwait Women won by 10 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T06:00:00",
+      "teams": [
+        "Kuwait Women",
+        "Singapore Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait Women",
+          "shortname": "KU-W",
+          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
+        },
+        {
+          "name": "Singapore Women",
+          "shortname": "SIN-W",
+          "img": "https://g.cricapi.com/iapi/1553-637926305464374356.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 94,
+          "w": 6,
+          "o": 20,
+          "inning": "Singapore Women Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 0,
+          "o": 15.2,
+          "inning": "Kuwait Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cc476df4-a545-4b63-8eb4-05a1d7f934d2",
+      "name": "Nepal Women vs Hong Kong, China Women, 24th Match, Group D, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China Women won by 69 runs",
+      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T06:00:00",
+      "teams": [
+        "Nepal Women",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Nepal Women",
+          "shortname": "NEPW",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 3,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 40,
+          "w": 10,
+          "o": 13.3,
+          "inning": "Nepal Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "15be9069-db04-4f87-aa36-6355ca4ef1e5",
       "name": "Malaysia Women vs Indonesia Women, 17th Match, Group C, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
@@ -418,7 +636,7 @@
       "id": "b2344ef3-c667-441f-9b92-56133a512b11",
       "name": "Bhutan Women vs Qatar Women, 20th Match, Group D, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Bhutan Women need 26 runs in 38 balls",
+      "status": "Bhutan Women won by 5 wkts",
       "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
       "date": "2026-06-06",
       "dateTimeGMT": "2026-06-06T01:30:00",
@@ -446,9 +664,9 @@
           "inning": "Qatar Women Inning 1"
         },
         {
-          "r": 74,
-          "w": 3,
-          "o": 13.4,
+          "r": 100,
+          "w": 5,
+          "o": 18.3,
           "inning": "Bhutan Women Inning 1"
         }
       ],
@@ -457,7 +675,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "00c1ee82-9553-40ac-85fd-2c9071f41539",
@@ -893,230 +1111,6 @@
           "w": 10,
           "o": 18.4,
           "inning": "China Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "96f3e5ea-d823-4996-9fa9-009efbca75a4",
-      "name": "Indonesia Women vs Singapore Women, 7th Match, Group C, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 8 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T06:00:00",
-      "teams": [
-        "Indonesia Women",
-        "Singapore Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        },
-        {
-          "name": "Singapore Women",
-          "shortname": "SIN-W",
-          "img": "https://g.cricapi.com/iapi/1553-637926305464374356.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 82,
-          "w": 7,
-          "o": 20,
-          "inning": "singapore women Inning 1"
-        },
-        {
-          "r": 83,
-          "w": 2,
-          "o": 10.5,
-          "inning": "Indonesia Women,Singapore Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ee74e052-f1a0-4c80-8117-59b07b3e2c02",
-      "name": "Bhutan Women vs Hong Kong, China Women, 8th Match, Group D, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China Women won by 14 runs",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T06:00:00",
-      "teams": [
-        "Bhutan Women",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhutan Women",
-          "shortname": "BHU-W",
-          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
-        },
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 133,
-          "w": 3,
-          "o": 20,
-          "inning": "hong kong, china women Inning 1"
-        },
-        {
-          "r": 119,
-          "w": 6,
-          "o": 20,
-          "inning": "Bhutan Women,Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e566b841-5063-4327-a7de-4acf2f628529",
-      "name": "Nepal Women vs Qatar Women, 4th Match, Group D, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Nepal Women won by 8 wkts",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T01:30:00",
-      "teams": [
-        "Nepal Women",
-        "Qatar Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Qatar Women",
-          "shortname": "QAT-W",
-          "img": "https://g.cricapi.com/iapi/1578-637914186206691459.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 76,
-          "w": 10,
-          "o": 16.5,
-          "inning": "Qatar Women Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 2,
-          "o": 10.5,
-          "inning": "Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0c1e9887-9131-4965-ba20-558307d38ce3",
-      "name": "Mongolia Women vs Thailand Women, 3rd Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Thailand Women won by 10 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T01:30:00",
-      "teams": [
-        "Mongolia Women",
-        "Thailand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mongolia Women",
-          "shortname": "MW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Thailand Women",
-          "shortname": "THW",
-          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 19,
-          "w": 10,
-          "o": 9.2,
-          "inning": "mongolia women Inning 1"
-        },
-        {
-          "r": 21,
-          "w": 0,
-          "o": 2.2,
-          "inning": "Mongolia Women,Thailand Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "263f1623-96ef-49ce-983a-e1b4e06ab28e",
-      "name": "Saudi Arabia Women vs United Arab Emirates Women, 2nd Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "United Arab Emirates Women won by 10 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T01:30:00",
-      "teams": [
-        "Saudi Arabia Women",
-        "United Arab Emirates Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Saudi Arabia Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "United Arab Emirates Women",
-          "shortname": "UAEW",
-          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 25,
-          "w": 10,
-          "o": 15.3,
-          "inning": "saudi arabia women Inning 1"
-        },
-        {
-          "r": 30,
-          "w": 0,
-          "o": 0.5,
-          "inning": "Saudi Arabia Women,United Arab Emirates Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
