@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-06-06T15:20:21.738Z",
+  "lastUpdated": "2026-06-06T21:08:58.813Z",
   "recentMatches": [
+    {
+      "id": "cb728e55-fcb1-4814-a3cf-a7433b0e7666",
+      "name": "Canada vs United States of America, 110th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United States of America need 230 runs - Match reduced to 45 overs due to rain",
+      "venue": "Maple Leaf North-West Ground, King City",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T00:00:00",
+      "teams": [
+        "Canada",
+        "United States of America"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 231,
+          "w": 8,
+          "o": 45,
+          "inning": "Canada Inning 1"
+        },
+        {
+          "r": 2,
+          "w": 0,
+          "o": 0.3,
+          "inning": "United States of America Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "d55c009b-fda8-4c46-b873-a3d4fef34c86",
       "name": "Indore Pink Panthers vs Jabalpur Royal Lions, 7th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Jabalpur Royal Lions opt to bowl",
+      "status": "Jabalpur Royal Lions won by 5 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-06",
       "dateTimeGMT": "2026-06-06T14:00:00",
@@ -27,10 +72,16 @@
       ],
       "score": [
         {
-          "r": 100,
-          "w": 6,
-          "o": 13.5,
+          "r": 148,
+          "w": 8,
+          "o": 20,
           "inning": "Indore Pink Panthers Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 5,
+          "o": 18,
+          "inning": "Jabalpur Royal Lions Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -38,7 +89,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "57ea0afb-b7aa-45c1-a6f1-455be3bf84ff",
@@ -310,7 +361,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 3: Rain stops play - New Zealand need 199 runs",
+      "status": "Day 3: Stumps - New Zealand need 199 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -1066,51 +1117,6 @@
           "w": 8,
           "o": 20,
           "inning": "Bhutan Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "00c725b8-5b5b-48d7-af9c-bc32cc586712",
-      "name": "Bahrain Women vs Myanmar Women, 5th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Myanmar Women won by 8 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T06:00:00",
-      "teams": [
-        "Bahrain Women",
-        "Myanmar Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain Women",
-          "shortname": "BAH-W",
-          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
-        },
-        {
-          "name": "Myanmar Women",
-          "shortname": "MYW",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 64,
-          "w": 10,
-          "o": 19.5,
-          "inning": "bahrain women Inning 1"
-        },
-        {
-          "r": 65,
-          "w": 2,
-          "o": 12.4,
-          "inning": "Bahrain Women,Myanmar Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
