@@ -1,6 +1,186 @@
 {
-  "lastUpdated": "2026-06-07T06:35:31.240Z",
+  "lastUpdated": "2026-06-07T10:19:07.895Z",
   "recentMatches": [
+    {
+      "id": "5874fb47-1eb0-4a64-8e30-2e8ae0537216",
+      "name": "New Zealand Women vs Bangladesh Women, 4th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "New Zealand Women won by 68 runs",
+      "venue": "Haslegrave Ground, Loughborough",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T00:00:00",
+      "teams": [
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 193,
+          "w": 3,
+          "o": 20,
+          "inning": "New Zealand Women Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 8,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "204ae4b6-20b6-4c3f-a14a-55884c2cd64e",
+      "name": "Sri Lanka Women vs Pakistan Women, 3rd Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 9 wkts",
+      "venue": "County Ground, Derby",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Pakistan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 168,
+          "w": 8,
+          "o": 20,
+          "inning": "pakistan women Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 1,
+          "o": 18.3,
+          "inning": "Sri Lanka Women,Pakistan Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a525644f-0d39-4905-9c4f-df8cda4a0014",
+      "name": "South Africa Women vs Ireland Women, 2nd Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "South Africa Women won by 15 runs - 18 Overs game due to rain",
+      "venue": "Haslegrave Ground, Loughborough",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T00:00:00",
+      "teams": [
+        "South Africa Women",
+        "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 135,
+          "w": 8,
+          "o": 18,
+          "inning": "South Africa Women Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 10,
+          "o": 17.4,
+          "inning": "Ireland Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9186f5b8-7558-4875-a3ef-8e6e41e2f437",
+      "name": "Netherlands Women vs Scotland Women, 1st Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "Scotland Women won by 58 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-06-06",
+      "dateTimeGMT": "2026-06-06T00:00:00",
+      "teams": [
+        "Netherlands Women",
+        "Scotland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
+        },
+        {
+          "name": "Scotland Women",
+          "shortname": "SCOW",
+          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 163,
+          "w": 5,
+          "o": 20,
+          "inning": "Scotland Women Inning 1"
+        },
+        {
+          "r": 105,
+          "w": 10,
+          "o": 20,
+          "inning": "Netherlands Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "cb728e55-fcb1-4814-a3cf-a7433b0e7666",
       "name": "Canada vs United States of America, 110th Match, ICC Cricket World Cup League Two 2023-27",
@@ -45,6 +225,82 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "c4b593dd-fe9b-4eac-9f2e-3b53fc839ccc",
+      "name": "Royal Nimar Eagles vs Chambal Ghariyals, 9th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Chambal Ghariyals opt to bowl",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T09:30:00",
+      "teams": [
+        "Royal Nimar Eagles",
+        "Chambal Ghariyals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Nimar Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 37,
+          "w": 2,
+          "o": 6,
+          "inning": "Royal Nimar Eagles Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d4830ca0-605e-44c3-a3e5-a635077476ca",
+      "name": "Malwa Stallions vs Gwalior Cheetahs, 8th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Malwa Stallions opt to bowl",
+      "venue": "Daly College Ground, Indore",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T09:30:00",
+      "teams": [
+        "Malwa Stallions",
+        "Gwalior Cheetahs"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malwa Stallions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 80,
+          "w": 3,
+          "o": 9,
+          "inning": "malwa stallions Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "d55c009b-fda8-4c46-b873-a3d4fef34c86",
@@ -361,7 +617,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - New Zealand need 199 runs",
+      "status": "Day 4: 1st Session - New Zealand need 183 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -401,9 +657,9 @@
           "inning": "England Inning 2"
         },
         {
-          "r": 55,
-          "w": 5,
-          "o": 21.3,
+          "r": 71,
+          "w": 6,
+          "o": 23.5,
           "inning": "New Zealand Inning 2"
         }
       ],
@@ -418,7 +674,7 @@
       "id": "27fdbfb2-856c-4491-bbe0-a92bff7e4702",
       "name": "Oman Women vs Philippines Women, 28th Match, Group B, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Philippines Women opt to bowl",
+      "status": "Oman Women won by 44 runs",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-06-07",
       "dateTimeGMT": "2026-06-07T06:00:00",
@@ -440,24 +696,30 @@
       ],
       "score": [
         {
-          "r": 7,
-          "w": 0,
-          "o": 1,
+          "r": 141,
+          "w": 6,
+          "o": 20,
           "inning": "Oman Women Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 8,
+          "o": 20,
+          "inning": "Philippines Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "07105ba1-e1ec-482d-bcc7-bb93e095b057",
       "name": "Bahrain Women vs Japan Women, 27th Match, Group A, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Japan Women opt to bat",
+      "status": "Japan Women won by 48 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-06-07",
       "dateTimeGMT": "2026-06-07T06:00:00",
@@ -477,12 +739,26 @@
           "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 142,
+          "w": 5,
+          "o": 20,
+          "inning": "japan women Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 3,
+          "o": 20,
+          "inning": "Bahrain Women,Japan Women Inning 1"
+        }
+      ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "77902d99-5d2b-451a-ad2f-34ec2cb14ff6",
@@ -834,269 +1110,6 @@
           "w": 2,
           "o": 13.3,
           "inning": "China Women,Philippines Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a58e0910-5164-4576-9e96-e3ba0def04fc",
-      "name": "Japan Women vs Myanmar Women, 19th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Japan Women won by 12 runs",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T01:30:00",
-      "teams": [
-        "Japan Women",
-        "Myanmar Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Japan Women",
-          "shortname": "JPW",
-          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
-        },
-        {
-          "name": "Myanmar Women",
-          "shortname": "MYW",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 106,
-          "w": 4,
-          "o": 20,
-          "inning": "Japan Women Inning 1"
-        },
-        {
-          "r": 94,
-          "w": 7,
-          "o": 20,
-          "inning": "Myanmar Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b2344ef3-c667-441f-9b92-56133a512b11",
-      "name": "Bhutan Women vs Qatar Women, 20th Match, Group D, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Bhutan Women won by 5 wkts",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T01:30:00",
-      "teams": [
-        "Bhutan Women",
-        "Qatar Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhutan Women",
-          "shortname": "BHU-W",
-          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
-        },
-        {
-          "name": "Qatar Women",
-          "shortname": "QAT-W",
-          "img": "https://g.cricapi.com/iapi/1578-637914186206691459.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 99,
-          "w": 7,
-          "o": 20,
-          "inning": "Qatar Women Inning 1"
-        },
-        {
-          "r": 100,
-          "w": 5,
-          "o": 18.3,
-          "inning": "Bhutan Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "00c1ee82-9553-40ac-85fd-2c9071f41539",
-      "name": "Hong Kong, China Women vs Qatar Women, 16th Match, Group D, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China Women won by 83 runs",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T06:00:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 164,
-          "w": 3,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 81,
-          "w": 10,
-          "o": 17.2,
-          "inning": " Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "63a47585-23d7-42e2-b9b7-7ee613b8834c",
-      "name": "Indonesia Women vs Kuwait Women, 15th Match, Group C, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 10 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T06:00:00",
-      "teams": [
-        "Indonesia Women",
-        "Kuwait Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        },
-        {
-          "name": "Kuwait Women",
-          "shortname": "KU-W",
-          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 60,
-          "w": 9,
-          "o": 20,
-          "inning": "Kuwait Women Inning 1"
-        },
-        {
-          "r": 61,
-          "w": 0,
-          "o": 8.5,
-          "inning": "Indonesia Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "66e80ab7-647c-413c-8de3-b4760bbd2e22",
-      "name": "Philippines Women vs Saudi Arabia Women, 14th Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Philippines Women won by 133 runs",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T06:00:00",
-      "teams": [
-        "Philippines Women",
-        "Saudi Arabia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Philippines Women",
-          "shortname": "PHW",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        },
-        {
-          "name": "Saudi Arabia Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 5,
-          "o": 20,
-          "inning": "philippines women Inning 1"
-        },
-        {
-          "r": 70,
-          "w": 9,
-          "o": 20,
-          "inning": "Philippines Women,Saudi Arabia Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6c9a88fe-5eda-4367-a530-5b34bff260c2",
-      "name": "Japan Women vs Mongolia Women, 13th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Japan Women won by 116 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T06:00:00",
-      "teams": [
-        "Japan Women",
-        "Mongolia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Japan Women",
-          "shortname": "JPW",
-          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
-        },
-        {
-          "name": "Mongolia Women",
-          "shortname": "MW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 188,
-          "w": 4,
-          "o": 20,
-          "inning": "Japan Women Inning 1"
-        },
-        {
-          "r": 72,
-          "w": 8,
-          "o": 20,
-          "inning": "Mongolia Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
