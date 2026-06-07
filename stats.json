@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-07T15:26:57.867Z",
+  "lastUpdated": "2026-06-07T21:18:26.541Z",
   "recentMatches": [
+    {
+      "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
+      "name": "Eswatini vs Mozambique, Final, Eswatini Tri Series, 2026",
+      "matchType": "t20",
+      "status": "Eswatini won by 6 wkts",
+      "venue": "Malkerns Country Club oval, Malkerns",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T00:00:00",
+      "teams": [
+        "Eswatini",
+        "Mozambique"
+      ],
+      "teamInfo": [
+        {
+          "name": "Eswatini",
+          "shortname": "EWZ",
+          "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
+        },
+        {
+          "name": "Mozambique",
+          "shortname": "MOZ",
+          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 191,
+          "w": 8,
+          "o": 20,
+          "inning": "mozambique Inning 1"
+        },
+        {
+          "r": 195,
+          "w": 4,
+          "o": 17.1,
+          "inning": "Eswatini,Mozambique Inning 1"
+        }
+      ],
+      "series_id": "d9f59ddd-af4b-4160-8441-58630befa692",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "5874fb47-1eb0-4a64-8e30-2e8ae0537216",
       "name": "New Zealand Women vs Bangladesh Women, 4th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
@@ -230,7 +275,7 @@
       "id": "2ea647b0-9000-419c-addb-06c8f5a6efbe",
       "name": "Rewa Jaguars vs Bhopal Leopards, 10th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Rewa Jaguars opt to bat",
+      "status": "Bhopal Leopards won by 3 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-07",
       "dateTimeGMT": "2026-06-07T14:00:00",
@@ -252,10 +297,16 @@
       ],
       "score": [
         {
-          "r": 167,
-          "w": 4,
-          "o": 16,
+          "r": 203,
+          "w": 8,
+          "o": 20,
           "inning": "rewa jaguars Inning 1"
+        },
+        {
+          "r": 205,
+          "w": 7,
+          "o": 19.3,
+          "inning": "Rewa Jaguars,Bhopal Leopards Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -263,7 +314,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c4b593dd-fe9b-4eac-9f2e-3b53fc839ccc",
@@ -611,50 +662,6 @@
           "w": 4,
           "o": 15.4,
           "inning": "Chambal Ghariyals Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b0fbe45d-2ecc-45e3-a332-03e37c768871",
-      "name": "Gwalior Cheetahs vs Ujjain Falcons, 1st Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Ujjain Falcons won by 92 runs",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-03",
-      "dateTimeGMT": "2026-06-03T14:00:00",
-      "teams": [
-        "Gwalior Cheetahs",
-        "Ujjain Falcons"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gwalior Cheetahs",
-          "shortname": "GC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Ujjain Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 221,
-          "w": 6,
-          "o": 20,
-          "inning": "Ujjain Falcons Inning 1"
-        },
-        {
-          "r": 129,
-          "w": 10,
-          "o": 14.2,
-          "inning": "Gwalior Cheetahs Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
