@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-06T21:08:58.813Z",
+  "lastUpdated": "2026-06-07T06:35:31.240Z",
   "recentMatches": [
     {
       "id": "cb728e55-fcb1-4814-a3cf-a7433b0e7666",
       "name": "Canada vs United States of America, 110th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "United States of America need 230 runs - Match reduced to 45 overs due to rain",
+      "status": "United States of America won by 8 wkts (Match reduced to 45 overs due to rain)",
       "venue": "Maple Leaf North-West Ground, King City",
       "date": "2026-06-06",
       "dateTimeGMT": "2026-06-06T00:00:00",
@@ -33,9 +33,9 @@
           "inning": "Canada Inning 1"
         },
         {
-          "r": 2,
-          "w": 0,
-          "o": 0.3,
+          "r": 235,
+          "w": 2,
+          "o": 39.5,
           "inning": "United States of America Inning 1"
         }
       ],
@@ -44,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d55c009b-fda8-4c46-b873-a3d4fef34c86",
@@ -413,6 +413,166 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "27fdbfb2-856c-4491-bbe0-a92bff7e4702",
+      "name": "Oman Women vs Philippines Women, 28th Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Philippines Women opt to bowl",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T06:00:00",
+      "teams": [
+        "Oman Women",
+        "Philippines Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman Women",
+          "shortname": "OMN-W",
+          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
+        },
+        {
+          "name": "Philippines Women",
+          "shortname": "PHW",
+          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 7,
+          "w": 0,
+          "o": 1,
+          "inning": "Oman Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "07105ba1-e1ec-482d-bcc7-bb93e095b057",
+      "name": "Bahrain Women vs Japan Women, 27th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Japan Women opt to bat",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T06:00:00",
+      "teams": [
+        "Bahrain Women",
+        "Japan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain Women",
+          "shortname": "BAH-W",
+          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
+        },
+        {
+          "name": "Japan Women",
+          "shortname": "JPW",
+          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "77902d99-5d2b-451a-ad2f-34ec2cb14ff6",
+      "name": "China Women vs United Arab Emirates Women, 26th Match, Group B, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 18 runs - 5 Overs game due to rain",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T01:30:00",
+      "teams": [
+        "China Women",
+        "United Arab Emirates Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 47,
+          "w": 3,
+          "o": 5,
+          "inning": "United Arab Emirates Women Inning 1"
+        },
+        {
+          "r": 29,
+          "w": 5,
+          "o": 5,
+          "inning": "China Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5b664bd1-a377-4bbc-b7c0-e346e39842a3",
+      "name": "Myanmar Women vs Thailand Women, 25th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Thailand Women won by 10 wkts - 17 Overs game due to rain",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T01:30:00",
+      "teams": [
+        "Myanmar Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Myanmar Women",
+          "shortname": "MYW",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 32,
+          "w": 9,
+          "o": 17,
+          "inning": "Myanmar Women Inning 1"
+        },
+        {
+          "r": 33,
+          "w": 0,
+          "o": 3.1,
+          "inning": "Thailand Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "f7477d5b-ad33-4226-9f32-e81087c85786",
@@ -937,186 +1097,6 @@
           "w": 8,
           "o": 20,
           "inning": "Mongolia Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e89e9abc-973f-4dd5-8bb7-372f487bd8c5",
-      "name": "Malaysia Women vs Singapore Women, 9th Match, Group C, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women won by 40 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T01:30:00",
-      "teams": [
-        "Malaysia Women",
-        "Singapore Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        },
-        {
-          "name": "Singapore Women",
-          "shortname": "SIN-W",
-          "img": "https://g.cricapi.com/iapi/1553-637926305464374356.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 120,
-          "w": 6,
-          "o": 20,
-          "inning": "Malaysia Women Inning 1"
-        },
-        {
-          "r": 80,
-          "w": 6,
-          "o": 20,
-          "inning": "Singapore Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a8e2d0b6-296a-4fc3-9349-5739693bb739",
-      "name": "Bahrain Women vs Thailand Women, 10th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Thailand Women won by 10 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T01:30:00",
-      "teams": [
-        "Bahrain Women",
-        "Thailand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain Women",
-          "shortname": "BAH-W",
-          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
-        },
-        {
-          "name": "Thailand Women",
-          "shortname": "THW",
-          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 40,
-          "w": 10,
-          "o": 13.4,
-          "inning": "Bahrain Women Inning 1"
-        },
-        {
-          "r": 41,
-          "w": 0,
-          "o": 3.3,
-          "inning": "Thailand Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7504e6d9-1a37-498c-9aaf-0c2b40feda11",
-      "name": "Oman Women vs United Arab Emirates Women, 11th Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "United Arab Emirates Women won by 9 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T01:30:00",
-      "teams": [
-        "Oman Women",
-        "United Arab Emirates Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman Women",
-          "shortname": "OMN-W",
-          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates Women",
-          "shortname": "UAEW",
-          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 64,
-          "w": 9,
-          "o": 20,
-          "inning": "oman women Inning 1"
-        },
-        {
-          "r": 66,
-          "w": 1,
-          "o": 6.4,
-          "inning": "Oman Women,United Arab Emirates Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "15e9aec4-a332-4e7b-a2b4-3891d9f3a37e",
-      "name": "Bhutan Women vs Nepal Women, 12th Match, Group D, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Nepal Women won by 51 runs",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-06-04",
-      "dateTimeGMT": "2026-06-04T01:30:00",
-      "teams": [
-        "Bhutan Women",
-        "Nepal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhutan Women",
-          "shortname": "BHU-W",
-          "img": "https://g.cricapi.com/iapi/1587-637928913171062293?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 113,
-          "w": 10,
-          "o": 20,
-          "inning": "Nepal Women Inning 1"
-        },
-        {
-          "r": 62,
-          "w": 8,
-          "o": 20,
-          "inning": "Bhutan Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
