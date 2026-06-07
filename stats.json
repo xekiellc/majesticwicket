@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T10:19:07.895Z",
+  "lastUpdated": "2026-06-07T15:26:57.867Z",
   "recentMatches": [
     {
       "id": "5874fb47-1eb0-4a64-8e30-2e8ae0537216",
@@ -227,10 +227,49 @@
       "matchEnded": true
     },
     {
+      "id": "2ea647b0-9000-419c-addb-06c8f5a6efbe",
+      "name": "Rewa Jaguars vs Bhopal Leopards, 10th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Rewa Jaguars opt to bat",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-07",
+      "dateTimeGMT": "2026-06-07T14:00:00",
+      "teams": [
+        "Rewa Jaguars",
+        "Bhopal Leopards"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhopal Leopards",
+          "shortname": "BL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 4,
+          "o": 16,
+          "inning": "rewa jaguars Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "c4b593dd-fe9b-4eac-9f2e-3b53fc839ccc",
       "name": "Royal Nimar Eagles vs Chambal Ghariyals, 9th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Chambal Ghariyals opt to bowl",
+      "status": "Chambal Ghariyals won by 4 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-07",
       "dateTimeGMT": "2026-06-07T09:30:00",
@@ -251,10 +290,16 @@
       ],
       "score": [
         {
-          "r": 37,
-          "w": 2,
-          "o": 6,
+          "r": 145,
+          "w": 9,
+          "o": 20,
           "inning": "Royal Nimar Eagles Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 6,
+          "o": 17.4,
+          "inning": "Chambal Ghariyals Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -262,13 +307,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d4830ca0-605e-44c3-a3e5-a635077476ca",
       "name": "Malwa Stallions vs Gwalior Cheetahs, 8th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Malwa Stallions opt to bowl",
+      "status": "Gwalior Cheetahs won by 51 runs",
       "venue": "Daly College Ground, Indore",
       "date": "2026-06-07",
       "dateTimeGMT": "2026-06-07T09:30:00",
@@ -289,10 +334,16 @@
       ],
       "score": [
         {
-          "r": 80,
-          "w": 3,
-          "o": 9,
+          "r": 190,
+          "w": 7,
+          "o": 20,
           "inning": "malwa stallions Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 10,
+          "o": 17.1,
+          "inning": "Malwa Stallions,Gwalior Cheetahs Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -300,7 +351,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d55c009b-fda8-4c46-b873-a3d4fef34c86",
@@ -617,7 +668,7 @@
       "id": "c92c35db-8e56-4e60-9527-e0cdf333dc6f",
       "name": "England vs New Zealand, 1st Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 4: 1st Session - New Zealand need 183 runs",
+      "status": "England won by 115 runs",
       "venue": "Lord's, London",
       "date": "2026-06-04",
       "dateTimeGMT": "2026-06-04T10:00:00",
@@ -657,9 +708,9 @@
           "inning": "England Inning 2"
         },
         {
-          "r": 71,
-          "w": 6,
-          "o": 23.5,
+          "r": 138,
+          "w": 10,
+          "o": 40.3,
           "inning": "New Zealand Inning 2"
         }
       ],
@@ -668,7 +719,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "27fdbfb2-856c-4491-bbe0-a92bff7e4702",
@@ -1065,51 +1116,6 @@
           "w": 4,
           "o": 18.1,
           "inning": "Indonesia Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1c4ce7a2-fb03-4e66-a1d1-64ebd179ead7",
-      "name": "China Women vs Philippines Women, 18th Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "China Women won by 8 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T01:30:00",
-      "teams": [
-        "China Women",
-        "Philippines Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Philippines Women",
-          "shortname": "PHW",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 103,
-          "w": 6,
-          "o": 20,
-          "inning": "philippines women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 2,
-          "o": 13.3,
-          "inning": "China Women,Philippines Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
