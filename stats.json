@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T06:50:36.476Z",
+  "lastUpdated": "2026-06-08T12:18:53.164Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -45,6 +45,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "84094603-829b-469b-ae1b-0751c9bce497",
+      "name": "West Indies Women vs India Women, 5th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "West Indies Women need 143 runs in 84 balls",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-06-08",
+      "dateTimeGMT": "2026-06-08T09:00:00",
+      "teams": [
+        "West Indies Women",
+        "India Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 179,
+          "w": 8,
+          "o": 20,
+          "inning": "India Women Inning 1"
+        },
+        {
+          "r": 37,
+          "w": 0,
+          "o": 6,
+          "inning": "West Indies Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5874fb47-1eb0-4a64-8e30-2e8ae0537216",
@@ -270,6 +315,95 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "416d3580-e608-49fb-9283-994815b9ace4",
+      "name": "Chambal Ghariyals vs Ujjain Falcons, 12th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Ujjain Falcons need 188 runs",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-08",
+      "dateTimeGMT": "2026-06-08T09:30:00",
+      "teams": [
+        "Chambal Ghariyals",
+        "Ujjain Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 199,
+          "w": 7,
+          "o": 20,
+          "inning": "Chambal Ghariyals Inning 1"
+        },
+        {
+          "r": 12,
+          "w": 0,
+          "o": 1.2,
+          "inning": "Ujjain Falcons Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d2c2fefa-cf57-4ca3-b21b-64f868871702",
+      "name": "Bundelkhand Bulls vs Bhopal Leopards, 11th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Bundelkhand Bulls need 118 runs in 60 balls",
+      "venue": "Daly College Ground, Indore",
+      "date": "2026-06-08",
+      "dateTimeGMT": "2026-06-08T09:30:00",
+      "teams": [
+        "Bundelkhand Bulls",
+        "Bhopal Leopards"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhopal Leopards",
+          "shortname": "BL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 197,
+          "w": 3,
+          "o": 20,
+          "inning": "bhopal leopards Inning 1"
+        },
+        {
+          "r": 80,
+          "w": 2,
+          "o": 10,
+          "inning": "Bundelkhand Bulls,Bhopal Leopards Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "2ea647b0-9000-419c-addb-06c8f5a6efbe",
@@ -988,141 +1122,6 @@
           "w": 0,
           "o": 3.2,
           "inning": "Oman Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a293171b-c3da-4695-8481-ae66dee81c00",
-      "name": "Kuwait Women vs Singapore Women, 23rd Match, Group C, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Kuwait Women won by 10 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T06:00:00",
-      "teams": [
-        "Kuwait Women",
-        "Singapore Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait Women",
-          "shortname": "KU-W",
-          "img": "https://g.cricapi.com/iapi/1588-637926303022728393.webp?w=48"
-        },
-        {
-          "name": "Singapore Women",
-          "shortname": "SIN-W",
-          "img": "https://g.cricapi.com/iapi/1553-637926305464374356.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 94,
-          "w": 6,
-          "o": 20,
-          "inning": "Singapore Women Inning 1"
-        },
-        {
-          "r": 97,
-          "w": 0,
-          "o": 15.2,
-          "inning": "Kuwait Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cc476df4-a545-4b63-8eb4-05a1d7f934d2",
-      "name": "Nepal Women vs Hong Kong, China Women, 24th Match, Group D, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China Women won by 69 runs",
-      "venue": "Kolej Tuanku Ja'afar Cricket Oval, Mantin",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T06:00:00",
-      "teams": [
-        "Nepal Women",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        },
-        {
-          "name": "Nepal Women",
-          "shortname": "NEPW",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 3,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 40,
-          "w": 10,
-          "o": 13.3,
-          "inning": "Nepal Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "15be9069-db04-4f87-aa36-6355ca4ef1e5",
-      "name": "Malaysia Women vs Indonesia Women, 17th Match, Group C, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 6 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T01:30:00",
-      "teams": [
-        "Malaysia Women",
-        "Indonesia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        },
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 87,
-          "w": 6,
-          "o": 20,
-          "inning": "Malaysia Women Inning 1"
-        },
-        {
-          "r": 88,
-          "w": 4,
-          "o": 18.1,
-          "inning": "Indonesia Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
