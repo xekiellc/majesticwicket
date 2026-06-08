@@ -1,11 +1,21 @@
 {
-  "lastUpdated": "2026-06-08T17:25:55.736Z",
+  "lastUpdated": "2026-06-08T21:53:13.455Z",
   "articles": [
     {
-      "title": "Stokes and Atkinson investigated by ECB over nightclub incident",
+      "title": "Stokes captaincy on the line following nightclub incident",
       "url": "https://www.espncricinfo.com/ci/content/story/1540197.html?ex_cid=OTC-RSS",
-      "description": "Undisclosed incident after Lord's win over New Zealand referred to Cricket Regulator",
-      "publishedAt": "2026-06-08T17:13:49.000Z",
+      "description": "Atkinson and Saracens rugby players also involved in aftermath of Lord's Test victory",
+      "publishedAt": "2026-06-08T20:37:17.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Jamaica Empress becomes fourth WCPL team",
+      "url": "https://www.espncricinfo.com/ci/content/story/1540206.html?ex_cid=OTC-RSS",
+      "description": "The 2026 edition of the tournament will be played from September 5 to 17 in Barbados",
+      "publishedAt": "2026-06-08T18:27:47.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -42,36 +52,6 @@
       "urlToImage": null
     },
     {
-      "title": "KS Bharat announces retirement from international cricket",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539679.html?ex_cid=OTC-RSS",
-      "description": "He represented India in seven Test matches, including in the 2023 WTC final",
-      "publishedAt": "2026-06-04T15:33:08.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Shaun Tait resigns as Bangladesh fast bowling coach",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539600.html?ex_cid=OTC-RSS",
-      "description": "After 12 months in the role, he is stepping down to prioritise family time",
-      "publishedAt": "2026-06-04T10:16:10.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Cummins keen to play entirety of Australia's 'unprecedented' run",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539577.html?ex_cid=OTC-RSS",
-      "description": "Australia will play up to 21 Test matches in their busiest period on record and a fit-and-firing Pat Cummins is hopeful he won't have to rest from any of them",
-      "publishedAt": "2026-06-04T02:58:50.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Melbourne Stars and Renegades set to merge, second franchise to be sold in full",
       "url": "https://www.espncricinfo.com/ci/content/story/1539296.html?ex_cid=OTC-RSS",
       "description": "The Stars' name and colours will be rebranded by CV; Renegades could play under caretaker administration in 2026-27",
@@ -82,50 +62,10 @@
       "urlToImage": null
     },
     {
-      "title": "West Indies, Sri Lanka in high-stakes push to claim 2027 World Cup spot",
-      "url": "https://www.espncricinfo.com/ci/content/story/1539344.html?ex_cid=OTC-RSS",
-      "description": "After recent struggles in major tournament qualification, both teams have plenty to play for in this ODI series",
-      "publishedAt": "2026-06-02T17:35:44.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Women's T20 World Cup 2026: 'Wolfie's always a banker' - Marizanne Kapp wants batters to support talismanic captain",
-      "url": "https://www.crictracker.com/cricket-news/womens-t20-world-cup-2026-wolfies-always-a-banker-marizanne-kapp-wants-batters-to-support-talismanic-captain/",
-      "description": "The Proteas come into the tournament as one of the favourites for the title following their recent success under the 27-year-old's leadership.",
-      "publishedAt": "2026-06-08T13:54:28.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "ICC reveals star-studded commentary team for Women's T20 World Cup 2026",
       "url": "https://www.crictracker.com/cricket-press-release/icc-reveals-star-studded-commentary-team-for-womens-t20-world-cup-2026-4969/",
       "description": "Some of the most respected voices in the game, the commentary team will provide expert analysis, insight and storytelling throughout all 33 matches of the tournament",
       "publishedAt": "2026-06-08T13:20:02.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "‘Give him time’ - Kapil Dev urges patience despite Vaibhav Sooryavanshi's meteoric rise",
-      "url": "https://www.crictracker.com/cricket-news/give-him-time-kapil-dev-urges-patience-despite-vaibhav-sooryavanshis-meteoric-rise-0509/",
-      "description": "India will be facing Ireland in a two-match T20I series.",
-      "publishedAt": "2026-06-08T12:23:44.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Pitches like the one at Lord's won't help Test cricket' - Ben Stokes takes firm stance after England's convincing win vs New Zealand in 1st Test",
-      "url": "https://www.crictracker.com/cricket-news/pitches-like-the-one-at-lords-wont-help-test-cricket-ben-stokes-takes-firm-stance-after-englands-convincing-win-vs-new-zealand-in-1st-test/",
-      "description": "Ben Stokes shared his candid opinion on the pitch used for the first Test between England and New Zealand at the iconic Lord's Cricket Ground in London last week.",
-      "publishedAt": "2026-06-08T11:29:07.000Z",
       "source": {
         "name": "CricTracker"
       },
@@ -142,26 +82,6 @@
       "urlToImage": null
     },
     {
-      "title": "MCC apologises for Lord’s Test pitch after Stokes criticises ‘extreme conditions’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblBjdTROZ1ZZS0pIbG84VUhNem4xSWwzaVFOcnZDUW51VkEzalc5YUYtdEJKcWEyUEpueEEtREt0blV4Zkk3SS1RYjNhbWhheXBXQkRVb1dvTkdic2hrZzFMS1g0Y3V5N2RLNmhfNFBxTzh4c1VmX240bWM3VVNwMzhZdDlaZlRjZV9wckM2Z0I4VV9tVkVJNERZcmlRUno2Um00eHF3ajR1OGRIc2hqODJhTktPZm9ldzNDV3hQbHJTQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblBjdTROZ1ZZS0pIbG84VUhNem4xSWwzaVFOcnZDUW51VkEzalc5YUYtdEJKcWEyUEpueEEtREt0blV4Zkk3SS1RYjNhbWhheXBXQkRVb1dvTkdic2hrZzFMS1g0Y3V5N2RLNmhfNFBxTzh4c1VmX240bWM3VVNwMzhZdDlaZlRjZV9wckM2Z0I4VV9tVkVJNERZcmlRUno2Um00eHF3ajR1OGRIc2hqODJhTktPZm9ldz",
-      "publishedAt": "2026-06-08T01:30:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Women's T20 World Cup: Countries qualified, format, schedule, prize money and venues - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VaGJoYnd4YmxmUnFab19US1V3Skg5TnhlWTdKbGdJLTlOUElrSC1HdF9TY2l5d2ZrQ0tXUUJnTkJmY3RaSWVyMks4c2dNQmk2NmFnVmc4WFJGTGpZc3VScVRydXdpMHhP?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VaGJoYnd4YmxmUnFab19US1V3Skg5TnhlWTdKbGdJLTlOUElrSC1HdF9TY2l5d2ZrQ0tXUUJnTkJmY3RaSWVyMks4c2dNQmk2NmFnVmc4WFJGTGpZc3VScVRydXdpMHhP?oc=5\" target=\"_blank\">Women's T20 World Cup: Countries qualified, format, schedule, prize money and venues</a",
-      "publishedAt": "2026-06-08T14:44:19.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Waterloo Bridge becomes cricket pitch for T20 World Cup launch - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2alJnTW5lLUFWTV83RlpQRTFZSkFHY0FZNUtSM3ltRHRURW9CTHF2VkN2QWFnclJEemtXX2cyV2JDWV9wTFNudEVkQU5HZWlNU0JZc3FtTTMzQQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2alJnTW5lLUFWTV83RlpQRTFZSkFHY0FZNUtSM3ltRHRURW9CTHF2VkN2QWFnclJEemtXX2cyV2JDWV9wTFNudEVkQU5HZWlNU0JZc3FtTTMzQQ?oc=5\" target=\"_blank\">Waterloo Bridge becomes cricket pitch for T20 World Cup launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</",
@@ -172,70 +92,40 @@
       "urlToImage": null
     },
     {
-      "title": "Sri Lanka lose talented spinner to injury ahead of T20 World Cup - ICC",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORTd6aEpRTTRIbFR3NEpPRUxOYlNRWXhFSGlXSU1QRGZGNUhTWEtYbmtjamliQ2syanUwMEVseC1pa1dRdGFhYjdQMXl0VUdFaEk5cW0xWWd3VW00bG9LQndLd1l2ZThIUUo4d0ROVmdMMksyaVdpeFhKS2M4bDJCaUxTeFB1Q1h1UlF2YkpWQWVzM2o0QWJYS2RBYnBqRHFZeVpXbVRaLXRyZS1SU2hlb2lXa241aHlJcV83blVZRVRmQUIwN2hYTk9TRXNLQk0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORTd6aEpRTTRIbFR3NEpPRUxOYlNRWXhFSGlXSU1QRGZGNUhTWEtYbmtjamliQ2syanUwMEVseC1pa1dRdGFhYjdQMXl0VUdFaEk5cW0xWWd3VW00bG9LQndLd1l2ZThIUUo4d0ROVmdMMksyaVdpeFhKS2M4bDJCaUxTeFB1Q1h1UlF2YkpWQWVzM2o0QWJYS2RBYnBqRHFZeVpXbVRaLXRyZS1SU2hlb2lXa241aHlJcV",
-      "publishedAt": "2026-06-05T16:53:04.000Z",
+      "title": "England great returns to Big Bash as new Thunder coach - cricket.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVlkzaklYaFV4UVNQUDRqS3BzaTdFTWMwS1RfbWRFNEgzNTFDSmh3Tmg1OHpWVkM1N2tvZjNSaFFrZlhXelFkd05zazlXM3FFXzVOY3BnbWRpMVZ2b3lDSVJKVHJ4SU1VTFRxRlFNeWVmTDF6bDQ5SkdieXpmNXFpRkNPbWVQc0FHLXNqcFY5VGZyVVBTNU8tZVpabFlVYmRVUF9saFVZSE5uazNiME5UWWprSFJlcmdlVGVwbTdxN2NaLXRFWHlEMEpsVFA4WkdQMnNZcA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVlkzaklYaFV4UVNQUDRqS3BzaTdFTWMwS1RfbWRFNEgzNTFDSmh3Tmg1OHpWVkM1N2tvZjNSaFFrZlhXelFkd05zazlXM3FFXzVOY3BnbWRpMVZ2b3lDSVJKVHJ4SU1VTFRxRlFNeWVmTDF6bDQ5SkdieXpmNXFpRkNPbWVQc0FHLXNqcFY5VGZyVVBTNU8tZVpabFlVYmRVUF9saFVZSE5uazNiME5UWWprSFJlcmdlVG",
+      "publishedAt": "2026-06-02T08:00:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Melbourne Stars and Renegades killed off in latest Big Bash League privatisation move - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXpQNVFhemZYeGdoYVp6NnNhTnFjeDlNOVFiVkZHcU1HS2o3eXVUQWhuNXBNZU1EOEE0NWliZHhRcUdFVXZjanQtd0hVYjlKV29ocVBfdFBIUkc5SUVaajRSTl92cVI3VmFfMHMtQ29DdlFFUENJc3dVZkwydEJzT2JGclNNNUh5RlZ5MUpJWjRyVEg2N3lKVmtwNnVXQ0J1b3lIQTRWT3REaWtRMU4tN1hsb0RoaW5NUUZYOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXpQNVFhemZYeGdoYVp6NnNhTnFjeDlNOVFiVkZHcU1HS2o3eXVUQWhuNXBNZU1EOEE0NWliZHhRcUdFVXZjanQtd0hVYjlKV29ocVBfdFBIUkc5SUVaajRSTl92cVI3VmFfMHMtQ29DdlFFUENJc3dVZkwydEJzT2JGclNNNUh5RlZ5MUpJWjRyVEg2N3lKVmtwNnVXQ0J1b3lIQTRWT3REaWtRMU4tN1hsb0RoaW5NUU",
-      "publishedAt": "2026-06-03T06:46:00.000Z",
+      "title": "Jaiswal replaces injured Kohli for ODI series against Afghanistan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGw0bHVYYmtZYmxzMjBqVzhZWlNlXzJRSlROR0VqamlCZ1VlR1h4VDRrQUhpRk80eVlKSGdPa0h1M2Y0bWkyWHRQWnZjR05SN1NfTEh6S2otSnEtdjdaRmlNTC1NR0ZqYVhPcUNVMkZYRTRBVnJLRmRQSHExRkZIM1NwWEdQTDZwVlg1QmU2N2VCQVRpZmVCQ1NkNll3UEhVXzRQNElNeHNPbVFmX1NSN2h3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGw0bHVYYmtZYmxzMjBqVzhZWlNlXzJRSlROR0VqamlCZ1VlR1h4VDRrQUhpRk80eVlKSGdPa0h1M2Y0bWkyWHRQWnZjR05SN1NfTEh6S2otSnEtdjdaRmlNTC1NR0ZqYVhPcUNVMkZYRTRBVnJLRmRQSHExRkZIM1NwWEdQTDZwVlg1QmU2N2VCQVRpZmVCQ1NkNll3UEhVXzRQNElNeHNPbVFmX1NSN2h3?oc=5\" tar",
+      "publishedAt": "2026-06-06T08:53:43.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Legendary England all-rounder Andrew Flintoff has been announced as Sydney Thunder's new BBL coach. - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTFNwYzBRRG1NX3c5Q2QzZGFXZXBwRnV3QnN1ekNyeWlLWHNRV0NGTzl1Rjk0bVVoeUlhS2taRTVFX1d2NGVSWkJHOHl0UDh3MjBHbDI3aGVWWnpaVkJ5ZzBkdjBrYmZ5S2FUUU9nN3gtdEdlOFFwaFYtNjU0SEt0NzNIWEZ4dllPMlYxNnA5YTdMbFVNNnlwLWtsWGxmTnh6WEo5X2ZGSW1ZanRjSG1SbzV2WHBWZkVQNHIwdHpXX2JISVpOS1hLUnlReVhpWElLb3EtMWQtTUtBZ2o0a0l1YWpVMmN3YTVQR1kyLUVoOFBwaktzSnc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTFNwYzBRRG1NX3c5Q2QzZGFXZXBwRnV3QnN1ekNyeWlLWHNRV0NGTzl1Rjk0bVVoeUlhS2taRTVFX1d2NGVSWkJHOHl0UDh3MjBHbDI3aGVWWnpaVkJ5ZzBkdjBrYmZ5S2FUUU9nN3gtdEdlOFFwaFYtNjU0SEt0NzNIWEZ4dllPMlYxNnA5YTdMbFVNNnlwLWtsWGxmTnh6WEo5X2ZGSW1ZanRjSG1SbzV2WHBWZkVQNH",
-      "publishedAt": "2026-06-03T05:13:11.000Z",
+      "title": "PAK vs AUS, 3rd ODI: Shaheen Afridi, Babar Azam shine as Pakistan clinches series against Australia - Sportstar",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSG5CemhKSVk4YmoyZWRDTEt2bHRiSXhYZlFCbDltZ2N5QnJRZ2NFb1VESTNQTEpiRng4dExpNEZtMFBKRnpPZ3dnX0hmZU53dHlFbFo3MGV2aWFvOE10SlBLd0ozYmMtWkI1NEhpYW5qU3l5aW5TaGU2S09LR19tMEc5VkJDaGcwWVNJYXdaMWg1amMzSnBfaVZyVFJkYkdqZ2hXdEtuWFBLcmJHdU52UlN4SGotRV9JWWRyanFHZWF3aG9ia3Jxb29XR3k1YWFCckVmSGJPTjlwTFhRdWlqc1JIbEFRbmhkb2RFV29KMUpudjduMkMwR19UeDHSAYMCQVVfeXFMUDdQZmtuaGZvR3NZMUN5bHRSVVEyV3dCd21vZ2xsOFZZbmxVejA4b1lfY2k3YW80Vm9pZG1wLVRNeENDdXczUmtYMzEweGhDc19GVG1pYUJVYUd1Qlh1SlE0RTU1M2VOeFNTT3hWUjNVMGRNek96YXJ0cFQ2dDZKYVFpa1pJQ08wS0pRVHF1d2dDMWhiNGxGLWVFOVkxQ0RlcTJrT0dORUdDTzRiazc0cEtvNEpsR2MzVHZjRVJwU0dGc2xlcWl4OWxJaTNBYjRuT1pjUHplSEdBcVZKWHJKanZuWkpGUzZtdWNhQmFiV00wYlF5S2ZIRzhHeGZjcFV5QXo4NA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSG5CemhKSVk4YmoyZWRDTEt2bHRiSXhYZlFCbDltZ2N5QnJRZ2NFb1VESTNQTEpiRng4dExpNEZtMFBKRnpPZ3dnX0hmZU53dHlFbFo3MGV2aWFvOE10SlBLd0ozYmMtWkI1NEhpYW5qU3l5aW5TaGU2S09LR19tMEc5VkJDaGcwWVNJYXdaMWg1amMzSnBfaVZyVFJkYkdqZ2hXdEtuWFBLcmJHdU52UlN4SGotRV9JWW",
+      "publishedAt": "2026-06-05T03:13:07.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli out, Yashasvi Jaiswal in; former India cricketer calls it an 'embarrassment of riches' - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ1hzcVZrRUVwRjgzVV9icVBPUWY2S0M1QTYzdVBCb3NmTHFENTdVZmRuMkdiU2UxSFVEbWdTNzZwMDY4MUpGVDJJNzdid1QyMURWd3dTS3JrN0haR2F0WUtrNmNtSGpJZU5FYWVzUmlwbm93WjhyUDBPVjRYTUk2WHFoeFBIYXFUOEFfT3FVdDNrU2lnSFV4a0lEUVRNRVpMTEFxMENuOFNlakFtNUMzd3BmejVJdy1NdkpFZGo3UzhiRVh4eWJicXVIZkJNY2J5cDlDd2Itd0tvanYzdlZhT1hpbmRld0kwWjhxY2J1MWk2MFlyNzNsRjBpRVc0UEVURVFrdkdUWWRHd1ZPYVZKaDhjel9jRHNjVW8xa9IBogJBVV95cUxQZWY0ZkVLWVFBckIydllvMzUwNm5WTXdZRjdxLWQxZzJlTV9UX2FvUUkxdmZZN3RiMVE3aWJvUlVpenNibHN2b0JMQ3ZCWG84TGFWQlhXdWdFN3lhcWN4bnA2LUdubXEzQUxLdlFMRTJxWVIxTDdiZTZqY3BVb09EenJYRVBBTFBSa3BDT2Z5SjZZdG5sSnVGem94Q00yZlVvTlZiaWdOaHdrNmt1aWVSNndyVmVLUWhKYkxvM3RjX0VTVUszYU51cXdQNnFpeHI2akxoNGU5VzI4OGNrUTV6TkRmRmFycmhqQmdoZk9pYnh1MmNfbkFMNGlJb2RzOE9PYXd0aVpwdnlvY3hEdFBPbGxCZ0hjX3RtaHVPcGpmd1M3QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ1hzcVZrRUVwRjgzVV9icVBPUWY2S0M1QTYzdVBCb3NmTHFENTdVZmRuMkdiU2UxSFVEbWdTNzZwMDY4MUpGVDJJNzdid1QyMURWd3dTS3JrN0haR2F0WUtrNmNtSGpJZU5FYWVzUmlwbm93WjhyUDBPVjRYTUk2WHFoeFBIYXFUOEFfT3FVdDNrU2lnSFV4a0lEUVRNRVpMTEFxMENuOFNlakFtNUMzd3BmejVJdy1Ndk",
-      "publishedAt": "2026-06-07T02:52:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Williamson, Root and the real legacy of Test cricket’s ‘Fab Four’ shines bright at Lord’s - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV01HNkNQX3NLV3ZWdHVhSkZIVGU5dXVZUEs0M1FGZ05lS3NBV0VERWNxaG52dWluN3ZNZEpuWFgxM0xnTFhUWVRrUUlmSllQWXZmZ0lFZ1JpVFpsU0JwLVFtM016eElDU0NjRDVoLXV0cmwwdTFaZGFQdEJFcUhhSThaN1ZPQl9STTFvU0lPVnpfOHlQVXgwbUFVejFwRTNZUUhVdExNR2dIYVMySnRRRFJ2Zk9XbzZmVnBwVA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOV01HNkNQX3NLV3ZWdHVhSkZIVGU5dXVZUEs0M1FGZ05lS3NBV0VERWNxaG52dWluN3ZNZEpuWFgxM0xnTFhUWVRrUUlmSllQWXZmZ0lFZ1JpVFpsU0JwLVFtM016eElDU0NjRDVoLXV0cmwwdTFaZGFQdEJFcUhhSThaN1ZPQl9STTFvU0lPVnpfOHlQVXgwbUFVejFwRTNZUUhVdExNR2dIYVMySnRRRFJ2Zk9XbzZmVn",
-      "publishedAt": "2026-06-06T05:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'If you remove seniors, how will juniors learn?': Shaheen Afridi defends Babar Azam and Pakistan's veteran stars - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEVpSWFNRUUxV3kzLTNpR01jWFVqRndHZ3I3djkwMVpTVG56dE9DMlM3WEx4bTZZRjVwMXNwb2ptYXdjTjR2UklDU1h2czE2X3Jad1Q0QmVYakU2bGpMQi13M1lndklPWWtCWVNIbWd2MDJ6MDlidW9Remo4Wi1LTVQ5ZkRPdnpYamtQcHhn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEVpSWFNRUUxV3kzLTNpR01jWFVqRndHZ3I3djkwMVpTVG56dE9DMlM3WEx4bTZZRjVwMXNwb2ptYXdjTjR2UklDU1h2czE2X3Jad1Q0QmVYakU2bGpMQi13M1lndklPWWtCWVNIbWd2MDJ6MDlidW9Remo4Wi1LTVQ5ZkRPdnpYamtQcHhn?oc=5\" target=\"_blank\">'If you remove seniors, how will ju",
-      "publishedAt": "2026-06-05T07:41:51.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "England’s Bazball reset begins with 115-run win over New Zealand early on Day 4 at Lord’s - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHVrVnN2ZFJYRDlKdm4wMUR6WHZPb2RFVWlnV1RzS1ZYWTQtNmxyZWFLVS14ZWRVTE5mVGZrTlhjY3Q2emFmZGdBWjhuN1FzbkdJUm9BQUxhUU1nNUNUUG92X3YwZE5aZmxVSHdVeFIxZmtlWTRmOVQtazhmdDJFLXZuRWZma3E0eE1WdGY5djJFVGJXU0F6cUtlY2wya2tDYlZlOQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHVrVnN2ZFJYRDlKdm4wMUR6WHZPb2RFVWlnV1RzS1ZYWTQtNmxyZWFLVS14ZWRVTE5mVGZrTlhjY3Q2emFmZGdBWjhuN1FzbkdJUm9BQUxhUU1nNUNUUG92X3YwZE5aZmxVSHdVeFIxZmtlWTRmOVQtazhmdDJFLXZuRWZma3E0eE1WdGY5djJFVGJXU0F6cUtlY2wya2tDYlZlOQ?oc=5\" target=\"_blank\">Engla",
-      "publishedAt": "2026-06-07T13:07:00.000Z",
+      "title": "MCC admit Lord's pitch 'fell short of expectations' - ESPNcricinfo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEpmNEg3VVBMTWpjTzhjdVJxN1puOUxHSHJMTHAtdWd2NDZ1VmZjajR3T3JMd0xQQ0RZdFMyNVBfcTNmNVlPendPeFo3dm9mVzFva2FIUDN3LWt6SWQzeWU4LWRyZXlwYWpzYmItZlNiOWNVeE1PZ0dVNFFKN0dIVTdYMzdDclRWa3hfaWs1Y2JHbFlRMmV1NUFvUkI1cUlXSUJqSlVVNURuVm9mZThxdNIBwgFBVV95cUxQWDBicGZlSFJKOUpOdGpxU01QUVhVcS1WbmlOWjlNcHR6Yk1Qd3Y3akotZUxWSW8wOXdBTEVhNmNFTkwteVpQOXBDdGRad2RjY25fdGdvYkRqUUpmYnBSbGtMU0JPUWZfSUJZbXR4TE04WlVzR2x3LVJlRWt0WUNCbGxHV1huOTlOeEpaWlZQOU9aSHFrelRvX1pLc1h1RS1uek96VXRDTURWc2FLbnBTMXpWREY4bDlrYTc2djZQR3psdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEpmNEg3VVBMTWpjTzhjdVJxN1puOUxHSHJMTHAtdWd2NDZ1VmZjajR3T3JMd0xQQ0RZdFMyNVBfcTNmNVlPendPeFo3dm9mVzFva2FIUDN3LWt6SWQzeWU4LWRyZXlwYWpzYmItZlNiOWNVeE1PZ0dVNFFKN0dIVTdYMzdDclRWa3hfaWs1Y2JHbFlRMmV1NUFvUkI1cUlXSUJqSlVVNURuVm9mZThxdNIBwgFBVV95cU",
+      "publishedAt": "2026-06-07T15:00:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -252,10 +142,20 @@
       "urlToImage": null
     },
     {
-      "title": "Top cricket news today | Pakistan beat Australia 2-1 | England collapse for 140 | KS Bharat retires - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObVotbEFlNGJtanV0RHFPQ3JlMU84S3NmVUMyclJ2VVdRbm5fOXljN2hncUtQd0d0X0FxWHdQcWcyMjBQdHVfUF9iUWF0S1pVaWlfTFBwRGlkT0ZkSzEya25ZN24xVlZIZkZfWXR5ZTFIcFZvU3oxZGI4ajM5M2xoTzAzTGhUbENUTklUZWJYS0x2Nmk0RzNLMWlVOE9IYjVfeXhNcXJYY1dqekRObmREclFvZEFmUVlrS0hwMG5DSnQ4Rzk2dEhDWTU5UFpsdnBGZ0Y2NU5tTTlqaUdvRHV3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObVotbEFlNGJtanV0RHFPQ3JlMU84S3NmVUMyclJ2VVdRbm5fOXljN2hncUtQd0d0X0FxWHdQcWcyMjBQdHVfUF9iUWF0S1pVaWlfTFBwRGlkT0ZkSzEya25ZN24xVlZIZkZfWXR5ZTFIcFZvU3oxZGI4ajM5M2xoTzAzTGhUbENUTklUZWJYS0x2Nmk0RzNLMWlVOE9IYjVfeXhNcXJYY1dqekRObmREclFvZEFmUVlrS0",
-      "publishedAt": "2026-06-05T21:01:30.000Z",
+      "title": "India register their biggest victory in Tests; crush Afghanistan by an innings and 300 runs - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbmM1ZEJ6SGJZVFVGVWEtMWg4UllYb0ppUzNWbzdRNjZSZkNtN29ES2NmXzJuTXFKakZ6MnBhZjlUY3ZHeVJzMmk1TzkwbnZhelEydDM5RlRxdGFvYmJoUXJabElOYXhwSnZud04tTlpOdFZVV3dhcnFyOXA1Ry1UMUdyUmlHbWlUWnMyLTdYN0F0dGtwZ1pZWk5EcHpQU1VLLVFPUEtQU0dYWWRtbHZLVTd1Y2I0QVhoOURpUEtQaTJDdThVbE42bGJqdE1MQXk5Unphd0JmUnFsa2hJbE91SHFNOEU4MFY3Z3djT2VkLU9zYlVsd3B1ZDBmMXMzaDZzLWJ6b1RnN0FidWRnVldwdkRRbllVR3FTXzhyQ1VCU3l5UjJfVmZoMnRWSjgzcW0tbFVuczJocTZsQdIBvwJBVV95cUxPN09YcjdGX3F5NWVCV1daVl9WeVJ2UDlmN3N0SUlLTVZUT2RpU0pDdTNoWWEyMkFmaHB4clB2Qnh6S1Rrc3lEenNRc05pb3E2aHNKSnRpTmhJcWZ3dzR2MHg1ZmhJXzdFLWNJMFZoeUdqSUlfZHpxa2JTazVYNFpGdF93MHpWVWJMNFMwd2x0cVJDaUlKdlF5ZWoycmtnSjhXXzJOem5EazF5ZVFNc3Y1Yk9JVEFvVks2Q2tSejVnN2xpSUw2QTQ5S2dha0VjVUFnMktxalozMEstMjVTNDloeHczdGFIZ0dwdGdhaFVyMDJRXzJzeWVleE5LZzlOczNDcDYxZGNqZHcyUWtJSzZta1JMYWp2SWJUd2Fydlhpbml2Y2pWbk5Zd3BjZS05d01jZXRMVThtV0x1U3ByQnZj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxPbmM1ZEJ6SGJZVFVGVWEtMWg4UllYb0ppUzNWbzdRNjZSZkNtN29ES2NmXzJuTXFKakZ6MnBhZjlUY3ZHeVJzMmk1TzkwbnZhelEydDM5RlRxdGFvYmJoUXJabElOYXhwSnZud04tTlpOdFZVV3dhcnFyOXA1Ry1UMUdyUmlHbWlUWnMyLTdYN0F0dGtwZ1pZWk5EcHpQU1VLLVFPUEtQU0dYWWRtbHZLVTd1Y2I0QVhoOU",
+      "publishedAt": "2026-06-08T09:51:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Shreyas Iyer's first statement as India T20I captain turns heads: 'I won't be under anyone's shadow' | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdGI3Tmt2dkkwSlJiQUhPWkI0dXBuTWdfSlRVYkRmek1FSG15Y052bFpScTltbDllTVZWdGJNYk02UFdhRUpVODVkZkRuaktjdFpud1FKamZrQi0tLUtYMWt0NFNZRy0wd1RVVk5peFpBaE1fckttUHJWU0F1bTZmelFUYWdtUl95QWJFdkNJOTB5NGhqZVdleVI0TDRnZy1NWjNEZ2t1aUl5N1FOME04RktDSlprQnlNN0lzdHpIbTY2RjR3OHJtamp2TVNiMENrQXlfemxtRlZMYmNzMmRPQm1oU1NkSXA5UmfSAe8BQVVfeXFMTmlqbnFLODhCV2dTM2cyYWhaOGhVY3JSbF9maWdDMV95Wkg5d0pPVGkyRXZfVVdNeDlZMlFvSkNwNnBZSkx6eklHT2Z2RzV0N01DcFd1RXU2WTFjamo5VHNFdDliWVgxZTJwQ09hY2FzOEh6OUQxZUkwX1E3WThTekN6UWRHQTNabkg4ajNmODRlSDlKVGowX25ENURHY1gzR3lkcUxRUVdjMnpzNEZMQUR3VFJBRzMtaC1KMk0tWkJQZlR4eFU4ZWdRZnVCMmRDdXZLbWQzV0hMOUotTnZKZDVmSFdUcVk3VjFUdHZGblE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdGI3Tmt2dkkwSlJiQUhPWkI0dXBuTWdfSlRVYkRmek1FSG15Y052bFpScTltbDllTVZWdGJNYk02UFdhRUpVODVkZkRuaktjdFpud1FKamZrQi0tLUtYMWt0NFNZRy0wd1RVVk5peFpBaE1fckttUHJWU0F1bTZmelFUYWdtUl95QWJFdkNJOTB5NGhqZVdleVI0TDRnZy1NWjNEZ2t1aUl5N1FOME04RktDSlprQnlNN0",
+      "publishedAt": "2026-06-07T12:30:52.000Z",
       "source": {
         "name": "Google News"
       },
@@ -268,16 +168,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1g0Qkt3MThTSmpreHJ4VHk2aEFQeEZ3UmhvOHFGWkt0NzV6YmxVWjdIb3NaeW1mZEFSdzY2M2VvTVU3am91OHk2R21UVUo5VGZKNnJ1RmhJNXZfUk1xbDRXM3JkaHZZdk1LNW1md1NSSGJiblY1Y0paWmJMekw5T0lVUmF5V2pQcWppYWhHaXRRNXh0VVN4ZUItb0tqdTNxTGxxaGRfdGxtYVE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1g0Qkt3MThTSmpreHJ4VHk2aEFQeEZ3UmhvOHFGWkt0NzV6YmxVWjdIb3NaeW1mZEFSdzY2M2VvTVU3am91OHk2R21UVUo5VGZKNnJ1RmhJNXZfUk1xbDRXM3JkaHZZdk1LNW1md1NSSGJiblY1Y0paWmJMekw5T0lVUmF5V2pQcWppYWhHaXRRNXh0VVN4ZUItb0tqdTNxTGxxaGRfdGxtYVE?oc=5\" target=\"_bla",
       "publishedAt": "2026-06-04T08:00:26.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Twenty20 cricket | Rules, History, World Cup, 2026, Scores, Matches, Highlights, Rankings, Schedule, & Facts - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5\" target=\"_blank\">Twenty20 cricket | Rules, History, World Cup, 2026, Scores, Matches, Highlights, Rankings, Schedule",
-      "publishedAt": "2026-05-29T07:00:00.000Z",
       "source": {
         "name": "Google News"
       },
