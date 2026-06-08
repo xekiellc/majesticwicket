@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T12:18:53.164Z",
+  "lastUpdated": "2026-06-08T17:25:55.736Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -47,10 +47,55 @@
       "matchEnded": true
     },
     {
+      "id": "62aacfe9-07a1-4b7a-9d6c-689dc6c99d9c",
+      "name": "England Women vs Australia Women, 6th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "Australia Women won by 5 wkts",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-06-08",
+      "dateTimeGMT": "2026-06-08T14:00:00",
+      "teams": [
+        "England Women",
+        "Australia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 157,
+          "w": 6,
+          "o": 20,
+          "inning": "England Women Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 5,
+          "o": 18.2,
+          "inning": "Australia Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "84094603-829b-469b-ae1b-0751c9bce497",
       "name": "West Indies Women vs India Women, 5th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
       "matchType": "t20",
-      "status": "West Indies Women need 143 runs in 84 balls",
+      "status": "India Women won by 26 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-06-08",
       "dateTimeGMT": "2026-06-08T09:00:00",
@@ -78,9 +123,9 @@
           "inning": "India Women Inning 1"
         },
         {
-          "r": 37,
-          "w": 0,
-          "o": 6,
+          "r": 153,
+          "w": 8,
+          "o": 20,
           "inning": "West Indies Women Inning 1"
         }
       ],
@@ -89,7 +134,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5874fb47-1eb0-4a64-8e30-2e8ae0537216",
@@ -272,6 +317,45 @@
       "matchEnded": true
     },
     {
+      "id": "1190c4c2-c2b3-480a-9734-826a33d0a1cb",
+      "name": "Netherlands vs United States of America, 111th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United States of America opt to bowl",
+      "venue": "Maple Leaf North-West Ground, King City",
+      "date": "2026-06-08",
+      "dateTimeGMT": "2026-06-08T00:00:00",
+      "teams": [
+        "Netherlands",
+        "United States of America"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 2,
+          "o": 33,
+          "inning": "Netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "cb728e55-fcb1-4814-a3cf-a7433b0e7666",
       "name": "Canada vs United States of America, 110th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -317,10 +401,54 @@
       "matchEnded": true
     },
     {
+      "id": "2bcde17d-b659-4391-9979-273b23da5fd5",
+      "name": "Malwa Stallions vs Indore Pink Panthers, 13th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Malwa Stallions need 145 runs in 63 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-08",
+      "dateTimeGMT": "2026-06-08T14:00:00",
+      "teams": [
+        "Malwa Stallions",
+        "Indore Pink Panthers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indore Pink Panthers",
+          "shortname": "IPP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malwa Stallions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 229,
+          "w": 5,
+          "o": 20,
+          "inning": "indore pink panthers Inning 1"
+        },
+        {
+          "r": 85,
+          "w": 3,
+          "o": 9.3,
+          "inning": "Malwa Stallions,Indore Pink Panthers Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "416d3580-e608-49fb-9283-994815b9ace4",
       "name": "Chambal Ghariyals vs Ujjain Falcons, 12th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Ujjain Falcons need 188 runs",
+      "status": "Chambal Ghariyals won by 7 runs",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-08",
       "dateTimeGMT": "2026-06-08T09:30:00",
@@ -347,9 +475,9 @@
           "inning": "Chambal Ghariyals Inning 1"
         },
         {
-          "r": 12,
-          "w": 0,
-          "o": 1.2,
+          "r": 192,
+          "w": 9,
+          "o": 20,
           "inning": "Ujjain Falcons Inning 1"
         }
       ],
@@ -358,13 +486,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d2c2fefa-cf57-4ca3-b21b-64f868871702",
       "name": "Bundelkhand Bulls vs Bhopal Leopards, 11th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Bundelkhand Bulls need 118 runs in 60 balls",
+      "status": "Bundelkhand Bulls won by 6 wkts",
       "venue": "Daly College Ground, Indore",
       "date": "2026-06-08",
       "dateTimeGMT": "2026-06-08T09:30:00",
@@ -392,9 +520,9 @@
           "inning": "bhopal leopards Inning 1"
         },
         {
-          "r": 80,
-          "w": 2,
-          "o": 10,
+          "r": 201,
+          "w": 4,
+          "o": 18.5,
           "inning": "Bundelkhand Bulls,Bhopal Leopards Inning 1"
         }
       ],
@@ -403,7 +531,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2ea647b0-9000-419c-addb-06c8f5a6efbe",
@@ -988,140 +1116,6 @@
           "w": 5,
           "o": 5,
           "inning": "China Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5b664bd1-a377-4bbc-b7c0-e346e39842a3",
-      "name": "Myanmar Women vs Thailand Women, 25th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Thailand Women won by 10 wkts - 17 Overs game due to rain",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T01:30:00",
-      "teams": [
-        "Myanmar Women",
-        "Thailand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Myanmar Women",
-          "shortname": "MYW",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        },
-        {
-          "name": "Thailand Women",
-          "shortname": "THW",
-          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 32,
-          "w": 9,
-          "o": 17,
-          "inning": "Myanmar Women Inning 1"
-        },
-        {
-          "r": 33,
-          "w": 0,
-          "o": 3.1,
-          "inning": "Thailand Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f7477d5b-ad33-4226-9f32-e81087c85786",
-      "name": "Bahrain Women vs Mongolia Women, 21st Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Mongolia Women won by 3 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T06:00:00",
-      "teams": [
-        "Bahrain Women",
-        "Mongolia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain Women",
-          "shortname": "BAH-W",
-          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
-        },
-        {
-          "name": "Mongolia Women",
-          "shortname": "MW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 97,
-          "w": 10,
-          "o": 18.2,
-          "inning": "bahrain women Inning 1"
-        },
-        {
-          "r": 98,
-          "w": 7,
-          "o": 14.3,
-          "inning": "Bahrain Women,Mongolia Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b7d9c1ed-322e-4bc1-b7ad-815ee569cfa9",
-      "name": "Oman Women vs Saudi Arabia Women, 22nd Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Oman Women won by 10 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T06:00:00",
-      "teams": [
-        "Oman Women",
-        "Saudi Arabia Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman Women",
-          "shortname": "OMN-W",
-          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
-        },
-        {
-          "name": "Saudi Arabia Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 38,
-          "w": 10,
-          "o": 13.4,
-          "inning": "Saudi Arabia Women Inning 1"
-        },
-        {
-          "r": 39,
-          "w": 0,
-          "o": 3.2,
-          "inning": "Oman Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
