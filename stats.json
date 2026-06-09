@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T10:50:00.225Z",
+  "lastUpdated": "2026-06-09T16:33:47.689Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -47,10 +47,100 @@
       "matchEnded": true
     },
     {
+      "id": "d9d89427-d722-4c3d-ae9b-a20ebaef0d5a",
+      "name": "South Africa Women vs New Zealand Women, 10th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "New Zealand Women need 69 runs in 48 balls",
+      "venue": "Haslegrave Ground, Loughborough",
+      "date": "2026-06-09",
+      "dateTimeGMT": "2026-06-09T14:00:00",
+      "teams": [
+        "South Africa Women",
+        "New Zealand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 5,
+          "o": 20,
+          "inning": "South Africa Women Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 2,
+          "o": 12,
+          "inning": "New Zealand Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "12239faf-393e-4119-8146-eb14ffebe2c8",
+      "name": "Netherlands Women vs Sri Lanka Women, 9th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women need 127 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-06-09",
+      "dateTimeGMT": "2026-06-09T14:00:00",
+      "teams": [
+        "Netherlands Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 6,
+          "o": 20,
+          "inning": "netherlands women Inning 1"
+        },
+        {
+          "r": 17,
+          "w": 0,
+          "o": 3,
+          "inning": "Netherlands Women,Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "d8e6470e-8224-47d0-8e27-7124c1150cb7",
       "name": "Scotland Women vs Pakistan Women, 7th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
       "matchType": "t20",
-      "status": "Pakistan Women opt to bowl",
+      "status": "Scotland Women won by 41 runs (DLS method)",
       "venue": "County Ground, Derby",
       "date": "2026-06-09",
       "dateTimeGMT": "2026-06-09T09:00:00",
@@ -72,10 +162,16 @@
       ],
       "score": [
         {
-          "r": 117,
-          "w": 4,
-          "o": 15,
+          "r": 191,
+          "w": 5,
+          "o": 20,
           "inning": "Scotland Women Inning 1"
+        },
+        {
+          "r": 62,
+          "w": 5,
+          "o": 9,
+          "inning": "Pakistan Women Inning 1"
         }
       ],
       "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
@@ -83,14 +179,14 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "db61b764-861f-4310-8392-3186407d2be3",
       "name": "Ireland Women vs Bangladesh Women, 8th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Ireland Women won by 11 runs",
+      "venue": "Haslegrave Ground, Loughborough",
       "date": "2026-06-09",
       "dateTimeGMT": "2026-06-09T09:00:00",
       "teams": [
@@ -111,10 +207,16 @@
       ],
       "score": [
         {
-          "r": 90,
-          "w": 6,
-          "o": 13.5,
+          "r": 143,
+          "w": 9,
+          "o": 20,
           "inning": "Ireland Women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 6,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
         }
       ],
       "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
@@ -122,13 +224,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "62aacfe9-07a1-4b7a-9d6c-689dc6c99d9c",
       "name": "England Women vs Australia Women, 6th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
       "matchType": "t20",
-      "status": "Australia Women opt to bowl",
+      "status": "Australia Women won by 5 wkts",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-06-08",
       "dateTimeGMT": "2026-06-08T14:00:00",
@@ -150,10 +252,16 @@
       ],
       "score": [
         {
-          "r": 68,
-          "w": 3,
-          "o": 10,
+          "r": 157,
+          "w": 6,
+          "o": 20,
           "inning": "England Women Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 5,
+          "o": 18.2,
+          "inning": "Australia Women Inning 1"
         }
       ],
       "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
@@ -309,6 +417,18 @@
       "teams": [
         "South Africa Women",
         "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -956,131 +1076,40 @@
       "matchEnded": true
     },
     {
-      "id": "068dd90e-59f4-4c19-89b5-138de6c8bba4",
-      "name": "Mongolia Women vs Myanmar Women, 30th Match, Group A, ACC Womens T20I Premier Cup 2026",
+      "id": "df783a16-7f07-444c-9fa9-b287cf52bc8d",
+      "name": "China Women vs Saudi Arabia Women, 32nd Match, Group B, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Myanmar Women won by 102 runs",
+      "status": "No result due to rain",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-06-09",
-      "dateTimeGMT": "2026-06-09T01:30:00",
+      "dateTimeGMT": "2026-06-09T06:00:00",
       "teams": [
-        "Mongolia Women",
-        "Myanmar Women"
+        "China Women",
+        "Saudi Arabia Women"
       ],
       "teamInfo": [
         {
-          "name": "Mongolia Women",
-          "shortname": "MW",
+          "name": "China Women",
+          "shortname": "CHW",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Saudi Arabia Women",
           "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Myanmar Women",
-          "shortname": "MYW",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
         }
       ],
       "score": [
         {
-          "r": 182,
-          "w": 1,
+          "r": 39,
+          "w": 7,
           "o": 20,
-          "inning": "myanmar women Inning 1"
+          "inning": "saudi arabia women Inning 1"
         },
         {
-          "r": 80,
-          "w": 9,
-          "o": 20,
-          "inning": "Mongolia Women,Myanmar Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "27aeb69d-197f-4b46-83ad-4c980d6290fc",
-      "name": "Japan Women vs Thailand Women, 29th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Thailand Women won by 42 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-09",
-      "dateTimeGMT": "2026-06-09T01:30:00",
-      "teams": [
-        "Japan Women",
-        "Thailand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Japan Women",
-          "shortname": "JPW",
-          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
-        },
-        {
-          "name": "Thailand Women",
-          "shortname": "THW",
-          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 6,
-          "o": 20,
-          "inning": "thailand women Inning 1"
-        },
-        {
-          "r": 84,
-          "w": 10,
-          "o": 20,
-          "inning": "Japan Women,Thailand Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "27fdbfb2-856c-4491-bbe0-a92bff7e4702",
-      "name": "Oman Women vs Philippines Women, 28th Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Oman Women won by 44 runs",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T06:00:00",
-      "teams": [
-        "Oman Women",
-        "Philippines Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman Women",
-          "shortname": "OMN-W",
-          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
-        },
-        {
-          "name": "Philippines Women",
-          "shortname": "PHW",
-          "img": "https://g.cricapi.com/iapi/70-637869112270788027.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 141,
-          "w": 6,
-          "o": 20,
-          "inning": "Oman Women Inning 1"
-        },
-        {
-          "r": 97,
-          "w": 8,
-          "o": 20,
-          "inning": "Philippines Women Inning 1"
+          "r": 24,
+          "w": 2,
+          "o": 2.4,
+          "inning": "China Women,Saudi Arabia Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
