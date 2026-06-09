@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T06:14:33.795Z",
+  "lastUpdated": "2026-06-09T10:50:00.225Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -47,10 +47,88 @@
       "matchEnded": true
     },
     {
+      "id": "d8e6470e-8224-47d0-8e27-7124c1150cb7",
+      "name": "Scotland Women vs Pakistan Women, 7th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women opt to bowl",
+      "venue": "County Ground, Derby",
+      "date": "2026-06-09",
+      "dateTimeGMT": "2026-06-09T09:00:00",
+      "teams": [
+        "Scotland Women",
+        "Pakistan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Scotland Women",
+          "shortname": "SCOW",
+          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 4,
+          "o": 15,
+          "inning": "Scotland Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "db61b764-861f-4310-8392-3186407d2be3",
+      "name": "Ireland Women vs Bangladesh Women, 8th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "",
+      "venue": "",
+      "date": "2026-06-09",
+      "dateTimeGMT": "2026-06-09T09:00:00",
+      "teams": [
+        "Ireland Women",
+        "Bangladesh Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 90,
+          "w": 6,
+          "o": 13.5,
+          "inning": "Ireland Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "62aacfe9-07a1-4b7a-9d6c-689dc6c99d9c",
       "name": "England Women vs Australia Women, 6th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
       "matchType": "t20",
-      "status": "Australia Women won by 5 wkts",
+      "status": "Australia Women opt to bowl",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-06-08",
       "dateTimeGMT": "2026-06-08T14:00:00",
@@ -72,16 +150,10 @@
       ],
       "score": [
         {
-          "r": 157,
-          "w": 6,
-          "o": 20,
+          "r": 68,
+          "w": 3,
+          "o": 10,
           "inning": "England Women Inning 1"
-        },
-        {
-          "r": 158,
-          "w": 5,
-          "o": 18.2,
-          "inning": "Australia Women Inning 1"
         }
       ],
       "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
@@ -237,18 +309,6 @@
       "teams": [
         "South Africa Women",
         "Ireland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland Women",
-          "shortname": "IRW",
-          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
       ],
       "score": [
         {
@@ -854,7 +914,7 @@
       "id": "1649fb0c-505a-4ff4-824a-fbd9f9d539b5",
       "name": "Philippines Women vs United Arab Emirates Women, 31st Match, Group B, ACC Womens T20I Premier Cup 2026",
       "matchType": "t20",
-      "status": "Philippines Women opt to bowl",
+      "status": "United Arab Emirates Women won by 149 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-06-09",
       "dateTimeGMT": "2026-06-09T06:00:00",
@@ -874,12 +934,26 @@
           "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 200,
+          "w": 5,
+          "o": 20,
+          "inning": "United Arab Emirates Women Inning 1"
+        },
+        {
+          "r": 51,
+          "w": 10,
+          "o": 12.1,
+          "inning": "Philippines Women Inning 1"
+        }
+      ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "068dd90e-59f4-4c19-89b5-138de6c8bba4",
@@ -1007,96 +1081,6 @@
           "w": 8,
           "o": 20,
           "inning": "Philippines Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "07105ba1-e1ec-482d-bcc7-bb93e095b057",
-      "name": "Bahrain Women vs Japan Women, 27th Match, Group A, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Japan Women won by 48 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T06:00:00",
-      "teams": [
-        "Bahrain Women",
-        "Japan Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain Women",
-          "shortname": "BAH-W",
-          "img": "https://g.cricapi.com/iapi/1597-637926302418123133.webp?w=48"
-        },
-        {
-          "name": "Japan Women",
-          "shortname": "JPW",
-          "img": "https://g.cricapi.com/iapi/2769-638040164317933999.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 5,
-          "o": 20,
-          "inning": "japan women Inning 1"
-        },
-        {
-          "r": 94,
-          "w": 3,
-          "o": 20,
-          "inning": "Bahrain Women,Japan Women Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "77902d99-5d2b-451a-ad2f-34ec2cb14ff6",
-      "name": "China Women vs United Arab Emirates Women, 26th Match, Group B, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "United Arab Emirates Women won by 18 runs - 5 Overs game due to rain",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T01:30:00",
-      "teams": [
-        "China Women",
-        "United Arab Emirates Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "China Women",
-          "shortname": "CHW",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "United Arab Emirates Women",
-          "shortname": "UAEW",
-          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 47,
-          "w": 3,
-          "o": 5,
-          "inning": "United Arab Emirates Women Inning 1"
-        },
-        {
-          "r": 29,
-          "w": 5,
-          "o": 5,
-          "inning": "China Women Inning 1"
         }
       ],
       "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
