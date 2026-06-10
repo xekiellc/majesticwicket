@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T11:28:45.502Z",
+  "lastUpdated": "2026-06-10T17:25:38.641Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -47,10 +47,55 @@
       "matchEnded": true
     },
     {
+      "id": "45152e3c-78d2-43d0-a8ac-bc1c7c48cf7e",
+      "name": "West Indies Women vs Australia Women, 12th match, ICC Womens T20 World Cup Warm-up Matches 2026",
+      "matchType": "t20",
+      "status": "Australia Women won by 6 wkts",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T14:00:00",
+      "teams": [
+        "West Indies Women",
+        "Australia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 131,
+          "w": 10,
+          "o": 20,
+          "inning": "west indies women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 4,
+          "o": 15,
+          "inning": "West Indies Women,Australia Women Inning 1"
+        }
+      ],
+      "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "9471d62d-4289-47b0-a823-05f57553891a",
       "name": "India Women vs England Women, 11th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "England Women won by 5 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-06-10",
       "dateTimeGMT": "2026-06-10T09:00:00",
@@ -76,6 +121,12 @@
           "w": 6,
           "o": 20,
           "inning": "England Women Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 10,
+          "o": 19.5,
+          "inning": "India Women Inning 1"
         }
       ],
       "series_id": "0c6e47d9-cf86-4733-aa0b-0db09c3b222a",
@@ -83,7 +134,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d9d89427-d722-4c3d-ae9b-a20ebaef0d5a",
@@ -536,6 +587,45 @@
       "matchEnded": true
     },
     {
+      "id": "02de252b-dd10-43ac-89c5-737fc62ac459",
+      "name": "Canada vs Netherlands, 112th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Canada opt to bowl",
+      "venue": "Maple Leaf North-West Ground, King City",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T00:00:00",
+      "teams": [
+        "Canada",
+        "Netherlands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 4,
+          "o": 29,
+          "inning": "Netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "1190c4c2-c2b3-480a-9734-826a33d0a1cb",
       "name": "Netherlands vs United States of America, 111th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -626,10 +716,54 @@
       "matchEnded": true
     },
     {
+      "id": "4119ef99-06de-4809-af80-f455984c3317",
+      "name": "Bundelkhand Bulls vs Malwa Stallions, 16th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Bundelkhand Bulls need 62 runs in 36 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T14:00:00",
+      "teams": [
+        "Bundelkhand Bulls",
+        "Malwa Stallions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malwa Stallions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 215,
+          "w": 5,
+          "o": 20,
+          "inning": "malwa stallions Inning 1"
+        },
+        {
+          "r": 154,
+          "w": 4,
+          "o": 14,
+          "inning": "Bundelkhand Bulls,Malwa Stallions Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "a1d663ac-84dd-416b-8792-17a50437676c",
       "name": "Bhopal Leopards vs Ujjain Falcons, 15th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Ujjain Falcons won by 16 runs",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-10",
       "dateTimeGMT": "2026-06-10T09:30:00",
@@ -654,6 +788,12 @@
           "w": 8,
           "o": 20,
           "inning": "Ujjain Falcons Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 7,
+          "o": 20,
+          "inning": "Bhopal Leopards Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -661,13 +801,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1f2b4660-a2b2-4e41-ac91-50a2e7b20c50",
       "name": "Indore Pink Panthers vs Rewa Jaguars, 14th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Indore Pink Panthers need 160 runs in 86 balls",
+      "status": "Rewa Jaguars won by 31 runs",
       "venue": "Daly College Ground, Indore",
       "date": "2026-06-10",
       "dateTimeGMT": "2026-06-10T09:30:00",
@@ -695,9 +835,9 @@
           "inning": "rewa jaguars Inning 1"
         },
         {
-          "r": 50,
-          "w": 1,
-          "o": 5.4,
+          "r": 178,
+          "w": 10,
+          "o": 19.3,
           "inning": "Indore Pink Panthers,Rewa Jaguars Inning 1"
         }
       ],
@@ -706,7 +846,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2bcde17d-b659-4391-9979-273b23da5fd5",
@@ -968,141 +1108,6 @@
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d55c009b-fda8-4c46-b873-a3d4fef34c86",
-      "name": "Indore Pink Panthers vs Jabalpur Royal Lions, 7th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Jabalpur Royal Lions won by 5 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T14:00:00",
-      "teams": [
-        "Indore Pink Panthers",
-        "Jabalpur Royal Lions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indore Pink Panthers",
-          "shortname": "IPP",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jabalpur Royal Lions",
-          "shortname": "JRL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 8,
-          "o": 20,
-          "inning": "Indore Pink Panthers Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 5,
-          "o": 18,
-          "inning": "Jabalpur Royal Lions Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "57ea0afb-b7aa-45c1-a6f1-455be3bf84ff",
-      "name": "Bundelkhand Bulls vs Rewa Jaguars, 6th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Rewa Jaguars won by 9 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T09:30:00",
-      "teams": [
-        "Bundelkhand Bulls",
-        "Rewa Jaguars"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bundelkhand Bulls",
-          "shortname": "BB",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Rewa Jaguars",
-          "shortname": "RJ",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 74,
-          "w": 10,
-          "o": 15.3,
-          "inning": "Bundelkhand Bulls Inning 1"
-        },
-        {
-          "r": 76,
-          "w": 1,
-          "o": 5.1,
-          "inning": "Rewa Jaguars Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "534987cf-8be1-4002-9399-f38619aee22d",
-      "name": "Nigeria Women vs Malawi Women, 1st Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 52 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-10",
-      "dateTimeGMT": "2026-06-10T07:45:00",
-      "teams": [
-        "Nigeria Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 8,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 46,
-          "w": 10,
-          "o": 10.3,
-          "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
