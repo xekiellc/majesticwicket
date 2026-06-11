@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T22:07:29.814Z",
+  "lastUpdated": "2026-06-11T06:55:36.214Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -410,7 +410,7 @@
       "id": "02de252b-dd10-43ac-89c5-737fc62ac459",
       "name": "Canada vs Netherlands, 112th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Canada need 52 runs in 60 balls",
+      "status": "Canada won by 2 wkts",
       "venue": "Maple Leaf North-West Ground, King City",
       "date": "2026-06-10",
       "dateTimeGMT": "2026-06-10T00:00:00",
@@ -438,9 +438,9 @@
           "inning": "Netherlands Inning 1"
         },
         {
-          "r": 163,
-          "w": 6,
-          "o": 40,
+          "r": 218,
+          "w": 8,
+          "o": 49.5,
           "inning": "Canada Inning 1"
         }
       ],
@@ -449,7 +449,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1190c4c2-c2b3-480a-9734-826a33d0a1cb",
