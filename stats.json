@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T12:01:37.979Z",
+  "lastUpdated": "2026-06-11T17:39:30.084Z",
   "recentMatches": [
     {
       "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
@@ -497,10 +497,55 @@
       "matchEnded": true
     },
     {
+      "id": "d0c12876-08d8-4c0d-a5d4-7d7d6b056000",
+      "name": "Gwalior Cheetahs vs Chambal Ghariyals, 19th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Chambal Ghariyals need 57 runs in 31 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-11",
+      "dateTimeGMT": "2026-06-11T14:00:00",
+      "teams": [
+        "Gwalior Cheetahs",
+        "Chambal Ghariyals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 257,
+          "w": 6,
+          "o": 20,
+          "inning": "gwalior cheetahs Inning 1"
+        },
+        {
+          "r": 201,
+          "w": 6,
+          "o": 14.5,
+          "inning": "Gwalior Cheetahs,Chambal Ghariyals Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "b508dabc-eed3-4c5a-aace-d4131c194481",
       "name": "Royal Nimar Eagles vs Malwa Stallions, 18th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Royal Nimar Eagles need 66 runs",
+      "status": "Royal Nimar Eagles won by 8 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-11",
       "dateTimeGMT": "2026-06-11T09:30:00",
@@ -526,9 +571,9 @@
           "inning": "Malwa Stallions Inning 1"
         },
         {
-          "r": 48,
-          "w": 1,
-          "o": 3.2,
+          "r": 116,
+          "w": 2,
+          "o": 9.4,
           "inning": "Royal Nimar Eagles Inning 1"
         }
       ],
@@ -537,13 +582,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "07a07e1f-18ee-4134-8609-d828611e7d0c",
       "name": "Ujjain Falcons vs Jabalpur Royal Lions, 17th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Jabalpur Royal Lions need 154 runs in 81 balls",
+      "status": "Jabalpur Royal Lions won by 5 wkts",
       "venue": "Daly College Ground, Indore",
       "date": "2026-06-11",
       "dateTimeGMT": "2026-06-11T09:30:00",
@@ -570,9 +615,9 @@
           "inning": "Ujjain Falcons Inning 1"
         },
         {
-          "r": 57,
-          "w": 2,
-          "o": 6.3,
+          "r": 212,
+          "w": 5,
+          "o": 18.4,
           "inning": "Jabalpur Royal Lions Inning 1"
         }
       ],
@@ -581,7 +626,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4119ef99-06de-4809-af80-f455984c3317",
@@ -1063,51 +1108,6 @@
           "w": 3,
           "o": 18.2,
           "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "534987cf-8be1-4002-9399-f38619aee22d",
-      "name": "Nigeria Women vs Malawi Women, 1st Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 52 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-10",
-      "dateTimeGMT": "2026-06-10T07:45:00",
-      "teams": [
-        "Nigeria Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 8,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 46,
-          "w": 10,
-          "o": 10.3,
-          "inning": "Malawi Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
