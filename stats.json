@@ -1,51 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T17:39:30.084Z",
+  "lastUpdated": "2026-06-11T22:04:34.405Z",
   "recentMatches": [
-    {
-      "id": "47d44416-4b2f-4209-a24a-4e836b23794a",
-      "name": "Eswatini vs Mozambique, Final, Eswatini Tri Series, 2026",
-      "matchType": "t20",
-      "status": "Eswatini won by 6 wkts",
-      "venue": "Malkerns Country Club oval, Malkerns",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T00:00:00",
-      "teams": [
-        "Eswatini",
-        "Mozambique"
-      ],
-      "teamInfo": [
-        {
-          "name": "Eswatini",
-          "shortname": "EWZ",
-          "img": "https://g.cricapi.com/iapi/602-637876983785379790.webp?w=48"
-        },
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 8,
-          "o": 20,
-          "inning": "mozambique Inning 1"
-        },
-        {
-          "r": 195,
-          "w": 4,
-          "o": 17.1,
-          "inning": "Eswatini,Mozambique Inning 1"
-        }
-      ],
-      "series_id": "d9f59ddd-af4b-4160-8441-58630befa692",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "45152e3c-78d2-43d0-a8ac-bc1c7c48cf7e",
       "name": "West Indies Women vs Australia Women, 12th match, ICC Womens T20 World Cup Warm-up Matches 2026",
@@ -500,7 +455,7 @@
       "id": "d0c12876-08d8-4c0d-a5d4-7d7d6b056000",
       "name": "Gwalior Cheetahs vs Chambal Ghariyals, 19th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Chambal Ghariyals need 57 runs in 31 balls",
+      "status": "Chambal Ghariyals won by 3 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-11",
       "dateTimeGMT": "2026-06-11T14:00:00",
@@ -528,9 +483,9 @@
           "inning": "gwalior cheetahs Inning 1"
         },
         {
-          "r": 201,
-          "w": 6,
-          "o": 14.5,
+          "r": 258,
+          "w": 7,
+          "o": 19.3,
           "inning": "Gwalior Cheetahs,Chambal Ghariyals Inning 1"
         }
       ],
@@ -539,7 +494,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b508dabc-eed3-4c5a-aace-d4131c194481",
@@ -895,139 +850,6 @@
       "matchEnded": true
     },
     {
-      "id": "2ea647b0-9000-419c-addb-06c8f5a6efbe",
-      "name": "Rewa Jaguars vs Bhopal Leopards, 10th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Bhopal Leopards won by 3 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T14:00:00",
-      "teams": [
-        "Rewa Jaguars",
-        "Bhopal Leopards"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhopal Leopards",
-          "shortname": "BL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Rewa Jaguars",
-          "shortname": "RJ",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 8,
-          "o": 20,
-          "inning": "rewa jaguars Inning 1"
-        },
-        {
-          "r": 205,
-          "w": 7,
-          "o": 19.3,
-          "inning": "Rewa Jaguars,Bhopal Leopards Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c4b593dd-fe9b-4eac-9f2e-3b53fc839ccc",
-      "name": "Royal Nimar Eagles vs Chambal Ghariyals, 9th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Chambal Ghariyals won by 4 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T09:30:00",
-      "teams": [
-        "Royal Nimar Eagles",
-        "Chambal Ghariyals"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chambal Ghariyals",
-          "shortname": "CG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Royal Nimar Eagles",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 145,
-          "w": 9,
-          "o": 20,
-          "inning": "Royal Nimar Eagles Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 6,
-          "o": 17.4,
-          "inning": "Chambal Ghariyals Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4830ca0-605e-44c3-a3e5-a635077476ca",
-      "name": "Malwa Stallions vs Gwalior Cheetahs, 8th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Gwalior Cheetahs won by 51 runs",
-      "venue": "Daly College Ground, Indore",
-      "date": "2026-06-07",
-      "dateTimeGMT": "2026-06-07T09:30:00",
-      "teams": [
-        "Malwa Stallions",
-        "Gwalior Cheetahs"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gwalior Cheetahs",
-          "shortname": "GC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Malwa Stallions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 190,
-          "w": 7,
-          "o": 20,
-          "inning": "malwa stallions Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 10,
-          "o": 17.1,
-          "inning": "Malwa Stallions,Gwalior Cheetahs Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "91d02b50-a981-4cc5-8540-4a6ff4cfbda3",
       "name": "Rwanda Women vs Malawi Women, 3rd Match, Kwibuka Womens T20I Tournament, 2026",
       "matchType": "t20",
@@ -1111,6 +933,180 @@
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "534987cf-8be1-4002-9399-f38619aee22d",
+      "name": "Nigeria Women vs Malawi Women, 1st Match, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Nigeria Women won by 52 runs",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T07:45:00",
+      "teams": [
+        "Nigeria Women",
+        "Malawi Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malawi Women",
+          "shortname": "MW",
+          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
+        },
+        {
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 8,
+          "o": 20,
+          "inning": "Nigeria Women Inning 1"
+        },
+        {
+          "r": 46,
+          "w": 10,
+          "o": 10.3,
+          "inning": "Malawi Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6f9012e6-6d97-452e-96b2-dd07277105bc",
+      "name": "Indonesia Women vs Oman Women, 4th Quarter final, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 113 runs",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T06:00:00",
+      "teams": [
+        "Indonesia Women",
+        "Oman Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        },
+        {
+          "name": "Oman Women",
+          "shortname": "OMN-W",
+          "img": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 7,
+          "o": 20,
+          "inning": "indonesia women Inning 1"
+        },
+        {
+          "r": 24,
+          "w": 10,
+          "o": 11.5,
+          "inning": "Indonesia Women,Oman Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0bd21e56-34e8-42a3-b59a-874186f17d0e",
+      "name": "United Arab Emirates Women vs Malaysia Women, 3rd Quarter final, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 52 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T06:00:00",
+      "teams": [
+        "United Arab Emirates Women",
+        "Malaysia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 2,
+          "o": 20,
+          "inning": "united arab emirates women Inning 1"
+        },
+        {
+          "r": 86,
+          "w": 5,
+          "o": 20,
+          "inning": "United Arab Emirates Women,Malaysia Women Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dc73db61-99c0-4943-96f6-6b4d5b185431",
+      "name": "Hong Kong, China Women vs Japan Women, 2nd Quarter final, ACC Womens T20I Premier Cup 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China Women won by 41 runs",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-06-10",
+      "dateTimeGMT": "2026-06-10T01:30:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 5,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 10,
+          "o": 19.1,
+          "inning": " Inning 1"
+        }
+      ],
+      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
