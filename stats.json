@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T11:32:44.014Z",
+  "lastUpdated": "2026-06-12T16:47:46.006Z",
   "recentMatches": [
     {
       "id": "45152e3c-78d2-43d0-a8ac-bc1c7c48cf7e",
@@ -362,6 +362,45 @@
       "matchEnded": true
     },
     {
+      "id": "d8bff171-37e6-4605-8221-c3105a8137e0",
+      "name": "United States of America vs Canada, 113th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United States of America opt to bowl",
+      "venue": "Maple Leaf North-West Ground, King City",
+      "date": "2026-06-12",
+      "dateTimeGMT": "2026-06-12T00:00:00",
+      "teams": [
+        "United States of America",
+        "Canada"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "United States of America",
+          "shortname": "US",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 3,
+          "o": 24.1,
+          "inning": "Canada Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "02de252b-dd10-43ac-89c5-737fc62ac459",
       "name": "Canada vs Netherlands, 112th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -455,7 +494,7 @@
       "id": "7add42d2-9014-4e1f-b47f-efff83f45a66",
       "name": "Indore Pink Panthers vs Bundelkhand Bulls, 22nd Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Indore Pink Panthers won by 25 runs",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-12",
       "dateTimeGMT": "2026-06-12T09:30:00",
@@ -481,6 +520,12 @@
           "w": 8,
           "o": 20,
           "inning": "Indore Pink Panthers Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 10,
+          "o": 20,
+          "inning": "Bundelkhand Bulls Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -488,13 +533,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "be932d2b-05b6-4758-9f7e-b13b92554416",
       "name": "Bhopal Leopards vs Chambal Ghariyals, 21st Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Chambal Ghariyals need 97 runs in 82 balls",
+      "status": "Chambal Ghariyals won by 5 wkts",
       "venue": "Daly College Ground, Indore",
       "date": "2026-06-12",
       "dateTimeGMT": "2026-06-12T09:30:00",
@@ -522,9 +567,9 @@
           "inning": "Bhopal Leopards Inning 1"
         },
         {
-          "r": 46,
-          "w": 2,
-          "o": 6.2,
+          "r": 144,
+          "w": 5,
+          "o": 19.1,
           "inning": "Chambal Ghariyals Inning 1"
         }
       ],
@@ -533,7 +578,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "955cfed9-8f1a-4aed-b77d-60dd25e7908d",
@@ -981,7 +1026,7 @@
       "id": "7321fb30-e950-48af-a175-c1a4204adbb5",
       "name": "Brazil Women vs Malawi Women, 5th Match, Kwibuka Womens T20I Tournament, 2026",
       "matchType": "t20",
-      "status": "Malawi Women opt to bowl",
+      "status": "Brazil Women won by 42 runs",
       "venue": "Gahanga B Ground, Kigali City",
       "date": "2026-06-12",
       "dateTimeGMT": "2026-06-12T07:45:00",
@@ -1003,18 +1048,24 @@
       ],
       "score": [
         {
-          "r": 71,
-          "w": 3,
-          "o": 11.3,
+          "r": 124,
+          "w": 8,
+          "o": 20,
           "inning": "Brazil Women Inning 1"
+        },
+        {
+          "r": 82,
+          "w": 9,
+          "o": 20,
+          "inning": "Malawi Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "9e1904f8-d1f8-4070-9bfb-95ab0e158cc4",
@@ -1052,51 +1103,6 @@
           "w": 6,
           "o": 20,
           "inning": "Rwanda Women,Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "91d02b50-a981-4cc5-8540-4a6ff4cfbda3",
-      "name": "Rwanda Women vs Malawi Women, 3rd Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 66 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-11",
-      "dateTimeGMT": "2026-06-11T07:45:00",
-      "teams": [
-        "Rwanda Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 174,
-          "w": 6,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 5,
-          "o": 20,
-          "inning": "Malawi Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
