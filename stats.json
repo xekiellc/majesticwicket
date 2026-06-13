@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-06-13T06:22:20.726Z",
+  "lastUpdated": "2026-06-13T10:19:31.220Z",
   "recentMatches": [
+    {
+      "id": "3fb10526-583e-4667-9c84-6a4c6af3eb05",
+      "name": "Scotland Women vs Ireland Women, 2nd Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Ireland Women opt to bowl",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T09:30:00",
+      "teams": [
+        "Scotland Women",
+        "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Scotland Women",
+          "shortname": "SCOW",
+          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 91,
+          "w": 2,
+          "o": 11,
+          "inning": "Scotland Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "170629b7-d655-4848-8993-c32139380549",
       "name": "England Women vs Sri Lanka Women, 1st Match, Group B, ICC Womens T20 World Cup 2026",
@@ -407,11 +446,88 @@
       "matchEnded": true
     },
     {
+      "id": "e8a2a7a9-72df-4cfa-8f33-9c635b834dad",
+      "name": "Bundelkhand Bulls vs Gwalior Cheetahs, 24th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Gwalior Cheetahs opt to bat",
+      "venue": "Daly College Ground, Indore",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T09:30:00",
+      "teams": [
+        "Bundelkhand Bulls",
+        "Gwalior Cheetahs"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 148,
+          "w": 2,
+          "o": 13,
+          "inning": "gwalior cheetahs Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "a210c3a6-bb7f-4efe-9dcb-97c4cb209ec1",
+      "name": "Ujjain Falcons vs Rewa Jaguars, 25th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Ujjain Falcons opt to bat",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T09:30:00",
+      "teams": [
+        "Ujjain Falcons",
+        "Rewa Jaguars"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 86,
+          "w": 1,
+          "o": 8,
+          "inning": "ujjain falcons Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "27bc6105-f2b4-4c76-950c-353c63d7f5a8",
       "name": "Malwa Stallions vs Jabalpur Royal Lions, 23rd Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Innings Break",
-      "venue": "Daly College Ground, Indore",
+      "status": "Jabalpur Royal Lions won by 54 runs",
+      "venue": "Holkar Stadium, Indore",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T04:30:00",
       "teams": [
@@ -435,6 +551,12 @@
           "w": 5,
           "o": 20,
           "inning": "Jabalpur Royal Lions Inning 1"
+        },
+        {
+          "r": 151,
+          "w": 10,
+          "o": 18.4,
+          "inning": "Malwa Stallions Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -442,7 +564,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7add42d2-9014-4e1f-b47f-efff83f45a66",
@@ -972,141 +1094,6 @@
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9327eddf-88c4-4017-9e21-2db774e17a78",
-      "name": "Nigeria Women vs Brazil Women, 2nd Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 7 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-11",
-      "dateTimeGMT": "2026-06-11T07:30:00",
-      "teams": [
-        "Nigeria Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 111,
-          "w": 6,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 112,
-          "w": 3,
-          "o": 18.2,
-          "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "534987cf-8be1-4002-9399-f38619aee22d",
-      "name": "Nigeria Women vs Malawi Women, 1st Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 52 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-10",
-      "dateTimeGMT": "2026-06-10T07:45:00",
-      "teams": [
-        "Nigeria Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 8,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 46,
-          "w": 10,
-          "o": 10.3,
-          "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7bfe47bc-da70-4278-96cb-cfa55481cb10",
-      "name": "Indonesia Women vs Hong Kong, China Women, 3rd Place Play-off, ACC Womens T20I Premier Cup 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 6 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-06-13",
-      "dateTimeGMT": "2026-06-13T01:30:00",
-      "teams": [
-        "Indonesia Women",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        },
-        {
-          "name": "Indonesia Women",
-          "shortname": "INA-W",
-          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 107,
-          "w": 7,
-          "o": 20,
-          "inning": "hong kong, china women Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 4,
-          "o": 18.3,
-          "inning": "Indonesia Women,Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "4e16ffbd-08a4-45d3-88f9-511206e89a42",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
