@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-06-13T10:19:31.220Z",
+  "lastUpdated": "2026-06-13T15:44:08.220Z",
   "recentMatches": [
+    {
+      "id": "a453b3e5-570e-4e1f-8039-2aa4ec753333",
+      "name": "Australia Women vs South Africa Women, 3rd Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "South Africa Women need 139 runs in 91 balls",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T13:30:00",
+      "teams": [
+        "Australia Women",
+        "South Africa Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 172,
+          "w": 8,
+          "o": 20,
+          "inning": "australia women Inning 1"
+        },
+        {
+          "r": 34,
+          "w": 2,
+          "o": 4.5,
+          "inning": "Australia Women,South Africa Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "3fb10526-583e-4667-9c84-6a4c6af3eb05",
       "name": "Scotland Women vs Ireland Women, 2nd Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Ireland Women opt to bowl",
+      "status": "Scotland Women won by 40 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T09:30:00",
@@ -27,10 +72,16 @@
       ],
       "score": [
         {
-          "r": 91,
-          "w": 2,
-          "o": 11,
+          "r": 161,
+          "w": 5,
+          "o": 20,
           "inning": "Scotland Women Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Ireland Women Inning 1"
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
@@ -38,7 +89,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "170629b7-d655-4848-8993-c32139380549",
@@ -449,7 +500,7 @@
       "id": "e8a2a7a9-72df-4cfa-8f33-9c635b834dad",
       "name": "Bundelkhand Bulls vs Gwalior Cheetahs, 24th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Gwalior Cheetahs opt to bat",
+      "status": "Gwalior Cheetahs won by 23 runs",
       "venue": "Daly College Ground, Indore",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T09:30:00",
@@ -471,10 +522,16 @@
       ],
       "score": [
         {
-          "r": 148,
-          "w": 2,
-          "o": 13,
+          "r": 249,
+          "w": 4,
+          "o": 20,
           "inning": "gwalior cheetahs Inning 1"
+        },
+        {
+          "r": 226,
+          "w": 9,
+          "o": 20,
+          "inning": "Bundelkhand Bulls,Gwalior Cheetahs Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -482,13 +539,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a210c3a6-bb7f-4efe-9dcb-97c4cb209ec1",
       "name": "Ujjain Falcons vs Rewa Jaguars, 25th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Ujjain Falcons opt to bat",
+      "status": "Rewa Jaguars won by 5 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T09:30:00",
@@ -509,10 +566,16 @@
       ],
       "score": [
         {
-          "r": 86,
-          "w": 1,
-          "o": 8,
+          "r": 231,
+          "w": 4,
+          "o": 20,
           "inning": "ujjain falcons Inning 1"
+        },
+        {
+          "r": 234,
+          "w": 5,
+          "o": 19,
+          "inning": "Ujjain Falcons,Rewa Jaguars Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -520,7 +583,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "27bc6105-f2b4-4c76-950c-353c63d7f5a8",
@@ -1054,51 +1117,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "91d02b50-a981-4cc5-8540-4a6ff4cfbda3",
-      "name": "Rwanda Women vs Malawi Women, 3rd Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 66 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-11",
-      "dateTimeGMT": "2026-06-11T07:45:00",
-      "teams": [
-        "Rwanda Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 174,
-          "w": 6,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 5,
-          "o": 20,
-          "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1395,7 +1413,7 @@
   },
   "hundred": {
     "seriesName": "The Hundred Men's Competition 2026",
-    "startDate": "Jul 21",
+    "startDate": "2026-07-21",
     "endDate": "Aug 16",
     "standings": [],
     "topBatters": [],
