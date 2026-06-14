@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T21:20:49.149Z",
+  "lastUpdated": "2026-06-14T06:47:08.156Z",
   "recentMatches": [
     {
       "id": "4e2fa39e-5865-4c21-9835-d7e20deac835",
@@ -360,6 +360,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "3cf66e71-9e1f-4c36-9109-8bffd7c1ed80",
+      "name": "Chambal Ghariyals vs Indore Pink Panthers, 26th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Chambal Ghariyals need 68 runs in 78 balls",
+      "venue": "Daly College Ground, Indore",
+      "date": "2026-06-14",
+      "dateTimeGMT": "2026-06-14T04:30:00",
+      "teams": [
+        "Chambal Ghariyals",
+        "Indore Pink Panthers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Indore Pink Panthers",
+          "shortname": "IPP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 10,
+          "o": 20,
+          "inning": "Indore Pink Panthers Inning 1"
+        },
+        {
+          "r": 53,
+          "w": 2,
+          "o": 7,
+          "inning": "Chambal Ghariyals Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "e8a2a7a9-72df-4cfa-8f33-9c635b834dad",
@@ -1064,51 +1109,6 @@
           "w": 3,
           "o": 18.2,
           "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "534987cf-8be1-4002-9399-f38619aee22d",
-      "name": "Nigeria Women vs Malawi Women, 1st Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 52 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-10",
-      "dateTimeGMT": "2026-06-10T07:45:00",
-      "teams": [
-        "Nigeria Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 8,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 46,
-          "w": 10,
-          "o": 10.3,
-          "inning": "Malawi Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
