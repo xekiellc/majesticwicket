@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T07:27:06.686Z",
+  "lastUpdated": "2026-06-15T13:44:06.256Z",
   "recentMatches": [
     {
       "id": "c263e869-f024-49ed-9d06-f5405ab9d496",
@@ -403,6 +403,51 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9c5d3d32-9a47-4aa8-8cab-f321272959e7",
+      "name": "Rewa Jaguars vs Gwalior Cheetahs, 28th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Rewa Jaguars won by 23 runs",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-15",
+      "dateTimeGMT": "2026-06-15T09:30:00",
+      "teams": [
+        "Rewa Jaguars",
+        "Gwalior Cheetahs"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 238,
+          "w": 6,
+          "o": 20,
+          "inning": "Rewa Jaguars Inning 1"
+        },
+        {
+          "r": 215,
+          "w": 9,
+          "o": 20,
+          "inning": "Gwalior Cheetahs Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -894,6 +939,51 @@
       "matchEnded": true
     },
     {
+      "id": "856558c5-9fb2-4299-9c16-47a482c689d6",
+      "name": "Brazil Women vs Nigeria Women, 8th Match, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Brazil Women won by 7 wkts",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-06-15",
+      "dateTimeGMT": "2026-06-15T07:45:00",
+      "teams": [
+        "Brazil Women",
+        "Nigeria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brazil Women",
+          "shortname": "BRW",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        },
+        {
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 5,
+          "o": 20,
+          "inning": "Nigeria Women Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 3,
+          "o": 18.4,
+          "inning": "Brazil Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "81916947-40b5-4341-9584-bc5db6f1af2b",
       "name": "Malawi Women vs Nigeria Women, 7th Match, Kwibuka Womens T20I Tournament, 2026",
       "matchType": "t20",
@@ -1017,96 +1107,6 @@
         {
           "r": 82,
           "w": 9,
-          "o": 20,
-          "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9e1904f8-d1f8-4070-9bfb-95ab0e158cc4",
-      "name": "Rwanda Women vs Nigeria Women, 4th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 2 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-12",
-      "dateTimeGMT": "2026-06-12T07:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 106,
-          "w": 10,
-          "o": 19.5,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 6,
-          "o": 20,
-          "inning": "Rwanda Women,Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "91d02b50-a981-4cc5-8540-4a6ff4cfbda3",
-      "name": "Rwanda Women vs Malawi Women, 3rd Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 66 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-11",
-      "dateTimeGMT": "2026-06-11T07:45:00",
-      "teams": [
-        "Rwanda Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 174,
-          "w": 6,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 5,
           "o": 20,
           "inning": "Malawi Women Inning 1"
         }
