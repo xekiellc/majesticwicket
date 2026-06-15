@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:17:11.233Z",
+  "lastUpdated": "2026-06-15T07:27:06.686Z",
   "recentMatches": [
     {
       "id": "c263e869-f024-49ed-9d06-f5405ab9d496",
@@ -265,6 +265,51 @@
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1e841dd6-1b8c-4baf-9c08-b6d1f52ff3e6",
+      "name": "Jersey Women vs Guernsey Women, 2nd T20I, Guernsey Women tour of Jersey, 2026",
+      "matchType": "t20",
+      "status": "Jersey Women won by 100 runs",
+      "venue": "Grainville, St Saviour",
+      "date": "2026-06-14",
+      "dateTimeGMT": "2026-06-14T13:30:00",
+      "teams": [
+        "Jersey Women",
+        "Guernsey Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guernsey Women",
+          "shortname": "GU-W",
+          "img": "https://g.cricapi.com/iapi/1630-637926301892137556.webp?w=48"
+        },
+        {
+          "name": "Jersey Women",
+          "shortname": "JERW",
+          "img": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 188,
+          "w": 5,
+          "o": 20,
+          "inning": "Jersey Women Inning 1"
+        },
+        {
+          "r": 88,
+          "w": 7,
+          "o": 20,
+          "inning": "Guernsey Women Inning 1"
+        }
+      ],
+      "series_id": "a6b9db74-a587-4b8d-a24c-a74b93416ac9",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1064,51 +1109,6 @@
           "w": 5,
           "o": 20,
           "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9327eddf-88c4-4017-9e21-2db774e17a78",
-      "name": "Nigeria Women vs Brazil Women, 2nd Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 7 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-11",
-      "dateTimeGMT": "2026-06-11T07:30:00",
-      "teams": [
-        "Nigeria Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 111,
-          "w": 6,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 112,
-          "w": 3,
-          "o": 18.2,
-          "inning": "Nigeria Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
