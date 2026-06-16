@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T07:33:15.562Z",
+  "lastUpdated": "2026-06-16T12:43:45.227Z",
   "recentMatches": [
     {
       "id": "c263e869-f024-49ed-9d06-f5405ab9d496",
@@ -405,6 +405,50 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "52005d91-b029-454c-b859-403a18db72ec",
+      "name": "Indore Pink Panthers vs Royal Nimar Eagles, 30th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Royal Nimar Eagles need 21 runs in 33 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T09:30:00",
+      "teams": [
+        "Indore Pink Panthers",
+        "Royal Nimar Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indore Pink Panthers",
+          "shortname": "IPP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Nimar Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 7,
+          "o": 20,
+          "inning": "indore pink panthers Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 2,
+          "o": 14.3,
+          "inning": "Indore Pink Panthers,Royal Nimar Eagles Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "b8dbafd2-2665-4f60-ae4b-0a47ed81ae47",
@@ -1067,51 +1111,6 @@
           "w": 9,
           "o": 20,
           "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9e1904f8-d1f8-4070-9bfb-95ab0e158cc4",
-      "name": "Rwanda Women vs Nigeria Women, 4th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 2 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-12",
-      "dateTimeGMT": "2026-06-12T07:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 106,
-          "w": 10,
-          "o": 19.5,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 6,
-          "o": 20,
-          "inning": "Rwanda Women,Nigeria Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
