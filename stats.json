@@ -1,6 +1,82 @@
 {
-  "lastUpdated": "2026-06-16T12:43:45.227Z",
+  "lastUpdated": "2026-06-16T18:29:58.378Z",
   "recentMatches": [
+    {
+      "id": "092f2ed6-b414-429c-b3db-34fe7e729506",
+      "name": "England Women vs Ireland Women, 8th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "England Women opt to bowl",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T17:30:00",
+      "teams": [
+        "England Women",
+        "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2faac4ab-e4d9-43b8-9afa-5ac83fa60274",
+      "name": "New Zealand Women vs Sri Lanka Women, 7th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 5 wkts",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T13:30:00",
+      "teams": [
+        "New Zealand Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 150,
+          "w": 6,
+          "o": 20,
+          "inning": "new zealand women Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 5,
+          "o": 19.4,
+          "inning": "New Zealand Women,Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "c263e869-f024-49ed-9d06-f5405ab9d496",
       "name": "India Women vs Pakistan Women, 6th Match, Group A, ICC Womens T20 World Cup 2026",
@@ -362,6 +438,45 @@
       "matchEnded": true
     },
     {
+      "id": "c38f6fb5-7e5e-4548-8480-842342eb62f5",
+      "name": "Netherlands vs Canada, 115th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Match abandoned due to dangerous pitch",
+      "venue": "Maple Leaf North-West Ground, King City",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T00:00:00",
+      "teams": [
+        "Netherlands",
+        "Canada"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 15,
+          "w": 1,
+          "o": 4.1,
+          "inning": "netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "d8bff171-37e6-4605-8221-c3105a8137e0",
       "name": "United States of America vs Canada, 113th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -407,10 +522,55 @@
       "matchEnded": true
     },
     {
+      "id": "938e1e07-9f85-401e-8373-6f9f89198193",
+      "name": "Rewa Jaguars vs Jabalpur Royal Lions, 31st Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Rewa Jaguars won by 8 wkts",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T14:00:00",
+      "teams": [
+        "Rewa Jaguars",
+        "Jabalpur Royal Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortname": "JRL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 218,
+          "w": 8,
+          "o": 20,
+          "inning": "Jabalpur Royal Lions Inning 1"
+        },
+        {
+          "r": 219,
+          "w": 2,
+          "o": 16.3,
+          "inning": "Rewa Jaguars Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "52005d91-b029-454c-b859-403a18db72ec",
       "name": "Indore Pink Panthers vs Royal Nimar Eagles, 30th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Royal Nimar Eagles need 21 runs in 33 balls",
+      "status": "Royal Nimar Eagles won by 8 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-16",
       "dateTimeGMT": "2026-06-16T09:30:00",
@@ -437,9 +597,9 @@
           "inning": "indore pink panthers Inning 1"
         },
         {
-          "r": 153,
+          "r": 174,
           "w": 2,
-          "o": 14.3,
+          "o": 16.5,
           "inning": "Indore Pink Panthers,Royal Nimar Eagles Inning 1"
         }
       ],
@@ -448,7 +608,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b8dbafd2-2665-4f60-ae4b-0a47ed81ae47",
@@ -931,186 +1091,6 @@
           "w": 7,
           "o": 20,
           "inning": "Rwanda Women,Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "856558c5-9fb2-4299-9c16-47a482c689d6",
-      "name": "Brazil Women vs Nigeria Women, 8th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 7 wkts",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T07:45:00",
-      "teams": [
-        "Brazil Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 117,
-          "w": 5,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 3,
-          "o": 18.4,
-          "inning": "Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "81916947-40b5-4341-9584-bc5db6f1af2b",
-      "name": "Malawi Women vs Nigeria Women, 7th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 5 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-14",
-      "dateTimeGMT": "2026-06-14T11:30:00",
-      "teams": [
-        "Malawi Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 48,
-          "w": 10,
-          "o": 15,
-          "inning": "malawi women Inning 1"
-        },
-        {
-          "r": 49,
-          "w": 5,
-          "o": 9,
-          "inning": "Malawi Women,Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "64b6315d-b4ed-493a-b256-9e9e5eeb84e7",
-      "name": "Rwanda Women vs Brazil Women, 6th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 58 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-14",
-      "dateTimeGMT": "2026-06-14T07:45:00",
-      "teams": [
-        "Rwanda Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 179,
-          "w": 6,
-          "o": 20,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Rwanda Women,Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7321fb30-e950-48af-a175-c1a4204adbb5",
-      "name": "Brazil Women vs Malawi Women, 5th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 42 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-12",
-      "dateTimeGMT": "2026-06-12T07:45:00",
-      "teams": [
-        "Brazil Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 124,
-          "w": 8,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 82,
-          "w": 9,
-          "o": 20,
-          "inning": "Malawi Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
