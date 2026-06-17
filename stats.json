@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-17T12:08:23.010Z",
+  "lastUpdated": "2026-06-17T16:57:24.832Z",
   "recentMatches": [
+    {
+      "id": "1184253f-8420-4aa4-97a7-b8f5a9cf605e",
+      "name": "India Women vs Netherlands Women, 10th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Netherlands Women need 96 runs in 18 balls",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-17",
+      "dateTimeGMT": "2026-06-17T13:30:00",
+      "teams": [
+        "India Women",
+        "Netherlands Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 209,
+          "w": 5,
+          "o": 20,
+          "inning": "India Women Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 8,
+          "o": 17,
+          "inning": "Netherlands Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "eef92047-97f9-49d0-8caa-394e884a1882",
       "name": "Australia Women vs Bangladesh Women, 9th Match, Group A, ICC Womens T20 World Cup 2026",
@@ -491,10 +536,55 @@
       "matchEnded": true
     },
     {
+      "id": "b419dd76-6188-4cca-8663-a49564c773dd",
+      "name": "Chambal Ghariyals vs Bundelkhand Bulls, 33rd Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Bundelkhand Bulls need 127 runs in 55 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-17",
+      "dateTimeGMT": "2026-06-17T14:00:00",
+      "teams": [
+        "Chambal Ghariyals",
+        "Bundelkhand Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 218,
+          "w": 8,
+          "o": 20,
+          "inning": "chambal ghariyals Inning 1"
+        },
+        {
+          "r": 92,
+          "w": 3,
+          "o": 10.5,
+          "inning": "Chambal Ghariyals,Bundelkhand Bulls Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "98a0f340-97c0-4688-8f0f-84a0a963c93e",
       "name": "Bhopal Leopards vs Malwa Stallions, 32nd Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Bhopal Leopards need 157 runs",
+      "status": "Bhopal Leopards won by 5 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T09:30:00",
@@ -521,9 +611,9 @@
           "inning": "Malwa Stallions Inning 1"
         },
         {
-          "r": 38,
-          "w": 1,
-          "o": 4,
+          "r": 198,
+          "w": 5,
+          "o": 18.5,
           "inning": "Bhopal Leopards Inning 1"
         }
       ],
@@ -532,7 +622,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "938e1e07-9f85-401e-8373-6f9f89198193",
@@ -938,7 +1028,7 @@
       "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
       "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 1: 1st Session - England opt to bowl",
+      "status": "Day 1: 3rd Session - England opt to bowl",
       "venue": "Kennington Oval, London",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T10:00:00",
@@ -960,9 +1050,9 @@
       ],
       "score": [
         {
-          "r": 47,
-          "w": 1,
-          "o": 17,
+          "r": 243,
+          "w": 5,
+          "o": 63,
           "inning": "New Zealand Inning 1"
         }
       ],
@@ -977,7 +1067,7 @@
       "id": "ab934fe7-918c-4424-a45d-58792453ead2",
       "name": "Brazil Women vs Malawi Women, 10th Match, Kwibuka Womens T20I Tournament, 2026",
       "matchType": "t20",
-      "status": "Malawi Women opt to bowl",
+      "status": "Brazil Women won by 11 runs",
       "venue": "Gahanga International Cricket Stadium, Kigali City",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T11:30:00",
@@ -999,100 +1089,16 @@
       ],
       "score": [
         {
-          "r": 0,
-          "w": 0,
-          "o": 0,
-          "inning": "Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "08786101-8d60-4a24-af00-90d18864f74a",
-      "name": "Rwanda Women vs Malawi Women, 9th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 68 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T11:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 5,
-          "o": 20,
-          "inning": "rwanda women Inning 1"
-        },
-        {
           "r": 87,
           "w": 7,
           "o": 20,
-          "inning": "Rwanda Women,Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "856558c5-9fb2-4299-9c16-47a482c689d6",
-      "name": "Brazil Women vs Nigeria Women, 8th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 7 wkts",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T07:45:00",
-      "teams": [
-        "Brazil Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 117,
-          "w": 5,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 3,
-          "o": 18.4,
           "inning": "Brazil Women Inning 1"
+        },
+        {
+          "r": 76,
+          "w": 8,
+          "o": 20,
+          "inning": "Malawi Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
