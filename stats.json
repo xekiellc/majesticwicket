@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T06:58:09.727Z",
+  "lastUpdated": "2026-06-18T11:42:59.414Z",
   "recentMatches": [
     {
       "id": "a54d854b-3327-415c-919b-dbbf1d9eb5fd",
@@ -407,6 +407,45 @@
       "matchEnded": true
     },
     {
+      "id": "3e553379-a630-43fb-a6aa-f9349e697d15",
+      "name": "Cyprus Women vs Malta Women, 1st T20I, Malta Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Malta Women opt to bowl",
+      "venue": "Kennington Oval, London",
+      "date": "2026-06-18",
+      "dateTimeGMT": "2026-06-18T07:30:00",
+      "teams": [
+        "Cyprus Women",
+        "Malta Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malta Women",
+          "shortname": "MW",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 53,
+          "w": 4,
+          "o": 11,
+          "inning": "Cyprus Women Inning 1"
+        }
+      ],
+      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "c38f6fb5-7e5e-4548-8480-842342eb62f5",
       "name": "Netherlands vs Canada, 115th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -444,6 +483,44 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "c3a3db7c-3c65-4400-9a90-947399abd195",
+      "name": "Ujjain Falcons vs Indore Pink Panthers, 34th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-18",
+      "dateTimeGMT": "2026-06-18T09:30:00",
+      "teams": [
+        "Ujjain Falcons",
+        "Indore Pink Panthers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indore Pink Panthers",
+          "shortname": "IPP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 8,
+          "o": 20,
+          "inning": "Indore Pink Panthers Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "b419dd76-6188-4cca-8663-a49564c773dd",
@@ -805,7 +882,7 @@
       "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
       "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - England opt to bowl",
+      "status": "Day 2: 1st Session - England opt to bowl",
       "venue": "Kennington Oval, London",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T10:00:00",
@@ -827,9 +904,9 @@
       ],
       "score": [
         {
-          "r": 291,
-          "w": 7,
-          "o": 77,
+          "r": 388,
+          "w": 8,
+          "o": 95.1,
           "inning": "New Zealand Inning 1"
         }
       ],
@@ -1014,96 +1091,6 @@
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "64b6315d-b4ed-493a-b256-9e9e5eeb84e7",
-      "name": "Rwanda Women vs Brazil Women, 6th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 58 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-14",
-      "dateTimeGMT": "2026-06-14T07:45:00",
-      "teams": [
-        "Rwanda Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 179,
-          "w": 6,
-          "o": 20,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Rwanda Women,Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68c8a506-0d4f-423c-b085-973fbfe9b142",
-      "name": "Bangladesh vs Australia, 1st T20I, Australia tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Australia won by 4 wkts",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T12:00:00",
-      "teams": [
-        "Bangladesh",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 131,
-          "w": 10,
-          "o": 19,
-          "inning": "bangladesh Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 6,
-          "o": 18.2,
-          "inning": "Bangladesh,Australia Inning 1"
-        }
-      ],
-      "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
