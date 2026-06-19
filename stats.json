@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-06-19T07:17:05.366Z",
+  "lastUpdated": "2026-06-19T11:57:15.299Z",
   "recentMatches": [
+    {
+      "id": "bf010250-112a-48e1-abc6-b2d6295f5f59",
+      "name": "Denmark vs Germany, 2nd T20I, Germany tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Germany opt to bat",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T08:30:00",
+      "teams": [
+        "Denmark",
+        "Germany"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "3590aded-ecaa-4c0d-a1f4-7347b3a00ad7",
       "name": "Denmark vs Germany, 1st T20I, Germany tour of Denmark, 2026",
@@ -317,6 +348,51 @@
       "matchEnded": true
     },
     {
+      "id": "17cba327-4e78-4527-9518-df8487b1482e",
+      "name": "Cyprus Women vs Malta Women, 3rd T20I, Malta Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Cyprus Women won by 5 wkts",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T07:30:00",
+      "teams": [
+        "Cyprus Women",
+        "Malta Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malta Women",
+          "shortname": "MW",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 39,
+          "w": 10,
+          "o": 14,
+          "inning": "malta women Inning 1"
+        },
+        {
+          "r": 40,
+          "w": 5,
+          "o": 9.2,
+          "inning": "Cyprus Women,Malta Women Inning 1"
+        }
+      ],
+      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "9f706b61-b774-42db-9228-445cebaae644",
       "name": "Cyprus Women vs Malta Women, 2nd T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -366,7 +442,7 @@
       "name": "Cyprus Women vs Malta Women, 1st T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
       "status": "Cyprus Women won by 24 runs",
-      "venue": "Kennington Oval, London",
+      "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-06-18",
       "dateTimeGMT": "2026-06-18T07:30:00",
       "teams": [
@@ -444,6 +520,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "60745b50-fb4b-415c-bea1-e29bac8b2859",
+      "name": "Jabalpur Royal Lions vs Chambal Ghariyals, 36th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Chambal Ghariyals need 181 runs",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T09:30:00",
+      "teams": [
+        "Jabalpur Royal Lions",
+        "Chambal Ghariyals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chambal Ghariyals",
+          "shortname": "CG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortname": "JRL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 204,
+          "w": 5,
+          "o": 20,
+          "inning": "Jabalpur Royal Lions Inning 1"
+        },
+        {
+          "r": 24,
+          "w": 0,
+          "o": 1.4,
+          "inning": "Chambal Ghariyals Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "d973f873-e553-4d82-b2a4-eb382a8b4de7",
@@ -805,7 +926,7 @@
       "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
       "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - England trail by 169 runs",
+      "status": "Day 3: 1st Session - England trail by 119 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T10:00:00",
@@ -833,9 +954,9 @@
           "inning": "New Zealand Inning 1"
         },
         {
-          "r": 222,
-          "w": 6,
-          "o": 59,
+          "r": 272,
+          "w": 9,
+          "o": 79,
           "inning": "England Inning 1"
         }
       ],
@@ -975,140 +1096,6 @@
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "856558c5-9fb2-4299-9c16-47a482c689d6",
-      "name": "Brazil Women vs Nigeria Women, 8th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 7 wkts",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T07:45:00",
-      "teams": [
-        "Brazil Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 117,
-          "w": 5,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 3,
-          "o": 18.4,
-          "inning": "Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68c8a506-0d4f-423c-b085-973fbfe9b142",
-      "name": "Bangladesh vs Australia, 1st T20I, Australia tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Australia won by 4 wkts",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T12:00:00",
-      "teams": [
-        "Bangladesh",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 131,
-          "w": 10,
-          "o": 19,
-          "inning": "bangladesh Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 6,
-          "o": 18.2,
-          "inning": "Bangladesh,Australia Inning 1"
-        }
-      ],
-      "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1fece84b-179b-49d4-86d7-30d4e14b76c2",
-      "name": "India vs Afghanistan, 2nd ODI, Afghanistan tour of India 2026",
-      "status": "India won by 170 runs",
-      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T08:00:00",
-      "teams": [
-        "India",
-        "Afghanistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 402,
-          "w": 10,
-          "o": 49.5,
-          "inning": "India Inning 1"
-        },
-        {
-          "r": 232,
-          "w": 10,
-          "o": 44.3,
-          "inning": "Afghanistan Inning 1"
-        }
-      ],
-      "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
