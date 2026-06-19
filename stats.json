@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-18T22:16:00.345Z",
+  "lastUpdated": "2026-06-19T07:17:05.366Z",
   "recentMatches": [
+    {
+      "id": "3590aded-ecaa-4c0d-a1f4-7347b3a00ad7",
+      "name": "Denmark vs Germany, 1st T20I, Germany tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Germany won by 2 wkts",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-06-18",
+      "dateTimeGMT": "2026-06-18T00:00:00",
+      "teams": [
+        "Denmark",
+        "Germany"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 9,
+          "o": 20,
+          "inning": "denmark Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 8,
+          "o": 19.5,
+          "inning": "Denmark,Germany Inning 1"
+        }
+      ],
+      "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "1995b8b3-d264-4d42-a326-9ad46393b69f",
       "name": "West Indies Women vs Scotland Women, 12th Match, Group B, ICC Womens T20 World Cup 2026",
@@ -1064,51 +1109,6 @@
         }
       ],
       "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "300b8a5c-fa15-43fb-b4ed-9e8a33510322",
-      "name": "India A vs Afghanistan A, 5th Match, Tri Nation A Series in Sri Lanka  2026",
-      "matchType": "odi",
-      "status": "India A won by 101 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T04:30:00",
-      "teams": [
-        "India A",
-        "Afghanistan A"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan A",
-          "shortname": "AA",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 319,
-          "w": 9,
-          "o": 50,
-          "inning": "India A Inning 1"
-        },
-        {
-          "r": 218,
-          "w": 10,
-          "o": 36.5,
-          "inning": "Afghanistan A Inning 1"
-        }
-      ],
-      "series_id": "e89e497f-da75-49e3-9a3b-cc739158b01d",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
