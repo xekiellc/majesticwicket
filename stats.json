@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T16:34:06.705Z",
+  "lastUpdated": "2026-06-19T21:12:54.890Z",
   "recentMatches": [
     {
       "id": "835ba048-7109-4fb5-bf7a-2e9285b1ca8f",
@@ -130,6 +130,51 @@
         }
       ],
       "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1d20bcd6-240e-401c-8301-4fd907dd272c",
+      "name": "New Zealand Women vs Ireland Women, 13th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "New Zealand Women won by 4 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T17:30:00",
+      "teams": [
+        "New Zealand Women",
+        "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 6,
+          "o": 20,
+          "inning": "New Zealand Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 4,
+          "o": 20,
+          "inning": "Ireland Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -410,7 +455,7 @@
       "id": "39365693-6d59-4815-a297-4505f7ae037c",
       "name": "Cyprus Women vs Malta Women, 4th T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
-      "status": "Malta Women opt to bowl",
+      "status": "Cyprus Women won by 28 runs",
       "venue": "Happy Valley Ground, Episkopi",
       "date": "2026-06-19",
       "dateTimeGMT": "2026-06-19T12:30:00",
@@ -432,10 +477,16 @@
       ],
       "score": [
         {
-          "r": 3,
-          "w": 0,
-          "o": 1,
+          "r": 89,
+          "w": 10,
+          "o": 19,
           "inning": "Cyprus Women Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 10,
+          "o": 18.5,
+          "inning": "Malta Women Inning 1"
         }
       ],
       "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
@@ -443,7 +494,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "17cba327-4e78-4527-9518-df8487b1482e",
@@ -623,7 +674,7 @@
       "id": "b04e7d93-2538-4ce7-b0f9-8f46eeb500d7",
       "name": "Royal Nimar Eagles vs Bundelkhand Bulls, 37th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Royal Nimar Eagles need 129 runs in 88 balls",
+      "status": "Royal Nimar Eagles won by 4 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-19",
       "dateTimeGMT": "2026-06-19T14:00:00",
@@ -650,9 +701,9 @@
           "inning": "Bundelkhand Bulls Inning 1"
         },
         {
-          "r": 38,
-          "w": 2,
-          "o": 5.2,
+          "r": 169,
+          "w": 6,
+          "o": 19.3,
           "inning": "Royal Nimar Eagles Inning 1"
         }
       ],
@@ -661,7 +712,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "60745b50-fb4b-415c-bea1-e29bac8b2859",
@@ -975,100 +1026,10 @@
       "matchEnded": true
     },
     {
-      "id": "b8dbafd2-2665-4f60-ae4b-0a47ed81ae47",
-      "name": "Jabalpur Royal Lions vs Bhopal Leopards, 29th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Jabalpur Royal Lions won by 5 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T14:00:00",
-      "teams": [
-        "Jabalpur Royal Lions",
-        "Bhopal Leopards"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhopal Leopards",
-          "shortname": "BL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jabalpur Royal Lions",
-          "shortname": "JRL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 6,
-          "o": 20,
-          "inning": "Bhopal Leopards Inning 1"
-        },
-        {
-          "r": 224,
-          "w": 5,
-          "o": 19,
-          "inning": "Jabalpur Royal Lions Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9c5d3d32-9a47-4aa8-8cab-f321272959e7",
-      "name": "Rewa Jaguars vs Gwalior Cheetahs, 28th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Rewa Jaguars won by 23 runs",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T09:30:00",
-      "teams": [
-        "Rewa Jaguars",
-        "Gwalior Cheetahs"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gwalior Cheetahs",
-          "shortname": "GC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Rewa Jaguars",
-          "shortname": "RJ",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 238,
-          "w": 6,
-          "o": 20,
-          "inning": "Rewa Jaguars Inning 1"
-        },
-        {
-          "r": 215,
-          "w": 9,
-          "o": 20,
-          "inning": "Gwalior Cheetahs Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
       "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 3: 3rd Session - New Zealand lead by 286 runs",
+      "status": "Day 3: Stumps - New Zealand lead by 352 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T10:00:00",
@@ -1102,9 +1063,9 @@
           "inning": "England Inning 1"
         },
         {
-          "r": 186,
-          "w": 2,
-          "o": 40.5,
+          "r": 252,
+          "w": 3,
+          "o": 56,
           "inning": "New Zealand Inning 2"
         }
       ],
@@ -1114,6 +1075,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "8f2d7d9c-e507-4a60-8c14-620181044b41",
+      "name": "Rwanda Women vs Nigeria Women, 12th Match, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Rwanda Women won by 11 runs",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T11:30:00",
+      "teams": [
+        "Rwanda Women",
+        "Nigeria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 131,
+          "w": 8,
+          "o": 20,
+          "inning": "Rwanda Women Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 9,
+          "o": 20,
+          "inning": "Nigeria Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
