@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-06-19T11:57:15.299Z",
+  "lastUpdated": "2026-06-19T16:34:06.705Z",
   "recentMatches": [
+    {
+      "id": "835ba048-7109-4fb5-bf7a-2e9285b1ca8f",
+      "name": "Denmark vs Germany, 3rd T20I, Germany tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Denmark won by 5 wkts",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T13:30:00",
+      "teams": [
+        "Denmark",
+        "Germany"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 146,
+          "w": 9,
+          "o": 20,
+          "inning": "Denmark Inning 1"
+        },
+        {
+          "r": 148,
+          "w": 5,
+          "o": 19.2,
+          "inning": "Germany Inning 1"
+        }
+      ],
+      "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "bf010250-112a-48e1-abc6-b2d6295f5f59",
       "name": "Denmark vs Germany, 2nd T20I, Germany tour of Denmark, 2026",
       "matchType": "t20",
-      "status": "Germany opt to bat",
+      "status": "Denmark won by 7 wkts",
       "venue": "Svanholm Park, Brondby",
       "date": "2026-06-19",
       "dateTimeGMT": "2026-06-19T08:30:00",
@@ -25,12 +70,26 @@
           "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 187,
+          "w": 7,
+          "o": 20,
+          "inning": "germany Inning 1"
+        },
+        {
+          "r": 192,
+          "w": 3,
+          "o": 19.1,
+          "inning": "Denmark,Germany Inning 1"
+        }
+      ],
       "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3590aded-ecaa-4c0d-a1f4-7347b3a00ad7",
@@ -348,6 +407,45 @@
       "matchEnded": true
     },
     {
+      "id": "39365693-6d59-4815-a297-4505f7ae037c",
+      "name": "Cyprus Women vs Malta Women, 4th T20I, Malta Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Malta Women opt to bowl",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T12:30:00",
+      "teams": [
+        "Cyprus Women",
+        "Malta Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malta Women",
+          "shortname": "MW",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 3,
+          "w": 0,
+          "o": 1,
+          "inning": "Cyprus Women Inning 1"
+        }
+      ],
+      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "17cba327-4e78-4527-9518-df8487b1482e",
       "name": "Cyprus Women vs Malta Women, 3rd T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -522,10 +620,54 @@
       "matchEnded": true
     },
     {
+      "id": "b04e7d93-2538-4ce7-b0f9-8f46eeb500d7",
+      "name": "Royal Nimar Eagles vs Bundelkhand Bulls, 37th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Royal Nimar Eagles need 129 runs in 88 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T14:00:00",
+      "teams": [
+        "Royal Nimar Eagles",
+        "Bundelkhand Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Nimar Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Bundelkhand Bulls Inning 1"
+        },
+        {
+          "r": 38,
+          "w": 2,
+          "o": 5.2,
+          "inning": "Royal Nimar Eagles Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "60745b50-fb4b-415c-bea1-e29bac8b2859",
       "name": "Jabalpur Royal Lions vs Chambal Ghariyals, 36th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Chambal Ghariyals need 181 runs",
+      "status": "Chambal Ghariyals won by 5 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-19",
       "dateTimeGMT": "2026-06-19T09:30:00",
@@ -553,9 +695,9 @@
           "inning": "Jabalpur Royal Lions Inning 1"
         },
         {
-          "r": 24,
-          "w": 0,
-          "o": 1.4,
+          "r": 208,
+          "w": 5,
+          "o": 19.2,
           "inning": "Chambal Ghariyals Inning 1"
         }
       ],
@@ -564,7 +706,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d973f873-e553-4d82-b2a4-eb382a8b4de7",
@@ -926,7 +1068,7 @@
       "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
       "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
       "matchType": "test",
-      "status": "Day 3: 1st Session - England trail by 119 runs",
+      "status": "Day 3: 3rd Session - New Zealand lead by 286 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T10:00:00",
@@ -954,10 +1096,16 @@
           "inning": "New Zealand Inning 1"
         },
         {
-          "r": 272,
-          "w": 9,
-          "o": 79,
+          "r": 291,
+          "w": 10,
+          "o": 84,
           "inning": "England Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 2,
+          "o": 40.5,
+          "inning": "New Zealand Inning 2"
         }
       ],
       "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
@@ -966,141 +1114,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "9dd74e9c-cf16-4ea6-80f6-a2fdba77945d",
-      "name": "Rwanda Women vs Brazil Women, 11th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Match tied (Brazil women won the Super Over)",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T07:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 5,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 128,
-          "w": 8,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ab934fe7-918c-4424-a45d-58792453ead2",
-      "name": "Brazil Women vs Malawi Women, 10th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 11 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T11:30:00",
-      "teams": [
-        "Brazil Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 87,
-          "w": 7,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 76,
-          "w": 8,
-          "o": 20,
-          "inning": "Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "08786101-8d60-4a24-af00-90d18864f74a",
-      "name": "Rwanda Women vs Malawi Women, 9th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 68 runs",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-15",
-      "dateTimeGMT": "2026-06-15T11:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Malawi Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malawi Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 5,
-          "o": 20,
-          "inning": "rwanda women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 7,
-          "o": 20,
-          "inning": "Rwanda Women,Malawi Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
