@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T15:47:25.047Z",
+  "lastUpdated": "2026-06-20T21:21:12.926Z",
   "recentMatches": [
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
@@ -182,10 +182,55 @@
       "matchEnded": true
     },
     {
+      "id": "a62da2c3-1e79-42fc-bf74-3bcc094a392c",
+      "name": "England Women vs Scotland Women, 16th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Scotland Women need 80 runs in 24 balls",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T17:30:00",
+      "teams": [
+        "England Women",
+        "Scotland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "Scotland Women",
+          "shortname": "SCOW",
+          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 5,
+          "o": 20,
+          "inning": "England Women Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 6,
+          "o": 16,
+          "inning": "Scotland Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "b698456b-1dce-4568-91d6-30000a4b7e11",
       "name": "Pakistan Women vs Bangladesh Women, 15th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Pakistan Women need 89 runs in 87 balls",
+      "status": "Bangladesh Women won by 23 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-06-20",
       "dateTimeGMT": "2026-06-20T13:30:00",
@@ -213,9 +258,9 @@
           "inning": "bangladesh women Inning 1"
         },
         {
-          "r": 35,
-          "w": 0,
-          "o": 5.3,
+          "r": 100,
+          "w": 8,
+          "o": 20,
           "inning": "Pakistan Women,Bangladesh Women Inning 1"
         }
       ],
@@ -224,7 +269,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "296e6902-7082-4fcb-bacf-eca287212e4e",
@@ -497,96 +542,6 @@
       "matchEnded": true
     },
     {
-      "id": "092f2ed6-b414-429c-b3db-34fe7e729506",
-      "name": "England Women vs Ireland Women, 8th Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "England Women won by 4 wkts",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-06-16",
-      "dateTimeGMT": "2026-06-16T17:30:00",
-      "teams": [
-        "England Women",
-        "Ireland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Women",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
-        },
-        {
-          "name": "Ireland Women",
-          "shortname": "IRW",
-          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 118,
-          "w": 9,
-          "o": 20,
-          "inning": "Ireland Women Inning 1"
-        },
-        {
-          "r": 119,
-          "w": 6,
-          "o": 17.3,
-          "inning": "England Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2faac4ab-e4d9-43b8-9afa-5ac83fa60274",
-      "name": "New Zealand Women vs Sri Lanka Women, 7th Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 5 wkts",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-06-16",
-      "dateTimeGMT": "2026-06-16T13:30:00",
-      "teams": [
-        "New Zealand Women",
-        "Sri Lanka Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand Women",
-          "shortname": "NZW",
-          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 150,
-          "w": 6,
-          "o": 20,
-          "inning": "new zealand women Inning 1"
-        },
-        {
-          "r": 153,
-          "w": 5,
-          "o": 19.4,
-          "inning": "New Zealand Women,Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b362954b-891b-4c8e-8159-b0284374d00f",
       "name": "Cyprus Women vs Malta Women, 5th T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -808,45 +763,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c38f6fb5-7e5e-4548-8480-842342eb62f5",
-      "name": "Netherlands vs Canada, 115th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "No result (due to dangerous pitch)",
-      "venue": "Maple Leaf North-West Ground, King City",
-      "date": "2026-06-16",
-      "dateTimeGMT": "2026-06-16T00:00:00",
-      "teams": [
-        "Netherlands",
-        "Canada"
-      ],
-      "teamInfo": [
-        {
-          "name": "Canada",
-          "shortname": "CAN",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        },
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 15,
-          "w": 1,
-          "o": 4.1,
-          "inning": "netherlands Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -1110,6 +1026,108 @@
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
+      "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
+      "matchType": "test",
+      "status": "Day 4: Stumps - England need 281 runs",
+      "venue": "Kennington Oval, London",
+      "date": "2026-06-17",
+      "dateTimeGMT": "2026-06-17T10:00:00",
+      "teams": [
+        "England",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 391,
+          "w": 10,
+          "o": 96.2,
+          "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 291,
+          "w": 10,
+          "o": 84,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 362,
+          "w": 10,
+          "o": 87.1,
+          "inning": "New Zealand Inning 2"
+        },
+        {
+          "r": 182,
+          "w": 5,
+          "o": 48,
+          "inning": "England Inning 2"
+        }
+      ],
+      "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "aa60dcc3-9e7f-42e0-8dea-f860e50a8520",
+      "name": "Brazil Women vs Nigeria Women, 3rd Place Play off, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Nigeria Women won by 2 wkts",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T07:30:00",
+      "teams": [
+        "Brazil Women",
+        "Nigeria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brazil Women",
+          "shortname": "BRW",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        },
+        {
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 85,
+          "w": 10,
+          "o": 20,
+          "inning": "Brazil Women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 8,
+          "o": 19.2,
+          "inning": "Nigeria Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
