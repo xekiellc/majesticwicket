@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-06-20T06:27:26.771Z",
+  "lastUpdated": "2026-06-20T10:23:50.701Z",
   "recentMatches": [
+    {
+      "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
+      "name": "Denmark vs Germany, 4th T20I, Germany tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Denmark opt to bowl",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T09:00:00",
+      "teams": [
+        "Denmark",
+        "Germany"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Germany",
+          "shortname": "GER",
+          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+        }
+      ],
+      "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "835ba048-7109-4fb5-bf7a-2e9285b1ca8f",
       "name": "Denmark vs Germany, 3rd T20I, Germany tour of Denmark, 2026",
@@ -135,6 +166,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "296e6902-7082-4fcb-bacf-eca287212e4e",
+      "name": "Australia Women vs Netherlands Women, 14th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Netherlands Women opt to bowl",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T09:30:00",
+      "teams": [
+        "Australia Women",
+        "Netherlands Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 2,
+          "o": 10.5,
+          "inning": "Australia Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "1d20bcd6-240e-401c-8301-4fd907dd272c",
@@ -450,6 +520,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "b362954b-891b-4c8e-8159-b0284374d00f",
+      "name": "Cyprus Women vs Malta Women, 5th T20I, Malta Women tour of Cyprus, 2026",
+      "matchType": "t20",
+      "status": "Malta Women opt to bowl",
+      "venue": "Happy Valley Ground, Episkopi",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T07:30:00",
+      "teams": [
+        "Cyprus Women",
+        "Malta Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Cyprus Women",
+          "shortname": "CPW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Malta Women",
+          "shortname": "MW",
+          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
+        }
+      ],
+      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "39365693-6d59-4815-a297-4505f7ae037c",
@@ -975,146 +1076,6 @@
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "52005d91-b029-454c-b859-403a18db72ec",
-      "name": "Indore Pink Panthers vs Royal Nimar Eagles, 30th Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Royal Nimar Eagles won by 8 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-16",
-      "dateTimeGMT": "2026-06-16T09:30:00",
-      "teams": [
-        "Indore Pink Panthers",
-        "Royal Nimar Eagles"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indore Pink Panthers",
-          "shortname": "IPP",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Royal Nimar Eagles",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 173,
-          "w": 7,
-          "o": 20,
-          "inning": "indore pink panthers Inning 1"
-        },
-        {
-          "r": 174,
-          "w": 2,
-          "o": 16.5,
-          "inning": "Indore Pink Panthers,Royal Nimar Eagles Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
-      "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
-      "matchType": "test",
-      "status": "Day 3: Stumps - New Zealand lead by 352 runs",
-      "venue": "Kennington Oval, London",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T10:00:00",
-      "teams": [
-        "England",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 391,
-          "w": 10,
-          "o": 96.2,
-          "inning": "New Zealand Inning 1"
-        },
-        {
-          "r": 291,
-          "w": 10,
-          "o": 84,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 252,
-          "w": 3,
-          "o": 56,
-          "inning": "New Zealand Inning 2"
-        }
-      ],
-      "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "8f2d7d9c-e507-4a60-8c14-620181044b41",
-      "name": "Rwanda Women vs Nigeria Women, 12th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 11 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T11:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 131,
-          "w": 8,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 9,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
