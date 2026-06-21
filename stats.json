@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:21:12.926Z",
+  "lastUpdated": "2026-06-21T06:56:26.980Z",
   "recentMatches": [
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
@@ -185,7 +185,7 @@
       "id": "a62da2c3-1e79-42fc-bf74-3bcc094a392c",
       "name": "England Women vs Scotland Women, 16th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Scotland Women need 80 runs in 24 balls",
+      "status": "England Women won by 38 runs",
       "venue": "Headingley, Leeds",
       "date": "2026-06-20",
       "dateTimeGMT": "2026-06-20T17:30:00",
@@ -213,9 +213,9 @@
           "inning": "England Women Inning 1"
         },
         {
-          "r": 121,
-          "w": 6,
-          "o": 16,
+          "r": 162,
+          "w": 7,
+          "o": 20,
           "inning": "Scotland Women Inning 1"
         }
       ],
