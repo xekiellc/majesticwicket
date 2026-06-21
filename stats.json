@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T06:56:26.980Z",
+  "lastUpdated": "2026-06-21T10:57:33.687Z",
   "recentMatches": [
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
@@ -180,6 +180,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "3a3526e9-7c48-4a47-8dda-a836f6f1d11c",
+      "name": "West Indies Women vs Sri Lanka Women, 17th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "West Indies Women opt to bowl",
+      "venue": "County Ground, Bristol",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T09:30:00",
+      "teams": [
+        "West Indies Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        },
+        {
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 87,
+          "w": 8,
+          "o": 17.2,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "a62da2c3-1e79-42fc-bf74-3bcc094a392c",
@@ -767,6 +806,45 @@
       "matchEnded": true
     },
     {
+      "id": "6090a6e9-9a27-4fe1-8a1c-bdfe48d645b1",
+      "name": "Jabalpur Royal Lions vs Gwalior Cheetahs, 38th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Jabalpur Royal Lions opt to bowl",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T09:30:00",
+      "teams": [
+        "Jabalpur Royal Lions",
+        "Gwalior Cheetahs"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortname": "JRL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 94,
+          "w": 2,
+          "o": 11,
+          "inning": "Gwalior Cheetahs Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "b04e7d93-2538-4ce7-b0f9-8f46eeb500d7",
       "name": "Royal Nimar Eagles vs Bundelkhand Bulls, 37th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
@@ -1026,108 +1104,6 @@
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "481bf632-d2c5-48da-ba19-bb6cc8695676",
-      "name": "England vs New Zealand, 2nd Test, New Zealand tour of England, 2026",
-      "matchType": "test",
-      "status": "Day 4: Stumps - England need 281 runs",
-      "venue": "Kennington Oval, London",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T10:00:00",
-      "teams": [
-        "England",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 391,
-          "w": 10,
-          "o": 96.2,
-          "inning": "New Zealand Inning 1"
-        },
-        {
-          "r": 291,
-          "w": 10,
-          "o": 84,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 362,
-          "w": 10,
-          "o": 87.1,
-          "inning": "New Zealand Inning 2"
-        },
-        {
-          "r": 182,
-          "w": 5,
-          "o": 48,
-          "inning": "England Inning 2"
-        }
-      ],
-      "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "aa60dcc3-9e7f-42e0-8dea-f860e50a8520",
-      "name": "Brazil Women vs Nigeria Women, 3rd Place Play off, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 2 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T07:30:00",
-      "teams": [
-        "Brazil Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 85,
-          "w": 10,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 8,
-          "o": 19.2,
-          "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
