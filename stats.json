@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T10:57:33.687Z",
+  "lastUpdated": "2026-06-21T15:57:45.903Z",
   "recentMatches": [
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
@@ -182,10 +182,55 @@
       "matchEnded": true
     },
     {
+      "id": "28ee6eb6-6a56-4295-acb2-00b6854a9618",
+      "name": "South Africa Women vs India Women, 18th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "South Africa Women need 127 runs in 78 balls",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T13:30:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 158,
+          "w": 7,
+          "o": 20,
+          "inning": "india women Inning 1"
+        },
+        {
+          "r": 32,
+          "w": 2,
+          "o": 7,
+          "inning": "South Africa Women,India Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "3a3526e9-7c48-4a47-8dda-a836f6f1d11c",
       "name": "West Indies Women vs Sri Lanka Women, 17th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "West Indies Women opt to bowl",
+      "status": "West Indies Women won by 5 wkts",
       "venue": "County Ground, Bristol",
       "date": "2026-06-21",
       "dateTimeGMT": "2026-06-21T09:30:00",
@@ -207,10 +252,16 @@
       ],
       "score": [
         {
-          "r": 87,
-          "w": 8,
-          "o": 17.2,
+          "r": 98,
+          "w": 10,
+          "o": 19.4,
           "inning": "Sri Lanka Women Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 5,
+          "o": 16.1,
+          "inning": "West Indies Women Inning 1"
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
@@ -218,7 +269,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a62da2c3-1e79-42fc-bf74-3bcc094a392c",
@@ -806,10 +857,48 @@
       "matchEnded": true
     },
     {
+      "id": "7937a600-344c-43e5-a60b-60cabcadbe67",
+      "name": "Bundelkhand Bulls vs Ujjain Falcons, 39th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Bundelkhand Bulls opt to bat",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T14:00:00",
+      "teams": [
+        "Bundelkhand Bulls",
+        "Ujjain Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ujjain Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 6,
+          "o": 17,
+          "inning": "bundelkhand bulls Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "6090a6e9-9a27-4fe1-8a1c-bdfe48d645b1",
       "name": "Jabalpur Royal Lions vs Gwalior Cheetahs, 38th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Jabalpur Royal Lions opt to bowl",
+      "status": "Jabalpur Royal Lions won by 3 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-21",
       "dateTimeGMT": "2026-06-21T09:30:00",
@@ -831,10 +920,16 @@
       ],
       "score": [
         {
-          "r": 94,
-          "w": 2,
-          "o": 11,
+          "r": 185,
+          "w": 5,
+          "o": 20,
           "inning": "Gwalior Cheetahs Inning 1"
+        },
+        {
+          "r": 189,
+          "w": 7,
+          "o": 19.4,
+          "inning": "Jabalpur Royal Lions Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -842,7 +937,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b04e7d93-2538-4ce7-b0f9-8f46eeb500d7",
@@ -1012,95 +1107,6 @@
           "w": 5,
           "o": 19,
           "inning": "Ujjain Falcons Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b419dd76-6188-4cca-8663-a49564c773dd",
-      "name": "Chambal Ghariyals vs Bundelkhand Bulls, 33rd Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Chambal Ghariyals won by 39 runs",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T14:00:00",
-      "teams": [
-        "Chambal Ghariyals",
-        "Bundelkhand Bulls"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bundelkhand Bulls",
-          "shortname": "BB",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Chambal Ghariyals",
-          "shortname": "CG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 218,
-          "w": 8,
-          "o": 20,
-          "inning": "chambal ghariyals Inning 1"
-        },
-        {
-          "r": 179,
-          "w": 4,
-          "o": 20,
-          "inning": "Chambal Ghariyals,Bundelkhand Bulls Inning 1"
-        }
-      ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "98a0f340-97c0-4688-8f0f-84a0a963c93e",
-      "name": "Bhopal Leopards vs Malwa Stallions, 32nd Match, Madhya Pradesh Premier League 2026",
-      "matchType": "t20",
-      "status": "Bhopal Leopards won by 5 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T09:30:00",
-      "teams": [
-        "Bhopal Leopards",
-        "Malwa Stallions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhopal Leopards",
-          "shortname": "BL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Malwa Stallions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 9,
-          "o": 20,
-          "inning": "Malwa Stallions Inning 1"
-        },
-        {
-          "r": 198,
-          "w": 5,
-          "o": 18.5,
-          "inning": "Bhopal Leopards Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
