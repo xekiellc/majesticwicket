@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T15:57:45.903Z",
+  "lastUpdated": "2026-06-21T21:18:46.760Z",
   "recentMatches": [
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
@@ -185,7 +185,7 @@
       "id": "28ee6eb6-6a56-4295-acb2-00b6854a9618",
       "name": "South Africa Women vs India Women, 18th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "South Africa Women need 127 runs in 78 balls",
+      "status": "South Africa Women won by 6 wkts",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-06-21",
       "dateTimeGMT": "2026-06-21T13:30:00",
@@ -213,9 +213,9 @@
           "inning": "india women Inning 1"
         },
         {
-          "r": 32,
-          "w": 2,
-          "o": 7,
+          "r": 161,
+          "w": 4,
+          "o": 19.1,
           "inning": "South Africa Women,India Women Inning 1"
         }
       ],
@@ -224,7 +224,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3a3526e9-7c48-4a47-8dda-a836f6f1d11c",
@@ -497,141 +497,6 @@
       "matchEnded": true
     },
     {
-      "id": "a54d854b-3327-415c-919b-dbbf1d9eb5fd",
-      "name": "South Africa Women vs Pakistan Women, 11th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 2 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T17:30:00",
-      "teams": [
-        "South Africa Women",
-        "Pakistan Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 9,
-          "o": 20,
-          "inning": "pakistan women Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 8,
-          "o": 16.5,
-          "inning": "South Africa Women,Pakistan Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1184253f-8420-4aa4-97a7-b8f5a9cf605e",
-      "name": "India Women vs Netherlands Women, 10th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "India Women won by 95 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T13:30:00",
-      "teams": [
-        "India Women",
-        "Netherlands Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Netherlands Women",
-          "shortname": "NET-W",
-          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 209,
-          "w": 5,
-          "o": 20,
-          "inning": "India Women Inning 1"
-        },
-        {
-          "r": 114,
-          "w": 10,
-          "o": 17.3,
-          "inning": "Netherlands Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "eef92047-97f9-49d0-8caa-394e884a1882",
-      "name": "Australia Women vs Bangladesh Women, 9th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 9 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-06-17",
-      "dateTimeGMT": "2026-06-17T09:30:00",
-      "teams": [
-        "Australia Women",
-        "Bangladesh Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 77,
-          "w": 8,
-          "o": 20,
-          "inning": "Bangladesh Women Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 1,
-          "o": 9.3,
-          "inning": "Australia Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b362954b-891b-4c8e-8159-b0284374d00f",
       "name": "Cyprus Women vs Malta Women, 5th T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -860,7 +725,7 @@
       "id": "7937a600-344c-43e5-a60b-60cabcadbe67",
       "name": "Bundelkhand Bulls vs Ujjain Falcons, 39th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Bundelkhand Bulls opt to bat",
+      "status": "Ujjain Falcons won by 4 wkts",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-21",
       "dateTimeGMT": "2026-06-21T14:00:00",
@@ -881,10 +746,16 @@
       ],
       "score": [
         {
-          "r": 137,
-          "w": 6,
-          "o": 17,
+          "r": 160,
+          "w": 10,
+          "o": 19.5,
           "inning": "bundelkhand bulls Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 6,
+          "o": 19.1,
+          "inning": "Bundelkhand Bulls,Ujjain Falcons Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -892,7 +763,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6090a6e9-9a27-4fe1-8a1c-bdfe48d645b1",
@@ -1110,6 +981,141 @@
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "aa60dcc3-9e7f-42e0-8dea-f860e50a8520",
+      "name": "Brazil Women vs Nigeria Women, 3rd Place Play off, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Nigeria Women won by 2 wkts",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T07:30:00",
+      "teams": [
+        "Brazil Women",
+        "Nigeria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brazil Women",
+          "shortname": "BRW",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        },
+        {
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 85,
+          "w": 10,
+          "o": 20,
+          "inning": "Brazil Women Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 8,
+          "o": 19.2,
+          "inning": "Nigeria Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8f2d7d9c-e507-4a60-8c14-620181044b41",
+      "name": "Rwanda Women vs Nigeria Women, 12th Match, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Rwanda Women won by 11 runs",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T11:30:00",
+      "teams": [
+        "Rwanda Women",
+        "Nigeria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 131,
+          "w": 8,
+          "o": 20,
+          "inning": "Rwanda Women Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 9,
+          "o": 20,
+          "inning": "Nigeria Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9dd74e9c-cf16-4ea6-80f6-a2fdba77945d",
+      "name": "Rwanda Women vs Brazil Women, 11th Match, Kwibuka Womens T20I Tournament, 2026",
+      "matchType": "t20",
+      "status": "Match tied (Brazil women won the Super Over)",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-06-18",
+      "dateTimeGMT": "2026-06-18T07:30:00",
+      "teams": [
+        "Rwanda Women",
+        "Brazil Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brazil Women",
+          "shortname": "BRW",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 128,
+          "w": 5,
+          "o": 20,
+          "inning": "Rwanda Women Inning 1"
+        },
+        {
+          "r": 128,
+          "w": 8,
+          "o": 20,
+          "inning": "Brazil Women Inning 1"
+        }
+      ],
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
