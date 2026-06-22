@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-22T18:14:30.414Z",
+  "lastUpdated": "2026-06-22T22:07:14.553Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
       "name": "Singapore vs Uzbekistan, 2nd Match, Asia Pacific Cricket Champions Trophy 2026",
       "matchType": "t20",
-      "status": "Singapore won by 52 runs (8 Overs game due to rain)",
+      "status": "Singapore won by 52 runs (8 overs game due to rain)",
       "venue": "Singapore National Cricket Ground, Singapore",
       "date": "2026-06-22",
       "dateTimeGMT": "2026-06-22T10:30:00",
@@ -170,51 +170,6 @@
           "r": 192,
           "w": 3,
           "o": 19.1,
-          "inning": "Denmark,Germany Inning 1"
-        }
-      ],
-      "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3590aded-ecaa-4c0d-a1f4-7347b3a00ad7",
-      "name": "Denmark vs Germany, 1st T20I, Germany tour of Denmark, 2026",
-      "matchType": "t20",
-      "status": "Germany won by 2 wkts",
-      "venue": "Svanholm Park, Brondby",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T00:00:00",
-      "teams": [
-        "Denmark",
-        "Germany"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Germany",
-          "shortname": "GER",
-          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 9,
-          "o": 20,
-          "inning": "denmark Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 8,
-          "o": 19.5,
           "inning": "Denmark,Germany Inning 1"
         }
       ],
@@ -496,51 +451,6 @@
       "matchEnded": true
     },
     {
-      "id": "1995b8b3-d264-4d42-a326-9ad46393b69f",
-      "name": "West Indies Women vs Scotland Women, 12th Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "West Indies Women won by 7 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T17:30:00",
-      "teams": [
-        "West Indies Women",
-        "Scotland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Scotland Women",
-          "shortname": "SCOW",
-          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
-        },
-        {
-          "name": "West Indies Women",
-          "shortname": "WIW",
-          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 153,
-          "w": 6,
-          "o": 20,
-          "inning": "West Indies Women Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 10,
-          "o": 20,
-          "inning": "Scotland Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b362954b-891b-4c8e-8159-b0284374d00f",
       "name": "Cyprus Women vs Malta Women, 5th T20I, Malta Women tour of Cyprus, 2026",
       "matchType": "t20",
@@ -676,100 +586,10 @@
       "matchEnded": true
     },
     {
-      "id": "9f706b61-b774-42db-9228-445cebaae644",
-      "name": "Cyprus Women vs Malta Women, 2nd T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women won by 82 runs",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T12:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Malta Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 4,
-          "o": 20,
-          "inning": "cyprus women Inning 1"
-        },
-        {
-          "r": 44,
-          "w": 10,
-          "o": 14.1,
-          "inning": "Cyprus Women,Malta Women Inning 1"
-        }
-      ],
-      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3e553379-a630-43fb-a6aa-f9349e697d15",
-      "name": "Cyprus Women vs Malta Women, 1st T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women won by 24 runs",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T07:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Malta Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 95,
-          "w": 10,
-          "o": 19.5,
-          "inning": "Cyprus Women Inning 1"
-        },
-        {
-          "r": 71,
-          "w": 10,
-          "o": 18.3,
-          "inning": "Malta Women Inning 1"
-        }
-      ],
-      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "908efb12-b1c6-4bca-9695-06f45943f771",
       "name": "Malwa Stallions vs Rewa Jaguars, 41st Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Rewa Jaguars need 82 runs in 15 balls",
+      "status": "Malwa Stallions won by 52 runs",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-22",
       "dateTimeGMT": "2026-06-22T14:00:00",
@@ -796,9 +616,9 @@
           "inning": "malwa stallions Inning 1"
         },
         {
-          "r": 133,
-          "w": 7,
-          "o": 17.3,
+          "r": 162,
+          "w": 10,
+          "o": 20,
           "inning": "Malwa Stallions,Rewa Jaguars Inning 1"
         }
       ],
@@ -1032,43 +852,44 @@
       "matchEnded": true
     },
     {
-      "id": "d973f873-e553-4d82-b2a4-eb382a8b4de7",
-      "name": "Jabalpur Royal Lions vs Royal Nimar Eagles, 35th Match, Madhya Pradesh Premier League 2026",
+      "id": "aa60dcc3-9e7f-42e0-8dea-f860e50a8520",
+      "name": "Brazil Women vs Nigeria Women, 3rd Place Play off, Kwibuka Womens T20I Tournament, 2026",
       "matchType": "t20",
-      "status": "Royal Nimar Eagles won by 7 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T14:00:00",
+      "status": "Nigeria Women won by 2 wkts",
+      "venue": "Gahanga International Cricket Stadium, Kigali City",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T07:30:00",
       "teams": [
-        "Jabalpur Royal Lions",
-        "Royal Nimar Eagles"
+        "Brazil Women",
+        "Nigeria Women"
       ],
       "teamInfo": [
         {
-          "name": "Jabalpur Royal Lions",
-          "shortname": "JRL",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Brazil Women",
+          "shortname": "BRW",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
         },
         {
-          "name": "Royal Nimar Eagles",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 176,
-          "w": 6,
+          "r": 85,
+          "w": 10,
           "o": 20,
-          "inning": "Jabalpur Royal Lions Inning 1"
+          "inning": "Brazil Women Inning 1"
         },
         {
-          "r": 177,
-          "w": 3,
-          "o": 18.3,
-          "inning": "Royal Nimar Eagles Inning 1"
+          "r": 87,
+          "w": 8,
+          "o": 19.2,
+          "inning": "Nigeria Women Inning 1"
         }
       ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1076,43 +897,222 @@
       "matchEnded": true
     },
     {
-      "id": "c3a3db7c-3c65-4400-9a90-947399abd195",
-      "name": "Ujjain Falcons vs Indore Pink Panthers, 34th Match, Madhya Pradesh Premier League 2026",
+      "id": "8f2d7d9c-e507-4a60-8c14-620181044b41",
+      "name": "Rwanda Women vs Nigeria Women, 12th Match, Kwibuka Womens T20I Tournament, 2026",
       "matchType": "t20",
-      "status": "Ujjain Falcons won by 5 wkts",
-      "venue": "Holkar Stadium, Indore",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T09:30:00",
+      "status": "Rwanda Women won by 11 runs",
+      "venue": "Gahanga B Ground, Kigali City",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T11:30:00",
       "teams": [
-        "Ujjain Falcons",
-        "Indore Pink Panthers"
+        "Rwanda Women",
+        "Nigeria Women"
       ],
       "teamInfo": [
         {
-          "name": "Indore Pink Panthers",
-          "shortname": "IPP",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Nigeria Women",
+          "shortname": "NGW",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
         },
         {
-          "name": "Ujjain Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 137,
+          "r": 131,
           "w": 8,
           "o": 20,
-          "inning": "Indore Pink Panthers Inning 1"
+          "inning": "Rwanda Women Inning 1"
         },
         {
-          "r": 141,
-          "w": 5,
-          "o": 19,
-          "inning": "Ujjain Falcons Inning 1"
+          "r": 120,
+          "w": 9,
+          "o": 20,
+          "inning": "Nigeria Women Inning 1"
         }
       ],
-      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "850cadb3-22d0-413b-befe-eddcb0efb983",
+      "name": "England A Women vs India A Women, Unofficial 1st T20, India A Women tour of England 2026",
+      "matchType": "t20",
+      "status": "India A Women won by 5 wkts",
+      "venue": "County Ground, Northampton",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T17:30:00",
+      "teams": [
+        "England A Women",
+        "India A Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England A Women",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "India A Women",
+          "shortname": "IND-A",
+          "img": "https://g.cricapi.com/iapi/3151-638049769196782817.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 7,
+          "o": 20,
+          "inning": "England A Women Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 5,
+          "o": 18.1,
+          "inning": "India A Women Inning 1"
+        }
+      ],
+      "series_id": "fce9cf36-53b7-4e37-b705-96769af6aeac",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3c8a4266-d70d-408d-9472-b1e5cab26649",
+      "name": "Bangladesh vs Australia, 3rd T20I, Australia tour of Bangladesh, 2026",
+      "matchType": "t20",
+      "status": "Australia won by 7 wkts",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T08:00:00",
+      "teams": [
+        "Bangladesh",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 8,
+          "o": 20,
+          "inning": "bangladesh Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 3,
+          "o": 11,
+          "inning": "Bangladesh,Australia Inning 1"
+        }
+      ],
+      "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3e2e75ef-b5c1-4f3b-94f7-669a2d2687da",
+      "name": "Bangladesh vs Australia, 2nd T20I, Australia tour of Bangladesh, 2026",
+      "matchType": "t20",
+      "status": "Australia won by 7 runs",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T12:00:00",
+      "teams": [
+        "Bangladesh",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 196,
+          "w": 5,
+          "o": 20,
+          "inning": "australia Inning 1"
+        },
+        {
+          "r": 189,
+          "w": 6,
+          "o": 20,
+          "inning": "Bangladesh,Australia Inning 1"
+        }
+      ],
+      "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1fc169ab-6e09-4f57-bab5-1fc4beccdcd0",
+      "name": "India vs Afghanistan, 3rd ODI, Afghanistan tour of India 2026",
+      "status": "India won by 9 wkts",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T08:00:00",
+      "teams": [
+        "India",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 218,
+          "w": 10,
+          "o": 44.2,
+          "inning": "afghanistan Inning 1"
+        },
+        {
+          "r": 224,
+          "w": 1,
+          "o": 28.4,
+          "inning": "India,Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
