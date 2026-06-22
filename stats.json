@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-06-22T13:24:16.811Z",
+  "lastUpdated": "2026-06-22T18:14:30.414Z",
   "recentMatches": [
+    {
+      "id": "899844f1-9955-414c-964e-f26c85fe39d4",
+      "name": "Singapore vs Uzbekistan, 2nd Match, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Singapore won by 52 runs (8 Overs game due to rain)",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T10:30:00",
+      "teams": [
+        "Singapore",
+        "Uzbekistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        },
+        {
+          "name": "Uzbekistan",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 101,
+          "w": 3,
+          "o": 8,
+          "inning": "Singapore Inning 1"
+        },
+        {
+          "r": 49,
+          "w": 5,
+          "o": 8,
+          "inning": "Uzbekistan Inning 1"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
       "name": "Denmark vs Germany, 4th T20I, Germany tour of Denmark, 2026",
@@ -722,6 +766,50 @@
       "matchEnded": true
     },
     {
+      "id": "908efb12-b1c6-4bca-9695-06f45943f771",
+      "name": "Malwa Stallions vs Rewa Jaguars, 41st Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Rewa Jaguars need 82 runs in 15 balls",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T14:00:00",
+      "teams": [
+        "Malwa Stallions",
+        "Rewa Jaguars"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malwa Stallions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 214,
+          "w": 7,
+          "o": 20,
+          "inning": "malwa stallions Inning 1"
+        },
+        {
+          "r": 133,
+          "w": 7,
+          "o": 17.3,
+          "inning": "Malwa Stallions,Rewa Jaguars Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "d073993d-2daf-44f3-8b95-72ec0e8d7674",
       "name": "Royal Nimar Eagles vs Bhopal Leopards, 40th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
@@ -1025,96 +1113,6 @@
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "aa60dcc3-9e7f-42e0-8dea-f860e50a8520",
-      "name": "Brazil Women vs Nigeria Women, 3rd Place Play off, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 2 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T07:30:00",
-      "teams": [
-        "Brazil Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 85,
-          "w": 10,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 8,
-          "o": 19.2,
-          "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8f2d7d9c-e507-4a60-8c14-620181044b41",
-      "name": "Rwanda Women vs Nigeria Women, 12th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Rwanda Women won by 11 runs",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T11:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 131,
-          "w": 8,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 9,
-          "o": 20,
-          "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
