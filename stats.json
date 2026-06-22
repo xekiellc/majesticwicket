@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T07:31:09.290Z",
+  "lastUpdated": "2026-06-22T13:24:16.811Z",
   "recentMatches": [
     {
       "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
@@ -722,6 +722,50 @@
       "matchEnded": true
     },
     {
+      "id": "d073993d-2daf-44f3-8b95-72ec0e8d7674",
+      "name": "Royal Nimar Eagles vs Bhopal Leopards, 40th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Royal Nimar Eagles won by 8 wkts",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T09:30:00",
+      "teams": [
+        "Royal Nimar Eagles",
+        "Bhopal Leopards"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhopal Leopards",
+          "shortname": "BL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Nimar Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 107,
+          "w": 10,
+          "o": 13,
+          "inning": "Bhopal Leopards Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 2,
+          "o": 9.2,
+          "inning": "Royal Nimar Eagles Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "7937a600-344c-43e5-a60b-60cabcadbe67",
       "name": "Bundelkhand Bulls vs Ujjain Falcons, 39th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
@@ -1068,51 +1112,6 @@
           "w": 9,
           "o": 20,
           "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9dd74e9c-cf16-4ea6-80f6-a2fdba77945d",
-      "name": "Rwanda Women vs Brazil Women, 11th Match, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Match tied (Brazil women won the Super Over)",
-      "venue": "Gahanga B Ground, Kigali City",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T07:30:00",
-      "teams": [
-        "Rwanda Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 5,
-          "o": 20,
-          "inning": "Rwanda Women Inning 1"
-        },
-        {
-          "r": 128,
-          "w": 8,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
         }
       ],
       "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
