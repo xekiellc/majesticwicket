@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T06:13:33.783Z",
+  "lastUpdated": "2026-06-23T10:51:46.211Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -179,6 +179,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "e7ea09fc-f5f1-4abe-8c34-5cdbc1a75544",
+      "name": "New Zealand Women vs Scotland Women, 19th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "New Zealand Women opt to bowl",
+      "venue": "County Ground, Bristol",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T09:30:00",
+      "teams": [
+        "New Zealand Women",
+        "Scotland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        },
+        {
+          "name": "Scotland Women",
+          "shortname": "SCOW",
+          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 5,
+          "o": 18.1,
+          "inning": "Scotland Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "28ee6eb6-6a56-4295-acb2-00b6854a9618",
@@ -584,6 +623,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "d221f08d-0ffd-47e0-9506-dd2675d3a665",
+      "name": "Indore Pink Panthers vs Gwalior Cheetahs, 42nd Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Gwalior Cheetahs opt to bowl",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T09:30:00",
+      "teams": [
+        "Indore Pink Panthers",
+        "Gwalior Cheetahs"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gwalior Cheetahs",
+          "shortname": "GC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Indore Pink Panthers",
+          "shortname": "IPP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 3,
+          "o": 12.4,
+          "inning": "Indore Pink Panthers Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "908efb12-b1c6-4bca-9695-06f45943f771",
@@ -1024,95 +1102,6 @@
         }
       ],
       "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3e2e75ef-b5c1-4f3b-94f7-669a2d2687da",
-      "name": "Bangladesh vs Australia, 2nd T20I, Australia tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Australia won by 7 runs",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T12:00:00",
-      "teams": [
-        "Bangladesh",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 5,
-          "o": 20,
-          "inning": "australia Inning 1"
-        },
-        {
-          "r": 189,
-          "w": 6,
-          "o": 20,
-          "inning": "Bangladesh,Australia Inning 1"
-        }
-      ],
-      "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1fc169ab-6e09-4f57-bab5-1fc4beccdcd0",
-      "name": "India vs Afghanistan, 3rd ODI, Afghanistan tour of India 2026",
-      "status": "India won by 9 wkts",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T08:00:00",
-      "teams": [
-        "India",
-        "Afghanistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 218,
-          "w": 10,
-          "o": 44.2,
-          "inning": "afghanistan Inning 1"
-        },
-        {
-          "r": 224,
-          "w": 1,
-          "o": 28.4,
-          "inning": "India,Afghanistan Inning 1"
-        }
-      ],
-      "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
