@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T10:51:46.211Z",
+  "lastUpdated": "2026-06-23T16:28:44.394Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -181,10 +181,55 @@
       "matchEnded": true
     },
     {
+      "id": "73917f2c-5312-4d2c-aedf-d63b226c2971",
+      "name": "Sri Lanka Women vs Ireland Women, 20th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women need 6 runs in 35 balls",
+      "venue": "County Ground, Bristol",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T13:30:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 130,
+          "w": 5,
+          "o": 20,
+          "inning": "Ireland Women Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 1,
+          "o": 14.1,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "e7ea09fc-f5f1-4abe-8c34-5cdbc1a75544",
       "name": "New Zealand Women vs Scotland Women, 19th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "New Zealand Women opt to bowl",
+      "status": "New Zealand Women won by 6 wkts",
       "venue": "County Ground, Bristol",
       "date": "2026-06-23",
       "dateTimeGMT": "2026-06-23T09:30:00",
@@ -206,10 +251,16 @@
       ],
       "score": [
         {
-          "r": 121,
-          "w": 5,
-          "o": 18.1,
+          "r": 131,
+          "w": 7,
+          "o": 20,
           "inning": "Scotland Women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 4,
+          "o": 18.2,
+          "inning": "New Zealand Women Inning 1"
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
@@ -217,7 +268,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "28ee6eb6-6a56-4295-acb2-00b6854a9618",
@@ -628,7 +679,7 @@
       "id": "d221f08d-0ffd-47e0-9506-dd2675d3a665",
       "name": "Indore Pink Panthers vs Gwalior Cheetahs, 42nd Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Gwalior Cheetahs opt to bowl",
+      "status": "Indore Pink Panthers won by 38 runs (VJD Method)",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-23",
       "dateTimeGMT": "2026-06-23T09:30:00",
@@ -650,10 +701,16 @@
       ],
       "score": [
         {
-          "r": 104,
+          "r": 221,
           "w": 3,
-          "o": 12.4,
+          "o": 20,
           "inning": "Indore Pink Panthers Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 7,
+          "o": 17.1,
+          "inning": "Gwalior Cheetahs Inning 1"
         }
       ],
       "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
@@ -661,7 +718,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "908efb12-b1c6-4bca-9695-06f45943f771",
@@ -1057,51 +1114,6 @@
         }
       ],
       "series_id": "fce9cf36-53b7-4e37-b705-96769af6aeac",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3c8a4266-d70d-408d-9472-b1e5cab26649",
-      "name": "Bangladesh vs Australia, 3rd T20I, Australia tour of Bangladesh, 2026",
-      "matchType": "t20",
-      "status": "Australia won by 7 wkts",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T08:00:00",
-      "teams": [
-        "Bangladesh",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 8,
-          "o": 20,
-          "inning": "bangladesh Inning 1"
-        },
-        {
-          "r": 112,
-          "w": 3,
-          "o": 11,
-          "inning": "Bangladesh,Australia Inning 1"
-        }
-      ],
-      "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
