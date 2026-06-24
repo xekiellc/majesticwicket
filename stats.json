@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T16:25:41.246Z",
+  "lastUpdated": "2026-06-24T21:25:53.129Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -46,44 +46,44 @@
       "matchEnded": true
     },
     {
-      "id": "9caa34e8-7a8c-450b-b9c8-f364b2564df1",
-      "name": "Denmark vs Germany, 4th T20I, Germany tour of Denmark, 2026",
+      "id": "89d1fad5-9198-4141-bf60-4b4475f9925a",
+      "name": "England Women vs West Indies Women, 22nd Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Denmark won by 5 wkts",
-      "venue": "Svanholm Park, Brondby",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T09:00:00",
+      "status": "England Women won by 38 runs",
+      "venue": "Lord's, London",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T17:30:00",
       "teams": [
-        "Denmark",
-        "Germany"
+        "England Women",
+        "West Indies Women"
       ],
       "teamInfo": [
         {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
         },
         {
-          "name": "Germany",
-          "shortname": "GER",
-          "img": "https://g.cricapi.com/iapi/25-637877087673982104.webp?w=48"
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 141,
-          "w": 9,
+          "r": 186,
+          "w": 7,
           "o": 20,
-          "inning": "Germany Inning 1"
+          "inning": "England Women Inning 1"
         },
         {
-          "r": 144,
+          "r": 148,
           "w": 5,
-          "o": 18.5,
-          "inning": "Denmark Inning 1"
+          "o": 20,
+          "inning": "West Indies Women Inning 1"
         }
       ],
-      "series_id": "1861ee8d-531f-4add-95cc-a387ed74ca41",
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -309,186 +309,6 @@
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a62da2c3-1e79-42fc-bf74-3bcc094a392c",
-      "name": "England Women vs Scotland Women, 16th Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "England Women won by 38 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T17:30:00",
-      "teams": [
-        "England Women",
-        "Scotland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Women",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
-        },
-        {
-          "name": "Scotland Women",
-          "shortname": "SCOW",
-          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 200,
-          "w": 5,
-          "o": 20,
-          "inning": "England Women Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 7,
-          "o": 20,
-          "inning": "Scotland Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b698456b-1dce-4568-91d6-30000a4b7e11",
-      "name": "Pakistan Women vs Bangladesh Women, 15th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Bangladesh Women won by 23 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T13:30:00",
-      "teams": [
-        "Pakistan Women",
-        "Bangladesh Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 123,
-          "w": 6,
-          "o": 20,
-          "inning": "bangladesh women Inning 1"
-        },
-        {
-          "r": 100,
-          "w": 8,
-          "o": 20,
-          "inning": "Pakistan Women,Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "296e6902-7082-4fcb-bacf-eca287212e4e",
-      "name": "Australia Women vs Netherlands Women, 14th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 98 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T09:30:00",
-      "teams": [
-        "Australia Women",
-        "Netherlands Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "Netherlands Women",
-          "shortname": "NET-W",
-          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 219,
-          "w": 6,
-          "o": 20,
-          "inning": "Australia Women Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 3,
-          "o": 20,
-          "inning": "Netherlands Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b362954b-891b-4c8e-8159-b0284374d00f",
-      "name": "Cyprus Women vs Malta Women, 5th T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Cyprus Women won by 51 runs",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T07:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Cyprus Women",
-          "shortname": "CPW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Malta Women",
-          "shortname": "MW",
-          "img": "https://g.cricapi.com/iapi/627-637870989919653171.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 81,
-          "w": 9,
-          "o": 20,
-          "inning": "Cyprus Women Inning 1"
-        },
-        {
-          "r": 30,
-          "w": 10,
-          "o": 15.2,
-          "inning": "Malta Women Inning 1"
-        }
-      ],
-      "series_id": "cb18e397-deb9-4d37-ae99-f10f488c5e91",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -757,51 +577,6 @@
       "matchEnded": true
     },
     {
-      "id": "aa60dcc3-9e7f-42e0-8dea-f860e50a8520",
-      "name": "Brazil Women vs Nigeria Women, 3rd Place Play off, Kwibuka Womens T20I Tournament, 2026",
-      "matchType": "t20",
-      "status": "Nigeria Women won by 2 wkts",
-      "venue": "Gahanga International Cricket Stadium, Kigali City",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T07:30:00",
-      "teams": [
-        "Brazil Women",
-        "Nigeria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Nigeria Women",
-          "shortname": "NGW",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 85,
-          "w": 10,
-          "o": 20,
-          "inning": "Brazil Women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 8,
-          "o": 19.2,
-          "inning": "Nigeria Women Inning 1"
-        }
-      ],
-      "series_id": "a02a766f-f627-4b8a-a75c-a546da5affcf",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "5fea5cc8-81c1-4903-baad-7e76f709a944",
       "name": "England A Women vs India A Women, Unofficial 2nd T20, India A Women tour of England 2026",
       "matchType": "t20",
@@ -836,50 +611,6 @@
           "w": 5,
           "o": 18.3,
           "inning": "England A Women Inning 1"
-        }
-      ],
-      "series_id": "fce9cf36-53b7-4e37-b705-96769af6aeac",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "850cadb3-22d0-413b-befe-eddcb0efb983",
-      "name": "England A Women vs India A Women, Unofficial 1st T20, India A Women tour of England 2026",
-      "matchType": "t20",
-      "status": "India A Women won by 5 wkts",
-      "venue": "County Ground, Northampton",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T17:30:00",
-      "teams": [
-        "England A Women",
-        "India A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "India A Women",
-          "shortname": "IND-A",
-          "img": "https://g.cricapi.com/iapi/3151-638049769196782817.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 7,
-          "o": 20,
-          "inning": "England A Women Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 5,
-          "o": 18.1,
-          "inning": "India A Women Inning 1"
         }
       ],
       "series_id": "fce9cf36-53b7-4e37-b705-96769af6aeac",
@@ -928,50 +659,6 @@
         }
       ],
       "series_id": "b64e8180-a896-41ee-b1ca-2dbc9c938a0f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1fc169ab-6e09-4f57-bab5-1fc4beccdcd0",
-      "name": "India vs Afghanistan, 3rd ODI, Afghanistan tour of India 2026",
-      "status": "India won by 9 wkts",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T08:00:00",
-      "teams": [
-        "India",
-        "Afghanistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 218,
-          "w": 10,
-          "o": 44.2,
-          "inning": "afghanistan Inning 1"
-        },
-        {
-          "r": 224,
-          "w": 1,
-          "o": 28.4,
-          "inning": "India,Afghanistan Inning 1"
-        }
-      ],
-      "series_id": "3eb31b49-de81-4168-8a54-4d9b166c814a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1104,6 +791,96 @@
           "w": 10,
           "o": 15.3,
           "inning": "Seattle Orcas Inning 1"
+        }
+      ],
+      "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fd098f43-7f8c-4216-b594-a110d3c45dde",
+      "name": "Washington Freedom vs MI New York, 5th Match, Major League Cricket 2026",
+      "matchType": "t20",
+      "status": "Washington Freedom won by 30 runs",
+      "venue": "Grand Prairie Stadium, Dallas",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T00:30:00",
+      "teams": [
+        "Washington Freedom",
+        "MI New York"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mi New York",
+          "shortname": "MNY",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Washington Freedom",
+          "shortname": "WF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 245,
+          "w": 5,
+          "o": 20,
+          "inning": "Washington Freedom Inning 1"
+        },
+        {
+          "r": 215,
+          "w": 6,
+          "o": 20,
+          "inning": "MI New York Inning 1"
+        }
+      ],
+      "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "14736c19-0ded-45dd-b94d-ab4af49eb97b",
+      "name": "Texas Super Kings vs San Francisco Unicorns, 4th Match, Major League Cricket 2026",
+      "matchType": "t20",
+      "status": "San Francisco Unicorns won by 7 wkts",
+      "venue": "Grand Prairie Stadium, Dallas",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T20:30:00",
+      "teams": [
+        "Texas Super Kings",
+        "San Francisco Unicorns"
+      ],
+      "teamInfo": [
+        {
+          "name": "San Francisco Unicorns",
+          "shortname": "SFU",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Texas Super Kings",
+          "shortname": "TSK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 152,
+          "w": 9,
+          "o": 20,
+          "inning": "Texas Super Kings Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 3,
+          "o": 17.5,
+          "inning": "San Francisco Unicorns Inning 1"
         }
       ],
       "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
