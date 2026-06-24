@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T10:38:23.604Z",
+  "lastUpdated": "2026-06-24T16:25:41.246Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -499,7 +499,7 @@
       "id": "fd681e32-8e57-4b0b-9e48-8f7f10acb195",
       "name": "Jabalpur Royal Lions vs Bundelkhand Bulls, 44th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
-      "status": "Rain stops play - Jabalpur Royal Lions opt to bat",
+      "status": "No result due to rain",
       "venue": "Holkar Stadium, Indore",
       "date": "2026-06-24",
       "dateTimeGMT": "2026-06-24T09:30:00",
@@ -532,7 +532,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d221f08d-0ffd-47e0-9506-dd2675d3a665",
