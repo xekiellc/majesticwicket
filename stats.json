@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T06:11:45.236Z",
+  "lastUpdated": "2026-06-24T10:38:23.604Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -494,6 +494,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "fd681e32-8e57-4b0b-9e48-8f7f10acb195",
+      "name": "Jabalpur Royal Lions vs Bundelkhand Bulls, 44th Match, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Rain stops play - Jabalpur Royal Lions opt to bat",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T09:30:00",
+      "teams": [
+        "Jabalpur Royal Lions",
+        "Bundelkhand Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortname": "BB",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortname": "JRL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 96,
+          "w": 2,
+          "o": 8.2,
+          "inning": "jabalpur royal lions Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "d221f08d-0ffd-47e0-9506-dd2675d3a665",
@@ -1065,51 +1104,6 @@
           "w": 10,
           "o": 15.3,
           "inning": "Seattle Orcas Inning 1"
-        }
-      ],
-      "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fd098f43-7f8c-4216-b594-a110d3c45dde",
-      "name": "Washington Freedom vs MI New York, 5th Match, Major League Cricket 2026",
-      "matchType": "t20",
-      "status": "Washington Freedom won by 30 runs",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T00:30:00",
-      "teams": [
-        "Washington Freedom",
-        "MI New York"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi New York",
-          "shortname": "MNY",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Washington Freedom",
-          "shortname": "WF",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 245,
-          "w": 5,
-          "o": 20,
-          "inning": "Washington Freedom Inning 1"
-        },
-        {
-          "r": 215,
-          "w": 6,
-          "o": 20,
-          "inning": "MI New York Inning 1"
         }
       ],
       "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
