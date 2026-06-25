@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T21:25:53.129Z",
+  "lastUpdated": "2026-06-25T06:13:42.889Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -707,6 +707,51 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "616ecc07-06f0-447a-973d-8febb0d9564b",
+      "name": "San Francisco Unicorns vs Texas Super Kings, 8th Match, Major League Cricket 2026",
+      "matchType": "t20",
+      "status": "Texas Super Kings won by 22 runs",
+      "venue": "Oakland Coliseum, Oakland",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T01:30:00",
+      "teams": [
+        "San Francisco Unicorns",
+        "Texas Super Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "San Francisco Unicorns",
+          "shortname": "SFU",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Texas Super Kings",
+          "shortname": "TSK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 161,
+          "w": 8,
+          "o": 20,
+          "inning": "Texas Super Kings Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 10,
+          "o": 17.4,
+          "inning": "San Francisco Unicorns Inning 1"
+        }
+      ],
+      "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
