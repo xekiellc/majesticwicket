@@ -1,6 +1,620 @@
 {
-  "lastUpdated": "2026-06-25T16:29:33.507Z",
+  "lastUpdated": "2026-06-25T21:47:32.275Z",
   "recentMatches": [
+    {
+      "id": "45fdf1d3-e2d7-474a-8827-cb598d086d9d",
+      "name": "Singapore vs Indonesia, 6th Match, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Singapore won by 123 runs",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T00:00:00",
+      "teams": [
+        "Singapore",
+        "Indonesia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 258,
+          "w": 3,
+          "o": 20,
+          "inning": "Singapore Inning 1"
+        },
+        {
+          "r": 135,
+          "w": 6,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0c388a86-2b5f-463f-9833-fc28a8a48faa",
+      "name": "Thailand vs Uzbekistan, 5th Match, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Thailand won by 8 wkts",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T00:00:00",
+      "teams": [
+        "Thailand",
+        "Uzbekistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        },
+        {
+          "name": "Uzbekistan",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 37,
+          "w": 10,
+          "o": 12.3,
+          "inning": "Uzbekistan Inning 1"
+        },
+        {
+          "r": 38,
+          "w": 2,
+          "o": 3.4,
+          "inning": "Thailand Inning 1"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "abf4092d-47d9-40f8-ba69-753f7472edc9",
+      "name": "Singapore vs Thailand, 4th Match, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Singapore won by 88 runs",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T00:00:00",
+      "teams": [
+        "Singapore",
+        "Thailand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 187,
+          "w": 7,
+          "o": 20,
+          "inning": "singapore Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 9,
+          "o": 20,
+          "inning": "Singapore,Thailand Inning 1"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b0fed952-942a-40a0-862b-caf0da65f27d",
+      "name": "Indonesia vs Uzbekistan, 3rd Match, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Indonesia won by 119 runs",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T00:00:00",
+      "teams": [
+        "Indonesia",
+        "Uzbekistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Uzbekistan",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 247,
+          "w": 2,
+          "o": 20,
+          "inning": "Indonesia Inning 1"
+        },
+        {
+          "r": 128,
+          "w": 5,
+          "o": 20,
+          "inning": "Uzbekistan Inning 1"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bb14b878-b756-4c00-b552-fc9568da2f21",
+      "name": "Hubli Tigers vs Gulbarga Mystics, 12th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Gulbarga Mystics won by 7 wkts",
+      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T00:00:00",
+      "teams": [
+        "Hubli Tigers",
+        "Gulbarga Mystics"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gulbarga Mystics",
+          "shortname": "GUM",
+          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+        },
+        {
+          "name": "Hubli Tigers",
+          "shortname": "HT",
+          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 9,
+          "o": 20,
+          "inning": "hubli tigers Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 3,
+          "o": 13.2,
+          "inning": "Hubli Tigers,Gulbarga Mystics Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "afa03585-d4ea-40ba-b6ac-9c5041068930",
+      "name": "Karimnagar Diamonds vs Anurag Nalgonda Knights, 7th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Anurag Nalgonda Knights won by 6 wkts (DLS method)",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T00:00:00",
+      "teams": [
+        "Karimnagar Diamonds",
+        "Anurag Nalgonda Knights"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anurag Nalgonda Knights",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Karimnagar Diamonds",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 130,
+          "w": 10,
+          "o": 20,
+          "inning": "Karimnagar Diamonds Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 4,
+          "o": 14,
+          "inning": "Anurag Nalgonda Knights Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "09c2a93a-6aa5-4945-866b-bf02b515683e",
+      "name": "Anvita Khammam Aces vs Warangal Warriors, 6th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Warangal Warriors won by 5 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T00:00:00",
+      "teams": [
+        "Anvita Khammam Aces",
+        "Warangal Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Warangal Warriors",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 202,
+          "w": 10,
+          "o": 19.2,
+          "inning": "Anvita Khammam Aces Inning 1"
+        },
+        {
+          "r": 208,
+          "w": 5,
+          "o": 18.5,
+          "inning": "Warangal Warriors Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c01aa9b4-8d22-443a-85bb-d55ea997f7f4",
+      "name": "Medak Falcons vs Ranga Reddy Risers, 5th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Ranga Reddy Risers won by 5 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T00:00:00",
+      "teams": [
+        "Medak Falcons",
+        "Ranga Reddy Risers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Medak Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ranga Reddy Risers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 164,
+          "w": 8,
+          "o": 20,
+          "inning": "Medak Falcons Inning 1"
+        },
+        {
+          "r": 167,
+          "w": 5,
+          "o": 18.2,
+          "inning": "Ranga Reddy Risers Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2b76437d-fb3c-4368-8585-bb480a547033",
+      "name": "Palamuru Strikers vs Hyderabad E Champions, 4th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions won by 7 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T00:00:00",
+      "teams": [
+        "Palamuru Strikers",
+        "Hyderabad E Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Palamuru Strikers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Palamuru Strikers Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 3,
+          "o": 15.4,
+          "inning": "Hyderabad E Champions Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1d6fe783-c204-4634-8daf-f8a2df8b0f48",
+      "name": "Warangal Warriors vs Medak Falcons, 3rd Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Medak Falcons won by 3 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T00:00:00",
+      "teams": [
+        "Warangal Warriors",
+        "Medak Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Medak Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Warangal Warriors",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 258,
+          "w": 7,
+          "o": 20,
+          "inning": "warangal warriors Inning 1"
+        },
+        {
+          "r": 259,
+          "w": 7,
+          "o": 19.4,
+          "inning": "Warangal Warriors,Medak Falcons Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "135df86b-4c6b-401b-bf6c-03b51e84084d",
+      "name": "Anurag Nalgonda Knights vs Ranga Reddy Risers, 2nd Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Ranga Reddy Risers won by 5 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T00:00:00",
+      "teams": [
+        "Anurag Nalgonda Knights",
+        "Ranga Reddy Risers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anurag Nalgonda Knights",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ranga Reddy Risers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 189,
+          "w": 8,
+          "o": 20,
+          "inning": "Anurag Nalgonda Knights Inning 1"
+        },
+        {
+          "r": 190,
+          "w": 5,
+          "o": 16.3,
+          "inning": "Ranga Reddy Risers Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "53a56d43-2955-4203-98ff-7e86af872da3",
+      "name": "Anvita Khammam Aces vs Palamuru Strikers, 1st Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Anvita Khammam Aces won by 20 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T00:00:00",
+      "teams": [
+        "Anvita Khammam Aces",
+        "Palamuru Strikers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Palamuru Strikers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 237,
+          "w": 5,
+          "o": 20,
+          "inning": "Anvita Khammam Aces Inning 1"
+        },
+        {
+          "r": 217,
+          "w": 6,
+          "o": 20,
+          "inning": "Palamuru Strikers Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3689ce14-dac4-4c4d-b335-1a4c3fd7399b",
+      "name": "Namibia vs Nigeria, 6th Match, Namibia T20I Tri-Series 2026",
+      "matchType": "t20",
+      "status": "Namibia won by 93 runs",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T00:00:00",
+      "teams": [
+        "Namibia",
+        "Nigeria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "Nigeria",
+          "shortname": "NGA",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 220,
+          "w": 5,
+          "o": 20,
+          "inning": "namibia Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 9,
+          "o": 20,
+          "inning": "Namibia,Nigeria Inning 1"
+        }
+      ],
+      "series_id": "46e148d6-7102-4592-a199-2037601419d3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "688ec5cc-47fc-402c-85d4-2f8a348dadd0",
+      "name": "Namibia vs Hong Kong, China, 5th Match, Namibia T20I Tri-Series 2026",
+      "matchType": "t20",
+      "status": "Namibia won by 30 runs",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T00:00:00",
+      "teams": [
+        "Namibia",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 230,
+          "w": 6,
+          "o": 20,
+          "inning": "namibia Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 6,
+          "o": 20,
+          "inning": "Namibia,Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "46e148d6-7102-4592-a199-2037601419d3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "d4bf5f31-f658-4885-8ac6-8172d2e0e4c5",
       "name": "Coastal Kings Mangaluru vs Mysore Warriors, 11th Match, Maharaja Trophy KSCA T20 2026",
@@ -310,576 +924,10 @@
       "matchEnded": true
     },
     {
-      "id": "339ef571-6b26-4899-bdb6-d4a2f0e437c3",
-      "name": "Kalyani Bengaluru Blasters vs Shivamogga Yodhas, 4th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 16 runs (VJD Method)",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T00:00:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 124,
-          "w": 1,
-          "o": 10,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        },
-        {
-          "r": 119,
-          "w": 7,
-          "o": 10,
-          "inning": "Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fdc08da0-678e-4227-953c-bdcd6a020226",
-      "name": "Coastal Kings Mangaluru vs Hubli Tigers, 3rd Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Match abandoned without a ball bowled (With toss)",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T00:00:00",
-      "teams": [
-        "Coastal Kings Mangaluru",
-        "Hubli Tigers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "26c55b70-5225-4439-a7c7-656a43da3ad5",
-      "name": "Shivamogga Yodhas vs Mysore Warriors, 2nd Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 90 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T00:00:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Mysore Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 190,
-          "w": 8,
-          "o": 20,
-          "inning": "Shivamogga Yodhas Inning 1"
-        },
-        {
-          "r": 100,
-          "w": 10,
-          "o": 14.5,
-          "inning": "Mysore Warriors Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "95d70533-0850-4c60-b6d1-2ab0f50ea4ff",
-      "name": "Kalyani Bengaluru Blasters vs Gulbarga Mystics, 1st Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 6 wkts",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T00:00:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Gulbarga Mystics"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 201,
-          "w": 5,
-          "o": 20,
-          "inning": "Gulbarga Mystics Inning 1"
-        },
-        {
-          "r": 202,
-          "w": 4,
-          "o": 20,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "37f89a2f-f24f-4712-b80d-a86168255dbc",
-      "name": "Belgium vs Romania, Final, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Belgium won by 8 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T00:00:00",
-      "teams": [
-        "Belgium",
-        "Romania"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium",
-          "shortname": "BEL",
-          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
-        },
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 8,
-          "o": 20,
-          "inning": "belgium Inning 1"
-        },
-        {
-          "r": 176,
-          "w": 9,
-          "o": 20,
-          "inning": "Belgium,Romania Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a311d4ec-c326-4a97-95b7-8d0d3030bc37",
-      "name": "Switzerland vs Romania, 2nd semi-final, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Romania won by 51 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T00:00:00",
-      "teams": [
-        "Switzerland",
-        "Romania"
-      ],
-      "teamInfo": [
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 229,
-          "w": 3,
-          "o": 20,
-          "inning": "Romania Inning 1"
-        },
-        {
-          "r": 178,
-          "w": 6,
-          "o": 20,
-          "inning": "Switzerland Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9093e349-5383-4fce-acfd-1b33aaae4c21",
-      "name": "Belgium vs Hungary, 1st semi-final, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Belgium won by 87 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-21",
-      "dateTimeGMT": "2026-06-21T00:00:00",
-      "teams": [
-        "Belgium",
-        "Hungary"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium",
-          "shortname": "BEL",
-          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
-        },
-        {
-          "name": "Hungary",
-          "shortname": "HUN",
-          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
-          "w": 5,
-          "o": 20,
-          "inning": "belgium Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 10,
-          "o": 16.3,
-          "inning": "Belgium,Hungary Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9e8bd0c5-479a-470c-90c6-cda9e10d4104",
-      "name": "Belgium vs Switzerland, 6th Match, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Belgium won by 16 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T00:00:00",
-      "teams": [
-        "Belgium",
-        "Switzerland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium",
-          "shortname": "BEL",
-          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 8,
-          "o": 20,
-          "inning": "Belgium Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 7,
-          "o": 20,
-          "inning": "Switzerland Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0a5c3b1e-7f42-4b95-8446-babe165486e1",
-      "name": "Belgium vs Hungary, 5th Match, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Belgium won by 10 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T00:00:00",
-      "teams": [
-        "Belgium",
-        "Hungary"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium",
-          "shortname": "BEL",
-          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
-        },
-        {
-          "name": "Hungary",
-          "shortname": "HUN",
-          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 232,
-          "w": 4,
-          "o": 20,
-          "inning": "belgium Inning 1"
-        },
-        {
-          "r": 222,
-          "w": 7,
-          "o": 20,
-          "inning": "Belgium,Hungary Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fb3d1ec9-3d8f-4844-95cb-6efda5d7274a",
-      "name": "Romania vs Hungary, 4th Match, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Romania won by 5 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T00:00:00",
-      "teams": [
-        "Romania",
-        "Hungary"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hungary",
-          "shortname": "HUN",
-          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
-        },
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 124,
-          "w": 8,
-          "o": 20,
-          "inning": "Hungary Inning 1"
-        },
-        {
-          "r": 125,
-          "w": 5,
-          "o": 15.4,
-          "inning": "Romania Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4f0b2574-f765-497c-a2a7-a3ca2f04d54a",
-      "name": "Hungary vs Switzerland, 3rd Match, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Switzerland won by 3 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T00:00:00",
-      "teams": [
-        "Hungary",
-        "Switzerland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hungary",
-          "shortname": "HUN",
-          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 141,
-          "w": 10,
-          "o": 18.2,
-          "inning": "Hungary Inning 1"
-        },
-        {
-          "r": 145,
-          "w": 7,
-          "o": 19.1,
-          "inning": "Switzerland Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ef276cd5-d070-4d66-af84-2a457043f190",
-      "name": "Romania vs Switzerland, 2nd Match, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Switzerland won by 4 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T00:00:00",
-      "teams": [
-        "Romania",
-        "Switzerland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        },
-        {
-          "name": "Switzerland",
-          "shortname": "SWZ",
-          "img": "https://g.cricapi.com/iapi/1863-637992896828658029.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 192,
-          "w": 7,
-          "o": 20,
-          "inning": "romania Inning 1"
-        },
-        {
-          "r": 195,
-          "w": 6,
-          "o": 19.2,
-          "inning": "Romania,Switzerland Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "780015f6-6c8e-4711-b307-47cc7997ab2d",
-      "name": "Romania vs Belgium, 1st Match, Continental Cup 2026",
-      "matchType": "t20",
-      "status": "Belgium won by 20 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T00:00:00",
-      "teams": [
-        "Romania",
-        "Belgium"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium",
-          "shortname": "BEL",
-          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
-        },
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
-          "w": 4,
-          "o": 20,
-          "inning": "belgium Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 8,
-          "o": 20,
-          "inning": "Romania,Belgium Inning 1"
-        }
-      ],
-      "series_id": "e78404e5-2ab2-4690-82ce-325b7a1c1b4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b71974ff-cd3e-468f-b273-475cf5ac7804",
       "name": "Medak Falcons vs Palamuru Strikers, 9th Match, TG20 2026",
       "matchType": "t20",
-      "status": "Palamuru Strikers need 108 runs in 84 balls",
+      "status": "Palamuru Strikers won by 5 wkts",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T13:45:00",
@@ -905,9 +953,9 @@
           "inning": "Medak Falcons Inning 1"
         },
         {
-          "r": 57,
-          "w": 2,
-          "o": 6,
+          "r": 165,
+          "w": 5,
+          "o": 17.5,
           "inning": "Palamuru Strikers Inning 1"
         }
       ],
@@ -916,7 +964,50 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "3d23dd1c-4c0a-4997-ba7e-9f374d4dce3e",
+      "name": "Ranga Reddy Risers vs Hyderabad E Champions, 8th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions won by 6 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T08:45:00",
+      "teams": [
+        "Ranga Reddy Risers",
+        "Hyderabad E Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ranga Reddy Risers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 195,
+          "w": 4,
+          "o": 20,
+          "inning": "Ranga Reddy Risers Inning 1"
+        },
+        {
+          "r": 198,
+          "w": 4,
+          "o": 18,
+          "inning": "Hyderabad E Champions Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -963,131 +1054,41 @@
       "matchEnded": true
     },
     {
-      "id": "ce117d86-05b7-4849-aa87-c85a767823b4",
-      "name": "India Women vs Bangladesh Women, 23rd Match, Group A, ICC Womens T20 World Cup 2026",
+      "id": "d554b57f-b8a7-41ce-8dc3-c16999f6a87e",
+      "name": "South Africa Women vs Netherlands Women, 24th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "India Women need 33 runs in 38 balls",
-      "venue": "Emirates Old Trafford, Manchester",
+      "status": "South Africa Women won by 88 runs",
+      "venue": "County Ground, Bristol",
       "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T13:30:00",
+      "dateTimeGMT": "2026-06-25T17:30:00",
       "teams": [
-        "India Women",
-        "Bangladesh Women"
+        "South Africa Women",
+        "Netherlands Women"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
         },
         {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 136,
+          "r": 208,
+          "w": 1,
+          "o": 20,
+          "inning": "South Africa Women Inning 1"
+        },
+        {
+          "r": 120,
           "w": 8,
           "o": 20,
-          "inning": "bangladesh women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 4,
-          "o": 13.4,
-          "inning": "India Women,Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "89d1fad5-9198-4141-bf60-4b4475f9925a",
-      "name": "England Women vs West Indies Women, 22nd Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "England Women won by 38 runs",
-      "venue": "Lord's, London",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T17:30:00",
-      "teams": [
-        "England Women",
-        "West Indies Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Women",
-          "shortname": "ENGW",
-          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
-        },
-        {
-          "name": "West Indies Women",
-          "shortname": "WIW",
-          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 186,
-          "w": 7,
-          "o": 20,
-          "inning": "England Women Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 5,
-          "o": 20,
-          "inning": "West Indies Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "24bc289e-e06c-400e-8b92-e457707c2eca",
-      "name": "Australia Women vs Pakistan Women, 21st Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 113 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T17:30:00",
-      "teams": [
-        "Australia Women",
-        "Pakistan Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 7,
-          "o": 20,
-          "inning": "australia women Inning 1"
-        },
-        {
-          "r": 86,
-          "w": 10,
-          "o": 13.4,
-          "inning": "Australia Women,Pakistan Women Inning 1"
+          "inning": "Netherlands Women Inning 1"
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
