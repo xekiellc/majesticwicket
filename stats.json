@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T06:13:42.889Z",
+  "lastUpdated": "2026-06-25T10:31:34.205Z",
   "recentMatches": [
     {
       "id": "899844f1-9955-414c-964e-f26c85fe39d4",
@@ -316,6 +316,44 @@
       "matchEnded": true
     },
     {
+      "id": "ae9b065a-da93-4415-a6f7-3ea086d0e85e",
+      "name": "Royal Nimar Eagles vs Rewa Jaguars, Semi Final 1, Madhya Pradesh Premier League 2026",
+      "matchType": "t20",
+      "status": "Royal Nimar Eagles opt to bowl",
+      "venue": "Holkar Stadium, Indore",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T09:30:00",
+      "teams": [
+        "Royal Nimar Eagles",
+        "Rewa Jaguars"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rewa Jaguars",
+          "shortname": "RJ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Nimar Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 7,
+          "w": 1,
+          "o": 2,
+          "inning": "Rewa Jaguars Inning 1"
+        }
+      ],
+      "series_id": "f1d8ccd7-42e2-43f0-a2b8-b1e334fba351",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "fd681e32-8e57-4b0b-9e48-8f7f10acb195",
       "name": "Jabalpur Royal Lions vs Bundelkhand Bulls, 44th Match, Madhya Pradesh Premier League 2026",
       "matchType": "t20",
@@ -575,6 +613,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "8b7fce1a-ca31-4057-8154-ee1ee93feef8",
+      "name": "England vs New Zealand, 3rd Test, New Zealand tour of England, 2026",
+      "matchType": "test",
+      "status": "New Zealand opt to bat",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T10:00:00",
+      "teams": [
+        "England",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "series_id": "9d2e220f-91ba-4f22-b9fe-9b4df35e7ab3",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5fea5cc8-81c1-4903-baad-7e76f709a944",
