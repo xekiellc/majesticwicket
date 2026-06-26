@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T10:41:08.887Z",
+  "lastUpdated": "2026-06-26T16:21:31.379Z",
   "recentMatches": [
     {
       "id": "949166e7-5d0f-456b-bed5-5007460e257c",
@@ -92,10 +92,55 @@
       "matchEnded": true
     },
     {
+      "id": "325a2da7-863c-4498-ad06-613828513277",
+      "name": "Norway Women vs Luxembourg Women, 1st Match, Womens T20I Central Europe Cup, 2026",
+      "matchType": "t20",
+      "status": "Norway Women won by 13 runs",
+      "venue": "Scott Page Field, Vinor, Prague",
+      "date": "2026-06-26",
+      "dateTimeGMT": "2026-06-26T09:00:00",
+      "teams": [
+        "Norway Women",
+        "Luxembourg Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Luxembourg Women",
+          "shortname": "LW",
+          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
+        },
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 131,
+          "w": 6,
+          "o": 20,
+          "inning": "Norway Women Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 3,
+          "o": 20,
+          "inning": "Luxembourg Women Inning 1"
+        }
+      ],
+      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 2: 2nd Session - India A opt to bat",
+      "status": "Day 2: Stumps - Sri Lanka A trail by 339 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -117,10 +162,16 @@
       ],
       "score": [
         {
-          "r": 437,
-          "w": 5,
-          "o": 109,
+          "r": 452,
+          "w": 6,
+          "o": 111.4,
           "inning": "india a Inning 1"
+        },
+        {
+          "r": 113,
+          "w": 2,
+          "o": 31,
+          "inning": "Sri Lanka A,India A Inning 1"
         }
       ],
       "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
@@ -433,6 +484,51 @@
         }
       ],
       "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "08aae80d-af1a-4a23-b21d-e71a667efc5d",
+      "name": "Singapore vs Thailand, Final, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Singapore won by 6 wkts",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-26",
+      "dateTimeGMT": "2026-06-26T10:30:00",
+      "teams": [
+        "Singapore",
+        "Thailand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 73,
+          "w": 10,
+          "o": 15.1,
+          "inning": "thailand Inning 1"
+        },
+        {
+          "r": 76,
+          "w": 4,
+          "o": 12,
+          "inning": "Singapore,Thailand Inning 1"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1001,96 +1097,6 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3689ce14-dac4-4c4d-b335-1a4c3fd7399b",
-      "name": "Namibia vs Nigeria, 6th Match, Namibia T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Namibia won by 93 runs",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Namibia",
-        "Nigeria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 220,
-          "w": 5,
-          "o": 20,
-          "inning": "namibia Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 9,
-          "o": 20,
-          "inning": "Namibia,Nigeria Inning 1"
-        }
-      ],
-      "series_id": "46e148d6-7102-4592-a199-2037601419d3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "688ec5cc-47fc-402c-85d4-2f8a348dadd0",
-      "name": "Namibia vs Hong Kong, China, 5th Match, Namibia T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Namibia won by 30 runs",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-06-22",
-      "dateTimeGMT": "2026-06-22T00:00:00",
-      "teams": [
-        "Namibia",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 230,
-          "w": 6,
-          "o": 20,
-          "inning": "namibia Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 6,
-          "o": 20,
-          "inning": "Namibia,Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "46e148d6-7102-4592-a199-2037601419d3",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
