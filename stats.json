@@ -1,11 +1,101 @@
 {
-  "lastUpdated": "2026-06-26T06:16:21.678Z",
+  "lastUpdated": "2026-06-26T10:41:08.887Z",
   "recentMatches": [
+    {
+      "id": "949166e7-5d0f-456b-bed5-5007460e257c",
+      "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial T20, Sri Lanka Women U19 tour of India 2026",
+      "matchType": "t20",
+      "status": "India Women U19 won by 11 runs",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T00:00:00",
+      "teams": [
+        "India Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women U19",
+          "shortname": "IND W-U19",
+          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 134,
+          "w": 6,
+          "o": 20,
+          "inning": "india women u19 Inning 1"
+        },
+        {
+          "r": 123,
+          "w": 8,
+          "o": 20,
+          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
+        }
+      ],
+      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "97708a63-6219-4ee9-87c4-0e181fcb8a5e",
+      "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial T20, Sri Lanka Women U19 tour of India 2026",
+      "matchType": "t20",
+      "status": "India Women U19 won by 93 runs",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T00:00:00",
+      "teams": [
+        "India Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women U19",
+          "shortname": "IND W-U19",
+          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 170,
+          "w": 6,
+          "o": 20,
+          "inning": "india women u19 Inning 1"
+        },
+        {
+          "r": 77,
+          "w": 10,
+          "o": 18.3,
+          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
+        }
+      ],
+      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 2: 1st Session - India A opt to bat",
+      "status": "Day 2: 2nd Session - India A opt to bat",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -27,9 +117,9 @@
       ],
       "score": [
         {
-          "r": 379,
+          "r": 437,
           "w": 5,
-          "o": 98,
+          "o": 109,
           "inning": "india a Inning 1"
         }
       ],
@@ -353,7 +443,7 @@
       "id": "27e53e26-df62-4bcd-86f4-a529e9b06517",
       "name": "Indonesia vs Uzbekistan, 3rd Place Play-off, Asia Pacific Cricket Champions Trophy 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 26, 05:30 GMT",
+      "status": "Indonesia won by 97 runs",
       "venue": "Singapore National Cricket Ground, Singapore",
       "date": "2026-06-26",
       "dateTimeGMT": "2026-06-26T05:30:00",
@@ -372,12 +462,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 227,
+          "w": 6,
+          "o": 20,
+          "inning": "indonesia Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 6,
+          "o": 20,
+          "inning": "Indonesia,Uzbekistan Inning 1"
+        }
+      ],
       "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "45fdf1d3-e2d7-474a-8827-cb598d086d9d",
@@ -987,94 +1091,6 @@
         }
       ],
       "series_id": "46e148d6-7102-4592-a199-2037601419d3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4bf5f31-f658-4885-8ac6-8172d2e0e4c5",
-      "name": "Coastal Kings Mangaluru vs Mysore Warriors, 11th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Coastal Kings Mangaluru won by 6 wkts",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Coastal Kings Mangaluru",
-        "Mysore Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 9,
-          "o": 20,
-          "inning": "mysore warriors Inning 1"
-        },
-        {
-          "r": 195,
-          "w": 4,
-          "o": 17.4,
-          "inning": "Coastal Kings Mangaluru,Mysore Warriors Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "06b000c9-e9fd-46ab-ae99-29fd8149cb44",
-      "name": "Hubli Tigers vs Shivamogga Yodhas, 10th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 42 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Hubli Tigers",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 220,
-          "w": 5,
-          "o": 20,
-          "inning": "shivamogga yodhas Inning 1"
-        },
-        {
-          "r": 178,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Hubli Tigers,Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
