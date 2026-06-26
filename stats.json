@@ -1,6 +1,384 @@
 {
-  "lastUpdated": "2026-06-25T21:47:32.275Z",
+  "lastUpdated": "2026-06-26T06:16:21.678Z",
   "recentMatches": [
+    {
+      "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
+      "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
+      "matchType": "test",
+      "status": "Day 2: 1st Session - India A opt to bat",
+      "venue": "Galle International Stadium, Galle",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T00:00:00",
+      "teams": [
+        "Sri Lanka A",
+        "India A"
+      ],
+      "teamInfo": [
+        {
+          "name": "India A",
+          "shortname": "INA",
+          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka A",
+          "shortname": "SLA",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 379,
+          "w": 5,
+          "o": 98,
+          "inning": "india a Inning 1"
+        }
+      ],
+      "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8dcb9dec-9249-4f3a-8bbb-f77de6fbbde6",
+      "name": "Bahamas vs Brazil, 8th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Bahamas won by 6 wkts",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T00:00:00",
+      "teams": [
+        "Bahamas",
+        "Brazil"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahamas",
+          "shortname": "BHM",
+          "img": "https://g.cricapi.com/iapi/582-637872826836006664.webp?w=48"
+        },
+        {
+          "name": "Brazil",
+          "shortname": "BRA",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 111,
+          "w": 10,
+          "o": 20,
+          "inning": "Brazil Inning 1"
+        },
+        {
+          "r": 113,
+          "w": 4,
+          "o": 18.1,
+          "inning": "Bahamas Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4a128102-af33-40e5-9db0-2ac31cb97032",
+      "name": "Bermuda vs Panama, 7th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Bermuda won by 10 wkts",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-25",
+      "dateTimeGMT": "2026-06-25T00:00:00",
+      "teams": [
+        "Bermuda",
+        "Panama"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bermuda",
+          "shortname": "BMUDA",
+          "img": "https://g.cricapi.com/iapi/587-637865062552981767.webp?w=48"
+        },
+        {
+          "name": "Panama",
+          "shortname": "PNM",
+          "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 69,
+          "w": 10,
+          "o": 18.5,
+          "inning": "panama Inning 1"
+        },
+        {
+          "r": 73,
+          "w": 0,
+          "o": 4.3,
+          "inning": "Bermuda,Panama Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5f3da6be-6aa7-48d8-b006-a2c2f6abd546",
+      "name": "Belize vs Brazil, 6th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Belize won by 8 wkts",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T00:00:00",
+      "teams": [
+        "Belize",
+        "Brazil"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belize",
+          "shortname": "BLZ",
+          "img": "https://g.cricapi.com/iapi/586-637871097716183997.webp?w=48"
+        },
+        {
+          "name": "Brazil",
+          "shortname": "BRA",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 133,
+          "w": 9,
+          "o": 20,
+          "inning": "brazil Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 2,
+          "o": 17.5,
+          "inning": "Belize,Brazil Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ead9aa0a-d2bb-4e58-ae6a-39dd48cdbda3",
+      "name": "Bahamas vs Panama, 5th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Panama won by 4 wkts",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T00:00:00",
+      "teams": [
+        "Bahamas",
+        "Panama"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahamas",
+          "shortname": "BHM",
+          "img": "https://g.cricapi.com/iapi/582-637872826836006664.webp?w=48"
+        },
+        {
+          "name": "Panama",
+          "shortname": "PNM",
+          "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 5,
+          "o": 20,
+          "inning": "Bahamas Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 6,
+          "o": 16.5,
+          "inning": "Panama Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a578e5a4-ed75-4394-afa9-1d9d95e436b5",
+      "name": "Brazil vs Panama, 4th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Panama won by 69 runs",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T00:00:00",
+      "teams": [
+        "Brazil",
+        "Panama"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brazil",
+          "shortname": "BRA",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        },
+        {
+          "name": "Panama",
+          "shortname": "PNM",
+          "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 4,
+          "o": 20,
+          "inning": "Panama Inning 1"
+        },
+        {
+          "r": 86,
+          "w": 8,
+          "o": 20,
+          "inning": "Brazil Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e7ce5a69-5601-4ab1-9078-669a4537b09e",
+      "name": "Bermuda vs Belize, 3rd Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Bermuda won by 10 wkts  -  12 overs game (DLS Method, Target 48)",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-22",
+      "dateTimeGMT": "2026-06-22T00:00:00",
+      "teams": [
+        "Bermuda",
+        "Belize"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belize",
+          "shortname": "BLZ",
+          "img": "https://g.cricapi.com/iapi/586-637871097716183997.webp?w=48"
+        },
+        {
+          "name": "Bermuda",
+          "shortname": "BMUDA",
+          "img": "https://g.cricapi.com/iapi/587-637865062552981767.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 45,
+          "w": 7,
+          "o": 12,
+          "inning": "Belize Inning 1"
+        },
+        {
+          "r": 48,
+          "w": 0,
+          "o": 5.2,
+          "inning": "Bermuda Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3f52b298-1b48-40c8-8621-d00b5c767cb0",
+      "name": "Bermuda vs Bahamas, 2nd Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "No result due to rain",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T00:00:00",
+      "teams": [
+        "Bermuda",
+        "Bahamas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahamas",
+          "shortname": "BHM",
+          "img": "https://g.cricapi.com/iapi/582-637872826836006664.webp?w=48"
+        },
+        {
+          "name": "Bermuda",
+          "shortname": "BMUDA",
+          "img": "https://g.cricapi.com/iapi/587-637865062552981767.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 15,
+          "w": 1,
+          "o": 2.3,
+          "inning": "bahamas Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "27e53e26-df62-4bcd-86f4-a529e9b06517",
+      "name": "Indonesia vs Uzbekistan, 3rd Place Play-off, Asia Pacific Cricket Champions Trophy 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 26, 05:30 GMT",
+      "venue": "Singapore National Cricket Ground, Singapore",
+      "date": "2026-06-26",
+      "dateTimeGMT": "2026-06-26T05:30:00",
+      "teams": [
+        "Indonesia",
+        "Uzbekistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Indonesia",
+          "shortname": "IDN",
+          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
+        },
+        {
+          "name": "Uzbekistan",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "45fdf1d3-e2d7-474a-8827-cb598d086d9d",
       "name": "Singapore vs Indonesia, 6th Match, Asia Pacific Cricket Champions Trophy 2026",
@@ -697,401 +1075,6 @@
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c5afc219-3505-4900-a9f6-ab12a8b90264",
-      "name": "Coastal Kings Mangaluru vs Kalyani Bengaluru Blasters, 9th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 20 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Coastal Kings Mangaluru",
-        "Kalyani Bengaluru Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 226,
-          "w": 6,
-          "o": 20,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        },
-        {
-          "r": 206,
-          "w": 5,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "da62637e-4c2e-43f8-9c6e-5868b73c7d02",
-      "name": "Mysore Warriors vs Kalyani Bengaluru Blasters, 8th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Mysore Warriors won by 72 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Mysore Warriors",
-        "Kalyani Bengaluru Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 6,
-          "o": 20,
-          "inning": "Mysore Warriors Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 10,
-          "o": 16,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c9de8527-3174-4514-87f2-fe786a8595c3",
-      "name": "Gulbarga Mystics vs Shivamogga Yodhas, 7th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Gulbarga Mystics won by 95 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Gulbarga Mystics",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 232,
-          "w": 8,
-          "o": 20,
-          "inning": "Gulbarga Mystics Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e32cc829-2ed5-4522-9042-64f28cc95ff3",
-      "name": "Gulbarga Mystics vs Coastal Kings Mangaluru, 6th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Coastal Kings Mangaluru won by 8 wkts",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-22",
-      "dateTimeGMT": "2026-06-22T00:00:00",
-      "teams": [
-        "Gulbarga Mystics",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 10,
-          "o": 19.5,
-          "inning": "Gulbarga Mystics Inning 1"
-        },
-        {
-          "r": 181,
-          "w": 2,
-          "o": 16.3,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c3d4529a-faa6-44b8-ada8-51df3aebb4e3",
-      "name": "Mysore Warriors vs Hubli Tigers, 5th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Hubli Tigers won by 7 wkts",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-22",
-      "dateTimeGMT": "2026-06-22T00:00:00",
-      "teams": [
-        "Mysore Warriors",
-        "Hubli Tigers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        },
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Mysore Warriors Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 3,
-          "o": 17.3,
-          "inning": "Hubli Tigers Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b71974ff-cd3e-468f-b273-475cf5ac7804",
-      "name": "Medak Falcons vs Palamuru Strikers, 9th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Palamuru Strikers won by 5 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T13:45:00",
-      "teams": [
-        "Medak Falcons",
-        "Palamuru Strikers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Medak Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Palamuru Strikers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 164,
-          "w": 9,
-          "o": 20,
-          "inning": "Medak Falcons Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 5,
-          "o": 17.5,
-          "inning": "Palamuru Strikers Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3d23dd1c-4c0a-4997-ba7e-9f374d4dce3e",
-      "name": "Ranga Reddy Risers vs Hyderabad E Champions, 8th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 6 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T08:45:00",
-      "teams": [
-        "Ranga Reddy Risers",
-        "Hyderabad E Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Ranga Reddy Risers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 195,
-          "w": 4,
-          "o": 20,
-          "inning": "Ranga Reddy Risers Inning 1"
-        },
-        {
-          "r": 198,
-          "w": 4,
-          "o": 18,
-          "inning": "Hyderabad E Champions Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "899844f1-9955-414c-964e-f26c85fe39d4",
-      "name": "Singapore vs Uzbekistan, 2nd Match, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Singapore won by 52 runs (8 overs game due to rain)",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-22",
-      "dateTimeGMT": "2026-06-22T10:30:00",
-      "teams": [
-        "Singapore",
-        "Uzbekistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Singapore",
-          "shortname": "SGP",
-          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
-        },
-        {
-          "name": "Uzbekistan",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 101,
-          "w": 3,
-          "o": 8,
-          "inning": "Singapore Inning 1"
-        },
-        {
-          "r": 49,
-          "w": 5,
-          "o": 8,
-          "inning": "Uzbekistan Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d554b57f-b8a7-41ce-8dc3-c16999f6a87e",
-      "name": "South Africa Women vs Netherlands Women, 24th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 88 runs",
-      "venue": "County Ground, Bristol",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T17:30:00",
-      "teams": [
-        "South Africa Women",
-        "Netherlands Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Netherlands Women",
-          "shortname": "NET-W",
-          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
-        },
-        {
-          "name": "South Africa Women",
-          "shortname": "RSAW",
-          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 208,
-          "w": 1,
-          "o": 20,
-          "inning": "South Africa Women Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 8,
-          "o": 20,
-          "inning": "Netherlands Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
