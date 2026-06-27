@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T21:22:54.639Z",
+  "lastUpdated": "2026-06-27T05:57:36.115Z",
   "recentMatches": [
     {
       "id": "949166e7-5d0f-456b-bed5-5007460e257c",
@@ -140,7 +140,7 @@
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - Sri Lanka A trail by 339 runs",
+      "status": "Day 3: 1st Session - Sri Lanka A trail by 306 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -168,9 +168,9 @@
           "inning": "india a Inning 1"
         },
         {
-          "r": 113,
-          "w": 2,
-          "o": 31,
+          "r": 146,
+          "w": 3,
+          "o": 44,
           "inning": "Sri Lanka A,India A Inning 1"
         }
       ],
