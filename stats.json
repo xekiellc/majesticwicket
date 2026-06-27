@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-06-27T05:57:36.115Z",
+  "lastUpdated": "2026-06-27T09:54:08.111Z",
   "recentMatches": [
+    {
+      "id": "55447fa6-0100-4190-9a39-76bb234adc31",
+      "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial T20, Sri Lanka Women U19 tour of India 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T07:30:00",
+      "teams": [
+        "India Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women U19",
+          "shortname": "IND W-U19",
+          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 7,
+          "o": 20,
+          "inning": "sri lanka women u19 Inning 1"
+        }
+      ],
+      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "949166e7-5d0f-456b-bed5-5007460e257c",
       "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial T20, Sri Lanka Women U19 tour of India 2026",
@@ -140,7 +179,7 @@
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 3: 1st Session - Sri Lanka A trail by 306 runs",
+      "status": "Day 3: 2nd Session - Sri Lanka A trail by 142 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -168,9 +207,9 @@
           "inning": "india a Inning 1"
         },
         {
-          "r": 146,
-          "w": 3,
-          "o": 44,
+          "r": 310,
+          "w": 7,
+          "o": 88.2,
           "inning": "Sri Lanka A,India A Inning 1"
         }
       ],
@@ -629,6 +668,43 @@
       "matchEnded": true
     },
     {
+      "id": "940e740a-6ab9-4485-a41a-798a9eaa7dd4",
+      "name": "Shivamogga Yodhas vs Kalyani Bengaluru Blasters, 13th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas opt to bat",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T09:00:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Kalyani Bengaluru Blasters"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 83,
+          "w": 2,
+          "o": 9.1,
+          "inning": "shivamogga yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "bb14b878-b756-4c00-b552-fc9568da2f21",
       "name": "Hubli Tigers vs Gulbarga Mystics, 12th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
@@ -1012,94 +1088,6 @@
           "w": 5,
           "o": 20,
           "inning": "Coastal Kings Mangaluru Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "da62637e-4c2e-43f8-9c6e-5868b73c7d02",
-      "name": "Mysore Warriors vs Kalyani Bengaluru Blasters, 8th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Mysore Warriors won by 72 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Mysore Warriors",
-        "Kalyani Bengaluru Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 6,
-          "o": 20,
-          "inning": "Mysore Warriors Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 10,
-          "o": 16,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c9de8527-3174-4514-87f2-fe786a8595c3",
-      "name": "Gulbarga Mystics vs Shivamogga Yodhas, 7th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Gulbarga Mystics won by 95 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Gulbarga Mystics",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 232,
-          "w": 8,
-          "o": 20,
-          "inning": "Gulbarga Mystics Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Shivamogga Yodhas Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
