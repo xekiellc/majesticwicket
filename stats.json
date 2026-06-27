@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-27T09:54:08.111Z",
+  "lastUpdated": "2026-06-27T15:20:00.661Z",
   "recentMatches": [
     {
       "id": "55447fa6-0100-4190-9a39-76bb234adc31",
       "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial T20, Sri Lanka Women U19 tour of India 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "India Women U19 won by 7 wkts",
       "venue": "MA Chidambaram Stadium, Chennai",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T07:30:00",
@@ -31,6 +31,12 @@
           "w": 7,
           "o": 20,
           "inning": "sri lanka women u19 Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 3,
+          "o": 18.4,
+          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
         }
       ],
       "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
@@ -38,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "949166e7-5d0f-456b-bed5-5007460e257c",
@@ -79,6 +85,90 @@
         }
       ],
       "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5c4c1d80-483c-4550-976a-66d07ee4e05a",
+      "name": "Norway Women vs Luxembourg Women, 4th Match, Womens T20I Central Europe Cup, 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Scott Page Field, Vinor, Prague",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T13:00:00",
+      "teams": [
+        "Norway Women",
+        "Luxembourg Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Luxembourg Women",
+          "shortname": "LW",
+          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
+        },
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 4,
+          "o": 20,
+          "inning": "norway women Inning 1"
+        }
+      ],
+      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "13d87632-e2a2-449e-aa12-96a5af0a7c44",
+      "name": "Czech Republic Women vs Norway Women, 3rd Match, Womens T20I Central Europe Cup, 2026",
+      "matchType": "t20",
+      "status": "Czech Republic Women won by 33 runs",
+      "venue": "Scott Page Field, Vinor, Prague",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T09:00:00",
+      "teams": [
+        "Czech Republic Women",
+        "Norway Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Czech Republic Women",
+          "shortname": "CZW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 150,
+          "w": 4,
+          "o": 20,
+          "inning": "Czech Republic Women Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Norway Women Inning 1"
+        }
+      ],
+      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -179,7 +269,7 @@
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Sri Lanka A trail by 142 runs",
+      "status": "Day 3: Stumps - India A lead by 170 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -207,10 +297,16 @@
           "inning": "india a Inning 1"
         },
         {
-          "r": 310,
-          "w": 7,
-          "o": 88.2,
+          "r": 330,
+          "w": 10,
+          "o": 101.4,
           "inning": "Sri Lanka A,India A Inning 1"
+        },
+        {
+          "r": 48,
+          "w": 0,
+          "o": 17,
+          "inning": "india a Inning 2"
         }
       ],
       "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
@@ -219,6 +315,82 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "659e50ef-c324-49c7-8725-5c19e2343545",
+      "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Denmark Women opt to bat",
+      "venue": "Albertslund Cricket Club, Copenhagen",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T13:30:00",
+      "teams": [
+        "Denmark Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d528b1bf-3c18-48d0-b423-7d740c1a8bde",
+      "name": "Denmark Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Denmark Women won by 44 runs",
+      "venue": "Albertslund Cricket Club, Copenhagen",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T09:00:00",
+      "teams": [
+        "Denmark Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 6,
+          "o": 20,
+          "inning": "Denmark Women Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 10,
+          "o": 14.3,
+          "inning": "Switzerland Women Inning 1"
+        }
+      ],
+      "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "8dcb9dec-9249-4f3a-8bbb-f77de6fbbde6",
@@ -668,10 +840,49 @@
       "matchEnded": true
     },
     {
+      "id": "ac4dee81-88ad-4c47-99c1-6e1a15e30ff5",
+      "name": "Mysore Warriors vs Gulbarga Mystics, 14th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Gulbarga Mystics opt to bowl",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T13:30:00",
+      "teams": [
+        "Mysore Warriors",
+        "Gulbarga Mystics"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gulbarga Mystics",
+          "shortname": "GUM",
+          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+        },
+        {
+          "name": "Mysore Warriors",
+          "shortname": "MSW",
+          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 5,
+          "o": 16.3,
+          "inning": "Mysore Warriors Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "940e740a-6ab9-4485-a41a-798a9eaa7dd4",
       "name": "Shivamogga Yodhas vs Kalyani Bengaluru Blasters, 13th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Shivamogga Yodhas opt to bat",
+      "status": "Kalyani Bengaluru Blasters won by 7 wkts",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T09:00:00",
@@ -691,10 +902,16 @@
       ],
       "score": [
         {
-          "r": 83,
-          "w": 2,
-          "o": 9.1,
+          "r": 173,
+          "w": 6,
+          "o": 20,
           "inning": "shivamogga yodhas Inning 1"
+        },
+        {
+          "r": 177,
+          "w": 3,
+          "o": 19,
+          "inning": "Shivamogga Yodhas,Kalyani Bengaluru Blasters Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -702,7 +919,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "bb14b878-b756-4c00-b552-fc9568da2f21",
@@ -872,225 +1089,6 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2b76437d-fb3c-4368-8585-bb480a547033",
-      "name": "Palamuru Strikers vs Hyderabad E Champions, 4th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 7 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Palamuru Strikers",
-        "Hyderabad E Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Palamuru Strikers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 141,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Palamuru Strikers Inning 1"
-        },
-        {
-          "r": 147,
-          "w": 3,
-          "o": 15.4,
-          "inning": "Hyderabad E Champions Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3689ce14-dac4-4c4d-b335-1a4c3fd7399b",
-      "name": "Namibia vs Nigeria, 6th Match, Namibia T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Namibia won by 93 runs",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Namibia",
-        "Nigeria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 220,
-          "w": 5,
-          "o": 20,
-          "inning": "namibia Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 9,
-          "o": 20,
-          "inning": "Namibia,Nigeria Inning 1"
-        }
-      ],
-      "series_id": "46e148d6-7102-4592-a199-2037601419d3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4bf5f31-f658-4885-8ac6-8172d2e0e4c5",
-      "name": "Coastal Kings Mangaluru vs Mysore Warriors, 11th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Coastal Kings Mangaluru won by 6 wkts",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Coastal Kings Mangaluru",
-        "Mysore Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 9,
-          "o": 20,
-          "inning": "mysore warriors Inning 1"
-        },
-        {
-          "r": 195,
-          "w": 4,
-          "o": 17.4,
-          "inning": "Coastal Kings Mangaluru,Mysore Warriors Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "06b000c9-e9fd-46ab-ae99-29fd8149cb44",
-      "name": "Hubli Tigers vs Shivamogga Yodhas, 10th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 42 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Hubli Tigers",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 220,
-          "w": 5,
-          "o": 20,
-          "inning": "shivamogga yodhas Inning 1"
-        },
-        {
-          "r": 178,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Hubli Tigers,Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c5afc219-3505-4900-a9f6-ab12a8b90264",
-      "name": "Coastal Kings Mangaluru vs Kalyani Bengaluru Blasters, 9th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 20 runs",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Coastal Kings Mangaluru",
-        "Kalyani Bengaluru Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 226,
-          "w": 6,
-          "o": 20,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        },
-        {
-          "r": 206,
-          "w": 5,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
