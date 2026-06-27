@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-06-27T15:20:00.661Z",
+  "lastUpdated": "2026-06-27T21:08:59.412Z",
   "recentMatches": [
+    {
+      "id": "a594a8a2-7b03-4545-8a29-4d9695d77731",
+      "name": "Bulgaria Women vs Serbia Women, 3rd T20I, Serbia Women tour of Bulgaria, 2026",
+      "matchType": "t20",
+      "status": "Serbia Women won by 84 runs",
+      "venue": "National Sports Academy, Sofia",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T11:30:00",
+      "teams": [
+        "Bulgaria Women",
+        "Serbia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Serbia Women",
+          "shortname": "SW",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 199,
+          "w": 3,
+          "o": 20,
+          "inning": "Serbia Women Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 8,
+          "o": 20,
+          "inning": "Bulgaria Women Inning 1"
+        }
+      ],
+      "series_id": "2def9566-fcdf-4e93-ab78-7b7edf0cea3d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "953110a9-cd79-4206-8b64-2b7c5e650540",
+      "name": "Bulgaria Women vs Serbia Women, 2nd T20I, Serbia Women tour of Bulgaria, 2026",
+      "matchType": "t20",
+      "status": "Bulgaria Women won by 7 runs",
+      "venue": "National Sports Academy, Sofia",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T06:00:00",
+      "teams": [
+        "Bulgaria Women",
+        "Serbia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Serbia Women",
+          "shortname": "SW",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 4,
+          "o": 20,
+          "inning": "Bulgaria Women Inning 1"
+        },
+        {
+          "r": 131,
+          "w": 7,
+          "o": 20,
+          "inning": "Serbia Women Inning 1"
+        }
+      ],
+      "series_id": "2def9566-fcdf-4e93-ab78-7b7edf0cea3d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "55447fa6-0100-4190-9a39-76bb234adc31",
       "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial T20, Sri Lanka Women U19 tour of India 2026",
@@ -95,7 +185,7 @@
       "id": "5c4c1d80-483c-4550-976a-66d07ee4e05a",
       "name": "Norway Women vs Luxembourg Women, 4th Match, Womens T20I Central Europe Cup, 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Norway Women won by 45 runs",
       "venue": "Scott Page Field, Vinor, Prague",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T13:00:00",
@@ -121,6 +211,12 @@
           "w": 4,
           "o": 20,
           "inning": "norway women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 5,
+          "o": 20,
+          "inning": "Norway Women,Luxembourg Women Inning 1"
         }
       ],
       "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
@@ -128,7 +224,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "13d87632-e2a2-449e-aa12-96a5af0a7c44",
@@ -320,7 +416,7 @@
       "id": "659e50ef-c324-49c7-8725-5c19e2343545",
       "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
-      "status": "Denmark Women opt to bat",
+      "status": "Switzerland Women won by 6 wkts",
       "venue": "Albertslund Cricket Club, Copenhagen",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T13:30:00",
@@ -340,12 +436,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 122,
+          "w": 9,
+          "o": 20,
+          "inning": "denmark women Inning 1"
+        },
+        {
+          "r": 123,
+          "w": 4,
+          "o": 17.2,
+          "inning": "Denmark Women,Switzerland Women Inning 1"
+        }
+      ],
       "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d528b1bf-3c18-48d0-b423-7d740c1a8bde",
@@ -386,6 +496,51 @@
         }
       ],
       "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0b1ca08b-aa0a-4bcd-9805-2e98ce163436",
+      "name": "Bahamas vs Belize, 9th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Bahamas won by 22 runs",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T13:30:00",
+      "teams": [
+        "Bahamas",
+        "Belize"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahamas",
+          "shortname": "BHM",
+          "img": "https://g.cricapi.com/iapi/582-637872826836006664.webp?w=48"
+        },
+        {
+          "name": "Belize",
+          "shortname": "BLZ",
+          "img": "https://g.cricapi.com/iapi/586-637871097716183997.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 6,
+          "o": 20,
+          "inning": "Bahamas Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 9,
+          "o": 20,
+          "inning": "Belize Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -751,99 +906,10 @@
       "matchEnded": true
     },
     {
-      "id": "abf4092d-47d9-40f8-ba69-753f7472edc9",
-      "name": "Singapore vs Thailand, 4th Match, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Singapore won by 88 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Singapore",
-        "Thailand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Singapore",
-          "shortname": "SGP",
-          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
-        },
-        {
-          "name": "Thailand",
-          "shortname": "THAI",
-          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 187,
-          "w": 7,
-          "o": 20,
-          "inning": "singapore Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 9,
-          "o": 20,
-          "inning": "Singapore,Thailand Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b0fed952-942a-40a0-862b-caf0da65f27d",
-      "name": "Indonesia vs Uzbekistan, 3rd Match, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Indonesia won by 119 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Indonesia",
-        "Uzbekistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        },
-        {
-          "name": "Uzbekistan",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 247,
-          "w": 2,
-          "o": 20,
-          "inning": "Indonesia Inning 1"
-        },
-        {
-          "r": 128,
-          "w": 5,
-          "o": 20,
-          "inning": "Uzbekistan Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "ac4dee81-88ad-4c47-99c1-6e1a15e30ff5",
       "name": "Mysore Warriors vs Gulbarga Mystics, 14th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Gulbarga Mystics opt to bowl",
+      "status": "Gulbarga Mystics won by 3 wkts",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T13:30:00",
@@ -865,10 +931,16 @@
       ],
       "score": [
         {
-          "r": 121,
-          "w": 5,
-          "o": 16.3,
+          "r": 155,
+          "w": 7,
+          "o": 20,
           "inning": "Mysore Warriors Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 7,
+          "o": 18.5,
+          "inning": "Gulbarga Mystics Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -876,7 +948,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "940e740a-6ab9-4485-a41a-798a9eaa7dd4",
@@ -1043,49 +1115,6 @@
           "w": 5,
           "o": 18.5,
           "inning": "Warangal Warriors Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c01aa9b4-8d22-443a-85bb-d55ea997f7f4",
-      "name": "Medak Falcons vs Ranga Reddy Risers, 5th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Ranga Reddy Risers won by 5 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-23",
-      "dateTimeGMT": "2026-06-23T00:00:00",
-      "teams": [
-        "Medak Falcons",
-        "Ranga Reddy Risers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Medak Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Ranga Reddy Risers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 164,
-          "w": 8,
-          "o": 20,
-          "inning": "Medak Falcons Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 5,
-          "o": 18.2,
-          "inning": "Ranga Reddy Risers Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
