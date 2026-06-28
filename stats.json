@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T06:24:41.268Z",
+  "lastUpdated": "2026-06-28T10:18:19.719Z",
   "recentMatches": [
     {
       "id": "a594a8a2-7b03-4545-8a29-4d9695d77731",
@@ -365,7 +365,7 @@
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 4: 1st Session - India A lead by 271 runs",
+      "status": "Day 4: Match delayed due to rain - Sri Lanka A need 275 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -399,10 +399,16 @@
           "inning": "Sri Lanka A,India A Inning 1"
         },
         {
-          "r": 149,
-          "w": 4,
-          "o": 45,
+          "r": 189,
+          "w": 8,
+          "o": 57,
           "inning": "india a Inning 2"
+        },
+        {
+          "r": 37,
+          "w": 2,
+          "o": 6.3,
+          "inning": "Sri Lanka A,India A Inning 2"
         }
       ],
       "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
@@ -906,6 +912,43 @@
       "matchEnded": true
     },
     {
+      "id": "0d2c9091-041b-479e-8b3e-ba288f46a3e5",
+      "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, 15th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-28",
+      "dateTimeGMT": "2026-06-28T13:30:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 113,
+          "w": 8,
+          "o": 17,
+          "inning": "Shivamogga Yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "ac4dee81-88ad-4c47-99c1-6e1a15e30ff5",
       "name": "Mysore Warriors vs Gulbarga Mystics, 14th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
@@ -1072,49 +1115,6 @@
           "w": 4,
           "o": 14,
           "inning": "Anurag Nalgonda Knights Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "09c2a93a-6aa5-4945-866b-bf02b515683e",
-      "name": "Anvita Khammam Aces vs Warangal Warriors, 6th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Warangal Warriors won by 5 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Anvita Khammam Aces",
-        "Warangal Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anvita Khammam Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warangal Warriors",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 202,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Anvita Khammam Aces Inning 1"
-        },
-        {
-          "r": 208,
-          "w": 5,
-          "o": 18.5,
-          "inning": "Warangal Warriors Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
