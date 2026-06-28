@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-06-28T10:18:19.719Z",
+  "lastUpdated": "2026-06-28T15:21:10.381Z",
   "recentMatches": [
+    {
+      "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
+      "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
+      "matchType": "t20",
+      "status": "Bulgaria Women opt to bat",
+      "venue": "National Sports Academy, Sofia",
+      "date": "2026-06-28",
+      "dateTimeGMT": "2026-06-28T06:00:00",
+      "teams": [
+        "Bulgaria Women",
+        "Serbia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Serbia Women",
+          "shortname": "SW",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 9,
+          "o": 20,
+          "inning": "bulgaria women Inning 1"
+        }
+      ],
+      "series_id": "2def9566-fcdf-4e93-ab78-7b7edf0cea3d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "a594a8a2-7b03-4545-8a29-4d9695d77731",
       "name": "Bulgaria Women vs Serbia Women, 3rd T20I, Serbia Women tour of Bulgaria, 2026",
@@ -175,6 +214,51 @@
         }
       ],
       "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9a01ece5-99d3-4a34-a9b7-f9108045cf29",
+      "name": "Luxembourg Women vs Czech Republic Women, 5th Match, Womens T20I Central Europe Cup, 2026",
+      "matchType": "t20",
+      "status": "Czech Republic Women won by 8 wkts",
+      "venue": "Scott Page Field, Vinor, Prague",
+      "date": "2026-06-28",
+      "dateTimeGMT": "2026-06-28T08:30:00",
+      "teams": [
+        "Luxembourg Women",
+        "Czech Republic Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Czech Republic Women",
+          "shortname": "CZW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Luxembourg Women",
+          "shortname": "LW",
+          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 90,
+          "w": 7,
+          "o": 20,
+          "inning": "Luxembourg Women Inning 1"
+        },
+        {
+          "r": 91,
+          "w": 2,
+          "o": 10.5,
+          "inning": "Czech Republic Women Inning 1"
+        }
+      ],
+      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -365,7 +449,7 @@
       "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
       "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 4: Match delayed due to rain - Sri Lanka A need 275 runs",
+      "status": "Match drawn",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-06-25",
       "dateTimeGMT": "2026-06-25T00:00:00",
@@ -405,9 +489,9 @@
           "inning": "india a Inning 2"
         },
         {
-          "r": 37,
+          "r": 70,
           "w": 2,
-          "o": 6.3,
+          "o": 15,
           "inning": "Sri Lanka A,India A Inning 2"
         }
       ],
@@ -416,7 +500,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "659e50ef-c324-49c7-8725-5c19e2343545",
@@ -502,6 +586,51 @@
         }
       ],
       "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8549d702-ed7a-4695-b1d5-a69c697c85f3",
+      "name": "Bermuda vs Brazil, 10th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
+      "matchType": "t20",
+      "status": "Bermuda won by 146 runs",
+      "venue": "White Hill Field, Sandys Parish, Hamilton",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T18:00:00",
+      "teams": [
+        "Bermuda",
+        "Brazil"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bermuda",
+          "shortname": "BMUDA",
+          "img": "https://g.cricapi.com/iapi/587-637865062552981767.webp?w=48"
+        },
+        {
+          "name": "Brazil",
+          "shortname": "BRA",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 220,
+          "w": 4,
+          "o": 20,
+          "inning": "bermuda Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 10,
+          "o": 16,
+          "inning": "Bermuda,Brazil Inning 1"
+        }
+      ],
+      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -915,7 +1044,7 @@
       "id": "0d2c9091-041b-479e-8b3e-ba288f46a3e5",
       "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, 15th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Coastal Kings Mangaluru won by 8 wkts (17 overs game due to rain VJD Target 113)",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-06-28",
       "dateTimeGMT": "2026-06-28T13:30:00",
@@ -939,14 +1068,20 @@
           "w": 8,
           "o": 17,
           "inning": "Shivamogga Yodhas Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 2,
+          "o": 12.4,
+          "inning": "Coastal Kings Mangaluru Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "ac4dee81-88ad-4c47-99c1-6e1a15e30ff5",
@@ -987,137 +1122,6 @@
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "940e740a-6ab9-4485-a41a-798a9eaa7dd4",
-      "name": "Shivamogga Yodhas vs Kalyani Bengaluru Blasters, 13th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 7 wkts",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T09:00:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Kalyani Bengaluru Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 173,
-          "w": 6,
-          "o": 20,
-          "inning": "shivamogga yodhas Inning 1"
-        },
-        {
-          "r": 177,
-          "w": 3,
-          "o": 19,
-          "inning": "Shivamogga Yodhas,Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bb14b878-b756-4c00-b552-fc9568da2f21",
-      "name": "Hubli Tigers vs Gulbarga Mystics, 12th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Gulbarga Mystics won by 7 wkts",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Hubli Tigers",
-        "Gulbarga Mystics"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 119,
-          "w": 9,
-          "o": 20,
-          "inning": "hubli tigers Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 3,
-          "o": 13.2,
-          "inning": "Hubli Tigers,Gulbarga Mystics Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "afa03585-d4ea-40ba-b6ac-9c5041068930",
-      "name": "Karimnagar Diamonds vs Anurag Nalgonda Knights, 7th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Anurag Nalgonda Knights won by 6 wkts (DLS method)",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Karimnagar Diamonds",
-        "Anurag Nalgonda Knights"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anurag Nalgonda Knights",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Karimnagar Diamonds",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 130,
-          "w": 10,
-          "o": 20,
-          "inning": "Karimnagar Diamonds Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 4,
-          "o": 14,
-          "inning": "Anurag Nalgonda Knights Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
