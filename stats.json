@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-28T15:21:10.381Z",
+  "lastUpdated": "2026-06-28T21:06:35.659Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
       "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
       "matchType": "t20",
-      "status": "Bulgaria Women opt to bat",
+      "status": "Serbia Women won by 5 wkts",
       "venue": "National Sports Academy, Sofia",
       "date": "2026-06-28",
       "dateTimeGMT": "2026-06-28T06:00:00",
@@ -31,6 +31,12 @@
           "w": 9,
           "o": 20,
           "inning": "bulgaria women Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 5,
+          "o": 16.2,
+          "inning": "Bulgaria Women,Serbia Women Inning 1"
         }
       ],
       "series_id": "2def9566-fcdf-4e93-ab78-7b7edf0cea3d",
@@ -38,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a594a8a2-7b03-4545-8a29-4d9695d77731",
@@ -176,44 +182,44 @@
       "matchEnded": true
     },
     {
-      "id": "949166e7-5d0f-456b-bed5-5007460e257c",
-      "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial T20, Sri Lanka Women U19 tour of India 2026",
+      "id": "93cb3259-60c9-4016-84e1-d02fa94c639f",
+      "name": "Czech Republic Women vs Norway Women, 6th Match, Womens T20I Central Europe Cup, 2026",
       "matchType": "t20",
-      "status": "India Women U19 won by 11 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
+      "status": "Czech Republic Women won by 7 wkts",
+      "venue": "Scott Page Field, Vinor, Prague",
+      "date": "2026-06-28",
+      "dateTimeGMT": "2026-06-28T12:30:00",
       "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
+        "Czech Republic Women",
+        "Norway Women"
       ],
       "teamInfo": [
         {
-          "name": "India Women U19",
-          "shortname": "IND W-U19",
-          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
+          "name": "Czech Republic Women",
+          "shortname": "CZW",
+          "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Sri Lanka Women U19",
-          "shortname": "SLW-U19",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          "name": "Norway Women",
+          "shortname": "NOR-W",
+          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 134,
-          "w": 6,
-          "o": 20,
-          "inning": "india women u19 Inning 1"
+          "r": 126,
+          "w": 10,
+          "o": 19.3,
+          "inning": "norway women Inning 1"
         },
         {
-          "r": 123,
-          "w": 8,
-          "o": 20,
-          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
+          "r": 127,
+          "w": 3,
+          "o": 19,
+          "inning": "Czech Republic Women,Norway Women Inning 1"
         }
       ],
-      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -503,6 +509,96 @@
       "matchEnded": true
     },
     {
+      "id": "32d6fb8c-da6f-4c34-bff3-d682ecef9d1d",
+      "name": "Denmark Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Denmark Women won by 9 runs",
+      "venue": "Albertslund Cricket Club, Copenhagen",
+      "date": "2026-06-28",
+      "dateTimeGMT": "2026-06-28T13:00:00",
+      "teams": [
+        "Denmark Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 110,
+          "w": 10,
+          "o": 18.5,
+          "inning": "denmark women Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 9,
+          "o": 20,
+          "inning": "Denmark Women,Switzerland Women Inning 1"
+        }
+      ],
+      "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3c2b5eac-9fd5-442d-a58f-29bb2162f2fd",
+      "name": "Denmark Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Denmark Women won by 14 runs",
+      "venue": "Albertslund Cricket Club, Copenhagen",
+      "date": "2026-06-28",
+      "dateTimeGMT": "2026-06-28T08:30:00",
+      "teams": [
+        "Denmark Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark Women",
+          "shortname": "DW",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 112,
+          "w": 9,
+          "o": 20,
+          "inning": "denmark women Inning 1"
+        },
+        {
+          "r": 98,
+          "w": 6,
+          "o": 20,
+          "inning": "Denmark Women,Switzerland Women Inning 1"
+        }
+      ],
+      "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "659e50ef-c324-49c7-8725-5c19e2343545",
       "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
@@ -763,96 +859,6 @@
           "w": 0,
           "o": 4.3,
           "inning": "Bermuda,Panama Inning 1"
-        }
-      ],
-      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5f3da6be-6aa7-48d8-b006-a2c2f6abd546",
-      "name": "Belize vs Brazil, 6th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
-      "matchType": "t20",
-      "status": "Belize won by 8 wkts",
-      "venue": "White Hill Field, Sandys Parish, Hamilton",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Belize",
-        "Brazil"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belize",
-          "shortname": "BLZ",
-          "img": "https://g.cricapi.com/iapi/586-637871097716183997.webp?w=48"
-        },
-        {
-          "name": "Brazil",
-          "shortname": "BRA",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 133,
-          "w": 9,
-          "o": 20,
-          "inning": "brazil Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 2,
-          "o": 17.5,
-          "inning": "Belize,Brazil Inning 1"
-        }
-      ],
-      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ead9aa0a-d2bb-4e58-ae6a-39dd48cdbda3",
-      "name": "Bahamas vs Panama, 5th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
-      "matchType": "t20",
-      "status": "Panama won by 4 wkts",
-      "venue": "White Hill Field, Sandys Parish, Hamilton",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "Bahamas",
-        "Panama"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahamas",
-          "shortname": "BHM",
-          "img": "https://g.cricapi.com/iapi/582-637872826836006664.webp?w=48"
-        },
-        {
-          "name": "Panama",
-          "shortname": "PNM",
-          "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 114,
-          "w": 5,
-          "o": 20,
-          "inning": "Bahamas Inning 1"
-        },
-        {
-          "r": 115,
-          "w": 6,
-          "o": 16.5,
-          "inning": "Panama Inning 1"
         }
       ],
       "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
