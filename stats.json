@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T21:06:35.659Z",
+  "lastUpdated": "2026-06-29T06:55:16.135Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -547,7 +547,7 @@
         }
       ],
       "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -592,7 +592,7 @@
         }
       ],
       "series_id": "d11e075a-3ec6-4cdd-952e-44356a8b0ca7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
