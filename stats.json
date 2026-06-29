@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T12:20:46.534Z",
+  "lastUpdated": "2026-06-29T16:55:00.986Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -1050,7 +1050,7 @@
       "id": "16a0f2a8-250c-4dc7-b755-9ec34e0c4ee5",
       "name": "Gulbarga Mystics vs Hubli Tigers, 16th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Hubli Tigers need 68 runs in 48 balls - Match reduced 15 overs due to rain",
+      "status": "Hubli Tigers won by 10 wkts ( 15 overs game due to rain VJD Target 139)",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-06-29",
       "dateTimeGMT": "2026-06-29T09:00:00",
@@ -1078,9 +1078,9 @@
           "inning": "Gulbarga Mystics Inning 1"
         },
         {
-          "r": 72,
+          "r": 143,
           "w": 0,
-          "o": 7,
+          "o": 12.1,
           "inning": "Hubli Tigers Inning 1"
         }
       ],
@@ -1089,7 +1089,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0d2c9091-041b-479e-8b3e-ba288f46a3e5",
