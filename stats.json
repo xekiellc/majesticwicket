@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T16:55:00.986Z",
+  "lastUpdated": "2026-06-29T21:38:14.376Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -452,63 +452,6 @@
       "matchEnded": true
     },
     {
-      "id": "87a108de-a4c0-4207-b2cd-cf9a6ef3eedc",
-      "name": "Sri Lanka A vs India A, 1st Unofficial Test, India A tour of Sri Lanka 2026",
-      "matchType": "test",
-      "status": "Match drawn",
-      "venue": "Galle International Stadium, Galle",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Sri Lanka A",
-        "India A"
-      ],
-      "teamInfo": [
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka A",
-          "shortname": "SLA",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 452,
-          "w": 6,
-          "o": 111.4,
-          "inning": "india a Inning 1"
-        },
-        {
-          "r": 330,
-          "w": 10,
-          "o": 101.4,
-          "inning": "Sri Lanka A,India A Inning 1"
-        },
-        {
-          "r": 189,
-          "w": 8,
-          "o": 57,
-          "inning": "india a Inning 2"
-        },
-        {
-          "r": 70,
-          "w": 2,
-          "o": 15,
-          "inning": "Sri Lanka A,India A Inning 2"
-        }
-      ],
-      "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "32d6fb8c-da6f-4c34-bff3-d682ecef9d1d",
       "name": "Denmark Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
@@ -779,96 +722,6 @@
       "matchEnded": true
     },
     {
-      "id": "8dcb9dec-9249-4f3a-8bbb-f77de6fbbde6",
-      "name": "Bahamas vs Brazil, 8th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
-      "matchType": "t20",
-      "status": "Bahamas won by 6 wkts",
-      "venue": "White Hill Field, Sandys Parish, Hamilton",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Bahamas",
-        "Brazil"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahamas",
-          "shortname": "BHM",
-          "img": "https://g.cricapi.com/iapi/582-637872826836006664.webp?w=48"
-        },
-        {
-          "name": "Brazil",
-          "shortname": "BRA",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 111,
-          "w": 10,
-          "o": 20,
-          "inning": "Brazil Inning 1"
-        },
-        {
-          "r": 113,
-          "w": 4,
-          "o": 18.1,
-          "inning": "Bahamas Inning 1"
-        }
-      ],
-      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4a128102-af33-40e5-9db0-2ac31cb97032",
-      "name": "Bermuda vs Panama, 7th Match, ICC Mens T20 World Cup Americas Sub Regional Qualifier 2026",
-      "matchType": "t20",
-      "status": "Bermuda won by 10 wkts",
-      "venue": "White Hill Field, Sandys Parish, Hamilton",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Bermuda",
-        "Panama"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bermuda",
-          "shortname": "BMUDA",
-          "img": "https://g.cricapi.com/iapi/587-637865062552981767.webp?w=48"
-        },
-        {
-          "name": "Panama",
-          "shortname": "PNM",
-          "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 69,
-          "w": 10,
-          "o": 18.5,
-          "inning": "panama Inning 1"
-        },
-        {
-          "r": 73,
-          "w": 0,
-          "o": 4.3,
-          "inning": "Bermuda,Panama Inning 1"
-        }
-      ],
-      "series_id": "5f08e3c0-5016-482b-9a5f-7f6adf7ee59d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "08aae80d-af1a-4a23-b21d-e71a667efc5d",
       "name": "Singapore vs Thailand, Final, Asia Pacific Cricket Champions Trophy 2026",
       "matchType": "t20",
@@ -958,99 +811,10 @@
       "matchEnded": true
     },
     {
-      "id": "45fdf1d3-e2d7-474a-8827-cb598d086d9d",
-      "name": "Singapore vs Indonesia, 6th Match, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Singapore won by 123 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Singapore",
-        "Indonesia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        },
-        {
-          "name": "Singapore",
-          "shortname": "SGP",
-          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 258,
-          "w": 3,
-          "o": 20,
-          "inning": "Singapore Inning 1"
-        },
-        {
-          "r": 135,
-          "w": 6,
-          "o": 20,
-          "inning": "Indonesia Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0c388a86-2b5f-463f-9833-fc28a8a48faa",
-      "name": "Thailand vs Uzbekistan, 5th Match, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Thailand won by 8 wkts",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-25",
-      "dateTimeGMT": "2026-06-25T00:00:00",
-      "teams": [
-        "Thailand",
-        "Uzbekistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Thailand",
-          "shortname": "THAI",
-          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
-        },
-        {
-          "name": "Uzbekistan",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 37,
-          "w": 10,
-          "o": 12.3,
-          "inning": "Uzbekistan Inning 1"
-        },
-        {
-          "r": 38,
-          "w": 2,
-          "o": 3.4,
-          "inning": "Thailand Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "16a0f2a8-250c-4dc7-b755-9ec34e0c4ee5",
       "name": "Gulbarga Mystics vs Hubli Tigers, 16th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Hubli Tigers won by 10 wkts ( 15 overs game due to rain VJD Target 139)",
+      "status": "Hubli Tigers won by 10 wkts (15 overs game due to rain VJD Target 139)",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-06-29",
       "dateTimeGMT": "2026-06-29T09:00:00",
@@ -1128,6 +892,223 @@
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ac4dee81-88ad-4c47-99c1-6e1a15e30ff5",
+      "name": "Mysore Warriors vs Gulbarga Mystics, 14th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Gulbarga Mystics won by 3 wkts",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T13:30:00",
+      "teams": [
+        "Mysore Warriors",
+        "Gulbarga Mystics"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gulbarga Mystics",
+          "shortname": "GUM",
+          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+        },
+        {
+          "name": "Mysore Warriors",
+          "shortname": "MSW",
+          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 7,
+          "o": 20,
+          "inning": "Mysore Warriors Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 7,
+          "o": 18.5,
+          "inning": "Gulbarga Mystics Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "940e740a-6ab9-4485-a41a-798a9eaa7dd4",
+      "name": "Shivamogga Yodhas vs Kalyani Bengaluru Blasters, 13th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Kalyani Bengaluru Blasters won by 7 wkts",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T09:00:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Kalyani Bengaluru Blasters"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 6,
+          "o": 20,
+          "inning": "shivamogga yodhas Inning 1"
+        },
+        {
+          "r": 177,
+          "w": 3,
+          "o": 19,
+          "inning": "Shivamogga Yodhas,Kalyani Bengaluru Blasters Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "19c0effc-e08d-4229-9085-d22d419af39f",
+      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, 17th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Kalyani Bengaluru Blasters won by 8 runs (VJD Method)",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-29",
+      "dateTimeGMT": "2026-06-29T13:30:00",
+      "teams": [
+        "Kalyani Bengaluru Blasters",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 179,
+          "w": 6,
+          "o": 20,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 68,
+          "w": 0,
+          "o": 7,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "aa4148c2-0e58-4030-8ebe-adcbe8fb0139",
+      "name": "Hyderabad E Champions vs Anvita Khammam Aces, 16th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions won by 56 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-29",
+      "dateTimeGMT": "2026-06-29T08:45:00",
+      "teams": [
+        "Hyderabad E Champions",
+        "Anvita Khammam Aces"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 211,
+          "w": 9,
+          "o": 20,
+          "inning": "Hyderabad E Champions Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 9,
+          "o": 20,
+          "inning": "Anvita Khammam Aces Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0edb606b-7a2e-454d-b9f8-776c8305d469",
+      "name": "Anurag Nalgonda Knights vs Palamuru Strikers, 15th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Anurag Nalgonda Knights won by 6 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-29",
+      "dateTimeGMT": "2026-06-29T08:45:00",
+      "teams": [
+        "Anurag Nalgonda Knights",
+        "Palamuru Strikers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anurag Nalgonda Knights",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Palamuru Strikers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 148,
+          "w": 9,
+          "o": 20,
+          "inning": "Palamuru Strikers Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 4,
+          "o": 15.2,
+          "inning": "Anurag Nalgonda Knights Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
