@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T06:17:58.891Z",
+  "lastUpdated": "2026-06-30T10:46:32.932Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -139,7 +139,7 @@
     {
       "id": "64a659a7-944e-4a32-a340-8462655e1ac1",
       "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "India Women U19 opt to bat",
+      "status": "Sri Lanka Women U19 need 175 runs",
       "venue": "Cricket Association Puducherry Ground 2, Puducherry",
       "date": "2026-06-30",
       "dateTimeGMT": "2026-06-30T03:30:00",
@@ -161,10 +161,16 @@
       ],
       "score": [
         {
-          "r": 174,
-          "w": 2,
-          "o": 32,
+          "r": 279,
+          "w": 8,
+          "o": 50,
           "inning": "india women u19 Inning 1"
+        },
+        {
+          "r": 105,
+          "w": 4,
+          "o": 30,
+          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
         }
       ],
       "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
@@ -1025,6 +1031,44 @@
       "matchEnded": true
     },
     {
+      "id": "96f877db-42e1-4823-8032-897d5ed8c657",
+      "name": "Shivamogga Yodhas vs Gulbarga Mystics, 18th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-30",
+      "dateTimeGMT": "2026-06-30T09:00:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Gulbarga Mystics"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gulbarga Mystics",
+          "shortname": "GUM",
+          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 180,
+          "w": 7,
+          "o": 20,
+          "inning": "Shivamogga Yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "19c0effc-e08d-4229-9085-d22d419af39f",
       "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, 17th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
@@ -1061,49 +1105,6 @@
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "aa4148c2-0e58-4030-8ebe-adcbe8fb0139",
-      "name": "Hyderabad E Champions vs Anvita Khammam Aces, 16th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 56 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T08:45:00",
-      "teams": [
-        "Hyderabad E Champions",
-        "Anvita Khammam Aces"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anvita Khammam Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
-          "w": 9,
-          "o": 20,
-          "inning": "Hyderabad E Champions Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 9,
-          "o": 20,
-          "inning": "Anvita Khammam Aces Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
