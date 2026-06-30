@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T16:24:30.599Z",
+  "lastUpdated": "2026-06-30T21:40:32.186Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -406,96 +406,6 @@
       "matchEnded": true
     },
     {
-      "id": "4c06445d-54dd-49e7-86c1-67a2c21c067b",
-      "name": "Luxembourg Women vs Czech Republic Women, 2nd Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 10 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T13:00:00",
-      "teams": [
-        "Luxembourg Women",
-        "Czech Republic Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Czech Republic Women",
-          "shortname": "CZW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Luxembourg Women",
-          "shortname": "LW",
-          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 68,
-          "w": 10,
-          "o": 18.5,
-          "inning": "luxembourg women Inning 1"
-        },
-        {
-          "r": 69,
-          "w": 0,
-          "o": 6.3,
-          "inning": "Luxembourg Women,Czech Republic Women Inning 1"
-        }
-      ],
-      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "325a2da7-863c-4498-ad06-613828513277",
-      "name": "Norway Women vs Luxembourg Women, 1st Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Norway Women won by 13 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T09:00:00",
-      "teams": [
-        "Norway Women",
-        "Luxembourg Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Luxembourg Women",
-          "shortname": "LW",
-          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
-        },
-        {
-          "name": "Norway Women",
-          "shortname": "NOR-W",
-          "img": "https://g.cricapi.com/iapi/3003-638040162404768361.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 131,
-          "w": 6,
-          "o": 20,
-          "inning": "Norway Women Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 3,
-          "o": 20,
-          "inning": "Luxembourg Women Inning 1"
-        }
-      ],
-      "series_id": "c990bb4b-0a29-465e-82d9-5362dcddc901",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "32d6fb8c-da6f-4c34-bff3-d682ecef9d1d",
       "name": "Denmark Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
@@ -766,95 +676,6 @@
       "matchEnded": true
     },
     {
-      "id": "08aae80d-af1a-4a23-b21d-e71a667efc5d",
-      "name": "Singapore vs Thailand, Final, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Singapore won by 6 wkts",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T10:30:00",
-      "teams": [
-        "Singapore",
-        "Thailand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Singapore",
-          "shortname": "SGP",
-          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
-        },
-        {
-          "name": "Thailand",
-          "shortname": "THAI",
-          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 73,
-          "w": 10,
-          "o": 15.1,
-          "inning": "thailand Inning 1"
-        },
-        {
-          "r": 76,
-          "w": 4,
-          "o": 12,
-          "inning": "Singapore,Thailand Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "27e53e26-df62-4bcd-86f4-a529e9b06517",
-      "name": "Indonesia vs Uzbekistan, 3rd Place Play-off, Asia Pacific Cricket Champions Trophy 2026",
-      "matchType": "t20",
-      "status": "Indonesia won by 97 runs",
-      "venue": "Singapore National Cricket Ground, Singapore",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T05:30:00",
-      "teams": [
-        "Indonesia",
-        "Uzbekistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Indonesia",
-          "shortname": "IDN",
-          "img": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=48"
-        },
-        {
-          "name": "Uzbekistan",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 227,
-          "w": 6,
-          "o": 20,
-          "inning": "indonesia Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 6,
-          "o": 20,
-          "inning": "Indonesia,Uzbekistan Inning 1"
-        }
-      ],
-      "series_id": "749a5c42-1145-48fc-b16a-2f79c4af8fc1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "16a0f2a8-250c-4dc7-b755-9ec34e0c4ee5",
       "name": "Gulbarga Mystics vs Hubli Tigers, 16th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
@@ -1077,7 +898,7 @@
       "id": "9898fd20-c56a-4f76-b025-456ffd2ab06d",
       "name": "Mysore Warriors vs Coastal Kings Mangaluru, 19th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Match reduced to 19 overs per side due to rain - Mysore Warriors opt to bowl",
+      "status": "Mysore Warriors won by 2 wkts",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-06-30",
       "dateTimeGMT": "2026-06-30T13:30:00",
@@ -1098,10 +919,16 @@
       ],
       "score": [
         {
-          "r": 137,
-          "w": 6,
-          "o": 16,
+          "r": 161,
+          "w": 9,
+          "o": 19,
           "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 167,
+          "w": 8,
+          "o": 18.5,
+          "inning": "Mysore Warriors Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -1109,7 +936,180 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "96f877db-42e1-4823-8032-897d5ed8c657",
+      "name": "Shivamogga Yodhas vs Gulbarga Mystics, 18th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas won by 1 run (VJD Method)",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-30",
+      "dateTimeGMT": "2026-06-30T09:00:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Gulbarga Mystics"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gulbarga Mystics",
+          "shortname": "GUM",
+          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 180,
+          "w": 7,
+          "o": 20,
+          "inning": "Shivamogga Yodhas Inning 1"
+        },
+        {
+          "r": 126,
+          "w": 7,
+          "o": 12,
+          "inning": "Gulbarga Mystics Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "19c0effc-e08d-4229-9085-d22d419af39f",
+      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, 17th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Kalyani Bengaluru Blasters won by 8 runs (VJD Method)",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-06-29",
+      "dateTimeGMT": "2026-06-29T13:30:00",
+      "teams": [
+        "Kalyani Bengaluru Blasters",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 179,
+          "w": 6,
+          "o": 20,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 68,
+          "w": 0,
+          "o": 7,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "aa4148c2-0e58-4030-8ebe-adcbe8fb0139",
+      "name": "Hyderabad E Champions vs Anvita Khammam Aces, 16th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions won by 56 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-29",
+      "dateTimeGMT": "2026-06-29T08:45:00",
+      "teams": [
+        "Hyderabad E Champions",
+        "Anvita Khammam Aces"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 211,
+          "w": 9,
+          "o": 20,
+          "inning": "Hyderabad E Champions Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 9,
+          "o": 20,
+          "inning": "Anvita Khammam Aces Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0edb606b-7a2e-454d-b9f8-776c8305d469",
+      "name": "Anurag Nalgonda Knights vs Palamuru Strikers, 15th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Anurag Nalgonda Knights won by 6 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-06-29",
+      "dateTimeGMT": "2026-06-29T08:45:00",
+      "teams": [
+        "Anurag Nalgonda Knights",
+        "Palamuru Strikers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anurag Nalgonda Knights",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Palamuru Strikers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 148,
+          "w": 9,
+          "o": 20,
+          "inning": "Palamuru Strikers Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 4,
+          "o": 15.2,
+          "inning": "Anurag Nalgonda Knights Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
