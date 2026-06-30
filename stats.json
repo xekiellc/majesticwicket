@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T10:46:32.932Z",
+  "lastUpdated": "2026-06-30T16:24:30.599Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -139,7 +139,7 @@
     {
       "id": "64a659a7-944e-4a32-a340-8462655e1ac1",
       "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "Sri Lanka Women U19 need 175 runs",
+      "status": "India Women U19 won by 120 runs",
       "venue": "Cricket Association Puducherry Ground 2, Puducherry",
       "date": "2026-06-30",
       "dateTimeGMT": "2026-06-30T03:30:00",
@@ -167,9 +167,9 @@
           "inning": "india women u19 Inning 1"
         },
         {
-          "r": 105,
-          "w": 4,
-          "o": 30,
+          "r": 159,
+          "w": 10,
+          "o": 48.5,
           "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
         }
       ],
@@ -178,7 +178,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "55447fa6-0100-4190-9a39-76bb234adc31",
@@ -1031,53 +1031,58 @@
       "matchEnded": true
     },
     {
-      "id": "96f877db-42e1-4823-8032-897d5ed8c657",
-      "name": "Shivamogga Yodhas vs Gulbarga Mystics, 18th Match, Maharaja Trophy KSCA T20 2026",
+      "id": "73750f00-8d3c-4ecb-badd-673086e0c751",
+      "name": "Karimnagar Diamonds vs Medak Falcons, 17th Match, TG20 2026",
       "matchType": "t20",
-      "status": "Innings Break",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "status": "Karimnagar Diamonds won by 133 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T09:00:00",
+      "dateTimeGMT": "2026-06-30T08:45:00",
       "teams": [
-        "Shivamogga Yodhas",
-        "Gulbarga Mystics"
+        "Karimnagar Diamonds",
+        "Medak Falcons"
       ],
       "teamInfo": [
         {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+          "name": "Karimnagar Diamonds",
+          "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Shivamogga Yodhas",
+          "name": "Medak Falcons",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 180,
-          "w": 7,
+          "r": 232,
+          "w": 4,
           "o": 20,
-          "inning": "Shivamogga Yodhas Inning 1"
+          "inning": "Karimnagar Diamonds Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Medak Falcons Inning 1"
         }
       ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
-      "id": "19c0effc-e08d-4229-9085-d22d419af39f",
-      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, 17th Match, Maharaja Trophy KSCA T20 2026",
+      "id": "9898fd20-c56a-4f76-b025-456ffd2ab06d",
+      "name": "Mysore Warriors vs Coastal Kings Mangaluru, 19th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 8 runs (VJD Method)",
+      "status": "Match reduced to 19 overs per side due to rain - Mysore Warriors opt to bowl",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T13:30:00",
+      "date": "2026-06-30",
+      "dateTimeGMT": "2026-06-30T13:30:00",
       "teams": [
-        "Kalyani Bengaluru Blasters",
+        "Mysore Warriors",
         "Coastal Kings Mangaluru"
       ],
       "teamInfo": [
@@ -1086,22 +1091,17 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Mysore Warriors",
+          "shortname": "MSW",
+          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 179,
+          "r": 137,
           "w": 6,
-          "o": 20,
+          "o": 16,
           "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 0,
-          "o": 7,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -1109,7 +1109,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
