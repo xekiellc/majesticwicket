@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T21:38:14.376Z",
+  "lastUpdated": "2026-06-30T06:17:58.891Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -135,6 +135,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "64a659a7-944e-4a32-a340-8462655e1ac1",
+      "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial ODI, Sri Lanka Women U19 tour of India 2026",
+      "status": "India Women U19 opt to bat",
+      "venue": "Cricket Association Puducherry Ground 2, Puducherry",
+      "date": "2026-06-30",
+      "dateTimeGMT": "2026-06-30T03:30:00",
+      "teams": [
+        "India Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women U19",
+          "shortname": "IND W-U19",
+          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 174,
+          "w": 2,
+          "o": 32,
+          "inning": "india women u19 Inning 1"
+        }
+      ],
+      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "55447fa6-0100-4190-9a39-76bb234adc31",
@@ -1063,49 +1101,6 @@
           "w": 9,
           "o": 20,
           "inning": "Anvita Khammam Aces Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0edb606b-7a2e-454d-b9f8-776c8305d469",
-      "name": "Anurag Nalgonda Knights vs Palamuru Strikers, 15th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Anurag Nalgonda Knights won by 6 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T08:45:00",
-      "teams": [
-        "Anurag Nalgonda Knights",
-        "Palamuru Strikers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anurag Nalgonda Knights",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Palamuru Strikers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 9,
-          "o": 20,
-          "inning": "Palamuru Strikers Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 4,
-          "o": 15.2,
-          "inning": "Anurag Nalgonda Knights Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
