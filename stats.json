@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T06:38:26.310Z",
+  "lastUpdated": "2026-07-01T10:59:38.510Z",
   "recentMatches": [
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
@@ -852,6 +852,49 @@
       "matchEnded": true
     },
     {
+      "id": "a7c7e8b5-48fb-4380-bef0-7465480920fb",
+      "name": "Hyderabad E Champions vs Warangal Warriors, 18th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions need 167 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-01",
+      "dateTimeGMT": "2026-07-01T08:45:00",
+      "teams": [
+        "Hyderabad E Champions",
+        "Warangal Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Warangal Warriors",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 9,
+          "o": 20,
+          "inning": "warangal warriors Inning 1"
+        },
+        {
+          "r": 7,
+          "w": 0,
+          "o": 1,
+          "inning": "Hyderabad E Champions,Warangal Warriors Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "73750f00-8d3c-4ecb-badd-673086e0c751",
       "name": "Karimnagar Diamonds vs Medak Falcons, 17th Match, TG20 2026",
       "matchType": "t20",
@@ -893,6 +936,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "efe72f10-d207-40bd-85a4-7d3026660aed",
+      "name": "Kalyani Bengaluru Blasters vs Hubli Tigers, 20th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Hubli Tigers opt to bowl",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-07-01",
+      "dateTimeGMT": "2026-07-01T13:30:00",
+      "teams": [
+        "Kalyani Bengaluru Blasters",
+        "Hubli Tigers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hubli Tigers",
+          "shortname": "HT",
+          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
+        },
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 178,
+          "w": 6,
+          "o": 18.3,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
     },
     {
       "id": "9898fd20-c56a-4f76-b025-456ffd2ab06d",
@@ -1019,92 +1100,6 @@
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "aa4148c2-0e58-4030-8ebe-adcbe8fb0139",
-      "name": "Hyderabad E Champions vs Anvita Khammam Aces, 16th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 56 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T08:45:00",
-      "teams": [
-        "Hyderabad E Champions",
-        "Anvita Khammam Aces"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anvita Khammam Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
-          "w": 9,
-          "o": 20,
-          "inning": "Hyderabad E Champions Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 9,
-          "o": 20,
-          "inning": "Anvita Khammam Aces Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0edb606b-7a2e-454d-b9f8-776c8305d469",
-      "name": "Anurag Nalgonda Knights vs Palamuru Strikers, 15th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Anurag Nalgonda Knights won by 6 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T08:45:00",
-      "teams": [
-        "Anurag Nalgonda Knights",
-        "Palamuru Strikers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anurag Nalgonda Knights",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Palamuru Strikers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 9,
-          "o": 20,
-          "inning": "Palamuru Strikers Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 4,
-          "o": 15.2,
-          "inning": "Anurag Nalgonda Knights Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
