@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-07-01T10:59:38.510Z",
+  "lastUpdated": "2026-07-01T16:29:30.866Z",
   "recentMatches": [
+    {
+      "id": "b5378bc4-5ce7-473f-a215-375aa68f639a",
+      "name": "Sweden vs Portugal, 2nd T20I, Portugal tour of Sweden, 2026",
+      "matchType": "t20",
+      "status": "Portugal won by 7 wkts",
+      "venue": "Botkyrka Cricket Center, Stockholm",
+      "date": "2026-07-01",
+      "dateTimeGMT": "2026-07-01T12:00:00",
+      "teams": [
+        "Sweden",
+        "Portugal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Portugal",
+          "shortname": "PORT",
+          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
+        },
+        {
+          "name": "Sweden",
+          "shortname": "SWE",
+          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 9,
+          "o": 20,
+          "inning": "sweden Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 3,
+          "o": 17.4,
+          "inning": "Sweden,Portugal Inning 1"
+        }
+      ],
+      "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8854884a-29f2-40bb-9498-fc97d93cb45b",
+      "name": "Sweden vs Portugal, 1st T20I, Portugal tour of Sweden, 2026",
+      "matchType": "t20",
+      "status": "Portugal won by 12 runs",
+      "venue": "Botkyrka Cricket Center, Stockholm",
+      "date": "2026-07-01",
+      "dateTimeGMT": "2026-07-01T07:30:00",
+      "teams": [
+        "Sweden",
+        "Portugal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Portugal",
+          "shortname": "PORT",
+          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
+        },
+        {
+          "name": "Sweden",
+          "shortname": "SWE",
+          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 169,
+          "w": 8,
+          "o": 20,
+          "inning": "Portugal Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 8,
+          "o": 20,
+          "inning": "Sweden Inning 1"
+        }
+      ],
+      "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
       "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
@@ -852,10 +942,53 @@
       "matchEnded": true
     },
     {
+      "id": "b6df252d-f0c2-444a-9602-4aeb53422230",
+      "name": "Anurag Nalgonda Knights vs Anvita Khammam Aces, 19th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Anurag Nalgonda Knights need 125 runs in 66 balls",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-01",
+      "dateTimeGMT": "2026-07-01T13:45:00",
+      "teams": [
+        "Anurag Nalgonda Knights",
+        "Anvita Khammam Aces"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anurag Nalgonda Knights",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 211,
+          "w": 2,
+          "o": 20,
+          "inning": "anvita khammam aces Inning 1"
+        },
+        {
+          "r": 87,
+          "w": 1,
+          "o": 9,
+          "inning": "Anurag Nalgonda Knights,Anvita Khammam Aces Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "a7c7e8b5-48fb-4380-bef0-7465480920fb",
       "name": "Hyderabad E Champions vs Warangal Warriors, 18th Match, TG20 2026",
       "matchType": "t20",
-      "status": "Hyderabad E Champions need 167 runs",
+      "status": "Hyderabad E Champions won by 6 wkts",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-01",
       "dateTimeGMT": "2026-07-01T08:45:00",
@@ -881,9 +1014,9 @@
           "inning": "warangal warriors Inning 1"
         },
         {
-          "r": 7,
-          "w": 0,
-          "o": 1,
+          "r": 178,
+          "w": 4,
+          "o": 15.3,
           "inning": "Hyderabad E Champions,Warangal Warriors Inning 1"
         }
       ],
@@ -892,7 +1025,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "73750f00-8d3c-4ecb-badd-673086e0c751",
@@ -941,7 +1074,7 @@
       "id": "efe72f10-d207-40bd-85a4-7d3026660aed",
       "name": "Kalyani Bengaluru Blasters vs Hubli Tigers, 20th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Hubli Tigers opt to bowl",
+      "status": "Kalyani Bengaluru Blasters won by 2 runs",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-07-01",
       "dateTimeGMT": "2026-07-01T13:30:00",
@@ -962,141 +1095,16 @@
       ],
       "score": [
         {
-          "r": 178,
-          "w": 6,
-          "o": 18.3,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
-    },
-    {
-      "id": "9898fd20-c56a-4f76-b025-456ffd2ab06d",
-      "name": "Mysore Warriors vs Coastal Kings Mangaluru, 19th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Mysore Warriors won by 2 wkts",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T13:30:00",
-      "teams": [
-        "Mysore Warriors",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 9,
-          "o": 19,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 8,
-          "o": 18.5,
-          "inning": "Mysore Warriors Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "96f877db-42e1-4823-8032-897d5ed8c657",
-      "name": "Shivamogga Yodhas vs Gulbarga Mystics, 18th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 1 run (VJD Method)",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T09:00:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Gulbarga Mystics"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
+          "r": 203,
           "w": 7,
           "o": 20,
-          "inning": "Shivamogga Yodhas Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 7,
-          "o": 12,
-          "inning": "Gulbarga Mystics Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "19c0effc-e08d-4229-9085-d22d419af39f",
-      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, 17th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 8 runs (VJD Method)",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T13:30:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 179,
-          "w": 6,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 0,
-          "o": 7,
           "inning": "Kalyani Bengaluru Blasters Inning 1"
+        },
+        {
+          "r": 201,
+          "w": 7,
+          "o": 20,
+          "inning": "Hubli Tigers Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
