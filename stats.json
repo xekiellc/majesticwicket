@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T21:40:31.713Z",
+  "lastUpdated": "2026-07-02T06:04:42.030Z",
   "recentMatches": [
     {
       "id": "b5378bc4-5ce7-473f-a215-375aa68f639a",
@@ -269,6 +269,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
+      "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
+      "matchType": "test",
+      "status": "Day 1: 1st Session - India A opt to bowl",
+      "venue": "Galle International Stadium, Galle",
+      "date": "2026-07-02",
+      "dateTimeGMT": "2026-07-02T04:30:00",
+      "teams": [
+        "Sri Lanka A",
+        "India A"
+      ],
+      "teamInfo": [
+        {
+          "name": "India A",
+          "shortname": "INA",
+          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka A",
+          "shortname": "SLA",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 58,
+          "w": 1,
+          "o": 17,
+          "inning": "Sri Lanka A Inning 1"
+        }
+      ],
+      "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "32d6fb8c-da6f-4c34-bff3-d682ecef9d1d",
@@ -1057,51 +1096,6 @@
           "w": 2,
           "o": 13,
           "inning": "Australia Women Inning 1"
-        }
-      ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b2170447-8759-4f97-be6b-410e728696dc",
-      "name": "Australia Women vs India Women, 30th Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 6 wkts",
-      "venue": "Lord's, London",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T13:30:00",
-      "teams": [
-        "Australia Women",
-        "India Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 170,
-          "w": 4,
-          "o": 20,
-          "inning": "india women Inning 1"
-        },
-        {
-          "r": 172,
-          "w": 4,
-          "o": 19,
-          "inning": "Australia Women,India Women Inning 1"
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
