@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-02T10:25:44.680Z",
+  "lastUpdated": "2026-07-02T16:07:28.738Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
       "name": "Sweden vs Portugal, 3rd T20I, Portugal tour of Sweden, 2026",
       "matchType": "t20",
-      "status": "Portugal opt to bowl",
+      "status": "Match tied ( Portugal won the super over)",
       "venue": "Botkyrka Cricket Center, Stockholm",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T08:00:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 156,
+          "w": 10,
+          "o": 20,
+          "inning": "Sweden Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 7,
+          "o": 20,
+          "inning": "Portugal Inning 1"
+        }
+      ],
       "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b5378bc4-5ce7-473f-a215-375aa68f639a",
@@ -305,7 +319,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - India A opt to bowl",
+      "status": "Day 1: Stumps - India A opt to bowl",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -327,9 +341,9 @@
       ],
       "score": [
         {
-          "r": 220,
-          "w": 4,
-          "o": 63.2,
+          "r": 288,
+          "w": 5,
+          "o": 85,
           "inning": "Sri Lanka A Inning 1"
         }
       ],
@@ -522,7 +536,7 @@
       "id": "dd6fdd66-5251-4049-b085-3b1a2b6043a8",
       "name": "Karimnagar Diamonds vs Ranga Reddy Risers, 20th Match, TG20 2026",
       "matchType": "t20",
-      "status": "Ranga Reddy Risers opt to bowl",
+      "status": "Karimnagar Diamonds won by 58 runs",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T08:45:00",
@@ -542,10 +556,16 @@
       ],
       "score": [
         {
-          "r": 216,
-          "w": 4,
-          "o": 18.5,
+          "r": 230,
+          "w": 5,
+          "o": 20,
           "inning": "Karimnagar Diamonds Inning 1"
+        },
+        {
+          "r": 172,
+          "w": 9,
+          "o": 20,
+          "inning": "Ranga Reddy Risers Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -553,7 +573,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b6df252d-f0c2-444a-9602-4aeb53422230",
@@ -685,10 +705,53 @@
       "matchEnded": true
     },
     {
+      "id": "79dda43f-c648-4e4e-80ba-a7ac57008937",
+      "name": "Coastal Kings Mangaluru vs Shivamogga Yodhas, 22nd Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas need 128 runs in 90 balls",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-07-02",
+      "dateTimeGMT": "2026-07-02T13:30:00",
+      "teams": [
+        "Coastal Kings Mangaluru",
+        "Shivamogga Yodhas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 162,
+          "w": 7,
+          "o": 20,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 35,
+          "w": 1,
+          "o": 5,
+          "inning": "Shivamogga Yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "d88b1884-f4d8-4f73-8387-8a1436b68dcf",
       "name": "Hubli Tigers vs Mysore Warriors, 21st Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Rain stops play - Mysore Warriors opt to bowl",
+      "status": "No result due to rain",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T09:00:00",
@@ -710,9 +773,9 @@
       ],
       "score": [
         {
-          "r": 27,
-          "w": 2,
-          "o": 5,
+          "r": 91,
+          "w": 6,
+          "o": 8,
           "inning": "Hubli Tigers Inning 1"
         }
       ],
@@ -721,7 +784,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "efe72f10-d207-40bd-85a4-7d3026660aed",
@@ -1021,51 +1084,6 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1cf057bb-684e-4d93-87ae-d00f6e245ae6",
-      "name": "Hungary vs Austria, 3rd T20I, Austria tour of Hungary, 2026",
-      "matchType": "t20",
-      "status": "Austria won by 157 runs",
-      "venue": "GB Oval, Szodliget",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T11:30:00",
-      "teams": [
-        "Hungary",
-        "Austria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria",
-          "shortname": "AUT",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Hungary",
-          "shortname": "HUN",
-          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 322,
-          "w": 7,
-          "o": 20,
-          "inning": "austria Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 10,
-          "o": 20,
-          "inning": "Hungary,Austria Inning 1"
-        }
-      ],
-      "series_id": "677c1cbb-40ed-40f1-8ed7-373300044438",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
