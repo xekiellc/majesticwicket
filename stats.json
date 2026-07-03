@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T21:12:14.167Z",
+  "lastUpdated": "2026-07-03T05:58:41.563Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -137,6 +137,44 @@
       "matchEnded": true
     },
     {
+      "id": "3da9c5e6-3c4e-4e1d-a47f-33e2458b9f0b",
+      "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
+      "status": "India Women U19 opt to bat",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T03:30:00",
+      "teams": [
+        "India Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women U19",
+          "shortname": "IND W-U19",
+          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 73,
+          "w": 2,
+          "o": 20,
+          "inning": "india women u19 Inning 1"
+        }
+      ],
+      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "64a659a7-944e-4a32-a340-8462655e1ac1",
       "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial ODI, Sri Lanka Women U19 tour of India 2026",
       "status": "India Women U19 won by 120 runs",
@@ -184,7 +222,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - India A opt to bowl",
+      "status": "Day 2: 1st Session - India A opt to bowl",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -206,9 +244,9 @@
       ],
       "score": [
         {
-          "r": 288,
-          "w": 5,
-          "o": 85,
+          "r": 317,
+          "w": 7,
+          "o": 97,
           "inning": "Sri Lanka A Inning 1"
         }
       ],
@@ -783,7 +821,7 @@
       "id": "2c0b414e-9fed-4311-ac53-e688e4e729ce",
       "name": "England Women vs South Africa Women, 2nd Semi-Final, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "South Africa Women need 127 runs in 86 balls",
+      "status": "England Women won by 40 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T17:30:00",
@@ -811,9 +849,9 @@
           "inning": "England Women Inning 1"
         },
         {
-          "r": 43,
-          "w": 1,
-          "o": 5.4,
+          "r": 129,
+          "w": 8,
+          "o": 20,
           "inning": "South Africa Women Inning 1"
         }
       ],
@@ -822,7 +860,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d5bebe6f-27de-40d4-a715-d467b4f7aa81",
@@ -1043,49 +1081,6 @@
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a1b544e2-83d9-48c4-9caf-1a5f2c6c1f51",
-      "name": "England A Women vs India A Women, Unofficial 2nd ODI, India A Women tour of England 2026",
-      "status": "England A Women won by 125 runs",
-      "venue": "The Cooper Associates County Ground, Taunton",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T10:00:00",
-      "teams": [
-        "England A Women",
-        "India A Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "England A Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "India A Women",
-          "shortname": "IND-A",
-          "img": "https://g.cricapi.com/iapi/3151-638049769196782817.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 298,
-          "w": 5,
-          "o": 50,
-          "inning": "england a women Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 10,
-          "o": 42.3,
-          "inning": "England A Women,India A Women Inning 1"
-        }
-      ],
-      "series_id": "fce9cf36-53b7-4e37-b705-96769af6aeac",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
