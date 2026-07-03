@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T10:23:55.340Z",
+  "lastUpdated": "2026-07-03T15:54:24.314Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -139,7 +139,7 @@
     {
       "id": "3da9c5e6-3c4e-4e1d-a47f-33e2458b9f0b",
       "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "Sri Lanka Women U19 need 71 runs",
+      "status": "India Women U19 won by 49 runs",
       "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
       "date": "2026-07-03",
       "dateTimeGMT": "2026-07-03T03:30:00",
@@ -167,9 +167,9 @@
           "inning": "india women u19 Inning 1"
         },
         {
-          "r": 139,
-          "w": 7,
-          "o": 32,
+          "r": 160,
+          "w": 10,
+          "o": 41.2,
           "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
         }
       ],
@@ -178,7 +178,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "64a659a7-944e-4a32-a340-8462655e1ac1",
@@ -228,7 +228,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 2: 3rd Session - India A trail by 215 runs",
+      "status": "Day 2: Stumps - India A trail by 119 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -256,9 +256,9 @@
           "inning": "Sri Lanka A Inning 1"
         },
         {
-          "r": 151,
+          "r": 247,
           "w": 1,
-          "o": 35,
+          "o": 63,
           "inning": "India A Inning 1"
         }
       ],
@@ -315,10 +315,47 @@
       "matchEnded": true
     },
     {
+      "id": "f93a4152-614b-4a69-bf10-8d8786c7eeea",
+      "name": "Palamuru Strikers vs Warangal Warriors, 22nd Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Rain stops play - Palamuru Strikers opt to bowl",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T13:45:00",
+      "teams": [
+        "Palamuru Strikers",
+        "Warangal Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Palamuru Strikers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Warangal Warriors",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 23,
+          "w": 1,
+          "o": 2.3,
+          "inning": "Warangal Warriors Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "b94fb132-c296-4f38-bdaf-c8f46ac1e33d",
       "name": "Anurag Nalgonda Knights vs Medak Falcons, 21st Match, TG20 2026",
       "matchType": "t20",
-      "status": "Medak Falcons opt to bat",
+      "status": "Anurag Nalgonda Knights won by 8 wkts",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-03",
       "dateTimeGMT": "2026-07-03T08:45:00",
@@ -338,10 +375,16 @@
       ],
       "score": [
         {
-          "r": 66,
-          "w": 2,
-          "o": 8,
+          "r": 180,
+          "w": 4,
+          "o": 20,
           "inning": "medak falcons Inning 1"
+        },
+        {
+          "r": 181,
+          "w": 2,
+          "o": 16.3,
+          "inning": "Anurag Nalgonda Knights,Medak Falcons Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -349,7 +392,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "dd6fdd66-5251-4049-b085-3b1a2b6043a8",
@@ -524,10 +567,48 @@
       "matchEnded": true
     },
     {
+      "id": "165ac36a-cff7-4b39-bda2-198a74e00174",
+      "name": "Hubli Tigers vs Kalyani Bengaluru Blasters, 24th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Kalyani Bengaluru Blasters opt to bowl",
+      "venue": "KSCA Hubli Cricket Ground, Hubli",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T13:30:00",
+      "teams": [
+        "Hubli Tigers",
+        "Kalyani Bengaluru Blasters"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hubli Tigers",
+          "shortname": "HT",
+          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
+        },
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 154,
+          "w": 6,
+          "o": 16.5,
+          "inning": "Hubli Tigers Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "97e147ce-0458-4bdf-9a41-cac576a060f0",
       "name": "Gulbarga Mystics vs Mysore Warriors, 23rd Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Mysore Warriors opt to bowl",
+      "status": "Mysore Warriors won by 3 wkts",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-07-03",
       "dateTimeGMT": "2026-07-03T09:00:00",
@@ -549,10 +630,16 @@
       ],
       "score": [
         {
-          "r": 178,
+          "r": 196,
           "w": 7,
-          "o": 19,
+          "o": 20,
           "inning": "Gulbarga Mystics Inning 1"
+        },
+        {
+          "r": 197,
+          "w": 7,
+          "o": 19.3,
+          "inning": "Mysore Warriors Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -560,7 +647,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "79dda43f-c648-4e4e-80ba-a7ac57008937",
@@ -989,96 +1076,6 @@
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a0ce32d6-870e-49c7-a833-dc25f28cbd1e",
-      "name": "Warwickshire vs Sussex, 69th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Warwickshire won by 76 runs",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T18:00:00",
-      "teams": [
-        "Warwickshire",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 198,
-          "w": 3,
-          "o": 20,
-          "inning": "warwickshire Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 10,
-          "o": 16.3,
-          "inning": "Warwickshire,Sussex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6e39d73e-c83a-4577-8f5c-f1a7d222b094",
-      "name": "Essex vs Surrey, 68th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Surrey won by 7 runs",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T18:00:00",
-      "teams": [
-        "Essex",
-        "Surrey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 240,
-          "w": 4,
-          "o": 20,
-          "inning": "Surrey Inning 1"
-        },
-        {
-          "r": 233,
-          "w": 8,
-          "o": 20,
-          "inning": "Essex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
