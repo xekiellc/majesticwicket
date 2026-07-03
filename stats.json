@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T15:54:24.314Z",
+  "lastUpdated": "2026-07-03T21:11:51.833Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -270,55 +270,10 @@
       "matchEnded": false
     },
     {
-      "id": "16a0f2a8-250c-4dc7-b755-9ec34e0c4ee5",
-      "name": "Gulbarga Mystics vs Hubli Tigers, 16th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Hubli Tigers won by 10 wkts (15 overs game due to rain VJD Target 139)",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T09:00:00",
-      "teams": [
-        "Gulbarga Mystics",
-        "Hubli Tigers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 139,
-          "w": 6,
-          "o": 15,
-          "inning": "Gulbarga Mystics Inning 1"
-        },
-        {
-          "r": 143,
-          "w": 0,
-          "o": 12.1,
-          "inning": "Hubli Tigers Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f93a4152-614b-4a69-bf10-8d8786c7eeea",
       "name": "Palamuru Strikers vs Warangal Warriors, 22nd Match, TG20 2026",
       "matchType": "t20",
-      "status": "Rain stops play - Palamuru Strikers opt to bowl",
+      "status": "No result due to rain",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-03",
       "dateTimeGMT": "2026-07-03T13:45:00",
@@ -349,7 +304,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b94fb132-c296-4f38-bdaf-c8f46ac1e33d",
@@ -570,7 +525,7 @@
       "id": "165ac36a-cff7-4b39-bda2-198a74e00174",
       "name": "Hubli Tigers vs Kalyani Bengaluru Blasters, 24th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters opt to bowl",
+      "status": "Kalyani Bengaluru Blasters won by 3 wkts",
       "venue": "KSCA Hubli Cricket Ground, Hubli",
       "date": "2026-07-03",
       "dateTimeGMT": "2026-07-03T13:30:00",
@@ -591,10 +546,16 @@
       ],
       "score": [
         {
-          "r": 154,
+          "r": 197,
           "w": 6,
-          "o": 16.5,
+          "o": 20,
           "inning": "Hubli Tigers Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 7,
+          "o": 20,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -602,7 +563,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "97e147ce-0458-4bdf-9a41-cac576a060f0",
@@ -864,128 +825,44 @@
       "matchEnded": true
     },
     {
-      "id": "19c0effc-e08d-4229-9085-d22d419af39f",
-      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, 17th Match, Maharaja Trophy KSCA T20 2026",
+      "id": "65c1e587-1e25-4696-86fe-db6adf641780",
+      "name": "Finland vs Portugal, 1st T20I, Portugal tour of Finland, 2026",
       "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 8 runs (VJD Method)",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T13:30:00",
+      "status": "Portugal won by 32 runs",
+      "venue": "Kerava National Cricket Ground, Kerava",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T15:00:00",
       "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Coastal Kings Mangaluru"
+        "Finland",
+        "Portugal"
       ],
       "teamInfo": [
         {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Finland",
+          "shortname": "FIN",
+          "img": "https://g.cricapi.com/iapi/604-637871098066577941.webp?w=48"
         },
         {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Portugal",
+          "shortname": "PORT",
+          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 179,
-          "w": 6,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 0,
-          "o": 7,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "aa4148c2-0e58-4030-8ebe-adcbe8fb0139",
-      "name": "Hyderabad E Champions vs Anvita Khammam Aces, 16th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 56 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T08:45:00",
-      "teams": [
-        "Hyderabad E Champions",
-        "Anvita Khammam Aces"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anvita Khammam Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
+          "r": 142,
           "w": 9,
           "o": 20,
-          "inning": "Hyderabad E Champions Inning 1"
+          "inning": "Portugal Inning 1"
         },
         {
-          "r": 155,
-          "w": 9,
-          "o": 20,
-          "inning": "Anvita Khammam Aces Inning 1"
+          "r": 110,
+          "w": 10,
+          "o": 17.2,
+          "inning": "Finland Inning 1"
         }
       ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0edb606b-7a2e-454d-b9f8-776c8305d469",
-      "name": "Anurag Nalgonda Knights vs Palamuru Strikers, 15th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Anurag Nalgonda Knights won by 6 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-29",
-      "dateTimeGMT": "2026-06-29T08:45:00",
-      "teams": [
-        "Anurag Nalgonda Knights",
-        "Palamuru Strikers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anurag Nalgonda Knights",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Palamuru Strikers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 9,
-          "o": 20,
-          "inning": "Palamuru Strikers Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 4,
-          "o": 15.2,
-          "inning": "Anurag Nalgonda Knights Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "series_id": "8b83610c-d493-4b8e-a2a8-cdd7ebc984d5",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1076,6 +953,141 @@
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "16b5ce1c-7c4b-4813-90cb-41caa6c152bf",
+      "name": "Sussex vs Essex, 74th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex won by 100 runs",
+      "venue": "County Ground, Brighton",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T18:00:00",
+      "teams": [
+        "Sussex",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 204,
+          "w": 6,
+          "o": 20,
+          "inning": "essex Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Sussex,Essex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2ed93901-645d-467a-8ffd-a151df147a90",
+      "name": "Nottinghamshire vs Lancashire, 75th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Nottinghamshire won by 1 run",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T17:30:00",
+      "teams": [
+        "Nottinghamshire",
+        "Lancashire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 181,
+          "w": 6,
+          "o": 20,
+          "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 180,
+          "w": 7,
+          "o": 20,
+          "inning": "Lancashire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fee710a3-1520-4fcf-bc28-0fd86657a1ce",
+      "name": "Yorkshire vs Durham, 72nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Yorkshire need 12 runs in 6 balls",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T17:30:00",
+      "teams": [
+        "Yorkshire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 205,
+          "w": 9,
+          "o": 20,
+          "inning": "durham Inning 1"
+        },
+        {
+          "r": 194,
+          "w": 4,
+          "o": 19,
+          "inning": "Yorkshire,Durham Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
