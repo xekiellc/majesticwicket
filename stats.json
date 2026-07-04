@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T21:11:51.833Z",
+  "lastUpdated": "2026-07-04T05:51:00.606Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -228,7 +228,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - India A trail by 119 runs",
+      "status": "Day 3: 1st Session - India A trail by 72 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -256,9 +256,9 @@
           "inning": "Sri Lanka A Inning 1"
         },
         {
-          "r": 247,
-          "w": 1,
-          "o": 63,
+          "r": 294,
+          "w": 2,
+          "o": 78,
           "inning": "India A Inning 1"
         }
       ],
@@ -1053,7 +1053,7 @@
       "id": "fee710a3-1520-4fcf-bc28-0fd86657a1ce",
       "name": "Yorkshire vs Durham, 72nd Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Yorkshire need 12 runs in 6 balls",
+      "status": "Yorkshire won by 5 wkts",
       "venue": "Headingley, Leeds",
       "date": "2026-07-03",
       "dateTimeGMT": "2026-07-03T17:30:00",
@@ -1081,9 +1081,9 @@
           "inning": "durham Inning 1"
         },
         {
-          "r": 194,
-          "w": 4,
-          "o": 19,
+          "r": 208,
+          "w": 5,
+          "o": 19.5,
           "inning": "Yorkshire,Durham Inning 1"
         }
       ],
