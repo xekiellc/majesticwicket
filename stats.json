@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T15:10:53.736Z",
+  "lastUpdated": "2026-07-04T21:01:45.783Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -181,54 +181,10 @@
       "matchEnded": true
     },
     {
-      "id": "64a659a7-944e-4a32-a340-8462655e1ac1",
-      "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "India Women U19 won by 120 runs",
-      "venue": "Cricket Association Puducherry Ground 2, Puducherry",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T03:30:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women U19",
-          "shortname": "IND W-U19",
-          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women U19",
-          "shortname": "SLW-U19",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 279,
-          "w": 8,
-          "o": 50,
-          "inning": "india women u19 Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 10,
-          "o": 48.5,
-          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
-        }
-      ],
-      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 3: 3rd Session - India A lead by 88 runs",
+      "status": "Day 3: Stumps - India A lead by 175 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -256,9 +212,9 @@
           "inning": "Sri Lanka A Inning 1"
         },
         {
-          "r": 454,
-          "w": 5,
-          "o": 116,
+          "r": 541,
+          "w": 8,
+          "o": 142,
           "inning": "India A Inning 1"
         }
       ],
@@ -270,10 +226,53 @@
       "matchEnded": true
     },
     {
+      "id": "51f540d5-6d50-4812-8b43-ed3afa255e01",
+      "name": "Hyderabad E Champions vs Karimnagar Diamonds, 24th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions won by 7 wkts",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-04",
+      "dateTimeGMT": "2026-07-04T13:45:00",
+      "teams": [
+        "Hyderabad E Champions",
+        "Karimnagar Diamonds"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Karimnagar Diamonds",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 186,
+          "w": 6,
+          "o": 20,
+          "inning": "karimnagar diamonds Inning 1"
+        },
+        {
+          "r": 187,
+          "w": 3,
+          "o": 18.1,
+          "inning": "Hyderabad E Champions,Karimnagar Diamonds Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "c9b4c8d4-97bb-4cfa-90bf-cbe869ef7925",
       "name": "Anvita Khammam Aces vs Ranga Reddy Risers, 23rd Match, TG20 2026",
       "matchType": "t20",
-      "status": "Rain stops play - Anvita Khammam Aces need 47 runs in 64 balls",
+      "status": "Anvita Khammam Aces won by 5 wkts",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-04",
       "dateTimeGMT": "2026-07-04T08:45:00",
@@ -299,9 +298,9 @@
           "inning": "ranga reddy risers Inning 1"
         },
         {
-          "r": 101,
-          "w": 3,
-          "o": 9.2,
+          "r": 150,
+          "w": 5,
+          "o": 17.1,
           "inning": "Anvita Khammam Aces,Ranga Reddy Risers Inning 1"
         }
       ],
@@ -310,7 +309,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f93a4152-614b-4a69-bf10-8d8786c7eeea",
@@ -512,49 +511,6 @@
           "w": 4,
           "o": 15.3,
           "inning": "Hyderabad E Champions,Warangal Warriors Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "73750f00-8d3c-4ecb-badd-673086e0c751",
-      "name": "Karimnagar Diamonds vs Medak Falcons, 17th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Karimnagar Diamonds won by 133 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T08:45:00",
-      "teams": [
-        "Karimnagar Diamonds",
-        "Medak Falcons"
-      ],
-      "teamInfo": [
-        {
-          "name": "Karimnagar Diamonds",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Medak Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 232,
-          "w": 4,
-          "o": 20,
-          "inning": "Karimnagar Diamonds Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Medak Falcons Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -780,87 +736,44 @@
       "matchEnded": true
     },
     {
-      "id": "9898fd20-c56a-4f76-b025-456ffd2ab06d",
-      "name": "Mysore Warriors vs Coastal Kings Mangaluru, 19th Match, Maharaja Trophy KSCA T20 2026",
+      "id": "5f2f0a6d-2964-494a-982d-cc75eeb181d0",
+      "name": "Finland vs Portugal, 3rd T20I, Portugal tour of Finland, 2026",
       "matchType": "t20",
-      "status": "Mysore Warriors won by 2 wkts",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T13:30:00",
+      "status": "Portugal won by 8 runs",
+      "venue": "Kerava National Cricket Ground, Kerava",
+      "date": "2026-07-04",
+      "dateTimeGMT": "2026-07-04T13:00:00",
       "teams": [
-        "Mysore Warriors",
-        "Coastal Kings Mangaluru"
+        "Finland",
+        "Portugal"
       ],
       "teamInfo": [
         {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Finland",
+          "shortname": "FIN",
+          "img": "https://g.cricapi.com/iapi/604-637871098066577941.webp?w=48"
         },
         {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
+          "name": "Portugal",
+          "shortname": "PORT",
+          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 161,
-          "w": 9,
-          "o": 19,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 8,
-          "o": 18.5,
-          "inning": "Mysore Warriors Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "96f877db-42e1-4823-8032-897d5ed8c657",
-      "name": "Shivamogga Yodhas vs Gulbarga Mystics, 18th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 1 run (VJD Method)",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T09:00:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Gulbarga Mystics"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
-          "w": 7,
+          "r": 181,
+          "w": 4,
           "o": 20,
-          "inning": "Shivamogga Yodhas Inning 1"
+          "inning": "Portugal Inning 1"
         },
         {
-          "r": 126,
-          "w": 7,
-          "o": 12,
-          "inning": "Gulbarga Mystics Inning 1"
+          "r": 173,
+          "w": 6,
+          "o": 20,
+          "inning": "Finland Inning 1"
         }
       ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "series_id": "8b83610c-d493-4b8e-a2a8-cdd7ebc984d5",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -871,7 +784,7 @@
       "id": "1f8fa4a9-6fee-414d-8ed3-ca852e61d937",
       "name": "Finland vs Portugal, 2nd T20I, Portugal tour of Finland, 2026",
       "matchType": "t20",
-      "status": "Match abandoned with out a ball bowled due to rain",
+      "status": "Match abandoned due to rain (with toss)",
       "venue": "Kerava National Cricket Ground, Kerava",
       "date": "2026-07-04",
       "dateTimeGMT": "2026-07-04T08:00:00",
@@ -989,49 +902,49 @@
       "matchEnded": true
     },
     {
-      "id": "d5bebe6f-27de-40d4-a715-d467b4f7aa81",
-      "name": "Australia Women vs West Indies Women, 1st Semi-Final, ICC Womens T20 World Cup 2026",
+      "id": "0affa1da-4740-4910-b8b7-d61eb7876640",
+      "name": "Gloucestershire vs Surrey, 77th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Australia Women won by 8 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T13:30:00",
+      "status": "Surrey need 82 runs in 24 balls",
+      "venue": "County Ground, Bristol",
+      "date": "2026-07-04",
+      "dateTimeGMT": "2026-07-04T18:00:00",
       "teams": [
-        "Australia Women",
-        "West Indies Women"
+        "Gloucestershire",
+        "Surrey"
       ],
       "teamInfo": [
         {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
         },
         {
-          "name": "West Indies Women",
-          "shortname": "WIW",
-          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 125,
-          "w": 7,
+          "r": 191,
+          "w": 5,
           "o": 20,
-          "inning": "West Indies Women Inning 1"
+          "inning": "Gloucestershire Inning 1"
         },
         {
-          "r": 127,
-          "w": 2,
-          "o": 13,
-          "inning": "Australia Women Inning 1"
+          "r": 110,
+          "w": 7,
+          "o": 16,
+          "inning": "Surrey Inning 1"
         }
       ],
-      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
       "id": "16b5ce1c-7c4b-4813-90cb-41caa6c152bf",
@@ -1069,6 +982,96 @@
           "w": 10,
           "o": 17.3,
           "inning": "Sussex,Essex Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2ed93901-645d-467a-8ffd-a151df147a90",
+      "name": "Nottinghamshire vs Lancashire, 75th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Nottinghamshire won by 1 run",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T17:30:00",
+      "teams": [
+        "Nottinghamshire",
+        "Lancashire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 181,
+          "w": 6,
+          "o": 20,
+          "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 180,
+          "w": 7,
+          "o": 20,
+          "inning": "Lancashire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fee710a3-1520-4fcf-bc28-0fd86657a1ce",
+      "name": "Yorkshire vs Durham, 72nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Yorkshire won by 5 wkts",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-03",
+      "dateTimeGMT": "2026-07-03T17:30:00",
+      "teams": [
+        "Yorkshire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 205,
+          "w": 9,
+          "o": 20,
+          "inning": "durham Inning 1"
+        },
+        {
+          "r": 208,
+          "w": 5,
+          "o": 19.5,
+          "inning": "Yorkshire,Durham Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
