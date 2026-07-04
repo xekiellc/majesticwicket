@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T05:51:00.606Z",
+  "lastUpdated": "2026-07-04T09:57:16.409Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -228,7 +228,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 3: 1st Session - India A trail by 72 runs",
+      "status": "Day 3: Rain stops play - India A lead by 40 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -256,13 +256,50 @@
           "inning": "Sri Lanka A Inning 1"
         },
         {
-          "r": 294,
-          "w": 2,
-          "o": 78,
+          "r": 406,
+          "w": 4,
+          "o": 104,
           "inning": "India A Inning 1"
         }
       ],
       "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c9b4c8d4-97bb-4cfa-90bf-cbe869ef7925",
+      "name": "Anvita Khammam Aces vs Ranga Reddy Risers, 23rd Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Ranga Reddy Risers opt to bat",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-04",
+      "dateTimeGMT": "2026-07-04T08:45:00",
+      "teams": [
+        "Anvita Khammam Aces",
+        "Ranga Reddy Risers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ranga Reddy Risers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 4,
+          "o": 13.2,
+          "inning": "ranga reddy risers Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1040,51 +1077,6 @@
           "w": 7,
           "o": 20,
           "inning": "Lancashire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fee710a3-1520-4fcf-bc28-0fd86657a1ce",
-      "name": "Yorkshire vs Durham, 72nd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Yorkshire won by 5 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-07-03",
-      "dateTimeGMT": "2026-07-03T17:30:00",
-      "teams": [
-        "Yorkshire",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 205,
-          "w": 9,
-          "o": 20,
-          "inning": "durham Inning 1"
-        },
-        {
-          "r": 208,
-          "w": 5,
-          "o": 19.5,
-          "inning": "Yorkshire,Durham Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
