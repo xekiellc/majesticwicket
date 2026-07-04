@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T09:57:16.409Z",
+  "lastUpdated": "2026-07-04T15:10:53.736Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -228,7 +228,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 3: Rain stops play - India A lead by 40 runs",
+      "status": "Day 3: 3rd Session - India A lead by 88 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -256,9 +256,9 @@
           "inning": "Sri Lanka A Inning 1"
         },
         {
-          "r": 406,
-          "w": 4,
-          "o": 104,
+          "r": 454,
+          "w": 5,
+          "o": 116,
           "inning": "India A Inning 1"
         }
       ],
@@ -273,7 +273,7 @@
       "id": "c9b4c8d4-97bb-4cfa-90bf-cbe869ef7925",
       "name": "Anvita Khammam Aces vs Ranga Reddy Risers, 23rd Match, TG20 2026",
       "matchType": "t20",
-      "status": "Ranga Reddy Risers opt to bat",
+      "status": "Rain stops play - Anvita Khammam Aces need 47 runs in 64 balls",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-04",
       "dateTimeGMT": "2026-07-04T08:45:00",
@@ -293,10 +293,16 @@
       ],
       "score": [
         {
-          "r": 103,
-          "w": 4,
-          "o": 13.2,
+          "r": 147,
+          "w": 9,
+          "o": 20,
           "inning": "ranga reddy risers Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 3,
+          "o": 9.2,
+          "inning": "Anvita Khammam Aces,Ranga Reddy Risers Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -862,6 +868,37 @@
       "matchEnded": true
     },
     {
+      "id": "1f8fa4a9-6fee-414d-8ed3-ca852e61d937",
+      "name": "Finland vs Portugal, 2nd T20I, Portugal tour of Finland, 2026",
+      "matchType": "t20",
+      "status": "Match abandoned with out a ball bowled due to rain",
+      "venue": "Kerava National Cricket Ground, Kerava",
+      "date": "2026-07-04",
+      "dateTimeGMT": "2026-07-04T08:00:00",
+      "teams": [
+        "Finland",
+        "Portugal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Finland",
+          "shortname": "FIN",
+          "img": "https://g.cricapi.com/iapi/604-637871098066577941.webp?w=48"
+        },
+        {
+          "name": "Portugal",
+          "shortname": "PORT",
+          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
+        }
+      ],
+      "series_id": "8b83610c-d493-4b8e-a2a8-cdd7ebc984d5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "65c1e587-1e25-4696-86fe-db6adf641780",
       "name": "Finland vs Portugal, 1st T20I, Portugal tour of Finland, 2026",
       "matchType": "t20",
@@ -1032,51 +1069,6 @@
           "w": 10,
           "o": 17.3,
           "inning": "Sussex,Essex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2ed93901-645d-467a-8ffd-a151df147a90",
-      "name": "Nottinghamshire vs Lancashire, 75th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Nottinghamshire won by 1 run",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-07-03",
-      "dateTimeGMT": "2026-07-03T17:30:00",
-      "teams": [
-        "Nottinghamshire",
-        "Lancashire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 181,
-          "w": 6,
-          "o": 20,
-          "inning": "Nottinghamshire Inning 1"
-        },
-        {
-          "r": 180,
-          "w": 7,
-          "o": 20,
-          "inning": "Lancashire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
