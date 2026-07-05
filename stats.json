@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T21:01:45.783Z",
+  "lastUpdated": "2026-07-05T06:10:27.154Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -184,7 +184,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - India A lead by 175 runs",
+      "status": "Day 4: 1st Session - Sri Lanka A trail by 101 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -212,10 +212,16 @@
           "inning": "Sri Lanka A Inning 1"
         },
         {
-          "r": 541,
-          "w": 8,
-          "o": 142,
+          "r": 543,
+          "w": 9,
+          "o": 143.3,
           "inning": "India A Inning 1"
+        },
+        {
+          "r": 76,
+          "w": 4,
+          "o": 18.3,
+          "inning": "Sri Lanka A Inning 2"
         }
       ],
       "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
@@ -905,7 +911,7 @@
       "id": "0affa1da-4740-4910-b8b7-d61eb7876640",
       "name": "Gloucestershire vs Surrey, 77th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Surrey need 82 runs in 24 balls",
+      "status": "Gloucestershire won by 57 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-07-04",
       "dateTimeGMT": "2026-07-04T18:00:00",
@@ -933,9 +939,9 @@
           "inning": "Gloucestershire Inning 1"
         },
         {
-          "r": 110,
-          "w": 7,
-          "o": 16,
+          "r": 134,
+          "w": 10,
+          "o": 19.4,
           "inning": "Surrey Inning 1"
         }
       ],
@@ -944,7 +950,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "16b5ce1c-7c4b-4813-90cb-41caa6c152bf",
