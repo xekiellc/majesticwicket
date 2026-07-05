@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T15:17:17.109Z",
+  "lastUpdated": "2026-07-05T21:06:16.742Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -47,93 +47,47 @@
       "matchEnded": true
     },
     {
-      "id": "b5378bc4-5ce7-473f-a215-375aa68f639a",
-      "name": "Sweden vs Portugal, 2nd T20I, Portugal tour of Sweden, 2026",
-      "matchType": "t20",
-      "status": "Portugal won by 7 wkts",
-      "venue": "Botkyrka Cricket Center, Stockholm",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T12:00:00",
+      "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
+      "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
+      "status": "India Women U19 won by 8 wkts",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
+      "date": "2026-07-06",
+      "dateTimeGMT": "2026-07-06T08:30:00",
       "teams": [
-        "Sweden",
-        "Portugal"
+        "India Women U19",
+        "Sri Lanka Women U19"
       ],
       "teamInfo": [
         {
-          "name": "Portugal",
-          "shortname": "PORT",
-          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
+          "name": "India Women U19",
+          "shortname": "IND W-U19",
+          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
         },
         {
-          "name": "Sweden",
-          "shortname": "SWE",
-          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
+          "name": "Sri Lanka Women U19",
+          "shortname": "SLW-U19",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 143,
-          "w": 9,
-          "o": 20,
-          "inning": "sweden Inning 1"
+          "r": 159,
+          "w": 10,
+          "o": 48.5,
+          "inning": "sri lanka women u19 Inning 1"
         },
         {
-          "r": 144,
-          "w": 3,
-          "o": 17.4,
-          "inning": "Sweden,Portugal Inning 1"
+          "r": 161,
+          "w": 2,
+          "o": 18.2,
+          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
         }
       ],
-      "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
+      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8854884a-29f2-40bb-9498-fc97d93cb45b",
-      "name": "Sweden vs Portugal, 1st T20I, Portugal tour of Sweden, 2026",
-      "matchType": "t20",
-      "status": "Portugal won by 12 runs",
-      "venue": "Botkyrka Cricket Center, Stockholm",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T07:30:00",
-      "teams": [
-        "Sweden",
-        "Portugal"
-      ],
-      "teamInfo": [
-        {
-          "name": "Portugal",
-          "shortname": "PORT",
-          "img": "https://g.cricapi.com/iapi/643-637872736165869493.webp?w=48"
-        },
-        {
-          "name": "Sweden",
-          "shortname": "SWE",
-          "img": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 169,
-          "w": 8,
-          "o": 20,
-          "inning": "Portugal Inning 1"
-        },
-        {
-          "r": 157,
-          "w": 8,
-          "o": 20,
-          "inning": "Sweden Inning 1"
-        }
-      ],
-      "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
+      "hasSquad": false,
+      "matchStarted": false,
       "matchEnded": true
     },
     {
@@ -447,96 +401,10 @@
       "matchEnded": true
     },
     {
-      "id": "b6df252d-f0c2-444a-9602-4aeb53422230",
-      "name": "Anurag Nalgonda Knights vs Anvita Khammam Aces, 19th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Anvita Khammam Aces won by 34 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T13:45:00",
-      "teams": [
-        "Anurag Nalgonda Knights",
-        "Anvita Khammam Aces"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anurag Nalgonda Knights",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Anvita Khammam Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
-          "w": 2,
-          "o": 20,
-          "inning": "anvita khammam aces Inning 1"
-        },
-        {
-          "r": 177,
-          "w": 8,
-          "o": 20,
-          "inning": "Anurag Nalgonda Knights,Anvita Khammam Aces Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a7c7e8b5-48fb-4380-bef0-7465480920fb",
-      "name": "Hyderabad E Champions vs Warangal Warriors, 18th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 6 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T08:45:00",
-      "teams": [
-        "Hyderabad E Champions",
-        "Warangal Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warangal Warriors",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 173,
-          "w": 9,
-          "o": 20,
-          "inning": "warangal warriors Inning 1"
-        },
-        {
-          "r": 178,
-          "w": 4,
-          "o": 15.3,
-          "inning": "Hyderabad E Champions,Warangal Warriors Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "c86dcbf7-d229-42b9-a914-d14bf331ffa6",
       "name": "Shivamogga Yodhas vs Hubli Tigers, 26th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Hubli Tigers opt to bowl",
+      "status": "Shivamogga Yodhas won by 38 runs",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-07-05",
       "dateTimeGMT": "2026-07-05T13:30:00",
@@ -557,10 +425,16 @@
       ],
       "score": [
         {
-          "r": 98,
-          "w": 2,
-          "o": 11.3,
+          "r": 207,
+          "w": 6,
+          "o": 20,
           "inning": "Shivamogga Yodhas Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 9,
+          "o": 20,
+          "inning": "Hubli Tigers Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -568,7 +442,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "18b24e36-97ee-4649-a13c-5cdf911dc032",
@@ -786,50 +660,6 @@
       "matchEnded": true
     },
     {
-      "id": "efe72f10-d207-40bd-85a4-7d3026660aed",
-      "name": "Kalyani Bengaluru Blasters vs Hubli Tigers, 20th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 2 runs",
-      "venue": "KSCA Hubli Cricket Ground, Hubli",
-      "date": "2026-07-01",
-      "dateTimeGMT": "2026-07-01T13:30:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Hubli Tigers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 7,
-          "o": 20,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        },
-        {
-          "r": 201,
-          "w": 7,
-          "o": 20,
-          "inning": "Hubli Tigers Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "5f2f0a6d-2964-494a-982d-cc75eeb181d0",
       "name": "Finland vs Portugal, 3rd T20I, Portugal tour of Finland, 2026",
       "matchType": "t20",
@@ -954,7 +784,7 @@
       "id": "00e5e610-d8a7-4863-b61d-c574120e39ac",
       "name": "England Women vs Australia Women, Final, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Australia Women opt to bowl",
+      "status": "Australia Women won by 7 wkts",
       "venue": "Lord's, London",
       "date": "2026-07-05",
       "dateTimeGMT": "2026-07-05T13:30:00",
@@ -976,10 +806,16 @@
       ],
       "score": [
         {
-          "r": 33,
-          "w": 2,
-          "o": 5.1,
+          "r": 150,
+          "w": 4,
+          "o": 20,
           "inning": "England Women Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 3,
+          "o": 17.1,
+          "inning": "Australia Women Inning 1"
         }
       ],
       "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
@@ -987,7 +823,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2c0b414e-9fed-4311-ac53-e688e4e729ce",
@@ -1038,7 +874,7 @@
       "id": "72894c62-02da-4f88-b978-de49bcc37a62",
       "name": "Essex vs Middlesex, 78th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Middlesex opt to bowl",
+      "status": "Middlesex won by 4 wkts",
       "venue": "County Ground, Chelmsford",
       "date": "2026-07-05",
       "dateTimeGMT": "2026-07-05T15:00:00",
@@ -1060,18 +896,204 @@
       ],
       "score": [
         {
-          "r": 6,
-          "w": 0,
-          "o": 1.3,
+          "r": 142,
+          "w": 8,
+          "o": 20,
           "inning": "Essex Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 6,
+          "o": 19,
+          "inning": "Middlesex Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "a4813121-d8c7-4a04-b237-cb96bd16d661",
+      "name": "Durham vs Nottinghamshire, 79th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Nottinghamshire won by 2 runs",
+      "venue": "Riverside Ground, Chester-le-Street",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T14:30:00",
+      "teams": [
+        "Durham",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 8,
+          "o": 20,
+          "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 164,
+          "w": 6,
+          "o": 20,
+          "inning": "Durham Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bbb7c866-9747-4ece-bc22-59be400e6c5f",
+      "name": "Warwickshire vs Gloucestershire, 80th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Warwickshire won by 30 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T14:30:00",
+      "teams": [
+        "Warwickshire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 203,
+          "w": 5,
+          "o": 20,
+          "inning": "warwickshire Inning 1"
+        },
+        {
+          "r": 173,
+          "w": 6,
+          "o": 20,
+          "inning": "Warwickshire,Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6ba179de-71f0-4990-8a29-d7f4a8c28757",
+      "name": "Northamptonshire vs Somerset, 83rd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Somerset won by 105 runs",
+      "venue": "County Ground, Northampton",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T14:30:00",
+      "teams": [
+        "Northamptonshire",
+        "Somerset"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 223,
+          "w": 4,
+          "o": 20,
+          "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 10,
+          "o": 15.3,
+          "inning": "Northamptonshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bcb65c06-9529-4da1-85a3-1ef1b454f5e6",
+      "name": "Glamorgan vs Worcestershire, 82nd Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Worcestershire won by 15 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T14:30:00",
+      "teams": [
+        "Glamorgan",
+        "Worcestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 161,
+          "w": 9,
+          "o": 20,
+          "inning": "worcestershire Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 10,
+          "o": 19.2,
+          "inning": "Glamorgan,Worcestershire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
