@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T06:10:27.154Z",
+  "lastUpdated": "2026-07-05T10:01:11.901Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -42,7 +42,7 @@
       "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -87,7 +87,7 @@
       "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -132,7 +132,7 @@
       "series_id": "3977bda7-c3bf-4a15-912b-e80071d19f4c",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -184,7 +184,7 @@
       "id": "f9d7544f-705b-4632-95a7-11cf2fcf83de",
       "name": "Sri Lanka A vs India A, 2nd Unofficial Test, India A tour of Sri Lanka 2026",
       "matchType": "test",
-      "status": "Day 4: 1st Session - Sri Lanka A trail by 101 runs",
+      "status": "India A won by 10 wkts",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-02",
       "dateTimeGMT": "2026-07-02T04:30:00",
@@ -218,10 +218,16 @@
           "inning": "India A Inning 1"
         },
         {
-          "r": 76,
-          "w": 4,
-          "o": 18.3,
+          "r": 209,
+          "w": 10,
+          "o": 48.3,
           "inning": "Sri Lanka A Inning 2"
+        },
+        {
+          "r": 36,
+          "w": 0,
+          "o": 6.2,
+          "inning": "India A Inning 2"
         }
       ],
       "series_id": "4fc71f87-f073-423e-a39c-6ea294123729",
@@ -525,6 +531,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "18b24e36-97ee-4649-a13c-5cdf911dc032",
+      "name": "Kalyani Bengaluru Blasters vs Mysore Warriors, 25th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Kalyani Bengaluru Blasters opt to bowl",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T09:00:00",
+      "teams": [
+        "Kalyani Bengaluru Blasters",
+        "Mysore Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Mysore Warriors",
+          "shortname": "MSW",
+          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 7,
+          "o": 16.2,
+          "inning": "Mysore Warriors Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "165ac36a-cff7-4b39-bda2-198a74e00174",
@@ -1033,51 +1077,6 @@
           "w": 7,
           "o": 20,
           "inning": "Lancashire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fee710a3-1520-4fcf-bc28-0fd86657a1ce",
-      "name": "Yorkshire vs Durham, 72nd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Yorkshire won by 5 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-07-03",
-      "dateTimeGMT": "2026-07-03T17:30:00",
-      "teams": [
-        "Yorkshire",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 205,
-          "w": 9,
-          "o": 20,
-          "inning": "durham Inning 1"
-        },
-        {
-          "r": 208,
-          "w": 5,
-          "o": 19.5,
-          "inning": "Yorkshire,Durham Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
