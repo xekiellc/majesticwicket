@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T10:01:11.901Z",
+  "lastUpdated": "2026-07-05T15:17:17.109Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -533,10 +533,48 @@
       "matchEnded": true
     },
     {
+      "id": "c86dcbf7-d229-42b9-a914-d14bf331ffa6",
+      "name": "Shivamogga Yodhas vs Hubli Tigers, 26th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Hubli Tigers opt to bowl",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T13:30:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Hubli Tigers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hubli Tigers",
+          "shortname": "HT",
+          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 2,
+          "o": 11.3,
+          "inning": "Shivamogga Yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "18b24e36-97ee-4649-a13c-5cdf911dc032",
       "name": "Kalyani Bengaluru Blasters vs Mysore Warriors, 25th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters opt to bowl",
+      "status": "Kalyani Bengaluru Blasters won by 8 wkts",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-07-05",
       "dateTimeGMT": "2026-07-05T09:00:00",
@@ -557,10 +595,16 @@
       ],
       "score": [
         {
-          "r": 104,
-          "w": 7,
-          "o": 16.2,
+          "r": 148,
+          "w": 10,
+          "o": 19.4,
           "inning": "Mysore Warriors Inning 1"
+        },
+        {
+          "r": 150,
+          "w": 2,
+          "o": 14.4,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -568,7 +612,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "165ac36a-cff7-4b39-bda2-198a74e00174",
@@ -907,6 +951,45 @@
       "matchEnded": true
     },
     {
+      "id": "00e5e610-d8a7-4863-b61d-c574120e39ac",
+      "name": "England Women vs Australia Women, Final, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Australia Women opt to bowl",
+      "venue": "Lord's, London",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T13:30:00",
+      "teams": [
+        "England Women",
+        "Australia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 33,
+          "w": 2,
+          "o": 5.1,
+          "inning": "England Women Inning 1"
+        }
+      ],
+      "series_id": "f3e5c7dd-332c-4893-9067-aa2bfe6d2b85",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "2c0b414e-9fed-4311-ac53-e688e4e729ce",
       "name": "England Women vs South Africa Women, 2nd Semi-Final, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
@@ -952,61 +1035,16 @@
       "matchEnded": true
     },
     {
-      "id": "0affa1da-4740-4910-b8b7-d61eb7876640",
-      "name": "Gloucestershire vs Surrey, 77th Match, T20 Blast 2026",
+      "id": "72894c62-02da-4f88-b978-de49bcc37a62",
+      "name": "Essex vs Middlesex, 78th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Gloucestershire won by 57 runs",
-      "venue": "County Ground, Bristol",
-      "date": "2026-07-04",
-      "dateTimeGMT": "2026-07-04T18:00:00",
+      "status": "Middlesex opt to bowl",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-07-05",
+      "dateTimeGMT": "2026-07-05T15:00:00",
       "teams": [
-        "Gloucestershire",
-        "Surrey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 5,
-          "o": 20,
-          "inning": "Gloucestershire Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Surrey Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "16b5ce1c-7c4b-4813-90cb-41caa6c152bf",
-      "name": "Sussex vs Essex, 74th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Essex won by 100 runs",
-      "venue": "County Ground, Brighton",
-      "date": "2026-07-03",
-      "dateTimeGMT": "2026-07-03T18:00:00",
-      "teams": [
-        "Sussex",
-        "Essex"
+        "Essex",
+        "Middlesex"
       ],
       "teamInfo": [
         {
@@ -1015,76 +1053,25 @@
           "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
         },
         {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 204,
-          "w": 6,
-          "o": 20,
-          "inning": "essex Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 10,
-          "o": 17.3,
-          "inning": "Sussex,Essex Inning 1"
+          "r": 6,
+          "w": 0,
+          "o": 1.3,
+          "inning": "Essex Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2ed93901-645d-467a-8ffd-a151df147a90",
-      "name": "Nottinghamshire vs Lancashire, 75th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Nottinghamshire won by 1 run",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-07-03",
-      "dateTimeGMT": "2026-07-03T17:30:00",
-      "teams": [
-        "Nottinghamshire",
-        "Lancashire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 181,
-          "w": 6,
-          "o": 20,
-          "inning": "Nottinghamshire Inning 1"
-        },
-        {
-          "r": 180,
-          "w": 7,
-          "o": 20,
-          "inning": "Lancashire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
