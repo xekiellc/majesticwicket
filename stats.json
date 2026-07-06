@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T06:42:02.310Z",
+  "lastUpdated": "2026-07-06T11:52:34.134Z",
   "recentMatches": [
     {
       "id": "5d427fc3-0e81-4b98-8566-e01e461c30ed",
@@ -87,7 +87,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -190,6 +190,49 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "fd64a762-6ab8-450d-a2cb-3417ebc1c326",
+      "name": "Anvita Khammam Aces vs Medak Falcons, 25th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Medak Falcons need 134 runs in 90 balls",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-06",
+      "dateTimeGMT": "2026-07-06T08:45:00",
+      "teams": [
+        "Anvita Khammam Aces",
+        "Medak Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Medak Falcons",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 190,
+          "w": 5,
+          "o": 20,
+          "inning": "anvita khammam aces Inning 1"
+        },
+        {
+          "r": 57,
+          "w": 0,
+          "o": 5,
+          "inning": "Anvita Khammam Aces,Medak Falcons Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "51f540d5-6d50-4812-8b43-ed3afa255e01",
@@ -399,6 +442,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "d02275ed-4694-4f88-a601-f193aa232005",
+      "name": "Hubli Tigers vs Coastal Kings Mangaluru, 27th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Coastal Kings Mangaluru need 65 runs in 36 balls",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-06",
+      "dateTimeGMT": "2026-07-06T09:00:00",
+      "teams": [
+        "Hubli Tigers",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Hubli Tigers",
+          "shortname": "HT",
+          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 213,
+          "w": 6,
+          "o": 20,
+          "inning": "Hubli Tigers Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 7,
+          "o": 14,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "c86dcbf7-d229-42b9-a914-d14bf331ffa6",
@@ -781,6 +868,50 @@
       "matchEnded": true
     },
     {
+      "id": "51861aa2-cf08-4fda-909b-83deac4572cc",
+      "name": "Zimbabwe vs Bangladesh, 1st ODI, Bangladesh tour of Zimbabwe, 2026",
+      "status": "Bangladesh need 119 runs",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-07-06",
+      "dateTimeGMT": "2026-07-06T07:15:00",
+      "teams": [
+        "Zimbabwe",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 10,
+          "o": 36.4,
+          "inning": "Zimbabwe Inning 1"
+        },
+        {
+          "r": 23,
+          "w": 3,
+          "o": 8.1,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "00e5e610-d8a7-4863-b61d-c574120e39ac",
       "name": "England Women vs Australia Women, Final, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
@@ -951,141 +1082,6 @@
           "w": 6,
           "o": 20,
           "inning": "Durham Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bbb7c866-9747-4ece-bc22-59be400e6c5f",
-      "name": "Warwickshire vs Gloucestershire, 80th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Warwickshire won by 30 runs",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Warwickshire",
-        "Gloucestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 5,
-          "o": 20,
-          "inning": "warwickshire Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 6,
-          "o": 20,
-          "inning": "Warwickshire,Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6ba179de-71f0-4990-8a29-d7f4a8c28757",
-      "name": "Northamptonshire vs Somerset, 83rd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset won by 105 runs",
-      "venue": "County Ground, Northampton",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Northamptonshire",
-        "Somerset"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 4,
-          "o": 20,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 10,
-          "o": 15.3,
-          "inning": "Northamptonshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bcb65c06-9529-4da1-85a3-1ef1b454f5e6",
-      "name": "Glamorgan vs Worcestershire, 82nd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Worcestershire won by 15 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Glamorgan",
-        "Worcestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 9,
-          "o": 20,
-          "inning": "worcestershire Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Glamorgan,Worcestershire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
