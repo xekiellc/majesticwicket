@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T06:14:17.027Z",
+  "lastUpdated": "2026-07-07T10:42:57.929Z",
   "recentMatches": [
     {
       "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
@@ -88,6 +88,43 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "1f6a571e-90bf-4ef1-83dc-23507b53e832",
+      "name": "Karimnagar Diamonds vs Palamuru Strikers, 27th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-07",
+      "dateTimeGMT": "2026-07-07T08:45:00",
+      "teams": [
+        "Karimnagar Diamonds",
+        "Palamuru Strikers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Karimnagar Diamonds",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Palamuru Strikers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 216,
+          "w": 5,
+          "o": 20,
+          "inning": "Karimnagar Diamonds Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "b613f0ab-0d57-4f65-bd46-d04fd8c8b955",
@@ -1032,51 +1069,6 @@
           "w": 10,
           "o": 15.3,
           "inning": "Northamptonshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bcb65c06-9529-4da1-85a3-1ef1b454f5e6",
-      "name": "Glamorgan vs Worcestershire, 82nd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Worcestershire won by 15 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Glamorgan",
-        "Worcestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 9,
-          "o": 20,
-          "inning": "worcestershire Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Glamorgan,Worcestershire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
