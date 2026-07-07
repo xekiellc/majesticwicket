@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T10:42:57.929Z",
+  "lastUpdated": "2026-07-07T16:35:03.572Z",
   "recentMatches": [
     {
       "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
@@ -90,10 +90,47 @@
       "matchEnded": true
     },
     {
+      "id": "3d719cf3-7cec-413e-b753-2b5c719d0d11",
+      "name": "Ranga Reddy Risers vs Warangal Warriors, 28th Match, TG20 2026",
+      "matchType": "t20",
+      "status": "Ranga Reddy Risers opt to bat",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-07",
+      "dateTimeGMT": "2026-07-07T13:45:00",
+      "teams": [
+        "Ranga Reddy Risers",
+        "Warangal Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ranga Reddy Risers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Warangal Warriors",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 188,
+          "w": 4,
+          "o": 15,
+          "inning": "ranga reddy risers Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "1f6a571e-90bf-4ef1-83dc-23507b53e832",
       "name": "Karimnagar Diamonds vs Palamuru Strikers, 27th Match, TG20 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Karimnagar Diamonds won by 73 runs",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-07",
       "dateTimeGMT": "2026-07-07T08:45:00",
@@ -117,6 +154,12 @@
           "w": 5,
           "o": 20,
           "inning": "Karimnagar Diamonds Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 9,
+          "o": 20,
+          "inning": "Palamuru Strikers Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -124,7 +167,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b613f0ab-0d57-4f65-bd46-d04fd8c8b955",
@@ -1024,51 +1067,6 @@
           "w": 6,
           "o": 20,
           "inning": "Warwickshire,Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6ba179de-71f0-4990-8a29-d7f4a8c28757",
-      "name": "Northamptonshire vs Somerset, 83rd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset won by 105 runs",
-      "venue": "County Ground, Northampton",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Northamptonshire",
-        "Somerset"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 4,
-          "o": 20,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 10,
-          "o": 15.3,
-          "inning": "Northamptonshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
