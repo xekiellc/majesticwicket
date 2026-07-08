@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T10:03:31.107Z",
+  "lastUpdated": "2026-07-08T16:04:00.774Z",
   "recentMatches": [
     {
       "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
@@ -304,10 +304,54 @@
       "matchEnded": true
     },
     {
+      "id": "5c73e11e-df80-49b2-978c-67467632b263",
+      "name": "Coastal Kings Mangaluru vs Gulbarga Mystics, 30th Match, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Gulbarga Mystics need 126 runs in 90 balls",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-08",
+      "dateTimeGMT": "2026-07-08T13:30:00",
+      "teams": [
+        "Coastal Kings Mangaluru",
+        "Gulbarga Mystics"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Gulbarga Mystics",
+          "shortname": "GUM",
+          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 169,
+          "w": 9,
+          "o": 20,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 44,
+          "w": 0,
+          "o": 5,
+          "inning": "Gulbarga Mystics Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "fc50d579-8db8-4610-8e04-f038c496538e",
       "name": "Mysore Warriors vs Shivamogga Yodhas, 29th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Mysore Warriors won by 6 wkts",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-07-07",
       "dateTimeGMT": "2026-07-07T13:30:00",
@@ -332,6 +376,12 @@
           "w": 10,
           "o": 10.5,
           "inning": "Shivamogga Yodhas Inning 1"
+        },
+        {
+          "r": 67,
+          "w": 4,
+          "o": 10,
+          "inning": "Mysore Warriors Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -339,7 +389,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "902ca265-bca8-4f87-b23d-725a930154f5",
@@ -1033,51 +1083,6 @@
           "w": 9,
           "o": 20,
           "inning": "Yorkshire,Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0affa1da-4740-4910-b8b7-d61eb7876640",
-      "name": "Gloucestershire vs Surrey, 77th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Gloucestershire won by 57 runs",
-      "venue": "County Ground, Bristol",
-      "date": "2026-07-04",
-      "dateTimeGMT": "2026-07-04T18:00:00",
-      "teams": [
-        "Gloucestershire",
-        "Surrey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 5,
-          "o": 20,
-          "inning": "Gloucestershire Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Surrey Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
