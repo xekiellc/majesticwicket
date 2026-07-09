@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T06:10:40.973Z",
+  "lastUpdated": "2026-07-09T10:42:38.486Z",
   "recentMatches": [
     {
       "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
@@ -44,6 +44,43 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "0a82ca9a-df86-45b0-8c04-51c7b742b28d",
+      "name": "Karimnagar Diamonds vs Ranga Reddy Risers, Eliminator, TG20 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-09",
+      "dateTimeGMT": "2026-07-09T08:45:00",
+      "teams": [
+        "Karimnagar Diamonds",
+        "Ranga Reddy Risers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Karimnagar Diamonds",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ranga Reddy Risers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 238,
+          "w": 7,
+          "o": 20,
+          "inning": "karimnagar diamonds Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "3d719cf3-7cec-413e-b753-2b5c719d0d11",
@@ -480,6 +517,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "369a0234-af6d-451d-9c3c-8e2a5c03a4a1",
+      "name": "Zimbabwe vs Bangladesh, 2nd ODI, Bangladesh tour of Zimbabwe, 2026",
+      "status": "Bangladesh opt to bowl",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-07-09",
+      "dateTimeGMT": "2026-07-09T07:15:00",
+      "teams": [
+        "Zimbabwe",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 164,
+          "w": 6,
+          "o": 41,
+          "inning": "Zimbabwe Inning 1"
+        }
+      ],
+      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "51861aa2-cf08-4fda-909b-83deac4572cc",
@@ -1011,96 +1086,6 @@
           "w": 10,
           "o": 15.3,
           "inning": "Northamptonshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bcb65c06-9529-4da1-85a3-1ef1b454f5e6",
-      "name": "Glamorgan vs Worcestershire, 82nd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Worcestershire won by 15 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Glamorgan",
-        "Worcestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 9,
-          "o": 20,
-          "inning": "worcestershire Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Glamorgan,Worcestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "02673def-3e5c-429e-9299-c3ba552ae105",
-      "name": "Hampshire vs Kent, 84th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Hampshire won by 19 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Hampshire",
-        "Kent"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        },
-        {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 190,
-          "w": 3,
-          "o": 20,
-          "inning": "Hampshire Inning 1"
-        },
-        {
-          "r": 171,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Kent Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
