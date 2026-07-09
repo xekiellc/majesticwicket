@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T10:42:38.486Z",
+  "lastUpdated": "2026-07-09T16:30:28.262Z",
   "recentMatches": [
     {
       "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
@@ -46,10 +46,53 @@
       "matchEnded": true
     },
     {
+      "id": "66d186a7-3844-4351-8dc9-34c60509df3a",
+      "name": "Hyderabad E Champions vs Anvita Khammam Aces, Qualifier 1, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions need 87 runs in 60 balls",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-09",
+      "dateTimeGMT": "2026-07-09T13:45:00",
+      "teams": [
+        "Hyderabad E Champions",
+        "Anvita Khammam Aces"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 6,
+          "o": 20,
+          "inning": "Anvita Khammam Aces Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 3,
+          "o": 10,
+          "inning": "Hyderabad E Champions Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "0a82ca9a-df86-45b0-8c04-51c7b742b28d",
       "name": "Karimnagar Diamonds vs Ranga Reddy Risers, Eliminator, TG20 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Karimnagar Diamonds won by 75 runs",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-09",
       "dateTimeGMT": "2026-07-09T08:45:00",
@@ -73,6 +116,12 @@
           "w": 7,
           "o": 20,
           "inning": "karimnagar diamonds Inning 1"
+        },
+        {
+          "r": 163,
+          "w": 10,
+          "o": 16.3,
+          "inning": "Karimnagar Diamonds,Ranga Reddy Risers Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -80,7 +129,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3d719cf3-7cec-413e-b753-2b5c719d0d11",
@@ -521,7 +570,7 @@
     {
       "id": "369a0234-af6d-451d-9c3c-8e2a5c03a4a1",
       "name": "Zimbabwe vs Bangladesh, 2nd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Bangladesh opt to bowl",
+      "status": "Zimbabwe won by 13 runs",
       "venue": "Harare Sports Club, Harare",
       "date": "2026-07-09",
       "dateTimeGMT": "2026-07-09T07:15:00",
@@ -543,10 +592,16 @@
       ],
       "score": [
         {
-          "r": 164,
+          "r": 247,
           "w": 6,
-          "o": 41,
+          "o": 50,
           "inning": "Zimbabwe Inning 1"
+        },
+        {
+          "r": 234,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Bangladesh Inning 1"
         }
       ],
       "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
@@ -554,7 +609,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "51861aa2-cf08-4fda-909b-83deac4572cc",
@@ -1041,51 +1096,6 @@
           "w": 6,
           "o": 20,
           "inning": "Warwickshire,Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6ba179de-71f0-4990-8a29-d7f4a8c28757",
-      "name": "Northamptonshire vs Somerset, 83rd Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset won by 105 runs",
-      "venue": "County Ground, Northampton",
-      "date": "2026-07-05",
-      "dateTimeGMT": "2026-07-05T14:30:00",
-      "teams": [
-        "Northamptonshire",
-        "Somerset"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 4,
-          "o": 20,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 10,
-          "o": 15.3,
-          "inning": "Northamptonshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
