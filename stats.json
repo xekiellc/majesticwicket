@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-09T21:25:50.965Z",
+  "lastUpdated": "2026-07-10T06:10:37.326Z",
   "recentMatches": [
     {
       "id": "8324fe88-583e-40e3-bbc7-fbf742d055ca",
       "name": "Estonia vs Norway, 6th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Norway opt to bowl",
+      "status": "Norway won by 2 wkts",
       "venue": "Koge Cricket Club, Koge",
       "date": "2026-07-09",
       "dateTimeGMT": "2026-07-09T00:00:00",
@@ -25,18 +25,32 @@
           "img": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 105,
+          "w": 9,
+          "o": 20,
+          "inning": "Estonia Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 8,
+          "o": 9.5,
+          "inning": "Norway Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3cf2f732-a636-4ddb-9128-23c8633c127a",
       "name": "Denmark vs Turkey, 5th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Turkey opt to bowl",
+      "status": "Denmark won by 86 runs",
       "venue": "Koge Cricket Club, Koge",
       "date": "2026-07-09",
       "dateTimeGMT": "2026-07-09T00:00:00",
@@ -56,12 +70,26 @@
           "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 201,
+          "w": 4,
+          "o": 20,
+          "inning": "Denmark Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 9,
+          "o": 20,
+          "inning": "Turkey Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e50092e1-2869-4a56-9b21-9e56979d4439",
