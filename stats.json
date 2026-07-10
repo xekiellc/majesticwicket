@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-10T16:27:48.229Z",
+  "lastUpdated": "2026-07-10T21:09:26.486Z",
   "recentMatches": [
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
       "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "West Indies Women need 25 runs",
+      "status": "West Indies Women won by 9 wkts",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T09:45:00",
@@ -33,14 +33,76 @@
           "inning": "Ireland Women Inning 1"
         },
         {
-          "r": 245,
-          "w": 0,
-          "o": 34,
+          "r": 270,
+          "w": 1,
+          "o": 38.4,
           "inning": "West Indies Women Inning 1"
         }
       ],
       "series_id": "af7f493b-31ef-4223-b84e-b2cf9cf774fd",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3fc7f2f0-4aa1-4a84-9a4a-2211f828ff4a",
+      "name": "Norway vs Turkey, 10th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Norway opt to bowl",
+      "venue": "Koge Cricket Club, Koge",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
+      "teams": [
+        "Norway",
+        "Turkey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Norway",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=48"
+        },
+        {
+          "name": "Turkey",
+          "shortname": "TKY",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "3e7fb29b-15ef-4a88-b997-fe6893ff0955",
+      "name": "Serbia vs Belgium, 9th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Serbia opt to bowl",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
+      "teams": [
+        "Serbia",
+        "Belgium"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belgium",
+          "shortname": "BEL",
+          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
+        },
+        {
+          "name": "Serbia",
+          "shortname": "SRB",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -423,92 +485,35 @@
       "matchEnded": true
     },
     {
-      "id": "77e79362-3541-4016-ad20-0edb290a4759",
-      "name": "Sri Lanka U19 vs India U19, 2nd unofficial ODI, India U19 tour of Sri Lanka 2026",
-      "status": "Sri Lanka U19 won by 8 wkts",
-      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T00:00:00",
+      "id": "69f4e401-3988-4413-8e80-72901d00b9a3",
+      "name": "Germany Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Switzerland Women opt to bat",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
       "teams": [
-        "Sri Lanka U19",
-        "India U19"
+        "Germany Women",
+        "Switzerland Women"
       ],
       "teamInfo": [
         {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+          "name": "Germany Women",
+          "shortname": "GEMW",
+          "img": "https://g.cricapi.com/iapi/1682-637926300796611117.webp?w=48"
         },
         {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
+          "name": "Switzerland Women",
+          "shortname": "SW",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
-      "score": [
-        {
-          "r": 285,
-          "w": 10,
-          "o": 47.2,
-          "inning": "india u19 Inning 1"
-        },
-        {
-          "r": 291,
-          "w": 2,
-          "o": 48,
-          "inning": "Sri Lanka U19,India U19 Inning 1"
-        }
-      ],
-      "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "621286c0-9da9-41a4-b778-68d533ac6984",
-      "name": "Sri Lanka U19 vs India U19, 1st unofficial ODI, India U19 tour of Sri Lanka 2026",
-      "status": "India U19 won by 4 wkts",
-      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
-      "date": "2026-07-04",
-      "dateTimeGMT": "2026-07-04T00:00:00",
-      "teams": [
-        "Sri Lanka U19",
-        "India U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 320,
-          "w": 6,
-          "o": 50,
-          "inning": "Sri Lanka U19 Inning 1"
-        },
-        {
-          "r": 324,
-          "w": 6,
-          "o": 49.2,
-          "inning": "India U19 Inning 1"
-        }
-      ],
-      "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
+      "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
       "id": "6be067ae-2aa7-4a17-a41a-08160da6b981",
@@ -542,54 +547,10 @@
       "matchEnded": false
     },
     {
-      "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
-      "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "India Women U19 won by 8 wkts",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T08:30:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women U19",
-          "shortname": "IND W-U19",
-          "img": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women U19",
-          "shortname": "SLW-U19",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 10,
-          "o": 48.5,
-          "inning": "sri lanka women u19 Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 2,
-          "o": 18.2,
-          "inning": "India Women U19,Sri Lanka Women U19 Inning 1"
-        }
-      ],
-      "series_id": "cb552713-036d-4d90-93c1-d4aef3ab3829",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
       "name": "Hyderabad E Champions vs Karimnagar Diamonds, Qualifier 2, TG20 2026",
       "matchType": "t20",
-      "status": "Hyderabad E Champions need 55 runs in 60 balls",
+      "status": "Hyderabad E Champions won by 8 wkts",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T13:45:00",
@@ -615,9 +576,9 @@
           "inning": "karimnagar diamonds Inning 1"
         },
         {
-          "r": 103,
-          "w": 0,
-          "o": 10,
+          "r": 160,
+          "w": 2,
+          "o": 15.3,
           "inning": "Hyderabad E Champions,Karimnagar Diamonds Inning 1"
         }
       ],
@@ -626,7 +587,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "66d186a7-3844-4351-8dc9-34c60509df3a",
@@ -801,96 +762,10 @@
       "matchEnded": true
     },
     {
-      "id": "b613f0ab-0d57-4f65-bd46-d04fd8c8b955",
-      "name": "Hyderabad E Champions vs Anurag Nalgonda Knights, 26th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 5 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T13:45:00",
-      "teams": [
-        "Hyderabad E Champions",
-        "Anurag Nalgonda Knights"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anurag Nalgonda Knights",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 187,
-          "w": 9,
-          "o": 20,
-          "inning": "Anurag Nalgonda Knights Inning 1"
-        },
-        {
-          "r": 189,
-          "w": 5,
-          "o": 19.1,
-          "inning": "Hyderabad E Champions Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fd64a762-6ab8-450d-a2cb-3417ebc1c326",
-      "name": "Anvita Khammam Aces vs Medak Falcons, 25th Match, TG20 2026",
-      "matchType": "t20",
-      "status": "Anvita Khammam Aces won by 19 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T08:45:00",
-      "teams": [
-        "Anvita Khammam Aces",
-        "Medak Falcons"
-      ],
-      "teamInfo": [
-        {
-          "name": "Anvita Khammam Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Medak Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 190,
-          "w": 5,
-          "o": 20,
-          "inning": "anvita khammam aces Inning 1"
-        },
-        {
-          "r": 171,
-          "w": 7,
-          "o": 20,
-          "inning": "Anvita Khammam Aces,Medak Falcons Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "18b67eb5-7932-4c75-a09f-bda1c79aaf98",
       "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, Qualifier 1, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Coastal Kings Mangaluru need 100 runs in 56 balls",
+      "status": "Kalyani Bengaluru Blasters won by 12 runs",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-07-09",
       "dateTimeGMT": "2026-07-09T13:30:00",
@@ -916,9 +791,9 @@
           "inning": "Kalyani Bengaluru Blasters Inning 1"
         },
         {
-          "r": 86,
-          "w": 3,
-          "o": 10.4,
+          "r": 173,
+          "w": 6,
+          "o": 20,
           "inning": "Coastal Kings Mangaluru Inning 1"
         }
       ],
@@ -927,7 +802,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c57b532d-dc3b-4176-bb39-d30690754cb8",
@@ -1060,6 +935,95 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "369a0234-af6d-451d-9c3c-8e2a5c03a4a1",
+      "name": "Zimbabwe vs Bangladesh, 2nd ODI, Bangladesh tour of Zimbabwe, 2026",
+      "status": "Zimbabwe won by 13 runs",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-07-09",
+      "dateTimeGMT": "2026-07-09T07:15:00",
+      "teams": [
+        "Zimbabwe",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 247,
+          "w": 6,
+          "o": 50,
+          "inning": "Zimbabwe Inning 1"
+        },
+        {
+          "r": 234,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c199a6ce-9de0-4d92-a0f3-f8058048027e",
+      "name": "Lancashire vs Yorkshire, 94th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Yorkshire need 38 runs in 7 balls",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T18:00:00",
+      "teams": [
+        "Lancashire",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 216,
+          "w": 6,
+          "o": 20,
+          "inning": "lancashire Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 7,
+          "o": 18.5,
+          "inning": "Lancashire,Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
