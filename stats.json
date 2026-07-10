@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-07-10T06:10:37.326Z",
+  "lastUpdated": "2026-07-10T10:41:44.264Z",
   "recentMatches": [
+    {
+      "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
+      "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
+      "matchType": "odi",
+      "status": "West Indies Women opt to bowl",
+      "venue": "Bready Cricket Club, Bready, Northern Ireland",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T09:45:00",
+      "teams": [
+        "Ireland Women",
+        "West Indies Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 48,
+          "w": 1,
+          "o": 9.5,
+          "inning": "Ireland Women Inning 1"
+        }
+      ],
+      "series_id": "af7f493b-31ef-4223-b84e-b2cf9cf774fd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "8324fe88-583e-40e3-bbc7-fbf742d055ca",
       "name": "Estonia vs Norway, 6th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
@@ -706,6 +745,44 @@
       "matchEnded": true
     },
     {
+      "id": "c57b532d-dc3b-4176-bb39-d30690754cb8",
+      "name": "Shivamogga Yodhas vs Mysore Warriors, Eliminator, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas opt to bowl",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-09",
+      "dateTimeGMT": "2026-07-09T09:00:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Mysore Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mysore Warriors",
+          "shortname": "MSW",
+          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 9,
+          "o": 18.1,
+          "inning": "Mysore Warriors Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "5c73e11e-df80-49b2-978c-67467632b263",
       "name": "Coastal Kings Mangaluru vs Gulbarga Mystics, 30th Match, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
@@ -1005,96 +1082,6 @@
           "w": 5,
           "o": 19,
           "inning": "Middlesex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "57a5091c-93cb-4fcd-a0f1-cbdad619cc1e",
-      "name": "Leicestershire vs Durham, 89th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Durham won by 8 wkts",
-      "venue": "Grace Road, Leicester",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T17:30:00",
-      "teams": [
-        "Leicestershire",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 156,
-          "w": 8,
-          "o": 20,
-          "inning": "leicestershire Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 2,
-          "o": 15,
-          "inning": "Leicestershire,Durham Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "94574e4f-f61b-4064-a8dc-857d4f7365bf",
-      "name": "Glamorgan vs Northamptonshire, 87th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Northamptonshire won by 53 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T17:30:00",
-      "teams": [
-        "Glamorgan",
-        "Northamptonshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 217,
-          "w": 7,
-          "o": 20,
-          "inning": "northamptonshire Inning 1"
-        },
-        {
-          "r": 164,
-          "w": 10,
-          "o": 18.3,
-          "inning": "Glamorgan,Northamptonshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
