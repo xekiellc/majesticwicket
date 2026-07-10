@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-10T10:41:44.264Z",
+  "lastUpdated": "2026-07-10T16:27:48.229Z",
   "recentMatches": [
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
       "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "West Indies Women opt to bowl",
+      "status": "West Indies Women need 25 runs",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T09:45:00",
@@ -27,14 +27,82 @@
       ],
       "score": [
         {
-          "r": 48,
-          "w": 1,
-          "o": 9.5,
+          "r": 269,
+          "w": 10,
+          "o": 49,
           "inning": "Ireland Women Inning 1"
+        },
+        {
+          "r": 245,
+          "w": 0,
+          "o": 34,
+          "inning": "West Indies Women Inning 1"
         }
       ],
       "series_id": "af7f493b-31ef-4223-b84e-b2cf9cf774fd",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "0e9c51c3-050f-4463-bbb2-dfa16bcab324",
+      "name": "Hungary vs Estonia, 8th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Hungary opt to bat",
+      "venue": "Koge Cricket Club, Koge",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T08:30:00",
+      "teams": [
+        "Hungary",
+        "Estonia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Estonia",
+          "shortname": "EST",
+          "img": "https://g.cricapi.com/iapi/601-637876983045042040.webp?w=48"
+        },
+        {
+          "name": "Hungary",
+          "shortname": "HUN",
+          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f40b5fba-e563-4836-85d4-da860d299550",
+      "name": "Gibraltar vs Romania, 7th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Romania opt to bowl",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T08:30:00",
+      "teams": [
+        "Gibraltar",
+        "Romania"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+        },
+        {
+          "name": "Romania",
+          "shortname": "ROM",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -443,6 +511,37 @@
       "matchEnded": true
     },
     {
+      "id": "6be067ae-2aa7-4a17-a41a-08160da6b981",
+      "name": "Germany Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Switzerland Women opt to bowl",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T08:30:00",
+      "teams": [
+        "Germany Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Germany Women",
+          "shortname": "GEMW",
+          "img": "https://g.cricapi.com/iapi/1682-637926300796611117.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "57703e5b-6187-4ea9-829a-bd202036bb1a",
       "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
       "status": "India Women U19 won by 8 wkts",
@@ -485,6 +584,49 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
+      "name": "Hyderabad E Champions vs Karimnagar Diamonds, Qualifier 2, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions need 55 runs in 60 balls",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:45:00",
+      "teams": [
+        "Hyderabad E Champions",
+        "Karimnagar Diamonds"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Karimnagar Diamonds",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 157,
+          "w": 7,
+          "o": 20,
+          "inning": "karimnagar diamonds Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 0,
+          "o": 10,
+          "inning": "Hyderabad E Champions,Karimnagar Diamonds Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "66d186a7-3844-4351-8dc9-34c60509df3a",
@@ -745,10 +887,53 @@
       "matchEnded": true
     },
     {
+      "id": "18b67eb5-7932-4c75-a09f-bda1c79aaf98",
+      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, Qualifier 1, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Coastal Kings Mangaluru need 100 runs in 56 balls",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-09",
+      "dateTimeGMT": "2026-07-09T13:30:00",
+      "teams": [
+        "Kalyani Bengaluru Blasters",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 185,
+          "w": 5,
+          "o": 20,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
+        },
+        {
+          "r": 86,
+          "w": 3,
+          "o": 10.4,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "c57b532d-dc3b-4176-bb39-d30690754cb8",
       "name": "Shivamogga Yodhas vs Mysore Warriors, Eliminator, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Shivamogga Yodhas opt to bowl",
+      "status": "Shivamogga Yodhas won by 7 wkts",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-07-09",
       "dateTimeGMT": "2026-07-09T09:00:00",
@@ -769,10 +954,16 @@
       ],
       "score": [
         {
-          "r": 127,
+          "r": 161,
           "w": 9,
-          "o": 18.1,
+          "o": 20,
           "inning": "Mysore Warriors Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 3,
+          "o": 16.1,
+          "inning": "Shivamogga Yodhas Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -780,7 +971,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5c73e11e-df80-49b2-978c-67467632b263",
@@ -864,227 +1055,6 @@
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "902ca265-bca8-4f87-b23d-725a930154f5",
-      "name": "Gulbarga Mystics vs Kalyani Bengaluru Blasters, 28th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 12 runs",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T13:30:00",
-      "teams": [
-        "Gulbarga Mystics",
-        "Kalyani Bengaluru Blasters"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 176,
-          "w": 8,
-          "o": 20,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        },
-        {
-          "r": 164,
-          "w": 8,
-          "o": 20,
-          "inning": "Gulbarga Mystics Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d02275ed-4694-4f88-a601-f193aa232005",
-      "name": "Hubli Tigers vs Coastal Kings Mangaluru, 27th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Coastal Kings Mangaluru won by 3 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T09:00:00",
-      "teams": [
-        "Hubli Tigers",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Hubli Tigers",
-          "shortname": "HT",
-          "img": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 213,
-          "w": 6,
-          "o": 20,
-          "inning": "Hubli Tigers Inning 1"
-        },
-        {
-          "r": 215,
-          "w": 7,
-          "o": 19.2,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "369a0234-af6d-451d-9c3c-8e2a5c03a4a1",
-      "name": "Zimbabwe vs Bangladesh, 2nd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Zimbabwe won by 13 runs",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T07:15:00",
-      "teams": [
-        "Zimbabwe",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 247,
-          "w": 6,
-          "o": 50,
-          "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 234,
-          "w": 10,
-          "o": 48.1,
-          "inning": "Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "51861aa2-cf08-4fda-909b-83deac4572cc",
-      "name": "Zimbabwe vs Bangladesh, 1st ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Zimbabwe won by 25 runs",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T07:15:00",
-      "teams": [
-        "Zimbabwe",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 141,
-          "w": 10,
-          "o": 36.4,
-          "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 10,
-          "o": 33.1,
-          "inning": "Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9921d8af-c111-4042-90c1-a642ba21a62f",
-      "name": "Hampshire vs Middlesex, 90th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Middlesex won by 5 wkts",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T18:00:00",
-      "teams": [
-        "Hampshire",
-        "Middlesex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 4,
-          "o": 20,
-          "inning": "Hampshire Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 5,
-          "o": 19,
-          "inning": "Middlesex Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
