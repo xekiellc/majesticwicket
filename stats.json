@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T05:18:02.531Z",
+  "lastUpdated": "2026-07-11T09:13:16.397Z",
   "recentMatches": [
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
@@ -832,6 +832,43 @@
       "matchEnded": true
     },
     {
+      "id": "38781127-598d-411c-a7fc-b9823b472e20",
+      "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, Qualifier 2, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas opt to bowl",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 58,
+          "w": 1,
+          "o": 7,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "18b67eb5-7932-4c75-a09f-bda1c79aaf98",
       "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, Qualifier 1, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
@@ -1007,12 +1044,12 @@
       "matchEnded": true
     },
     {
-      "id": "369a0234-af6d-451d-9c3c-8e2a5c03a4a1",
-      "name": "Zimbabwe vs Bangladesh, 2nd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Zimbabwe won by 13 runs",
+      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
+      "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
+      "status": "Bangladesh opt to bowl",
       "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T07:15:00",
+      "date": "2026-07-11",
+      "dateTimeGMT": "2026-07-11T07:15:00",
       "teams": [
         "Zimbabwe",
         "Bangladesh"
@@ -1031,16 +1068,10 @@
       ],
       "score": [
         {
-          "r": 247,
-          "w": 6,
-          "o": 50,
+          "r": 51,
+          "w": 3,
+          "o": 20.1,
           "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 234,
-          "w": 10,
-          "o": 48.1,
-          "inning": "Bangladesh Inning 1"
         }
       ],
       "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
@@ -1048,52 +1079,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c199a6ce-9de0-4d92-a0f3-f8058048027e",
-      "name": "Lancashire vs Yorkshire, 94th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Lancashire won by 22 runs",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-07-10",
-      "dateTimeGMT": "2026-07-10T18:00:00",
-      "teams": [
-        "Lancashire",
-        "Yorkshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 216,
-          "w": 6,
-          "o": 20,
-          "inning": "lancashire Inning 1"
-        },
-        {
-          "r": 194,
-          "w": 8,
-          "o": 20,
-          "inning": "Lancashire,Yorkshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
