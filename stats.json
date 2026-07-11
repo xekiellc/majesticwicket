@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T09:13:16.397Z",
+  "lastUpdated": "2026-07-11T14:59:43.043Z",
   "recentMatches": [
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
@@ -541,6 +541,37 @@
       "matchEnded": true
     },
     {
+      "id": "0976c99d-02fa-4af5-8d24-7e111692f927",
+      "name": "Germany Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Germany Women opt to bat",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-11",
+      "dateTimeGMT": "2026-07-11T08:30:00",
+      "teams": [
+        "Germany Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Germany Women",
+          "shortname": "GEMW",
+          "img": "https://g.cricapi.com/iapi/1682-637926300796611117.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "69f4e401-3988-4413-8e80-72901d00b9a3",
       "name": "Germany Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
@@ -835,7 +866,7 @@
       "id": "38781127-598d-411c-a7fc-b9823b472e20",
       "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, Qualifier 2, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Shivamogga Yodhas opt to bowl",
+      "status": "Shivamogga Yodhas won by 4 wkts",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T13:30:00",
@@ -855,10 +886,16 @@
       ],
       "score": [
         {
-          "r": 58,
-          "w": 1,
-          "o": 7,
+          "r": 143,
+          "w": 8,
+          "o": 20,
           "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 6,
+          "o": 18.4,
+          "inning": "Shivamogga Yodhas Inning 1"
         }
       ],
       "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
@@ -866,7 +903,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "18b67eb5-7932-4c75-a09f-bda1c79aaf98",
@@ -1042,44 +1079,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
-      "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Bangladesh opt to bowl",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T07:15:00",
-      "teams": [
-        "Zimbabwe",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 51,
-          "w": 3,
-          "o": 20.1,
-          "inning": "Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
     }
   ],
   "ipl": {
