@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T21:09:26.486Z",
+  "lastUpdated": "2026-07-11T05:18:02.531Z",
   "recentMatches": [
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
@@ -50,7 +50,7 @@
       "id": "3fc7f2f0-4aa1-4a84-9a4a-2211f828ff4a",
       "name": "Norway vs Turkey, 10th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Norway opt to bowl",
+      "status": "Norway won by 7 wkts",
       "venue": "Koge Cricket Club, Koge",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T13:30:00",
@@ -70,18 +70,32 @@
           "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 95,
+          "w": 10,
+          "o": 17.5,
+          "inning": "Turkey Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 3,
+          "o": 9.1,
+          "inning": "Norway Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3e7fb29b-15ef-4a88-b997-fe6893ff0955",
       "name": "Serbia vs Belgium, 9th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Serbia opt to bowl",
+      "status": "Belgium won by 64 runs",
       "venue": "Svanholm Park, Brondby",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T13:30:00",
@@ -101,18 +115,32 @@
           "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 171,
+          "w": 8,
+          "o": 20,
+          "inning": "Belgium Inning 1"
+        },
+        {
+          "r": 107,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Serbia Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0e9c51c3-050f-4463-bbb2-dfa16bcab324",
       "name": "Hungary vs Estonia, 8th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Hungary opt to bat",
+      "status": "Hungary won by 6 runs",
       "venue": "Koge Cricket Club, Koge",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T08:30:00",
@@ -132,18 +160,32 @@
           "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 132,
+          "w": 10,
+          "o": 19.4,
+          "inning": "hungary Inning 1"
+        },
+        {
+          "r": 126,
+          "w": 8,
+          "o": 20,
+          "inning": "Hungary,Estonia Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f40b5fba-e563-4836-85d4-da860d299550",
       "name": "Gibraltar vs Romania, 7th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Romania opt to bowl",
+      "status": "Romania won by 1 wkt",
       "venue": "Svanholm Park, Brondby",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T08:30:00",
@@ -163,12 +205,26 @@
           "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 124,
+          "w": 8,
+          "o": 20,
+          "inning": "Gibraltar Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 9,
+          "o": 19.1,
+          "inning": "Romania Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8324fe88-583e-40e3-bbc7-fbf742d055ca",
@@ -519,7 +575,7 @@
       "id": "6be067ae-2aa7-4a17-a41a-08160da6b981",
       "name": "Germany Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bowl",
+      "status": "Germany Women won by 2 runs",
       "venue": "SSC, Karlsruhe, Karlsruhe",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T08:30:00",
@@ -539,12 +595,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 118,
+          "w": 9,
+          "o": 20,
+          "inning": "Germany Women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 4,
+          "o": 20,
+          "inning": "Switzerland Women Inning 1"
+        }
+      ],
       "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
@@ -984,7 +1054,7 @@
       "id": "c199a6ce-9de0-4d92-a0f3-f8058048027e",
       "name": "Lancashire vs Yorkshire, 94th Match, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Yorkshire need 38 runs in 7 balls",
+      "status": "Lancashire won by 22 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T18:00:00",
@@ -1012,9 +1082,9 @@
           "inning": "lancashire Inning 1"
         },
         {
-          "r": 179,
-          "w": 7,
-          "o": 18.5,
+          "r": 194,
+          "w": 8,
+          "o": 20,
           "inning": "Lancashire,Yorkshire Inning 1"
         }
       ],
@@ -1023,7 +1093,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
