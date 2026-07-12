@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-12T15:02:06.097Z",
+  "lastUpdated": "2026-07-12T20:54:41.109Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
       "name": "Ireland Women vs West Indies Women, 2nd ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "West Indies Women need 179 runs",
+      "status": "West Indies Women won by 6 wkts",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-12",
       "dateTimeGMT": "2026-07-12T09:45:00",
@@ -33,9 +33,9 @@
           "inning": "Ireland Women Inning 1"
         },
         {
-          "r": 63,
-          "w": 1,
-          "o": 12.2,
+          "r": 242,
+          "w": 4,
+          "o": 38.5,
           "inning": "West Indies Women Inning 1"
         }
       ],
@@ -44,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
@@ -90,6 +90,68 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "4d4b2304-05d0-4ddc-b2cb-709239fafd84",
+      "name": "Gibraltar vs Serbia, 14th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Gibraltar opt to bowl",
+      "venue": "Koge Cricket Club, Koge",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T12:30:00",
+      "teams": [
+        "Gibraltar",
+        "Serbia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+        },
+        {
+          "name": "Serbia",
+          "shortname": "SRB",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8bf325b1-024d-40d8-aa56-9ac25d7bda05",
+      "name": "Turkey vs Hungary, 13th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Hungary opt to bat",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T12:30:00",
+      "teams": [
+        "Turkey",
+        "Hungary"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hungary",
+          "shortname": "HUN",
+          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
+        },
+        {
+          "name": "Turkey",
+          "shortname": "TKY",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "c65ee13b-5d2a-45e0-aa92-b2af6d849e02",
@@ -424,186 +486,6 @@
       "matchEnded": true
     },
     {
-      "id": "e50092e1-2869-4a56-9b21-9e56979d4439",
-      "name": "Romania vs Serbia, 4th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "matchType": "t20",
-      "status": "Romania won by 8 wkts",
-      "venue": "Koge Cricket Club, Koge",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T00:00:00",
-      "teams": [
-        "Romania",
-        "Serbia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Romania",
-          "shortname": "ROM",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        },
-        {
-          "name": "Serbia",
-          "shortname": "SRB",
-          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 136,
-          "w": 5,
-          "o": 20,
-          "inning": "Serbia Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 2,
-          "o": 12.3,
-          "inning": "Romania Inning 1"
-        }
-      ],
-      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f72e7c5e-fafe-4a77-910a-2920c83e0aa6",
-      "name": "Norway vs Hungary, 3rd Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "matchType": "t20",
-      "status": "Hungary won by 1 run",
-      "venue": "Svanholm Park, Brondby",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T00:00:00",
-      "teams": [
-        "Norway",
-        "Hungary"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hungary",
-          "shortname": "HUN",
-          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
-        },
-        {
-          "name": "Norway",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 8,
-          "o": 20,
-          "inning": "hungary Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 7,
-          "o": 20,
-          "inning": "Norway,Hungary Inning 1"
-        }
-      ],
-      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5f21046d-dd4f-4c48-b2d9-e38d46f213b3",
-      "name": "Belgium vs Gibraltar, 2nd Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "matchType": "t20",
-      "status": "Belgium won by 7 wkts",
-      "venue": "Koge Cricket Club, Koge",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T00:00:00",
-      "teams": [
-        "Belgium",
-        "Gibraltar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium",
-          "shortname": "BEL",
-          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
-        },
-        {
-          "name": "Gibraltar",
-          "shortname": "GIB",
-          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 139,
-          "w": 8,
-          "o": 20,
-          "inning": "Gibraltar Inning 1"
-        },
-        {
-          "r": 142,
-          "w": 3,
-          "o": 15.4,
-          "inning": "Belgium Inning 1"
-        }
-      ],
-      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fc7cb4be-1674-408b-a957-f102f9d98147",
-      "name": "Denmark vs Estonia, 1st Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "matchType": "t20",
-      "status": "Denmark won by 108 runs",
-      "venue": "Svanholm Park, Brondby",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T00:00:00",
-      "teams": [
-        "Denmark",
-        "Estonia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Estonia",
-          "shortname": "EST",
-          "img": "https://g.cricapi.com/iapi/601-637876983045042040.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
-          "w": 6,
-          "o": 20,
-          "inning": "Denmark Inning 1"
-        },
-        {
-          "r": 72,
-          "w": 8,
-          "o": 20,
-          "inning": "Estonia Inning 1"
-        }
-      ],
-      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "703790f6-9209-448d-8ae9-ebbb2e7a891d",
       "name": "Sri Lanka U19 vs India U19, 3rd unofficial ODI, India U19 tour of Sri Lanka 2026",
       "status": "Sri Lanka U19 won by 1 wkt",
@@ -907,7 +789,7 @@
       "id": "391f555a-f05f-4d6c-8bee-41737c0065d9",
       "name": "Anvita Khammam Aces vs Hyderabad E Champions, Final, TG20 2026",
       "matchType": "t20",
-      "status": "Hyderabad E Champions opt to bowl",
+      "status": "Hyderabad E Champions won by 6 wkts",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "date": "2026-07-12",
       "dateTimeGMT": "2026-07-12T13:45:00",
@@ -927,10 +809,16 @@
       ],
       "score": [
         {
-          "r": 42,
-          "w": 3,
-          "o": 7,
+          "r": 157,
+          "w": 8,
+          "o": 20,
           "inning": "Anvita Khammam Aces Inning 1"
+        },
+        {
+          "r": 159,
+          "w": 4,
+          "o": 17.3,
+          "inning": "Hyderabad E Champions Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
@@ -938,7 +826,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
@@ -1063,6 +951,92 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "341a5b44-16fc-4bac-8948-189779fab63c",
+      "name": "Kalyani Bengaluru Blasters vs Shivamogga Yodhas, Final, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas won by 4 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T13:30:00",
+      "teams": [
+        "Kalyani Bengaluru Blasters",
+        "Shivamogga Yodhas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kalyani Bengaluru Blasters",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 185,
+          "w": 8,
+          "o": 20,
+          "inning": "Shivamogga Yodhas Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 6,
+          "o": 19.4,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "38781127-598d-411c-a7fc-b9823b472e20",
+      "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, Qualifier 2, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas won by 4 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 8,
+          "o": 20,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 6,
+          "o": 18.4,
+          "inning": "Shivamogga Yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
