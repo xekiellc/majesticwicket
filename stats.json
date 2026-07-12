@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-07-12T05:33:38.408Z",
+  "lastUpdated": "2026-07-12T09:40:00.269Z",
   "recentMatches": [
+    {
+      "id": "25504f95-6277-4e54-901d-421192877485",
+      "name": "Ireland Women vs West Indies Women, 2nd ODI, West Indies Women tour of Ireland, 2026",
+      "matchType": "odi",
+      "status": "West Indies Women opt to bowl",
+      "venue": "Bready Cricket Club, Bready, Northern Ireland",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T09:45:00",
+      "teams": [
+        "Ireland Women",
+        "West Indies Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "West Indies Women",
+          "shortname": "WIW",
+          "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
+        }
+      ],
+      "series_id": "af7f493b-31ef-4223-b84e-b2cf9cf774fd",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
       "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
@@ -544,7 +575,7 @@
       "id": "5310500b-809a-4b95-8e3a-3f6b69203fd2",
       "name": "Germany Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bowl",
+      "status": "Germany Women won by 4 runs",
       "venue": "SSC, Karlsruhe, Karlsruhe",
       "date": "2026-07-11",
       "dateTimeGMT": "2026-07-11T13:30:00",
@@ -564,18 +595,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 116,
+          "w": 4,
+          "o": 20,
+          "inning": "Germany Women Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 4,
+          "o": 20,
+          "inning": "Switzerland Women Inning 1"
+        }
+      ],
       "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0976c99d-02fa-4af5-8d24-7e111692f927",
       "name": "Germany Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Germany Women opt to bat",
+      "status": "Germany Women won by 13 runs",
       "venue": "SSC, Karlsruhe, Karlsruhe",
       "date": "2026-07-11",
       "dateTimeGMT": "2026-07-11T08:30:00",
@@ -595,18 +640,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 98,
+          "w": 10,
+          "o": 19.1,
+          "inning": "germany women Inning 1"
+        },
+        {
+          "r": 85,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Germany Women,Switzerland Women Inning 1"
+        }
+      ],
       "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "69f4e401-3988-4413-8e80-72901d00b9a3",
       "name": "Germany Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bat",
+      "status": "Germany Women won by 10 wkts",
       "venue": "SSC, Karlsruhe, Karlsruhe",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T13:30:00",
@@ -626,12 +685,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 106,
+          "w": 7,
+          "o": 20,
+          "inning": "switzerland women Inning 1"
+        },
+        {
+          "r": 107,
+          "w": 0,
+          "o": 12.4,
+          "inning": "Germany Women,Switzerland Women Inning 1"
+        }
+      ],
       "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6be067ae-2aa7-4a17-a41a-08160da6b981",
@@ -1023,50 +1096,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
-      "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Bangladesh won by 7 wkts",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T07:15:00",
-      "teams": [
-        "Zimbabwe",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 10,
-          "o": 48.1,
-          "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 3,
-          "o": 36,
-          "inning": "Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
