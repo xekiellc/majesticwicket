@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T20:55:02.389Z",
+  "lastUpdated": "2026-07-12T05:33:38.408Z",
   "recentMatches": [
     {
       "id": "2bfa72eb-553b-4a4d-a5cc-9f07ed18e170",
@@ -682,7 +682,7 @@
       "id": "c7874c75-e5fd-4d60-a50a-dcafe86732f8",
       "name": "West Indies vs New Zealand, 1st ODI, New Zealand tour of West Indies, 2026",
       "matchType": "odi",
-      "status": "West Indies opt to bowl",
+      "status": "West Indies won by 7 wkts",
       "venue": "Providence Stadium, Guyana",
       "date": "2026-07-11",
       "dateTimeGMT": "2026-07-11T18:30:00",
@@ -704,10 +704,16 @@
       ],
       "score": [
         {
-          "r": 147,
-          "w": 3,
-          "o": 28.3,
+          "r": 267,
+          "w": 10,
+          "o": 49.5,
           "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 268,
+          "w": 3,
+          "o": 48.5,
+          "inning": "West Indies Inning 1"
         }
       ],
       "series_id": "01c9b20e-45cd-4c7b-a311-429f83f171c1",
@@ -715,7 +721,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
