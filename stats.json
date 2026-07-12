@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-12T09:40:00.269Z",
+  "lastUpdated": "2026-07-12T15:02:06.097Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
       "name": "Ireland Women vs West Indies Women, 2nd ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "West Indies Women opt to bowl",
+      "status": "West Indies Women need 179 runs",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-12",
       "dateTimeGMT": "2026-07-12T09:45:00",
@@ -25,11 +25,25 @@
           "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 241,
+          "w": 7,
+          "o": 50,
+          "inning": "Ireland Women Inning 1"
+        },
+        {
+          "r": 63,
+          "w": 1,
+          "o": 12.2,
+          "inning": "West Indies Women Inning 1"
+        }
+      ],
       "series_id": "af7f493b-31ef-4223-b84e-b2cf9cf774fd",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -76,6 +90,68 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "c65ee13b-5d2a-45e0-aa92-b2af6d849e02",
+      "name": "Denmark vs Norway, 11th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Norway opt to bowl",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T08:30:00",
+      "teams": [
+        "Denmark",
+        "Norway"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Norway",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "53fd2b88-436c-4ab2-b0b6-2caa91fc9d16",
+      "name": "Belgium vs Romania, 12th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Romania opt to bowl",
+      "venue": "Koge Cricket Club, Koge",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T08:30:00",
+      "teams": [
+        "Belgium",
+        "Romania"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belgium",
+          "shortname": "BEL",
+          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
+        },
+        {
+          "name": "Romania",
+          "shortname": "ROM",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "3fc7f2f0-4aa1-4a84-9a4a-2211f828ff4a",
@@ -572,6 +648,37 @@
       "matchEnded": true
     },
     {
+      "id": "d3069062-0dfc-436c-8e0c-184dd8b16176",
+      "name": "Germany Women vs Switzerland Women, 5th T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Germany Women opt to bowl",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T08:00:00",
+      "teams": [
+        "Germany Women",
+        "Switzerland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Germany Women",
+          "shortname": "GEMW",
+          "img": "https://g.cricapi.com/iapi/1682-637926300796611117.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "5310500b-809a-4b95-8e3a-3f6b69203fd2",
       "name": "Germany Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
@@ -797,6 +904,43 @@
       "matchEnded": true
     },
     {
+      "id": "391f555a-f05f-4d6c-8bee-41737c0065d9",
+      "name": "Anvita Khammam Aces vs Hyderabad E Champions, Final, TG20 2026",
+      "matchType": "t20",
+      "status": "Hyderabad E Champions opt to bowl",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T13:45:00",
+      "teams": [
+        "Anvita Khammam Aces",
+        "Hyderabad E Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Anvita Khammam Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Hyderabad E Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 42,
+          "w": 3,
+          "o": 7,
+          "inning": "Anvita Khammam Aces Inning 1"
+        }
+      ],
+      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
       "name": "Hyderabad E Champions vs Karimnagar Diamonds, Qualifier 2, TG20 2026",
       "matchType": "t20",
@@ -919,180 +1063,6 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "38781127-598d-411c-a7fc-b9823b472e20",
-      "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, Qualifier 2, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 4 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-10",
-      "dateTimeGMT": "2026-07-10T13:30:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 143,
-          "w": 8,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 144,
-          "w": 6,
-          "o": 18.4,
-          "inning": "Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "18b67eb5-7932-4c75-a09f-bda1c79aaf98",
-      "name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru, Qualifier 1, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Kalyani Bengaluru Blasters won by 12 runs",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T13:30:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 185,
-          "w": 5,
-          "o": 20,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 6,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c57b532d-dc3b-4176-bb39-d30690754cb8",
-      "name": "Shivamogga Yodhas vs Mysore Warriors, Eliminator, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 7 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T09:00:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Mysore Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mysore Warriors",
-          "shortname": "MSW",
-          "img": "https://g.cricapi.com/iapi/1978-637992740164404333.webp?w=48"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 161,
-          "w": 9,
-          "o": 20,
-          "inning": "Mysore Warriors Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 3,
-          "o": 16.1,
-          "inning": "Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5c73e11e-df80-49b2-978c-67467632b263",
-      "name": "Coastal Kings Mangaluru vs Gulbarga Mystics, 30th Match, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Coastal Kings Mangaluru won by 3 runs",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-08",
-      "dateTimeGMT": "2026-07-08T13:30:00",
-      "teams": [
-        "Coastal Kings Mangaluru",
-        "Gulbarga Mystics"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Gulbarga Mystics",
-          "shortname": "GUM",
-          "img": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 169,
-          "w": 9,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 166,
-          "w": 7,
-          "o": 20,
-          "inning": "Gulbarga Mystics Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
