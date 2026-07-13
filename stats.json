@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T10:46:59.784Z",
+  "lastUpdated": "2026-07-13T16:38:11.586Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -90,6 +90,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "a7955739-8462-4364-838d-8ae1dc306828",
+      "name": "Estonia vs Turkey, 16th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Turkey opt to bat",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-13",
+      "dateTimeGMT": "2026-07-13T12:30:00",
+      "teams": [
+        "Estonia",
+        "Turkey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Estonia",
+          "shortname": "EST",
+          "img": "https://g.cricapi.com/iapi/601-637876983045042040.webp?w=48"
+        },
+        {
+          "name": "Turkey",
+          "shortname": "TKY",
+          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "fd06d79e-c3fd-443e-baa1-314ec1ce12f7",
@@ -575,7 +606,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 1: 3rd Session - Sri Lanka U19 opt to bat",
+      "status": "Day 1: Stumps - Sri Lanka U19 opt to bat",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -597,9 +628,9 @@
       ],
       "score": [
         {
-          "r": 274,
+          "r": 344,
           "w": 4,
-          "o": 68,
+          "o": 89,
           "inning": "sri lanka u19 Inning 1"
         }
       ],
@@ -1044,49 +1075,6 @@
           "w": 8,
           "o": 20,
           "inning": "Hyderabad E Champions Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0a82ca9a-df86-45b0-8c04-51c7b742b28d",
-      "name": "Karimnagar Diamonds vs Ranga Reddy Risers, Eliminator, TG20 2026",
-      "matchType": "t20",
-      "status": "Karimnagar Diamonds won by 75 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T08:45:00",
-      "teams": [
-        "Karimnagar Diamonds",
-        "Ranga Reddy Risers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Karimnagar Diamonds",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Ranga Reddy Risers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 238,
-          "w": 7,
-          "o": 20,
-          "inning": "karimnagar diamonds Inning 1"
-        },
-        {
-          "r": 163,
-          "w": 10,
-          "o": 16.3,
-          "inning": "Karimnagar Diamonds,Ranga Reddy Risers Inning 1"
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
