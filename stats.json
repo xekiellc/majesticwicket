@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T05:42:51.387Z",
+  "lastUpdated": "2026-07-13T10:46:59.784Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -90,6 +90,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "fd06d79e-c3fd-443e-baa1-314ec1ce12f7",
+      "name": "Denmark vs Hungary, 15th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Denmark opt to bat",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-13",
+      "dateTimeGMT": "2026-07-13T08:30:00",
+      "teams": [
+        "Denmark",
+        "Hungary"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Hungary",
+          "shortname": "HUN",
+          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "4d4b2304-05d0-4ddc-b2cb-709239fafd84",
@@ -544,7 +575,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 1: 1st Session - Sri Lanka U19 opt to bat",
+      "status": "Day 1: 3rd Session - Sri Lanka U19 opt to bat",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -566,9 +597,9 @@
       ],
       "score": [
         {
-          "r": 47,
-          "w": 2,
-          "o": 11,
+          "r": 274,
+          "w": 4,
+          "o": 68,
           "inning": "sri lanka u19 Inning 1"
         }
       ],
@@ -1059,49 +1090,6 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "341a5b44-16fc-4bac-8948-189779fab63c",
-      "name": "Kalyani Bengaluru Blasters vs Shivamogga Yodhas, Final, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 4 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T13:30:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 185,
-          "w": 8,
-          "o": 20,
-          "inning": "Shivamogga Yodhas Inning 1"
-        },
-        {
-          "r": 186,
-          "w": 6,
-          "o": 19.4,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
