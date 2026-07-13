@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T16:38:11.586Z",
+  "lastUpdated": "2026-07-13T21:00:05.206Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -514,96 +514,6 @@
       "matchEnded": true
     },
     {
-      "id": "8324fe88-583e-40e3-bbc7-fbf742d055ca",
-      "name": "Estonia vs Norway, 6th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "matchType": "t20",
-      "status": "Norway won by 2 wkts",
-      "venue": "Koge Cricket Club, Koge",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T00:00:00",
-      "teams": [
-        "Estonia",
-        "Norway"
-      ],
-      "teamInfo": [
-        {
-          "name": "Estonia",
-          "shortname": "EST",
-          "img": "https://g.cricapi.com/iapi/601-637876983045042040.webp?w=48"
-        },
-        {
-          "name": "Norway",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 105,
-          "w": 9,
-          "o": 20,
-          "inning": "Estonia Inning 1"
-        },
-        {
-          "r": 109,
-          "w": 8,
-          "o": 9.5,
-          "inning": "Norway Inning 1"
-        }
-      ],
-      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3cf2f732-a636-4ddb-9128-23c8633c127a",
-      "name": "Denmark vs Turkey, 5th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "matchType": "t20",
-      "status": "Denmark won by 86 runs",
-      "venue": "Koge Cricket Club, Koge",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T00:00:00",
-      "teams": [
-        "Denmark",
-        "Turkey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Turkey",
-          "shortname": "TKY",
-          "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 201,
-          "w": 4,
-          "o": 20,
-          "inning": "Denmark Inning 1"
-        },
-        {
-          "r": 115,
-          "w": 9,
-          "o": 20,
-          "inning": "Turkey Inning 1"
-        }
-      ],
-      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
       "status": "Day 1: Stumps - Sri Lanka U19 opt to bat",
@@ -640,50 +550,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "703790f6-9209-448d-8ae9-ebbb2e7a891d",
-      "name": "Sri Lanka U19 vs India U19, 3rd unofficial ODI, India U19 tour of Sri Lanka 2026",
-      "status": "Sri Lanka U19 won by 1 wkt",
-      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T00:00:00",
-      "teams": [
-        "Sri Lanka U19",
-        "India U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 290,
-          "w": 8,
-          "o": 50,
-          "inning": "India U19 Inning 1"
-        },
-        {
-          "r": 291,
-          "w": 9,
-          "o": 50,
-          "inning": "Sri Lanka U19 Inning 1"
-        }
-      ],
-      "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     },
     {
       "id": "d3069062-0dfc-436c-8e0c-184dd8b16176",
@@ -1042,42 +908,174 @@
       "matchEnded": true
     },
     {
-      "id": "66d186a7-3844-4351-8dc9-34c60509df3a",
-      "name": "Hyderabad E Champions vs Anvita Khammam Aces, Qualifier 1, TG20 2026",
+      "id": "341a5b44-16fc-4bac-8948-189779fab63c",
+      "name": "Kalyani Bengaluru Blasters vs Shivamogga Yodhas, Final, Maharaja Trophy KSCA T20 2026",
       "matchType": "t20",
-      "status": "Anvita Khammam Aces won by 10 runs",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-09",
-      "dateTimeGMT": "2026-07-09T13:45:00",
+      "status": "Shivamogga Yodhas won by 4 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T13:30:00",
       "teams": [
-        "Hyderabad E Champions",
-        "Anvita Khammam Aces"
+        "Kalyani Bengaluru Blasters",
+        "Shivamogga Yodhas"
       ],
       "teamInfo": [
         {
-          "name": "Anvita Khammam Aces",
+          "name": "Kalyani Bengaluru Blasters",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Hyderabad E Champions",
+          "name": "Shivamogga Yodhas",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 200,
-          "w": 6,
-          "o": 20,
-          "inning": "Anvita Khammam Aces Inning 1"
-        },
-        {
-          "r": 190,
+          "r": 185,
           "w": 8,
           "o": 20,
-          "inning": "Hyderabad E Champions Inning 1"
+          "inning": "Shivamogga Yodhas Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 6,
+          "o": 19.4,
+          "inning": "Kalyani Bengaluru Blasters Inning 1"
         }
       ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "38781127-598d-411c-a7fc-b9823b472e20",
+      "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, Qualifier 2, Maharaja Trophy KSCA T20 2026",
+      "matchType": "t20",
+      "status": "Shivamogga Yodhas won by 4 wkts",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
+      "teams": [
+        "Shivamogga Yodhas",
+        "Coastal Kings Mangaluru"
+      ],
+      "teamInfo": [
+        {
+          "name": "Coastal Kings Mangaluru",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Shivamogga Yodhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 8,
+          "o": 20,
+          "inning": "Coastal Kings Mangaluru Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 6,
+          "o": 18.4,
+          "inning": "Shivamogga Yodhas Inning 1"
+        }
+      ],
+      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
+      "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
+      "status": "Bangladesh won by 7 wkts",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-07-11",
+      "dateTimeGMT": "2026-07-11T07:15:00",
+      "teams": [
+        "Zimbabwe",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 199,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Zimbabwe Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 3,
+          "o": 36,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6cec9352-091b-4a3a-ba6d-2a9048f9fbc2",
+      "name": "Lancashire vs Durham, 100th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Lancashire won by 3 wkts",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T11:00:00",
+      "teams": [
+        "Lancashire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 10,
+          "o": 20,
+          "inning": "durham Inning 1"
+        },
+        {
+          "r": 142,
+          "w": 7,
+          "o": 19.4,
+          "inning": "Lancashire,Durham Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
