@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T04:55:43.666Z",
+  "lastUpdated": "2026-07-14T09:42:45.399Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -92,10 +92,72 @@
       "matchEnded": true
     },
     {
+      "id": "08acd999-b99c-4c2f-a8e1-400f62a39b5b",
+      "name": "Serbia vs Estonia, 7th Place Play-off, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Serbia opt to bat",
+      "venue": "Koge Cricket Club, Koge",
+      "date": "2026-07-14",
+      "dateTimeGMT": "2026-07-14T08:30:00",
+      "teams": [
+        "Serbia",
+        "Estonia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Estonia",
+          "shortname": "EST",
+          "img": "https://g.cricapi.com/iapi/601-637876983045042040.webp?w=48"
+        },
+        {
+          "name": "Serbia",
+          "shortname": "SRB",
+          "img": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "4cbb2900-ca78-416e-af7f-b504cdbff048",
+      "name": "Belgium vs Hungary, 3rd Place Play-off, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Hungary opt to bat",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-14",
+      "dateTimeGMT": "2026-07-14T08:30:00",
+      "teams": [
+        "Belgium",
+        "Hungary"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belgium",
+          "shortname": "BEL",
+          "img": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=48"
+        },
+        {
+          "name": "Hungary",
+          "shortname": "HUN",
+          "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "a7955739-8462-4364-838d-8ae1dc306828",
       "name": "Estonia vs Turkey, 16th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Turkey opt to bat",
+      "status": "Estonia won by 6 wkts",
       "venue": "Svanholm Park, Brondby",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T12:30:00",
@@ -115,18 +177,32 @@
           "img": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 117,
+          "w": 10,
+          "o": 20,
+          "inning": "turkey Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 4,
+          "o": 13.2,
+          "inning": "Estonia,Turkey Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "fd06d79e-c3fd-443e-baa1-314ec1ce12f7",
       "name": "Denmark vs Hungary, 15th Match, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "matchType": "t20",
-      "status": "Denmark opt to bat",
+      "status": "Denmark won by 66 runs",
       "venue": "Svanholm Park, Brondby",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T08:30:00",
@@ -146,12 +222,26 @@
           "img": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 186,
+          "w": 3,
+          "o": 20,
+          "inning": "denmark Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 10,
+          "o": 16.3,
+          "inning": "Denmark,Hungary Inning 1"
+        }
+      ],
       "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4d4b2304-05d0-4ddc-b2cb-709239fafd84",
@@ -516,7 +606,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 2: 1st Session - Sri Lanka U19 opt to bat",
+      "status": "Day 2: 2nd Session - India U19 trail by 363 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -538,10 +628,16 @@
       ],
       "score": [
         {
-          "r": 344,
-          "w": 4,
-          "o": 89,
+          "r": 424,
+          "w": 9,
+          "o": 106.4,
           "inning": "sri lanka u19 Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 0,
+          "o": 15,
+          "inning": "Sri Lanka U19,India U19 Inning 1"
         }
       ],
       "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
@@ -992,93 +1088,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "38781127-598d-411c-a7fc-b9823b472e20",
-      "name": "Shivamogga Yodhas vs Coastal Kings Mangaluru, Qualifier 2, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 4 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-10",
-      "dateTimeGMT": "2026-07-10T13:30:00",
-      "teams": [
-        "Shivamogga Yodhas",
-        "Coastal Kings Mangaluru"
-      ],
-      "teamInfo": [
-        {
-          "name": "Coastal Kings Mangaluru",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 143,
-          "w": 8,
-          "o": 20,
-          "inning": "Coastal Kings Mangaluru Inning 1"
-        },
-        {
-          "r": 144,
-          "w": 6,
-          "o": 18.4,
-          "inning": "Shivamogga Yodhas Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
-      "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Bangladesh won by 7 wkts",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T07:15:00",
-      "teams": [
-        "Zimbabwe",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 10,
-          "o": 48.1,
-          "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 3,
-          "o": 36,
-          "inning": "Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
