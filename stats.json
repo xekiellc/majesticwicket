@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T21:00:05.206Z",
+  "lastUpdated": "2026-07-14T04:55:43.666Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -516,7 +516,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 1: Stumps - Sri Lanka U19 opt to bat",
+      "status": "Day 2: 1st Session - Sri Lanka U19 opt to bat",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -777,6 +777,51 @@
       "matchEnded": true
     },
     {
+      "id": "e68e2a40-ac8d-4a4a-9808-1cacbe9c9e25",
+      "name": "West Indies vs New Zealand, 2nd ODI, New Zealand tour of West Indies, 2026",
+      "matchType": "odi",
+      "status": "New Zealand won by 5 wkts",
+      "venue": "Providence Stadium, Guyana",
+      "date": "2026-07-14",
+      "dateTimeGMT": "2026-07-14T18:30:00",
+      "teams": [
+        "West Indies",
+        "New Zealand"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 10,
+          "o": 36,
+          "inning": "West Indies Inning 1"
+        },
+        {
+          "r": 141,
+          "w": 5,
+          "o": 32.4,
+          "inning": "New Zealand Inning 1"
+        }
+      ],
+      "series_id": "01c9b20e-45cd-4c7b-a311-429f83f171c1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
       "id": "c7874c75-e5fd-4d60-a50a-dcafe86732f8",
       "name": "West Indies vs New Zealand, 1st ODI, New Zealand tour of West Indies, 2026",
       "matchType": "odi",
@@ -1034,51 +1079,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6cec9352-091b-4a3a-ba6d-2a9048f9fbc2",
-      "name": "Lancashire vs Durham, 100th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Lancashire won by 3 wkts",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T11:00:00",
-      "teams": [
-        "Lancashire",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 141,
-          "w": 10,
-          "o": 20,
-          "inning": "durham Inning 1"
-        },
-        {
-          "r": 142,
-          "w": 7,
-          "o": 19.4,
-          "inning": "Lancashire,Durham Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
