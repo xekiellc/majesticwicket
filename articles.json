@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-14T15:26:36.611Z",
+  "lastUpdated": "2026-07-14T21:03:15.504Z",
   "articles": [
     {
-      "title": "India's quicks and Axar restrict England to 258",
+      "title": "Axar, Gill deliver India's first win of UK tour",
       "url": "https://www.cricinfo.com/ci/content/story/1545604.html?ex_cid=OTC-RSS",
       "description": "Half-centurions Root and Dawson revived England after a collapse after Brook opted to bat",
-      "publishedAt": "2026-07-14T15:22:31.000Z",
+      "publishedAt": "2026-07-14T18:39:03.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -26,6 +26,16 @@
       "url": "https://www.cricinfo.com/ci/content/story/1545565.html?ex_cid=OTC-RSS",
       "description": "The major change for England comes at the top of the order with Jacob Bethell opening for the first time",
       "publishedAt": "2026-07-14T10:19:06.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Women's cricket shortchanged again as men's Test binfire sucks up the oxygen",
+      "url": "https://www.cricinfo.com/ci/content/story/1545483.html?ex_cid=OTC-RSS",
+      "description": "ECB complicit in fanning flames as momentous month for English game is repeatedly overshadowed",
+      "publishedAt": "2026-07-14T17:06:35.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -82,22 +92,72 @@
       "urlToImage": null
     },
     {
-      "title": "Women's cricket shortchanged again as men's Test binfire sucks up the oxygen",
-      "url": "https://www.cricinfo.com/ci/content/story/1545483.html?ex_cid=OTC-RSS",
-      "description": "ECB complicit in fanning flames as momentous month for English game is repeatedly overshadowed",
-      "publishedAt": "2026-07-13T20:52:42.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Kohli, Rohit and Bumrah arrive to help India face England",
       "url": "https://www.cricinfo.com/ci/content/story/1545455.html?ex_cid=OTC-RSS",
       "description": "England will welcome Root back at one of their fortresses, Edgbaston",
       "publishedAt": "2026-07-13T19:56:16.000Z",
       "source": {
         "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "ENG vs IND 2026: England vs India Highlights & Review – 1st ODI",
+      "url": "https://www.crictracker.com/cricket-news/eng-vs-ind-2026-england-vs-india-highlights-review-1st-odi/",
+      "description": "India won the first ODI by six wickets with 28 balls to spare.",
+      "publishedAt": "2026-07-14T16:56:42.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "ENG vs IND 2026: England vs India, 1st ODI - Who Said What?",
+      "url": "https://www.crictracker.com/cricket-news/eng-vs-ind-2026-england-vs-india-1st-odi-who-said-what-3692/",
+      "description": "The visitors won the match by six wickets to go 1-0 up in the series.",
+      "publishedAt": "2026-07-14T18:00:18.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Shubman Gill retires hurt after scoring fluent 80 in first ODI against England",
+      "url": "https://www.crictracker.com/cricket-news/shubman-gill-retires-hurt-after-scoring-fluent-80-in-first-odi-against-england-3917/",
+      "description": "Gill looked in complete control at the crease and played a captain's knock after India lost both Rohit Sharma and Virat Kohli early.",
+      "publishedAt": "2026-07-14T17:10:13.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "[WATCH] Jofra Archer traps Virat Kohli LBW in landmark 300th ODI innings as India suffer early setback",
+      "url": "https://www.crictracker.com/cricket-news/watch-jofra-archer-traps-virat-kohli-lbw-in-landmark-300th-odi-innings-as-india-suffer-early-setback-3198/",
+      "description": "Making his first ODI appearance since January 2026, Kohli lasted only six deliveries before England speedster Jofra Archer produced a peach.",
+      "publishedAt": "2026-07-14T16:49:44.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'Incredible consistency with the bat, brilliant as a captain' - Irfan Pathan lauds Shubman Gill for Edgbaston heroics",
+      "url": "https://www.crictracker.com/cricket-news/incredible-consistency-with-the-bat-brilliant-as-a-captain-irfan-pathan-lauds-shubman-gill-for-edgbaston-heroics/",
+      "description": "Shubman Gill had a wonderful outing, not just with the bat but also as a captain, in the first ODI between India and England on Tuesday, July 14, at Edgbaston, Birmingham.",
+      "publishedAt": "2026-07-14T16:33:32.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "‘Maybe there's a conflict’ - Dinesh Karthik hints at 'friction' between Gautam Gambhir and Ajit Agarkar after India's T20I struggles",
+      "url": "https://www.crictracker.com/cricket-news/maybe-theres-a-conflict-dinesh-karthik-hints-at-friction-between-gautam-gambhir-and-ajit-agarkar-after-indias-t20i-struggles-4340/",
+      "description": "India endured a forgettable tour under stand-in captain Shreyas Iyer, suffering a 2-0 series defeat against Ireland before being outplayed 4-0 by England in the five-match T20I series.",
+      "publishedAt": "2026-07-14T15:29:38.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -142,110 +202,70 @@
       "urlToImage": null
     },
     {
-      "title": "[Watch] MS Dhoni shares a light moment with young fan at Edgbaston during India's ODI opener",
-      "url": "https://www.crictracker.com/cricket-news/watch-ms-dhoni-shares-a-light-moment-with-young-fan-at-edgbaston-during-indias-odi-opener/",
-      "description": "Former India captain MS Dhoni was spotted watching the first ODI between India and England at Edgbaston, sitting beside a young fan. Cameras captured the two sharing snacks during the match.",
-      "publishedAt": "2026-07-14T13:47:25.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "[Watch] KL Rahul pulls off sensational one-handed catch to dismiss Will Jacks in 1st ODI vs England",
-      "url": "https://www.crictracker.com/social-tracker-cricket/watch-kl-rahul-pulls-off-sensational-one-handed-catch-to-dismiss-will-jacks-in-1st-odi-vs-england-2968/",
-      "description": "Rahul showcases exceptional athleticism to spark India's response at the opening ODI.",
-      "publishedAt": "2026-07-14T13:25:54.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Wanted to give my all this summer' - Heather Knight speaks after announcing international retirement",
-      "url": "https://www.crictracker.com/cricket-news/wanted-to-give-my-all-this-summer-heather-knight-speaks-after-announcing-international-retirement/",
-      "description": "In 2020, Knight made history by becoming the first English cricketer, male or female, to score centuries in all formats of the game.",
-      "publishedAt": "2026-07-14T12:27:25.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Brydon Carse added to England squad amid ODI series vs India",
-      "url": "https://www.crictracker.com/cricket-news/brydon-carse-added-to-england-squad-amid-odi-series-vs-india/",
-      "description": "England have received a major boost with talented fast bowler Brydon Carse being added to the squad for the ODI series against India.",
-      "publishedAt": "2026-07-14T13:14:53.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "ZIM vs BAN 2026 T20Is, SWOT analysis of Bangladesh: strengths, weaknesses, opportunities, and threats",
-      "url": "https://www.crictracker.com/cricket-analysis/zim-vs-ban-2026-t20is-swot-analysis-of-bangladesh-strengths-weaknesses-opportunities-and-threats/",
-      "description": "Bangladesh head to Bulawayo for a three-match T20I series against Zimbabwe with a reshaped squad, a new leader, and a point to prove after a disappointing ODI campaign on this tour.",
-      "publishedAt": "2026-07-14T13:09:26.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "[WATCH] Rohit Sharma playfully kicks Dinesh Karthik ahead of first ODI against England",
-      "url": "https://www.crictracker.com/social-tracker-cricket/watch-rohit-sharma-playfully-kicks-dinesh-karthik-ahead-of-first-odi-against-england/",
-      "description": "Senior trio return to ODI cricket with relaxed vibes before opening match against England.",
-      "publishedAt": "2026-07-14T12:54:51.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "India vs England 1st ODI | Ro-Ko and Bumrah back as hosts opt to bat first - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGtTYXFtUUxFckFoaF9uRnY4QjZZNXI3eHlFcHZFNGVnekx6OWhPUGliTXlvQWNsVjEtVEt5ZklIeGliNzQzSVVRY3lOMFhlY1doUXB6UFRZRVpHXzBRZmcwREI5emJpY2UzUmZDeXpCOWphbHl1YTNFWVBnT2Z3TGozdm12eFFSb2tUVUotMnFOWU9XbHZfb0sweE5HRXZUXy1IRF9XSGdYRUxhN19EX0RBaUtGa1BQZk43MWZfcXRzblZKU3VnOEpPWlBzTDg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGtTYXFtUUxFckFoaF9uRnY4QjZZNXI3eHlFcHZFNGVnekx6OWhPUGliTXlvQWNsVjEtVEt5ZklIeGliNzQzSVVRY3lOMFhlY1doUXB6UFRZRVpHXzBRZmcwREI5emJpY2UzUmZDeXpCOWphbHl1YTNFWVBnT2Z3TGozdm12eFFSb2tUVUotMnFOWU9XbHZfb0sweE5HRXZUXy1IRF9XSGdYRUxhN19EX0RBaUtGa1BQZk",
-      "publishedAt": "2026-07-14T09:35:54.000Z",
+      "title": "How to watch IND vs ENG ODI 2026 live: Start time, TV channels and streaming details as Virat Kohli, Rohit Sharma return - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GQjh1dGdpbmNzRzhHTVB5SXFOSUtmUGtCbWxyRWVUU0dLRlhNLWVHMVdDdTZXcnZuUEhxTi00MENHQXRFbjJXNF83M0pRMEhQQ2U4ZGZQcnBBWW9LWWZuM0Ywb2tiV1pUdER1RjcyaXpzUE5idjZmaA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9GQjh1dGdpbmNzRzhHTVB5SXFOSUtmUGtCbWxyRWVUU0dLRlhNLWVHMVdDdTZXcnZuUEhxTi00MENHQXRFbjJXNF83M0pRMEhQQ2U4ZGZQcnBBWW9LWWZuM0Ywb2tiV1pUdER1RjcyaXpzUE5idjZmaA?oc=5\" target=\"_blank\">How to watch IND vs ENG ODI 2026 live: Start time, TV channels an",
+      "publishedAt": "2026-07-14T07:19:33.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "'His legacy will outlive his career': Brendon McCullum drops ultimate praise for Virat Kohli's 300th ODI at Edgebaston - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWhUUEVrU19ManBXUEdZZWdMMzV3YnFibHpMZXl3RUtUZmp2YXlfbW0yeFl0Yk50ZV9oLUNrNDN6ZVBGeHBDaXJuanhfdGdkMEJUTXRBNXpsaDdNNXZUMEdnRmd3M09BRm9BSjR6M1BIUk9iODhScUVlTkZkUzhiZXV5bmwxOUxxTkpBQUFfek0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWhUUEVrU19ManBXUEdZZWdMMzV3YnFibHpMZXl3RUtUZmp2YXlfbW0yeFl0Yk50ZV9oLUNrNDN6ZVBGeHBDaXJuanhfdGdkMEJUTXRBNXpsaDdNNXZUMEdnRmd3M09BRm9BSjR6M1BIUk9iODhScUVlTkZkUzhiZXV5bmwxOUxxTkpBQUFfek0?oc=5\" target=\"_blank\">'His legacy will outlive his car",
-      "publishedAt": "2026-07-14T06:27:00.000Z",
+      "title": "India vs England 1st ODI Highlights: Axar Patel, Washington Sundar guide India to six-wicket victory in first ODI - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNZVdNNjRiY2gwd3FqWG1CZmI1amstbW5JazFrYXA0akc1ODdYemlTMHN2a2N4elNaU3R1MmNQMTdmTUc4eEtZUGxEaDlpNTNEcEtpM2w1YlNmOEVYRDF6T3NacUwxODhrUHIyQk9SNlhjdkR1Q2xUczJkbmhadkF4ZTlmSm5XVTdHcEd0czRxSGRfV2stVE5Cd09qb2xjVlljVEVXdktPbExuVXZQRV9XcmFHRWgtWHhBZjV2emxYQXNpQlNKSVBhUjVLYVp2Z1N5NXNnTlNmdHZnaFdGa2RlcGZDSTV5Qm1RcnkxZmZkcWpnaElKQUQ2THA2VUs5UW4xZHoxaElCOGRvSlk5Y1h2LVVGbXJqTDE4cTZMdFpjWHpkUWZJLWV2UDRLNU9zTkJWNC1aRmNhUFFpaG53SEtQVnRLaFhhZHlKNXZ2cHNxYTBaSEt0Wm5YRElBakh4MGNwS094Y3h3LXdGSkRSYUpLRmUzbGxsUdIB-wJBVV95cUxPX3R0dWVpR01IQjMwekE3eFpWTjVqU29oUDdUM3VkMmQyRFFRODU1cVhwRUtfNHNDTDBTdU5leTU1ZnpHX3EwVGF2aUdlT0MwMWIwSjE3YnB6SVN3SEgwVDVfbDhqcXExNnpKdmEtVEdBaHpmN2VNcEFVRWRCVWwzcGFTbU8xbmR5dzFKYkx5UkI4NUNZdFExa2FHd2tEcXdZX052N3g3N01aZXJ0X050RFloQnZuY2J3UEJlOWFJTWFWRkZCTFVPUHVVSk1XTEpNMkNZM0x0N1M2LU15SG9GcUFWNEtqVGZhVE1CRU5IVjdPRHlHVW5WbjZyVTRyUC10b3ZHSDdxcHpCMDI0djJiT0lWc1NaMHk1dmR0dE5IT3FmSGFFUmxXYnVmVlBWVWpsbVAtUElfZVBOQmRYNG9vdWNGcFM1THVVeXpaRFJ6ZTl0b1Zvenp2YU5ZUmhja2xmTFdsNzNYTFh2OXRDSEdsODdzNkRLY05RMTY0?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxNZVdNNjRiY2gwd3FqWG1CZmI1amstbW5JazFrYXA0akc1ODdYemlTMHN2a2N4elNaU3R1MmNQMTdmTUc4eEtZUGxEaDlpNTNEcEtpM2w1YlNmOEVYRDF6T3NacUwxODhrUHIyQk9SNlhjdkR1Q2xUczJkbmhadkF4ZTlmSm5XVTdHcEd0czRxSGRfV2stVE5Cd09qb2xjVlljVEVXdktPbExuVXZQRV9XcmFHRWgtWHhBZj",
+      "publishedAt": "2026-07-14T18:06:51.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli and Rohit Sharma ODI record in England: India legends' incredible stats on English soil listed - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1Y5SENFbG5nM3BGN1Bkd1g5XzFqS0wyaGE5aWpWMVZ1aG1OTktUUEJUUTFBa1poVTQzM2Fpa080YTQ2UG1wMF9oWjNCOExUSnU5U0ZZZUhrRzRqaFhMaWkxWEM2N0g3NDdDNFhfTVU1eURBbmt0ZnhZbXp4bmhKTHMtNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1Y5SENFbG5nM3BGN1Bkd1g5XzFqS0wyaGE5aWpWMVZ1aG1OTktUUEJUUTFBa1poVTQzM2Fpa080YTQ2UG1wMF9oWjNCOExUSnU5U0ZZZUhrRzRqaFhMaWkxWEM2N0g3NDdDNFhfTVU1eURBbmt0ZnhZbXp4bmhKTHMtNA?oc=5\" target=\"_blank\">Virat Kohli and Rohit Sharma ODI record in Englan",
-      "publishedAt": "2026-07-13T16:22:30.000Z",
+      "title": "India Formulates 'Rotation Policy' For ODI World Cup. Convincing Rohit, Kohli A Problem: Report - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWGx2Z2d4STFTTDZELXVzUG5GT3NZWkplSFRta09OY2JKaDB0d1V4aXhSb1RZNkFkbFE2Q0k5TmNWN0FKSGh1SzRJbGs0Q3FBbXdFTDZlRXZTT1EyaVl2N1BuaTUxX1NtU0dkREgxYUhZSkFfZjdPa1dTdGtDcnFSbng4dEZBNVZVQ2E0SmlWNFhCRjBmakdBNlJpV1A0dmF2VFdkZXZ5blR0OUxteGJDWnRFdnNkTWtGT2VtLU5kRG9ITW8xQldsbE0tVkZvTFVCUE9sVVMteU4tbG1nWjJlVTNKbVI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWGx2Z2d4STFTTDZELXVzUG5GT3NZWkplSFRta09OY2JKaDB0d1V4aXhSb1RZNkFkbFE2Q0k5TmNWN0FKSGh1SzRJbGs0Q3FBbXdFTDZlRXZTT1EyaVl2N1BuaTUxX1NtU0dkREgxYUhZSkFfZjdPa1dTdGtDcnFSbng4dEZBNVZVQ2E0SmlWNFhCRjBmakdBNlJpV1A0dmF2VFdkZXZ5blR0OUxteGJDWnRFdnNkTWtGT2",
+      "publishedAt": "2026-07-14T08:44:41.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli, Jasprit Bumrah returns as England opt to bat first in 1st ODI at Birmingham - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdkRMT2drOXcyVGhDUW9qUlBQektKYXVJaWN0OFc4TUFsWTFKYnJLRjNKSFhqVHBBZldSZ3lrMjR6RmdCZUxaaGVyc3VELWlCRTM1cFJLMGwxd3FLeE43dzZ4Q1V3al9paGI1WTBpN0FoZjJheHFiYzJXd2hwSHR3UVdieWNDMzB1dnJOVmhINzJYNEJydG1qMDZ5ejYxX0UteGZQZHl5a3JiWDVrRzRzOHhoNDM3MVBwWGxzMkpmOGhfa2hrSDNBaTJjdE9XaEhhdmVKV0RFcTdqRXFLLUhiWnFYeEJQNjVEbHpwOWNabTVfY2ZzcHV0YVdvRjZXSlJ1UDBBZWJoS1Jhdmk2bnd1YmhzdWXSAZoCQVVfeXFMTnVCTndXMXpxNWRYTTYyQTdkYS1qWk01ZE1wYlEyYzIwT1U0WjNiNm9XMVI1bk5iY3Nwa3FkU2QxTV9HdzBHZXpwRHlKVURBNGktT280aWhBd0d6eWJYRkZUSnFEdWloSVNiUzlTZTh3VzRhSGZUMGRZbFNXeGdWb3V4amhPTi1ZRElBck93YUxFT0hwOEk5QjJ4Ti1wVTFsWnU0Z09lYmtOQXVSbHBOaDRpWVZFY2Z0ZHZ3UmY5XzNHSnVCMHJkRm1ac29fQnRROHdaNXJOdVliMkFtLVZLZkMwb2JyRlBXem9GbndLeFZ0UzU4TmMyZS1HNmVZTGRGZU5CbnlKcjFJeWZ0ZGRBUEMzRHN0dXN3eGRn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNdkRMT2drOXcyVGhDUW9qUlBQektKYXVJaWN0OFc4TUFsWTFKYnJLRjNKSFhqVHBBZldSZ3lrMjR6RmdCZUxaaGVyc3VELWlCRTM1cFJLMGwxd3FLeE43dzZ4Q1V3al9paGI1WTBpN0FoZjJheHFiYzJXd2hwSHR3UVdieWNDMzB1dnJOVmhINzJYNEJydG1qMDZ5ejYxX0UteGZQZHl5a3JiWDVrRzRzOHhoNDM3MVBwWG",
-      "publishedAt": "2026-07-14T09:55:00.000Z",
+      "title": "England vs India: Jofra Archer dismisses Virat Kohli; India down two wickets - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdzd1ZjRGYXVxSFFDM2dONTdaMEtHNGdTSDE0SFZWd3NXb00wTUFFbVREaXlHbHBEMnB6YTFBR2F2dkVHOXNJQzFTUzBGM2RnMXQ3alRtdkF4djBnZVdBVDNKY0JNQTdJdVpGcGlvQXNrb0ZMQTNZTTJTc3Nua2VIWTc1eWZ2MEFCMGJnTmMyZTRnc19YUEVWOE5WMTZqWnJBRkV0RHlZZFRISk4tVnM2dE41ZFJUcHhpTWdGMW5DWDNqVndJZ0ZVVGhuQy1BSlpyMzlR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdzd1ZjRGYXVxSFFDM2dONTdaMEtHNGdTSDE0SFZWd3NXb00wTUFFbVREaXlHbHBEMnB6YTFBR2F2dkVHOXNJQzFTUzBGM2RnMXQ3alRtdkF4djBnZVdBVDNKY0JNQTdJdVpGcGlvQXNrb0ZMQTNZTTJTc3Nua2VIWTc1eWZ2MEFCMGJnTmMyZTRnc19YUEVWOE5WMTZqWnJBRkV0RHlZZFRISk4tVnM2dE41ZFJUcHhpTW",
+      "publishedAt": "2026-07-14T15:13:35.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "'Same brand of T20 cricket as Virat Kohli': Cricket world reacts as Jos Buttler's century leaves India shell-shocked - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGg3YklHanJ6U185Z2lEanZYVUVkWjJPZjVsdkRsZk4tYXlvNVQweVEtZ0tKU2lsMHNvd3hmV0ROLXhobGZyS0E3QnpYZjBObGRmRUxWMzlyTUY4Um41QW13djJkdUhQUzdwM0JWd3NKTWJYSmpPZGFFSVdmcXlnQUdWNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGg3YklHanJ6U185Z2lEanZYVUVkWjJPZjVsdkRsZk4tYXlvNVQweVEtZ0tKU2lsMHNvd3hmV0ROLXhobGZyS0E3QnpYZjBObGRmRUxWMzlyTUY4Um41QW13djJkdUhQUzdwM0JWd3NKTWJYSmpPZGFFSVdmcXlnQUdWNA?oc=5\" target=\"_blank\">'Same brand of T20 cricket as Virat Kohli': Crick",
-      "publishedAt": "2026-07-11T16:37:39.000Z",
+      "title": "Bazball star breaks silence on ‘awesome’ McCullum as Kohli shows support after sacking - Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQTGo3RFR6UDJxclluU2tXQmF1enRiZFF0YTE0MFA5NGU1N0ZodTVsZlZ6YWVvdm5Jd0RPVVU5TkNnZlVjNDBVTDM3eFFUNkxfN1ZXbUxmVV9ya1pQU3E5Y2l4dFRjbGJaLU44dGYxa1pBNTZVU3EyYnA3OGp3eU50NUtRRW1EQ3VFbHNMbEV1LUszMEN2V0JoZ2NzTUZlS0o3bXJEWUN5Z0RDQ1lrUFpoQlB4X2ozenRZWDBvU3ZsanpJeG8yVk1HMzlXOVZPOHAxMmZiZ0pvX1d6R1F3c3B4Ti1Id0JQbHFheUtkQ19fQk50OThCQkVhZENBWGhjSklpMkQwRVVlVTE3SlBJbk5yMl82YjcwSzhMaElmcTJjcFhGNm5pLTdUaFlQUnlRSENUbE5iVDd6OXp0eEE5VXlJMFlMSGNWYml6d0hnT3FzRDlEOUhUZ0tFYkxQQ1NxT1doSFHSAeICQVVfeXFMUExqN0RUelAycXJZblNrV0JhdXp0YmRRdGExNDBQOTRlNTdGaHU1bGZWemFlb3ZuSXdET1VVOU5DZ2ZVYzQwVUwzN3hRVDZMXzdWV21MZlVfcmtaUFNxOWNpeHRUY2xiWi1OOHRmMWtaQTU2VVNxMmJwNzhqd3lOdDVLUUVtREN1RWxzTGxFdS1LMzBDdldCaGdjc01GZUtKN21yRFlDeWdEQ0NZa1BaaEJQeF9qM3p0WVgwb1N2bGp6SXhvMlZNRzM5VzlWTzhwMTJmYmdKb19XekdRd3NweE4tSHdCUGxxYXlLZENfX0JOdDk4QkJFYWRDQVhoY0pJaTJEMEVVZVUxN0pQSW5OcjJfNmI3MEs4TGhJZnEyY3BYRjZuaS03VGhZUFJ5UUhDVGxOYlQ3ejl6dHhBOVV5STBZTEhjVmJpendIZ09xc0Q5RDlIVGdLRWJMUENTcU9XaEhR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gJBVV95cUxQTGo3RFR6UDJxclluU2tXQmF1enRiZFF0YTE0MFA5NGU1N0ZodTVsZlZ6YWVvdm5Jd0RPVVU5TkNnZlVjNDBVTDM3eFFUNkxfN1ZXbUxmVV9ya1pQU3E5Y2l4dFRjbGJaLU44dGYxa1pBNTZVU3EyYnA3OGp3eU50NUtRRW1EQ3VFbHNMbEV1LUszMEN2V0JoZ2NzTUZlS0o3bXJEWUN5Z0RDQ1lrUFpoQlB4X2ozenRZWD",
+      "publishedAt": "2026-07-14T20:17:22.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "After T20 humiliation, can Kohli-Rohit revive India in England ODIs? - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzFnMTA2T3djdkVjNG53dnZ2YnJPQWYzTmVpdlhXNkNsOGM1T3c0TXo2N0luSGRsZUFLVndtdFRjaHAzWVdSOTN6b1M0OFN4QkVNSXVDR3lsd3RVbmdrTWFSU2d0azdZeDBUSmY2WTI2Zm4yVEZtQTNEeDNXQ0s5NHZmOGl2amVHYXh5WnJzZE1VakJFcFhuMXJrNF9Sa3lKUVBNcktKcVFjTFgtblBjSEY2Y3ZUWkpE0gG7AUFVX3lxTE9pU2ZyNUc5VDNyMWwxNDEzVmZpTk5BT3lJSEdIa2tfX3RKLXdTMGFmbDRlWHVLcTM2UkZPN1hCdTd6TUhhRk1EeUhoNXVrRzRsUGs1cjk4djdWeXh5WEk0WnVpLTQ4dHBjNGkyNS04Ylo1S2kyUnMxeldFLTRlYWl3RE15clBRcE5haVFWU3ZXNzZWUnlvSkE5cWxlckpLekdtRkxRZm9NMDF5ODZ4c1NzeDlxQ011bk1uRHM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzFnMTA2T3djdkVjNG53dnZ2YnJPQWYzTmVpdlhXNkNsOGM1T3c0TXo2N0luSGRsZUFLVndtdFRjaHAzWVdSOTN6b1M0OFN4QkVNSXVDR3lsd3RVbmdrTWFSU2d0azdZeDBUSmY2WTI2Zm4yVEZtQTNEeDNXQ0s5NHZmOGl2amVHYXh5WnJzZE1VakJFcFhuMXJrNF9Sa3lKUVBNcktKcVFjTFgtblBjSEY2Y3ZUWkpE0g",
+      "publishedAt": "2026-07-13T08:40:01.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "IND vs ENG: With eyes on 2027 WC, Virat Kohli returns to a place that nearly broke him - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaG9oNTR3M3JZOENZREVYcXp1R0tXcC1uTGJvbmJRM3FiM1hZQ3FjRVBPdXpTQzI2azRMaUdZdW1aV19PQnJXSlFiMzA1eklLZE1ncDJmclV0RUwxZWJtOWlNNHl3ZEpBVmJqYmg3MXo0aUxjQmlOREZoRWJxRkM1TVlCLUpEQWp6Si1KR1BsRy1laEY2Sk0wX2VyQWF5cjJoanNtMEg1Z2o1TkpOTjgwUmdOOUQwTEw5ZTIweDJFQ1psSkJOSDh6UEkyVGxBVUlNSG1pVmVGSzRZYVc1N0c5VERmTEpSR3ZmcXJzNWJVSdIB9AFBVV95cUxPOWJBcmxNa0xtQ2hQQUtFR19yMmpSUm1QSktzM1lDRzg4aGg2YzNGQTZVQXBwV0o3TkhnOEp6NnliU3hKd0EwVV9uNXpLa2Nfel9XMVJzTFg0ellaQW5xVmhleUpCX2xIYUV0clNrajdoY1NYMDN2T3BYZktpYkllZTdZeUp1VUVzOXNrUUQta3F6YVdrd1pSYW5RcTkzakZ5QmVPbXhaemUxOEEwdTRoTkdHWmJZYkNNUE9VcXR5dEl2NWcwRnl4Wjk1TW03U1AzSFV2blozQ001SFBoUkJnS3FrZHRnUTRRR3M4c0JVNVhrdWt3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaG9oNTR3M3JZOENZREVYcXp1R0tXcC1uTGJvbmJRM3FiM1hZQ3FjRVBPdXpTQzI2azRMaUdZdW1aV19PQnJXSlFiMzA1eklLZE1ncDJmclV0RUwxZWJtOWlNNHl3ZEpBVmJqYmg3MXo0aUxjQmlOREZoRWJxRkM1TVlCLUpEQWp6Si1KR1BsRy1laEY2Sk0wX2VyQWF5cjJoanNtMEg1Z2o1TkpOTjgwUmdOOUQwTEw5ZT",
+      "publishedAt": "2026-07-14T07:46:14.000Z",
       "source": {
         "name": "Google News"
       },
@@ -262,60 +282,90 @@
       "urlToImage": null
     },
     {
-      "title": "'Absolutely no doubt': Shubman Gill gives final verdict on whether Virat Kohli will play 2027 ODI World Cup - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2gzYWRiSEVCYVh3ODJRdFZlZkJzYkNTSlBhb2lJdkh3dFdNakI4dE1sWXg2WHNLcnVGZFp5Wm9FYm9EOS1lb0JVdDZ0Y2p3aXpnWWRQZ3ZydDJ5SGJ4RmNuTC1ISnREc1h2VWNxLV9xQVVBYjZ3c0ctZkhMRU5IMzFnU05vQzRS?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2gzYWRiSEVCYVh3ODJRdFZlZkJzYkNTSlBhb2lJdkh3dFdNakI4dE1sWXg2WHNLcnVGZFp5Wm9FYm9EOS1lb0JVdDZ0Y2p3aXpnWWRQZ3ZydDJ5SGJ4RmNuTC1ISnREc1h2VWNxLV9xQVVBYjZ3c0ctZkhMRU5IMzFnU05vQzRS?oc=5\" target=\"_blank\">'Absolutely no doubt': Shubman Gill gives f",
-      "publishedAt": "2026-07-13T14:07:37.000Z",
+      "title": "Virat Kohli score today: How much did India star score against England in 1st ODI at Edgbaston - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlQ5UHdaMXk2b2twX3MxNWFXZ0dHOFhqTW1JSk1hN3ItakNfcjFoVThqWUlhbHJ5cW5kWWE4Z05sR3FFZ1UyMEZmaEFIQjBEbFRibjc5NHNnSlBraDhuSWM5VXZYWWlNRFc1cWE1Tm9PY0hWVWI0dFc1OFVRX2lySmxFdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlQ5UHdaMXk2b2twX3MxNWFXZ0dHOFhqTW1JSk1hN3ItakNfcjFoVThqWUlhbHJ5cW5kWWE4Z05sR3FFZ1UyMEZmaEFIQjBEbFRibjc5NHNnSlBraDhuSWM5VXZYWWlNRFc1cWE1Tm9PY0hWVWI0dFc1OFVRX2lySmxFdw?oc=5\" target=\"_blank\">Virat Kohli score today: How much did India star ",
+      "publishedAt": "2026-07-14T15:33:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "India vs England 1st ODI 2026 lineups with return of Virat Kohli, Rohit Sharma and Shuban Gill - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBERW9VUkROYzFSUlU1eDhVZXQzbE1XcE5JQUo3Vzk5MjVGLXhYSEpQVXluM0c1YkxVeFJZeW1JdDByTF9pZGdqNTJzT0l1RGp2N21IMFpMMGszUDM5YUlha1hqMldzZXY4akdRZDdnTUhraFZVTjJpdnZYYlNsUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBERW9VUkROYzFSUlU1eDhVZXQzbE1XcE5JQUo3Vzk5MjVGLXhYSEpQVXluM0c1YkxVeFJZeW1JdDByTF9pZGdqNTJzT0l1RGp2N21IMFpMMGszUDM5YUlha1hqMldzZXY4akdRZDdnTUhraFZVTjJpdnZYYlNsUQ?oc=5\" target=\"_blank\">India vs England 1st ODI 2026 lineups with return of Vira",
-      "publishedAt": "2026-07-13T12:26:10.000Z",
+      "title": "Virat Kohli falls for 5 on return to international cricket after six months - Yardbarker",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORTd1bEhFRTBlVGVaSVJFbVMyUmQ4dGtid1Z4TzdrVUI4aU0zM1RReTJON1lZZzBwMVhweEVEZmNzTm1IbmZPb3dDbHB5UjZ0QkZLVFFhUHRjN182bWxLUmRZNVRlQU5IaDNpTHI0N1J2ZVRiVmgwMmtCRUp4MDNZTEhsSVhaZEdPTE1Tb213YXR4aWx3Tm9wd0RzNnZyZHhFSlhVSjM1N3JjREppejZYZmFfVVRraVM5ZnNVS0NleUI5Tjg3S3lEUVQyajVWakRIaW9r?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxORTd1bEhFRTBlVGVaSVJFbVMyUmQ4dGtid1Z4TzdrVUI4aU0zM1RReTJON1lZZzBwMVhweEVEZmNzTm1IbmZPb3dDbHB5UjZ0QkZLVFFhUHRjN182bWxLUmRZNVRlQU5IaDNpTHI0N1J2ZVRiVmgwMmtCRUp4MDNZTEhsSVhaZEdPTE1Tb213YXR4aWx3Tm9wd0RzNnZyZHhFSlhVSjM1N3JjREppejZYZmFfVVRraVM5Zn",
+      "publishedAt": "2026-07-14T15:17:41.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli, Rohit Sharma In Race To Shatter All-Time Record In England ODIs - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONTlfbUF4NERJaTkxbzhNNDhtbDQ1N3M4TmJLaTJJR3l1YkhHU0JwLUdoLUlVZ0xGUnVSWDh5RWJHMHFBSmQ2M2pSU3ZXTFhQNmlwYjVGX2lZVXdJTWNSX2VlMnM5QllMV0VGV0Z3T1N2c3dkQWZscU9WcDZXX0ZGZ1F6cFktWi14NE1vd2xmRTlveHFSdnROVlJWRmhDM0duNGZjemhQeWFRV1dSM1VzdmNFSzFnZDVxVER1YWtLZ0lpbF9lZjBoWFRB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONTlfbUF4NERJaTkxbzhNNDhtbDQ1N3M4TmJLaTJJR3l1YkhHU0JwLUdoLUlVZ0xGUnVSWDh5RWJHMHFBSmQ2M2pSU3ZXTFhQNmlwYjVGX2lZVXdJTWNSX2VlMnM5QllMV0VGV0Z3T1N2c3dkQWZscU9WcDZXX0ZGZ1F6cFktWi14NE1vd2xmRTlveHFSdnROVlJWRmhDM0duNGZjemhQeWFRV1dSM1VzdmNFSzFnZDVxVE",
-      "publishedAt": "2026-07-14T07:38:18.000Z",
+      "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTU",
+      "publishedAt": "2026-07-14T19:09:39.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "'We were talking at nets about...': Shubman Gill opens up on 2027 World Cup planning with Virat Kohli - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOd1dJRHdybGhMTTY1NC1rR1JkRU9Pdkhvb2htY09odF8zNzdKdm5TLWU2a3RCbWNoYlB6WHF0WG1OUndTaHBMRzJzaEZWaFBtS1ZCRE52SUhiTmZOUjNYMUQ0NVhJLTVqUTA4OFJtWF9DbmpMdDdqMVdZbWE4ZDllMUQ4UDFGVXhDTV9PVzllYjdmSmtkcXFYb2hLYVRUTUhVQmF1LWFMb1BhbFRDQ1lTQVVNUlNMVWRfa1kxZFIzQTRkeFdJNUxHdU5LVV9NdjRqOTRHMEpCc19hTWI0Q0RYQVc1djQ4T2MtT3Ewd0JSTUVMdm93aEdnN0FQSEdhWFd4NmNDWTdfZ0N5cGhSWFktQmZwajBWUWN3U2RWV19PTdIBpAJBVV95cUxNeXp1QndESlpSVXhKbzN3OXNLQkdTYzV5QWVrSU5kekVJWGRZcjhRR3pMQ0thdXMwWDlTNksyUUZzWUQ1eFdnWEJ5SjJzNVRUc3MxTFR4NTNic25lRVM2UkJhYjZiZUxJVXZXVFk4RE9UMGhOX1JCTDR0SkVaUXM2Ul93aUx1VC1icHVyRE5TaUowVFk0UmhyZ3VvZW1acFFPT3hNd2RJRmszRWRYbWlrTFNfbDRkMlZadWVDa1dIcXBocll1QXRMSF9jM3RfcVdXNGtiMjhQcnREdklpcXNQYnNqRUJCSXJjeFdQRGIxQnpuYXFuYUVXYWFqNURuREJvSUxIdFI1Z3NqWEJNZ0hFbzNrQzYxcXAyd2ZpRDVQVzVsWExH?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxOd1dJRHdybGhMTTY1NC1rR1JkRU9Pdkhvb2htY09odF8zNzdKdm5TLWU2a3RCbWNoYlB6WHF0WG1OUndTaHBMRzJzaEZWaFBtS1ZCRE52SUhiTmZOUjNYMUQ0NVhJLTVqUTA4OFJtWF9DbmpMdDdqMVdZbWE4ZDllMUQ4UDFGVXhDTV9PVzllYjdmSmtkcXFYb2hLYVRUTUhVQmF1LWFMb1BhbFRDQ1lTQVVNUlNMVWRfa1",
-      "publishedAt": "2026-07-13T23:30:00.000Z",
+      "title": "ENG vs IND 1st ODI: Where to watch live streaming of today's cricket match? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN09lQnZETThuMGo1aE1BWEZuek9tVHctRUJ5cl9lYzl6alRBeVJDV1VFWXdDRFE0eGF5QjNEMHBHUWdZcFMtLWhLb19EYWRqZWtHREJwYnNnS2o4MlhkQjU2cUNVN3ZJRUFVejJFbWYwX19yTjJMa19BU1hpbDdENkVEMFoyN3JfN1pGaHJCRjFZN2pnNUdCTGEyS08xRVh3RmhTWklhMFQzdlp2TGQwNkpybGtkTXJ0UFNlV3ZyVWZkTmhHMXhsSHpJUjQ2U3ZucmYtLVVwTdIB3AFBVV95cUxPOEFtcFhQUEI5dHN1NUNNN3Atb0NsN2gxekFXMEpEU2lZLVlDYWgwQTR4SXdGVXNLYkZlQkJ0MXJPNWRmM2pMN3RKUnRXalZ6cGtFak5Md3NyeXlDeGRQcEZaM0RPM3dHNHNla0FpcTFmc3JfNlo4X25BdXQ0VkNjSXNfeWxFcDhkMXdIS3c2WVpyZnp6eU9sNDQ2V1FsdWM4d25QejRndnduTjJzNklxZndSdUkxUm1LZzZfNW55S29jaWFoYnU4eWZnX0M0Z1pJUlc5UXBSVGxNc1ct?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN09lQnZETThuMGo1aE1BWEZuek9tVHctRUJ5cl9lYzl6alRBeVJDV1VFWXdDRFE0eGF5QjNEMHBHUWdZcFMtLWhLb19EYWRqZWtHREJwYnNnS2o4MlhkQjU2cUNVN3ZJRUFVejJFbWYwX19yTjJMa19BU1hpbDdENkVEMFoyN3JfN1pGaHJCRjFZN2pnNUdCTGEyS08xRVh3RmhTWklhMFQzdlp2TGQwNkpybGtkTXJ0UF",
+      "publishedAt": "2026-07-14T09:12:35.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Julian Alvarez: Arsenal switch focus to Atletico Madrid striker with PSG forward Bradley Barcola unavailable - Paper Talk - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQX0FlTVlnV1VEZjBNRE1Qemg4a0NnUW9hS1pNMUI2LWxoS2V4Z2RrckVrcGFfWXFLR2R4cGNham5PVEVDUF91WE81V0JnRDZyblo0THBiS2pDVlNpZzBaR09vU0ZlYkJPbWd2d1RmRmNoNUxVUHEzVFJxSzhMVlotZTJKMWFJS1ZxWDBzeUlPSWlCeUFDR0hhR3FFdDQtU01CVF9QWkZNWDctZ3c1YlVQd1B4TXRCcmlPTEJTM2pZNVhvUGhpNTRoa29VMkhRd3hiZFhjLVdIV29EaVd4UGJJbUNKcmc5Mm5HWjBNeXN2UlJpTXdiWHZhYWJFZzBpcFBWWExlckNnMjJ6elEzSXhDOFJLZkZYdzA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQX0FlTVlnV1VEZjBNRE1Qemg4a0NnUW9hS1pNMUI2LWxoS2V4Z2RrckVrcGFfWXFLR2R4cGNham5PVEVDUF91WE81V0JnRDZyblo0THBiS2pDVlNpZzBaR09vU0ZlYkJPbWd2d1RmRmNoNUxVUHEzVFJxSzhMVlotZTJKMWFJS1ZxWDBzeUlPSWlCeUFDR0hhR3FFdDQtU01CVF9QWkZNWDctZ3c1YlVQd1B4TXRCcmlPTE",
-      "publishedAt": "2026-07-14T14:00:09.000Z",
+      "title": "Rohit Sharma score today: How much did India star score against England in 1st ODI at Edgbaston - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTU3TzNJUndmSU9IclJRWmxmbkNFVlNlcGRzQzQtLXBMR3VpaDRILUhLY1VHNmhTZ0J4QTBEQjRKeGhGVVY3WHNlUVZ1anh3eGhTQl9Wbzd5N0FTeDAwbW1DMzdVYjRyd2JqenhrWnRYRTR5d2VWN1h0dG1BTGdGYUNVWjVYTlhsOTJRWVdNeTNUcklzb1JsRU1GSGRmZ3VpWXhEaVJDRkV1MG14Y3owNks3NzMwREprcjU3SjBaQTdyYjVj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTU3TzNJUndmSU9IclJRWmxmbkNFVlNlcGRzQzQtLXBMR3VpaDRILUhLY1VHNmhTZ0J4QTBEQjRKeGhGVVY3WHNlUVZ1anh3eGhTQl9Wbzd5N0FTeDAwbW1DMzdVYjRyd2JqenhrWnRYRTR5d2VWN1h0dG1BTGdGYUNVWjVYTlhsOTJRWVdNeTNUcklzb1JsRU1GSGRmZ3VpWXhEaVJDRkV1MG14Y3owNks3NzMwREprcj",
+      "publishedAt": "2026-07-14T15:30:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "How to watch IND vs ENG ODI 2026 live: Start time, TV channels and streaming details as Virat Kohli, Rohit Sharma return - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GQjh1dGdpbmNzRzhHTVB5SXFOSUtmUGtCbWxyRWVUU0dLRlhNLWVHMVdDdTZXcnZuUEhxTi00MENHQXRFbjJXNF83M0pRMEhQQ2U4ZGZQcnBBWW9LWWZuM0Ywb2tiV1pUdER1RjcyaXpzUE5idjZmaA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9GQjh1dGdpbmNzRzhHTVB5SXFOSUtmUGtCbWxyRWVUU0dLRlhNLWVHMVdDdTZXcnZuUEhxTi00MENHQXRFbjJXNF83M0pRMEhQQ2U4ZGZQcnBBWW9LWWZuM0Ywb2tiV1pUdER1RjcyaXpzUE5idjZmaA?oc=5\" target=\"_blank\">How to watch IND vs ENG ODI 2026 live: Start time, TV channels an",
-      "publishedAt": "2026-07-14T07:19:33.000Z",
+      "title": "England vs India | 1st ODI Highlights - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXR3cDFYc0lQM0R6eEF5NHAzOU1DbDhOR0FiRHRZZk03MWFTVDZwUkQ2Z19HTnVWcUVoQTlkS1JmZmYtbzh6S2tSME9XWkZPeHlVZ09iX1JrTGdocnFrR1h2MHItenh6T3hsUEJ1Wm9HaE1MSlM0Tnp3TnV6ZmVCRldKeWxaQ1Rpd2s5QUtXRW1EVkNM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXR3cDFYc0lQM0R6eEF5NHAzOU1DbDhOR0FiRHRZZk03MWFTVDZwUkQ2Z19HTnVWcUVoQTlkS1JmZmYtbzh6S2tSME9XWkZPeHlVZ09iX1JrTGdocnFrR1h2MHItenh6T3hsUEJ1Wm9HaE1MSlM0Tnp3TnV6ZmVCRldKeWxaQ1Rpd2s5QUtXRW1EVkNM?oc=5\" target=\"_blank\">England vs India | 1st ODI ",
+      "publishedAt": "2026-07-14T19:34:02.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Indian cricket set to undergo a coaching reset? - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGVzcmlGTEtQTkRjaVVkcml2SWdoX2wxbHZ0OFhqb3Z0eDVxeWN1aklZNFRxRnV0VDdMNmtzRlB0aU5SLWZsU1VJbk1JNmNTUUNVOVhsYXIxb0VEVHhteXQxWUt5UFlhc2piWkNfVGhKYnE1NjNLSHNIZnJUcjBwZzhudzVZNjNtT2tjM3F1RFo3X1h0Y3dod3RQVmVfanY2OC00eW1LV2lpMTJiWmVvdzMtaS1PTGpSYXNuY0dlVXF0MENFV25z0gHMAUFVX3lxTE80VWt6b0xaZ3NUWlBTYUgyRVY5UzNzUGY2SDBEeE8td3lVV2VPQ3l5dmJzUk1JZVRhNG9kRk9iVVlodXRBOTh1VXpScHgzR2toZ1dwWHBKSy1ZWlJBemdxcDFIcVBNMFRzRXo5LURXdGRrcF9RMHZUVWk0Y0JGdllPbkZZTW9XUlZOLWF1VHJCTzVCcExUNGVpRWctdjRQR2J1S2Z6RlNvSUdFVGhST3AyOFZ1RXBNdlI0ZXItaDQtSWZCemVpUk9nNXpiSA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGVzcmlGTEtQTkRjaVVkcml2SWdoX2wxbHZ0OFhqb3Z0eDVxeWN1aklZNFRxRnV0VDdMNmtzRlB0aU5SLWZsU1VJbk1JNmNTUUNVOVhsYXIxb0VEVHhteXQxWUt5UFlhc2piWkNfVGhKYnE1NjNLSHNIZnJUcjBwZzhudzVZNjNtT2tjM3F1RFo3X1h0Y3dod3RQVmVfanY2OC00eW1LV2lpMTJiWmVvdzMtaS1PTGpSYX",
+      "publishedAt": "2026-07-11T04:04:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "How to live stream India vs England: One-Day International Cricket, TV channel - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMkd2UUFRTGxKSHVTVnFKMFpqdFlibWE1eXJOY01XT1k4cWFDZ2J3SnM4c09PT3otdS1rVHBZLW5HZGtrZnZ5TlFmcC03TGdzNWJjM1N4RG1RN0NiVzItMXBhTllTZ3hHYkdEYkVoT2NoTVc5dWo3b1JDU3kxTWl0TElIOA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMkd2UUFRTGxKSHVTVnFKMFpqdFlibWE1eXJOY01XT1k4cWFDZ2J3SnM4c09PT3otdS1rVHBZLW5HZGtrZnZ5TlFmcC03TGdzNWJjM1N4RG1RN0NiVzItMXBhTllTZ3hHYkdEYkVoT2NoTVc5dWo3b1JDU3kxTWl0TElIOA?oc=5\" target=\"_blank\">How to live stream India vs England: One-Day Inte",
+      "publishedAt": "2026-07-14T08:30:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Where to watch England vs India live stream, TV channel, start time and lineups for 1st ODI - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3NaeFRFNkJ5Q3lDTkVCM1A2ekVZXzg0akxPMlhZYjcwMk0zTVMyRkhlYkJNOW5mOWZxbU5xejU5N2gydmR6OFh3cERjcHU4QW9mSmdDaDJvXzZhMExLcFNONjRLTGEwSU44MU5MVmgteDJOaEFNcDVJbV9JcC11eGVnaw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3NaeFRFNkJ5Q3lDTkVCM1A2ekVZXzg0akxPMlhZYjcwMk0zTVMyRkhlYkJNOW5mOWZxbU5xejU5N2gydmR6OFh3cERjcHU4QW9mSmdDaDJvXzZhMExLcFNONjRLTGEwSU44MU5MVmgteDJOaEFNcDVJbV9JcC11eGVnaw?oc=5\" target=\"_blank\">Where to watch England vs India live stream, TV c",
+      "publishedAt": "2026-07-13T22:30:02.000Z",
       "source": {
         "name": "Google News"
       },
@@ -332,70 +382,20 @@
       "urlToImage": null
     },
     {
-      "title": "Today's cricket news (July 13) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUVwTDZyS2lhSGJ4Y2RISV94dWtLcG10SkNMdGdISFhqXzEtUV9kQktId0VDbWZqeEhIa1QxWGdWVnhWdEJuWHZwZUc3ekFYRGJlUmlkaWlqSV90TXRnTC1wRlN1TXpRNW9mNmRsOG82dzVvQnk2MmlTY1hucHM5ME0weEFFNEZzeGg0UFhvN0xWeVozLXp3ZmZLcmMxYWRucVMtV0tWNzVIWnBhN1FJOVZaWXc4XzVsT2dsWG9CRGNWZTY4N2tScg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUVwTDZyS2lhSGJ4Y2RISV94dWtLcG10SkNMdGdISFhqXzEtUV9kQktId0VDbWZqeEhIa1QxWGdWVnhWdEJuWHZwZUc3ekFYRGJlUmlkaWlqSV90TXRnTC1wRlN1TXpRNW9mNmRsOG82dzVvQnk2MmlTY1hucHM5ME0weEFFNEZzeGg0UFhvN0xWeVozLXp3ZmZLcmMxYWRucVMtV0tWNzVIWnBhN1FJOVZaWXc4XzVsT2",
-      "publishedAt": "2026-07-14T00:40:57.000Z",
+      "title": "Julian Alvarez: Arsenal switch focus to Atletico Madrid striker with PSG forward Bradley Barcola unavailable - Paper Talk - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQX0FlTVlnV1VEZjBNRE1Qemg4a0NnUW9hS1pNMUI2LWxoS2V4Z2RrckVrcGFfWXFLR2R4cGNham5PVEVDUF91WE81V0JnRDZyblo0THBiS2pDVlNpZzBaR09vU0ZlYkJPbWd2d1RmRmNoNUxVUHEzVFJxSzhMVlotZTJKMWFJS1ZxWDBzeUlPSWlCeUFDR0hhR3FFdDQtU01CVF9QWkZNWDctZ3c1YlVQd1B4TXRCcmlPTEJTM2pZNVhvUGhpNTRoa29VMkhRd3hiZFhjLVdIV29EaVd4UGJJbUNKcmc5Mm5HWjBNeXN2UlJpTXdiWHZhYWJFZzBpcFBWWExlckNnMjJ6elEzSXhDOFJLZkZYdzA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQX0FlTVlnV1VEZjBNRE1Qemg4a0NnUW9hS1pNMUI2LWxoS2V4Z2RrckVrcGFfWXFLR2R4cGNham5PVEVDUF91WE81V0JnRDZyblo0THBiS2pDVlNpZzBaR09vU0ZlYkJPbWd2d1RmRmNoNUxVUHEzVFJxSzhMVlotZTJKMWFJS1ZxWDBzeUlPSWlCeUFDR0hhR3FFdDQtU01CVF9QWkZNWDctZ3c1YlVQd1B4TXRCcmlPTE",
+      "publishedAt": "2026-07-14T20:00:41.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "India Vs England 1st ODI Live Streaming: When And Where To Watch IND Vs ENG Match on TV & online - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaml6VE00U2ZQVkw5RjJXd3Z5aElaUWdXaDc4RVh6N1ZRUlhaTkFObS1QcmZLQ0F5N0Jab290OEwyYzQ2YTVTeXp6YnQzZEJQVk9BdFo1WFZrOUZtY3c5dTJXRFRTQlZ2cU54Z2hYaEVpa1p3UkZDVk1taFppTHhDT29abDVoWE9rX0dYRjVpemprTGNoMzllQUlaTjJWVktoRmdHakdBeXo2WFJNMHdYUlhfS0ZIRjc1NE84Mldoa1VWa1JaMmtBZE1mRmZPMnRqVTFZX3JhTEpRcDdyMkJHNE1Zcy10Uk1kdGVHQmRCM1FzUmg0Ujg40gH-AUFVX3lxTE1QdjU5aWNqN2lUTUk1bGdKaVlqdEdyZzc3UWtMMmJOX1o1WldWVE9BY2NUSFItNndUdGxGT0I1NnowcC1rR2xnQ1Uwczh5cEJsWkR2U2l6eHVIZzdXQm9ibEh2enFYdGxTX1RpVkd0c2pMeFV4czFnQ05Edk5MbXFZQVBKY0FydjBxZllDNkNoWU9obEdLQWpvT1ZaaE1ZYldqVjhxQ2loVW1rTnlhSXdkazUteXhmZVhHTURNb25aU3hsUnRiV1I5dlpENlhpN2I1RjVlZG9sTzUtaWk5SHdWZV9MOFdGM1haYjFxeExuSG04MUxFZG1UY1V2dllB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaml6VE00U2ZQVkw5RjJXd3Z5aElaUWdXaDc4RVh6N1ZRUlhaTkFObS1QcmZLQ0F5N0Jab290OEwyYzQ2YTVTeXp6YnQzZEJQVk9BdFo1WFZrOUZtY3c5dTJXRFRTQlZ2cU54Z2hYaEVpa1p3UkZDVk1taFppTHhDT29abDVoWE9rX0dYRjVpemprTGNoMzllQUlaTjJWVktoRmdHakdBeXo2WFJNMHdYUlhfS0ZIRjc1NE",
-      "publishedAt": "2026-07-14T02:30:33.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Jacob Bethell to open batting in England vs India first ODI at Edgbaston as hosts name team ahead of series opener - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcTNSRmdnT2UycWhwVFZ3Sm5pX0hSZ1dleTNic2E0NUR5LVNWQU4wemNsaE5ncEhLcU02dW1XRWlnN19QS3g4QnNlSG8zallEbkpxUEpBT0RtaVFDcUN4aV9ZUkdpSmw5M0xSTUxfWmJJNGktTENaNXlibGcwWjJBSzBIV2E1U2V2U0M3Vm9wQ3NFa1hwU2tidkVqd016VzNGREtOdXZMREtlQjA2MXg3RzczX0o0cTNpX2hwOUVOekEyQUVvZ2hJUDJtZzVzdndHSnNYLXNaRFJ1TWRYemhlSnVZXzZqSlNhOUE2RDVCdGhyNC1UeUYwRUpibWs?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcTNSRmdnT2UycWhwVFZ3Sm5pX0hSZ1dleTNic2E0NUR5LVNWQU4wemNsaE5ncEhLcU02dW1XRWlnN19QS3g4QnNlSG8zallEbkpxUEpBT0RtaVFDcUN4aV9ZUkdpSmw5M0xSTUxfWmJJNGktTENaNXlibGcwWjJBSzBIV2E1U2V2U0M3Vm9wQ3NFa1hwU2tidkVqd016VzNGREtOdXZMREtlQjA2MXg3RzczX0o0cTNpX2",
-      "publishedAt": "2026-07-13T16:23:06.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Today's cricket news (July 14) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbThLVm9oM3RSaWF6X3Vqei1pNjg4NF90TS1CaEd3NHpFQUY0ZkQ0SndJSURzYVBHTmh2bFVWb002MHdMdE5yR1NLQWplTEZ5eFkxMjRxb1BlVVd4dklmSUJ5N0NOMzVyeEU2aHpkUnVWR2szZ19GUUhxVTNxOGpRemw5SW5hN1U?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbThLVm9oM3RSaWF6X3Vqei1pNjg4NF90TS1CaEd3NHpFQUY0ZkQ0SndJSURzYVBHTmh2bFVWb002MHdMdE5yR1NLQWplTEZ5eFkxMjRxb1BlVVd4dklmSUJ5N0NOMzVyeEU2aHpkUnVWR2szZ19GUUhxVTNxOGpRemw5SW5hN1U?oc=5\" target=\"_blank\">Today's cricket news (July 14)</a>&nbsp;&nbs",
-      "publishedAt": "2026-07-14T11:57:39.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVlHSTJsY0pkMGNudnVSRkEzR2kzZVpZbUlEV09ncXhPRVFXUk11NlFzTjkwZkIyRHcyOHFpWjVzdDVFTWpPeVAtZTF6OFNvSnpwWUd1SjlabEc2X0txRmt2cFltS1JsQmZLcS1GcDNxQzV4dV9Sa1BWOTlrQmtERUJsUzFvN1pvcHZ4SmpwdFNMQ2tGWkRSY2w0eGlmOUY4Tmc4akJpTG5ObHZwdGpfc1dxUEppMGlNenZaazV4U2ZIeWN2Qm4wTjdKMTZiQlViQ0lPSURUaGZKeVBTY3p3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVlHSTJsY0pkMGNudnVSRkEzR2kzZVpZbUlEV09ncXhPRVFXUk11NlFzTjkwZkIyRHcyOHFpWjVzdDVFTWpPeVAtZTF6OFNvSnpwWUd1SjlabEc2X0txRmt2cFltS1JsQmZLcS1GcDNxQzV4dV9Sa1BWOTlrQmtERUJsUzFvN1pvcHZ4SmpwdFNMQ2tGWkRSY2w0eGlmOUY4Tmc4akJpTG5ObHZwdGpfc1dxUEppMGlNen",
-      "publishedAt": "2026-07-11T18:33:35.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Enzo Fernandez: Xabi Alonso determined to keep wantaway Argentina World Cup star at Chelsea - Paper Talk - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWndNWG91aUVYV2Y2SHRMdnMydWNOZzI5WXpBamVTMzhDY3FLeUdKeDNiczRPYmNoUV81bHo1bi15OXVDR2hPcmhqVTNBOTlPV0hMTHh3eEZsTXhrMkhsUkZXOFFvdzlMUTVVZmZnZ0t4SWN6ODczM0pxNTFuY3o5VGJ0c2JKZmRnM29nSmJER2FVMlozYU5RcllCbjBpc1duSlItVVpGamk3aTlGM0d2UjN2RUQ1S21tWWE3MzNSVl9PMVlLMEo1LTlqbk1JTHFVcm90bnU2dUY0MDJ0NnlmOHdhQWRTVVJ0NkFBVg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWndNWG91aUVYV2Y2SHRMdnMydWNOZzI5WXpBamVTMzhDY3FLeUdKeDNiczRPYmNoUV81bHo1bi15OXVDR2hPcmhqVTNBOTlPV0hMTHh3eEZsTXhrMkhsUkZXOFFvdzlMUTVVZmZnZ0t4SWN6ODczM0pxNTFuY3o5VGJ0c2JKZmRnM29nSmJER2FVMlozYU5RcllCbjBpc1duSlItVVpGamk3aTlGM0d2UjN2RUQ1S21tWW",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Today's cricket news (July 11) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnpnRFh4cm9fRGc4b1l3TlpEMFVEVE0wQlpzXzFreHhVVC1RZHhtdW41MW5SbFlfUWJYMXFnMWtJdTVJdjhpeE9FeG9wZENUTG44d01tX1dHYmhVWEUtWVRxUV90WjlfejhQTzVBXzVybHk2QnE5NGsyQ2hVYkZHQ2lTQnFQZF9DZTlZZ01OWDdacjFYYlBwVkRJTmI5SWd5bWhQczB3aFE3YTY0QWh4Z0tGVS1xeXhaTmZaSEpIdUlzZC1MdTF3Yk9EWWZmUGF4c2t3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnpnRFh4cm9fRGc4b1l3TlpEMFVEVE0wQlpzXzFreHhVVC1RZHhtdW41MW5SbFlfUWJYMXFnMWtJdTVJdjhpeE9FeG9wZENUTG44d01tX1dHYmhVWEUtWVRxUV90WjlfejhQTzVBXzVybHk2QnE5NGsyQ2hVYkZHQ2lTQnFQZF9DZTlZZ01OWDdacjFYYlBwVkRJTmI5SWd5bWhQczB3aFE3YTY0QWh4Z0tGVS1xeXhaTm",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
+      "title": "England thrashed by India in women's Test at Lord's as tourists record 270-run victory on day four - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYlVCbXE4V0g0YVc5OHk5UEFVbnJrTFctU1gyQThmWjdwcmlYSlZoT25PcDNWSGZzd3BONUFTUEFxcmlKY1NGNU5VWGZMbFFiY3BrM2xfTGVDZjhhVEk3RFMtM3huVG55Q1ZzdVEtcVgwSkxvcDdxeFFZVXNMS19YcXhIZEhEX2tIdFFDMmp3YnRCckFGV21lUUE0eE5IOXpzQUdnQWd4MENmUjgzeHQwVzlEVHl1U05TdW1oZFZCdGc5TXJ6Rm1TbEJKQWM1M0kzdldqWG5BZmNfOVN4ZlptV0drZFI?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYlVCbXE4V0g0YVc5OHk5UEFVbnJrTFctU1gyQThmWjdwcmlYSlZoT25PcDNWSGZzd3BONUFTUEFxcmlKY1NGNU5VWGZMbFFiY3BrM2xfTGVDZjhhVEk3RFMtM3huVG55Q1ZzdVEtcVgwSkxvcDdxeFFZVXNMS19YcXhIZEhEX2tIdFFDMmp3YnRCckFGV21lUUE0eE5IOXpzQUdnQWd4MENmUjgzeHQwVzlEVHl1U05TdW",
+      "publishedAt": "2026-07-13T13:12:59.000Z",
       "source": {
         "name": "Google News"
       },
@@ -508,6 +508,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdGpmY1RZMmlzZ2o0LXRlSzRhbEJ0ZXctTWxNNVk5V2Vjb09kaDM1V3NWa3lObTZ6dVd2d1NFSWtyb1YzZS1fUEV0LTYtbUVGZmZYeHFNRWd4N215Mnpib1FTdTZ3cUE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdGpmY1RZMmlzZ2o0LXRlSzRhbEJ0ZXctTWxNNVk5V2Vjb09kaDM1V3NWa3lObTZ6dVd2d1NFSWtyb1YzZS1fUEV0LTYtbUVGZmZYeHFNRWd4N215Mnpib1FTdTZ3cUE?oc=5\" target=\"_blank\">World Cup 2026: Lionel Messi sets more records for holders Argentina</a>&nbsp;&nbsp;<fon",
       "publishedAt": "2026-06-22T07:00:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Jamie Overton Profile - Cricket Player England | Stats, Records, Video - Cricinfo",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pOTdJSDduUVlYZ2ZVMDJVd2k1MTA2SWliRkUzUlBxNjJFOVhsbTl2WFJBUG5fZ3ZocHpLVGxhbFR0eUhBTHdTS0pxUm1LYkdPTjFpa1VkRVo3SjM1UjVpWjg1M1RaSFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pOTdJSDduUVlYZ2ZVMDJVd2k1MTA2SWliRkUzUlBxNjJFOVhsbTl2WFJBUG5fZ3ZocHpLVGxhbFR0eUhBTHdTS0pxUm1LYkdPTjFpa1VkRVo3SjM1UjVpWjg1M1RaSFE?oc=5\" target=\"_blank\">Jamie Overton Profile - Cricket Player England | Stats, Records, Video</a>&nbsp;&nbsp;<f",
+      "publishedAt": "2026-06-16T14:19:00.000Z",
       "source": {
         "name": "Google News"
       },
