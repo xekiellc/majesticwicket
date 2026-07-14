@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T09:42:45.399Z",
+  "lastUpdated": "2026-07-14T15:26:36.612Z",
   "recentMatches": [
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -90,6 +90,68 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "d70dc162-3f63-4627-958b-6ade682138ea",
+      "name": "Romania vs Denmark, Final, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Romania opt to bowl",
+      "venue": "Svanholm Park, Brondby",
+      "date": "2026-07-14",
+      "dateTimeGMT": "2026-07-14T13:30:00",
+      "teams": [
+        "Romania",
+        "Denmark"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Romania",
+          "shortname": "ROM",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d52908ce-4155-4afd-a645-faf5c0bbe579",
+      "name": "Gibraltar vs Norway, 5th Place Play-off, ICC Mens T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "matchType": "t20",
+      "status": "Norway opt to bat",
+      "venue": "Koge Cricket Club, Koge",
+      "date": "2026-07-14",
+      "dateTimeGMT": "2026-07-14T13:30:00",
+      "teams": [
+        "Gibraltar",
+        "Norway"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gibraltar",
+          "shortname": "GIB",
+          "img": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=48"
+        },
+        {
+          "name": "Norway",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=48"
+        }
+      ],
+      "series_id": "6bd1930d-339b-4d2f-8cea-d5bb32a2dba5",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "08acd999-b99c-4c2f-a8e1-400f62a39b5b",
@@ -606,7 +668,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 2: 2nd Session - India U19 trail by 363 runs",
+      "status": "Day 2: Stumps - India U19 trail by 238 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -634,9 +696,9 @@
           "inning": "sri lanka u19 Inning 1"
         },
         {
-          "r": 61,
+          "r": 186,
           "w": 0,
-          "o": 15,
+          "o": 58,
           "inning": "Sri Lanka U19,India U19 Inning 1"
         }
       ],
@@ -999,92 +1061,6 @@
         }
       ],
       "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b8650fd0-cee3-4109-abe0-a938343bcd40",
-      "name": "Hyderabad E Champions vs Karimnagar Diamonds, Qualifier 2, TG20 2026",
-      "matchType": "t20",
-      "status": "Hyderabad E Champions won by 8 wkts",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "date": "2026-07-10",
-      "dateTimeGMT": "2026-07-10T13:45:00",
-      "teams": [
-        "Hyderabad E Champions",
-        "Karimnagar Diamonds"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad E Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Karimnagar Diamonds",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 157,
-          "w": 7,
-          "o": 20,
-          "inning": "karimnagar diamonds Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 2,
-          "o": 15.3,
-          "inning": "Hyderabad E Champions,Karimnagar Diamonds Inning 1"
-        }
-      ],
-      "series_id": "74597738-d75d-43b5-8aff-ed79811e42fa",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "341a5b44-16fc-4bac-8948-189779fab63c",
-      "name": "Kalyani Bengaluru Blasters vs Shivamogga Yodhas, Final, Maharaja Trophy KSCA T20 2026",
-      "matchType": "t20",
-      "status": "Shivamogga Yodhas won by 4 wkts",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T13:30:00",
-      "teams": [
-        "Kalyani Bengaluru Blasters",
-        "Shivamogga Yodhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kalyani Bengaluru Blasters",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Shivamogga Yodhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 185,
-          "w": 8,
-          "o": 20,
-          "inning": "Shivamogga Yodhas Inning 1"
-        },
-        {
-          "r": 186,
-          "w": 6,
-          "o": 19.4,
-          "inning": "Kalyani Bengaluru Blasters Inning 1"
-        }
-      ],
-      "series_id": "f19b8271-df1a-4ed1-bec3-98f3bb3ae6e6",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
