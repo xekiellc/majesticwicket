@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-15T09:46:13.859Z",
+  "lastUpdated": "2026-07-15T15:37:19.653Z",
   "recentMatches": [
     {
       "id": "cad7f004-3f96-41f5-befd-056dc070044b",
       "name": "Ireland Women vs West Indies Women, 3rd ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "Ireland Women opt to bowl",
+      "status": "Ireland Women need 162 runs",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-15",
       "dateTimeGMT": "2026-07-15T09:45:00",
@@ -25,8 +25,22 @@
           "img": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 257,
+          "w": 10,
+          "o": 50,
+          "inning": "West Indies Women Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 3,
+          "o": 20,
+          "inning": "Ireland Women Inning 1"
+        }
+      ],
       "series_id": "af7f493b-31ef-4223-b84e-b2cf9cf774fd",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -530,7 +544,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 3: Rain stops play - India U19 trail by 167 runs",
+      "status": "Day 3: Stumps - India U19 trail by 46 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -558,9 +572,9 @@
           "inning": "sri lanka u19 Inning 1"
         },
         {
-          "r": 257,
-          "w": 0,
-          "o": 83.1,
+          "r": 378,
+          "w": 3,
+          "o": 117,
           "inning": "Sri Lanka U19,India U19 Inning 1"
         }
       ],
@@ -883,6 +897,51 @@
       "matchEnded": true
     },
     {
+      "id": "b1892f6f-966a-4cf3-b34c-80a533f7c5c0",
+      "name": "Zimbabwe vs Bangladesh, 1st T20I, Bangladesh tour of Zimbabwe, 2026",
+      "matchType": "t20",
+      "status": "Zimbabwe won by 32 runs",
+      "venue": "Queens Sports Club, Bulawayo",
+      "date": "2026-07-15",
+      "dateTimeGMT": "2026-07-15T11:30:00",
+      "teams": [
+        "Zimbabwe",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 170,
+          "w": 6,
+          "o": 20,
+          "inning": "Zimbabwe Inning 1"
+        },
+        {
+          "r": 138,
+          "w": 10,
+          "o": 19,
+          "inning": "Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
       "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
       "status": "Bangladesh won by 7 wkts",
@@ -927,151 +986,55 @@
       "matchEnded": true
     },
     {
-      "id": "6cec9352-091b-4a3a-ba6d-2a9048f9fbc2",
-      "name": "Lancashire vs Durham, 100th Match, T20 Blast 2026",
+      "id": "d1ac489d-4459-43f0-8dd8-b90ba4add050",
+      "name": "Nottinghamshire vs Surrey, Quarter Final 3, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Lancashire won by 3 wkts",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T11:00:00",
+      "status": "Nottinghamshire opt to bat",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-07-15",
+      "dateTimeGMT": "2026-07-15T17:30:00",
       "teams": [
-        "Lancashire",
-        "Durham"
+        "Nottinghamshire",
+        "Surrey"
       ],
       "teamInfo": [
         {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
         },
         {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 141,
-          "w": 10,
-          "o": 20,
-          "inning": "durham Inning 1"
-        },
-        {
-          "r": 142,
-          "w": 7,
-          "o": 19.4,
-          "inning": "Lancashire,Durham Inning 1"
+          "r": 0,
+          "w": 1,
+          "o": 0.4,
+          "inning": "nottinghamshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchStarted": false,
+      "matchEnded": false
     },
     {
-      "id": "cfec3f88-ffdd-4506-8139-f6eae0c581de",
-      "name": "Gloucestershire vs Glamorgan, 107th Match, T20 Blast 2026",
+      "id": "4a5fe978-cc43-4200-8509-1af32fb24ba6",
+      "name": "Yorkshire vs Somerset, Quarter Final 4, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Glamorgan won by 50 runs",
-      "venue": "County Ground, Bristol",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T11:00:00",
+      "status": "Yorkshire opt to bat",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-15",
+      "dateTimeGMT": "2026-07-15T17:30:00",
       "teams": [
-        "Gloucestershire",
-        "Glamorgan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 235,
-          "w": 7,
-          "o": 20,
-          "inning": "glamorgan Inning 1"
-        },
-        {
-          "r": 185,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Gloucestershire,Glamorgan Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a56310eb-a611-4631-81ec-d70c2d087cc3",
-      "name": "Northamptonshire vs Warwickshire, 106th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Warwickshire won by 5 wkts",
-      "venue": "County Ground, Northampton",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T11:00:00",
-      "teams": [
-        "Northamptonshire",
-        "Warwickshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 153,
-          "w": 10,
-          "o": 20,
-          "inning": "northamptonshire Inning 1"
-        },
-        {
-          "r": 154,
-          "w": 5,
-          "o": 18.2,
-          "inning": "Northamptonshire,Warwickshire Inning 1"
-        }
-      ],
-      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "29a5a639-5b63-48d0-a652-74d53a224946",
-      "name": "Somerset vs Worcestershire, 105th Match, T20 Blast 2026",
-      "matchType": "t20",
-      "status": "Somerset won by 78 runs",
-      "venue": "The Cooper Associates County Ground, Taunton",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T11:00:00",
-      "teams": [
-        "Somerset",
-        "Worcestershire"
+        "Yorkshire",
+        "Somerset"
       ],
       "teamInfo": [
         {
@@ -1080,31 +1043,56 @@
           "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
         },
         {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 194,
-          "w": 7,
-          "o": 20,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 10,
-          "o": 16,
-          "inning": "Worcestershire Inning 1"
+          "r": 9,
+          "w": 0,
+          "o": 0.5,
+          "inning": "yorkshire Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "432c72b6-37d4-4851-9945-8e9490405793",
+      "name": "Hampshire vs Essex, Quarter Final 1, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Essex opt to bowl",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-15",
+      "dateTimeGMT": "2026-07-15T17:30:00",
+      "teams": [
+        "Hampshire",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
     }
   ],
   "ipl": {
