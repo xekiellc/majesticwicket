@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-15T15:37:19.653Z",
+  "lastUpdated": "2026-07-15T21:03:46.291Z",
   "recentMatches": [
     {
       "id": "cad7f004-3f96-41f5-befd-056dc070044b",
       "name": "Ireland Women vs West Indies Women, 3rd ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "Ireland Women need 162 runs",
+      "status": "West Indies Women won by 64 runs",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-15",
       "dateTimeGMT": "2026-07-15T09:45:00",
@@ -33,9 +33,9 @@
           "inning": "West Indies Women Inning 1"
         },
         {
-          "r": 96,
-          "w": 3,
-          "o": 20,
+          "r": 193,
+          "w": 10,
+          "o": 43.1,
           "inning": "Ireland Women Inning 1"
         }
       ],
@@ -44,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "25504f95-6277-4e54-901d-421192877485",
@@ -631,96 +631,6 @@
       "matchEnded": true
     },
     {
-      "id": "5310500b-809a-4b95-8e3a-3f6b69203fd2",
-      "name": "Germany Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Germany, 2026",
-      "matchType": "t20",
-      "status": "Germany Women won by 4 runs",
-      "venue": "SSC, Karlsruhe, Karlsruhe",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T13:30:00",
-      "teams": [
-        "Germany Women",
-        "Switzerland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Germany Women",
-          "shortname": "GEMW",
-          "img": "https://g.cricapi.com/iapi/1682-637926300796611117.webp?w=48"
-        },
-        {
-          "name": "Switzerland Women",
-          "shortname": "SW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 4,
-          "o": 20,
-          "inning": "Germany Women Inning 1"
-        },
-        {
-          "r": 112,
-          "w": 4,
-          "o": 20,
-          "inning": "Switzerland Women Inning 1"
-        }
-      ],
-      "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0976c99d-02fa-4af5-8d24-7e111692f927",
-      "name": "Germany Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Germany, 2026",
-      "matchType": "t20",
-      "status": "Germany Women won by 13 runs",
-      "venue": "SSC, Karlsruhe, Karlsruhe",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T08:30:00",
-      "teams": [
-        "Germany Women",
-        "Switzerland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Germany Women",
-          "shortname": "GEMW",
-          "img": "https://g.cricapi.com/iapi/1682-637926300796611117.webp?w=48"
-        },
-        {
-          "name": "Switzerland Women",
-          "shortname": "SW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 10,
-          "o": 19.1,
-          "inning": "germany women Inning 1"
-        },
-        {
-          "r": 85,
-          "w": 10,
-          "o": 17.3,
-          "inning": "Germany Women,Switzerland Women Inning 1"
-        }
-      ],
-      "series_id": "beecf5d7-be31-405a-aa70-a2cb6bb97061",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "e68e2a40-ac8d-4a4a-9808-1cacbe9c9e25",
       "name": "West Indies vs New Zealand, 2nd ODI, New Zealand tour of West Indies, 2026",
       "matchType": "odi",
@@ -756,51 +666,6 @@
           "w": 5,
           "o": 32.4,
           "inning": "New Zealand Inning 1"
-        }
-      ],
-      "series_id": "01c9b20e-45cd-4c7b-a311-429f83f171c1",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c7874c75-e5fd-4d60-a50a-dcafe86732f8",
-      "name": "West Indies vs New Zealand, 1st ODI, New Zealand tour of West Indies, 2026",
-      "matchType": "odi",
-      "status": "West Indies won by 7 wkts",
-      "venue": "Providence Stadium, Guyana",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T18:30:00",
-      "teams": [
-        "West Indies",
-        "New Zealand"
-      ],
-      "teamInfo": [
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 267,
-          "w": 10,
-          "o": 49.5,
-          "inning": "New Zealand Inning 1"
-        },
-        {
-          "r": 268,
-          "w": 3,
-          "o": 48.5,
-          "inning": "West Indies Inning 1"
         }
       ],
       "series_id": "01c9b20e-45cd-4c7b-a311-429f83f171c1",
@@ -942,46 +807,47 @@
       "matchEnded": true
     },
     {
-      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
-      "name": "Zimbabwe vs Bangladesh, 3rd ODI, Bangladesh tour of Zimbabwe, 2026",
-      "status": "Bangladesh won by 7 wkts",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T07:15:00",
+      "id": "b98cfb17-768e-4c6a-877f-53596366cd9c",
+      "name": "Northamptonshire vs Gloucestershire, Quarter Final 2, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Northamptonshire won by 8 wkts",
+      "venue": "County Ground, Northampton",
+      "date": "2026-07-15",
+      "dateTimeGMT": "2026-07-15T17:30:00",
       "teams": [
-        "Zimbabwe",
-        "Bangladesh"
+        "Northamptonshire",
+        "Gloucestershire"
       ],
       "teamInfo": [
         {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
         },
         {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 199,
+          "r": 152,
           "w": 10,
-          "o": 48.1,
-          "inning": "Zimbabwe Inning 1"
+          "o": 20,
+          "inning": "gloucestershire Inning 1"
         },
         {
-          "r": 200,
-          "w": 3,
-          "o": 36,
-          "inning": "Bangladesh Inning 1"
+          "r": 153,
+          "w": 2,
+          "o": 17.4,
+          "inning": "Northamptonshire,Gloucestershire Inning 1"
         }
       ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -989,7 +855,7 @@
       "id": "d1ac489d-4459-43f0-8dd8-b90ba4add050",
       "name": "Nottinghamshire vs Surrey, Quarter Final 3, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Nottinghamshire opt to bat",
+      "status": "Nottinghamshire won by 7 runs",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-07-15",
       "dateTimeGMT": "2026-07-15T17:30:00",
@@ -1011,24 +877,30 @@
       ],
       "score": [
         {
-          "r": 0,
-          "w": 1,
-          "o": 0.4,
+          "r": 163,
+          "w": 6,
+          "o": 20,
           "inning": "nottinghamshire Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 7,
+          "o": 20,
+          "inning": "Nottinghamshire,Surrey Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "4a5fe978-cc43-4200-8509-1af32fb24ba6",
       "name": "Yorkshire vs Somerset, Quarter Final 4, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Yorkshire opt to bat",
+      "status": "Somerset won by 2 wkts",
       "venue": "Headingley, Leeds",
       "date": "2026-07-15",
       "dateTimeGMT": "2026-07-15T17:30:00",
@@ -1050,24 +922,30 @@
       ],
       "score": [
         {
-          "r": 9,
-          "w": 0,
-          "o": 0.5,
+          "r": 161,
+          "w": 9,
+          "o": 20,
           "inning": "yorkshire Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 8,
+          "o": 19.5,
+          "inning": "Yorkshire,Somerset Inning 1"
         }
       ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "432c72b6-37d4-4851-9945-8e9490405793",
       "name": "Hampshire vs Essex, Quarter Final 1, T20 Blast 2026",
       "matchType": "t20",
-      "status": "Essex opt to bowl",
+      "status": "Hampshire won by 75 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-07-15",
       "dateTimeGMT": "2026-07-15T17:30:00",
@@ -1087,12 +965,161 @@
           "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 211,
+          "w": 3,
+          "o": 20,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 9,
+          "o": 20,
+          "inning": "Essex Inning 1"
+        }
+      ],
       "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6cec9352-091b-4a3a-ba6d-2a9048f9fbc2",
+      "name": "Lancashire vs Durham, 100th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Lancashire won by 3 wkts",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T11:00:00",
+      "teams": [
+        "Lancashire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 10,
+          "o": 20,
+          "inning": "durham Inning 1"
+        },
+        {
+          "r": 142,
+          "w": 7,
+          "o": 19.4,
+          "inning": "Lancashire,Durham Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cfec3f88-ffdd-4506-8139-f6eae0c581de",
+      "name": "Gloucestershire vs Glamorgan, 107th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Glamorgan won by 50 runs",
+      "venue": "County Ground, Bristol",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T11:00:00",
+      "teams": [
+        "Gloucestershire",
+        "Glamorgan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 235,
+          "w": 7,
+          "o": 20,
+          "inning": "glamorgan Inning 1"
+        },
+        {
+          "r": 185,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Gloucestershire,Glamorgan Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a56310eb-a611-4631-81ec-d70c2d087cc3",
+      "name": "Northamptonshire vs Warwickshire, 106th Match, T20 Blast 2026",
+      "matchType": "t20",
+      "status": "Warwickshire won by 5 wkts",
+      "venue": "County Ground, Northampton",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T11:00:00",
+      "teams": [
+        "Northamptonshire",
+        "Warwickshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 10,
+          "o": 20,
+          "inning": "northamptonshire Inning 1"
+        },
+        {
+          "r": 154,
+          "w": 5,
+          "o": 18.2,
+          "inning": "Northamptonshire,Warwickshire Inning 1"
+        }
+      ],
+      "series_id": "9eb1981f-88c4-4c53-8f7b-f71b1c760d69",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
