@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T09:52:22.975Z",
+  "lastUpdated": "2026-07-16T15:41:35.025Z",
   "recentMatches": [
     {
       "id": "cad7f004-3f96-41f5-befd-056dc070044b",
@@ -544,7 +544,7 @@
     {
       "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
       "name": "Sri Lanka U19 vs India U19, 1st unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 4: 2nd Session - India U19 lead by 108 runs",
+      "status": "Day 4: 3rd Session - Sri Lanka U19 trail by 127 runs",
       "venue": "Galle International Stadium, Galle",
       "date": "2026-07-13",
       "dateTimeGMT": "2026-07-13T04:00:00",
@@ -572,10 +572,16 @@
           "inning": "sri lanka u19 Inning 1"
         },
         {
-          "r": 532,
-          "w": 7,
-          "o": 167,
+          "r": 576,
+          "w": 10,
+          "o": 173.5,
           "inning": "Sri Lanka U19,India U19 Inning 1"
+        },
+        {
+          "r": 25,
+          "w": 1,
+          "o": 6.5,
+          "inning": "sri lanka u19 Inning 2"
         }
       ],
       "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
