@@ -1,51 +1,91 @@
 {
-  "lastUpdated": "2026-07-18T09:13:33.931Z",
+  "lastUpdated": "2026-07-18T14:59:15.424Z",
   "articles": [
+    {
+      "title": "David Willey: 'Somerset looked like they thought they'd won it'",
+      "url": "https://www.cricinfo.com/ci/content/story/1546119.html?ex_cid=OTC-RSS",
+      "description": "&quot;That's like a red rag to a bull to me,&quot; says Northants captain after inspiring turnaround win",
+      "publishedAt": "2026-07-18T14:41:20.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "West Indies, New Zealand meet in Sobers' country to celebrate him",
+      "url": "https://www.cricinfo.com/ci/content/story/1546114.html?ex_cid=OTC-RSS",
+      "description": "Cricket takes a backseat as emotional occasion awaits both teams at Kensington Oval",
+      "publishedAt": "2026-07-18T14:10:02.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Captain Willey takes Northants into final with scrappy defence",
+      "url": "https://www.cricinfo.com/ci/content/story/1546107.html?ex_cid=OTC-RSS",
+      "description": "Reigning champions Somerset fall short chasing 144 as Willey inspires gutsy win",
+      "publishedAt": "2026-07-18T13:58:25.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Muneeba to lead new-look Pakistan T20I squad against SL in Sana's absence",
+      "url": "https://www.cricinfo.com/ci/content/story/1546109.html?ex_cid=OTC-RSS",
+      "description": "Pakistan have dropped Riaz, Javed and Baig and have called up eight players for the tour",
+      "publishedAt": "2026-07-18T13:52:58.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
       "url": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS",
       "description": "Knight Riders have a four-day gap ahead of the game which could be pivotal in the quest for their first title",
-      "publishedAt": "2026-07-18T08:21:17.000Z",
+      "publishedAt": "2026-07-18T13:14:46.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
       "urlToImage": null
     },
     {
-      "title": "Washington out of India's third ODI against England",
+      "title": "Rohit in the spotlight with series on the line at Lord's",
+      "url": "https://www.cricinfo.com/ci/content/story/1546091.html?ex_cid=OTC-RSS",
+      "description": "The series is level 1-1 after England's triumph in Cardiff, and they have not beaten India in a bilateral ODI series since 2018",
+      "publishedAt": "2026-07-18T13:03:00.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "For Yastika Bhatia, every setback is 'fuel to come back stronger'",
+      "url": "https://www.cricinfo.com/ci/content/story/1546097.html?ex_cid=OTC-RSS",
+      "description": "With patience and resilience, she transformed a challenging phase in her career into one that has left her more confident than ever",
+      "publishedAt": "2026-07-18T11:49:18.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Bangladesh eye series win to finish forgettable tour",
+      "url": "https://www.cricinfo.com/ci/content/story/1546081.html?ex_cid=OTC-RSS",
+      "description": "After winning the one-off Test and the ODI series, Zimbabwe have the chance to clinch the T20I series too",
+      "publishedAt": "2026-07-18T10:55:50.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Harsh Dubey replaces Washington Sundar for third ODI against England",
       "url": "https://www.cricinfo.com/ci/content/story/1546007.html?ex_cid=OTC-RSS",
       "description": "The India allrounder picked up an injury to his leg, leaving the door open for Kuldeep's return",
-      "publishedAt": "2026-07-18T08:55:17.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Tammy Beaumont, Sarah Bryce burn through run chase as The Blaze triumph",
-      "url": "https://www.cricinfo.com/ci/content/story/1546051.html?ex_cid=OTC-RSS",
-      "description": "Kirstie Gordon takes three wickets to restrict Durham to sub-par total",
-      "publishedAt": "2026-07-17T20:37:23.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "BCCI secretary dismisses speculation on Rohit Sharma's ODI future",
-      "url": "https://www.cricinfo.com/ci/content/story/1546048.html?ex_cid=OTC-RSS",
-      "description": "Lord's ODI wont be his last match, says Devajit Saikia",
-      "publishedAt": "2026-07-17T19:24:13.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "ODI World Cup Qualifier winner gains direct entry to 2027 main round",
-      "url": "https://www.cricinfo.com/ci/content/story/1546041.html?ex_cid=OTC-RSS",
-      "description": "They will avoid the Super Series which will eliminate two of the four teams coming into the World Cup",
-      "publishedAt": "2026-07-17T17:44:17.000Z",
+      "publishedAt": "2026-07-18T12:10:12.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -55,197 +95,117 @@
       "title": "Garry Sobers dies, aged 89",
       "url": "https://www.cricinfo.com/ci/content/story/1546030.html?ex_cid=OTC-RSS",
       "description": "Former West Indies allrounder passed away at his home in Barbados",
-      "publishedAt": "2026-07-17T17:40:23.000Z",
+      "publishedAt": "2026-07-18T09:48:03.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
       "urlToImage": null
     },
     {
-      "title": "Heather Graham shines in tense finish as Durham stun Hampshire",
-      "url": "https://www.cricinfo.com/ci/content/story/1546039.html?ex_cid=OTC-RSS",
-      "description": "Hampshire shed wickets at regular intervals as Sophia Turner takes 3 for 21",
-      "publishedAt": "2026-07-17T17:12:01.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Greaves and King return for final two ODIs against New Zealand",
-      "url": "https://www.cricinfo.com/ci/content/story/1546034.html?ex_cid=OTC-RSS",
-      "description": "They will replace the injured Chase and Campbell respectively, while Pierre flies out after playing the three games in Guyana",
-      "publishedAt": "2026-07-17T16:46:42.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rohit Sharma's international future hangs in the balance",
-      "url": "https://www.cricinfo.com/ci/content/story/1545925.html?ex_cid=OTC-RSS",
-      "description": "India selectors tell 39-year-old batter he is not part of 2027 World Cup plans",
-      "publishedAt": "2026-07-17T16:42:28.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Chris Lynn fit for Northamptonshire's Finals Day tilt",
-      "url": "https://www.cricinfo.com/ci/content/story/1546037.html?ex_cid=OTC-RSS",
-      "description": "Tom Banton (Somerset) and Liam Dawson (Hampshire) have been released to play by England",
-      "publishedAt": "2026-07-17T16:39:42.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'It’s incredibly tough to process that Sir Garry is gone' - Sachin Tendulkar pays homage to deceased West Indies legend",
-      "url": "https://www.crictracker.com/cricket-news/its-incredibly-tough-to-process-that-sir-garry-is-gone-sachin-tendulkar-pays-homage-to-deceased-west-indies-legend/",
-      "description": "The legendary Garfield Sobers breathed his last on Friday, July 17.",
-      "publishedAt": "2026-07-18T08:40:33.000Z",
+      "title": "[WATCH] ENG vs IND 2026: Rohit Sharma, Gautam Gambhir share laughs as retirement rumours are quashed",
+      "url": "https://www.crictracker.com/social-tracker-cricket/watch-eng-vs-ind-2026-rohit-sharma-gautam-gambhir-share-laughs-as-retirement-rumours-are-quashed-4121/",
+      "description": "The third ODI will happen at Lord's on July 19.",
+      "publishedAt": "2026-07-18T13:51:19.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "West Indies vs New Zealand Prediction, 4th ODI – Who will win today’s match between WI vs NZ?",
-      "url": "https://www.crictracker.com/cricket-match-predictions/west-indies-vs-new-zealand-prediction-4th-odi-who-will-win-todays-match-between-wi-vs-nz-8945/",
-      "description": "New Zealand are leading the series 2-1.",
-      "publishedAt": "2026-07-18T08:30:38.000Z",
+      "title": "'We should celebrate his life, not…’ - Kapil Dev on Rohit Sharma's retirement speculation",
+      "url": "https://www.crictracker.com/cricket-news/we-should-celebrate-his-life-not-kapil-dev-on-rohit-sharmas-retirement-speculation-5871/",
+      "description": "Rumours about Rohit's retirement have intensified during India's ongoing ODI series against England, with reports suggesting that the third ODI at Lord's could potentially be his final appearance.",
+      "publishedAt": "2026-07-18T13:01:16.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'We need that experience' - Ashwin on Virat Kohli and Rohit Sharma for 2027 World Cup",
-      "url": "https://www.crictracker.com/cricket-news/we-need-that-experience-ashwin-on-virat-kohli-and-rohit-sharma-for-2027-world-cup/",
-      "description": "Rohit has had a torrid time with the bat in the England series. He has scored just 37 runs in two innings, with an 11 in the first game and a laborious 47-ball 26 in the second",
-      "publishedAt": "2026-07-18T08:31:19.000Z",
+      "title": "ENG vs IND 2026: Harsh Dubey replaces injured Washington Sundar for series-deciding Lord's ODI",
+      "url": "https://www.crictracker.com/cricket-news/eng-vs-ind-2026-harsh-dubey-replaces-injured-washington-sundar-for-series-deciding-lords-odi/",
+      "description": "The third ODI will take place on July 19 at Lord's.",
+      "publishedAt": "2026-07-18T12:53:09.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Zimbabwe vs Bangladesh Prediction, 3rd T20I – Who will win today’s match between ZIM vs BAN?",
-      "url": "https://www.crictracker.com/cricket-match-predictions/zimbabwe-vs-bangladesh-prediction-3rd-t20i-who-will-win-todays-match-between-zim-vs-ban-0632/",
-      "description": "The series is tied at 1-1 after the first two matches.",
-      "publishedAt": "2026-07-18T08:19:22.000Z",
+      "title": "LPL 2026: Match 4, DS vs JK Match Prediction – Who will win today’s LPL match between Dambulla Sixers vs Jaffna Kings?",
+      "url": "https://www.crictracker.com/cricket-match-predictions/lpl-2026-match-4-ds-vs-jk-match-prediction-who-will-win-todays-lpl-match-between-dambulla-sixers-vs-jaffna-kings/",
+      "description": "With the tournament in its early stages, both sides will want to get a win under their belt to kickstart their campaigns.",
+      "publishedAt": "2026-07-18T12:16:46.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "LPL 2026: Match 5, CK vs KR Match Prediction – Who will win today’s LPL match between Colombo Kaps vs Kandy Royals?",
-      "url": "https://www.crictracker.com/cricket-match-predictions/lpl-2026-match-5-ck-vs-kr-match-prediction-who-will-win-todays-lpl-match-between-colombo-kaps-vs-kandy-royals-0677/",
-      "description": "The fifth match of the LPL 2026 will happen at the Sinhalese Sports Club, Colombo.",
-      "publishedAt": "2026-07-18T07:31:47.000Z",
+      "title": "What is India's record at Lord's in ODIs?",
+      "url": "https://www.crictracker.com/cricket-stats-mania/what-is-indias-record-at-lords-in-odis-1242/",
+      "description": "While Lord's has produced some of the most memorable moments in Indian cricket, the Men in Blue have struggled to consistently replicate that success in the 50-over format.",
+      "publishedAt": "2026-07-18T12:29:17.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "England vs India Prediction, 3rd ODI – Who will win today’s match between ENG vs IND?",
-      "url": "https://www.crictracker.com/cricket-match-predictions/england-vs-india-prediction-3rd-odi-who-will-win-todays-match-between-eng-vs-ind/",
-      "description": "The final game of the series will be played at Lord's Cricket Ground.",
-      "publishedAt": "2026-07-18T07:22:56.000Z",
+      "title": "3 IPL coaches who rejected international team coaching jobs",
+      "url": "https://www.crictracker.com/cricket-appeal/3-ipl-coaches-who-rejected-international-team-coaching-jobs-3121/",
+      "description": "Not only the players but even the coaches also have to decide between franchise and international cricket in their respective careers.",
+      "publishedAt": "2026-07-18T10:29:32.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "ECB makes changes to injury replacement role in county games after consultation",
-      "url": "https://www.crictracker.com/cricket-news/ecb-makes-changes-to-injury-replacement-role-in-county-games-after-consultation/",
-      "description": "Injury and illness replacements will now only be available to teams in their respective first innings, and the replacement must be like-for-like based on skill set and not ability or experience.",
-      "publishedAt": "2026-07-18T06:41:01.000Z",
+      "title": "What is Virat Kohli's record at Lord's in ODIs?",
+      "url": "https://www.crictracker.com/cricket-stats-mania/what-is-virat-kohlis-record-at-lords-in-odis/",
+      "description": "Virat Kohli is heading into the third ODI against England on the back of a fluent half-century in Cardiff.",
+      "publishedAt": "2026-07-18T10:52:40.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'If his bowling numbers don't improve, why would you carry him?' - Aakash Chopra on Tilak Varma potentially replacing Washington Sundar in ODIs",
-      "url": "https://www.crictracker.com/cricket-news/if-hiss-bowling-numbers-dont-improve-why-would-you-carry-him-aakash-chopra-on-tilak-varma-potentially-replacing-washington-sundar-in-odis/",
-      "description": "Aakash Chopra said that if India do not want to use Washington Sundar's bowling abilities, it is better to have Tilak Varma in the ODI setup in his place.",
-      "publishedAt": "2026-07-18T06:45:56.000Z",
+      "title": "Andy Gorvin named Glamorgan captain for 2026 One-Day Cup",
+      "url": "https://www.crictracker.com/cricket-news/andy-gorvin-named-glamorgan-captain-for-one-day-cup/",
+      "description": "Glamorgan will kick off their campaign against Sussex at the Gnoll in Neath on Wednesday, July 22.",
+      "publishedAt": "2026-07-18T11:30:51.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Henry Brookes leaves Middlesex to join Gloucestershire on a three-year deal",
-      "url": "https://www.crictracker.com/cricket-news/henry-brookes-leaves-middlesex-to-join-gloucestershire-on-a-three-year-deal/",
-      "description": "Brookes joined Gloucestershire ahead of the 2026 season on a long deal, which was unfortunately cut short after two County Championship matches",
-      "publishedAt": "2026-07-18T06:04:37.000Z",
+      "title": "'He should keep playing' - Rohit Sharma backed by former Pakistani cricketer amid retirement talks",
+      "url": "https://www.crictracker.com/cricket-news/he-should-keep-playing-rohit-sharma-backed-by-former-pakistani-cricketer-amid-retirement-talks/",
+      "description": "Rohit has been having a torrid time with the bat throughout the England series, scoring just 37 runs in three innings.",
+      "publishedAt": "2026-07-18T10:37:19.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "‘Just like he is for Argentina…’ - Mohammad Kaif cites Lionel Messi's example to back Virat Kohli and Rohit Sharma for 2027 ODI World Cup",
-      "url": "https://www.crictracker.com/cricket-news/just-like-he-is-for-argentina-mohammad-kaif-cites-lionel-messis-example-to-back-virat-kohli-and-rohit-sharma-for-2027-odi-world-cup-6514/",
-      "description": "Questions over whether Rohit and Kohli remain part of India's long-term plans have intensified in recent weeks, with several reports suggesting that the senior batters could be phased out.",
-      "publishedAt": "2026-07-18T06:29:38.000Z",
+      "title": "ENG vs IND 2026: ‘We are not treating him well’ - Aakash Chopra questions Kuldeep Yadav’s omission",
+      "url": "https://www.crictracker.com/cricket-news/eng-vs-ind-2026-we-are-not-treating-him-well-aakash-chopra-questions-kuldeep-yadavs-omission-7980/",
+      "description": "“The more you think about him, the more you realise what is happening? Why is justice never done to this guy? Why does this guy never get proper opportunities?,\" said Chopra.",
+      "publishedAt": "2026-07-18T10:49:33.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Rohit Sharma out, but no such threat to Virat Kohli; Gambhir, Agarkar convinced he’s India’s automatic World Cup pick | Cricket - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNM21XUHlNOHZzZkx3RlFObW9welRKRE45X3pJSU1aemxwQ0Flak5nck9hV0FiSTVheXo2cFRIRngzRXJSSjNoUVNpRU1RdFNBdzJqT0tyOE1HMHpibnhiaWJWYlZwcmFxSTNCQ3dUTHVjeGI1Y3VRWFVuWEFNQ3ROei1uSVFXU25mVmJQLW02bTVrQ1hTTWRuSmp6UnliNGlXU0xRWEZpcFh6bDlyNEdNNFRQdVlFa0ctSndycnVzaTI3anhVRDNUMUk1Y1V1aGdxNVpNamtnVUFFcVNVdjUxWmtScnpEVTNMMElxem1CR1FhbTFnZUZqckotZ2syOHdLTWxsRdIBigJBVV95cUxNZjM0NjNRWHFRRUVLZTRTNjhxSFYwVmV4OWotRG1qVUxPM0h2dnFmRmhUWjJqMEFlQzBPbHo4TndSSWk2Z3pZOGtxS0Fodk9VelJlNVlSdGZoc3ZnTlJqa2FlMFoybjJBZG9WYUVnemowNVVHMkdLN0Y3SXMzOUhKUDB6bWFWRVl1dUk4SHNhdkpuaDRGY3lsVTZzTWt4OUh4bnRwYlV4ZzZ2YXV3eG9VX000eEd3dWQ0V3dSTXV6TTRyRmJha2VoY2tOeVE1UlRqcnpTd0x4Vk1YS3llX1NaVm9HZWZrRllkajd0Z3NNaUFrWTRtdDNrY3NsMkFQTGF1M1Z6ZVhxS0d0Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNM21XUHlNOHZzZkx3RlFObW9welRKRE45X3pJSU1aemxwQ0Flak5nck9hV0FiSTVheXo2cFRIRngzRXJSSjNoUVNpRU1RdFNBdzJqT0tyOE1HMHpibnhiaWJWYlZwcmFxSTNCQ3dUTHVjeGI1Y3VRWFVuWEFNQ3ROei1uSVFXU25mVmJQLW02bTVrQ1hTTWRuSmp6UnliNGlXU0xRWEZpcFh6bDlyNEdNNFRQdVlFa0ctSn",
-      "publishedAt": "2026-07-17T05:37:21.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli leads with touching tribute as cricketing world mourns Sir Garfield Sobers - India Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1fQmdZVzZGR2dBRlk5QWxNLTQ4YkZhY1FOUW5BUzFxaUhqY0hnWk1wNS11UHg5U2dGSi1UNUVzT0VuTVN4OWg0b2xHNzc3clh4Z2hQa21XcUVWUnFJUUhlY3ZMWU9xWmVtUnFHU3pSWGJyallyZzgwc05xREs1cDc1UERtcFJVaTBfbmU2anVIcHJWV2t3cGlta052OUtPSmRjZHE4MWJfNE5OTlpiSEhIWkdmNXlyc2JoRNIBwgFBVV95cUxQelpCbjdHWHd2azBSUHVBa3hMdHhaSUYtTHNmQWF0LVF6dG5HZ01rZW5UbDRTRE5vU1pIdUQxcElpX3Q2NFNCNFpYNEdwbTJCYVA1OTNYTkMzLWRveEk5ODRtUTJhblpwRTlEWkhzZF9wSTlHWUVBWHQ2N0JYN194SnJfbGF5M1Y5blFMVE1qTXZhemhnd2k3UjVKRUFVSFdrWmVnVFBHTUtoMW5JbzJOZXBZUm8wWkE1emdqekFfbDhUdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1fQmdZVzZGR2dBRlk5QWxNLTQ4YkZhY1FOUW5BUzFxaUhqY0hnWk1wNS11UHg5U2dGSi1UNUVzT0VuTVN4OWg0b2xHNzc3clh4Z2hQa21XcUVWUnFJUUhlY3ZMWU9xWmVtUnFHU3pSWGJyallyZzgwc05xREs1cDc1UERtcFJVaTBfbmU2anVIcHJWV2t3cGlta052OUtPSmRjZHE4MWJfNE5OTlpiSEhIWkdmNXlyc2",
-      "publishedAt": "2026-07-18T04:39:08.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Do we need Virat Kohli and Rohit Sharma?': R Ashwin breaks silence on India's 2027 World Cup plans - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkpkRDNkbTNJWWZUSUFwT0dBZzg4YnJsQS1WZWdqR3daQ08xeFpnaHJHSm1wV08tUUNrRDZmN1BwQy1LMXE3anAzNTJyS2UzVmNHblJNWXRrTFc0aXpXdXdpc0dCSXc5V2ttVXhnZVB0SzNDUkNBTFhHWTJNSll0MG5UeFRPcTVHcjY1WnQxTExSTTUzaU5mSEpiUzFWUGZvZEdYSGxyRXJ2MzBodkx4Q3hQUEFzNEFkUHJTX1pOUnJUZnJzSFQtRTkxRkRreWVETE9zM1QydWlEcjB6NzliNlZGbFM3aHJBanZtaFNLSFY2cXB4SlBXdGI1bm1QUnNJd0RDQWxJONIBjAJBVV95cUxPb2g4ZWhtd2FDM0JvRE1udThKRWVNa2J6Y25leXhOV2d5YVhmSDY0aFZGVzVlUW9RNjY0X2M3VklWVTd5djgxeE1sNXJBaFZmNEVrNTFHX21xbFg1VFVBZDl3c19MVHkyOFB2MlNvOWhRRExjeHpFYXo0U09GQ1ViMUhjakpyakd5Njg1dTJYdThmNm9VZmdXcGpyTGdicE1VUXdwNEVpTkhvX3M5ajBYSE5oREt6RWFYcE82eHdFT29HQWVucU9qekdxR240X3RGYVd1a1NYRzdsaEttNzVpZGVhR1dsVTdKcVRCWExvMmNJS0FrNWpjOWU0c1BqZXV1a3gxaEVwYkJvZ2VW?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkpkRDNkbTNJWWZUSUFwT0dBZzg4YnJsQS1WZWdqR3daQ08xeFpnaHJHSm1wV08tUUNrRDZmN1BwQy1LMXE3anAzNTJyS2UzVmNHblJNWXRrTFc0aXpXdXdpc0dCSXc5V2ttVXhnZVB0SzNDUkNBTFhHWTJNSll0MG5UeFRPcTVHcjY1WnQxTExSTTUzaU5mSEpiUzFWUGZvZEdYSGxyRXJ2MzBodkx4Q3hQUEFzNEFkUH",
-      "publishedAt": "2026-07-18T01:30:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Cricket has lost one of its greatest': Virat Kohli pays heartfelt tribute to Sir Garfield Sobers - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWTFOX09mamVaODBjbTdQNnZzNzA2Y2FFZkVGOFh4VU9POW90Ul9odTdBM0RaRzNtRjZ0WXRrdGZWMm1haEhYckNWMGswZENJOW5BQlhlMEVyZ1pIbTRHOGRDSlBualYxYlBsbDhmTnZtU2tJWHRfM2xqNUxhRmczR29jcmZVSXlLTXh6MXlySHZpMDctbExuam02S0FQR3Bnb2tSSjhSTkhRREJ4RFI1bzV2WWZQTWZlMFlmaWZ2SkRIbnMwMEdzWlctREIwQWtpUjlpc19qS3VBZXl5LTRoZTFPMVNwb1REZjlnS0pMeGlYZ05ucldMaXpVdUfSAYICQVVfeXFMTUEwaWZGanJSMzZZdjlzQjR3clpsUnNPcmNldXE5UUhTbTlaMUpBWHF4bXJIallrZ0ZOekFhVDJYNjVRTnpPaWV4VDhzaDNUS3RlcFVwdGtVOU5MV2FnbWxDX1poYm5rcTBkak1wUXVRUWVoOWsyclpYWjFfbGxQTnU0by1FRVg3LW5YaDI5VFpfT0JmcmI0cVNXRlFaazN2UlUwSUZHQWdCb283SDZ2aW44YXBYcHQ4RThTQ1BabDc5RHVSZ1lkeE1hSURSU0pQV1BQYzBJeVlkSmp4bUhPVnc5Mnp6MjRRNjhIdlRzM3ZkSmZtdUNhMXRUcXpsVzRPNFp3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWTFOX09mamVaODBjbTdQNnZzNzA2Y2FFZkVGOFh4VU9POW90Ul9odTdBM0RaRzNtRjZ0WXRrdGZWMm1haEhYckNWMGswZENJOW5BQlhlMEVyZ1pIbTRHOGRDSlBualYxYlBsbDhmTnZtU2tJWHRfM2xqNUxhRmczR29jcmZVSXlLTXh6MXlySHZpMDctbExuam02S0FQR3Bnb2tSSjhSTkhRREJ4RFI1bzV2WWZQTWZlMF",
-      "publishedAt": "2026-07-18T04:45:18.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Cricket world pays tribute as Virat Kohli & Sachin Tendulkar mourn the loss of Sir Garry Sobers: 'Cricket lost one of its greatest' - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdnNfZkhmWXI2czlTYWc1NjhKdVIwam1XS3lwSTRIb2J3OVAxeTdORTFISzNHMUpiOVhVd1VsejliTkVuNXc1RTNUMjNBRTdkVFJnanRSN0R6M0dqV2tEc20tc2hOS2JQNF8wMW84Tk1fWWtKd3NSa3JBYXpHTzZ2blV5Tmw1cmZDYmhWU3hSWUhWYW5CcnVYUTF6b3hNNDJrdmwxOERVU3MtSTdxSl9YSjJ4cWZjM2FheWs1NEJuclRCUGh1SENVbW5KdjctQ05XVUluV2NqN3RjdUJpVjlJ0gHkAUFVX3lxTE9qNlAtZ0xORmdDb1Q4U2tZTTZ2WEo2SExkRVNXYkZxeHl1Y1BSVFdiODFmQTRwM0Q1cVVXRlI2VF9NNjJRTGhSd3NVMkNvMVIzTUdlb3NFM2dfYlo5RXg2OWRTbEJuS3N1a1dndVhmN29uTmdHcEM2ZTNPZmNOTFFMR2hISERrOGp6QURsRkdIR2tOZnZTbjZPWWFySFdRYm1VbHd2RmY4ZUhqZXBjYUVLMFdYWjFOa1VQcG1KbjNpUFhzVzE3TXREcXZ3WjVpZGZpOXcyMmQ1a0d4ZkJBSkg5RVNKMw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdnNfZkhmWXI2czlTYWc1NjhKdVIwam1XS3lwSTRIb2J3OVAxeTdORTFISzNHMUpiOVhVd1VsejliTkVuNXc1RTNUMjNBRTdkVFJnanRSN0R6M0dqV2tEc20tc2hOS2JQNF8wMW84Tk1fWWtKd3NSa3JBYXpHTzZ2blV5Tmw1cmZDYmhWU3hSWUhWYW5CcnVYUTF6b3hNNDJrdmwxOERVU3MtSTdxSl9YSjJ4cWZjM2FheW",
-      "publishedAt": "2026-07-18T07:26:23.000Z",
+      "title": "Mohammad Kaif cites Lionel Messi example to explain why India needs Virat Kohli and Rohit Sharma at 2027 ODI World Cup - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE1rSm01YUlwSkxfaGFTWGw0YXBkMy1wX0lyVm9kU3IxWkVSUzNNZGhLbm56dXFkN0pTa3pWeXUtQmxvTUNXWVZDOFE4SWZRME5VbTBNVmdVd0hWS1RYak45ZDEwWkxoZ3dXQ2d6SU14dHVxQ0hJeUpWRWhOSGoydUEwcXp6Rkoz?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE1rSm01YUlwSkxfaGFTWGw0YXBkMy1wX0lyVm9kU3IxWkVSUzNNZGhLbm56dXFkN0pTa3pWeXUtQmxvTUNXWVZDOFE4SWZRME5VbTBNVmdVd0hWS1RYak45ZDEwWkxoZ3dXQ2d6SU14dHVxQ0hJeUpWRWhOSGoydUEwcXp6Rkoz?oc=5\" target=\"_blank\">Mohammad Kaif cites Lionel Messi example to",
+      "publishedAt": "2026-07-18T05:06:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -262,20 +222,30 @@
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli honors Sir Garfield Sobers after his passing - The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTko1OTFobWp0X1k0NC1pNEU0Vk9nbXpuS0l2cUVCYUVSTEFvb1NFTF9NUGVZVlVQQjh0azA0cTRueXZWbk9JNEdPbjZsQ0Mwdy1zVWplQUpLWDEtRlUxUEJ6YlI0cmpRaW53b3ZFUXp0anVxWWZ0aXRQWmFvZ3ZpNnlZeGlEZFlZMzV1T3pOTzFQaVY5bTBkUTZQdU92T05lWGV4Yw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTko1OTFobWp0X1k0NC1pNEU0Vk9nbXpuS0l2cUVCYUVSTEFvb1NFTF9NUGVZVlVQQjh0azA0cTRueXZWbk9JNEdPbjZsQ0Mwdy1zVWplQUpLWDEtRlUxUEJ6YlI0cmpRaW53b3ZFUXp0anVxWWZ0aXRQWmFvZ3ZpNnlZeGlEZFlZMzV1T3pOTzFQaVY5bTBkUTZQdU92T05lWGV4Yw?oc=5\" target=\"_blank\">Virat",
-      "publishedAt": "2026-07-18T04:32:32.000Z",
+      "title": "Virat Kohli leads with touching tribute as cricketing world mourns Sir Garfield Sobers - India Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1fQmdZVzZGR2dBRlk5QWxNLTQ4YkZhY1FOUW5BUzFxaUhqY0hnWk1wNS11UHg5U2dGSi1UNUVzT0VuTVN4OWg0b2xHNzc3clh4Z2hQa21XcUVWUnFJUUhlY3ZMWU9xWmVtUnFHU3pSWGJyallyZzgwc05xREs1cDc1UERtcFJVaTBfbmU2anVIcHJWV2t3cGlta052OUtPSmRjZHE4MWJfNE5OTlpiSEhIWkdmNXlyc2JoRNIBwgFBVV95cUxQelpCbjdHWHd2azBSUHVBa3hMdHhaSUYtTHNmQWF0LVF6dG5HZ01rZW5UbDRTRE5vU1pIdUQxcElpX3Q2NFNCNFpYNEdwbTJCYVA1OTNYTkMzLWRveEk5ODRtUTJhblpwRTlEWkhzZF9wSTlHWUVBWHQ2N0JYN194SnJfbGF5M1Y5blFMVE1qTXZhemhnd2k3UjVKRUFVSFdrWmVnVFBHTUtoMW5JbzJOZXBZUm8wWkE1emdqekFfbDhUdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1fQmdZVzZGR2dBRlk5QWxNLTQ4YkZhY1FOUW5BUzFxaUhqY0hnWk1wNS11UHg5U2dGSi1UNUVzT0VuTVN4OWg0b2xHNzc3clh4Z2hQa21XcUVWUnFJUUhlY3ZMWU9xWmVtUnFHU3pSWGJyallyZzgwc05xREs1cDc1UERtcFJVaTBfbmU2anVIcHJWV2t3cGlta052OUtPSmRjZHE4MWJfNE5OTlpiSEhIWkdmNXlyc2",
+      "publishedAt": "2026-07-18T04:39:08.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "‘Just like he is for Argentina…’ - Mohammad Kaif cites Lionel Messi's example to back Virat Kohli and Rohit Sharma for 2027 ODI World Cup - Yardbarker",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQWdsVVFFS294SUZUa2llVVFOU3B3QzdYNzZFdmJFTFNwOHZsZHN6Y1N0ZV9tU2t6ZEdDYzMwd3NFT2xMRXRaMTZmOHU5Mm53RW9ndk5WNklYakFIWnlsZjB5S01Tc0trWFp4VlhvUnhaQTRKZEtVWU9McHJYdlF6aVpZVmIwSkRHa0x0bFBTLTZxWjlOVXZkc2xkV2FYaVg0YzlnTW0wMzdranE1ajhDLVl0S2c0ZWpFQ01EdlNja3hfWUZwRjdMZ0I2SnJBSEFPUFEzeVVZUEVZRjRaSFNYb0ZhOXlJOUpQSDVGbG00cUkwN1hvVUd2ZHZQejVFOXlFeUZIbmR5NWd1QnEzMFo5a0hHbkFMei1HUF9hMGl3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQQWdsVVFFS294SUZUa2llVVFOU3B3QzdYNzZFdmJFTFNwOHZsZHN6Y1N0ZV9tU2t6ZEdDYzMwd3NFT2xMRXRaMTZmOHU5Mm53RW9ndk5WNklYakFIWnlsZjB5S01Tc0trWFp4VlhvUnhaQTRKZEtVWU9McHJYdlF6aVpZVmIwSkRHa0x0bFBTLTZxWjlOVXZkc2xkV2FYaVg0YzlnTW0wMzdranE1ajhDLVl0S2c0ZWpFQ0",
-      "publishedAt": "2026-07-18T06:40:45.000Z",
+      "title": "Cricket world pays tribute as Virat Kohli & Sachin Tendulkar mourn the loss of Sir Garry Sobers: 'Cricket lost one of its greatest' - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdnNfZkhmWXI2czlTYWc1NjhKdVIwam1XS3lwSTRIb2J3OVAxeTdORTFISzNHMUpiOVhVd1VsejliTkVuNXc1RTNUMjNBRTdkVFJnanRSN0R6M0dqV2tEc20tc2hOS2JQNF8wMW84Tk1fWWtKd3NSa3JBYXpHTzZ2blV5Tmw1cmZDYmhWU3hSWUhWYW5CcnVYUTF6b3hNNDJrdmwxOERVU3MtSTdxSl9YSjJ4cWZjM2FheWs1NEJuclRCUGh1SENVbW5KdjctQ05XVUluV2NqN3RjdUJpVjlJ0gHkAUFVX3lxTE9qNlAtZ0xORmdDb1Q4U2tZTTZ2WEo2SExkRVNXYkZxeHl1Y1BSVFdiODFmQTRwM0Q1cVVXRlI2VF9NNjJRTGhSd3NVMkNvMVIzTUdlb3NFM2dfYlo5RXg2OWRTbEJuS3N1a1dndVhmN29uTmdHcEM2ZTNPZmNOTFFMR2hISERrOGp6QURsRkdIR2tOZnZTbjZPWWFySFdRYm1VbHd2RmY4ZUhqZXBjYUVLMFdYWjFOa1VQcG1KbjNpUFhzVzE3TXREcXZ3WjVpZGZpOXcyMmQ1a0d4ZkJBSkg5RVNKMw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdnNfZkhmWXI2czlTYWc1NjhKdVIwam1XS3lwSTRIb2J3OVAxeTdORTFISzNHMUpiOVhVd1VsejliTkVuNXc1RTNUMjNBRTdkVFJnanRSN0R6M0dqV2tEc20tc2hOS2JQNF8wMW84Tk1fWWtKd3NSa3JBYXpHTzZ2blV5Tmw1cmZDYmhWU3hSWUhWYW5CcnVYUTF6b3hNNDJrdmwxOERVU3MtSTdxSl9YSjJ4cWZjM2FheW",
+      "publishedAt": "2026-07-18T07:26:23.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "What is Virat Kohli's record at Lord's in ODIs? - Yardbarker",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0l5VEI0VmM1OXk0NG5WbUdrUk91WkhmSlM2MkRXUHp4Qjd4dXlaaVFGRW13UjlPS1lHNGlzOWFNZ20ydW95Q1dRZnN2X3FxVlR0dkUwTWdGTkdMandsXzZNeGNxNkJENUFIdkJxN2NISlQwOEJXc1FnVFhHRUxEaTlGeWdLcmtKSF9PUFhKMlNzS2JmRGZlMl9sNE1xb2RxX1pvTWx5c1FhZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0l5VEI0VmM1OXk0NG5WbUdrUk91WkhmSlM2MkRXUHp4Qjd4dXlaaVFGRW13UjlPS1lHNGlzOWFNZ20ydW95Q1dRZnN2X3FxVlR0dkUwTWdGTkdMandsXzZNeGNxNkJENUFIdkJxN2NISlQwOEJXc1FnVFhHRUxEaTlGeWdLcmtKSF9PUFhKMlNzS2JmRGZlMl9sNE1xb2RxX1pvTWx5c1FhZw?oc=5\" target=\"_blan",
+      "publishedAt": "2026-07-18T11:47:29.000Z",
       "source": {
         "name": "Google News"
       },
@@ -292,80 +262,40 @@
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli, Sachin, Gavaskar pay tribute to Sir Garfield Sobers after West Indies legend dies at 89 - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdDFGT0d5bC0yX3dGSXhTYl8ybU4yQVBXYW5MY0dQTVVNU3d5cjRVMndfaHotdkc2S1R1Q1BERHRxNmdybzV3ZDRHZE9UZlJOSi14dURlbFFWNEhCRGJIb19OSExSZ0pxSDk2SmE4UF9kVkltRkZZVjNVRzhBQkhQUUJZM0hGdHFjdjFXWVJIQldpVm80dEZZajcxbTdOUjVGRjJoZGt3MlhITjJpOThRLUhFeWViNG5OMU54UlFScThKSlAwSHNLRFkxSy1OclFsUWNIMlROZ3dpdlRZRXB0d2QycnDSAeoBQVVfeXFMT2VnUzkyc2VEbEhXZGVDbU50RlRteWk0MVBJSmhWWU5nRVZ2Ull4MlB6dmpNeTNRRXcxazhoaE1qVHpoQkxSX0NlamdDM2hITUltSFlkdjdudGNHeDNWTjNwdFc4OW5zNkhmMTF4cUEtbHNVckI4ZWRWTXh1dERUWEVXbVdPSVprcUFtSlAwUXM2dkF3ZVpDdHlkYzFOZ3E2Vl9VNHEwcXU3Q2EwcU94c1JuUld5MXY5blRGblJrOTVjZ3E1aU5reFVLaUFGTlB5ZlM1OFY3anRRUGk5WGV5YXgzSlItNXRWdkhn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdDFGT0d5bC0yX3dGSXhTYl8ybU4yQVBXYW5MY0dQTVVNU3d5cjRVMndfaHotdkc2S1R1Q1BERHRxNmdybzV3ZDRHZE9UZlJOSi14dURlbFFWNEhCRGJIb19OSExSZ0pxSDk2SmE4UF9kVkltRkZZVjNVRzhBQkhQUUJZM0hGdHFjdjFXWVJIQldpVm80dEZZajcxbTdOUjVGRjJoZGt3MlhITjJpOThRLUhFeWViNG5OMU",
-      "publishedAt": "2026-07-18T05:44:00.000Z",
+      "title": "Virat Kohli score today: How much did India star score against England in 2nd ODI in Cardiff - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQm45eWV3UnYwb1pqbFBxRkZRWnBxUER2eWozSHpCalppYmhLazE5dHkxZVlHczBWVUpNWmRXakRlaFNROG1kaE5IZ3NPTE9NU1R1V0xPcllwZDVvUmtfM2cwS2RrZDdJNDA4WERVZFFJNldRaEdUVU8wWVFjNVhGQzZhYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQm45eWV3UnYwb1pqbFBxRkZRWnBxUER2eWozSHpCalppYmhLazE5dHkxZVlHczBWVUpNWmRXakRlaFNROG1kaE5IZ3NPTE9NU1R1V0xPcllwZDVvUmtfM2cwS2RrZDdJNDA4WERVZFFJNldRaEdUVU8wWVFjNVhGQzZhYw?oc=5\" target=\"_blank\">Virat Kohli score today: How much did India star ",
+      "publishedAt": "2026-07-16T14:23:01.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5\" target=\"_blank\">Transfer Centre LIVE! Football transfer news, updates and rumours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</",
-      "publishedAt": "2026-07-17T19:03:39.000Z",
+      "title": "Virat Kohli and Rohit Sharma ODI record in England: India legends' incredible stats on English soil listed - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1Y5SENFbG5nM3BGN1Bkd1g5XzFqS0wyaGE5aWpWMVZ1aG1OTktUUEJUUTFBa1poVTQzM2Fpa080YTQ2UG1wMF9oWjNCOExUSnU5U0ZZZUhrRzRqaFhMaWkxWEM2N0g3NDdDNFhfTVU1eURBbmt0ZnhZbXp4bmhKTHMtNA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1Y5SENFbG5nM3BGN1Bkd1g5XzFqS0wyaGE5aWpWMVZ1aG1OTktUUEJUUTFBa1poVTQzM2Fpa080YTQ2UG1wMF9oWjNCOExUSnU5U0ZZZUhrRzRqaFhMaWkxWEM2N0g3NDdDNFhfTVU1eURBbmt0ZnhZbXp4bmhKTHMtNA?oc=5\" target=\"_blank\">Virat Kohli and Rohit Sharma ODI record in Englan",
+      "publishedAt": "2026-07-13T16:22:30.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTU",
-      "publishedAt": "2026-07-14T17:31:52.000Z",
+      "title": "Not Virat Kohli or Rohit Sharma: R Ashwin picks this star as the player India will never be able to replace - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGpzSnZNTWpvZFU4Z0dyVHRYWHh6WUNKOFE0aXVVMU0teWJvOXVtcEdrQTE5UzRGUk4wTmE5OVZuM1I3M0NWMXhsT0RnckJ0Ni0ydnBkdGNQcThGOGNQS2dhd0NwZkt2eWZuUlEyajlTTDM2Q3o4a2VsT2FaM1JMOTRXcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGpzSnZNTWpvZFU4Z0dyVHRYWHh6WUNKOFE0aXVVMU0teWJvOXVtcEdrQTE5UzRGUk4wTmE5OVZuM1I3M0NWMXhsT0RnckJ0Ni0ydnBkdGNQcThGOGNQS2dhd0NwZkt2eWZuUlEyajlTTDM2Q3o4a2VsT2FaM1JMOTRXcw?oc=5\" target=\"_blank\">Not Virat Kohli or Rohit Sharma: R Ashwin picks t",
+      "publishedAt": "2026-07-15T10:00:51.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Today's cricket news (July 17) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODFQS2xXTmh0QXhHd1ZLa3laUkZYMHAxb0Z6ZVZaQlJUSzE0dUxuUC1PTmloUWxha2phZGQ4Y3p2b2hfV05pZ0UwMXNMdnF3eXJhMTBvcVo3MmVMeldtWGc1MWJKcUNTZDdXaVdRelNXOHpJS1Mtam12V3lkZGV5VnRSOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPODFQS2xXTmh0QXhHd1ZLa3laUkZYMHAxb0Z6ZVZaQlJUSzE0dUxuUC1PTmloUWxha2phZGQ4Y3p2b2hfV05pZ0UwMXNMdnF3eXJhMTBvcVo3MmVMeldtWGc1MWJKcUNTZDdXaVdRelNXOHpJS1Mtam12V3lkZGV5VnRSOA?oc=5\" target=\"_blank\">Today's cricket news (July 17)</a>&nbsp;&nbsp;<fo",
-      "publishedAt": "2026-07-17T12:02:46.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0",
-      "publishedAt": "2026-07-16T19:17:52.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Today's cricket news (July 13) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkFBcGNrbVJpNlFzWmRpQTVjWDBqc2owN1pxNXVVUDctbzRXQnBqRzVNUU5PWk5QV3EwNzZhTmFJenVfYnlaa284VEwxbVhJSC1UaTFSQ2d2cHU3bGp2OWsxNXZadWUwTlp3eEt2X0g3bHFFNl9pX25DQzkzSkxnS3FBUVFqNDBHVExuQjJ6RGh4SzlDdFdMdGFHeTZhOVNUX0pUV0J0U28xTG95eUMxaWZ2NnRSanpmeGp2c2RLTE93dXNkLU9yTFgxZkVYQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkFBcGNrbVJpNlFzWmRpQTVjWDBqc2owN1pxNXVVUDctbzRXQnBqRzVNUU5PWk5QV3EwNzZhTmFJenVfYnlaa284VEwxbVhJSC1UaTFSQ2d2cHU3bGp2OWsxNXZadWUwTlp3eEt2X0g3bHFFNl9pX25DQzkzSkxnS3FBUVFqNDBHVExuQjJ6RGh4SzlDdFdMdGFHeTZhOVNUX0pUV0J0U28xTG95eUMxaWZ2NnRSanpmeG",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Today's cricket news (July 15) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXJYTWRQbEM5dDh3Wl9YRXJoNHRCaHkxbi0ybV9acmoxNWVfOVpRX2RzZGozdk1fNTZLU0hUUjJNdzhqcWloTERORDhTdEN4RHJlRzkxTXU2VjhKanhuNGk0Ync5a1hkWkhpS3RfaGtlMDNqSVVaNm04NkR2aGZjR0lSVkpJTld3OFVWQmZuQTM1M3NnY0VvNS1kLVZsUldoOFhaVUF1UkktSjlGcFdEcTJfYnFmck43cWhxS1hmZHk3Zmkt?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXJYTWRQbEM5dDh3Wl9YRXJoNHRCaHkxbi0ybV9acmoxNWVfOVpRX2RzZGozdk1fNTZLU0hUUjJNdzhqcWloTERORDhTdEN4RHJlRzkxTXU2VjhKanhuNGk0Ync5a1hkWkhpS3RfaGtlMDNqSVVaNm04NkR2aGZjR0lSVkpJTld3OFVWQmZuQTM1M3NnY0VvNS1kLVZsUldoOFhaVUF1UkktSjlGcFdEcTJfYnFmck43cW",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rohit Sharma tried speaking to top BCCI officials after Agarkar's judgment, but their response left him unhappy: Report | Cricket - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc25GMkpKN2xiSFlvQzRzT1J1ZDZNVnJGd2RhVGtPN3ZBd0N5aVduZzRYWlRoTS1NdjFaTjZ5MTBkQk9iZXNqeXlYTzFwV053ZTNfbVRDNzdvVl9SdFNQb3hsWWdjR0VCMmdBYUNRNjVES3dDOWR3QWp3bkEtQnl3M2doMHV2NlVESzRoUmxrNWRWRkJrcDZKWUZHY2RoOFM1RTRON3JGaTdfQTJuWVpKMWF5VW9hdmk4YkZ5YlpWVGFBZmtHVmlvS3c1TWNyaERlNjQxZ2xQQTg2Y2ZUTG5tWWZtV0xtaDBaeFJFTTBjc2hJVGpubC1GYjhJZHI4dWtkeUFHdmxwWG_SAY4CQVVfeXFMTzk1S3M3YV9hQXNfVWZlSXd0QkJEbEI3WE0tZHRuWEdrSVBnazNxQnM2cE1XRDdmZjlTWmxDdlNzeVRyUUdqM3hWZndsUTZuREF4X0tGd2Y2M1dDOXAyR2M4dGc5YkI5eE80X0czMTBiLXp3OEtocEpjSG1zMnZwb3dJM3hGdFh2c1pScnlIUmxnNG9iMS11VHFCeGNsVzhJRml2VGljNFJSU19NNWQ5MXNpcGp5V0Z1SUZOZDlHMmFwYnBTOUk3bVZDVEpxbkdwNTg5QUpSZG1PaVRfWWlUdFMyaEZ1aHVfX2JnWDJxVTBpQy1IUXd1UjliMG16QUxyaUk3QTR4cHRxZ3h6M3ZR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc25GMkpKN2xiSFlvQzRzT1J1ZDZNVnJGd2RhVGtPN3ZBd0N5aVduZzRYWlRoTS1NdjFaTjZ5MTBkQk9iZXNqeXlYTzFwV053ZTNfbVRDNzdvVl9SdFNQb3hsWWdjR0VCMmdBYUNRNjVES3dDOWR3QWp3bkEtQnl3M2doMHV2NlVESzRoUmxrNWRWRkJrcDZKWUZHY2RoOFM1RTRON3JGaTdfQTJuWVpKMWF5VW9hdmk4Yk",
-      "publishedAt": "2026-07-17T03:30:18.000Z",
+      "title": "'It made the difference!' - Mohammad Kaif reveals how Virat Kohli, Rohit Sharma reshaped India's team dynamics and energy in Edgbaston win - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJwT0cyVVBlWmNxSDMzSHFPd2h6ZzIxR29nYlhiRUV6bjZ0ZGxLOEFWMWFLWWkyWXZpSGFmanFVMlRPS19HRUx0bDhhN21GejBqMEZWYmo2ZVlKcVcyZVVZMmQ3ZEw3OTBEbERBOF95SG4zb3d4QWd4dllwYjQ3Z09FQTBvMTY4THotOU93TQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJwT0cyVVBlWmNxSDMzSHFPd2h6ZzIxR29nYlhiRUV6bjZ0ZGxLOEFWMWFLWWkyWXZpSGFmanFVMlRPS19HRUx0bDhhN21GejBqMEZWYmo2ZVlKcVcyZVVZMmQ3ZEw3OTBEbERBOF95SG4zb3d4QWd4dllwYjQ3Z09FQTBvMTY4THotOU93TQ?oc=5\" target=\"_blank\">'It made the difference!' - Moham",
+      "publishedAt": "2026-07-15T12:20:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -382,20 +312,20 @@
       "urlToImage": null
     },
     {
-      "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMTU0TkhGY0pMaFpsTzFXekZZckNIRWRUZmVjWmZWUkdJNG82VUdqTmxMa0JMWVg2OGlqMXFkVV9kY3ZWcF90cUU3YnhnYWNiWDZfT2dXcTRTRExTb3BGalBTODNHQURteG9zN1k4azRXSDZQWXV0M3VYM3BCTURmNjBVNWNXM0pvU2FEaVJnWG1KcDVIbjlkdXpZZlRwai1qN1EyU2NmNmlSVlFRaUpvdXVEMERaRDJGd2RsNmh2NThlYk5DQWxFVEFGdW9DMm44cHo1MDFEajlkVURDRGtSbzVqNVhRUVlfTDJ4Sk5GdHJWZi1Nb3VteTVR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMTU0TkhGY0pMaFpsTzFXekZZckNIRWRUZmVjWmZWUkdJNG82VUdqTmxMa0JMWVg2OGlqMXFkVV9kY3ZWcF90cUU3YnhnYWNiWDZfT2dXcTRTRExTb3BGalBTODNHQURteG9zN1k4azRXSDZQWXV0M3VYM3BCTURmNjBVNWNXM0pvU2FEaVJnWG1KcDVIbjlkdXpZZlRwai1qN1EyU2NmNmlSVlFRaUpvdXVEMERaRDJGd2",
-      "publishedAt": "2026-07-16T15:50:09.000Z",
+      "title": "ENG vs IND 2nd ODI: Where to watch live streaming of today's ODI match? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUMtcnZfVXJjVmRnWWNnNTM3UjBrMDZZQTJVUGNfS3Vjd25zeHFxQmlqVjVPV1NyaVoxVlFwT29YaWplcERQZzI1Yk1IWUV5RnFLNFpTOHdDeEVHTTFHOXczTG4weHAzTmZoOEtENG9wTV9oRndPTFp6Q2RHYjY2alBDUVFQV3BwNDJXTGotRGNsODMtOFd2ajN4bVZPRzVTQ0dfTHBNYXQ5QUpBM0RVTllaN21NUm1lXzJHVS1mckZpQjB3QmhvM0Jndm9fbzJkMEHSAdcBQVVfeXFMT05KZDRxLUowUklGeFkza1lYSHlqV0JRdkc2NFkwMUdnVXVjanhMdmZETVNJS2JZM1dpT05QWjJMSm5IZlVSVVZsQ1RjZXZRY25zOXNzQlZ5RGN6WTdfRmpFZk1DS0tQelR2RExtM3k2WHE4MUF4Wll2RG5lT3pWVzhFMzNrQ25waVJTM0phdmEwb28ybTE4QVpiQmQwdl9PS2JUc1Uzc3VWRlFCaW11SVlZUVJuX0hoOHNKNWw0YmY1WnNyUkhwOE5IOUc3Y3p6TkJfVTRJMXc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUMtcnZfVXJjVmRnWWNnNTM3UjBrMDZZQTJVUGNfS3Vjd25zeHFxQmlqVjVPV1NyaVoxVlFwT29YaWplcERQZzI1Yk1IWUV5RnFLNFpTOHdDeEVHTTFHOXczTG4weHAzTmZoOEtENG9wTV9oRndPTFp6Q2RHYjY2alBDUVFQV3BwNDJXTGotRGNsODMtOFd2ajN4bVZPRzVTQ0dfTHBNYXQ5QUpBM0RVTllaN21NUm1lXz",
+      "publishedAt": "2026-07-16T11:03:56.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Today's cricket news (July 11) - MSN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFhKeXNnaXU3dEpCN0FiVFdfRTR0dFVyOE4tUkxYUG9yTHdyQmQ2QVlqS3I4MXdET2RBOUFoYTNhcWlza1B0YkZBb2h6WXVzWG4yZkpEYndaS0NKbjRlbEQ5SkYwOGhtd0FjZ1JfczkxSnVITHAwWGVMQzY1TUliZEdZX3RrZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFhKeXNnaXU3dEpCN0FiVFdfRTR0dFVyOE4tUkxYUG9yTHdyQmQ2QVlqS3I4MXdET2RBOUFoYTNhcWlza1B0YkZBb2h6WXVzWG4yZkpEYndaS0NKbjRlbEQ5SkYwOGhtd0FjZ1JfczkxSnVITHAwWGVMQzY1TUliZEdZX3RrZw?oc=5\" target=\"_blank\">Today's cricket news (July 11)</a>&nbsp;&nbsp",
-      "publishedAt": "2026-07-11T12:48:18.000Z",
+      "title": "England vs India 2nd ODI Playing 11, live time (IST), Cardiff Stadium stats - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUwyeTFhcjJrOFMxZU5Lb2RlTGpYUVRpdEtGSlE1Y1Y5Vk1aaDNRZ0w1SUpLQmNVbzBiMDNxR05xZDZUb3B1X0hVS2dvdHZtVktVS09VYjJDZ2R5NEd2X3RLUUtyRmQ0azZSUlpFdnlyWXQ3ZENzR244UW1JUTFHbzZrVG5rRnJvUkRRbEpsTXdnMGwtcEdHb054NG5XdnJOamdISGtHcXNNdjhWYlp4aFRmUDAzOWU1MzFNaExvT1A4dDBKMC1TRUN5MTZ4aGpRcV9DStIB2gFBVV95cUxOTFdkT3Y1OEtPZUdsY0Y2cFNsSHc1aUpLdUtPbmxySlVuUEY1QzZmRDhhb0FORkdMRUJpeXp5TXZmNTZBQVJYWEg1dW9pUlVhWDBEeFM2SnlTWGFFMEUxSTFlRk1mZllzRGd3T0R0VWE3VEtiUGFNUllUWkdZM0ozUUJ4VHRtUGJ2amVtWlpSczJxZGFlU0xudG5BTGpHWXc4YnNsUm5mVFhnRHdUMVRBdzh0Z1ZfcXgzV25fbkFoRzhVOEM1UzZ0a1N5UUh4SHI5Z3JpMFJBRmM0Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUwyeTFhcjJrOFMxZU5Lb2RlTGpYUVRpdEtGSlE1Y1Y5Vk1aaDNRZ0w1SUpLQmNVbzBiMDNxR05xZDZUb3B1X0hVS2dvdHZtVktVS09VYjJDZ2R5NEd2X3RLUUtyRmQ0azZSUlpFdnlyWXQ3ZENzR244UW1JUTFHbzZrVG5rRnJvUkRRbEpsTXdnMGwtcEdHb054NG5XdnJOamdISGtHcXNNdjhWYlp4aFRmUDAzOWU1Mz",
+      "publishedAt": "2026-07-16T05:20:28.000Z",
       "source": {
         "name": "Google News"
       },
@@ -434,6 +364,16 @@
       "urlToImage": null
     },
     {
+      "title": "Heritage comes alive for Durban's young generation - IOL",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjFRNXBvdXpBcHVzVEhYSzdKeUUzUTI5VmFTdFotMGVBRWg4OFJBWU9VN1hlM2tSM0w3UE5ucW51VmdZYUpyMFRaQXJKSEw5ckpkLWU3czh1X1Fmb01ndnNEY1V2NGZXd05xSGV0WWI5SlJhYlRfbnRDa05qaXBqSTUyV2Zpb1dfaTJZdUt5U3dzSjRZeFBMOGkxU1JuVXFpVjVUTg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjFRNXBvdXpBcHVzVEhYSzdKeUUzUTI5VmFTdFotMGVBRWg4OFJBWU9VN1hlM2tSM0w3UE5ucW51VmdZYUpyMFRaQXJKSEw5ckpkLWU3czh1X1Fmb01ndnNEY1V2NGZXd05xSGV0WWI5SlJhYlRfbnRDa05qaXBqSTUyV2Zpb1dfaTJZdUt5U3dzSjRZeFBMOGkxU1JuVXFpVjVUTg?oc=5\" target=\"_blank\">Herit",
+      "publishedAt": "2026-07-18T11:21:53.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Explaining cricket to Americans: Why and how - Cricinfo",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnctQmYzX2JvS095LXdMRnJzZDQ4STBjTG5scHpodGEyS01DZHhvS2FWTm4xQU9tRHRCdGRKRC1hSzludDFCOUFVRUZfaTlPVE9wLUlJMVdhOENTUmpwanF4TFRKSE5vYjBYMmZNSk5kWklhQ2E4UERxYngyMnZBVWRCVWRNc2t6dnR3WXd0TXdDZTA4U3QzQk5n0gGaAUFVX3lxTFAydy1CZjNfYm9LT3ktd0xGcnNkNDhJMGNMbmxwemh0YTJLTUNkeG9LYVZObjFBT21EdEJ0ZEpELWFLOW50MUI5QVVFRl9pOU9UT3AtSUkxV2E4Q1NSanBqcXhMVEpITm9iMFgyZk1KTmRaSWFDYThQRHFieDIydkFVZEJVZE1za3p2dHdZd3RNd0NlMDhTdDNCTmc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnctQmYzX2JvS095LXdMRnJzZDQ4STBjTG5scHpodGEyS01DZHhvS2FWTm4xQU9tRHRCdGRKRC1hSzludDFCOUFVRUZfaTlPVE9wLUlJMVdhOENTUmpwanF4TFRKSE5vYjBYMmZNSk5kWklhQ2E4UERxYngyMnZBVWRCVWRNc2t6dnR3WXd0TXdDZTA4U3QzQk5n0gGaAUFVX3lxTFAydy1CZjNfYm9LT3ktd0xGcnNkND",
@@ -457,7 +397,7 @@
       "title": "Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts - Encyclopedia Britannica",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5\" target=\"_blank\">Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts</a>&nbsp;&nbsp;<font col",
-      "publishedAt": "2026-07-10T05:00:00.000Z",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
       "source": {
         "name": "Google News"
       },
