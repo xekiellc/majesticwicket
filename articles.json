@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-07-18T20:54:25.268Z",
+  "lastUpdated": "2026-07-19T05:27:38.478Z",
   "articles": [
+    {
+      "title": "Los Angeles Knight Riders pull off last-ball win for first MLC title",
+      "url": "https://www.cricinfo.com/ci/content/story/1546178.html?ex_cid=OTC-RSS",
+      "description": "The see-sawing match went down to the final over, bowled by Shadley van Schalkwyk, and then to the last ball, before a run out gave Los Angeles Knight Riders a one-run win",
+      "publishedAt": "2026-07-19T04:19:50.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Captain Willey takes Northants into final with scrappy defence",
+      "url": "https://www.cricinfo.com/ci/content/story/1546107.html?ex_cid=OTC-RSS",
+      "description": "Reigning champions Somerset fall short chasing 144 as Willey inspires gutsy win",
+      "publishedAt": "2026-07-18T23:27:40.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Lehmann cool on England job, suggests ECB has identified McCullum successor",
+      "url": "https://www.cricinfo.com/ci/content/story/1546156.html?ex_cid=OTC-RSS",
+      "description": "Australian says he has had no contact from ECB about Test vacancy",
+      "publishedAt": "2026-07-18T22:50:25.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
+      "url": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS",
+      "description": "Knight Riders have a four-day gap ahead of the game which could be pivotal in the quest for their first title",
+      "publishedAt": "2026-07-18T22:41:20.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Vasconcelos leads the fight as Northants scrap for thrilling third T20 Blast title",
+      "url": "https://www.cricinfo.com/ci/content/story/1546155.html?ex_cid=OTC-RSS",
+      "description": "Willey's never-say-die team see off Hampshire despite Baker's five-for and Weatherley runs record",
+      "publishedAt": "2026-07-18T22:19:04.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Rowles 201 crushes England U19s before Basson wreaks havoc",
       "url": "https://www.cricinfo.com/ci/content/story/1546149.html?ex_cid=OTC-RSS",
@@ -42,60 +92,10 @@
       "urlToImage": null
     },
     {
-      "title": "Captain Willey takes Northants into final with scrappy defence",
-      "url": "https://www.cricinfo.com/ci/content/story/1546107.html?ex_cid=OTC-RSS",
-      "description": "Reigning champions Somerset fall short chasing 144 as Willey inspires gutsy win",
-      "publishedAt": "2026-07-18T13:58:25.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Muneeba to lead new-look Pakistan T20I squad against SL in Sana's absence",
       "url": "https://www.cricinfo.com/ci/content/story/1546109.html?ex_cid=OTC-RSS",
       "description": "Pakistan have dropped Riaz, Javed and Baig and have called up eight players for the tour",
       "publishedAt": "2026-07-18T13:52:58.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Refreshed Knight Riders face usual suspects Freedom in MLC final",
-      "url": "https://www.cricinfo.com/ci/content/story/1546074.html?ex_cid=OTC-RSS",
-      "description": "Knight Riders have a four-day gap ahead of the game which could be pivotal in the quest for their first title",
-      "publishedAt": "2026-07-18T13:14:46.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rohit in the spotlight with series on the line at Lord's",
-      "url": "https://www.cricinfo.com/ci/content/story/1546091.html?ex_cid=OTC-RSS",
-      "description": "The series is level 1-1 after England's triumph in Cardiff, and they have not beaten India in a bilateral ODI series since 2018",
-      "publishedAt": "2026-07-18T13:03:00.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "For Yastika Bhatia, every setback is 'fuel to come back stronger'",
-      "url": "https://www.cricinfo.com/ci/content/story/1546097.html?ex_cid=OTC-RSS",
-      "description": "With patience and resilience, she transformed a challenging phase in her career into one that has left her more confident than ever",
-      "publishedAt": "2026-07-18T11:49:18.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Bangladesh eye series win to finish forgettable tour",
-      "url": "https://www.cricinfo.com/ci/content/story/1546081.html?ex_cid=OTC-RSS",
-      "description": "After winning the one-off Test and the ODI series, Zimbabwe have the chance to clinch the T20I series too",
-      "publishedAt": "2026-07-18T10:55:50.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -202,56 +202,6 @@
       "urlToImage": null
     },
     {
-      "title": "What is Virat Kohli's record at Lord's in ODIs? - Yardbarker",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0l5VEI0VmM1OXk0NG5WbUdrUk91WkhmSlM2MkRXUHp4Qjd4dXlaaVFGRW13UjlPS1lHNGlzOWFNZ20ydW95Q1dRZnN2X3FxVlR0dkUwTWdGTkdMandsXzZNeGNxNkJENUFIdkJxN2NISlQwOEJXc1FnVFhHRUxEaTlGeWdLcmtKSF9PUFhKMlNzS2JmRGZlMl9sNE1xb2RxX1pvTWx5c1FhZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0l5VEI0VmM1OXk0NG5WbUdrUk91WkhmSlM2MkRXUHp4Qjd4dXlaaVFGRW13UjlPS1lHNGlzOWFNZ20ydW95Q1dRZnN2X3FxVlR0dkUwTWdGTkdMandsXzZNeGNxNkJENUFIdkJxN2NISlQwOEJXc1FnVFhHRUxEaTlGeWdLcmtKSF9PUFhKMlNzS2JmRGZlMl9sNE1xb2RxX1pvTWx5c1FhZw?oc=5\" target=\"_blan",
-      "publishedAt": "2026-07-18T11:47:29.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Can Virat Kohli still break Sachin Tendulkar's 100 centuries record in international cricket? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHdDbFI2clpTU2FENDAwQy1Nb3pmZFhzQ2FQS3ZkR3lZc2FIT1RWcGpWS05hN09jVnB0V1pQUk5mY0doVWxOZllqWnkxMWlZeWJxRGk1Zk9VN3ZEVmwzSU1sNzVnZzNSOGhBeXZ2eFpPa1NBeFE5ZzUtU3Q2MFU1djFIRnRBZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHdDbFI2clpTU2FENDAwQy1Nb3pmZFhzQ2FQS3ZkR3lZc2FIT1RWcGpWS05hN09jVnB0V1pQUk5mY0doVWxOZllqWnkxMWlZeWJxRGk1Zk9VN3ZEVmwzSU1sNzVnZzNSOGhBeXZ2eFpPa1NBeFE5ZzUtU3Q2MFU1djFIRnRBZw?oc=5\" target=\"_blank\">Can Virat Kohli still break Sachin Tendulkar'",
-      "publishedAt": "2026-07-16T14:22:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Cricket has lost one of its greatest': Virat Kohli pays heartfelt tribute to Sir Garfield Sobers - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNV3lXQ3ZydXg3MzJYMElUc0N6YV9KNEhzcW9JVERqeWxDT244MUREcGlVTzVSaGNyQ01MNk4yTzRXSUU4czdzdjJmcDk2Zmt0OUxZY3dwREtTaGFSSTNnWmxEbzRYQVVDTktyTTd3X0ctRTF2dHpoR0lxekRWU3c4SG9lcFdCTkM5UDFVQ1RXdjFFbURKMjVuTTVPMUtoZlMxa2cwRWZDQnBfaUVhTjU2N2JTTzVXSWtqcWpvb3FZSVFIWlJZVjJ3cm02bFFpWkZJUmh3ODQzYjdOeVl0d0liV3FrakRVTUFDcGFRVFNXRG9JX254M2FDM3Y2NXhfVnNWZE1XZ2YwbW1WT1FzaW9nWGdLV096Z1ItTmRMR2xXT1ltaTVYd1ZyMXlZM2JoanBULWVNM3ZEcDFWZndHeE13MXpyX0VhZ0M5cWNMV0ZJZzdiSzVtVjFuLWowT3NMRk5kbTFPNkl30gGCAkFVX3lxTE1BMGlmRmpyUjM2WXY5c0I0d3JabFJzT3JjZXVxOVFIU205WjFKQVhxeG1ySGpZa2dGTnpBYVQyWDY1UU56T2lleFQ4c2gzVEt0ZXBVcHRrVTlOTFdhZ21sQ19aaGJua3EwZGpNcFF1UVFlaDlrMnJaWFoxX2xsUE51NG8tRUVYNy1uWGgyOVRaX09CZnJiNHFTV0ZRWmszdlJVMElGR0FnQm9vN0g2dmluOGFwWHB0OEU4U0NQWmw3OUR1UmdZZHhNYUlEUlNKUFdQUGMwSXlZZEpqeG1IT1Z3OTJ6ejI0UTY4SHZUczN2ZEpmbXVDYTF0VHF6bFc0TzRadw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxNV3lXQ3ZydXg3MzJYMElUc0N6YV9KNEhzcW9JVERqeWxDT244MUREcGlVTzVSaGNyQ01MNk4yTzRXSUU4czdzdjJmcDk2Zmt0OUxZY3dwREtTaGFSSTNnWmxEbzRYQVVDTktyTTd3X0ctRTF2dHpoR0lxekRWU3c4SG9lcFdCTkM5UDFVQ1RXdjFFbURKMjVuTTVPMUtoZlMxa2cwRWZDQnBfaUVhTjU2N2JTTzVXSWtqcW",
-      "publishedAt": "2026-07-18T04:45:18.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli and Rohit Sharma ODI record in England: India legends' incredible stats on English soil listed - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1Y5SENFbG5nM3BGN1Bkd1g5XzFqS0wyaGE5aWpWMVZ1aG1OTktUUEJUUTFBa1poVTQzM2Fpa080YTQ2UG1wMF9oWjNCOExUSnU5U0ZZZUhrRzRqaFhMaWkxWEM2N0g3NDdDNFhfTVU1eURBbmt0ZnhZbXp4bmhKTHMtNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1Y5SENFbG5nM3BGN1Bkd1g5XzFqS0wyaGE5aWpWMVZ1aG1OTktUUEJUUTFBa1poVTQzM2Fpa080YTQ2UG1wMF9oWjNCOExUSnU5U0ZZZUhrRzRqaFhMaWkxWEM2N0g3NDdDNFhfTVU1eURBbmt0ZnhZbXp4bmhKTHMtNA?oc=5\" target=\"_blank\">Virat Kohli and Rohit Sharma ODI record in Englan",
-      "publishedAt": "2026-07-13T16:22:30.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Not Virat Kohli or Rohit Sharma: R Ashwin picks this star as the player India will never be able to replace - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGpzSnZNTWpvZFU4Z0dyVHRYWHh6WUNKOFE0aXVVMU0teWJvOXVtcEdrQTE5UzRGUk4wTmE5OVZuM1I3M0NWMXhsT0RnckJ0Ni0ydnBkdGNQcThGOGNQS2dhd0NwZkt2eWZuUlEyajlTTDM2Q3o4a2VsT2FaM1JMOTRXcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGpzSnZNTWpvZFU4Z0dyVHRYWHh6WUNKOFE0aXVVMU0teWJvOXVtcEdrQTE5UzRGUk4wTmE5OVZuM1I3M0NWMXhsT0RnckJ0Ni0ydnBkdGNQcThGOGNQS2dhd0NwZkt2eWZuUlEyajlTTDM2Q3o4a2VsT2FaM1JMOTRXcw?oc=5\" target=\"_blank\">Not Virat Kohli or Rohit Sharma: R Ashwin picks t",
-      "publishedAt": "2026-07-15T10:00:51.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "'It made the difference!' - Mohammad Kaif reveals how Virat Kohli, Rohit Sharma reshaped India's team dynamics and energy in Edgbaston win - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJwT0cyVVBlWmNxSDMzSHFPd2h6ZzIxR29nYlhiRUV6bjZ0ZGxLOEFWMWFLWWkyWXZpSGFmanFVMlRPS19HRUx0bDhhN21GejBqMEZWYmo2ZVlKcVcyZVVZMmQ3ZEw3OTBEbERBOF95SG4zb3d4QWd4dllwYjQ3Z09FQTBvMTY4THotOU93TQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJwT0cyVVBlWmNxSDMzSHFPd2h6ZzIxR29nYlhiRUV6bjZ0ZGxLOEFWMWFLWWkyWXZpSGFmanFVMlRPS19HRUx0bDhhN21GejBqMEZWYmo2ZVlKcVcyZVVZMmQ3ZEw3OTBEbERBOF95SG4zb3d4QWd4dllwYjQ3Z09FQTBvMTY4THotOU93TQ?oc=5\" target=\"_blank\">'It made the difference!' - Moham",
@@ -282,60 +232,70 @@
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli honors Sir Garfield Sobers after his passing - The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTko1OTFobWp0X1k0NC1pNEU0Vk9nbXpuS0l2cUVCYUVSTEFvb1NFTF9NUGVZVlVQQjh0azA0cTRueXZWbk9JNEdPbjZsQ0Mwdy1zVWplQUpLWDEtRlUxUEJ6YlI0cmpRaW53b3ZFUXp0anVxWWZ0aXRQWmFvZ3ZpNnlZeGlEZFlZMzV1T3pOTzFQaVY5bTBkUTZQdU92T05lWGV4Yw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTko1OTFobWp0X1k0NC1pNEU0Vk9nbXpuS0l2cUVCYUVSTEFvb1NFTF9NUGVZVlVQQjh0azA0cTRueXZWbk9JNEdPbjZsQ0Mwdy1zVWplQUpLWDEtRlUxUEJ6YlI0cmpRaW53b3ZFUXp0anVxWWZ0aXRQWmFvZ3ZpNnlZeGlEZFlZMzV1T3pOTzFQaVY5bTBkUTZQdU92T05lWGV4Yw?oc=5\" target=\"_blank\">Virat",
-      "publishedAt": "2026-07-18T04:32:32.000Z",
+      "title": "Virat Kohli Pays Tribute To Sir Garfield Sobers In Emotional Social Media Post - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc3BXYVM4TDlXT3JveFEtX2l4aG9wZ2xMVzZBWHAxTWppUS1oNDZIWnNTZGpySXlOWnAtVHJCXzBaeG5fTXdQcTRUYkxKUU5iUTgyOFJpZ2ZEZzJkODd4YWpEbVNOZTZpY2hBQnM3OFJRaVVOVmhSY2ZSNXBEa3ZLQlZtNS0yZmVycEpHQkF2VEN0MVcteU5aN2tFMGY5SS13UE9rUHZoN1VDRDJuYjRfcFdsWjFjR1JEZnEw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc3BXYVM4TDlXT3JveFEtX2l4aG9wZ2xMVzZBWHAxTWppUS1oNDZIWnNTZGpySXlOWnAtVHJCXzBaeG5fTXdQcTRUYkxKUU5iUTgyOFJpZ2ZEZzJkODd4YWpEbVNOZTZpY2hBQnM3OFJRaVVOVmhSY2ZSNXBEa3ZLQlZtNS0yZmVycEpHQkF2VEN0MVcteU5aN2tFMGY5SS13UE9rUHZoN1VDRDJuYjRfcFdsWjFjR1JEZn",
+      "publishedAt": "2026-07-18T04:47:28.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli, Sachin Tendulkar join to pay Garry Sobers tribute: Cricket legends pen heartfelt note; late Wi... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmQ3eFdLSGthYUlDSUQxRVBxU2ZUNGNuUU1DSHdIajZ3clpDLUc3NWZlejdHSlVVNEpfTHJua2xJVEtiZlBBb0ZxYU12Y003VnlLODFCYzU1aEFvZXhjMW5mVUpRWFBsQ2NXaG5RX0pzbXVSS0NqemlHWnEwT2JYaHNrSEhhSmdaYnRVcy1fQTIzODhiQWUxd1NIc0lNQ2E2OHVUb1V1Q0k3WXNMd2x4S0lGMC1oQkVPYnZUeDdfaE8wa0daOVdmeE5B0gHPAUFVX3lxTE5YU1NraWtNWGQ5NjNFbnhGTWFkX3hsVUw2UTQ2QUNmQ2tNdkxfRTRMVERlTkg2UTdYaTJmN3pUZ01sLURid0lPZ2lYZVFnLWxOSUhfRi1zRzJfYUlUTHZTaFBiM1MwN1lZM2VocE9XdUxoSkprS0V1Mi1wc1lzT3pUS3hBaUI3Vk10Y012bUU2NVFWSUhyRTVpUFBqdEFGejFhbmRtd3VrMjhyOW9LdnJYSmFycVBOX3ZudjBZbWNDeHBWc1VNbXNaTTE4Ty0ydw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmQ3eFdLSGthYUlDSUQxRVBxU2ZUNGNuUU1DSHdIajZ3clpDLUc3NWZlejdHSlVVNEpfTHJua2xJVEtiZlBBb0ZxYU12Y003VnlLODFCYzU1aEFvZXhjMW5mVUpRWFBsQ2NXaG5RX0pzbXVSS0NqemlHWnEwT2JYaHNrSEhhSmdaYnRVcy1fQTIzODhiQWUxd1NIc0lNQ2E2OHVUb1V1Q0k3WXNMd2x4S0lGMC1oQkVPYn",
-      "publishedAt": "2026-07-18T07:01:10.000Z",
+      "title": "India coach breaks silence on whether Virat Kohli and Gautam Gambhir are on talking terms: ‘They don’t need a bridge' | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOa3NReDhmMVVBYjFMTnJUNW1ia3NSQnVkRFBGcGQzMkRESkc4Q3JTOVNhZzFqUkp3c3JSanlqYjBOcVV6MC1rR3FLNUoxMXJkalBIZWR6UFVfMWpoc0UtcHNqZXBrSmJITGlybk9zalVGaTdhUm5QR1pzVklRZm9KV2UzdXQzSHBlQk5HNkZaUVlaTXJTbTdHM2JnaklsdmlxYmVPM1dSSmpnN1RtLVBibl9Zd05WMXZtcF82aXB4ekZpUUFwZ1QwY2NOTHIyT1FLZTQzTEhvT29NdjRZSktBOHJ5Z1pNYzVfcU1kZGJjTTZsd3cxZTUzcGhEV2xKYmR2VlJzTtIBigJBVV95cUxON08tbElSaGhFOGJDSmJsbWxucHlqRV9ZNVZHRmt1el9sMHg3cWpnTFpCLVJuTThXTFluMmZyazF6V09lSG9WS0ctcFNJXy1YQ1h5eWoyaGRCSHBBSkQtQTh2djJER1VpcFB0S1otTFF5TXdpaXVKZVFnUU5na05Ib1pqeWpQS1l1ZlZXMVBqeThBNG14b2Q1UHREV2pSOXk1bHk3NkZFd2R0MkEwazZySDVpeTNzYkFOM2JodmV0akJnUmdRTzM3RzFJOVJNcVhMczdzd0lOU3VCdFhGWE9rRzRxajJYa2xhWTJYeV9JeUp5MEd2dDVlVTQyaGxQTVBSZDBxYTU5ZTBGdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOa3NReDhmMVVBYjFMTnJUNW1ia3NSQnVkRFBGcGQzMkRESkc4Q3JTOVNhZzFqUkp3c3JSanlqYjBOcVV6MC1rR3FLNUoxMXJkalBIZWR6UFVfMWpoc0UtcHNqZXBrSmJITGlybk9zalVGaTdhUm5QR1pzVklRZm9KV2UzdXQzSHBlQk5HNkZaUVlaTXJTbTdHM2JnaklsdmlxYmVPM1dSSmpnN1RtLVBibl9Zd05WMXZtcF",
+      "publishedAt": "2026-07-17T01:32:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMTU0TkhGY0pMaFpsTzFXekZZckNIRWRUZmVjWmZWUkdJNG82VUdqTmxMa0JMWVg2OGlqMXFkVV9kY3ZWcF90cUU3YnhnYWNiWDZfT2dXcTRTRExTb3BGalBTODNHQURteG9zN1k4azRXSDZQWXV0M3VYM3BCTURmNjBVNWNXM0pvU2FEaVJnWG1KcDVIbjlkdXpZZlRwai1qN1EyU2NmNmlSVlFRaUpvdXVEMERaRDJGd2RsNmh2NThlYk5DQWxFVEFGdW9DMm44cHo1MDFEajlkVURDRGtSbzVqNVhRUVlfTDJ4Sk5GdHJWZi1Nb3VteTVR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMTU0TkhGY0pMaFpsTzFXekZZckNIRWRUZmVjWmZWUkdJNG82VUdqTmxMa0JMWVg2OGlqMXFkVV9kY3ZWcF90cUU3YnhnYWNiWDZfT2dXcTRTRExTb3BGalBTODNHQURteG9zN1k4azRXSDZQWXV0M3VYM3BCTURmNjBVNWNXM0pvU2FEaVJnWG1KcDVIbjlkdXpZZlRwai1qN1EyU2NmNmlSVlFRaUpvdXVEMERaRDJGd2",
-      "publishedAt": "2026-07-16T15:50:09.000Z",
+      "title": "England vs India: Virat Kohli falls to Archer after impressive 65 - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUxDTGtzT2ptUmxzOTFYejFoSGs2ekFmQ2VrUUp5eU1hNkpWYkhYXzlSZC1iYVpCZG5uV3lxVmJRRE1pTndDV0VGWEZqUWVQVmw3TDliYzBLUlBDSFRfXzh0RzdsX05nM2o0X0R2VmtkQzBKeDVpTlZMRlg0U3cwSmp3OGJwTzF3WUpzdlJJMlFRbFZPZXhQeEJxSlVKYmRldk1naDdNeU5ieVlNRFZENHJFVGxLakI4SlRB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUxDTGtzT2ptUmxzOTFYejFoSGs2ekFmQ2VrUUp5eU1hNkpWYkhYXzlSZC1iYVpCZG5uV3lxVmJRRE1pTndDV0VGWEZqUWVQVmw3TDliYzBLUlBDSFRfXzh0RzdsX05nM2o0X0R2VmtkQzBKeDVpTlZMRlg0U3cwSmp3OGJwTzF3WUpzdlJJMlFRbFZPZXhQeEJxSlVKYmRldk1naDdNeU5ieVlNRFZENHJFVGxLakI4Sl",
+      "publishedAt": "2026-07-16T14:34:37.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "ECN Portugal Liga Grizzly Div 2 Live: T20 fixtures,scores and match coverage - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjlkaWhkd2FmajRoSU1fMUtLWFl5TW9KenVGUG9vQ3BoRUlMVGlZUkw0QkhBdlpaRFN1cWtIS3RXeUMwUzkwLTA1WXk3R0JmUGo2QTl1RUROa3VjalprSFlXajFZenhyM2hGUGI5NEJncWlfLWxTN0x0NFJwUzVqdHBZUU10c1B6N05ZQlpJdmtGbEhQbXpIWEppLU5hRWI5Ql9CZWRZekpTX0pTYWxSQUE4LTNtZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjlkaWhkd2FmajRoSU1fMUtLWFl5TW9KenVGUG9vQ3BoRUlMVGlZUkw0QkhBdlpaRFN1cWtIS3RXeUMwUzkwLTA1WXk3R0JmUGo2QTl1RUROa3VjalprSFlXajFZenhyM2hGUGI5NEJncWlfLWxTN0x0NFJwUzVqdHBZUU10c1B6N05ZQlpJdmtGbEhQbXpIWEppLU5hRWI5Ql9CZWRZekpTX0pTYWxSQUE4LTNtZw?oc=",
-      "publishedAt": "2026-07-18T10:09:47.000Z",
+      "title": "Virat Kohli becomes fifth-most capped player in international cricket - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzNydEgteGZ6dTB5X1NDMU9CanB2dE8wSUk1UUFTX1lLUU9rbU1lM241Uml1dkJTN3VOcHF6THNYeS1tekg1UUU2NFZzZGJrYVptR0xkN1NsZmEwZEp3elJQc1JvNDNidUpGTkgtTFVrUFVqQkVObWNZdDFLT3djRWRIQ0lzeFM5RWkxNl9KdTFvNndwSUpVdHhYTEVJcXVGM2lNMXVJUm05QlZsRnJadVpYUll6czByd0ZQM2xqQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzNydEgteGZ6dTB5X1NDMU9CanB2dE8wSUk1UUFTX1lLUU9rbU1lM241Uml1dkJTN3VOcHF6THNYeS1tekg1UUU2NFZzZGJrYVptR0xkN1NsZmEwZEp3elJQc1JvNDNidUpGTkgtTFVrUFVqQkVObWNZdDFLT3djRWRIQ0lzeFM5RWkxNl9KdTFvNndwSUpVdHhYTEVJcXVGM2lNMXVJUm05QlZsRnJadVpYUll6czByd0",
+      "publishedAt": "2026-07-18T17:13:12.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Samoa Cricket Team matches, scorecards, news and statistics - Cricbuzz",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HNnV4UWNZUFpwcmJwT01jbU5QanhkMURQWUltWmpncF8xdTJiVExuaGlFU3ZaeWRGTEo5eWRITWNqMWtRWVpSS3JtWER2b2NBY3BXcldzcENvMXFabDdrOThzQ21Idw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HNnV4UWNZUFpwcmJwT01jbU5QanhkMURQWUltWmpncF8xdTJiVExuaGlFU3ZaeWRGTEo5eWRITWNqMWtRWVpSS3JtWER2b2NBY3BXcldzcENvMXFabDdrOThzQ21Idw?oc=5\" target=\"_blank\">Samoa Cricket Team matches, scorecards, news and statistics</a>&nbsp;&nbsp;<font color=\"#",
-      "publishedAt": "2026-07-15T18:46:15.000Z",
+      "title": "Australian rules football players pick Virat Kohli as cricket's GOAT - Yardbarker",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelRWdGhLaEdleXR4Y0dEZGczeHpxcnVfNTlGblhMUWZsNlZJeVIzaFdHS0JSSzZDd3lWYXo1VV9oV2hCMEdkNkJLY1ZIbGFZR0llLUxUZXdTRWJubkx6MHcwRmRNTDVqZUVqbE9yT1RUVExPVGkzSU52RW5FRVNFNERyUTJrWUZESE1zLWRjbi0zdDdoREFkY0xxQWdCMHlIZnhEYzdLTVVEXzNsTjZTSVFTcDdZcEFjY1U1VkV2em1EYzN2WEZDXw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelRWdGhLaEdleXR4Y0dEZGczeHpxcnVfNTlGblhMUWZsNlZJeVIzaFdHS0JSSzZDd3lWYXo1VV9oV2hCMEdkNkJLY1ZIbGFZR0llLUxUZXdTRWJubkx6MHcwRmRNTDVqZUVqbE9yT1RUVExPVGkzSU52RW5FRVNFNERyUTJrWUZESE1zLWRjbi0zdDdoREFkY0xxQWdCMHlIZnhEYzdLTVVEXzNsTjZTSVFTcDdZcEFjY1",
+      "publishedAt": "2026-07-17T08:10:23.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "ENG vs IND 2nd ODI: Where to watch live streaming of today's ODI match? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUMtcnZfVXJjVmRnWWNnNTM3UjBrMDZZQTJVUGNfS3Vjd25zeHFxQmlqVjVPV1NyaVoxVlFwT29YaWplcERQZzI1Yk1IWUV5RnFLNFpTOHdDeEVHTTFHOXczTG4weHAzTmZoOEtENG9wTV9oRndPTFp6Q2RHYjY2alBDUVFQV3BwNDJXTGotRGNsODMtOFd2ajN4bVZPRzVTQ0dfTHBNYXQ5QUpBM0RVTllaN21NUm1lXzJHVS1mckZpQjB3QmhvM0Jndm9fbzJkMEHSAdcBQVVfeXFMT05KZDRxLUowUklGeFkza1lYSHlqV0JRdkc2NFkwMUdnVXVjanhMdmZETVNJS2JZM1dpT05QWjJMSm5IZlVSVVZsQ1RjZXZRY25zOXNzQlZ5RGN6WTdfRmpFZk1DS0tQelR2RExtM3k2WHE4MUF4Wll2RG5lT3pWVzhFMzNrQ25waVJTM0phdmEwb28ybTE4QVpiQmQwdl9PS2JUc1Uzc3VWRlFCaW11SVlZUVJuX0hoOHNKNWw0YmY1WnNyUkhwOE5IOUc3Y3p6TkJfVTRJMXc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUMtcnZfVXJjVmRnWWNnNTM3UjBrMDZZQTJVUGNfS3Vjd25zeHFxQmlqVjVPV1NyaVoxVlFwT29YaWplcERQZzI1Yk1IWUV5RnFLNFpTOHdDeEVHTTFHOXczTG4weHAzTmZoOEtENG9wTV9oRndPTFp6Q2RHYjY2alBDUVFQV3BwNDJXTGotRGNsODMtOFd2ajN4bVZPRzVTQ0dfTHBNYXQ5QUpBM0RVTllaN21NUm1lXz",
-      "publishedAt": "2026-07-16T11:03:56.000Z",
+      "title": "Virat Kohli breaks Ricky Ponting's record, enters all-time top-five elite list - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQmNpSUNXOS1Nb2ZGV2Q5ZkNQZGgxUUtGVnEtd0VfcTdLU2J0Si01YU53d2hUTVN1MEVuR1ZwQmpDc1JCX2xCQy1RQjh3a2RjMGdHc3ZhUG43MDdvMUlZUjBSWnV1VHM2aFVRNThGVjBmQkhVc3o5VHhsOGwxUVdOMWtpc1BUQmxkS2k4anAyZkhtd0pWUmEwd3paaFVhZ1ZfNE8wd1p1ZzFHNnhPQmdjTk8wRW5uRXR6b1FOanNJbElzUzE2NGswTHk4NE5iMEMtQl9hYjZGdkNjTm93WjYweS1EVEp0VUFyTjlQZE12UnliZmROQ1BSaFFhaFlHZlNSa0hEZ3N30gGLAkFVX3lxTE9hQ1k4V0hFUWNlZXFUbEdEeW0zMkhRVVZBSzJsTDhRSzJpMXlqM0Utd1d3eHpETThZOTQtNlJTVng5Q3R1ajMxMFNrQW1ZaEtxTEhyeGY5NXIyZ29IN2NlWlVJRjNoSm5KUFZVblBaWVQtajc5SXNITDU4OWpTUFpqeUlROUt3RmRpVUZQVkFtdGJGbTRfT25sZG5Tdzk3TkwxTGtxNUhKek9nWktkTE5vaG9aSDlOdGU0OVRzbHltaW14bHF6V0hGS2k0S0FBbi1NU2YzeXROQWdURHlfcEhNd0lwMVNyaV8xeTdEYUtrVE9ubGJRbEpZcFc0aHpIVjUwby1SNmU0cTBVVQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPQmNpSUNXOS1Nb2ZGV2Q5ZkNQZGgxUUtGVnEtd0VfcTdLU2J0Si01YU53d2hUTVN1MEVuR1ZwQmpDc1JCX2xCQy1RQjh3a2RjMGdHc3ZhUG43MDdvMUlZUjBSWnV1VHM2aFVRNThGVjBmQkhVc3o5VHhsOGwxUVdOMWtpc1BUQmxkS2k4anAyZkhtd0pWUmEwd3paaFVhZ1ZfNE8wd1p1ZzFHNnhPQmdjTk8wRW5uRXR6b1",
+      "publishedAt": "2026-07-16T14:33:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Ashwin on Rohit Sharma, Virat Kohli’s futures: ‘Why has it come this far?’ - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObU0wR3BUUjdDSDVrSTZuR3VFLWZNOUgwRXNmd1Y2UjNxTE54S2ROSHpfNlBHQXRpVUp4ejVkRk9jSUh5cnhVUG9XV2VDbHMxMFJxR2VtZHk5Y0tLM3ZpU2RQUmVZR1dFa1JKQ3ZhTGdUUkYwWExQZUFLMWl5RlpLQ3dpTk15cGE4ZkZ3dE1ONmdlOHVoT2NYWDBtQk1ab2EyeV91TVR1YVR3RHdmYVJjamxFVU5Za2w2aHR1YW92YXN4SW1Uc3fSAcwBQVVfeXFMTlZwMnNOSFd5bWJKYlYtYUlvSDBHdWVndE9DbVBtRTNuNmtKVS1BS2l6S0swclVuYTFXenZwRENCQ0ZtaGFVR0kwNFY0cVhNNzZJSUtSS0xGN2tjaktJSmFPQnN5Y2JudGhjODYtLU9OYWtpcVBPbVRNVmR1X2U3X2o0cWZvMDhxMGFRU3liWTk0Ukg2dUdMa3AtNWt4TVVuTUtKZndycDJjZkwtZk1GbE5PSTlkN2hPbTRMX2J6T3lEbWUxWFhieHdOc1NM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObU0wR3BUUjdDSDVrSTZuR3VFLWZNOUgwRXNmd1Y2UjNxTE54S2ROSHpfNlBHQXRpVUp4ejVkRk9jSUh5cnhVUG9XV2VDbHMxMFJxR2VtZHk5Y0tLM3ZpU2RQUmVZR1dFa1JKQ3ZhTGdUUkYwWExQZUFLMWl5RlpLQ3dpTk15cGE4ZkZ3dE1ONmdlOHVoT2NYWDBtQk1ab2EyeV91TVR1YVR3RHdmYVJjamxFVU5Za2w2aH",
+      "publishedAt": "2026-07-17T11:03:05.000Z",
       "source": {
         "name": "Google News"
       },
@@ -354,20 +314,20 @@
       "urlToImage": null
     },
     {
-      "title": "Countries and Their National Games List 2026, Official & Unofficial Sports - Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWRqVnlCSVNUZnNLcmJlNEEwZkMxT05NaDJHZVJkT1dTYkZjRXhZMzg4NzJGalJnYnNwQ05fZ3VqcjhzanV2ak5QNkdxOXRwal8wOThDcjNndUVROEc5cm5vLUtTeVMtYnVXZ2NZWW1wN0RWVzcyaUN0UEhlNGpkMkp4V2Y?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWRqVnlCSVNUZnNLcmJlNEEwZkMxT05NaDJHZVJkT1dTYkZjRXhZMzg4NzJGalJnYnNwQ05fZ3VqcjhzanV2ak5QNkdxOXRwal8wOThDcjNndUVROEc5cm5vLUtTeVMtYnVXZ2NZWW1wN0RWVzcyaUN0UEhlNGpkMkp4V2Y?oc=5\" target=\"_blank\">Countries and Their National Games List 2026, Of",
-      "publishedAt": "2026-07-14T12:28:35.000Z",
+      "title": "Himachal CM inaugurates state's first digital museum at iconic 140-year old bantony castle - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXhTSTJnalhfNlE4aG9BWWtFdEM3c09SSnRsRUdlVTJ6eDVmbjBUV1Blc29weVNVNzdUN2JEeGFpUDA0LThUN081YmFYZ1FhVUVUMHkyM2tFalV0ak90aG01OW5JU2pRelp6c2l1UUxyZnhNb1FWbnRYVkx0ZEMwb2hfbG1TQWh6dXdld2VDcXkxVlMxVEdNNWxDXzZTeHladllROTZWaDRILVFCSEFDOVdkNUFyWHJ4RWVLaGhzSVBvZWhTXy1Ba3BLeW1HRHg0WTJvbGZsNWtwcnJ5cXdRSFVxWl9kME1i?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXhTSTJnalhfNlE4aG9BWWtFdEM3c09SSnRsRUdlVTJ6eDVmbjBUV1Blc29weVNVNzdUN2JEeGFpUDA0LThUN081YmFYZ1FhVUVUMHkyM2tFalV0ak90aG01OW5JU2pRelp6c2l1UUxyZnhNb1FWbnRYVkx0ZEMwb2hfbG1TQWh6dXdld2VDcXkxVlMxVEdNNWxDXzZTeHladllROTZWaDRILVFCSEFDOVdkNUFyWHJ4RW",
+      "publishedAt": "2026-07-10T21:46:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Himachal CM inaugurates state's first digital museum at iconic 140-year old bantony castle - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXhTSTJnalhfNlE4aG9BWWtFdEM3c09SSnRsRUdlVTJ6eDVmbjBUV1Blc29weVNVNzdUN2JEeGFpUDA0LThUN081YmFYZ1FhVUVUMHkyM2tFalV0ak90aG01OW5JU2pRelp6c2l1UUxyZnhNb1FWbnRYVkx0ZEMwb2hfbG1TQWh6dXdld2VDcXkxVlMxVEdNNWxDXzZTeHladllROTZWaDRILVFCSEFDOVdkNUFyWHJ4RWVLaGhzSVBvZWhTXy1Ba3BLeW1HRHg0WTJvbGZsNWtwcnJ5cXdRSFVxWl9kME1i?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXhTSTJnalhfNlE4aG9BWWtFdEM3c09SSnRsRUdlVTJ6eDVmbjBUV1Blc29weVNVNzdUN2JEeGFpUDA0LThUN081YmFYZ1FhVUVUMHkyM2tFalV0ak90aG01OW5JU2pRelp6c2l1UUxyZnhNb1FWbnRYVkx0ZEMwb2hfbG1TQWh6dXdld2VDcXkxVlMxVEdNNWxDXzZTeHladllROTZWaDRILVFCSEFDOVdkNUFyWHJ4RW",
-      "publishedAt": "2026-07-10T21:46:00.000Z",
+      "title": "Countries and Their National Games List 2026, Official & Unofficial Sports - Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWRqVnlCSVNUZnNLcmJlNEEwZkMxT05NaDJHZVJkT1dTYkZjRXhZMzg4NzJGalJnYnNwQ05fZ3VqcjhzanV2ak5QNkdxOXRwal8wOThDcjNndUVROEc5cm5vLUtTeVMtYnVXZ2NZWW1wN0RWVzcyaUN0UEhlNGpkMkp4V2Y?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWRqVnlCSVNUZnNLcmJlNEEwZkMxT05NaDJHZVJkT1dTYkZjRXhZMzg4NzJGalJnYnNwQ05fZ3VqcjhzanV2ak5QNkdxOXRwal8wOThDcjNndUVROEc5cm5vLUtTeVMtYnVXZ2NZWW1wN0RWVzcyaUN0UEhlNGpkMkp4V2Y?oc=5\" target=\"_blank\">Countries and Their National Games List 2026, Of",
+      "publishedAt": "2026-07-14T12:28:35.000Z",
       "source": {
         "name": "Google News"
       },
@@ -398,16 +358,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5\" target=\"_blank\">Twenty20 cricket | Rules, History, World Cup, 2026, Scores, Matches, Highlights, Rankings, Schedule",
       "publishedAt": "2026-07-13T05:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Football - Rules, Positions, Tactics - Encyclopedia Britannica",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGNGVGh3TWxXdFVWazVPZFJLUkc0bDJCVmhUSkVRaFY4RUhXajh6VnhjX251UUtFTFZydkJmVkdXeHpIa1A5OVdSRGVtcDl3M3g4ZkZ4M1NMRGxXVGdXVDhsbDFnaWE5bGI1S0dXSjhBRGRL?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGNGVGh3TWxXdFVWazVPZFJLUkc0bDJCVmhUSkVRaFY4RUhXajh6VnhjX251UUtFTFZydkJmVkdXeHpIa1A5OVdSRGVtcDl3M3g4ZkZ4M1NMRGxXVGdXVDhsbDFnaWE5bGI1S0dXSjhBRGRL?oc=5\" target=\"_blank\">Football - Rules, Positions, Tactics</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-      "publishedAt": "2026-07-14T05:00:00.000Z",
       "source": {
         "name": "Google News"
       },
