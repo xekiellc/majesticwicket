@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-07-20T05:45:11.814Z",
+  "lastUpdated": "2026-07-20T10:37:43.498Z",
   "articles": [
+    {
+      "title": "'No noise, no fun' - Rohit shrugs off retirement chatter after Lord's 138",
+      "url": "https://www.cricinfo.com/ci/content/story/1546328.html?ex_cid=OTC-RSS",
+      "description": "&quot;There's not been any discussion like that in the team,&quot; Shubman Gill says when asked about Rohit Sharma's international future",
+      "publishedAt": "2026-07-20T10:03:32.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Hridoy pleased with T20I series win despite 'injuries and limited options'",
+      "url": "https://www.cricinfo.com/ci/content/story/1546320.html?ex_cid=OTC-RSS",
+      "description": "Bangladesh were without Mustafizur Rahman and Shoriful Islam for the entire series, and lost Nahid Rana for the decider, which they won by four wickets",
+      "publishedAt": "2026-07-20T06:33:44.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Jangoo: West Indies 'don't deserve' to be in World Cup qualifiers",
       "url": "https://www.cricinfo.com/ci/content/story/1546310.html?ex_cid=OTC-RSS",
@@ -82,22 +102,72 @@
       "urlToImage": null
     },
     {
-      "title": "Bumrah misses Lord's decider with injury; England bring in Tongue and bat",
-      "url": "https://www.cricinfo.com/ci/content/story/1546193.html?ex_cid=OTC-RSS",
-      "description": "KL Rahul, Arshdeep Singh and Prince Yadav come in for India; England leave out Saqib Mahmood in favour of Josh Tongue",
-      "publishedAt": "2026-07-19T10:10:00.000Z",
+      "title": "'We've played our entire career together' - Rohit Sharma on astonishing partnership with Virat Kohli",
+      "url": "https://www.crictracker.com/cricket-news/weve-played-our-entire-career-together-rohit-sharma-on-astonishing-partnership-with-virat-kohli/",
+      "description": "Rohit Sharma and Virat Kohli added yet another milestone to their illustrious careers, becoming the first Indian pair to complete 400 international appearances together",
+      "publishedAt": "2026-07-20T08:16:08.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Hope wants West Indies to get 'the results we really want' to honour Sobers",
-      "url": "https://www.cricinfo.com/ci/content/story/1546180.html?ex_cid=OTC-RSS",
-      "description": "West Indies are 2-1 down in the five-match series against New Zealand, and need more wins to ensure direct qualification for the 2027 ODI World Cup",
-      "publishedAt": "2026-07-19T06:52:54.000Z",
+      "title": "'You want to be challenged all the time' - Rohit Sharma after magnificent century at Lord's",
+      "url": "https://www.crictracker.com/cricket-news/you-want-to-be-challenged-all-the-time-rohit-sharma-after-magnificent-century-at-lords/",
+      "description": "Rohit became the first Indian batter to record an ODI century at Lord's, adding another feather to an already packed cap.",
+      "publishedAt": "2026-07-20T07:18:04.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'We are not winning anything' - Aakash Chopra cuts a sorry figure after India's ODI series defeat to England",
+      "url": "https://www.crictracker.com/cricket-news/we-are-not-winning-anything-aakash-chopra-cuts-a-sorry-figure-after-indias-odi-series-defeat-to-england/",
+      "description": "India have had a disastrous tour of the British Isles, first losing the T20I series against Ireland and then finishing second in both white-ball series against England.",
+      "publishedAt": "2026-07-20T06:06:15.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'We don't deserve to be going to the qualifiers' - Amir Jangoo after nervy one wicket loss in the fourth ODI",
+      "url": "https://www.crictracker.com/cricket-news/we-dont-deserve-to-be-going-to-the-qualifiers-amir-jangoo-after-nervy-one-wicket-loss-in-the-fourth-odi/",
+      "description": "The team in maroon were bowled out in 44.4 overs, making this the third match in succession where they have failed to bat their quota of 50 overs.",
+      "publishedAt": "2026-07-20T05:59:35.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'He'd be a really good coach' - Darren Lehmann backs former Australia teammate as next England Test coach",
+      "url": "https://www.crictracker.com/cricket-news/hed-be-a-really-good-coach-darren-lehmann-backs-former-australia-teammate-as-next-england-test-coach/",
+      "description": "The former Australia all-rounder also insisted that he is happy with the current role as Northamptonshire coach.",
+      "publishedAt": "2026-07-20T05:22:08.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Stats: Virat Kohli & Rohit Sharma create international appearances record for India",
+      "url": "https://www.crictracker.com/cricket-stats-mania/stats-virat-kohli-rohit-sharma-create-international-appearances-record-for-india/",
+      "description": "Despite the pair ending the game on the losing side, both former captains played their 400th international game together, becoming the first Indian duo to accomplish this feat.",
+      "publishedAt": "2026-07-20T04:24:13.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "ENG vs IND 2026: England vs India, 3rd ODI - Who Said What?",
+      "url": "https://www.crictracker.com/cricket-news/eng-vs-ind-2026-england-vs-india-3rd-odi-who-said-what/",
+      "description": "England defeated India by 27 runs in the decisive third ODI to bag the three-match series 2-1 on Sunday, July 19.",
+      "publishedAt": "2026-07-19T15:04:43.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -132,80 +202,10 @@
       "urlToImage": null
     },
     {
-      "title": "Joe Root scripts England history with record-breaking feat during third ODI against India",
-      "url": "https://www.crictracker.com/cricket-news/joe-root-scripts-england-history-with-record-breaking-feat-during-third-odi-against-india-8610/",
-      "description": "Root's latest knock also marked his third consecutive half-century in the ongoing ODI series against India.",
-      "publishedAt": "2026-07-19T16:39:15.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Kuldeep Yadav must be thinking of packing his bags and saying goodbye' - Mohammad Kaif slams India's decision to snub star spinner in 3rd ODI",
-      "url": "https://www.crictracker.com/cricket-news/kuldeep-yadav-must-be-thinking-of-packing-his-bags-and-saying-goodbye-mohammad-kaif-slams-indias-decision-to-snub-star-spinner-in-3rd-odi-4144/",
-      "description": "Mohammad Kaif lambasted the Indian team management for not selecting Kuldeep Yadav in the playing XI for the decisive third ODI between India and England at the iconic Lord's Cricket Ground on Sunday.",
-      "publishedAt": "2026-07-19T14:42:45.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "The Hundred W: Match 1, MIL W vs SRL W Match Prediction – Who will win today’s LPL match between Mi London Women vs Sunrisers Leeds Women?",
-      "url": "https://www.crictracker.com/cricket-match-predictions/the-hundred-w-match-1-mil-w-vs-srl-w-match-prediction-who-will-win-todays-lpl-match-between-mi-london-women-vs-sunrisers-leeds-women-5367/",
-      "description": "The 2026 season of The Hundred Women will kick off on July 20.",
-      "publishedAt": "2026-07-19T13:57:14.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Former India Under-19 cricketer Manjot Kalra remanded by court in LPL corruption case",
-      "url": "https://www.crictracker.com/cricket-news/former-india-under-19-cricketer-manjot-kalra-remanded-by-court-in-lpl-corruption-case-0382/",
-      "description": "Kalra has been remanded until July 31 by the Magistrate's Court in Colombo, after his arrest over corruption charges during the 2026 Lanka Premier League season.",
-      "publishedAt": "2026-07-19T12:44:20.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "[Watch] Legendary Yuvraj Singh rings iconic Lord's bell ahead of ODI series decider",
-      "url": "https://www.crictracker.com/cricket-news/watch-legendary-yuvraj-singh-rings-iconic-lords-bell-ahead-of-odi-series-decider-8751/",
-      "description": "The legendary Yuvraj Singh ringing the iconic bell at the Lord's Cricket Ground in London ahead of the decisive third ODI between India and England on Sunday, July 19.",
-      "publishedAt": "2026-07-19T12:01:02.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Korbo Lorbo Jeetbo' - Shah Rukh Khan congratulates LA Knight Riders for MLC triumph",
-      "url": "https://www.crictracker.com/cricket-news/korbo-lorbo-jeetbo-shah-rukh-khan-congratulates-la-knight-riders-for-mlc-triumph/",
-      "description": "The Knight Riders lifted their first-ever MLC title after making the playoffs for the first time in the 2026 season.",
-      "publishedAt": "2026-07-19T11:32:00.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "ENG vs IND 2026: Why are Indian and English players wearing black armbands at Lord's?",
-      "url": "https://www.crictracker.com/cricket-news/eng-vs-ind-2026-why-are-indian-and-english-players-wearing-black-armbands-at-lords/",
-      "description": "India have made three changes for the series decider, as KL Rahul, Arshdeep Singh, and Prince Yadav have come into the line-up, replacing Shivam Dube, Washington Sundar, and Jasprit Bumrah.",
-      "publishedAt": "2026-07-19T10:31:13.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Mohammad Kaif pinpoints reason for Virat Kohli's LBW dismissal against Jofra Archer in England vs India 1st ODI - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzVmY1o4bDBXOXhpUUNCSVpQSV9rdnd6NUFXb0xTUldXdnJZMHlaVzhsQU1yaDVwMDkweUNxVUJkbXRrU21vN2NuQno5ZGVTX3BYNC1QWUhKMm9tR0JjVWpVaVlQOVhtYmh6NU5ZNDk1S1ZNOFpsbmtqQzdpRkZOSFR6TlZyVVFTU0NlSDZB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzVmY1o4bDBXOXhpUUNCSVpQSV9rdnd6NUFXb0xTUldXdnJZMHlaVzhsQU1yaDVwMDkweUNxVUJkbXRrU21vN2NuQno5ZGVTX3BYNC1QWUhKMm9tR0JjVWpVaVlQOVhtYmh6NU5ZNDk1S1ZNOFpsbmtqQzdpRkZOSFR6TlZyVVFTU0NlSDZB?oc=5\" target=\"_blank\">Mohammad Kaif pinpoints reason for ",
-      "publishedAt": "2026-07-14T18:26:57.000Z",
+      "title": "Virat Kohli Was A Master, He Will Remain One: Irfan Pathan - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUh6S19GeFJ1ZF8tS216ZzF1bk1VVmY0LXVoWVYwUlZLaFpubWRUeHZwTkVvSnlOVWRaaGFLTEdtSE9EVGdtcHMxUS05amYwZFdCQmVnUGlxOEprWWxHWFJjT1V2a0U4NTA5MElYZ2xjR3Zzb1h6bUNqTlV1VHdkUkRteTBLYmJuOHl3YV9neGJBRXY2bVV2WE1vWHhtb0NSX0lDM1FDdWU4RFA4dWxNZQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUh6S19GeFJ1ZF8tS216ZzF1bk1VVmY0LXVoWVYwUlZLaFpubWRUeHZwTkVvSnlOVWRaaGFLTEdtSE9EVGdtcHMxUS05amYwZFdCQmVnUGlxOEprWWxHWFJjT1V2a0U4NTA5MElYZ2xjR3Zzb1h6bUNqTlV1VHdkUkRteTBLYmJuOHl3YV9neGJBRXY2bVV2WE1vWHhtb0NSX0lDM1FDdWU4RFA4dWxNZQ?oc=5\" targe",
+      "publishedAt": "2026-07-20T09:20:04.000Z",
       "source": {
         "name": "Google News"
       },
@@ -222,20 +222,30 @@
       "urlToImage": null
     },
     {
-      "title": "IND vs ENG 3rd ODI: Rohit Sharma surpasses Virat Kohli with record 50-plus score in England - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaVZuVlo2OXl1aFd2UUxGd3M0Y2hHM1MtZ2lIdmItNTBvdTBPOEh5Y051QWxtSFdaVW1OS00xQk51RXQ2MnV5TGFISlkxY0RoVThNTmEyQ00wNE5mZlBOcmg1VEdkNlZGU1FzUS01a2tCMVo0OWdEQ2U2dEJIbWpPY1dPU2hOMTZ5NGZUNG94b3h6SGtld1k3aUZzUDM5aldydG9LckNyNlFGTUk3N0ZtcXI5LVBBNnR5eDI2MEM4em9EX1pEaXY5OTVPWXhNaDNfVUp0cUNhcE4xZ2RVZmJZRDNNS0xGdy0ySHI2ajVuZEhGLThuYWE1OTZpZGZRLUgySDFoaGVSYVQyc28yanVva25UR3hLM3ZP0gGeAkFVX3lxTE05THhwYVRldHpoSWVWVWtENnM2end5YnY5Y1hkQ2NKelU2bjFnSlZ6RW9XR3gybkVfcE9DN2xlR2puYmxpSXF0VnZmWlVPWHllNHdUMHc0YTA5cWYxY3pvQl9jMnR2LWNydWhZVkFrQUFWd1A3b3hMLTM3ZzRrTWMyVHExOTNaRHFycEN3M3BqQ1F2dmN4dXlpSkdxamhmQnQtX0pDZXphTlBRV2kySVVqTGpKaUdkUFFValNpa2JOcTkzQ1NPV3MwYzlicDRZcHNZZEVRa3RrSUVVNTQzellfcjRFNmp5Z00xcnJJSHQyV2J5M0xaQ2tWNmhpbmI0d2NBNHVQNnljWHduNENHb0h3Y29mSEs3VFFkc2VIVkE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOaVZuVlo2OXl1aFd2UUxGd3M0Y2hHM1MtZ2lIdmItNTBvdTBPOEh5Y051QWxtSFdaVW1OS00xQk51RXQ2MnV5TGFISlkxY0RoVThNTmEyQ00wNE5mZlBOcmg1VEdkNlZGU1FzUS01a2tCMVo0OWdEQ2U2dEJIbWpPY1dPU2hOMTZ5NGZUNG94b3h6SGtld1k3aUZzUDM5aldydG9LckNyNlFGTUk3N0ZtcXI5LVBBNnR5eD",
-      "publishedAt": "2026-07-19T17:33:00.000Z",
+      "title": "Virat Kohli score today: How much did India star score against England in 3rd ODI at Lord's - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjlORzhEUGszYmFmSjdtTTdON0lObVk1Tm5xcGJDRU5QUndfQ2dkWGZKTF9UY3JiNjFYTW1jT0d3N1pJeEhCaXFHQmZ3OXlQUWw4dlF6aWZvM3VLbkpJT3Y2ZXA3VG5IR05qTDZvRklOTmtKcUJnb0I0NFZSd180VW90Sk1pU0RDUC1MTjQ2akxjWGVLWGRGWjNFLXlsZkRVd1BBSFJVcFJTYjRNNVVWejl3dXlQRm1udXRQZlRn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjlORzhEUGszYmFmSjdtTTdON0lObVk1Tm5xcGJDRU5QUndfQ2dkWGZKTF9UY3JiNjFYTW1jT0d3N1pJeEhCaXFHQmZ3OXlQUWw4dlF6aWZvM3VLbkpJT3Y2ZXA3VG5IR05qTDZvRklOTmtKcUJnb0I0NFZSd180VW90Sk1pU0RDUC1MTjQ2akxjWGVLWGRGWjNFLXlsZkRVd1BBSFJVcFJTYjRNNVVWejl3dXlQRm1udX",
+      "publishedAt": "2026-07-19T17:58:01.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Kohli, Rohit become first Indian pair to play 400 matches together in Lord’s ODI - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVBTby1SeEFHWW96SlFsSVhJMDJnQ1dwMVZHckVxNHlwbDdqQlZNN3ZkZkxCd2hWS3N3dEsweVhVQ3I1Q2N0RmlUdVFna3lFSGhaUVRpci1MZGd6ZXUyWDhON3hWbkFYX1FHYXZfbHVWNHh4NGlwdHhScEljWHVtZGhEbW1nYlRIRDl0MUJUaGttUkR6b0RIQW95Z2lQMVIxT0YyMHFIRC0zdC1rSEI2emZDSnZXc0U0M0NvbHhMONIBxgFBVV95cUxQX1ZIVWUtTEJ1ZDk4YlFxcHJfTlQxX00wd1FjZlpMS0NDaGczUkZhUjk4blVqVDc3Tk02RXFsUXUzM2xIRnJlWEJCc0tzWjJUamdtNGVXY1g2aHdwOWh6clVaMWNQM0RFQzF4dkxRRWxSTWVQLTJfY3NxRXJ6QU9oWnc1SGtaR0FYempTZC1LVjEyRTFlSmhxVW1zbTJYRkVxWHpXZ2RxdnBtdkc4OGdteDVuZkpKODFYYThvVVhsNlBlZERTbFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVBTby1SeEFHWW96SlFsSVhJMDJnQ1dwMVZHckVxNHlwbDdqQlZNN3ZkZkxCd2hWS3N3dEsweVhVQ3I1Q2N0RmlUdVFna3lFSGhaUVRpci1MZGd6ZXUyWDhON3hWbkFYX1FHYXZfbHVWNHh4NGlwdHhScEljWHVtZGhEbW1nYlRIRDl0MUJUaGttUkR6b0RIQW95Z2lQMVIxT0YyMHFIRC0zdC1rSEI2emZDSnZXc0U0M0",
-      "publishedAt": "2026-07-19T09:11:02.000Z",
+      "title": "Yuvraj Singh Hits Bullseye Over Rohit Sharma, Virat Kohli's Future. Makes Big Appeal To BCCI - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnpBWFZCc3RUWkZ6VExVRndld3R5WUNETEFfUTgyQUJsSjU1VFJpM1Y3RldTbk92S3lxMk9QT01zX0FnQUFUQzJGZnEydmpQOGkxWlNXWlhXb3E4REZwaFF2YkhQN3kybXpCWkNGMmswY2Q4ZWhvNFpCd0RJSHBKRXNnSGN2RzYxQzYzSTJBa2tYV24tM281S1lXb2hnbGI1QnNfaXQ4N0V4WFlaNkl4X2NoRk04R3pScnVGRDVXWFZFeEUtREkwanZB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONnpBWFZCc3RUWkZ6VExVRndld3R5WUNETEFfUTgyQUJsSjU1VFJpM1Y3RldTbk92S3lxMk9QT01zX0FnQUFUQzJGZnEydmpQOGkxWlNXWlhXb3E4REZwaFF2YkhQN3kybXpCWkNGMmswY2Q4ZWhvNFpCd0RJSHBKRXNnSGN2RzYxQzYzSTJBa2tYV24tM281S1lXb2hnbGI1QnNfaXQ4N0V4WFlaNkl4X2NoRk04R3pScn",
+      "publishedAt": "2026-07-20T08:05:23.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Back Rohit Sharma, Virat Kohli or move on: Yuvraj Singh's strong message to BCCI - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQzRKRHp1LWhhTDNTRmw5OUdFQU5uUFJXSWZWdXpYc19EWVNteGlSbjNrY0tFeWVBREpVUEpDV2Q1NDNGRFZ3MEpRQ1hZWkQ3Y2luT2NoVjBJamdHcmR4NEpRTHp1UXNqSTZhYS1SNHB1WV9zTU0zYmVLU1F3YWxTa0g4a01ZMzYyVUY1VjdaeVVMQ1dNdjF3LW1hZzZDQjdlU2xWU0pEbEQ1dEJtQkpMUktzRUlOWlh1VU1GUjZWYlU1Rl9DVWpSNDZMUWl1N1ZIdTF4MtIB2gFBVV95cUxPS3N1QVVjcVEtT1NWZk1WRU5wTjYyek5PUnBhSTZsRzQteU44UHRsU3MyQ1R0OWdBX0NPSW14MXV5RTE2S0RUdFV0SWZGT3BJUU5CalZyVzV0MlpVM2J1NUZoUnNwcDhCVnlnR1E1Z0pYRzF1QjF3VzR3c1E1Z2tieVkzOHFTMklZdGNqNHBYal9Dei03Zm12U0wycjk5aWNMT0ZvWWlETi1KOEpBdlIyb05leFlOejNjc2JPRzFUYUpzUHJyQU94cWdHOEZQZ1ZxTXQ4eklOMWdOQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQzRKRHp1LWhhTDNTRmw5OUdFQU5uUFJXSWZWdXpYc19EWVNteGlSbjNrY0tFeWVBREpVUEpDV2Q1NDNGRFZ3MEpRQ1hZWkQ3Y2luT2NoVjBJamdHcmR4NEpRTHp1UXNqSTZhYS1SNHB1WV9zTU0zYmVLU1F3YWxTa0g4a01ZMzYyVUY1VjdaeVVMQ1dNdjF3LW1hZzZDQjdlU2xWU0pEbEQ1dEJtQkpMUktzRUlOWlh1VU",
+      "publishedAt": "2026-07-20T08:20:43.000Z",
       "source": {
         "name": "Google News"
       },
@@ -252,40 +262,20 @@
       "urlToImage": null
     },
     {
-      "title": "Rohit Sharma, Virat Kohli create history in 3rd ODI against England at Lord's, become first Indian pair t - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNUo3ZUtXTFRpeUpPRjFWVmIzekxCRUphbnd3cE5UX3pZSUhhNjVmZVZUV2hmeFVHN2RyNEVIakRJU0RlY2p1NEV0OEVKeDlHLVNudFRGU1NhaDZ6SVRCLVZaaEQ3NGF1UU4wR2dEVF9TaXJ1a2s5SzN1TThVZGgyVUYyckxWcnpSaEx4QXY0bEppenJUTFQ2a0x5ajEwUURFRWFaZkZ2LWZjUFNyRkVrSHJla1ZjbTA0QnBfeTlBckQ0LTdrYUlEMEt5WDE5MGVoaWY1a2xYdWxja2NPZEw3bUpqaGhCazQ2T3RvV3pCdWk3Y0R5VlN1N1YxOWFfMnpTUkd5WWdQTlBOeDZpY2dMRXdQWFgxNllQYlEzdHVqUUMtNzVVTWctRHRVQdIBsAJBVV95cUxQZTRDMjFmNGZRRm9WRFV1aXNBbXRlZWs4YXZubVI1UFJrUExuZm9nczE3Ujc1UWZCTGdQbFYtaWhHY21ZWGRLY3hScnpYWGVpbzQ2YUdyTUFlT0xreHB6aEZONWQ5QkZhekxwUUtxaWhKOV90MDRaWWNEU0kxXzVQdTRJRXRqTlotRTQtV2tRT3o0cGVhMkpsUjVEaGdWdVcyTXQ2dm50Mktva2NSbFVCRWEzTFd2SzlVVkJiWHR6WEhpRG9obndNUjdjRTkxMFNWX01wb1VDaTVTQXNWSXhNcmo1alozZlJ4UkJIcTFXN0ZRNGhLQUFWX0p3cTJqamluUjd4SGxud0JQeHZWTzlHSC04NDlUMGIxT1dPR1ZqUl9UTS0xV2F3b2gzeHJ2U2xE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNUo3ZUtXTFRpeUpPRjFWVmIzekxCRUphbnd3cE5UX3pZSUhhNjVmZVZUV2hmeFVHN2RyNEVIakRJU0RlY2p1NEV0OEVKeDlHLVNudFRGU1NhaDZ6SVRCLVZaaEQ3NGF1UU4wR2dEVF9TaXJ1a2s5SzN1TThVZGgyVUYyckxWcnpSaEx4QXY0bEppenJUTFQ2a0x5ajEwUURFRWFaZkZ2LWZjUFNyRkVrSHJla1ZjbTA0Qn",
-      "publishedAt": "2026-07-19T10:21:00.000Z",
+      "title": "IND vs ENG 3rd ODI: Rohit Sharma surpasses Virat Kohli with record 50-plus score in England - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaVZuVlo2OXl1aFd2UUxGd3M0Y2hHM1MtZ2lIdmItNTBvdTBPOEh5Y051QWxtSFdaVW1OS00xQk51RXQ2MnV5TGFISlkxY0RoVThNTmEyQ00wNE5mZlBOcmg1VEdkNlZGU1FzUS01a2tCMVo0OWdEQ2U2dEJIbWpPY1dPU2hOMTZ5NGZUNG94b3h6SGtld1k3aUZzUDM5aldydG9LckNyNlFGTUk3N0ZtcXI5LVBBNnR5eDI2MEM4em9EX1pEaXY5OTVPWXhNaDNfVUp0cUNhcE4xZ2RVZmJZRDNNS0xGdy0ySHI2ajVuZEhGLThuYWE1OTZpZGZRLUgySDFoaGVSYVQyc28yanVva25UR3hLM3ZP0gGeAkFVX3lxTE05THhwYVRldHpoSWVWVWtENnM2end5YnY5Y1hkQ2NKelU2bjFnSlZ6RW9XR3gybkVfcE9DN2xlR2puYmxpSXF0VnZmWlVPWHllNHdUMHc0YTA5cWYxY3pvQl9jMnR2LWNydWhZVkFrQUFWd1A3b3hMLTM3ZzRrTWMyVHExOTNaRHFycEN3M3BqQ1F2dmN4dXlpSkdxamhmQnQtX0pDZXphTlBRV2kySVVqTGpKaUdkUFFValNpa2JOcTkzQ1NPV3MwYzlicDRZcHNZZEVRa3RrSUVVNTQzellfcjRFNmp5Z00xcnJJSHQyV2J5M0xaQ2tWNmhpbmI0d2NBNHVQNnljWHduNENHb0h3Y29mSEs3VFFkc2VIVkE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOaVZuVlo2OXl1aFd2UUxGd3M0Y2hHM1MtZ2lIdmItNTBvdTBPOEh5Y051QWxtSFdaVW1OS00xQk51RXQ2MnV5TGFISlkxY0RoVThNTmEyQ00wNE5mZlBOcmg1VEdkNlZGU1FzUS01a2tCMVo0OWdEQ2U2dEJIbWpPY1dPU2hOMTZ5NGZUNG94b3h6SGtld1k3aUZzUDM5aldydG9LckNyNlFGTUk3N0ZtcXI5LVBBNnR5eD",
+      "publishedAt": "2026-07-19T17:33:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Rohit Sharma and Virat Kohli script history, break into ODI's all-time top two list - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNmEyamRidWVUcjh1S0pHZ244dXF2cmN6N1NlNWpZdDV6VG9QTTQwR0dCTW1VZ3dheUd5SmtCOWhpZW9DZUEwbi1KdUJZWWR1NHU2MWJ2WXl4RUh1OFJyYmVEZ2Rxd3dEcW1DbE1kN1BuY1pISmdDTVRMVWg3bHh1LVd3U3N3ZHlkeXBmTFNGTDBhMmdvakZ4YWtCekVBYVpIVklVLWwyZ2prWkFtVlZoM2pfSVpmcG1OMHMxVUVTTFV1NEtxMWdWa1JnU0VzZFRnekFHRmVrcG5fNjg0aWd3Zlp2NHE0RThmYXR6TGpWb0FxaHBDSUdRekp0cXBkRW50UU9mcWxlNHRJV0k30gGSAkFVX3lxTE1HNF9JZ3lBOFMzTkZNUlIwdzNodTBLeFFkR2xPUDhpOUxoZGpfeV9MV2ZMdTFKR1JxejR0dTllclNQU2NlM1liS3Q2VWN1X1RiMDZuZ3h2Ui1Db2pPX09KbXNSMzExU00wbTZndEQ3UUxEYmtCeURMZzhLdUxZanNYM1MyR2JMM3B6dFc4OGdzRUZxeVpmWGVoYWdMdTBfenYwcUJ0dEYzRm10TEtHa3hjRFJ6SlIzYmJKLTdqZnpBdUJzTjFQRUdMOUI2R2RKbmJPanFZRWZNRUZqZ2pRRXE1cktqWHNPX0tqUWNrNFZEUUQ1eGJsMHJGOTloOUpOZ1E2dC0taGpPblo0cHR0XzRxNEE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQNmEyamRidWVUcjh1S0pHZ244dXF2cmN6N1NlNWpZdDV6VG9QTTQwR0dCTW1VZ3dheUd5SmtCOWhpZW9DZUEwbi1KdUJZWWR1NHU2MWJ2WXl4RUh1OFJyYmVEZ2Rxd3dEcW1DbE1kN1BuY1pISmdDTVRMVWg3bHh1LVd3U3N3ZHlkeXBmTFNGTDBhMmdvakZ4YWtCekVBYVpIVklVLWwyZ2prWkFtVlZoM2pfSVpmcG1OMH",
-      "publishedAt": "2026-07-19T17:34:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "England wins ODI series against India after 747 runs scored in decider at Lord's - Mankato Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRG9uOEhPSTdkeWdobmFjWmg4dGFVd0NoUzdJLTdrak5ic3p3YV9vYWlHRkk3UHd5cDhVY2JEUlpLbDFjWHZfYjlwYjAwOHNjeVpMTldkeGlvZVg2ZFlXd3VRR0s1T0JSTmNGQXQwcjllU1VCeEsxcXZjWEg1d2U1Q01IMGRIYzhfd3Z0Nko1MW1OVDBhQUk1ZFhKZFQydmpFaXdRWFBDU3FLdG95c0Vhak1rVzA2eExieU82N05zRWNGUXJSUW1oTzhmU09FZUR5Z0NCSzNOOTVyOXpSVFhIc2hBTnFhYU1RbzN0Z3BuQTlCWjZ1cUNvZ1ZRQmkzYk56eFE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPRG9uOEhPSTdkeWdobmFjWmg4dGFVd0NoUzdJLTdrak5ic3p3YV9vYWlHRkk3UHd5cDhVY2JEUlpLbDFjWHZfYjlwYjAwOHNjeVpMTldkeGlvZVg2ZFlXd3VRR0s1T0JSTmNGQXQwcjllU1VCeEsxcXZjWEg1d2U1Q01IMGRIYzhfd3Z0Nko1MW1OVDBhQUk1ZFhKZFQydmpFaXdRWFBDU3FLdG95c0Vhak1rVzA2eExieU",
-      "publishedAt": "2026-07-19T20:44:52.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "India vs England 1st ODI 2026 lineups with return of Virat Kohli, Rohit Sharma and Shuban Gill - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBERW9VUkROYzFSUlU1eDhVZXQzbE1XcE5JQUo3Vzk5MjVGLXhYSEpQVXluM0c1YkxVeFJZeW1JdDByTF9pZGdqNTJzT0l1RGp2N21IMFpMMGszUDM5YUlha1hqMldzZXY4akdRZDdnTUhraFZVTjJpdnZYYlNsUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBERW9VUkROYzFSUlU1eDhVZXQzbE1XcE5JQUo3Vzk5MjVGLXhYSEpQVXluM0c1YkxVeFJZeW1JdDByTF9pZGdqNTJzT0l1RGp2N21IMFpMMGszUDM5YUlha1hqMldzZXY4akdRZDdnTUhraFZVTjJpdnZYYlNsUQ?oc=5\" target=\"_blank\">India vs England 1st ODI 2026 lineups with return of Vira",
-      "publishedAt": "2026-07-13T12:26:10.000Z",
+      "title": "Rohit and Kohli need to have that clarity on World Cup: Yuvraj Singh - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQa045U0JNaTBBYVN1YklOVGtaR3FWUE1aOWF1d0s1QnVUZ1VpbEtfOFpQaXFsTnJhMDVxRUNtQjA1Yjg0NzlaRHplUEJRVmpxNkViWkNUSnZ2eEk2QXNlbFM4WkVlWjY5OHphODZPLUFJeS1oeVJWbV9MdTFaTlJHT2NJU1VBRzlac1d4OHB5QVNnN1VWR1VkZlFsUlR6MzhxWUpQZlpic1FXOHhza0p5VncxUTlfLURXTVlXWjFFS1BrUHNXLVI1elp4M3J5elNlbENnbjBwaF9zUDZiT3N0WllrbGxzYkJsRWdfWUViMHpkSWk3M1ltZWtWTHlmOXl2NVHSAYQCQVVfeXFMUHVWaUtKeW0tMi1CWG1SMm1ZWk5tQlRvb1l6RkZmYXZOS1dGS2ZtRWFDMGdWUHhjaWRWbUFVV1prOTdMcXRxVUpYSTJiQUM2UzBOcFVGNElvaUpDdUJsa1Vkd052eGNCNjQzZDJMT2YyMnJxYzBFM1o0MnlZTzFHSDhIbl8zWHdxcHdIMlV4RGtzWW81SEFPWUk0R3BIVWt2X0xXazkzNTZxM0FmOHJTbnU2OXlwbURybXEyNk5EREh1TTNzeGVvTjJnOGthZ2U5amVUX01ZVVQtLUdRbDcwaTFBbHVjT1J4Zm02ZFdxbkFTQ0xveXB0OXhpSl96M1JsTjVRNHo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQa045U0JNaTBBYVN1YklOVGtaR3FWUE1aOWF1d0s1QnVUZ1VpbEtfOFpQaXFsTnJhMDVxRUNtQjA1Yjg0NzlaRHplUEJRVmpxNkViWkNUSnZ2eEk2QXNlbFM4WkVlWjY5OHphODZPLUFJeS1oeVJWbV9MdTFaTlJHT2NJU1VBRzlac1d4OHB5QVNnN1VWR1VkZlFsUlR6MzhxWUpQZlpic1FXOHhza0p5VncxUTlfLURXTV",
+      "publishedAt": "2026-07-20T06:17:55.000Z",
       "source": {
         "name": "Google News"
       },
@@ -302,40 +292,10 @@
       "urlToImage": null
     },
     {
-      "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLW",
-      "publishedAt": "2026-07-16T13:43:37.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "New Zealand Tour of West Indies 2026 - 4th ODI - West Indies vs New Zealand - Cricket Match Predictions: July 19 - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNENvY3RCT0F5LV82ZVlpZHBQd1BudG8tdG1nMWRYQjR0aE11N1pTZ0I1ZjB3R05xM3g5VGlyV3ZLdWZxWU1zNDhDeHp3X3pMbUt0MkM4Q0xpUmt1WTEzaTczVHNtYjlMcnVGeF81VFFmT21rT3gwZV9VX3ItdkVvQldqaWV0X29HRjhMY2dBR2JUdWFYMVRPQk1xMmlJVjRhM0RLU3lTbHdLbHI2SEV6aUlCclZycEx2b1ZhdldXTTZHR2gwWHpwY2d4Qm5zaGZhR2JmTDg0ckNjd3ZXM1E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNENvY3RCT0F5LV82ZVlpZHBQd1BudG8tdG1nMWRYQjR0aE11N1pTZ0I1ZjB3R05xM3g5VGlyV3ZLdWZxWU1zNDhDeHp3X3pMbUt0MkM4Q0xpUmt1WTEzaTczVHNtYjlMcnVGeF81VFFmT21rT3gwZV9VX3ItdkVvQldqaWV0X29HRjhMY2dBR2JUdWFYMVRPQk1xMmlJVjRhM0RLU3lTbHdLbHI2SEV6aUlCclZycEx2b1",
-      "publishedAt": "2026-07-18T15:34:20.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "ENG vs IND 1st ODI: Where to watch live streaming of today's cricket match? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN09lQnZETThuMGo1aE1BWEZuek9tVHctRUJ5cl9lYzl6alRBeVJDV1VFWXdDRFE0eGF5QjNEMHBHUWdZcFMtLWhLb19EYWRqZWtHREJwYnNnS2o4MlhkQjU2cUNVN3ZJRUFVejJFbWYwX19yTjJMa19BU1hpbDdENkVEMFoyN3JfN1pGaHJCRjFZN2pnNUdCTGEyS08xRVh3RmhTWklhMFQzdlp2TGQwNkpybGtkTXJ0UFNlV3ZyVWZkTmhHMXhsSHpJUjQ2U3ZucmYtLVVwTdIB3AFBVV95cUxPOEFtcFhQUEI5dHN1NUNNN3Atb0NsN2gxekFXMEpEU2lZLVlDYWgwQTR4SXdGVXNLYkZlQkJ0MXJPNWRmM2pMN3RKUnRXalZ6cGtFak5Md3NyeXlDeGRQcEZaM0RPM3dHNHNla0FpcTFmc3JfNlo4X25BdXQ0VkNjSXNfeWxFcDhkMXdIS3c2WVpyZnp6eU9sNDQ2V1FsdWM4d25QejRndnduTjJzNklxZndSdUkxUm1LZzZfNW55S29jaWFoYnU4eWZnX0M0Z1pJUlc5UXBSVGxNc1ct?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN09lQnZETThuMGo1aE1BWEZuek9tVHctRUJ5cl9lYzl6alRBeVJDV1VFWXdDRFE0eGF5QjNEMHBHUWdZcFMtLWhLb19EYWRqZWtHREJwYnNnS2o4MlhkQjU2cUNVN3ZJRUFVejJFbWYwX19yTjJMa19BU1hpbDdENkVEMFoyN3JfN1pGaHJCRjFZN2pnNUdCTGEyS08xRVh3RmhTWklhMFQzdlp2TGQwNkpybGtkTXJ0UF",
-      "publishedAt": "2026-07-14T09:12:35.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Samoa Cricket Team matches, scorecards, news and statistics - Cricbuzz",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HNnV4UWNZUFpwcmJwT01jbU5QanhkMURQWUltWmpncF8xdTJiVExuaGlFU3ZaeWRGTEo5eWRITWNqMWtRWVpSS3JtWER2b2NBY3BXcldzcENvMXFabDdrOThzQ21Idw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HNnV4UWNZUFpwcmJwT01jbU5QanhkMURQWUltWmpncF8xdTJiVExuaGlFU3ZaeWRGTEo5eWRITWNqMWtRWVpSS3JtWER2b2NBY3BXcldzcENvMXFabDdrOThzQ21Idw?oc=5\" target=\"_blank\">Samoa Cricket Team matches, scorecards, news and statistics</a>&nbsp;&nbsp;<font color=\"#",
-      "publishedAt": "2026-07-18T14:43:29.000Z",
+      "title": "Kohli, Rohit become first Indian pair to play 400 matches together in Lord’s ODI - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVBTby1SeEFHWW96SlFsSVhJMDJnQ1dwMVZHckVxNHlwbDdqQlZNN3ZkZkxCd2hWS3N3dEsweVhVQ3I1Q2N0RmlUdVFna3lFSGhaUVRpci1MZGd6ZXUyWDhON3hWbkFYX1FHYXZfbHVWNHh4NGlwdHhScEljWHVtZGhEbW1nYlRIRDl0MUJUaGttUkR6b0RIQW95Z2lQMVIxT0YyMHFIRC0zdC1rSEI2emZDSnZXc0U0M0NvbHhMONIBxgFBVV95cUxQX1ZIVWUtTEJ1ZDk4YlFxcHJfTlQxX00wd1FjZlpMS0NDaGczUkZhUjk4blVqVDc3Tk02RXFsUXUzM2xIRnJlWEJCc0tzWjJUamdtNGVXY1g2aHdwOWh6clVaMWNQM0RFQzF4dkxRRWxSTWVQLTJfY3NxRXJ6QU9oWnc1SGtaR0FYempTZC1LVjEyRTFlSmhxVW1zbTJYRkVxWHpXZ2RxdnBtdkc4OGdteDVuZkpKODFYYThvVVhsNlBlZERTbFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVBTby1SeEFHWW96SlFsSVhJMDJnQ1dwMVZHckVxNHlwbDdqQlZNN3ZkZkxCd2hWS3N3dEsweVhVQ3I1Q2N0RmlUdVFna3lFSGhaUVRpci1MZGd6ZXUyWDhON3hWbkFYX1FHYXZfbHVWNHh4NGlwdHhScEljWHVtZGhEbW1nYlRIRDl0MUJUaGttUkR6b0RIQW95Z2lQMVIxT0YyMHFIRC0zdC1rSEI2emZDSnZXc0U0M0",
+      "publishedAt": "2026-07-19T09:11:02.000Z",
       "source": {
         "name": "Google News"
       },
@@ -374,10 +334,10 @@
       "urlToImage": null
     },
     {
-      "title": "Fleadh in Belfast to showcase Irish, Ulster Scots and South Asian culture - Belfast Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbERtQTViRGtNaFNUQ0ZCVFE0Q3NGU1djTUZ0SExxdS05bHI3Zm42aXRQMnRxNTFXV0wzSmxKZlVsZm80dHdBTHNHamV6cDlGdXExUV9ZSlV0UEl1TzBvUVVfdk1mVzlvNTFhLXJnOFhEU21JZkhDUXAxdFFiQ2hJSnJQQ0tRa3N3dkJKblZyWGpuc3lUNHNMYU44NldRZi1IUGhSU3duMEdPN1NXUW4xdU1IUjFiZ05YYkZfOVZvcWNQTXY5Vmd1SmVTRjFfYUNpemUzTGhmdGhvRGM?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbERtQTViRGtNaFNUQ0ZCVFE0Q3NGU1djTUZ0SExxdS05bHI3Zm42aXRQMnRxNTFXV0wzSmxKZlVsZm80dHdBTHNHamV6cDlGdXExUV9ZSlV0UEl1TzBvUVVfdk1mVzlvNTFhLXJnOFhEU21JZkhDUXAxdFFiQ2hJSnJQQ0tRa3N3dkJKblZyWGpuc3lUNHNMYU44NldRZi1IUGhSU3duMEdPN1NXUW4xdU1IUjFiZ05YYk",
-      "publishedAt": "2026-07-19T11:00:56.000Z",
+      "title": "Fleadh in Belfast to showcase Irish, Ulster Scots and South Asian culture - Hexham Courant",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2xHUW1iRFBaNWVURUpmTXpWT0JLZW90ZXpRU25BZS1kbU5GVXg3dy1wWjM2bFVXaHZGS2ltV1pELVRTR3RjQ0pual91bW9wV00yZ2VtNXE4MldBRUJkN2NHZzR2U3pqN0w2M3FodnR0dWs1TnlMTzJwYUFJdVBiQkcwakZMWnQwbWh5MkNaS0VCek5wR09pWE0tdXRqam5WOVZpNGVrZk5tblB0U0JPem5DWDR0eXhnRUlR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2xHUW1iRFBaNWVURUpmTXpWT0JLZW90ZXpRU25BZS1kbU5GVXg3dy1wWjM2bFVXaHZGS2ltV1pELVRTR3RjQ0pual91bW9wV00yZ2VtNXE4MldBRUJkN2NHZzR2U3pqN0w2M3FodnR0dWs1TnlMTzJwYUFJdVBiQkcwakZMWnQwbWh5MkNaS0VCek5wR09pWE0tdXRqam5WOVZpNGVrZk5tblB0U0JPem5DWDR0eXhnRU",
+      "publishedAt": "2026-07-19T10:06:11.000Z",
       "source": {
         "name": "Google News"
       },
@@ -398,6 +358,16 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Odk91S3pNRGZOaml6OS16elJSRHhxMkxaZ09ERmFveVNnU2FuNmRaSGk4OVZvSGdFb1hveG1DRGZWZi1XQzVxNUdlV08tLXRDS2Q5U1docjJKWHY4b0c4?oc=5\" target=\"_blank\">Twenty20 cricket | Rules, History, World Cup, 2026, Scores, Matches, Highlights, Rankings, Schedule",
       "publishedAt": "2026-07-13T05:00:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Football (soccer) | History, 2026 FIFA World Cup, Game, Rules, & Significant Players - Encyclopedia Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4NElISjFPV1BPSGl3RkRRWDFpaTI3WHJjSktYSWh3UW5YZmQ3MUJ2ZlZvamVicGhLanlUYXJpR1ljRDFXWmpkd3o2UWloZTNrYnZBT1ZVU0QtbEpYNmc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4NElISjFPV1BPSGl3RkRRWDFpaTI3WHJjSktYSWh3UW5YZmQ3MUJ2ZlZvamVicGhLanlUYXJpR1ljRDFXWmpkd3o2UWloZTNrYnZBT1ZVU0QtbEpYNmc?oc=5\" target=\"_blank\">Football (soccer) | History, 2026 FIFA World Cup, Game, Rules, & Significant Players</a>&nbsp;&nbsp;",
+      "publishedAt": "2026-07-19T05:00:00.000Z",
       "source": {
         "name": "Google News"
       },
