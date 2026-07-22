@@ -1,11 +1,50 @@
 {
-  "lastUpdated": "2026-07-22T10:10:43.641Z",
+  "lastUpdated": "2026-07-22T15:44:49.250Z",
   "recentMatches": [
+    {
+      "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
+      "name": "Hong Kong, China Women vs Tanzania Women, 4th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China Women won by 16 runs",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-22",
+      "dateTimeGMT": "2026-07-22T12:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 152,
+          "w": 3,
+          "o": 20,
+          "inning": "hong kong, china women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 5,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "edd78f2a-2188-48bd-9d02-9abc996f54d6",
       "name": "Namibia Women vs Uganda Women, 3rd Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Uganda Women need 96 runs in 84 balls",
+      "status": "Match tied  -  Namibia Women won the Super Over",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-22",
       "dateTimeGMT": "2026-07-22T07:30:00",
@@ -33,9 +72,9 @@
           "inning": "Namibia Women Inning 1"
         },
         {
-          "r": 28,
-          "w": 0,
-          "o": 6,
+          "r": 123,
+          "w": 7,
+          "o": 20,
           "inning": "Uganda Women Inning 1"
         }
       ],
@@ -44,7 +83,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2b30e7ef-e6b4-4535-b09f-6c720d588816",
@@ -133,7 +172,7 @@
     {
       "id": "689dc21b-ae0b-4b69-825a-cef3b16139bd",
       "name": "Sri Lanka U19 vs India U19, 2nd unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 3: 3rd Session - Sri Lanka U19 need 450 runs",
+      "status": "Day 3: Stumps - Sri Lanka U19 need 317 runs",
       "venue": "R.Premadasa Stadium, Colombo",
       "date": "2026-07-20",
       "dateTimeGMT": "2026-07-20T04:00:00",
@@ -173,9 +212,9 @@
           "inning": "India U19 Inning 2"
         },
         {
-          "r": 22,
-          "w": 1,
-          "o": 6,
+          "r": 155,
+          "w": 4,
+          "o": 36,
           "inning": "Sri Lanka U19 Inning 2"
         }
       ],
@@ -237,10 +276,48 @@
       "matchEnded": true
     },
     {
+      "id": "05679733-6b4e-4b8d-affe-016efdeada24",
+      "name": "Dambulla Sixers vs Galle Gallants, 8th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-22",
+      "dateTimeGMT": "2026-07-22T14:00:00",
+      "teams": [
+        "Dambulla Sixers",
+        "Galle Gallants"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dambulla Sixers",
+          "shortname": "DS",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Galle Gallants",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 178,
+          "w": 8,
+          "o": 20,
+          "inning": "Galle Gallants Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "7927acfc-0a10-44ee-b90f-e86a0e256f72",
       "name": "Jaffna Kings vs Colombo Kaps, 7th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Colombo Kaps opt to bowl",
+      "status": "Jaffna Kings won by 5 runs",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-07-22",
       "dateTimeGMT": "2026-07-22T09:30:00",
@@ -261,10 +338,16 @@
       ],
       "score": [
         {
-          "r": 65,
-          "w": 1,
-          "o": 8.5,
+          "r": 179,
+          "w": 6,
+          "o": 20,
           "inning": "Jaffna Kings Inning 1"
+        },
+        {
+          "r": 174,
+          "w": 9,
+          "o": 20,
+          "inning": "Colombo Kaps Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -272,7 +355,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "ae89a34a-2cd6-4254-a13f-d3059ee38024",
@@ -1031,94 +1114,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8c9437ef-bb0a-4542-800a-b1786c83f446",
-      "name": "Surrey Women vs The Blaze Women, Semi Final 1, Womens T20 Blast 2026",
-      "matchType": "t20",
-      "status": "The Blaze Women won by 6 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-07-17",
-      "dateTimeGMT": "2026-07-17T10:00:00",
-      "teams": [
-        "Surrey Women",
-        "The Blaze Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Surrey Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "The Blaze Women",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 105,
-          "w": 10,
-          "o": 15.2,
-          "inning": "Surrey Women Inning 1"
-        },
-        {
-          "r": 106,
-          "w": 4,
-          "o": 16.3,
-          "inning": "The Blaze Women Inning 1"
-        }
-      ],
-      "series_id": "3f4a50dd-a8e1-45d8-83e4-365d4882d6c5",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "238f1c8d-f35b-472f-8b42-69d350fd1298",
-      "name": "Nepal vs Namibia, 116th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Namibia won by 8 wkts",
-      "venue": "Sportpark Maarschalkerweerd, Utrecht",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T00:00:00",
-      "teams": [
-        "Nepal",
-        "Namibia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 157,
-          "w": 10,
-          "o": 46.5,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 2,
-          "o": 37.4,
-          "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
