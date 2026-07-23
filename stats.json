@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T15:57:14.990Z",
+  "lastUpdated": "2026-07-23T21:07:46.136Z",
   "recentMatches": [
     {
       "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
@@ -229,7 +229,7 @@
       "id": "7f22ee0a-8eed-453d-9cf7-543c6117cbe4",
       "name": "Galle Gallants vs Jaffna Kings, 10th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Jaffna Kings opt to bowl",
+      "status": "Galle Gallants won by 60 runs",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-07-23",
       "dateTimeGMT": "2026-07-23T14:00:00",
@@ -250,10 +250,16 @@
       ],
       "score": [
         {
-          "r": 192,
-          "w": 7,
-          "o": 19.5,
+          "r": 193,
+          "w": 8,
+          "o": 20,
           "inning": "Galle Gallants Inning 1"
+        },
+        {
+          "r": 133,
+          "w": 10,
+          "o": 17.5,
+          "inning": "Jaffna Kings Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -261,7 +267,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "c63b8b2e-4d37-4ca0-93d4-bf15a49ac7d6",
@@ -440,95 +446,6 @@
       "matchEnded": true
     },
     {
-      "id": "f1cc0dc7-2db7-4744-a18b-fc42d90bc53f",
-      "name": "Colombo Kaps vs Kandy Falcons, 5th Match, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Colombo Kaps won by 6 wkts",
-      "venue": "Sinhalese Sports Club, Colombo",
-      "date": "2026-07-19",
-      "dateTimeGMT": "2026-07-19T14:00:00",
-      "teams": [
-        "Colombo Kaps",
-        "Kandy Falcons"
-      ],
-      "teamInfo": [
-        {
-          "name": "Colombo Kaps",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kandy Falcons",
-          "shortname": "KAF",
-          "img": "https://g.cricapi.com/iapi/197-637944280418396303.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 179,
-          "w": 10,
-          "o": 20,
-          "inning": "Kandy Falcons Inning 1"
-        },
-        {
-          "r": 182,
-          "w": 4,
-          "o": 19.4,
-          "inning": "Colombo Kaps Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3519cadf-4bb2-4794-b7db-117e39d610f4",
-      "name": "Dambulla Sixers vs Jaffna Kings, 4th Match, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Jaffna Kings won by 5 wkts",
-      "venue": "Sinhalese Sports Club, Colombo",
-      "date": "2026-07-19",
-      "dateTimeGMT": "2026-07-19T09:30:00",
-      "teams": [
-        "Dambulla Sixers",
-        "Jaffna Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Dambulla Sixers",
-          "shortname": "DS",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 130,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Dambulla Sixers Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 5,
-          "o": 19,
-          "inning": "Jaffna Kings Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f8cdb4a7-a7a6-4771-858d-03a6c5cf2a0c",
       "name": "West Indies vs New Zealand, 5th ODI, New Zealand tour of West Indies, 2026",
       "matchType": "odi",
@@ -574,92 +491,47 @@
       "matchEnded": true
     },
     {
-      "id": "7b34cdf0-1b4e-40ac-985b-a269c2c65bcb",
-      "name": "West Indies vs New Zealand, 4th ODI, New Zealand tour of West Indies, 2026",
-      "matchType": "odi",
-      "status": "New Zealand won by 1 wkt",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-07-19",
-      "dateTimeGMT": "2026-07-19T18:30:00",
+      "id": "8006b793-9a8f-4e67-9de8-fb4b09b0007f",
+      "name": "London Spirit vs Manchester Super Giants, 3rd Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Manchester Super Giants won by 7 runs",
+      "venue": "Lord's, London",
+      "date": "2026-07-23",
+      "dateTimeGMT": "2026-07-23T17:30:00",
       "teams": [
-        "West Indies",
-        "New Zealand"
+        "London Spirit",
+        "Manchester Super Giants"
       ],
       "teamInfo": [
         {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          "name": "London Spirit",
+          "shortname": "LDN",
+          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
         },
         {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+          "name": "Manchester Super Giants",
+          "shortname": "MSG",
+          "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 188,
-          "w": 10,
-          "o": 44.4,
-          "inning": "West Indies Inning 1"
+          "r": 138,
+          "w": 9,
+          "o": 100,
+          "inning": "Manchester Super Giants Inning 1"
         },
         {
-          "r": 189,
-          "w": 9,
-          "o": 44.1,
-          "inning": "New Zealand Inning 1"
+          "r": 131,
+          "w": 6,
+          "o": 100,
+          "inning": "London Spirit Inning 1"
         }
       ],
-      "series_id": "01c9b20e-45cd-4c7b-a311-429f83f171c1",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "74d7f367-1f5b-4ba0-b9dd-8c5b744e234e",
-      "name": "Zimbabwe vs Bangladesh, 3rd T20I, Bangladesh tour of Zimbabwe, 2026",
-      "matchType": "t20",
-      "status": "Bangladesh won by 4 wkts",
-      "venue": "Queens Sports Club, Bulawayo",
-      "date": "2026-07-19",
-      "dateTimeGMT": "2026-07-19T11:30:00",
-      "teams": [
-        "Zimbabwe",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 143,
-          "w": 7,
-          "o": 20,
-          "inning": "zimbabwe Inning 1"
-        },
-        {
-          "r": 144,
-          "w": 6,
-          "o": 19.4,
-          "inning": "Zimbabwe,Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "0780a9a5-dbab-4c33-8235-40b694ec994e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -757,7 +629,7 @@
       "id": "67019b0b-ffb8-402d-ae60-4e422538d19a",
       "name": "Netherlands vs Nepal, 117th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Netherlands need 27 runs in 72 balls",
+      "status": "Netherlands won by 6 wkts",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-23",
       "dateTimeGMT": "2026-07-23T00:00:00",
@@ -785,9 +657,9 @@
           "inning": "Nepal Inning 1"
         },
         {
-          "r": 131,
+          "r": 158,
           "w": 4,
-          "o": 38,
+          "o": 44.1,
           "inning": "Netherlands Inning 1"
         }
       ],
@@ -796,7 +668,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "238f1c8d-f35b-472f-8b42-69d350fd1298",
@@ -837,51 +709,6 @@
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0cd1ec7a-e581-4172-977b-06e8d0cdb78e",
-      "name": "Los Angeles Knight Riders vs Washington Freedom, Final, Major League Cricket 2026",
-      "matchType": "t20",
-      "status": "Los Angeles Knight Riders won by 1 run",
-      "venue": "Oakland Coliseum, Oakland",
-      "date": "2026-07-19",
-      "dateTimeGMT": "2026-07-19T01:30:00",
-      "teams": [
-        "Los Angeles Knight Riders",
-        "Washington Freedom"
-      ],
-      "teamInfo": [
-        {
-          "name": "Los Angeles Knight Riders",
-          "shortname": "LAKR",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Washington Freedom",
-          "shortname": "WF",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 164,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Los Angeles Knight Riders Inning 1"
-        },
-        {
-          "r": 163,
-          "w": 9,
-          "o": 20,
-          "inning": "Washington Freedom Inning 1"
-        }
-      ],
-      "series_id": "5994841b-0383-4706-a913-e3cd95793b62",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -976,7 +803,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3668f36d-3297-494e-b3de-26b015873bee",
@@ -1072,7 +899,7 @@
       "id": "bf7372df-8e78-4ba5-a8d1-aacffe145b6c",
       "name": "Nottinghamshire vs Warwickshire, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Nottinghamshire need 116 runs",
+      "status": "Nottinghamshire won by 3 wkts",
       "venue": "The John Fretwell Sporting Complex, Nettleworth",
       "date": "2026-07-23",
       "dateTimeGMT": "2026-07-23T10:00:00",
@@ -1100,9 +927,9 @@
           "inning": "Warwickshire Inning 1"
         },
         {
-          "r": 167,
-          "w": 3,
-          "o": 28,
+          "r": 283,
+          "w": 7,
+          "o": 48.3,
           "inning": "Nottinghamshire Inning 1"
         }
       ],
@@ -1111,7 +938,187 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "4a5f3a61-d266-4483-8532-4ddc3153ed76",
+      "name": "Glamorgan vs Sussex, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Glamorgan won by 12 runs",
+      "venue": "The Gnoll Cricket Ground, Neath, Wales",
+      "date": "2026-07-22",
+      "dateTimeGMT": "2026-07-22T10:00:00",
+      "teams": [
+        "Glamorgan",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 295,
+          "w": 8,
+          "o": 50,
+          "inning": "Glamorgan Inning 1"
+        },
+        {
+          "r": 283,
+          "w": 8,
+          "o": 50,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ab5fbd56-a397-4a70-894c-f8fe5a0cad76",
+      "name": "Leicestershire vs Gloucestershire, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Leicestershire won by 2 wkts",
+      "venue": "Kibworth Cricket Club New Ground, Kibworth",
+      "date": "2026-07-22",
+      "dateTimeGMT": "2026-07-22T10:00:00",
+      "teams": [
+        "Leicestershire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 235,
+          "w": 10,
+          "o": 49,
+          "inning": "gloucestershire Inning 1"
+        },
+        {
+          "r": 239,
+          "w": 8,
+          "o": 48.2,
+          "inning": "Leicestershire,Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "51f5e3e2-9bbd-4741-ad3a-6ca23f6e44c5",
+      "name": "Yorkshire vs Hampshire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Hampshire won by 50 runs",
+      "venue": "North Marine Road Ground, Scarborough",
+      "date": "2026-07-21",
+      "dateTimeGMT": "2026-07-21T10:00:00",
+      "teams": [
+        "Yorkshire",
+        "Hampshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 320,
+          "w": 8,
+          "o": 50,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 270,
+          "w": 10,
+          "o": 47,
+          "inning": "Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "95680e43-7d9d-48b8-a6fb-dd9195364bf5",
+      "name": "Nottinghamshire vs Somerset, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Nottinghamshire won by 4 wkts",
+      "venue": "The John Fretwell Sporting Complex, Nettleworth",
+      "date": "2026-07-21",
+      "dateTimeGMT": "2026-07-21T10:00:00",
+      "teams": [
+        "Nottinghamshire",
+        "Somerset"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 258,
+          "w": 9,
+          "o": 50,
+          "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 259,
+          "w": 6,
+          "o": 44.4,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1428,6 +1435,14 @@
         "points": 2
       },
       {
+        "team": "Manchester Super Giants",
+        "played": 1,
+        "won": 1,
+        "lost": 0,
+        "nr": 0,
+        "points": 2
+      },
+      {
         "team": "Sunrisers Leeds",
         "played": 1,
         "won": 0,
@@ -1437,6 +1452,14 @@
       },
       {
         "team": "Southern Brave",
+        "played": 1,
+        "won": 0,
+        "lost": 1,
+        "nr": 0,
+        "points": 0
+      },
+      {
+        "team": "London Spirit",
         "played": 1,
         "won": 0,
         "lost": 1,
