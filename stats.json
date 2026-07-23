@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T05:30:17.849Z",
+  "lastUpdated": "2026-07-23T10:09:03.457Z",
   "recentMatches": [
     {
       "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
@@ -172,7 +172,7 @@
     {
       "id": "689dc21b-ae0b-4b69-825a-cef3b16139bd",
       "name": "Sri Lanka U19 vs India U19, 2nd unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 4: 1st Session - Sri Lanka U19 need 309 runs",
+      "status": "India U19 won by 211 runs",
       "venue": "R.Premadasa Stadium, Colombo",
       "date": "2026-07-20",
       "dateTimeGMT": "2026-07-20T04:00:00",
@@ -212,13 +212,50 @@
           "inning": "India U19 Inning 2"
         },
         {
-          "r": 163,
-          "w": 4,
-          "o": 46.4,
+          "r": 260,
+          "w": 10,
+          "o": 76.5,
           "inning": "Sri Lanka U19 Inning 2"
         }
       ],
       "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c63b8b2e-4d37-4ca0-93d4-bf15a49ac7d6",
+      "name": "Kandy Royals vs Colombo Kaps, 9th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Kandy Royals opt to bowl",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-23",
+      "dateTimeGMT": "2026-07-23T09:30:00",
+      "teams": [
+        "Kandy Royals",
+        "Colombo Kaps"
+      ],
+      "teamInfo": [
+        {
+          "name": "Colombo Kaps",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kandy Royals",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 61,
+          "w": 3,
+          "o": 6,
+          "inning": "Kandy FalconsColombo Kaps Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -673,6 +710,45 @@
       "matchEnded": true
     },
     {
+      "id": "67019b0b-ffb8-402d-ae60-4e422538d19a",
+      "name": "Netherlands vs Nepal, 117th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Netherlands opt to bowl",
+      "venue": "Sportpark Maarschalkerweerd, Utrecht",
+      "date": "2026-07-23",
+      "dateTimeGMT": "2026-07-23T00:00:00",
+      "teams": [
+        "Netherlands",
+        "Nepal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 42,
+          "w": 4,
+          "o": 13.3,
+          "inning": "Nepal Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "238f1c8d-f35b-472f-8b42-69d350fd1298",
       "name": "Nepal vs Namibia, 116th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -853,6 +929,38 @@
       "matchEnded": true
     },
     {
+      "id": "bf7372df-8e78-4ba5-a8d1-aacffe145b6c",
+      "name": "Nottinghamshire vs Warwickshire, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Nottinghamshire opt to bowl",
+      "venue": "The John Fretwell Sporting Complex, Nettleworth",
+      "date": "2026-07-23",
+      "dateTimeGMT": "2026-07-23T10:00:00",
+      "teams": [
+        "Nottinghamshire",
+        "Warwickshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "4a5f3a61-d266-4483-8532-4ddc3153ed76",
       "name": "Glamorgan vs Sussex, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
@@ -978,141 +1086,6 @@
           "w": 10,
           "o": 47,
           "inning": "Yorkshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "95680e43-7d9d-48b8-a6fb-dd9195364bf5",
-      "name": "Nottinghamshire vs Somerset, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Nottinghamshire won by 4 wkts",
-      "venue": "The John Fretwell Sporting Complex, Nettleworth",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T10:00:00",
-      "teams": [
-        "Nottinghamshire",
-        "Somerset"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 258,
-          "w": 9,
-          "o": 50,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 259,
-          "w": 6,
-          "o": 44.4,
-          "inning": "Nottinghamshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3f71e8f7-3b96-4091-9ec2-5a6ad46c85c4",
-      "name": "Northamptonshire vs Warwickshire, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Northamptonshire won by 5 wkts",
-      "venue": "County Ground, Northampton",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T10:00:00",
-      "teams": [
-        "Northamptonshire",
-        "Warwickshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 312,
-          "w": 9,
-          "o": 50,
-          "inning": "Warwickshire Inning 1"
-        },
-        {
-          "r": 314,
-          "w": 5,
-          "o": 48.4,
-          "inning": "Northamptonshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0c524ea6-4c5a-4616-9097-3679a9272c38",
-      "name": "Middlesex vs Essex, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Middlesex won by 41 runs",
-      "venue": "Brunton Memorial Ground, Radlett",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T10:00:00",
-      "teams": [
-        "Middlesex",
-        "Essex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 294,
-          "w": 8,
-          "o": 50,
-          "inning": "Middlesex Inning 1"
-        },
-        {
-          "r": 253,
-          "w": 10,
-          "o": 46.2,
-          "inning": "Essex Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
