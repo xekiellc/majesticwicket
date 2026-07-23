@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T21:14:29.256Z",
+  "lastUpdated": "2026-07-23T05:30:17.849Z",
   "recentMatches": [
     {
       "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
@@ -172,7 +172,7 @@
     {
       "id": "689dc21b-ae0b-4b69-825a-cef3b16139bd",
       "name": "Sri Lanka U19 vs India U19, 2nd unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "Day 3: Stumps - Sri Lanka U19 need 317 runs",
+      "status": "Day 4: 1st Session - Sri Lanka U19 need 309 runs",
       "venue": "R.Premadasa Stadium, Colombo",
       "date": "2026-07-20",
       "dateTimeGMT": "2026-07-20T04:00:00",
@@ -212,9 +212,9 @@
           "inning": "India U19 Inning 2"
         },
         {
-          "r": 155,
+          "r": 163,
           "w": 4,
-          "o": 36,
+          "o": 46.4,
           "inning": "Sri Lanka U19 Inning 2"
         }
       ],
