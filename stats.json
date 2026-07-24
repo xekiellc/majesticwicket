@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-24T15:34:30.704Z",
+  "lastUpdated": "2026-07-24T21:07:11.481Z",
   "recentMatches": [
     {
       "id": "6bf439a3-8c50-42fa-abc4-01c8d10717df",
       "name": "Namibia Women vs Hong Kong, China Women, 6th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Hong Kong, China Women opt to bat",
+      "status": "Namibia Women won by 5 wkts",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-24",
       "dateTimeGMT": "2026-07-24T12:00:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 113,
+          "w": 7,
+          "o": 20,
+          "inning": "hong kong, china women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 5,
+          "o": 18.2,
+          "inning": "Namibia Women,Hong Kong Inning 1"
+        }
+      ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2028c955-b007-44f5-a723-8750a1df4e73",
@@ -239,62 +253,6 @@
         }
       ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "689dc21b-ae0b-4b69-825a-cef3b16139bd",
-      "name": "Sri Lanka U19 vs India U19, 2nd unofficial Test, India U19 tour of Sri Lanka 2026",
-      "status": "India U19 won by 211 runs",
-      "venue": "R.Premadasa Stadium, Colombo",
-      "date": "2026-07-20",
-      "dateTimeGMT": "2026-07-20T04:00:00",
-      "teams": [
-        "Sri Lanka U19",
-        "India U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 411,
-          "w": 10,
-          "o": 105.2,
-          "inning": "India U19 Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 10,
-          "o": 52.1,
-          "inning": "Sri Lanka U19 Inning 1"
-        },
-        {
-          "r": 208,
-          "w": 3,
-          "o": 40.2,
-          "inning": "India U19 Inning 2"
-        },
-        {
-          "r": 260,
-          "w": 10,
-          "o": 76.5,
-          "inning": "Sri Lanka U19 Inning 2"
-        }
-      ],
-      "series_id": "614d9bda-b605-4034-8878-f67a9e0ed614",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -560,6 +518,51 @@
         }
       ],
       "series_id": "01c9b20e-45cd-4c7b-a311-429f83f171c1",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0b04086f-ab0f-4193-b800-628e22ca544e",
+      "name": "Birmingham Phoenix vs Trent Rockets, 4th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Birmingham Phoenix won by 10 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T17:30:00",
+      "teams": [
+        "Birmingham Phoenix",
+        "Trent Rockets"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Trent Rockets",
+          "shortname": "TRE",
+          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 214,
+          "w": 4,
+          "o": 100,
+          "inning": "Birmingham Phoenix Inning 1"
+        },
+        {
+          "r": 204,
+          "w": 7,
+          "o": 100,
+          "inning": "Trent Rockets Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -840,7 +843,7 @@
       "id": "d9b73501-4cac-451c-ab48-59c9fa62c14a",
       "name": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
-      "status": "Trent Rockets Women need 37 runs in 85 balls",
+      "status": "Trent Rockets Women won by 9 wkts",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-07-24",
       "dateTimeGMT": "2026-07-24T14:00:00",
@@ -868,9 +871,9 @@
           "inning": "Birmingham Phoenix Women Inning 1"
         },
         {
-          "r": 28,
-          "w": 0,
-          "o": 15,
+          "r": 68,
+          "w": 1,
+          "o": 31,
           "inning": "Trent Rockets Women Inning 1"
         }
       ],
@@ -879,7 +882,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a176e0c4-c689-4f0d-9b35-a23a581694d8",
@@ -1020,7 +1023,7 @@
       "id": "89be9b17-692f-4d90-b0ac-d39424112a8c",
       "name": "Somerset vs Gloucestershire, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Gloucestershire opt to bowl",
+      "status": "Somerset won by 35 runs",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-07-24",
       "dateTimeGMT": "2026-07-24T13:00:00",
@@ -1042,10 +1045,16 @@
       ],
       "score": [
         {
-          "r": 227,
-          "w": 4,
-          "o": 37,
+          "r": 352,
+          "w": 7,
+          "o": 50,
           "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 317,
+          "w": 10,
+          "o": 47.4,
+          "inning": "Gloucestershire Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
@@ -1053,13 +1062,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7be6b71e-f78d-47f4-a4c2-eb992653a7f0",
       "name": "Durham vs Sussex, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Durham opt to bat",
+      "status": "Durham won by 72 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-07-24",
       "dateTimeGMT": "2026-07-24T12:30:00",
@@ -1081,10 +1090,16 @@
       ],
       "score": [
         {
-          "r": 275,
-          "w": 3,
-          "o": 42,
+          "r": 352,
+          "w": 5,
+          "o": 50,
           "inning": "durham Inning 1"
+        },
+        {
+          "r": 280,
+          "w": 10,
+          "o": 43.5,
+          "inning": "Durham,Sussex Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
@@ -1092,7 +1107,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1401,6 +1416,14 @@
         "points": 2
       },
       {
+        "team": "Birmingham Phoenix",
+        "played": 1,
+        "won": 1,
+        "lost": 0,
+        "nr": 0,
+        "points": 2
+      },
+      {
         "team": "Welsh Fire",
         "played": 1,
         "won": 1,
@@ -1418,6 +1441,14 @@
       },
       {
         "team": "Sunrisers Leeds",
+        "played": 1,
+        "won": 0,
+        "lost": 1,
+        "nr": 0,
+        "points": 0
+      },
+      {
+        "team": "Trent Rockets",
         "played": 1,
         "won": 0,
         "lost": 1,
