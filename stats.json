@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T05:25:20.340Z",
+  "lastUpdated": "2026-07-24T10:03:42.069Z",
   "recentMatches": [
     {
       "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
@@ -896,61 +896,16 @@
       "matchEnded": true
     },
     {
-      "id": "bf7372df-8e78-4ba5-a8d1-aacffe145b6c",
-      "name": "Nottinghamshire vs Warwickshire, Group A, England Domestic One-Day Cup 2026",
+      "id": "b921cc60-bf38-456e-af34-13e86a4847ec",
+      "name": "Glamorgan vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Nottinghamshire won by 3 wkts",
-      "venue": "The John Fretwell Sporting Complex, Nettleworth",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T10:00:00",
-      "teams": [
-        "Nottinghamshire",
-        "Warwickshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 282,
-          "w": 10,
-          "o": 49.5,
-          "inning": "Warwickshire Inning 1"
-        },
-        {
-          "r": 283,
-          "w": 7,
-          "o": 48.3,
-          "inning": "Nottinghamshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4a5f3a61-d266-4483-8532-4ddc3153ed76",
-      "name": "Glamorgan vs Sussex, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Glamorgan won by 12 runs",
+      "status": "Glamorgan opt to bat",
       "venue": "The Gnoll Cricket Ground, Neath, Wales",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T10:00:00",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T10:00:00",
       "teams": [
         "Glamorgan",
-        "Sussex"
+        "Yorkshire"
       ],
       "teamInfo": [
         {
@@ -959,88 +914,30 @@
           "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
         },
         {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 295,
-          "w": 8,
-          "o": 50,
-          "inning": "Glamorgan Inning 1"
-        },
-        {
-          "r": 283,
-          "w": 8,
-          "o": 50,
-          "inning": "Sussex Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "ab5fbd56-a397-4a70-894c-f8fe5a0cad76",
-      "name": "Leicestershire vs Gloucestershire, Group A, England Domestic One-Day Cup 2026",
+      "id": "475988d8-1ada-4a45-ad04-33c8fe8331cc",
+      "name": "Hampshire vs Middlesex, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Leicestershire won by 2 wkts",
-      "venue": "Kibworth Cricket Club New Ground, Kibworth",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T10:00:00",
+      "status": "Middlesex opt to bat",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T10:00:00",
       "teams": [
-        "Leicestershire",
-        "Gloucestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 235,
-          "w": 10,
-          "o": 49,
-          "inning": "gloucestershire Inning 1"
-        },
-        {
-          "r": 239,
-          "w": 8,
-          "o": 48.2,
-          "inning": "Leicestershire,Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "51f5e3e2-9bbd-4741-ad3a-6ca23f6e44c5",
-      "name": "Yorkshire vs Hampshire, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Hampshire won by 50 runs",
-      "venue": "North Marine Road Ground, Scarborough",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T10:00:00",
-      "teams": [
-        "Yorkshire",
-        "Hampshire"
+        "Hampshire",
+        "Middlesex"
       ],
       "teamInfo": [
         {
@@ -1049,76 +946,114 @@
           "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
         },
         {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 320,
-          "w": 8,
-          "o": 50,
-          "inning": "Hampshire Inning 1"
-        },
-        {
-          "r": 270,
-          "w": 10,
-          "o": 47,
-          "inning": "Yorkshire Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "95680e43-7d9d-48b8-a6fb-dd9195364bf5",
-      "name": "Nottinghamshire vs Somerset, Group A, England Domestic One-Day Cup 2026",
+      "id": "2563e7df-7010-4094-998b-3ecc75bcc1f0",
+      "name": "Kent vs Northamptonshire, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Nottinghamshire won by 4 wkts",
-      "venue": "The John Fretwell Sporting Complex, Nettleworth",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T10:00:00",
+      "status": "Kent opt to bowl",
+      "venue": "St Lawrence Ground, Canterbury",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T10:00:00",
       "teams": [
-        "Nottinghamshire",
-        "Somerset"
+        "Kent",
+        "Northamptonshire"
       ],
       "teamInfo": [
         {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
         },
         {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 258,
-          "w": 9,
-          "o": 50,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 259,
-          "w": 6,
-          "o": 44.4,
-          "inning": "Nottinghamshire Inning 1"
-        }
-      ],
+      "score": [],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
+    },
+    {
+      "id": "5475af30-d8de-4fcc-af4d-1377f196f837",
+      "name": "Surrey vs Leicestershire, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Match starts at Jul 24, 10:00 GMT",
+      "venue": "Woodbridge Road, Guildford",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T10:00:00",
+      "teams": [
+        "Surrey",
+        "Leicestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "229cd634-b1aa-4ec7-9e07-047c0c70d9fc",
+      "name": "Worcestershire vs Derbyshire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Match starts at Jul 24, 10:00 GMT",
+      "venue": "New Road, Worcester",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T10:00:00",
+      "teams": [
+        "Worcestershire",
+        "Derbyshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
