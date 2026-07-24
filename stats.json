@@ -1,6 +1,82 @@
 {
-  "lastUpdated": "2026-07-24T10:03:42.069Z",
+  "lastUpdated": "2026-07-24T15:34:30.704Z",
   "recentMatches": [
+    {
+      "id": "6bf439a3-8c50-42fa-abc4-01c8d10717df",
+      "name": "Namibia Women vs Hong Kong, China Women, 6th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China Women opt to bat",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T12:00:00",
+      "teams": [
+        "Namibia Women",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2028c955-b007-44f5-a723-8750a1df4e73",
+      "name": "Tanzania Women vs Uganda Women, 5th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Uganda Women won by 5 runs",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T07:30:00",
+      "teams": [
+        "Tanzania Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Tanzania Women",
+          "shortname": "TAN-W",
+          "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 132,
+          "w": 6,
+          "o": 20,
+          "inning": "Uganda Women Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 8,
+          "o": 20,
+          "inning": "Tanzania Women Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
       "name": "Hong Kong, China Women vs Tanzania Women, 4th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -761,6 +837,51 @@
       "matchEnded": true
     },
     {
+      "id": "d9b73501-4cac-451c-ab48-59c9fa62c14a",
+      "name": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets Women need 37 runs in 85 balls",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-07-24",
+      "dateTimeGMT": "2026-07-24T14:00:00",
+      "teams": [
+        "Birmingham Phoenix Women",
+        "Trent Rockets Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 64,
+          "w": 10,
+          "o": 95,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        },
+        {
+          "r": 28,
+          "w": 0,
+          "o": 15,
+          "inning": "Trent Rockets Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "a176e0c4-c689-4f0d-9b35-a23a581694d8",
       "name": "London Spirit Women vs Manchester Super Giants Women, 3rd Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
@@ -896,160 +1017,78 @@
       "matchEnded": true
     },
     {
-      "id": "b921cc60-bf38-456e-af34-13e86a4847ec",
-      "name": "Glamorgan vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
+      "id": "89be9b17-692f-4d90-b0ac-d39424112a8c",
+      "name": "Somerset vs Gloucestershire, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Glamorgan opt to bat",
-      "venue": "The Gnoll Cricket Ground, Neath, Wales",
+      "status": "Gloucestershire opt to bowl",
+      "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T10:00:00",
+      "dateTimeGMT": "2026-07-24T13:00:00",
       "teams": [
-        "Glamorgan",
-        "Yorkshire"
+        "Somerset",
+        "Gloucestershire"
       ],
       "teamInfo": [
         {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
         },
         {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 227,
+          "w": 4,
+          "o": 37,
+          "inning": "Somerset Inning 1"
+        }
+      ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
     },
     {
-      "id": "475988d8-1ada-4a45-ad04-33c8fe8331cc",
-      "name": "Hampshire vs Middlesex, Group B, England Domestic One-Day Cup 2026",
+      "id": "7be6b71e-f78d-47f4-a4c2-eb992653a7f0",
+      "name": "Durham vs Sussex, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Middlesex opt to bat",
-      "venue": "The Rose Bowl, Southampton",
+      "status": "Durham opt to bat",
+      "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T10:00:00",
+      "dateTimeGMT": "2026-07-24T12:30:00",
       "teams": [
-        "Hampshire",
-        "Middlesex"
+        "Durham",
+        "Sussex"
       ],
       "teamInfo": [
         {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
         },
         {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
         }
       ],
-      "score": [],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "2563e7df-7010-4094-998b-3ecc75bcc1f0",
-      "name": "Kent vs Northamptonshire, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Kent opt to bowl",
-      "venue": "St Lawrence Ground, Canterbury",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T10:00:00",
-      "teams": [
-        "Kent",
-        "Northamptonshire"
-      ],
-      "teamInfo": [
+      "score": [
         {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
-        },
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+          "r": 275,
+          "w": 3,
+          "o": 42,
+          "inning": "durham Inning 1"
         }
       ],
-      "score": [],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "5475af30-d8de-4fcc-af4d-1377f196f837",
-      "name": "Surrey vs Leicestershire, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Match starts at Jul 24, 10:00 GMT",
-      "venue": "Woodbridge Road, Guildford",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T10:00:00",
-      "teams": [
-        "Surrey",
-        "Leicestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        },
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        }
-      ],
-      "score": [],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "229cd634-b1aa-4ec7-9e07-047c0c70d9fc",
-      "name": "Worcestershire vs Derbyshire, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Match starts at Jul 24, 10:00 GMT",
-      "venue": "New Road, Worcester",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T10:00:00",
-      "teams": [
-        "Worcestershire",
-        "Derbyshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
