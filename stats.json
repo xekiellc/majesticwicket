@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-07-25T05:19:19.487Z",
+  "lastUpdated": "2026-07-25T09:24:14.899Z",
   "recentMatches": [
+    {
+      "id": "5a25c097-b127-4df0-925b-aab7743db3ae",
+      "name": "Namibia Women vs Tanzania Women, 7th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Tanzania Women opt to bat",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T07:30:00",
+      "teams": [
+        "Namibia Women",
+        "Tanzania Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "Tanzania Women",
+          "shortname": "TAN-W",
+          "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "6bf439a3-8c50-42fa-abc4-01c8d10717df",
       "name": "Namibia Women vs Hong Kong, China Women, 6th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -258,6 +289,35 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "76e916a9-33bb-47e6-a5a5-ea572911a953",
+      "name": "Galle Gallants vs Kandy Royals, 11th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 25, 09:30 GMT",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T09:30:00",
+      "teams": [
+        "Galle Gallants",
+        "Kandy Royals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Galle Gallants",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kandy Royals",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
     },
     {
       "id": "7f22ee0a-8eed-453d-9cf7-543c6117cbe4",
@@ -705,6 +765,45 @@
       "matchEnded": true
     },
     {
+      "id": "04bb7afb-9f57-4c1e-9421-f23bc98c93ad",
+      "name": "Namibia vs Netherlands, 118th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Namibia opt to bowl",
+      "venue": "Sportpark Maarschalkerweerd, Utrecht",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T00:00:00",
+      "teams": [
+        "Namibia",
+        "Netherlands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 10,
+          "w": 0,
+          "o": 4.5,
+          "inning": "Netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "67019b0b-ffb8-402d-ae60-4e422538d19a",
       "name": "Netherlands vs Nepal, 117th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -840,6 +939,38 @@
       "matchEnded": true
     },
     {
+      "id": "c2a447bc-bec2-43b0-88df-76cfc2bf46d2",
+      "name": "Sunrisers Leeds Women vs Southern Brave Women, 5th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women opt to bowl",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T10:00:00",
+      "teams": [
+        "Sunrisers Leeds Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "d9b73501-4cac-451c-ab48-59c9fa62c14a",
       "name": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
@@ -923,186 +1054,6 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3668f36d-3297-494e-b3de-26b015873bee",
-      "name": "Southern Brave Women vs Welsh Fire Women, 2nd Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave Women won by 8 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T14:00:00",
-      "teams": [
-        "Southern Brave Women",
-        "Welsh Fire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 7,
-          "o": 100,
-          "inning": "Southern Brave Women Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 8,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "92e6541a-dc6c-4417-9fc1-2154bcfc6c35",
-      "name": "MI London Women vs Sunrisers Leeds Women, 1st Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Leeds Women won by 7 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-07-21",
-      "dateTimeGMT": "2026-07-21T13:45:00",
-      "teams": [
-        "MI London Women",
-        "Sunrisers Leeds Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi London Women",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sunrisers Leeds Women",
-          "shortname": "SLW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 107,
-          "w": 8,
-          "o": 100,
-          "inning": "MI London Women Inning 1"
-        },
-        {
-          "r": 109,
-          "w": 3,
-          "o": 69,
-          "inning": "Sunrisers Leeds Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "89be9b17-692f-4d90-b0ac-d39424112a8c",
-      "name": "Somerset vs Gloucestershire, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Somerset won by 35 runs",
-      "venue": "The Cooper Associates County Ground, Taunton",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T13:00:00",
-      "teams": [
-        "Somerset",
-        "Gloucestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 352,
-          "w": 7,
-          "o": 50,
-          "inning": "Somerset Inning 1"
-        },
-        {
-          "r": 317,
-          "w": 10,
-          "o": 47.4,
-          "inning": "Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7be6b71e-f78d-47f4-a4c2-eb992653a7f0",
-      "name": "Durham vs Sussex, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Durham won by 72 runs",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T12:30:00",
-      "teams": [
-        "Durham",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 352,
-          "w": 5,
-          "o": 50,
-          "inning": "durham Inning 1"
-        },
-        {
-          "r": 280,
-          "w": 10,
-          "o": 43.5,
-          "inning": "Durham,Sussex Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
