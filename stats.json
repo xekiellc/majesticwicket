@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-07-25T09:24:14.899Z",
+  "lastUpdated": "2026-07-25T15:08:26.465Z",
   "recentMatches": [
+    {
+      "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
+      "name": "Hong Kong, China Women vs Uganda Women, 8th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Uganda Women opt to bowl",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T12:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "5a25c097-b127-4df0-925b-aab7743db3ae",
       "name": "Namibia Women vs Tanzania Women, 7th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -291,10 +316,48 @@
       "matchEnded": true
     },
     {
+      "id": "6f284260-6fd3-465c-b8af-1a1955759992",
+      "name": "Dambulla Sixers vs Colombo Kaps, 12th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Dambulla Sixers opt to bowl",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T14:00:00",
+      "teams": [
+        "Dambulla Sixers",
+        "Colombo Kaps"
+      ],
+      "teamInfo": [
+        {
+          "name": "Colombo Kaps",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Dambulla Sixers",
+          "shortname": "DS",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 4,
+          "o": 12.5,
+          "inning": "Colombo Kaps Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "76e916a9-33bb-47e6-a5a5-ea572911a953",
       "name": "Galle Gallants vs Kandy Royals, 11th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Match starts at Jul 25, 09:30 GMT",
+      "status": "Kandy Royals won by 11 runs",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T09:30:00",
@@ -312,12 +375,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 165,
+          "w": 6,
+          "o": 20,
+          "inning": "Kandy Royals Inning 1"
+        },
+        {
+          "r": 154,
+          "w": 8,
+          "o": 20,
+          "inning": "Galle Gallants Inning 1"
+        }
+      ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "7f22ee0a-8eed-453d-9cf7-543c6117cbe4",
@@ -585,6 +662,45 @@
       "matchEnded": true
     },
     {
+      "id": "defeb601-7976-42b2-8c53-ccf5fcf1037b",
+      "name": "Sunrisers Leeds vs Southern Brave, 5th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T13:30:00",
+      "teams": [
+        "Sunrisers Leeds",
+        "Southern Brave"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave",
+          "shortname": "SOU",
+          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds",
+          "shortname": "SL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 187,
+          "w": 5,
+          "o": 100,
+          "inning": "Sunrisers Leeds Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "0b04086f-ab0f-4193-b800-628e22ca544e",
       "name": "Birmingham Phoenix vs Trent Rockets, 4th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
@@ -768,7 +884,7 @@
       "id": "04bb7afb-9f57-4c1e-9421-f23bc98c93ad",
       "name": "Namibia vs Netherlands, 118th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Namibia opt to bowl",
+      "status": "Namibia need 135 runs",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T00:00:00",
@@ -790,10 +906,16 @@
       ],
       "score": [
         {
-          "r": 10,
-          "w": 0,
-          "o": 4.5,
+          "r": 251,
+          "w": 6,
+          "o": 50,
           "inning": "Netherlands Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 3,
+          "o": 31.2,
+          "inning": "Namibia Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -894,13 +1016,13 @@
       "matchEnded": true
     },
     {
-      "id": "ff0a1980-f7ef-403b-8396-42b65ef62a8b",
-      "name": "Zimbabwe vs India, 1st T20I, India tour of Zimbabwe 2026",
+      "id": "610cac66-a929-4422-9a45-3ee22ff1c3c8",
+      "name": "Zimbabwe vs India, 2nd T20I, India tour of Zimbabwe 2026",
       "matchType": "t20",
-      "status": "India won by 7 wkts",
+      "status": "India won by 90 runs",
       "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T11:00:00",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T11:00:00",
       "teams": [
         "Zimbabwe",
         "India"
@@ -919,141 +1041,19 @@
       ],
       "score": [
         {
-          "r": 125,
-          "w": 7,
+          "r": 219,
+          "w": 5,
           "o": 20,
-          "inning": "Zimbabwe Inning 1"
+          "inning": "India Inning 1"
         },
         {
-          "r": 126,
-          "w": 3,
-          "o": 13.2,
-          "inning": "India Inning 1"
+          "r": 129,
+          "w": 10,
+          "o": 17.5,
+          "inning": "Zimbabwe Inning 1"
         }
       ],
       "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c2a447bc-bec2-43b0-88df-76cfc2bf46d2",
-      "name": "Sunrisers Leeds Women vs Southern Brave Women, 5th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave Women opt to bowl",
-      "venue": "Headingley, Leeds",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T10:00:00",
-      "teams": [
-        "Sunrisers Leeds Women",
-        "Southern Brave Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        },
-        {
-          "name": "Sunrisers Leeds Women",
-          "shortname": "SLW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
-    },
-    {
-      "id": "d9b73501-4cac-451c-ab48-59c9fa62c14a",
-      "name": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 9 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T14:00:00",
-      "teams": [
-        "Birmingham Phoenix Women",
-        "Trent Rockets Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix Women",
-          "shortname": "BPW",
-          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 64,
-          "w": 10,
-          "o": 95,
-          "inning": "Birmingham Phoenix Women Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 1,
-          "o": 31,
-          "inning": "Trent Rockets Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a176e0c4-c689-4f0d-9b35-a23a581694d8",
-      "name": "London Spirit Women vs Manchester Super Giants Women, 3rd Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Manchester Super Giants Women won by 7 wkts",
-      "venue": "Lord's, London",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T14:00:00",
-      "teams": [
-        "London Spirit Women",
-        "Manchester Super Giants Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit Women",
-          "shortname": "LSW",
-          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
-        },
-        {
-          "name": "Manchester Super Giants Women",
-          "shortname": "MSGW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 80,
-          "w": 10,
-          "o": 91,
-          "inning": "London Spirit Women Inning 1"
-        },
-        {
-          "r": 86,
-          "w": 3,
-          "o": 59,
-          "inning": "Manchester Super Giants Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
