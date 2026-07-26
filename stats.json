@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T15:09:36.532Z",
+  "lastUpdated": "2026-07-26T21:02:11.502Z",
   "recentMatches": [
     {
       "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
@@ -176,94 +176,10 @@
       "matchEnded": true
     },
     {
-      "id": "2da9692b-0c25-4c4c-81fc-1a51565074f7",
-      "name": "Hong Kong, China Women vs Tanzania Women, 4th Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China Women won by 16 runs",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T12:00:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 152,
-          "w": 3,
-          "o": 20,
-          "inning": "hong kong, china women Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 5,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "edd78f2a-2188-48bd-9d02-9abc996f54d6",
-      "name": "Namibia Women vs Uganda Women, 3rd Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Match tied  -  Namibia Women won the Super Over",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T07:30:00",
-      "teams": [
-        "Namibia Women",
-        "Uganda Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia Women",
-          "shortname": "NAMW",
-          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
-        },
-        {
-          "name": "Uganda Women",
-          "shortname": "UGAW",
-          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 123,
-          "w": 7,
-          "o": 20,
-          "inning": "Namibia Women Inning 1"
-        },
-        {
-          "r": 123,
-          "w": 7,
-          "o": 20,
-          "inning": "Uganda Women Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0dce0b87-eaa5-437f-b4fa-fafb7e7bf10f",
       "name": "Galle Gallants vs Dambulla Sixers, 14th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Galle Gallants opt to bat",
+      "status": "Galle Gallants won by 44 runs",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-07-26",
       "dateTimeGMT": "2026-07-26T14:00:00",
@@ -284,10 +200,16 @@
       ],
       "score": [
         {
-          "r": 153,
-          "w": 3,
-          "o": 14.3,
+          "r": 220,
+          "w": 6,
+          "o": 20,
           "inning": "galle gallants Inning 1"
+        },
+        {
+          "r": 176,
+          "w": 7,
+          "o": 20,
+          "inning": "Galle Gallants,Dambulla Sixers Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -295,7 +217,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "64d50d1d-4ff9-4c2e-ac5e-45021284e747",
@@ -516,87 +438,44 @@
       "matchEnded": true
     },
     {
-      "id": "05679733-6b4e-4b8d-affe-016efdeada24",
-      "name": "Dambulla Sixers vs Galle Gallants, 8th Match, Lanka Premier League 2026",
+      "id": "e6138a76-53e4-48b0-bc60-fea6eb74d24c",
+      "name": "Trent Rockets vs London Spirit, 8th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Dambulla Sixers won by 6 wkts",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T14:00:00",
+      "status": "Trent Rockets won by 4 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T17:00:00",
       "teams": [
-        "Dambulla Sixers",
-        "Galle Gallants"
+        "Trent Rockets",
+        "London Spirit"
       ],
       "teamInfo": [
         {
-          "name": "Dambulla Sixers",
-          "shortname": "DS",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "London Spirit",
+          "shortname": "LDN",
+          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
         },
         {
-          "name": "Galle Gallants",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Trent Rockets",
+          "shortname": "TRE",
+          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 178,
-          "w": 8,
-          "o": 20,
-          "inning": "Galle Gallants Inning 1"
-        },
-        {
-          "r": 180,
-          "w": 4,
-          "o": 16.1,
-          "inning": "Dambulla Sixers Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7927acfc-0a10-44ee-b90f-e86a0e256f72",
-      "name": "Jaffna Kings vs Colombo Kaps, 7th Match, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Jaffna Kings won by 5 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T09:30:00",
-      "teams": [
-        "Jaffna Kings",
-        "Colombo Kaps"
-      ],
-      "teamInfo": [
-        {
-          "name": "Colombo Kaps",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 179,
-          "w": 6,
-          "o": 20,
-          "inning": "Jaffna Kings Inning 1"
-        },
-        {
-          "r": 174,
+          "r": 159,
           "w": 9,
-          "o": 20,
-          "inning": "Colombo Kaps Inning 1"
+          "o": 100,
+          "inning": "London Spirit Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 6,
+          "o": 98,
+          "inning": "Trent Rockets Inning 1"
         }
       ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -607,7 +486,7 @@
       "id": "da6e13ec-3e46-4995-a67a-883af100a48c",
       "name": "Manchester Super Giants vs Birmingham Phoenix, 7th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Birmingham Phoenix opt to bowl",
+      "status": "Manchester Super Giants won by 87 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-07-26",
       "dateTimeGMT": "2026-07-26T13:30:00",
@@ -629,10 +508,16 @@
       ],
       "score": [
         {
-          "r": 159,
-          "w": 4,
-          "o": 89,
+          "r": 187,
+          "w": 5,
+          "o": 100,
           "inning": "Manchester Super Giants Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 10,
+          "o": 97,
+          "inning": "Birmingham Phoenix Inning 1"
         }
       ],
       "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
@@ -640,7 +525,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "51bc1d70-5640-4345-b1d0-f5f3bada6817",
@@ -813,51 +698,6 @@
           "w": 6,
           "o": 100,
           "inning": "London Spirit Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "336a4229-f735-48ec-aa1a-96477c8180a1",
-      "name": "Southern Brave vs Welsh Fire, 2nd Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Welsh Fire won by 6 wkts",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-22",
-      "dateTimeGMT": "2026-07-22T17:30:00",
-      "teams": [
-        "Southern Brave",
-        "Welsh Fire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire",
-          "shortname": "WEF",
-          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 135,
-          "w": 7,
-          "o": 100,
-          "inning": "Southern Brave Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 4,
-          "o": 98,
-          "inning": "Welsh Fire Inning 1"
         }
       ],
       "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
@@ -1086,6 +926,186 @@
         }
       ],
       "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
+      "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
+      "matchType": "test",
+      "status": "Day 2: 3rd Session - Pakistan trail by 119 runs",
+      "venue": "Brian Lara Stadium, Tarouba, Trinidad",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T14:00:00",
+      "teams": [
+        "West Indies",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 311,
+          "w": 10,
+          "o": 98.5,
+          "inning": "west indies Inning 1"
+        },
+        {
+          "r": 192,
+          "w": 2,
+          "o": 43.3,
+          "inning": "West Indies,Pakistan Inning 1"
+        }
+      ],
+      "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "4b8feb1a-e728-42c1-9b66-53ae252ffad6",
+      "name": "Trent Rockets Women vs London Spirit Women, 8th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "London Spirit Women won by 5 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T13:30:00",
+      "teams": [
+        "Trent Rockets Women",
+        "London Spirit Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit Women",
+          "shortname": "LSW",
+          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 7,
+          "o": 100,
+          "inning": "Trent Rockets Women Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 5,
+          "o": 97,
+          "inning": "London Spirit Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2af69856-5e24-46f6-b648-26621212897c",
+      "name": "Welsh Fire Women vs MI London Women, 6th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Welsh Fire Women won by 60 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T13:30:00",
+      "teams": [
+        "Welsh Fire Women",
+        "MI London Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mi London Women",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 4,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 10,
+          "o": 92,
+          "inning": "MI London Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c2a447bc-bec2-43b0-88df-76cfc2bf46d2",
+      "name": "Sunrisers Leeds Women vs Southern Brave Women, 5th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women won by 5 wkts",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T10:00:00",
+      "teams": [
+        "Sunrisers Leeds Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 100,
+          "inning": "Sunrisers Leeds Women Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 5,
+          "o": 96,
+          "inning": "Southern Brave Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1391,6 +1411,14 @@
     "endDate": "Aug 16",
     "standings": [
       {
+        "team": "Manchester Super Giants",
+        "played": 2,
+        "won": 2,
+        "lost": 0,
+        "nr": 0,
+        "points": 4
+      },
+      {
         "team": "Welsh Fire",
         "played": 2,
         "won": 2,
@@ -1416,27 +1444,19 @@
       },
       {
         "team": "Birmingham Phoenix",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "lost": 0,
-        "nr": 0,
-        "points": 2
-      },
-      {
-        "team": "Manchester Super Giants",
-        "played": 1,
-        "won": 1,
-        "lost": 0,
+        "lost": 1,
         "nr": 0,
         "points": 2
       },
       {
         "team": "Trent Rockets",
-        "played": 1,
-        "won": 0,
+        "played": 2,
+        "won": 1,
         "lost": 1,
         "nr": 0,
-        "points": 0
+        "points": 2
       },
       {
         "team": "Southern Brave",
@@ -1448,9 +1468,9 @@
       },
       {
         "team": "London Spirit",
-        "played": 1,
+        "played": 2,
         "won": 0,
-        "lost": 1,
+        "lost": 2,
         "nr": 0,
         "points": 0
       }
