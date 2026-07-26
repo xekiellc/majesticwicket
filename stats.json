@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T20:56:27.756Z",
+  "lastUpdated": "2026-07-26T05:37:07.638Z",
   "recentMatches": [
     {
       "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
@@ -30,7 +30,7 @@
       "id": "5a25c097-b127-4df0-925b-aab7743db3ae",
       "name": "Namibia Women vs Tanzania Women, 7th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Tanzania Women opt to bat",
+      "status": "Namibia Women won by 9 wkts",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T07:30:00",
@@ -50,12 +50,26 @@
           "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 96,
+          "w": 5,
+          "o": 20,
+          "inning": "tanzania women Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 1,
+          "o": 13.4,
+          "inning": "Namibia Women,Tanzania Women Inning 1"
+        }
+      ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6bf439a3-8c50-42fa-abc4-01c8d10717df",
@@ -902,7 +916,7 @@
       "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
       "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - West Indies opt to bat",
+      "status": "Day 1: Stumps - West Indies opt to bat",
       "venue": "Brian Lara Stadium, Tarouba, Trinidad",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T14:00:00",
@@ -924,9 +938,9 @@
       ],
       "score": [
         {
-          "r": 162,
+          "r": 194,
           "w": 3,
-          "o": 53.5,
+          "o": 67,
           "inning": "west indies Inning 1"
         }
       ],
