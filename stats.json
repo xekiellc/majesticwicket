@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-26T05:37:07.638Z",
+  "lastUpdated": "2026-07-26T09:48:31.137Z",
   "recentMatches": [
     {
       "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
       "name": "Hong Kong, China Women vs Uganda Women, 8th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Uganda Women opt to bowl",
+      "status": "Uganda Women won by 2 wkts",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T12:00:00",
@@ -19,12 +19,26 @@
           "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 114,
+          "w": 7,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 8,
+          "o": 17.4,
+          "inning": " Inning 1"
+        }
+      ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5a25c097-b127-4df0-925b-aab7743db3ae",
@@ -244,6 +258,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "64d50d1d-4ff9-4c2e-ac5e-45021284e747",
+      "name": "Kandy Royals vs Jaffna Kings, 13th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Jaffna Kings opt to bat",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T09:30:00",
+      "teams": [
+        "Kandy Royals",
+        "Jaffna Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jaffna Kings",
+          "shortname": "JKS",
+          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+        },
+        {
+          "name": "Kandy Royals",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 17,
+          "w": 0,
+          "o": 2.2,
+          "inning": "jaffna kings Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "6f284260-6fd3-465c-b8af-1a1955759992",
@@ -1032,51 +1084,6 @@
           "w": 5,
           "o": 96,
           "inning": "Southern Brave Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d9b73501-4cac-451c-ab48-59c9fa62c14a",
-      "name": "Birmingham Phoenix Women vs Trent Rockets Women, 4th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 9 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-07-24",
-      "dateTimeGMT": "2026-07-24T14:00:00",
-      "teams": [
-        "Birmingham Phoenix Women",
-        "Trent Rockets Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix Women",
-          "shortname": "BPW",
-          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 64,
-          "w": 10,
-          "o": 95,
-          "inning": "Birmingham Phoenix Women Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 1,
-          "o": 31,
-          "inning": "Trent Rockets Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
