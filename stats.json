@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T09:48:31.137Z",
+  "lastUpdated": "2026-07-26T15:09:36.532Z",
   "recentMatches": [
     {
       "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
@@ -260,10 +260,48 @@
       "matchEnded": true
     },
     {
+      "id": "0dce0b87-eaa5-437f-b4fa-fafb7e7bf10f",
+      "name": "Galle Gallants vs Dambulla Sixers, 14th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Galle Gallants opt to bat",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T14:00:00",
+      "teams": [
+        "Galle Gallants",
+        "Dambulla Sixers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dambulla Sixers",
+          "shortname": "DS",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Galle Gallants",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 3,
+          "o": 14.3,
+          "inning": "galle gallants Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "64d50d1d-4ff9-4c2e-ac5e-45021284e747",
       "name": "Kandy Royals vs Jaffna Kings, 13th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Jaffna Kings opt to bat",
+      "status": "Jaffna Kings won by 93 runs",
       "venue": "Rangiri Dambulla International Stadium, Dambulla",
       "date": "2026-07-26",
       "dateTimeGMT": "2026-07-26T09:30:00",
@@ -284,10 +322,16 @@
       ],
       "score": [
         {
-          "r": 17,
-          "w": 0,
-          "o": 2.2,
+          "r": 199,
+          "w": 4,
+          "o": 20,
           "inning": "jaffna kings Inning 1"
+        },
+        {
+          "r": 106,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Kandy Royals,Jaffna Kings Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -295,7 +339,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6f284260-6fd3-465c-b8af-1a1955759992",
@@ -558,6 +602,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "da6e13ec-3e46-4995-a67a-883af100a48c",
+      "name": "Manchester Super Giants vs Birmingham Phoenix, 7th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Birmingham Phoenix opt to bowl",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T13:30:00",
+      "teams": [
+        "Manchester Super Giants",
+        "Birmingham Phoenix"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Manchester Super Giants",
+          "shortname": "MSG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 4,
+          "o": 89,
+          "inning": "Manchester Super Giants Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "51bc1d70-5640-4345-b1d0-f5f3bada6817",
@@ -875,6 +958,51 @@
       "matchEnded": true
     },
     {
+      "id": "1f11e2ab-0cdd-4a4c-b61d-5e7b128e3b6e",
+      "name": "Zimbabwe vs India, 3rd T20I, India tour of Zimbabwe 2026",
+      "matchType": "t20",
+      "status": "India won by 35 runs",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T11:00:00",
+      "teams": [
+        "Zimbabwe",
+        "India"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 192,
+          "w": 5,
+          "o": 20,
+          "inning": "india Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 7,
+          "o": 20,
+          "inning": "Zimbabwe,India Inning 1"
+        }
+      ],
+      "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "610cac66-a929-4422-9a45-3ee22ff1c3c8",
       "name": "Zimbabwe vs India, 2nd T20I, India tour of Zimbabwe 2026",
       "matchType": "t20",
@@ -958,135 +1086,6 @@
         }
       ],
       "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
-      "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
-      "matchType": "test",
-      "status": "Day 1: Stumps - West Indies opt to bat",
-      "venue": "Brian Lara Stadium, Tarouba, Trinidad",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T14:00:00",
-      "teams": [
-        "West Indies",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 3,
-          "o": 67,
-          "inning": "west indies Inning 1"
-        }
-      ],
-      "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "2af69856-5e24-46f6-b648-26621212897c",
-      "name": "Welsh Fire Women vs MI London Women, 6th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Welsh Fire Women won by 60 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T13:30:00",
-      "teams": [
-        "Welsh Fire Women",
-        "MI London Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi London Women",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 4,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 10,
-          "o": 92,
-          "inning": "MI London Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c2a447bc-bec2-43b0-88df-76cfc2bf46d2",
-      "name": "Sunrisers Leeds Women vs Southern Brave Women, 5th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave Women won by 5 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T10:00:00",
-      "teams": [
-        "Sunrisers Leeds Women",
-        "Southern Brave Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        },
-        {
-          "name": "Sunrisers Leeds Women",
-          "shortname": "SLW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 10,
-          "o": 100,
-          "inning": "Sunrisers Leeds Women Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 5,
-          "o": 96,
-          "inning": "Southern Brave Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
