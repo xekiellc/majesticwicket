@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T16:25:28.138Z",
+  "lastUpdated": "2026-07-27T21:14:59.195Z",
   "recentMatches": [
     {
       "id": "278a67eb-76f6-4881-aa6b-f164cffb6a90",
@@ -421,86 +421,44 @@
       "matchEnded": true
     },
     {
-      "id": "7f22ee0a-8eed-453d-9cf7-543c6117cbe4",
-      "name": "Galle Gallants vs Jaffna Kings, 10th Match, Lanka Premier League 2026",
+      "id": "52c82f7d-e2f3-4c38-a5af-537f8ed1109b",
+      "name": "Southern Brave vs MI London, 9th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Galle Gallants won by 60 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T14:00:00",
+      "status": "MI London won by 3 wkts",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-27",
+      "dateTimeGMT": "2026-07-27T17:30:00",
       "teams": [
-        "Galle Gallants",
-        "Jaffna Kings"
+        "Southern Brave",
+        "MI London"
       ],
       "teamInfo": [
         {
-          "name": "Galle Gallants",
+          "name": "Mi London",
+          "shortname": "MIL",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+          "name": "Southern Brave",
+          "shortname": "SOU",
+          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 193,
-          "w": 8,
-          "o": 20,
-          "inning": "Galle Gallants Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 10,
-          "o": 17.5,
-          "inning": "Jaffna Kings Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c63b8b2e-4d37-4ca0-93d4-bf15a49ac7d6",
-      "name": "Kandy Royals vs Colombo Kaps, 9th Match, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Colombo Kaps won by 23 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T09:30:00",
-      "teams": [
-        "Kandy Royals",
-        "Colombo Kaps"
-      ],
-      "teamInfo": [
-        {
-          "name": "Colombo Kaps",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kandy Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 192,
+          "r": 129,
           "w": 9,
-          "o": 20,
-          "inning": "Kandy FalconsColombo Kaps Inning 1"
+          "o": 100,
+          "inning": "Southern Brave Inning 1"
         },
         {
-          "r": 169,
-          "w": 8,
-          "o": 20,
-          "inning": "Kandy Royals,Colombo Kaps Inning 1"
+          "r": 130,
+          "w": 7,
+          "o": 100,
+          "inning": "MI London Inning 1"
         }
       ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -733,55 +691,10 @@
       "matchEnded": true
     },
     {
-      "id": "8006b793-9a8f-4e67-9de8-fb4b09b0007f",
-      "name": "London Spirit vs Manchester Super Giants, 3rd Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Manchester Super Giants won by 7 runs",
-      "venue": "Lord's, London",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T17:30:00",
-      "teams": [
-        "London Spirit",
-        "Manchester Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit",
-          "shortname": "LDN",
-          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
-        },
-        {
-          "name": "Manchester Super Giants",
-          "shortname": "MSG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 138,
-          "w": 9,
-          "o": 100,
-          "inning": "Manchester Super Giants Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 6,
-          "o": 100,
-          "inning": "London Spirit Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "2cc4cb6d-50e2-4ca3-8ad6-70f0a3a8c5f9",
       "name": "Namibia vs Nepal, 119th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Nepal need 69 runs in 46 balls",
+      "status": "Namibia won by 3 runs",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-27",
       "dateTimeGMT": "2026-07-27T00:00:00",
@@ -809,9 +722,9 @@
           "inning": "Namibia Inning 1"
         },
         {
-          "r": 143,
-          "w": 5,
-          "o": 42.2,
+          "r": 208,
+          "w": 6,
+          "o": 50,
           "inning": "Nepal Inning 1"
         }
       ],
@@ -820,7 +733,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "04bb7afb-9f57-4c1e-9421-f23bc98c93ad",
@@ -858,51 +771,6 @@
           "w": 10,
           "o": 47.5,
           "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "67019b0b-ffb8-402d-ae60-4e422538d19a",
-      "name": "Netherlands vs Nepal, 117th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Netherlands won by 6 wkts",
-      "venue": "Sportpark Maarschalkerweerd, Utrecht",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T00:00:00",
-      "teams": [
-        "Netherlands",
-        "Nepal"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 157,
-          "w": 10,
-          "o": 44.4,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 158,
-          "w": 4,
-          "o": 44.1,
-          "inning": "Netherlands Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -1003,55 +871,10 @@
       "matchEnded": true
     },
     {
-      "id": "ff0a1980-f7ef-403b-8396-42b65ef62a8b",
-      "name": "Zimbabwe vs India, 1st T20I, India tour of Zimbabwe 2026",
-      "matchType": "t20",
-      "status": "India won by 7 wkts",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-23",
-      "dateTimeGMT": "2026-07-23T11:00:00",
-      "teams": [
-        "Zimbabwe",
-        "India"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 125,
-          "w": 7,
-          "o": 20,
-          "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 3,
-          "o": 13.2,
-          "inning": "India Inning 1"
-        }
-      ],
-      "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
       "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 3: Lunch Break - Pakistan trail by 44 runs",
+      "status": "Day 3: 3rd Session - West Indies lead by 123 runs",
       "venue": "Brian Lara Stadium, Tarouba, Trinidad",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T14:00:00",
@@ -1079,10 +902,16 @@
           "inning": "west indies Inning 1"
         },
         {
-          "r": 267,
-          "w": 8,
-          "o": 71,
+          "r": 282,
+          "w": 10,
+          "o": 80.1,
           "inning": "West Indies,Pakistan Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 7,
+          "o": 38.3,
+          "inning": "west indies Inning 2"
         }
       ],
       "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
@@ -1091,6 +920,186 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "c556e542-b7a9-4c38-9011-be43e8af9e74",
+      "name": "Southern Brave Women vs MI London Women, 9th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women won by 1 run",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-27",
+      "dateTimeGMT": "2026-07-27T14:00:00",
+      "teams": [
+        "Southern Brave Women",
+        "MI London Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mi London Women",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 7,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 3,
+          "o": 100,
+          "inning": "MI London Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4b8feb1a-e728-42c1-9b66-53ae252ffad6",
+      "name": "Trent Rockets Women vs London Spirit Women, 8th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "London Spirit Women won by 5 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-07-26",
+      "dateTimeGMT": "2026-07-26T13:30:00",
+      "teams": [
+        "Trent Rockets Women",
+        "London Spirit Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit Women",
+          "shortname": "LSW",
+          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 7,
+          "o": 100,
+          "inning": "Trent Rockets Women Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 5,
+          "o": 97,
+          "inning": "London Spirit Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2af69856-5e24-46f6-b648-26621212897c",
+      "name": "Welsh Fire Women vs MI London Women, 6th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Welsh Fire Women won by 60 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T13:30:00",
+      "teams": [
+        "Welsh Fire Women",
+        "MI London Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mi London Women",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 4,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 10,
+          "o": 92,
+          "inning": "MI London Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c2a447bc-bec2-43b0-88df-76cfc2bf46d2",
+      "name": "Sunrisers Leeds Women vs Southern Brave Women, 5th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women won by 5 wkts",
+      "venue": "Headingley, Leeds",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T10:00:00",
+      "teams": [
+        "Sunrisers Leeds Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 100,
+          "inning": "Sunrisers Leeds Women Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 5,
+          "o": 96,
+          "inning": "Southern Brave Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1391,6 +1400,14 @@
     "endDate": "Aug 16",
     "standings": [
       {
+        "team": "MI London",
+        "played": 3,
+        "won": 2,
+        "lost": 1,
+        "nr": 0,
+        "points": 4
+      },
+      {
         "team": "Manchester Super Giants",
         "played": 2,
         "won": 2,
@@ -1405,14 +1422,6 @@
         "lost": 0,
         "nr": 0,
         "points": 4
-      },
-      {
-        "team": "MI London",
-        "played": 2,
-        "won": 1,
-        "lost": 1,
-        "nr": 0,
-        "points": 2
       },
       {
         "team": "Sunrisers Leeds",
@@ -1440,9 +1449,9 @@
       },
       {
         "team": "Southern Brave",
-        "played": 2,
+        "played": 3,
         "won": 0,
-        "lost": 2,
+        "lost": 3,
         "nr": 0,
         "points": 0
       },
