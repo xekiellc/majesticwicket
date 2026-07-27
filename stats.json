@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T21:02:11.502Z",
+  "lastUpdated": "2026-07-27T05:55:53.651Z",
   "recentMatches": [
     {
       "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
@@ -936,7 +936,7 @@
       "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
       "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 2: 3rd Session - Pakistan trail by 119 runs",
+      "status": "Day 2: Stumps - Pakistan trail by 112 runs",
       "venue": "Brian Lara Stadium, Tarouba, Trinidad",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T14:00:00",
@@ -964,9 +964,9 @@
           "inning": "west indies Inning 1"
         },
         {
-          "r": 192,
-          "w": 2,
-          "o": 43.3,
+          "r": 199,
+          "w": 3,
+          "o": 48,
           "inning": "West Indies,Pakistan Inning 1"
         }
       ],
