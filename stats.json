@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-07-27T10:59:13.863Z",
+  "lastUpdated": "2026-07-27T16:25:28.138Z",
   "recentMatches": [
+    {
+      "id": "278a67eb-76f6-4881-aa6b-f164cffb6a90",
+      "name": "Namibia Women vs Uganda Women, 10th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Namibia Women opt to bowl",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-07-27",
+      "dateTimeGMT": "2026-07-27T12:00:00",
+      "teams": [
+        "Namibia Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "d8418e67-7eb7-4502-8977-52956fbd1358",
       "name": "Hong Kong, China Women vs Tanzania Women, 9th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Match starts at Jul 27, 07:30 GMT",
+      "status": "Hong Kong, China Women won by 9 wkts",
       "venue": "Namibia Cricket Ground, Windhoek",
       "date": "2026-07-27",
       "dateTimeGMT": "2026-07-27T07:30:00",
@@ -19,12 +50,26 @@
           "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 135,
+          "w": 5,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 138,
+          "w": 1,
+          "o": 18.3,
+          "inning": " Inning 1"
+        }
+      ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "685a5ac9-74f3-40af-99a7-7d06d05dba8a",
@@ -736,7 +781,7 @@
       "id": "2cc4cb6d-50e2-4ca3-8ad6-70f0a3a8c5f9",
       "name": "Namibia vs Nepal, 119th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Nepal opt to bowl",
+      "status": "Nepal need 69 runs in 46 balls",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-27",
       "dateTimeGMT": "2026-07-27T00:00:00",
@@ -758,10 +803,16 @@
       ],
       "score": [
         {
-          "r": 50,
-          "w": 2,
-          "o": 14.4,
+          "r": 211,
+          "w": 7,
+          "o": 50,
           "inning": "Namibia Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 5,
+          "o": 42.2,
+          "inning": "Nepal Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -1000,7 +1051,7 @@
       "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
       "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - Pakistan trail by 112 runs",
+      "status": "Day 3: Lunch Break - Pakistan trail by 44 runs",
       "venue": "Brian Lara Stadium, Tarouba, Trinidad",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T14:00:00",
@@ -1028,9 +1079,9 @@
           "inning": "west indies Inning 1"
         },
         {
-          "r": 199,
-          "w": 3,
-          "o": 48,
+          "r": 267,
+          "w": 8,
+          "o": 71,
           "inning": "West Indies,Pakistan Inning 1"
         }
       ],
@@ -1040,51 +1091,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "4b8feb1a-e728-42c1-9b66-53ae252ffad6",
-      "name": "Trent Rockets Women vs London Spirit Women, 8th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "London Spirit Women won by 5 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T13:30:00",
-      "teams": [
-        "Trent Rockets Women",
-        "London Spirit Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit Women",
-          "shortname": "LSW",
-          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 7,
-          "o": 100,
-          "inning": "Trent Rockets Women Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 5,
-          "o": 97,
-          "inning": "London Spirit Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
