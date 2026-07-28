@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-27T21:14:59.195Z",
+  "lastUpdated": "2026-07-28T05:19:41.112Z",
   "recentMatches": [
     {
       "id": "278a67eb-76f6-4881-aa6b-f164cffb6a90",
       "name": "Namibia Women vs Uganda Women, 10th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Namibia Women opt to bowl",
+      "status": "Namibia Women won by 6 wkts",
       "venue": "Namibia Cricket Ground, Windhoek",
       "date": "2026-07-27",
       "dateTimeGMT": "2026-07-27T12:00:00",
@@ -25,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 147,
+          "w": 4,
+          "o": 20,
+          "inning": "Uganda Women Inning 1"
+        },
+        {
+          "r": 148,
+          "w": 4,
+          "o": 18.5,
+          "inning": "Namibia Women Inning 1"
+        }
+      ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d8418e67-7eb7-4502-8977-52956fbd1358",
@@ -874,7 +888,7 @@
       "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
       "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 3: 3rd Session - West Indies lead by 123 runs",
+      "status": "Day 3: Stumps - West Indies lead by 155 runs",
       "venue": "Brian Lara Stadium, Tarouba, Trinidad",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T14:00:00",
@@ -908,9 +922,9 @@
           "inning": "West Indies,Pakistan Inning 1"
         },
         {
-          "r": 94,
+          "r": 126,
           "w": 7,
-          "o": 38.3,
+          "o": 43,
           "inning": "west indies Inning 2"
         }
       ],
