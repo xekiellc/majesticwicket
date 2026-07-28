@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-07-28T10:18:30.174Z",
+  "lastUpdated": "2026-07-28T16:06:48.040Z",
   "recentMatches": [
+    {
+      "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
+      "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Tanzania Women awarded the match (opposition refused to play)",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T12:00:00",
+      "teams": [
+        "Tanzania Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Tanzania Women",
+          "shortname": "TAN-W",
+          "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 2,
+          "o": 16.4,
+          "inning": "Uganda Women Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2ede8246-e8e5-414b-98ac-72ae89232467",
+      "name": "Namibia Women vs Hong Kong, China Women, 11th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Namibia Women won by 8 wkts",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T07:30:00",
+      "teams": [
+        "Namibia Women",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 6,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 2,
+          "o": 13.4,
+          "inning": "Namibia Women Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "278a67eb-76f6-4881-aa6b-f164cffb6a90",
       "name": "Namibia Women vs Uganda Women, 10th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -258,6 +342,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "9d937fde-f5b9-4ca1-8050-f3db3e39a1e6",
+      "name": "Colombo Kaps vs Jaffna Kings, 15th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Colombo Kaps need 190 runs",
+      "venue": "Pallekele International Cricket Stadium, Pallekele",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T14:00:00",
+      "teams": [
+        "Colombo Kaps",
+        "Jaffna Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Colombo Kaps",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jaffna Kings",
+          "shortname": "JKS",
+          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 202,
+          "w": 5,
+          "o": 20,
+          "inning": "Jaffna Kings Inning 1"
+        },
+        {
+          "r": 13,
+          "w": 1,
+          "o": 2.1,
+          "inning": "Colombo Kaps Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "0dce0b87-eaa5-437f-b4fa-fafb7e7bf10f",
@@ -888,7 +1016,7 @@
       "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
       "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - West Indies lead by 155 runs",
+      "status": "Day 4: Lunch Break - Pakistan need 183 runs",
       "venue": "Brian Lara Stadium, Tarouba, Trinidad",
       "date": "2026-07-25",
       "dateTimeGMT": "2026-07-25T14:00:00",
@@ -922,10 +1050,16 @@
           "inning": "West Indies,Pakistan Inning 1"
         },
         {
-          "r": 126,
-          "w": 7,
-          "o": 43,
+          "r": 181,
+          "w": 10,
+          "o": 54.5,
           "inning": "west indies Inning 2"
+        },
+        {
+          "r": 28,
+          "w": 3,
+          "o": 10,
+          "inning": "West Indies,Pakistan Inning 2"
         }
       ],
       "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
@@ -936,157 +1070,22 @@
       "matchEnded": false
     },
     {
-      "id": "c556e542-b7a9-4c38-9011-be43e8af9e74",
-      "name": "Southern Brave Women vs MI London Women, 9th Match, The Hundred Womens Competition 2026",
+      "id": "2d37dc02-4767-471a-baf5-9a7abc8e0cd7",
+      "name": "Sunrisers Leeds Women vs Manchester Super Giants Women, 10th Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
-      "status": "Southern Brave Women won by 1 run",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T14:00:00",
-      "teams": [
-        "Southern Brave Women",
-        "MI London Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi London Women",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 7,
-          "o": 100,
-          "inning": "Southern Brave Women Inning 1"
-        },
-        {
-          "r": 125,
-          "w": 3,
-          "o": 100,
-          "inning": "MI London Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4b8feb1a-e728-42c1-9b66-53ae252ffad6",
-      "name": "Trent Rockets Women vs London Spirit Women, 8th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "London Spirit Women won by 5 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T13:30:00",
-      "teams": [
-        "Trent Rockets Women",
-        "London Spirit Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit Women",
-          "shortname": "LSW",
-          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 7,
-          "o": 100,
-          "inning": "Trent Rockets Women Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 5,
-          "o": 97,
-          "inning": "London Spirit Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2af69856-5e24-46f6-b648-26621212897c",
-      "name": "Welsh Fire Women vs MI London Women, 6th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Welsh Fire Women won by 60 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T13:30:00",
-      "teams": [
-        "Welsh Fire Women",
-        "MI London Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi London Women",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 4,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 10,
-          "o": 92,
-          "inning": "MI London Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c2a447bc-bec2-43b0-88df-76cfc2bf46d2",
-      "name": "Sunrisers Leeds Women vs Southern Brave Women, 5th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave Women won by 5 wkts",
+      "status": "Manchester Super Giants Women need 75 runs in 50 balls",
       "venue": "Headingley, Leeds",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T10:00:00",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T14:00:00",
       "teams": [
         "Sunrisers Leeds Women",
-        "Southern Brave Women"
+        "Manchester Super Giants Women"
       ],
       "teamInfo": [
         {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+          "name": "Manchester Super Giants Women",
+          "shortname": "MSGW",
+          "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
           "name": "Sunrisers Leeds Women",
@@ -1096,16 +1095,16 @@
       ],
       "score": [
         {
-          "r": 116,
-          "w": 10,
+          "r": 142,
+          "w": 4,
           "o": 100,
           "inning": "Sunrisers Leeds Women Inning 1"
         },
         {
-          "r": 117,
-          "w": 5,
-          "o": 96,
-          "inning": "Southern Brave Women Inning 1"
+          "r": 68,
+          "w": 3,
+          "o": 50,
+          "inning": "Manchester Super Giants Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
@@ -1113,7 +1112,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
