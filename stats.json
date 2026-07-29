@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-07-29T10:24:54.629Z",
+  "lastUpdated": "2026-07-29T15:51:53.919Z",
   "recentMatches": [
+    {
+      "id": "387a469a-d84f-4ec5-a296-eacfa64b7f5d",
+      "name": "Switzerland Women vs Jersey Women, Only T20I, Jersey Women tour of Switzerland, 2026",
+      "matchType": "t20",
+      "status": "Jersey Women won by 66 runs",
+      "venue": "Embrach Cricket Ground, Embrach",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T07:00:00",
+      "teams": [
+        "Switzerland Women",
+        "Jersey Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jersey Women",
+          "shortname": "JERW",
+          "img": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=48"
+        },
+        {
+          "name": "Switzerland Women",
+          "shortname": "SW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 206,
+          "w": 5,
+          "o": 20,
+          "inning": "jersey women Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 8,
+          "o": 20,
+          "inning": "Switzerland Women,Jersey Women Inning 1"
+        }
+      ],
+      "series_id": "15b456a1-c32b-4b10-aca8-ef5638d74685",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
       "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -254,10 +299,48 @@
       "matchEnded": true
     },
     {
+      "id": "a8ba2c2f-69e5-4044-a68a-663fce374008",
+      "name": "Colombo Kaps vs Dambulla Sixers, 17th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Pallekele International Cricket Stadium, Pallekele",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T14:00:00",
+      "teams": [
+        "Colombo Kaps",
+        "Dambulla Sixers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Colombo Kaps",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Dambulla Sixers",
+          "shortname": "DS",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 174,
+          "w": 5,
+          "o": 20,
+          "inning": "dambulla sixers Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "a4b3c7a9-c1e9-4ba9-a53f-491370ada0de",
       "name": "Galle Gallants vs Kandy Royals, 16th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Galle Gallants opt to bat",
+      "status": "Kandy Royals won by 6 wkts",
       "venue": "Pallekele International Cricket Stadium, Pallekele",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T09:30:00",
@@ -277,10 +360,16 @@
       ],
       "score": [
         {
-          "r": 83,
-          "w": 1,
-          "o": 10,
+          "r": 208,
+          "w": 3,
+          "o": 20,
           "inning": "galle gallants Inning 1"
+        },
+        {
+          "r": 214,
+          "w": 4,
+          "o": 18.5,
+          "inning": "Galle Gallants,Kandy Royals Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -288,7 +377,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "9d937fde-f5b9-4ca1-8050-f3db3e39a1e6",
@@ -508,6 +597,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "be465d22-cb15-44bb-a2e3-fb0eaf08e162",
+      "name": "Welsh Fire vs Trent Rockets, 11th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets need 81 runs in 76 balls",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T14:00:00",
+      "teams": [
+        "Welsh Fire",
+        "Trent Rockets"
+      ],
+      "teamInfo": [
+        {
+          "name": "Trent Rockets",
+          "shortname": "TRE",
+          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire",
+          "shortname": "WEF",
+          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 122,
+          "w": 7,
+          "o": 100,
+          "inning": "Welsh Fire Inning 1"
+        },
+        {
+          "r": 42,
+          "w": 0,
+          "o": 24,
+          "inning": "Trent Rockets Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "fe995f41-d4ce-4b2d-aae0-62aa66401312",
@@ -783,7 +917,7 @@
       "id": "8019a8b4-6270-484d-8e62-b601cd7bb263",
       "name": "Nepal vs Netherlands, 120th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Nepal opt to bowl",
+      "status": "Nepal need 109 runs in 87 balls",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T00:00:00",
@@ -805,10 +939,16 @@
       ],
       "score": [
         {
-          "r": 53,
-          "w": 3,
-          "o": 15,
+          "r": 225,
+          "w": 9,
+          "o": 50,
           "inning": "Netherlands Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 6,
+          "o": 35.3,
+          "inning": "Nepal Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -952,140 +1092,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
-    },
-    {
-      "id": "610cac66-a929-4422-9a45-3ee22ff1c3c8",
-      "name": "Zimbabwe vs India, 2nd T20I, India tour of Zimbabwe 2026",
-      "matchType": "t20",
-      "status": "India won by 90 runs",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T11:00:00",
-      "teams": [
-        "Zimbabwe",
-        "India"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 219,
-          "w": 5,
-          "o": 20,
-          "inning": "India Inning 1"
-        },
-        {
-          "r": 129,
-          "w": 10,
-          "o": 17.5,
-          "inning": "Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a2cdbdde-a120-43f2-8089-fba847d42ab3",
-      "name": "West Indies vs Pakistan, 1st Test, Pakistan tour of West Indies, 2026",
-      "matchType": "test",
-      "status": "West Indies won by 90 runs",
-      "venue": "Brian Lara Stadium, Tarouba, Trinidad",
-      "date": "2026-07-25",
-      "dateTimeGMT": "2026-07-25T14:00:00",
-      "teams": [
-        "West Indies",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 311,
-          "w": 10,
-          "o": 98.5,
-          "inning": "west indies Inning 1"
-        },
-        {
-          "r": 282,
-          "w": 10,
-          "o": 80.1,
-          "inning": "West Indies,Pakistan Inning 1"
-        },
-        {
-          "r": 181,
-          "w": 10,
-          "o": 54.5,
-          "inning": "west indies Inning 2"
-        },
-        {
-          "r": 120,
-          "w": 10,
-          "o": 40.2,
-          "inning": "West Indies,Pakistan Inning 2"
-        }
-      ],
-      "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f289b96a-2454-4aea-a448-6e38457de298",
-      "name": "Welsh Fire Women vs Trent Rockets Women, 11th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women opt to bowl",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T10:30:00",
-      "teams": [
-        "Welsh Fire Women",
-        "Trent Rockets Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
     }
   ],
   "ipl": {
