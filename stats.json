@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-30T10:08:20.058Z",
+  "lastUpdated": "2026-07-30T15:53:35.285Z",
   "recentMatches": [
     {
       "id": "68ab3133-143b-4ef8-aea9-b9cb86be18d1",
       "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bowl",
+      "status": "Spain Women won by 76 runs",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T07:30:00",
@@ -25,18 +25,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 232,
+          "w": 2,
+          "o": 20,
+          "inning": "Spain Women Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 2,
+          "o": 20,
+          "inning": "Switzerland Women Inning 1"
+        }
+      ],
       "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "42f49a0b-75ce-4092-89ac-7be50d5adec7",
       "name": "Switzerland Women vs Brazil Women, 6th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bat",
+      "status": "Brazil Women won by 6 wkts",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T14:00:00",
@@ -56,18 +70,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 76,
+          "w": 10,
+          "o": 18.3,
+          "inning": "switzerland women Inning 1"
+        },
+        {
+          "r": 80,
+          "w": 4,
+          "o": 8.2,
+          "inning": "Switzerland Women,Brazil Women Inning 1"
+        }
+      ],
       "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "9259fa83-a58e-4151-ab30-68ca65348fa5",
       "name": "Brazil Women vs Spain Women, 5th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Brazil Women opt to bowl",
+      "status": "Brazil Women won by 6 wkts",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T10:30:00",
@@ -87,12 +115,26 @@
           "img": "https://g.cricapi.com/iapi/657-637867439332284127.png?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 142,
+          "w": 5,
+          "o": 20,
+          "inning": "Spain Women Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 4,
+          "o": 10.1,
+          "inning": "Brazil Women Inning 1"
+        }
+      ],
       "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "387a469a-d84f-4ec5-a296-eacfa64b7f5d",
@@ -140,10 +182,55 @@
       "matchEnded": true
     },
     {
+      "id": "d7a79f6e-87ed-41b8-be3f-bb3ac764167b",
+      "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Uganda Women won by 17 runs",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T12:00:00",
+      "teams": [
+        "Namibia Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 146,
+          "w": 3,
+          "o": 20,
+          "inning": "Uganda Women Inning 1"
+        },
+        {
+          "r": 129,
+          "w": 6,
+          "o": 20,
+          "inning": "Namibia Women Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "7f1af414-5983-43f2-b02f-c80ad2280362",
       "name": "Hong Kong, China Women vs Tanzania Women, 3rd Place Play-off, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Tanzania Women opt to bowl",
+      "status": "Tanzania Women won by 7 wkts",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T07:30:00",
@@ -157,12 +244,26 @@
           "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 116,
+          "w": 4,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 3,
+          "o": 16.5,
+          "inning": " Inning 1"
+        }
+      ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -336,7 +437,7 @@
       "id": "c4ba3927-699d-462b-92b4-3787a4a3b2de",
       "name": "Argentina Women vs Canada Women, 1st T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Argentina Women opt to bowl",
+      "status": "Argentina Women won by 1 wkt",
       "venue": "St George's College Ground, Quilmes, Buenos Aires",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T15:30:00",
@@ -356,8 +457,60 @@
           "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 74,
+          "w": 4,
+          "o": 20,
+          "inning": "Canada Women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 9,
+          "o": 18.4,
+          "inning": "Argentina Women Inning 1"
+        }
+      ],
       "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "15c37be4-3337-4a9c-9986-0c07e6b57a88",
+      "name": "Jaffna Kings vs Kandy Royals, 18th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Pallekele International Cricket Stadium, Pallekele",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T14:00:00",
+      "teams": [
+        "Jaffna Kings",
+        "Kandy Royals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jaffna Kings",
+          "shortname": "JKS",
+          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+        },
+        {
+          "name": "Kandy Royals",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 6,
+          "o": 20,
+          "inning": "Jaffna Kings Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -939,96 +1092,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1f11e2ab-0cdd-4a4c-b61d-5e7b128e3b6e",
-      "name": "Zimbabwe vs India, 3rd T20I, India tour of Zimbabwe 2026",
-      "matchType": "t20",
-      "status": "India won by 35 runs",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T11:00:00",
-      "teams": [
-        "Zimbabwe",
-        "India"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 192,
-          "w": 5,
-          "o": 20,
-          "inning": "india Inning 1"
-        },
-        {
-          "r": 157,
-          "w": 7,
-          "o": 20,
-          "inning": "Zimbabwe,India Inning 1"
-        }
-      ],
-      "series_id": "a5cb9f61-1d86-43ea-bb6a-085df6422bd0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4c17b70-77c1-4d03-9e9c-6664cb00e3ff",
-      "name": "MI London Women vs London Spirit Women, 12th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Match tied",
-      "venue": "Kennington Oval, London",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T14:00:00",
-      "teams": [
-        "MI London Women",
-        "London Spirit Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit Women",
-          "shortname": "LSW",
-          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
-        },
-        {
-          "name": "Mi London Women",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 4,
-          "o": 100,
-          "inning": "MI London Women Inning 1"
-        },
-        {
-          "r": 151,
-          "w": 5,
-          "o": 100,
-          "inning": "London Spirit Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
