@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T15:53:35.285Z",
+  "lastUpdated": "2026-07-30T21:14:30.087Z",
   "recentMatches": [
     {
       "id": "68ab3133-143b-4ef8-aea9-b9cb86be18d1",
@@ -482,7 +482,7 @@
       "id": "15c37be4-3337-4a9c-9986-0c07e6b57a88",
       "name": "Jaffna Kings vs Kandy Royals, 18th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Jaffna Kings won by 21 runs",
       "venue": "Pallekele International Cricket Stadium, Pallekele",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T14:00:00",
@@ -507,6 +507,12 @@
           "w": 6,
           "o": 20,
           "inning": "Jaffna Kings Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 10,
+          "o": 20,
+          "inning": "Kandy Royals Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -514,7 +520,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a8ba2c2f-69e5-4044-a68a-663fce374008",
@@ -648,87 +654,44 @@
       "matchEnded": true
     },
     {
-      "id": "0dce0b87-eaa5-437f-b4fa-fafb7e7bf10f",
-      "name": "Galle Gallants vs Dambulla Sixers, 14th Match, Lanka Premier League 2026",
+      "id": "11eb333a-a67d-481c-958c-ac29c1e7341b",
+      "name": "Southern Brave vs Birmingham Phoenix, 13th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Galle Gallants won by 44 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T14:00:00",
+      "status": "Southern Brave won by 12 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T17:30:00",
       "teams": [
-        "Galle Gallants",
-        "Dambulla Sixers"
+        "Southern Brave",
+        "Birmingham Phoenix"
       ],
       "teamInfo": [
         {
-          "name": "Dambulla Sixers",
-          "shortname": "DS",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
         },
         {
-          "name": "Galle Gallants",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Southern Brave",
+          "shortname": "SOU",
+          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 220,
-          "w": 6,
-          "o": 20,
-          "inning": "galle gallants Inning 1"
+          "r": 128,
+          "w": 8,
+          "o": 100,
+          "inning": "Southern Brave Inning 1"
         },
         {
-          "r": 176,
-          "w": 7,
-          "o": 20,
-          "inning": "Galle Gallants,Dambulla Sixers Inning 1"
+          "r": 116,
+          "w": 9,
+          "o": 100,
+          "inning": "Birmingham Phoenix Inning 1"
         }
       ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "64d50d1d-4ff9-4c2e-ac5e-45021284e747",
-      "name": "Kandy Royals vs Jaffna Kings, 13th Match, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Jaffna Kings won by 93 runs",
-      "venue": "Rangiri Dambulla International Stadium, Dambulla",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T09:30:00",
-      "teams": [
-        "Kandy Royals",
-        "Jaffna Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
-        },
-        {
-          "name": "Kandy Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 199,
-          "w": 4,
-          "o": 20,
-          "inning": "jaffna kings Inning 1"
-        },
-        {
-          "r": 106,
-          "w": 10,
-          "o": 18.2,
-          "inning": "Kandy Royals,Jaffna Kings Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -916,96 +879,6 @@
       "matchEnded": true
     },
     {
-      "id": "e6138a76-53e4-48b0-bc60-fea6eb74d24c",
-      "name": "Trent Rockets vs London Spirit, 8th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets won by 4 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T17:00:00",
-      "teams": [
-        "Trent Rockets",
-        "London Spirit"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit",
-          "shortname": "LDN",
-          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets",
-          "shortname": "TRE",
-          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 9,
-          "o": 100,
-          "inning": "London Spirit Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 6,
-          "o": 98,
-          "inning": "Trent Rockets Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "da6e13ec-3e46-4995-a67a-883af100a48c",
-      "name": "Manchester Super Giants vs Birmingham Phoenix, 7th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Manchester Super Giants won by 87 runs",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-07-26",
-      "dateTimeGMT": "2026-07-26T13:30:00",
-      "teams": [
-        "Manchester Super Giants",
-        "Birmingham Phoenix"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix",
-          "shortname": "BRM",
-          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
-        },
-        {
-          "name": "Manchester Super Giants",
-          "shortname": "MSG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 187,
-          "w": 5,
-          "o": 100,
-          "inning": "Manchester Super Giants Inning 1"
-        },
-        {
-          "r": 100,
-          "w": 10,
-          "o": 97,
-          "inning": "Birmingham Phoenix Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "8019a8b4-6270-484d-8e62-b601cd7bb263",
       "name": "Nepal vs Netherlands, 120th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -1092,6 +965,141 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "78ac0385-a541-47a5-a04f-7bac853acea6",
+      "name": "Southern Brave Women vs Birmingham Phoenix Women, 13th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women won by 24 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T14:00:00",
+      "teams": [
+        "Southern Brave Women",
+        "Birmingham Phoenix Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 3,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 5,
+          "o": 100,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d4c17b70-77c1-4d03-9e9c-6664cb00e3ff",
+      "name": "MI London Women vs London Spirit Women, 12th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Match tied",
+      "venue": "Kennington Oval, London",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T14:00:00",
+      "teams": [
+        "MI London Women",
+        "London Spirit Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit Women",
+          "shortname": "LSW",
+          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
+        },
+        {
+          "name": "Mi London Women",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 4,
+          "o": 100,
+          "inning": "MI London Women Inning 1"
+        },
+        {
+          "r": 151,
+          "w": 5,
+          "o": 100,
+          "inning": "London Spirit Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f289b96a-2454-4aea-a448-6e38457de298",
+      "name": "Welsh Fire Women vs Trent Rockets Women, 11th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets Women won by 8 wkts",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T10:30:00",
+      "teams": [
+        "Welsh Fire Women",
+        "Trent Rockets Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 129,
+          "w": 3,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 2,
+          "o": 83,
+          "inning": "Trent Rockets Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
@@ -1434,10 +1442,18 @@
         "points": 4
       },
       {
-        "team": "Birmingham Phoenix",
-        "played": 2,
+        "team": "Southern Brave",
+        "played": 4,
         "won": 1,
-        "lost": 1,
+        "lost": 3,
+        "nr": 0,
+        "points": 2
+      },
+      {
+        "team": "Birmingham Phoenix",
+        "played": 3,
+        "won": 1,
+        "lost": 2,
         "nr": 0,
         "points": 2
       },
@@ -1448,14 +1464,6 @@
         "lost": 2,
         "nr": 0,
         "points": 2
-      },
-      {
-        "team": "Southern Brave",
-        "played": 3,
-        "won": 0,
-        "lost": 3,
-        "nr": 0,
-        "points": 0
       }
     ],
     "topBatters": [],
