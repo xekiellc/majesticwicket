@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-31T05:40:19.244Z",
+  "lastUpdated": "2026-07-31T10:25:12.503Z",
   "recentMatches": [
     {
       "id": "32894cba-b94e-48c7-ba75-bdadd487d0d6",
-      "name": "Brazil Women vs Jersey Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "name": "Brazil Women vs Spain Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Brazil Women opt to bat",
+      "status": "Brazil Women won by 86 runs",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T12:00:00",
       "teams": [
         "Brazil Women",
-        "Jersey Women"
+        "Spain Women"
       ],
       "teamInfo": [
         {
@@ -20,17 +20,31 @@
           "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
         },
         {
-          "name": "Jersey Women",
-          "shortname": "JERW",
-          "img": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=48"
+          "name": "Spain Women",
+          "shortname": "ESPW",
+          "img": "https://g.cricapi.com/iapi/657-637867439332284127.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 210,
+          "w": 10,
+          "o": 19.4,
+          "inning": "brazil women Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 6,
+          "o": 20,
+          "inning": "Brazil Women,Spain Women Inning 1"
         }
       ],
       "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "68ab3133-143b-4ef8-aea9-b9cb86be18d1",
@@ -955,6 +969,45 @@
       "matchEnded": true
     },
     {
+      "id": "edf09271-4135-4a74-86aa-79e51405ad98",
+      "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Netherlands opt to bat",
+      "venue": "Sportpark Maarschalkerweerd, Utrecht",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T00:00:00",
+      "teams": [
+        "Netherlands",
+        "Namibia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 55,
+          "w": 3,
+          "o": 16.5,
+          "inning": "netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "8019a8b4-6270-484d-8e62-b601cd7bb263",
       "name": "Nepal vs Netherlands, 120th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -1041,51 +1094,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "78ac0385-a541-47a5-a04f-7bac853acea6",
-      "name": "Southern Brave Women vs Birmingham Phoenix Women, 13th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave Women won by 24 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T14:00:00",
-      "teams": [
-        "Southern Brave Women",
-        "Birmingham Phoenix Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix Women",
-          "shortname": "BPW",
-          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
-        },
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 3,
-          "o": 100,
-          "inning": "Southern Brave Women Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 5,
-          "o": 100,
-          "inning": "Birmingham Phoenix Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
