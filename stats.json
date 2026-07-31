@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-07-31T10:25:12.503Z",
+  "lastUpdated": "2026-07-31T16:03:09.691Z",
   "recentMatches": [
+    {
+      "id": "f0a96a04-5541-43d6-b8a8-fecd720eb207",
+      "name": "Central Delhi Kings vs Purani Dilli 6, 1st Match, Delhi Premier League 2026",
+      "matchType": "t20",
+      "status": "Central Delhi Kings opt to bowl",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T15:30:00",
+      "teams": [
+        "Central Delhi Kings",
+        "Purani Dilli 6"
+      ],
+      "teamInfo": [
+        {
+          "name": "Central Delhi Kings",
+          "shortname": "CDK",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Purani Dilli 6",
+          "shortname": "PD6",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 12,
+          "w": 0,
+          "o": 1.2,
+          "inning": "Purani Dilli 6 Inning 1"
+        }
+      ],
+      "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "32894cba-b94e-48c7-ba75-bdadd487d0d6",
       "name": "Brazil Women vs Spain Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
@@ -972,7 +1011,7 @@
       "id": "edf09271-4135-4a74-86aa-79e51405ad98",
       "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Netherlands opt to bat",
+      "status": "Namibia need 24 runs in 92 balls",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-31",
       "dateTimeGMT": "2026-07-31T00:00:00",
@@ -994,10 +1033,16 @@
       ],
       "score": [
         {
-          "r": 55,
-          "w": 3,
-          "o": 16.5,
+          "r": 183,
+          "w": 10,
+          "o": 48.5,
           "inning": "netherlands Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 2,
+          "o": 34.4,
+          "inning": "Netherlands,Namibia Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -1042,51 +1087,6 @@
           "r": 168,
           "w": 10,
           "o": 48,
-          "inning": "Nepal Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2cc4cb6d-50e2-4ca3-8ad6-70f0a3a8c5f9",
-      "name": "Namibia vs Nepal, 119th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Namibia won by 3 runs",
-      "venue": "Sportpark Maarschalkerweerd, Utrecht",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T00:00:00",
-      "teams": [
-        "Namibia",
-        "Nepal"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
-          "w": 7,
-          "o": 50,
-          "inning": "Namibia Inning 1"
-        },
-        {
-          "r": 208,
-          "w": 6,
-          "o": 50,
           "inning": "Nepal Inning 1"
         }
       ],
