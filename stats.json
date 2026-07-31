@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-07-30T21:14:30.087Z",
+  "lastUpdated": "2026-07-31T05:40:19.244Z",
   "recentMatches": [
+    {
+      "id": "32894cba-b94e-48c7-ba75-bdadd487d0d6",
+      "name": "Brazil Women vs Jersey Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "matchType": "t20",
+      "status": "Brazil Women opt to bat",
+      "venue": "Embrach Cricket Ground, Embrach",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T12:00:00",
+      "teams": [
+        "Brazil Women",
+        "Jersey Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brazil Women",
+          "shortname": "BRW",
+          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+        },
+        {
+          "name": "Jersey Women",
+          "shortname": "JERW",
+          "img": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=48"
+        }
+      ],
+      "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "68ab3133-143b-4ef8-aea9-b9cb86be18d1",
       "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
@@ -427,6 +458,51 @@
         }
       ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7b700e72-960d-4a59-a7f5-d0d15041ada0",
+      "name": "Argentina Women vs Canada Women, 2nd T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Argentina Women won by 6 wkts",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T15:30:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+        },
+        {
+          "name": "Canada Women",
+          "shortname": "CW",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 88,
+          "w": 8,
+          "o": 20,
+          "inning": "Canada Women Inning 1"
+        },
+        {
+          "r": 91,
+          "w": 4,
+          "o": 19.2,
+          "inning": "Argentina Women Inning 1"
+        }
+      ],
+      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1004,96 +1080,6 @@
           "w": 5,
           "o": 100,
           "inning": "Birmingham Phoenix Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d4c17b70-77c1-4d03-9e9c-6664cb00e3ff",
-      "name": "MI London Women vs London Spirit Women, 12th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Match tied",
-      "venue": "Kennington Oval, London",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T14:00:00",
-      "teams": [
-        "MI London Women",
-        "London Spirit Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit Women",
-          "shortname": "LSW",
-          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
-        },
-        {
-          "name": "Mi London Women",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 4,
-          "o": 100,
-          "inning": "MI London Women Inning 1"
-        },
-        {
-          "r": 151,
-          "w": 5,
-          "o": 100,
-          "inning": "London Spirit Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f289b96a-2454-4aea-a448-6e38457de298",
-      "name": "Welsh Fire Women vs Trent Rockets Women, 11th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 8 wkts",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T10:30:00",
-      "teams": [
-        "Welsh Fire Women",
-        "Trent Rockets Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 3,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        },
-        {
-          "r": 132,
-          "w": 2,
-          "o": 83,
-          "inning": "Trent Rockets Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",

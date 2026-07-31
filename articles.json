@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-07-30T21:14:30.087Z",
+  "lastUpdated": "2026-07-31T05:40:19.243Z",
   "articles": [
+    {
+      "title": "Joey Evison agrees Sussex switch",
+      "url": "https://www.cricinfo.com/ci/content/story/1548118.html?ex_cid=OTC-RSS",
+      "description": "Allrounder set to leave Kent after four-year association; Warwickshire bring in Championship reinforcements",
+      "publishedAt": "2026-07-30T21:12:21.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Stoinis the spark as Brave claim first win at fourth attempt",
       "url": "https://www.cricinfo.com/ci/content/story/1548138.html?ex_cid=OTC-RSS",
@@ -72,16 +82,6 @@
       "urlToImage": null
     },
     {
-      "title": "Joey Evison agrees Sussex switch",
-      "url": "https://www.cricinfo.com/ci/content/story/1548118.html?ex_cid=OTC-RSS",
-      "description": "Allrounder set to leave Kent after four-year association; Warwickshire bring in Championship reinforcements",
-      "publishedAt": "2026-07-30T14:46:05.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Albie Morkel named head coach of Joburg Super Kings",
       "url": "https://www.cricinfo.com/ci/content/story/1548113.html?ex_cid=OTC-RSS",
       "description": "He will take over from Stephen Fleming, who stepped down from the role earlier this month",
@@ -98,6 +98,26 @@
       "publishedAt": "2026-07-30T14:10:37.000Z",
       "source": {
         "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "‘We do not have an MS Dhoni to be his captain’ - Michael Vaughan issues warning to Stephen Fleming after England Test coaching appointment",
+      "url": "https://www.crictracker.com/cricket-news/we-do-not-have-an-ms-dhoni-to-be-his-captain-michael-vaughan-issues-warning-to-stephen-fleming-after-england-test-coaching-appointment-4733/",
+      "description": "Fleming was recently named England's Test head coach and is set to begin his tenure later this year.",
+      "publishedAt": "2026-07-31T05:14:33.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "WI vs PAK 2026: Shan Masood ruled out of 2nd Test, jeopardising his tour to England",
+      "url": "https://www.crictracker.com/cricket-news/wi-vs-pak-2026-shan-masood-ruled-out-of-2nd-test-jeopardising-his-tour-to-england/",
+      "description": "Following Pakistan's short tour to the Caribbean, they are set to travel to England for a three-match series for the first time in nearly six years.",
+      "publishedAt": "2026-07-31T04:11:12.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -182,50 +202,30 @@
       "urlToImage": null
     },
     {
-      "title": "'My favourite Test batting partner' - Virat Kohli congratulates Ajinkya Rahane on incredible career following retirement",
-      "url": "https://www.crictracker.com/cricket-news/favourite-test-batting-partner-virat-kohli-congratulates-ajinkya-rahane-on-incredible-career-retirement/",
-      "description": "Kohli and Rahane played the captain-vice",
-      "publishedAt": "2026-07-30T13:26:51.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "‘Thank you for some outstanding Australian memories’ - Yuvraj Singh and Irfan Pathan pay heartfelt tribute after Ajinkya Rahane announces retirement",
-      "url": "https://www.crictracker.com/cricket-news/thank-you-for-some-outstanding-australian-memories-yuvraj-singh-and-irfan-pathan-pay-heartfelt-tribute-after-ajinkya-rahane-announces-retirement-0562/",
-      "description": "Rahane confirmed his decision through a social media post, bringing the curtains down on a distinguished career that spanned over 12 years.",
-      "publishedAt": "2026-07-30T13:00:13.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "The Hundred 2026 results: Nadine de Klerk stars as London Spirit beat Trent Rockets - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YmpOMHpRTEVGN25FZU93SXo4Q0p4S1Fhbi1UeUxMWkVJQ3dtclBETUVEVm9UQ0RzVHgwUUxpdWNwZUFGV0Y3bzVyUmtjR1prNERxUWxhVlVPbllxV2QwSlk0Z1k5QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE93YmpOMHpRTEVGN25FZU93SXo4Q0p4S1Fhbi1UeUxMWkVJQ3dtclBETUVEVm9UQ0RzVHgwUUxpdWNwZUFGV0Y3bzVyUmtjR1prNERxUWxhVlVPbllxV2QwSlk0Z1k5QQ?oc=5\" target=\"_blank\">The Hundred 2026 results: Nadine de Klerk stars as London Spirit beat Trent Rockets</a>&n",
-      "publishedAt": "2026-07-26T16:46:19.000Z",
+      "title": "The Hundred Women 2026 Match 10 Predictions: Leeds vs Manchester Super Giants - Cricket World",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcHNHbzhUYnJraGl6R0NoSGd3WFlZTXlrUzFVUjZXS19ZbkhXNlhobGxpSTBxU29IU0ktZENPZXN6MU9zYXo2QVI3TzN6UDM3OFZ2d2xoc1E5NkZ1MXRoZjgtTHVOTDhuWEhraG5mWFZKcEphMlhya2ZUU1lVOHBpcFZWcnk1SGlvRjJFOHR5dnlObmdJZ0pBY0xwV3VVeWllUHloaVAwNzRTZlNJTkJhLVU4Y3hrcEtWbXZqVndiVnRISUgwcWl3VktMR0ZGVGlKSkR2VWxtUHA2M29QMjd2c1NLekF2WDMybGpSV3hud0lYNWM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcHNHbzhUYnJraGl6R0NoSGd3WFlZTXlrUzFVUjZXS19ZbkhXNlhobGxpSTBxU29IU0ktZENPZXN6MU9zYXo2QVI3TzN6UDM3OFZ2d2xoc1E5NkZ1MXRoZjgtTHVOTDhuWEhraG5mWFZKcEphMlhya2ZUU1lVOHBpcFZWcnk1SGlvRjJFOHR5dnlObmdJZ0pBY0xwV3VVeWllUHloaVAwNzRTZlNJTkJhLVU4Y3hrcEtWbX",
+      "publishedAt": "2026-07-27T20:21:41.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Match Predictions: The Hundred Womens 2026 - Match 11 & 12 - Welsh Fire W vs Trent Rockets W; MI London W vs London Spirit W - July 29th - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSUFNdjFYd0pTdFpLSkFwcGtMM3doa3ZTbEdvaWhxN0xKWnBwOHNHZFEyQUY3UWExNGNxQTg3cXNjTWtyZ2l3SnhDVm1UajlyUGJ0OTJoWEViZ0VTTUFzSkZzQWRfTlFEWWVWUDRINTVxYktyd2JXQ2NuaWJUWl95NWRmQWVLcVNwV0VSNm5IOHZXdktsclNzZU1GT2ljS21JS1Mza00za2lQUHJHZms2UmRLWS10WDM3a3RNQWU2U2k1cnowTmdjX1NxWDFESW5OZWs1MFVaVGt2UWczM0Y2M21PaEplZzd5ajQ2V2JRVllJNTY4ZE1VVk13?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSUFNdjFYd0pTdFpLSkFwcGtMM3doa3ZTbEdvaWhxN0xKWnBwOHNHZFEyQUY3UWExNGNxQTg3cXNjTWtyZ2l3SnhDVm1UajlyUGJ0OTJoWEViZ0VTTUFzSkZzQWRfTlFEWWVWUDRINTVxYktyd2JXQ2NuaWJUWl95NWRmQWVLcVNwV0VSNm5IOHZXdktsclNzZU1GT2ljS21JS1Mza00za2lQUHJHZms2UmRLWS10WDM3a3",
-      "publishedAt": "2026-07-28T14:54:09.000Z",
+      "title": "The Hundred Men’s 2026 points table: Updated standings and net run rate after Trent Rockets, London Spirit beat Welsh Fire, MI London - Wisden",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWTczbGdha2N5M0JrYWNhdjhCWjQ1cERMaElPd1ZoOGU2eTgwUjhSWkZvLTJ5MFZITWtoOGFiS3JwNjBNOVZBNm1kYktJeXBPMFNfR01fYTZMdkNLYUU3R3QxNXg3Y3RSVVZkUTJyWGl2RHo1TlBuX3UyWlJuMnVsTjZDQ3F0LUFTdG16eHd5c2ZNeTUtSXJhUFluRkpkbjhZMFlMbF9UMFVEX3BsenNCZFctRXdVdXFCTmhITEpOUjFiOUFic2NwekNRaXJHWDFJb2NkMG5TV252ci16S2FQWS1uSDBHZUl3bmFydXBUSWlob21aVkVIMERKYm80bVg2VXJkdWIyMUlHRTRyQmVOd3BLcjBuMmw1UG9PN0VB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQWTczbGdha2N5M0JrYWNhdjhCWjQ1cERMaElPd1ZoOGU2eTgwUjhSWkZvLTJ5MFZITWtoOGFiS3JwNjBNOVZBNm1kYktJeXBPMFNfR01fYTZMdkNLYUU3R3QxNXg3Y3RSVVZkUTJyWGl2RHo1TlBuX3UyWlJuMnVsTjZDQ3F0LUFTdG16eHd5c2ZNeTUtSXJhUFluRkpkbjhZMFlMbF9UMFVEX3BsenNCZFctRXdVdXFCTm",
+      "publishedAt": "2026-07-30T08:02:09.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Cricket: The Hundred - 2026 Highlights: London Spirit v Manchester Super Giants Men's Highlights - BBC",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeE5XNFMtSVJQNmcySUNORzR0TzhXWDVFaFRPR0RQY2ZlZm8zUV9hRkwtV2R2WElUNi01MlVRa0NJOWdTX2ZoNHRwZ1dvS1AyRTJLQTJ1aE5VT1llQk9ocnFiZkNwQXp5SGpoZUp2VzhqT3JmVmZCUUNnYTNvaGdXN1ZCVDVHSENEb2tKcXFkM205MHB0R0c0cDFCWURtc2V5NVJPX2JRdmtSbnpKRVdEclc1WVZKRnVKc3E0MG5LaUJGckIyRU9xcTVQVk9pblduakVzRg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeE5XNFMtSVJQNmcySUNORzR0TzhXWDVFaFRPR0RQY2ZlZm8zUV9hRkwtV2R2WElUNi01MlVRa0NJOWdTX2ZoNHRwZ1dvS1AyRTJLQTJ1aE5VT1llQk9ocnFiZkNwQXp5SGpoZUp2VzhqT3JmVmZCUUNnYTNvaGdXN1ZCVDVHSENEb2tKcXFkM205MHB0R0c0cDFCWURtc2V5NVJPX2JRdmtSbnpKRVdEclc1WVZKRnVKc3",
-      "publishedAt": "2026-07-23T23:19:02.000Z",
+      "title": "Cricket: The Hundred - 2026 Highlights: London Spirit v Manchester Super Giants Women's Highlights - bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbUlIOTNvMkJHc256RHZJRzdTcF9fajNLbExCTXZrWVExLVczYlNfelhEdFhDMHdJQ3A1dTUwZDhGR1hRV0JPN1hJRW1nMFRMRVRyckhTemJ3ZEs0WFJxVEd0dHlOelJiWkFzMWhFUmY5ZWZib1ZiNkp3bjk0OXJndXNLUk9LQXFjd0VTaURrYW5tNmJOUTNIR1lHNXFFQWMyTkdYTi1aZ3V0ZkJCWjFJM3RTMndseGgyaWdQVGhPWW1JZ09rVXJQVGV5VXFuWlZ4N05mWUE1eXo3TE8zcTIyMF9sSmUwTFVLREIxNXVsb3c0RGtkTGdTRWZSQkJmUmFVbzh1LVZ2VExlWXktVjZrNkF3UkU?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQbUlIOTNvMkJHc256RHZJRzdTcF9fajNLbExCTXZrWVExLVczYlNfelhEdFhDMHdJQ3A1dTUwZDhGR1hRV0JPN1hJRW1nMFRMRVRyckhTemJ3ZEs0WFJxVEd0dHlOelJiWkFzMWhFUmY5ZWZib1ZiNkp3bjk0OXJndXNLUk9LQXFjd0VTaURrYW5tNmJOUTNIR1lHNXFFQWMyTkdYTi1aZ3V0ZkJCWjFJM3RTMndseGgyaW",
+      "publishedAt": "2026-07-24T07:53:53.000Z",
       "source": {
         "name": "Google News"
       },
@@ -242,30 +242,10 @@
       "urlToImage": null
     },
     {
-      "title": "Match Predictions: The Hundred Mens 2026 - Match 14 - Manchester Super Giants vs Trent Rockets - July 31st - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaEFHaDExVXJydE9yZmRtemFWdjBQdU5EclhFcDdTUDZEZncycjNDRW1UN3VwT0FGcHpxLUlkLWFsbC1Delg2emhJM2FkNkpPNGNhc1hjVTB4clFqSk9ZWTV6ckx4X1VVMG5feDlBRHVUcnBxcHFDaVFkSXhYSW9aMUdvTEYzRlFJTFdPaHBTTWJLcFVjUTdYdlIycjhiQVhIRE5HazJEaFRscWJyV2l5STY0LTQzYmtoZ3pqRVpkQUUxeW9rTXNPTHZQbEhmdzY4VmZ4NmdB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaEFHaDExVXJydE9yZmRtemFWdjBQdU5EclhFcDdTUDZEZncycjNDRW1UN3VwT0FGcHpxLUlkLWFsbC1Delg2emhJM2FkNkpPNGNhc1hjVTB4clFqSk9ZWTV6ckx4X1VVMG5feDlBRHVUcnBxcHFDaVFkSXhYSW9aMUdvTEYzRlFJTFdPaHBTTWJLcFVjUTdYdlIycjhiQVhIRE5HazJEaFRscWJyV2l5STY0LTQzYmtoZ3",
-      "publishedAt": "2026-07-30T10:50:19.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Match Predictions: The Hundred Mens 2026 - Match 13 - Southern Brave vs Birmingham Phoenix - July 30th - Cricket World",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW5sQU9Wa2pFRFlZZkVGblVXNGhPa1FvdktYbUVMTWsxRHFFeUprenpJTk9BWDVydUlTR3hoTDdZSmNsVDNZclJtaG9YYll2aThPdnZvR1N0MWJsU3k3X1RpU0ludU9KU2Zza2UwMUNpdWRrWE9PRFBoSm1WN2IyNWJra25UZjN5b3RzNmpTQXNvVEk0UHFrdkVXOWJLR2VwWHY0RmhLeGIycEJwY2dBcG14NW5qSlZVRUxMbEZtZzc4SF9SV01EcUFKUWpOa3VF?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW5sQU9Wa2pFRFlZZkVGblVXNGhPa1FvdktYbUVMTWsxRHFFeUprenpJTk9BWDVydUlTR3hoTDdZSmNsVDNZclJtaG9YYll2aThPdnZvR1N0MWJsU3k3X1RpU0ludU9KU2Zza2UwMUNpdWRrWE9PRFBoSm1WN2IyNWJra25UZjN5b3RzNmpTQXNvVEk0UHFrdkVXOWJLR2VwWHY0RmhLeGIycEJwY2dBcG14NW5qSlZVRU",
       "publishedAt": "2026-07-29T14:13:14.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "The Hundred Mens 2026 Match 10 - Sunrisers Leeds vs Manchester Super Giants - Cricket Match Predictions: July 28 - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUt1NzA5TWRORy0wa1RoWEZxbEhRb3l4LUoxNld3WWRwcXdlTlVxemNfM2NaYUZUeW41OTFoWVA0cXVsemF4ZW4xbVBpQU9Hb0N5NG1GR3Jzb1czUG14UVhnYnFueklhMzJuUGVTZE1ycDhMc3dSWWVXT0l1T00xMUZkeFRQa2FlendRa1JSbF9wTUFDRUVBQjZGc3gtSDJqb29RbHhRUmx0MlFQRDV6X2ltdHlrZEF5M2RWcXNHVEo2X256c2lBNWhqZHNrcUlWLWtkQ0JhYjgxMWdZX2tXNg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUt1NzA5TWRORy0wa1RoWEZxbEhRb3l4LUoxNld3WWRwcXdlTlVxemNfM2NaYUZUeW41OTFoWVA0cXVsemF4ZW4xbVBpQU9Hb0N5NG1GR3Jzb1czUG14UVhnYnFueklhMzJuUGVTZE1ycDhMc3dSWWVXT0l1T00xMUZkeFRQa2FlendRa1JSbF9wTUFDRUVBQjZGc3gtSDJqb29RbHhRUmx0MlFQRDV6X2ltdHlrZEF5M2",
-      "publishedAt": "2026-07-27T20:00:34.000Z",
       "source": {
         "name": "Google News"
       },
@@ -282,16 +262,6 @@
       "urlToImage": null
     },
     {
-      "title": "The Hundred Women’s 2026 – Match 14 – Expert Form Guides, Insights & InPlay Match Predictions – July 31 - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUk5RQXAtR2VGek1Wd1lhMzhUMWpaSzdRR3VqdzFTeDkxTDd2bFpRTjhPZ05NV2xEV0c2MFlXN3JEU3EtNVdzdmR1WW52N05vVGxiT1pUTUE5TTJpYXc2bmlrb1JhWFpfLU5mVGRsb0FlOURLRnZEV2JnODhKUkdFb2xSWHgtR3BsQm5mNzFhbXFDWnMzVjh3WlIwUEFtekdleWRXajBGTXlidWtPN29OVURZLUxpSGtrSEJxZ3hPRG1FcEhSNXFaZ2JHTy1sMkxXekpJaGF3NE9fTnAzeEVQSzZVak9KRUta?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUk5RQXAtR2VGek1Wd1lhMzhUMWpaSzdRR3VqdzFTeDkxTDd2bFpRTjhPZ05NV2xEV0c2MFlXN3JEU3EtNVdzdmR1WW52N05vVGxiT1pUTUE5TTJpYXc2bmlrb1JhWFpfLU5mVGRsb0FlOURLRnZEV2JnODhKUkdFb2xSWHgtR3BsQm5mNzFhbXFDWnMzVjh3WlIwUEFtekdleWRXajBGTXlidWtPN29OVURZLUxpSGtrSE",
-      "publishedAt": "2026-07-30T11:06:14.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Southern Brave vs MI London Predictions: The Hundred Women's 2026 Match 9 - Cricket World",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXllakxaRlVncExwaTB4cEhwcEhqOEd1bzNsQXY1US1QTGZFVzZ6SnFFTy1hdno3NjZ5WHpleXN5NXlMR1Rwa1c0V3dFbjZCTjJVaWdGZEdKM3plNXAwZHZWWFlQR1U5dFhpWUNJNmdfM0M5cDRsTEowbjJnNF9xdkpnb05CTmlxWlJZbk9ESmhETTdadlpmM0pFQkpHWGFBY19CQndDOGJtN0FyVlVxa3d1VzB3LU1oakNoRHkwWlRLTjBLQWRZZlBDRzZOVFpySmJPTHhERkVWbVhWM2c?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXllakxaRlVncExwaTB4cEhwcEhqOEd1bzNsQXY1US1QTGZFVzZ6SnFFTy1hdno3NjZ5WHpleXN5NXlMR1Rwa1c0V3dFbjZCTjJVaWdGZEdKM3plNXAwZHZWWFlQR1U5dFhpWUNJNmdfM0M5cDRsTEowbjJnNF9xdkpnb05CTmlxWlJZbk9ESmhETTdadlpmM0pFQkpHWGFBY19CQndDOGJtN0FyVlVxa3d1VzB3LU1oak",
@@ -302,70 +272,80 @@
       "urlToImage": null
     },
     {
-      "title": "West Indies triumph as Pakistan suffer 8th consecutive overseas Test defeat! When did Babar Azam last win a Test abroad? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemxDc3ZZSFNkZ2QweGdPM1AtaE5WQ2ZMWnJFUFNVUVNVVWhKM2dLTFBtX29raWlIYXZRRExqalVBWnVNQUVWWXhVR2NDemJJa1dQTTJ1aDJzZ2ZZUS02WkQxc1M0NENGb0JlM2J0RGNvRG5Zd2I3N1V4eW8yUk4xSWNRaWdUdEczdWtfXw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQemxDc3ZZSFNkZ2QweGdPM1AtaE5WQ2ZMWnJFUFNVUVNVVWhKM2dLTFBtX29raWlIYXZRRExqalVBWnVNQUVWWXhVR2NDemJJa1dQTTJ1aDJzZ2ZZUS02WkQxc1M0NENGb0JlM2J0RGNvRG5Zd2I3N1V4eW8yUk4xSWNRaWdUdEczdWtfXw?oc=5\" target=\"_blank\">West Indies triumph as Pakistan suffe",
-      "publishedAt": "2026-07-29T04:41:00.000Z",
+      "title": "The Hundred Men's 2026: Welsh Fire vs Trent Rockets & MI London vs London Spirit Match Predictions | July 29 - Cricket World",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX2NLaTFJSUZuS0lCYnYteWFrWVQ3MU9LbDVtdkhCbEVPelRnanhjY3drbXdCR0tRdHhLeTVaQW83Tm1QRWUxVE5nd0JMZTFTZVd1bkZad2NlWnZHLWZ4dHBaZXRKMnBOLUM1a2RuWEZhQVpwN1ltSk5iQXNHbzJZYkFuZGpZN3pxaUZiWmhkWGY0Vkx0ZEtVOHJZR0FPNmdPcjFmeU1QUGxJa1QtOTNRXzJMclMxQ1FDWFIzZXZsWHc3M1pQNFF3djZCUWNpdUVMRnBGZlBGcXpiUUdVcUs4TnVlZ0c5cloxLVY5eQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX2NLaTFJSUZuS0lCYnYteWFrWVQ3MU9LbDVtdkhCbEVPelRnanhjY3drbXdCR0tRdHhLeTVaQW83Tm1QRWUxVE5nd0JMZTFTZVd1bkZad2NlWnZHLWZ4dHBaZXRKMnBOLUM1a2RuWEZhQVpwN1ltSk5iQXNHbzJZYkFuZGpZN3pxaUZiWmhkWGY0Vkx0ZEtVOHJZR0FPNmdPcjFmeU1QUGxJa1QtOTNRXzJMclMxQ1FDWF",
+      "publishedAt": "2026-07-28T15:26:04.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Jayden Seales' five-for powers West Indies to 90-run win over Pakistan in first Test - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN0toZzA5OXR0ZThzX3pDV05RemFndkxoVENXamxnZ29PY3BZQ3AzTGR1QmxuTXVLUFpyT1kyMW5wRDRxcW90NDI0YmJWZ2RNdFFmQUk4dW96ZklFdENRNjVsZ1RRU2Z4VE53bXBrSHpQZzRKT0J5Z3kxUkdsQ2FVRjJYYl9GNGpVbXl4azExNUFGYkJLcVRPTUIxZ0p3LV9rTmg5WEVQSTVkN3hFR2hQSGNZSjlQdGxTUnJzNEhYWTlnWW9ybDFsYzlla1c3RjRsbExNTjVsdkstcHFoY09YVHRHME9hN2RsX2pRX3JkQVpOOTZ6ZnlWNNIB_gFBVV95cUxNN0RrWHdVOWNVSDEyZVAwaEJTVHA3R0hqYVg3RzBwMllFN0k1RDVnaTNuOWJ4ck5TUm5jT3FScDU1Mkk4cTdIZ0lRcVFUZm41cWdqTEQ3MnhkM3FsQkJWa2NhWWc4a3JTRWN1M2R2Y00ybFBhXzV1OUJycWhmTlMtcTk4LU56RTYyYngwY0VaYTNETFh0QzA0aVFLRklhXzVtbnNrdnQ4dUJ1V3daWGpLblY0T3RFM1VLbTJ2RWdHSVFZTjNTNkM4ZkhiY19EeUxoNllkN2RGLW56UGdDTTlvaWFtb19tdmlJX2JSc1piNEFQbUViYUpzRXZ3ZTBCQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN0toZzA5OXR0ZThzX3pDV05RemFndkxoVENXamxnZ29PY3BZQ3AzTGR1QmxuTXVLUFpyT1kyMW5wRDRxcW90NDI0YmJWZ2RNdFFmQUk4dW96ZklFdENRNjVsZ1RRU2Z4VE53bXBrSHpQZzRKT0J5Z3kxUkdsQ2FVRjJYYl9GNGpVbXl4azExNUFGYkJLcVRPTUIxZ0p3LV9rTmg5WEVQSTVkN3hFR2hQSGNZSjlQdGxTUn",
-      "publishedAt": "2026-07-29T02:04:00.000Z",
+      "title": "The Hundred Women's 2026 points table: Updated standings and net run rate after London derby ends in a tie - Wisden",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT29vNV9SOVFtWERxX3h2ZTlEQm9vOHZCdXdFeWp2ZjQtNkd6NmhLXzl6ekNmMng4SlhEal9DbnNadWZqUGwxbFpvRDVsT0pZaGFIM1NDY084a2Y2WFJfWmZiSEFXRTMtTzB2UUxqSnpaWnVoTUhIVEtWTWlZZUtUNFZzOVBSMmYyLU9jYmVGZzFieEJ4Zm5WeW96WU1ORWl2WlFRLUlnQjNhVWZ0RHlnYmtRSG5jWS1uaDlYNERwd2R1d3RFXy1HS0t1MHpHd09JdGdSYU1yNXB4U1NpRXZXMW81b0VhZUFseEhzNlFOWDZNdWgyTkRRcldFZ1ZIVHM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT29vNV9SOVFtWERxX3h2ZTlEQm9vOHZCdXdFeWp2ZjQtNkd6NmhLXzl6ekNmMng4SlhEal9DbnNadWZqUGwxbFpvRDVsT0pZaGFIM1NDY084a2Y2WFJfWmZiSEFXRTMtTzB2UUxqSnpaWnVoTUhIVEtWTWlZZUtUNFZzOVBSMmYyLU9jYmVGZzFieEJ4Zm5WeW96WU1ORWl2WlFRLUlnQjNhVWZ0RHlnYmtRSG5jWS1uaD",
+      "publishedAt": "2026-07-29T17:42:22.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Zimbabwe's Sikandar Raza surpasses Rohit Sharma, Pakistan's Babar Azam in unwanted T20I record after golden duck vs India - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0dIbmJQbmR0ZGJ0QlJpcnFrS3FCZmJoazNpVkpjNG1WRUkySzh6VHJrd1UzZV8yRUNvV2VnaEZkS2xEbm1fTGhiY2RlSlZzX0tnZFE5a2p4bFRBbk5UX0xkdlJfbkVPM3lpR3RfdE10YU5EMkRmNkNSR3Y2S3BoZDhlLXRfeW9tYmxZTWVfUG9jQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0dIbmJQbmR0ZGJ0QlJpcnFrS3FCZmJoazNpVkpjNG1WRUkySzh6VHJrd1UzZV8yRUNvV2VnaEZkS2xEbm1fTGhiY2RlSlZzX0tnZFE5a2p4bFRBbk5UX0xkdlJfbkVPM3lpR3RfdE10YU5EMkRmNkNSR3Y2S3BoZDhlLXRfeW9tYmxZTWVfUG9jQQ?oc=5\" target=\"_blank\">Zimbabwe's Sikandar Raza surp",
-      "publishedAt": "2026-07-26T19:56:00.000Z",
+      "title": "The Hundred 2026 Eliminator Preview: Which Teams Are Built for Pressure Cricket? - Cricket World",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0lGNGdsbklXRWJ0WEtwZUtsbzBzSllVelgtbDROTTBjdVJna2xHUnNQZE1XeHAwa1ItdE9sRG1Ed1dCd0EyeUx3SzY0R0ZaaThpb21vZVhxQVpSc2NkaF9NNXFZSXoybDlkWnpsU2o0b0tPbUxqNUpIdDAzZF85d2FSbjN6c0JpUUlXQ3Q2c3ItbFdRdXRieTF3bVo2NDhlRVpJY3RJb3Axc3RHUUFyNURoaXBlNEw0TkVv?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0lGNGdsbklXRWJ0WEtwZUtsbzBzSllVelgtbDROTTBjdVJna2xHUnNQZE1XeHAwa1ItdE9sRG1Ed1dCd0EyeUx3SzY0R0ZaaThpb21vZVhxQVpSc2NkaF9NNXFZSXoybDlkWnpsU2o0b0tPbUxqNUpIdDAzZF85d2FSbjN6c0JpUUlXQ3Q2c3ItbFdRdXRieTF3bVo2NDhlRVpJY3RJb3Axc3RHUUFyNURoaXBlNEw0Tk",
+      "publishedAt": "2026-07-27T13:05:23.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar Azam admits Shan Masood's finger fracture catalysed their defeat against West Indies: ‘We definitely missed him’ | Cricket - hindustantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQM2Z2SWtVUWlEOGRROXA4Z2QtUzU2MnR0RlROamNuWVczblBMZV9EOC1BMThGa2E0V0FnRmtFb3lTNENUMlp5STlUaS1PUVZNc0RGTGNoeGdlLTNJVnZTT1VvdXFTWkkxRnA0VTVNaVN3MDlOQXhTNGgzdlFvX3dNcWgzZHJpOFd3RGJrX0p3azdrVDhrOXB2Wmh5NjlMdHlJcU5CR3lmamVBRHJkbl9mODFNMkpoYnhVLWoxcGJBSjdma1ZDOHdlN3hGNEpFMzZBaXVoZ25HWnZsN2huZXl6dVpwODR2eEpuNktxQmlxeEhQNVgxYk1LbVRGbjFzNGRhWDZIT9IBigJBVV95cUxPZzN6YWxUTk9pb0tJQWdiNkh1VzdhTUpXSXFaTTNkUXV5ajV6UEhmWWRSQl9CSG00WWJ2em9JRVBsZVVvUFU2T3dvVEJJVW8zQVpMZTVjREU2eUZBQVlzUmFUSER5SEtZeS1CbV82YnI1RTB4OFdsV0trcDI5VG5tSWlXWmh5RmZ0ZzBnV0MzcGtLU09Mc0JMdUNKLUhSQ2VORkV2cTFteDNkN2dGbjZIcTk4cWpCOGpTQ3FGYmFtYmFUZERmMi1CQXFKb2QxaEphMTBlYnVOVFBQaDF4SFJZcHJrdGNRako5VUpLT242V2x3YkIxeFJDYnFlOUVLYlhaQzJ1eTBZc0RMdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQM2Z2SWtVUWlEOGRROXA4Z2QtUzU2MnR0RlROamNuWVczblBMZV9EOC1BMThGa2E0V0FnRmtFb3lTNENUMlp5STlUaS1PUVZNc0RGTGNoeGdlLTNJVnZTT1VvdXFTWkkxRnA0VTVNaVN3MDlOQXhTNGgzdlFvX3dNcWgzZHJpOFd3RGJrX0p3azdrVDhrOXB2Wmh5NjlMdHlJcU5CR3lmamVBRHJkbl9mODFNMkpoYnhVLW",
-      "publishedAt": "2026-07-29T03:12:08.000Z",
+      "title": "Bad news for Babar Azam's Pakistan after 90-run loss to West Indies in 1st Test, they are… - India.Com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGtRTnhUZDZvRkNkWGNsLUVjSVVSWnV4ZWM2bmR1NWJHZUw5QTRncldoYWdpWk9TSTlCV1Fza0ROSzJpd0dxVVVnblVXNEUtU2ZVcHhoekJ0QS1HSUNfMlF4ZFVkY0RRY2dVS193M1hiLWFCWjVfb1hpdEFpX2ZMc1dOM2JvRnM3VGN2VDBRblhzQi00d2EtendaQ05lalpoS1pETC14VHUybDZsNTlWWTl1RmJsR1FsSzRlb1g5bXdRcFBram9jTjEzVUpfN3dWaVRXdmNLTmZkR2ZZMkdzamx5djExdFBUU3FZV9IB8gFBVV95cUxNd1NkR2NTbnByM0pPSkhXVGV2OU1PYTZ4RVZkXzZXNVpRWkp6UGRMamRiY2JxRXhGWGdvYno3VWdRcGJtZXR4MEZpbWd2XzVSb1FwRFBzZTNBRC0tOUdoeGJIc1JBNkZnaWdTUDE2OHNwOWZIQzlVYk5rTk10ZVFHQ01Vclhvdm92NWFEcS0xUGx1Y1NJTUtFM1diMXNZZFRCNXJScC1nZHhFS2ItazdYcXQtTTBFYnBVM3VQTGhuRmRSV3YtLVZnQVU5MWRyR25xMjR0Y2xHYTlJdk1OSjJVZENmZ2x0Ml8xNlA0X1NmUWxsZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGtRTnhUZDZvRkNkWGNsLUVjSVVSWnV4ZWM2bmR1NWJHZUw5QTRncldoYWdpWk9TSTlCV1Fza0ROSzJpd0dxVVVnblVXNEUtU2ZVcHhoekJ0QS1HSUNfMlF4ZFVkY0RRY2dVS193M1hiLWFCWjVfb1hpdEFpX2ZMc1dOM2JvRnM3VGN2VDBRblhzQi00d2EtendaQ05lalpoS1pETC14VHUybDZsNTlWWTl1RmJsR1FsSz",
+      "publishedAt": "2026-07-29T10:40:37.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar Azam explains how Shan Masood’s injury hurt Pakistan in West Indies defeat - Cricket Country",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYW0wRTJIbXcydnZ1X29TLWgtOU9mMTBHRkVZNGRjeHVENXI3WDMxUTBlWjdQUkJjdnpCWjQwVXlGMEhCWjFjZDRKN2lhbndXMFREVEtIZjVJUGNFc2xUMDBUV3V1emJBVDVHU0lIYmhJb3RnYmZyMS04S3F2UDFzckZiZHNlQ194X0FBT3VYYUVVT3loSy01WlNwd200RXM4QV9Nc0pXLXhTdzlyQUk3aFlYazFPM2ZXRjM2U3c3cXJCUdIBxwFBVV95cUxNTGVlTVY3NHlaVVJUSkpJMWVZR3Z2aS11bDFVTTZNQzN3UDFzZDdpeVg2dGZPRUt3QVhjRVl6MVhaZUlTbmJrNmN6NFphN3Vkb3kwalBneWpYamhwQ1FOTjhHU2lTTVp2eW11M2VWUHVBb2ZZT3VkbnZnR21IT0k4V2czM3E0SWRwMy1hZmpuV3VITmpXQUNKaWhTMmdOT3NVWnkyLVBzQmRNM3dXbnNTbktoeUNCWGZXNi00Xzg3M3R0Q2NaMERZ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYW0wRTJIbXcydnZ1X29TLWgtOU9mMTBHRkVZNGRjeHVENXI3WDMxUTBlWjdQUkJjdnpCWjQwVXlGMEhCWjFjZDRKN2lhbndXMFREVEtIZjVJUGNFc2xUMDBUV3V1emJBVDVHU0lIYmhJb3RnYmZyMS04S3F2UDFzckZiZHNlQ194X0FBT3VYYUVVT3loSy01WlNwd200RXM4QV9Nc0pXLXhTdzlyQUk3aFlYazFPM2ZXRj",
-      "publishedAt": "2026-07-29T08:23:00.000Z",
+      "title": "Babar Azam on Shan Masood's injury in Test loss to West Indies - The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG9nV1c3OUVmSFhma3lDMGtaM2c1OGxyVW5UTUE3Snh5Qk82akRkSmFEZUozNnRwVU4xeVhoRkQ0YmNPVWNhRVRrM3IzQzNsQ2c3cEU1OF9Mb3F2cUIzYUlibVZVd0pJVmEyWWNiWUNfSVJxMk8yWmlORFJtSTIxZEMxT0Y2X0dWcldpX0lRRTdBZ2RSTHI0dnl1UFJyTTNMajVaMmxiRWxndXpET21tdA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG9nV1c3OUVmSFhma3lDMGtaM2c1OGxyVW5UTUE3Snh5Qk82akRkSmFEZUozNnRwVU4xeVhoRkQ0YmNPVWNhRVRrM3IzQzNsQ2c3cEU1OF9Mb3F2cUIzYUlibVZVd0pJVmEyWWNiWUNfSVJxMk8yWmlORFJtSTIxZEMxT0Y2X0dWcldpX0lRRTdBZ2RSTHI0dnl1UFJyTTNMajVaMmxiRWxndXpET21tdA?oc=5\" targe",
+      "publishedAt": "2026-07-29T02:27:33.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Jayden Seales takes 5 wickets as West Indies betas Pakistan by 90 runs in the 1st cricket test - Medicine Hat News",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnhHUTNGRmtqLXZwRzQwWXp5YUhpbjA5aU9fYXg5ZEZLbnpVT3NVQ2huV2NCbGpjUnN5bGd2elBpX05tWnF4WWhPRWxmMkU5cU9oVENPOFdfWjlWYmxENGNFRHVncExuSlR1WTI4X3A1aTFrRjFCV1pFdDA1bllXLTJXdC1HQW5CRFFhcml4dnVReEtkNTl6dndnalVSdGtJQUtEMXJBeWFEMUM2b2VZODc4YmxNQ2NOSEhKU09Rem1HRDV0Wkx1bkxTZ0x2MU5GdTMwU0Vzb25uZWxlRDlwVDBJYUhoTVlscnpFc1FR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnhHUTNGRmtqLXZwRzQwWXp5YUhpbjA5aU9fYXg5ZEZLbnpVT3NVQ2huV2NCbGpjUnN5bGd2elBpX05tWnF4WWhPRWxmMkU5cU9oVENPOFdfWjlWYmxENGNFRHVncExuSlR1WTI4X3A1aTFrRjFCV1pFdDA1bllXLTJXdC1HQW5CRFFhcml4dnVReEtkNTl6dndnalVSdGtJQUtEMXJBeWFEMUM2b2VZODc4YmxNQ2NOSE",
-      "publishedAt": "2026-07-29T00:20:07.000Z",
+      "title": "Babar Azam reveals why Pakistan lost first Test to West Indies - Geo Super",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZER4RW5iV3BOZDlQR3pvNXNnWTF3Qk0xdVJxUkk1YVNEWUUxVEV2WVpYUjZSWmVka2RGbElYdXdIdlgwNTFlLUR6cmxnSWhibkdSU0x0eHBQM0lOTVZLRWc3dW5KVDVIend3Ny1SOEl1bjlCVUlqQkJjOTBuTjcyU0JmUXpiSlhDNXc0YUE1d2xXTkNSM0hEZGxYNW9FRTRK0gGcAUFVX3lxTE9qYXNQWjZwcEhZMjJWTFdlVnpEOVdnUXc4WVFJZEhNZ1hRRExsMzRLSXR5TW5ndktPcXZ2QU5oSkdYUktNdXhqUk9peVlSYzBBZTROM29UbzcyWFhEZ1ExdS1HbmRFdkVVdEx6QnVWa09xb3lOVUFQQkd4WHZ0UUNGX1FtcnNpTGV1RVpybWVzQ2h5MFpESzJ2cHhiZg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZER4RW5iV3BOZDlQR3pvNXNnWTF3Qk0xdVJxUkk1YVNEWUUxVEV2WVpYUjZSWmVka2RGbElYdXdIdlgwNTFlLUR6cmxnSWhibkdSU0x0eHBQM0lOTVZLRWc3dW5KVDVIend3Ny1SOEl1bjlCVUlqQkJjOTBuTjcyU0JmUXpiSlhDNXc0YUE1d2xXTkNSM0hEZGxYNW9FRTRK0gGcAUFVX3lxTE9qYXNQWjZwcEhZMjJWTF",
+      "publishedAt": "2026-07-28T20:48:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Pakistan cricket's Test crisis deepens as Babar Azam's return fails to stop latest batting collapse - Sportstar",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFlpVGZTdDBrb2QwdFVDcGxnWlhQOFJWSXdydzRDN2lFN2xmMjFDR2x4cE1tWTlLZC1ybXhPNElud2Uzc0VIR2NHdkY5dUdBOXJKLVFWVFFoLWM5T1ZDUVowMWRUdEQ3OHFXZmVNZ1djMGw4WDFUZGxPSXNaUlpKRHQ5eHhvTXJNWDhkeGRZcDVQWkNYTThQWTBoLUlWakt5WW00UHYwOFVadG8wNnQ3SG9WVm9faFRLcWtwV29OWGlNdW4zb210RDlQZVE5QdIBzgFBVV95cUxQNFlpVGZTdDBrb2QwdFVDcGxnWlhQOFJWSXdydzRDN2lFN2xmMjFDR2x4cE1tWTlLZC1ybXhPNElud2Uzc0VIR2NHdkY5dUdBOXJKLVFWVFFoLWM5T1ZDUVowMWRUdEQ3OHFXZmVNZ1djMGw4WDFUZGxPSXNaUlpKRHQ5eHhvTXJNWDhkeGRZcDVQWkNYTThQWTBoLUlWakt5WW00UHYwOFVadG8wNnQ3SG9WVm9faFRLcWtwV29OWGlNdW4zb210RDlQZVE5QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFlpVGZTdDBrb2QwdFVDcGxnWlhQOFJWSXdydzRDN2lFN2xmMjFDR2x4cE1tWTlLZC1ybXhPNElud2Uzc0VIR2NHdkY5dUdBOXJKLVFWVFFoLWM5T1ZDUVowMWRUdEQ3OHFXZmVNZ1djMGw4WDFUZGxPSXNaUlpKRHQ5eHhvTXJNWDhkeGRZcDVQWkNYTThQWTBoLUlWakt5WW00UHYwOFVadG8wNnQ3SG9WVm9faFRLcW",
-      "publishedAt": "2026-07-29T11:01:27.000Z",
+      "title": "WATCH: Jayden Seales helps West Indies extend losing streak of Babar Azam's Pakistan to… - India.Com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYnk4ZmdpSkZZOTAwekx4dVJjUzZTd1loQWtjZmxMV1J4SzVmUlBLNXZfOHExZ2hwajFaNlhyc3VoZ2RXbDRKMTJTMExsQmRVUmRsNGxnWTBCVDVPTVpJY0xyMkNWQ1BVWWpBNmJGbEl0aFZiaWY2bkhZQmhVRHE0U19pZFF0Q0JqbHpEYXRaMjdnZGRvQUtTMmpwZllZeWp2b004am1GT0Z0WkQzdXZQOXo2Mm4tck1JLUtJa0gzNlJsWVZxbUdtS3RvdzFmdFBaOVhyUjNLWGNDMDdIV3BMUHlsQ07SAeoBQVVfeXFMTUVLdkxKT3pJeFBaN0o5dVdlUFUwd2hGNk81amtZZTQ1TWJkSl91SmVqSXVzWWRNZm1NOFhKN1lPNTJvcjFuZ1JzSkZTRXpvSk9PWkw4OWdBVThkMjUxN1V5c0YxTExsd2h6TnYzTFBabnNNRW9mcWZhYUtBNDdoYTZoaFN6M2swNURDWkR3V19tcVBqaUF5clUwX0o3dEtVVExzNGo0NDVrZlVfdjRIUUJnaFJsOHFVZW4xcXNzNnRBbW1VX2ljbjVkUjdOeGMtd1pidFktcXVBbkxFdE9FVS00VWtxdzhlb2Rn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYnk4ZmdpSkZZOTAwekx4dVJjUzZTd1loQWtjZmxMV1J4SzVmUlBLNXZfOHExZ2hwajFaNlhyc3VoZ2RXbDRKMTJTMExsQmRVUmRsNGxnWTBCVDVPTVpJY0xyMkNWQ1BVWWpBNmJGbEl0aFZiaWY2bkhZQmhVRHE0U19pZFF0Q0JqbHpEYXRaMjdnZGRvQUtTMmpwZllZeWp2b004am1GT0Z0WkQzdXZQOXo2Mm4tck1JLU",
+      "publishedAt": "2026-07-29T06:35:37.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Mohammad Amir Raises Concerns Over Babar Azam Leading Test Side Again - Tapmad",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWVPTVg1S0tJRnktczc1SU1rNWNRZjU1QndXdEl4M2o1Z3hIS3l2YmUyLWRGNXJGQ2Z1R2hYZ3hQTHZaX1ZIY3dueHprZjhPTi1lRnVkOC05WXNzTGs0UzBpWndoT3Nvc2tVMktoQzJOR25IU1RuNXZjU0V1aVFjTi0zUDFscEtqdFAyMUsweEdHUTVIbEo5VDVsU1RBZnM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWVPTVg1S0tJRnktczc1SU1rNWNRZjU1QndXdEl4M2o1Z3hIS3l2YmUyLWRGNXJGQ2Z1R2hYZ3hQTHZaX1ZIY3dueHprZjhPTi1lRnVkOC05WXNzTGs0UzBpWndoT3Nvc2tVMktoQzJOR25IU1RuNXZjU0V1aVFjTi0zUDFscEtqdFAyMUsweEdHUTVIbEo5VDVsU1RBZnM?oc=5\" target=\"_blank\">Mohammad Ami",
+      "publishedAt": "2026-07-30T09:58:39.000Z",
       "source": {
         "name": "Google News"
       },
@@ -382,20 +362,40 @@
       "urlToImage": null
     },
     {
-      "title": "Babar Azam's return as Pakistan Test captain ends in crushing defeat to West Indies - indiatoday.in",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDd0UXp2ZFhBOV8xbFNqQWt5cHowQUU3S0RDc3BuS0RRNDZEWnhyQlJ1NEdJdFVhbGoyUVdjVlVTYVhhMFFhaENJR1BCOVo4Tm5yczMyelZZVnRjSE5NN2s0UkhwYVk4c01zZHp1MThkMlVYRW5VbmI0b1lyTWo2bEtISDY5ZEpDRGNpOUVDT0l2MEFqajhpR2Y3Ml84QzFERFE3VUZMTWY4WFB2bmg4bkRCbG0tZjFVak43YjRQR21wUdIBxwFBVV95cUxQMnNvOFM2M3lSbTlrVGJYNWdRSUdlNjQ1UllhOU41MTNDcUhhdVRVSWYzbWdHVWpUR09vUGhENS14dDJFcC1CVXY1VHNXX2ZrY1BFcEdvVmpVNGNaeVhvQTZDLXpic1BNZS1zSlc1S2F4amN2MERhRFI0eV8tNGhqMHcwMy1wVHZIY2dXQ3hDcU9CUWFtbXc3X2dRRWd6LUNvNXJITExCOUctYVp3cG51amJfMjBaZ3VHcWRzQ1Z1ZUE1MVd2RWcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDd0UXp2ZFhBOV8xbFNqQWt5cHowQUU3S0RDc3BuS0RRNDZEWnhyQlJ1NEdJdFVhbGoyUVdjVlVTYVhhMFFhaENJR1BCOVo4Tm5yczMyelZZVnRjSE5NN2s0UkhwYVk4c01zZHp1MThkMlVYRW5VbmI0b1lyTWo2bEtISDY5ZEpDRGNpOUVDT0l2MEFqajhpR2Y3Ml84QzFERFE3VUZMTWY4WFB2bmg4bkRCbG0tZjFVak",
-      "publishedAt": "2026-07-28T21:20:04.000Z",
+      "title": "No Shan Masood for Pakistan in the second Test against West Indies after broken finger rules him out | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObkR5V0FGMVRJNUk3akxHcHp5bXIyT1FxbHlkMk44VDZvclJ6U202OE11VzZ5ZHFJdGZ2N3c2N3lWalNZOTRIdGFRWTBzNV9KOGxzYVB0LVl6T0dtRTBCT0xwV3NzLWRQLUdLQXdqb1lsdWdVV1pzLW9rTF9ZalRwTlAwV1Npdnp2XzZqaHpfelJvNWVnMGM3M0tTWGVkQnVsVWxQakwzMV9veEVnclJHcFd3U2ExZzl4RnJRYXFRZUhHYXF1WGt4UjlTTnczLWlfWlNTMWdTQWF1a2VVZTg4dVRLZ21mazlNeGhyVUZVdWEzZ9IB9wFBVV95cUxOU3VGdTd1UGdSVy1CY2I5aUMzVGh3T1lBNFVnOEZZQ3N0WjNYZEpZeXZPRU90eWFsa0FOMUZqaFhybmMwUkRoNmpKRmJyTFJqOFdSVjJXRnZvZDd4YzRvMzhiVEY1UE51QXZiWWtzQ0swczZnYkU5Ti1waVd3STBhellMMWg3UVEtYzdzY3dNNzR3YWpBeXM3SVB3UVlvVUlJVnZqeHdnclFDNWI3T29URXM0X1JYN05aMUM2LThsX1Z0SGtzb2xNTmJtNWM2dXA3Zk9hODhxaW00dzB5dWptcmVYdndIUTVFbXRhVWV0dDlKSlpmVkdB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxObkR5V0FGMVRJNUk3akxHcHp5bXIyT1FxbHlkMk44VDZvclJ6U202OE11VzZ5ZHFJdGZ2N3c2N3lWalNZOTRIdGFRWTBzNV9KOGxzYVB0LVl6T0dtRTBCT0xwV3NzLWRQLUdLQXdqb1lsdWdVV1pzLW9rTF9ZalRwTlAwV1Npdnp2XzZqaHpfelJvNWVnMGM3M0tTWGVkQnVsVWxQakwzMV9veEVnclJHcFd3U2ExZzl4Rn",
+      "publishedAt": "2026-07-31T01:40:28.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar Azam Set PCB A 'Condition' Before Becoming Test Captain, Wanted To Be... - news18.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFhtWHIxTmdjWVhsTlBfbGFod1FWZkNRbHRUd1lUYTdMWTk1eFB1WkJpNHJCX21nM01BLUkyQ0lQbXRocUZWMVA3NF9LWGk2ZFB5djR0ZDBOZGRnTW1rbm1rdkU5N251cWEzWThNd2tERVR6Z2kwSjBaQ29ER19DS2Q0cFlwbE5IT1dvU0x4QTBNeWt1ZTRWRll6U0U0OE52Q0FuYlNNTnM0Vk5kQjhPbW9VY0lxWU8xV1NmNW1Na9IBxAFBVV95cUxQd0FXTC1BYzB1emlQRi1sYTR1ckFoU01LeXJYZHlzdm5NWE9rOVVrUFFHcUtiMGgtTUpldm05dFJmSHBPaVVxR2NuMU55dnRrSjdPVThtZTlBTEtnN0lZX0xMLXJ2UHQ2SGowNTBDSWpxbmlaR2hWcjVKLW5mZGVWRlBxYUhzcUU4LXNFTEJicXN1RnJHaWdZOXNVYkJka3NtRWh0SHR4MlVPVHMtVXJrS3NreDhIRTkyNGpwYTNuSXBTZTZU?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFhtWHIxTmdjWVhsTlBfbGFod1FWZkNRbHRUd1lUYTdMWTk1eFB1WkJpNHJCX21nM01BLUkyQ0lQbXRocUZWMVA3NF9LWGk2ZFB5djR0ZDBOZGRnTW1rbm1rdkU5N251cWEzWThNd2tERVR6Z2kwSjBaQ29ER19DS2Q0cFlwbE5IT1dvU0x4QTBNeWt1ZTRWRll6U0U0OE52Q0FuYlNNTnM0Vk5kQjhPbW9VY0lxWU8xV1",
-      "publishedAt": "2026-07-28T10:11:02.000Z",
+      "title": "Babar Azam's unbeaten 58 in vain as Pakistan lose first Test by 90 runs - Pakistan Cricket Board (PCB)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3dFRDV3V2YyNjhpRzhxUG9yRElUQnBjUW8wckxvemdITjB1QjNfd3pTU2g1TGpnMldpeEkyZE1nNHpFOC0zbGdXcXg2Z1ZaMWRqb1c3WTZnTGtZUDR1VzZVZGhpUVJfaXJUb1hMaTJTSUxnS2tlams4a2UzSEdKeDFkWjkxUXVROC1RUkdfdEVHUVkxZTgxSDBPeks0WVRLckNGV1RBbWQ4eHVVLUN5Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3dFRDV3V2YyNjhpRzhxUG9yRElUQnBjUW8wckxvemdITjB1QjNfd3pTU2g1TGpnMldpeEkyZE1nNHpFOC0zbGdXcXg2Z1ZaMWRqb1c3WTZnTGtZUDR1VzZVZGhpUVJfaXJUb1hMaTJTSUxnS2tlams4a2UzSEdKeDFkWjkxUXVROC1RUkdfdEVHUVkxZTgxSDBPeks0WVRLckNGV1RBbWQ4eHVVLUN5Zw?oc=5\" targe",
+      "publishedAt": "2026-07-29T04:50:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "The Scoop: Mohammad Amir on Pakistan’s biggest issues, Babar as captain, advice to Shaheen & life after scandal - Wisden",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGI1QmNKRFBCcEdsZmJkaUttMVpGLTNMVlEwZUVQdkZkVE5KSFR3YTNJTXpKUVlEaEV1SjhaZXJkUWM2RmZ5ZVFhY2JiX01RcVdCWUVLVFk4akxGUjMtNXpCczBkNEdMeWJmWVVjV1RKUUh6N3pFTHpYMmduaVdxd05ieGZtQzM2WFhaVkJwZDBBTndROW5TOXRfdnYyak9hRjZZcUxQaktHbHlCS0RwOFBB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONGI1QmNKRFBCcEdsZmJkaUttMVpGLTNMVlEwZUVQdkZkVE5KSFR3YTNJTXpKUVlEaEV1SjhaZXJkUWM2RmZ5ZVFhY2JiX01RcVdCWUVLVFk4akxGUjMtNXpCczBkNEdMeWJmWVVjV1RKUUh6N3pFTHpYMmduaVdxd05ieGZtQzM2WFhaVkJwZDBBTndROW5TOXRfdnYyak9hRjZZcUxQaktHbHlCS0RwOFBB?oc=5\" tar",
+      "publishedAt": "2026-07-28T15:49:31.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "WATCH: Babar Azam fails with bat after 1097 day break as Pakistan captain, falls for... - India.Com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFY1bTBMck43R1Q0SHVjbnZ3MXgtXzFrZmxXcDhkdnUyQUJlZGNqX3prMjRKdDg0Q1loSGd6WDFncU9ka0lsUXVmZnl6clE1WExqamFhbTktNkVsVTlIZnQybHc0ZG0yckl2dFU2bnVQcWozc0dRUklNdzZMMVdIWVdpTTFBV1QzcHMzbkxldnE3ZFp1QkZUZHJzTVNKY3lkVEFQTWdENEJ6b0FyV2Y2c3l5V2lJUnpmT2N5RjUyOEpielc3OG1wUnNOcG50SEVWYkw3b9IB2gFBVV95cUxQZXBqNzNhb0NWaHcwalM2U2dCOEhFbVBXc21FS3IyY1NldzhRaEtiQ01BbVJiV1FJRGZHSk03YnBiNE9GY2tKRHZzR2w1b1piY0dMdU9oQ1JnMDdoTGFlTnZOeTBYYmpDcHhKeVdwejk1eGx4UDhZS09aSUgyTnIzeHR2NEUwX01CWWhZUmV5UmZYUzNNSDF2LUFULUFaMjNXNW5uRGRRSGo1Y1ZRSUlVNWx5cEtSLUlMbk0wX0J4c2hqTk1zSmd0Ui1IM0JhT0NQdDJRWVN6dm1sUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFY1bTBMck43R1Q0SHVjbnZ3MXgtXzFrZmxXcDhkdnUyQUJlZGNqX3prMjRKdDg0Q1loSGd6WDFncU9ka0lsUXVmZnl6clE1WExqamFhbTktNkVsVTlIZnQybHc0ZG0yckl2dFU2bnVQcWozc0dRUklNdzZMMVdIWVdpTTFBV1QzcHMzbkxldnE3ZFp1QkZUZHJzTVNKY3lkVEFQTWdENEJ6b0FyV2Y2c3l5V2lJUnpmT2",
+      "publishedAt": "2026-07-27T09:23:21.000Z",
       "source": {
         "name": "Google News"
       },
@@ -414,30 +414,10 @@
       "urlToImage": null
     },
     {
-      "title": "Pakistan - Culture, Cuisine, Traditions - Encyclopedia Britannica",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14dWpNWmx3RGs1Y2pVUkJ4Szkzd1BDUHFFZHNnVnhfV3k2RnBMMVhiU3pDTEVGSy03R1JndHdEYVpfNmtOcDFMT3hTRmh4S3ZmVktONTJJdHVLMU9aTjdLemZfd3k5aUFxN0RaX0tGdU4zc3g4cHR6ZGgycw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE14dWpNWmx3RGs1Y2pVUkJ4Szkzd1BDUHFFZHNnVnhfV3k2RnBMMVhiU3pDTEVGSy03R1JndHdEYVpfNmtOcDFMT3hTRmh4S3ZmVktONTJJdHVLMU9aTjdLemZfd3k5aUFxN0RaX0tGdU4zc3g4cHR6ZGgycw?oc=5\" target=\"_blank\">Pakistan - Culture, Cuisine, Traditions</a>&nbsp;&nbsp;<font ",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Cricket thrives in South Florida as Caribbean families pass the game to a new generation - NBC 6 South Florida",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVlpVHlrNi1yN3U5WE9GTlhwYU1RblJxX29CWTVLeThmTkJ4QUZWUTRHT1psVmU1UUFoWThBVUtDaW44ZG5GY0FBNVhRcmlXajQ2WVItcEl1R2pBV1dfcG5JMzJrVTM2ODg2QVlsSmE2SDVjQW1jOHQwRl85c2toWmVhQmpFTlQ1SGdvNnBROGdobnV3VENvTlRqTnJBUHJoRUFuZFpDN2d6Y3R4SldEWmU1ZUNSV3FuWU9oeS1ESWlfVmpxcUlHOFdaOGswZ9IB1gFBVV95cUxNSjdaSGo5MGVfbG1vbk9GWnRXbHRvNGhMc0h2ZkZITk5JYUIzWWQ3R2o1enYwZVExQnprTUVmendrc09TSjBKUTBaaXMwNTlhakZuYzFjenI4LTRHd0ppcm5mR1d5N3I3MkwwYi1MaXFVS285eXlqbU50OWpxYnl5TTQwS3ZVZzZCc2RKcGZ2MTk2TU5qUEd3b05uLU9sR0dMZ0VTWEhQdGZjaWJWd1lrbFlsVDZGUFpHWlYwUDFDRkhpX2MxejV5bEx5ZnVPdEE5aFhuc0J3?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVlpVHlrNi1yN3U5WE9GTlhwYU1RblJxX29CWTVLeThmTkJ4QUZWUTRHT1psVmU1UUFoWThBVUtDaW44ZG5GY0FBNVhRcmlXajQ2WVItcEl1R2pBV1dfcG5JMzJrVTM2ODg2QVlsSmE2SDVjQW1jOHQwRl85c2toWmVhQmpFTlQ1SGdvNnBROGdobnV3VENvTlRqTnJBUHJoRUFuZFpDN2d6Y3R4SldEWmU1ZUNSV3FuWU",
       "publishedAt": "2026-07-01T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rahul Dravid says European T20 Premier League will boost local cricket talent - Telangana Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVlqTXlFUUR3ZXY0WlQxOS1xM0J6OUFyZkNaMy1SVzVMTmVPSk42Z1Z0Y09odVV1d0s5MmppYWo5NnduSElITF9NMnQyMzJKMkhlemJOaERfSlh5RElYekZZRy0yMHdtSThidXp5Z2pzUGRsQkRINWlLMDNEUmx4Nl9HWEpLbTE5YXF5OXdTaDVBZ3pnZWZCVG1LMGNfMUFqdnBydkVVcGZjcmx0elNv?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVlqTXlFUUR3ZXY0WlQxOS1xM0J6OUFyZkNaMy1SVzVMTmVPSk42Z1Z0Y09odVV1d0s5MmppYWo5NnduSElITF9NMnQyMzJKMkhlemJOaERfSlh5RElYekZZRy0yMHdtSThidXp5Z2pzUGRsQkRINWlLMDNEUmx4Nl9HWEpLbTE5YXF5OXdTaDVBZ3pnZWZCVG1LMGNfMUFqdnBydkVVcGZjcmx0elNv?oc=5\" target=",
-      "publishedAt": "2026-07-27T09:25:56.000Z",
       "source": {
         "name": "Google News"
       },
@@ -454,9 +434,19 @@
       "urlToImage": null
     },
     {
-      "title": "AlUla revives ancient stargazing traditions through cultural tourism - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBORzdwOERkeHBjUWJReVNyeTlrRFZmTk9aUHUtbEVBSHZrVzdMMUJPWmxZYVkwdENnYnExdmlrRXFEQ2UxTzVFVzNEM0lla1hLTlhmSkFCQ05XSi1UQWc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBORzdwOERkeHBjUWJReVNyeTlrRFZmTk9aUHUtbEVBSHZrVzdMMUJPWmxZYVkwdENnYnExdmlrRXFEQ2UxTzVFVzNEM0lla1hLTlhmSkFCQ05XSi1UQWc?oc=5\" target=\"_blank\">AlUla revives ancient stargazing traditions through cultural tourism</a>&nbsp;&nbsp;<font color=\"#6f",
+      "title": "Rahul Dravid says European T20 Premier League will boost local cricket talent - Telangana Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVlqTXlFUUR3ZXY0WlQxOS1xM0J6OUFyZkNaMy1SVzVMTmVPSk42Z1Z0Y09odVV1d0s5MmppYWo5NnduSElITF9NMnQyMzJKMkhlemJOaERfSlh5RElYekZZRy0yMHdtSThidXp5Z2pzUGRsQkRINWlLMDNEUmx4Nl9HWEpLbTE5YXF5OXdTaDVBZ3pnZWZCVG1LMGNfMUFqdnBydkVVcGZjcmx0elNv?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVlqTXlFUUR3ZXY0WlQxOS1xM0J6OUFyZkNaMy1SVzVMTmVPSk42Z1Z0Y09odVV1d0s5MmppYWo5NnduSElITF9NMnQyMzJKMkhlemJOaERfSlh5RElYekZZRy0yMHdtSThidXp5Z2pzUGRsQkRINWlLMDNEUmx4Nl9HWEpLbTE5YXF5OXdTaDVBZ3pnZWZCVG1LMGNfMUFqdnBydkVVcGZjcmx0elNv?oc=5\" target=",
+      "publishedAt": "2026-07-27T09:25:56.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "AlUla revives ancient stargazing traditions through cultural tourism - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWnBhaUtocUVnX0NKTjJvY3RfeFNrS3BJaUdUMFloVWRJaGlWdmFLTzdYZ3JVRTZjZkpGbko1V3ZQVV9WQTA4ck5RcFVsZjFualZuRVZIWmpibDdpcEJJ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWnBhaUtocUVnX0NKTjJvY3RfeFNrS3BJaUdUMFloVWRJaGlWdmFLTzdYZ3JVRTZjZkpGbko1V3ZQVV9WQTA4ck5RcFVsZjFualZuRVZIWmpibDdpcEJJ?oc=5\" target=\"_blank\">AlUla revives ancient stargazing traditions through cultural tourism</a>&nbsp;&nbsp;<font color=\"#6",
       "publishedAt": "2026-07-27T12:39:16.000Z",
       "source": {
         "name": "Google News"
@@ -484,17 +474,17 @@
       "urlToImage": null
     },
     {
-      "title": "ETPL in a region with rich tradition is a great opportunity for local talent: Dravid - The Hans India",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW9kYnZnclU3UjFMajlTUVdmclk3MXByR2tJSnVWVVFOaHRmaVNJeGRlck9kWkFpRjBaV0JSeWVja3NJbzBSemxDOUJLOHBRanp0b3l3TUVxZEFSLTBtcmV5MFplZVFNXzhLZWwyNk0xVzhzWEY3Zk96TUo3TkhmbUYxZTRoNHFGcS1YNkhOOFo5SVI2WlA3VW54U2JzaHJPRnoxLXNSbEJWVmFPdnkwRjlHcnBZcktTNEhhcUJ4OU4xVjVKaktBeDlfbVljT3dU0gHWAUFVX3lxTFAtREE2T0k3WUZVWjB2TEpQd3FDR05BREhPaDdqMVNVZmlmZldsMFhBcE5wYXhLaWhqQnJHa09IakltQ1ViZUlMcjJOTGRKWTJVb192dVdtd01Qbzdad2lFSnFnOE05R1F1TldRSHBuMmNVODN1aHpENGlFa0hQU2ltcDI4VlowajA5bjZvVmoxY1FzZzkwdmk1dUxfR0xNRTJfRUlyX3JQQ05MTV93alE0MGFFVzhJOUxkdFBqSGVBdVk1aXVRMzZxdWNhYVppYi03VmlUb0E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW9kYnZnclU3UjFMajlTUVdmclk3MXByR2tJSnVWVVFOaHRmaVNJeGRlck9kWkFpRjBaV0JSeWVja3NJbzBSemxDOUJLOHBRanp0b3l3TUVxZEFSLTBtcmV5MFplZVFNXzhLZWwyNk0xVzhzWEY3Zk96TUo3TkhmbUYxZTRoNHFGcS1YNkhOOFo5SVI2WlA3VW54U2JzaHJPRnoxLXNSbEJWVmFPdnkwRjlHcnBZcktTNE",
-      "publishedAt": "2026-07-27T09:01:30.000Z",
+      "title": "Preserving Tribal Knowledge Traditions Need Of The Hour, Say Experts At Mumbai University Conference - Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVl6Tng0dzlYQlhKS1Z0QnZybTBRTXRHRW5SNUFMWm9wM1lieXZaNFBIcmozMi1KRm14QXRXZUN1ME1nZWpTblJwUmtCdXVaZDV4X3NNRUU5NWRxRVpaVXNQVHdyTjNKTUxzTkVFVDBYcThvWDBXVUdZUWZvMll0MVZVTjlQSDFSZEdzNXF3UGFEZmVlY2JmZUh4NWhicGFiZkx5UFNPb2VvNDgtYWJUZlNxY3BmUV8tUl82anI2eF90V0Y4WThQQjYyZm5XNUxoS0lWWm41MFPSAd4BQVVfeXFMT0dEdzJKeFFJd25sR3BVQ0gwODNaVV9JcnpvalRyT2xtUHVBdEtUVEg3c3g5b3I3ZFRocVpleEJaXzVCcW1mMnh0aThSbnRGUnZtc3F4UGgxS0gzcFE2TzlEemFPbm9aTzEyd1pmWEh3VHF0SHhUM1VtQ1BZSFhnaTI1Y2hUd2x5WUZCcjJiZVowQzhUQmFnSXR3MUhCYkt6M3ZKdTIzUEl2Y1M4aGdKX0tNYUhBSFhGY1FwV2ZyNTdLRVRBaGJnSlRhV1dRRlc4dW02cHhJWXdBX0UxOElR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVl6Tng0dzlYQlhKS1Z0QnZybTBRTXRHRW5SNUFMWm9wM1lieXZaNFBIcmozMi1KRm14QXRXZUN1ME1nZWpTblJwUmtCdXVaZDV4X3NNRUU5NWRxRVpaVXNQVHdyTjNKTUxzTkVFVDBYcThvWDBXVUdZUWZvMll0MVZVTjlQSDFSZEdzNXF3UGFEZmVlY2JmZUh4NWhicGFiZkx5UFNPb2VvNDgtYWJUZlNxY3BmUV8tUl",
+      "publishedAt": "2026-07-30T14:21:10.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Chhattisgarh News: Bastar's Tribal Heritage Shines at Rashtrapati Bhavan as President Droupadi Murmu Personally Serves Lunch to Delegation - oneindia.com",
+      "title": "Chhattisgarh News: Bastar's Tribal Heritage Shines at Rashtrapati Bhavan as President Droupadi Murmu Personally Serves Lunch to Delegation - Oneindia",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkJmcXkxZFhKV25NczZTMGRmX094Vjk1T1AxVVRyQXZRSVhvcFFBeGFmVGdrRzBJM3hiaFFCZGJsMTBhZmhEaTRwOUtha2Fya3A5eVFyLUFqQUs3dHlGdVd6bUprQmg1RFd0WFFwcE10NFBIa0ZjOXJOT05yUzFqR3FKSTNmZkpaWExZZ0lDUjZXd2x6anfSAaABQVVfeXFMUFR3WnZybS02Y0pMQXBpRHF4ZDE4cWNFdUxLUzZjdkgydUtnU0JLZ3VuaDlUQ2xoR205QktQREstc1dESGRTd3JzUFV5ZFFKY2pWNUk4RUtsa0xhODBmZXFWbndDYmRvcjZOdWhsSkRrWlZZNnVsa0FqV205bWFFZkNKdlBRVURfLUZFNnh2X0YzLWFISVhKdm5aSmJIR1duZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkJmcXkxZFhKV25NczZTMGRmX094Vjk1T1AxVVRyQXZRSVhvcFFBeGFmVGdrRzBJM3hiaFFCZGJsMTBhZmhEaTRwOUtha2Fya3A5eVFyLUFqQUs3dHlGdVd6bUprQmg1RFd0WFFwcE10NFBIa0ZjOXJOT05yUzFqR3FKSTNmZkpaWExZZ0lDUjZXd2x6anfSAaABQVVfeXFMUFR3WnZybS02Y0pMQXBpRHF4ZDE4cWNFdU",
       "publishedAt": "2026-07-30T14:08:33.000Z",
@@ -534,30 +524,10 @@
       "urlToImage": null
     },
     {
-      "title": "Football - Rules, Positions, Tactics - Encyclopedia Britannica",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGNGVGh3TWxXdFVWazVPZFJLUkc0bDJCVmhUSkVRaFY4RUhXajh6VnhjX251UUtFTFZydkJmVkdXeHpIa1A5OVdSRGVtcDl3M3g4ZkZ4M1NMRGxXVGdXVDhsbDFnaWE5bGI1S0dXSjhBRGRL?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGNGVGh3TWxXdFVWazVPZFJLUkc0bDJCVmhUSkVRaFY4RUhXajh6VnhjX251UUtFTFZydkJmVkdXeHpIa1A5OVdSRGVtcDl3M3g4ZkZ4M1NMRGxXVGdXVDhsbDFnaWE5bGI1S0dXSjhBRGRL?oc=5\" target=\"_blank\">Football - Rules, Positions, Tactics</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts - Encyclopedia Britannica",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5\" target=\"_blank\">Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts</a>&nbsp;&nbsp;<font col",
       "publishedAt": "2026-07-20T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "National Football League (NFL) | History, Teams, & Facts - Encyclopedia Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZ0o3T0hnWjR3RzJrM3NkR29sb0ZBSklYNnc2bjMxYUJvNlBOQ3dwSDgxZjc3U3BRc1A5cXEtTjZhUVNBbEJWRDlVa2ExR1MwN1pTYUJ1SWozZ0lhSmNCeDBRSUxHOG45?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZ0o3T0hnWjR3RzJrM3NkR29sb0ZBSklYNnc2bjMxYUJvNlBOQ3dwSDgxZjc3U3BRc1A5cXEtTjZhUVNBbEJWRDlVa2ExR1MwN1pTYUJ1SWozZ0lhSmNCeDBRSUxHOG45?oc=5\" target=\"_blank\">National Football League (NFL) | History, Teams, & Facts</a>&nbsp;&nbsp;<font color=\"#6",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
       "source": {
         "name": "Google News"
       },
