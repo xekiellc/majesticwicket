@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T16:03:09.691Z",
+  "lastUpdated": "2026-07-31T21:09:24.450Z",
   "recentMatches": [
     {
       "id": "f0a96a04-5541-43d6-b8a8-fecd720eb207",
       "name": "Central Delhi Kings vs Purani Dilli 6, 1st Match, Delhi Premier League 2026",
       "matchType": "t20",
-      "status": "Central Delhi Kings opt to bowl",
+      "status": "Central Delhi Kings won by 4 wkts",
       "venue": "Arun Jaitley Stadium, Delhi",
       "date": "2026-07-31",
       "dateTimeGMT": "2026-07-31T15:30:00",
@@ -27,18 +27,24 @@
       ],
       "score": [
         {
-          "r": 12,
-          "w": 0,
-          "o": 1.2,
+          "r": 202,
+          "w": 4,
+          "o": 20,
           "inning": "Purani Dilli 6 Inning 1"
+        },
+        {
+          "r": 204,
+          "w": 6,
+          "o": 19.1,
+          "inning": "Central Delhi Kings Inning 1"
         }
       ],
       "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "32894cba-b94e-48c7-ba75-bdadd487d0d6",
@@ -434,90 +440,6 @@
       "matchEnded": true
     },
     {
-      "id": "278a67eb-76f6-4881-aa6b-f164cffb6a90",
-      "name": "Namibia Women vs Uganda Women, 10th Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Namibia Women won by 6 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T12:00:00",
-      "teams": [
-        "Namibia Women",
-        "Uganda Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia Women",
-          "shortname": "NAMW",
-          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
-        },
-        {
-          "name": "Uganda Women",
-          "shortname": "UGAW",
-          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 147,
-          "w": 4,
-          "o": 20,
-          "inning": "Uganda Women Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 4,
-          "o": 18.5,
-          "inning": "Namibia Women Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d8418e67-7eb7-4502-8977-52956fbd1358",
-      "name": "Hong Kong, China Women vs Tanzania Women, 9th Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China Women won by 9 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T07:30:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 135,
-          "w": 5,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 1,
-          "o": 18.3,
-          "inning": " Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "7b700e72-960d-4a59-a7f5-d0d15041ada0",
       "name": "Argentina Women vs Canada Women, 2nd T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
@@ -783,6 +705,51 @@
       "matchEnded": true
     },
     {
+      "id": "ede746bf-4ecf-49bc-a0a1-81970b8c70dc",
+      "name": "Manchester Super Giants vs Trent Rockets, 14th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets won by 6 wkts",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T17:30:00",
+      "teams": [
+        "Manchester Super Giants",
+        "Trent Rockets"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants",
+          "shortname": "MSG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trent Rockets",
+          "shortname": "TRE",
+          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 3,
+          "o": 100,
+          "inning": "Manchester Super Giants Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 4,
+          "o": 87,
+          "inning": "Trent Rockets Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "11eb333a-a67d-481c-958c-ac29c1e7341b",
       "name": "Southern Brave vs Birmingham Phoenix, 13th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
@@ -963,55 +930,10 @@
       "matchEnded": true
     },
     {
-      "id": "52c82f7d-e2f3-4c38-a5af-537f8ed1109b",
-      "name": "Southern Brave vs MI London, 9th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "MI London won by 3 wkts",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T17:30:00",
-      "teams": [
-        "Southern Brave",
-        "MI London"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi London",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 9,
-          "o": 100,
-          "inning": "Southern Brave Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 7,
-          "o": 100,
-          "inning": "MI London Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "edf09271-4135-4a74-86aa-79e51405ad98",
       "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Namibia need 24 runs in 92 balls",
+      "status": "Namibia won by 6 wkts",
       "venue": "Sportpark Maarschalkerweerd, Utrecht",
       "date": "2026-07-31",
       "dateTimeGMT": "2026-07-31T00:00:00",
@@ -1039,9 +961,9 @@
           "inning": "netherlands Inning 1"
         },
         {
-          "r": 160,
-          "w": 2,
-          "o": 34.4,
+          "r": 186,
+          "w": 4,
+          "o": 41,
           "inning": "Netherlands,Namibia Inning 1"
         }
       ],
@@ -1050,7 +972,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8019a8b4-6270-484d-8e62-b601cd7bb263",
@@ -1094,6 +1016,96 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7fb87026-4c9f-4dda-82d4-c0b7b4265030",
+      "name": "Manchester Super Giants Women vs Trent Rockets Women, 14th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets Women won by 31 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T14:00:00",
+      "teams": [
+        "Manchester Super Giants Women",
+        "Trent Rockets Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants Women",
+          "shortname": "MSGW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 8,
+          "o": 100,
+          "inning": "Trent Rockets Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 10,
+          "o": 93,
+          "inning": "Manchester Super Giants Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "78ac0385-a541-47a5-a04f-7bac853acea6",
+      "name": "Southern Brave Women vs Birmingham Phoenix Women, 13th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women won by 24 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T14:00:00",
+      "teams": [
+        "Southern Brave Women",
+        "Birmingham Phoenix Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 3,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 5,
+          "o": 100,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
@@ -1396,6 +1408,14 @@
     "endDate": "Aug 16",
     "standings": [
       {
+        "team": "Trent Rockets",
+        "played": 4,
+        "won": 3,
+        "lost": 1,
+        "nr": 0,
+        "points": 6
+      },
+      {
         "team": "MI London",
         "played": 4,
         "won": 2,
@@ -1412,18 +1432,10 @@
         "points": 4
       },
       {
-        "team": "Trent Rockets",
-        "played": 3,
-        "won": 2,
-        "lost": 1,
-        "nr": 0,
-        "points": 4
-      },
-      {
         "team": "Manchester Super Giants",
-        "played": 3,
+        "played": 4,
         "won": 2,
-        "lost": 1,
+        "lost": 2,
         "nr": 0,
         "points": 4
       },
