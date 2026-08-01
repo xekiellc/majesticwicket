@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-08-01T05:32:01.757Z",
+  "lastUpdated": "2026-08-01T09:46:47.514Z",
   "recentMatches": [
+    {
+      "id": "29afe24f-1bca-40da-9161-9f1463a4a0b8",
+      "name": "South Delhi Superstarz vs East Delhi Riders, 2nd Match, Delhi Premier League 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T08:00:00",
+      "teams": [
+        "South Delhi Superstarz",
+        "East Delhi Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "East Delhi Riders",
+          "shortname": "EDR",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "South Delhi Superstarz",
+          "shortname": "SDS",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 10,
+          "o": 18.1,
+          "inning": "East Delhi Riders Inning 1"
+        }
+      ],
+      "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "f0a96a04-5541-43d6-b8a8-fecd720eb207",
       "name": "Central Delhi Kings vs Purani Dilli 6, 1st Match, Delhi Premier League 2026",
@@ -1055,51 +1094,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7fb87026-4c9f-4dda-82d4-c0b7b4265030",
-      "name": "Manchester Super Giants Women vs Trent Rockets Women, 14th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 31 runs",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-07-31",
-      "dateTimeGMT": "2026-07-31T14:00:00",
-      "teams": [
-        "Manchester Super Giants Women",
-        "Trent Rockets Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manchester Super Giants Women",
-          "shortname": "MSGW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 153,
-          "w": 8,
-          "o": 100,
-          "inning": "Trent Rockets Women Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 10,
-          "o": 93,
-          "inning": "Manchester Super Giants Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
