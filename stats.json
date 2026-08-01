@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-01T15:04:56.645Z",
+  "lastUpdated": "2026-08-01T20:57:43.957Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
       "name": "West Delhi Lions vs New Delhi Tigers, 3rd Match, Delhi Premier League 2026",
       "matchType": "t20",
-      "status": "New Delhi Tigers opt to bowl",
+      "status": "West Delhi Lions won by 19 runs",
       "venue": "Arun Jaitley Stadium, Delhi",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T13:30:00",
@@ -27,10 +27,16 @@
       ],
       "score": [
         {
-          "r": 127,
-          "w": 3,
-          "o": 16.3,
+          "r": 170,
+          "w": 5,
+          "o": 20,
           "inning": "West Delhi Lions Inning 1"
+        },
+        {
+          "r": 151,
+          "w": 10,
+          "o": 20,
+          "inning": "New Delhi Tigers Inning 1"
         }
       ],
       "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
@@ -38,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "29afe24f-1bca-40da-9161-9f1463a4a0b8",
@@ -479,49 +485,35 @@
       "matchEnded": false
     },
     {
-      "id": "2ede8246-e8e5-414b-98ac-72ae89232467",
-      "name": "Namibia Women vs Hong Kong, China Women, 11th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "id": "a623b1b3-5e13-4179-a543-6427859f4c7d",
+      "name": "Argentina Women vs Canada Women, 4th T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Namibia Women won by 8 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T07:30:00",
+      "status": "Canada Women opt to bowl",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T13:00:00",
       "teams": [
-        "Namibia Women",
-        "Hong Kong"
+        "Argentina Women",
+        "Canada Women"
       ],
       "teamInfo": [
         {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
         },
         {
-          "name": "Namibia Women",
-          "shortname": "NAMW",
-          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+          "name": "Canada Women",
+          "shortname": "CW",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 120,
-          "w": 6,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 2,
-          "o": 13.4,
-          "inning": "Namibia Women Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
+      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
       "id": "87ba3a88-7349-413d-8d79-1735b523a128",
@@ -656,7 +648,7 @@
       "id": "5b462897-fc61-4c15-9631-1a0bab23794a",
       "name": "Colombo Kaps vs Galle Gallants, 19th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Colombo Kaps opt to bowl",
+      "status": "Galle Gallants won by 13 runs",
       "venue": "Pallekele International Cricket Stadium, Pallekele",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T14:00:00",
@@ -676,10 +668,16 @@
       ],
       "score": [
         {
-          "r": 102,
-          "w": 3,
-          "o": 10.2,
+          "r": 201,
+          "w": 6,
+          "o": 20,
           "inning": "Galle Gallants Inning 1"
+        },
+        {
+          "r": 188,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Colombo Kaps Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -687,7 +685,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "15c37be4-3337-4a9c-9986-0c07e6b57a88",
@@ -821,43 +819,44 @@
       "matchEnded": true
     },
     {
-      "id": "9d937fde-f5b9-4ca1-8050-f3db3e39a1e6",
-      "name": "Colombo Kaps vs Jaffna Kings, 15th Match, Lanka Premier League 2026",
+      "id": "935d6136-990c-4a95-85a9-726fe8d60b6b",
+      "name": "London Spirit vs Southern Brave, 16th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Jaffna Kings won by 19 runs",
-      "venue": "Pallekele International Cricket Stadium, Pallekele",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T14:00:00",
+      "status": "Southern Brave won by 5 wkts",
+      "venue": "Lord's, London",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T17:00:00",
       "teams": [
-        "Colombo Kaps",
-        "Jaffna Kings"
+        "London Spirit",
+        "Southern Brave"
       ],
       "teamInfo": [
         {
-          "name": "Colombo Kaps",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "London Spirit",
+          "shortname": "LDN",
+          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
         },
         {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+          "name": "Southern Brave",
+          "shortname": "SOU",
+          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 202,
-          "w": 5,
-          "o": 20,
-          "inning": "Jaffna Kings Inning 1"
+          "r": 105,
+          "w": 10,
+          "o": 92,
+          "inning": "London Spirit Inning 1"
         },
         {
-          "r": 183,
-          "w": 9,
-          "o": 20,
-          "inning": "Colombo Kaps Inning 1"
+          "r": 111,
+          "w": 5,
+          "o": 97,
+          "inning": "Southern Brave Inning 1"
         }
       ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -868,7 +867,7 @@
       "id": "9234d9c7-c91a-4158-9fe2-642771a04cb1",
       "name": "Birmingham Phoenix vs Welsh Fire, 15th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Welsh Fire won by 7 wkts",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T13:30:00",
@@ -894,6 +893,12 @@
           "w": 9,
           "o": 100,
           "inning": "birmingham phoenix Inning 1"
+        },
+        {
+          "r": 138,
+          "w": 3,
+          "o": 96,
+          "inning": "Birmingham Phoenix,Welsh Fire Inning 1"
         }
       ],
       "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
@@ -901,7 +906,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "ede746bf-4ecf-49bc-a0a1-81970b8c70dc",
@@ -1390,6 +1395,14 @@
         "points": 6
       },
       {
+        "team": "Welsh Fire",
+        "played": 4,
+        "won": 3,
+        "lost": 1,
+        "nr": 0,
+        "points": 6
+      },
+      {
         "team": "MI London",
         "played": 4,
         "won": 2,
@@ -1406,6 +1419,14 @@
         "points": 4
       },
       {
+        "team": "Southern Brave",
+        "played": 5,
+        "won": 2,
+        "lost": 3,
+        "nr": 0,
+        "points": 4
+      },
+      {
         "team": "Manchester Super Giants",
         "played": 4,
         "won": 2,
@@ -1414,15 +1435,7 @@
         "points": 4
       },
       {
-        "team": "Welsh Fire",
-        "played": 3,
-        "won": 2,
-        "lost": 1,
-        "nr": 0,
-        "points": 4
-      },
-      {
-        "team": "Southern Brave",
+        "team": "Birmingham Phoenix",
         "played": 4,
         "won": 1,
         "lost": 3,
@@ -1430,18 +1443,10 @@
         "points": 2
       },
       {
-        "team": "Birmingham Phoenix",
-        "played": 3,
-        "won": 1,
-        "lost": 2,
-        "nr": 0,
-        "points": 2
-      },
-      {
         "team": "London Spirit",
-        "played": 3,
+        "played": 4,
         "won": 1,
-        "lost": 2,
+        "lost": 3,
         "nr": 0,
         "points": 2
       }
