@@ -1,11 +1,50 @@
 {
-  "lastUpdated": "2026-08-01T09:46:47.514Z",
+  "lastUpdated": "2026-08-01T15:04:56.645Z",
   "recentMatches": [
+    {
+      "id": "ac956620-023b-4430-8f78-1877951a44d7",
+      "name": "West Delhi Lions vs New Delhi Tigers, 3rd Match, Delhi Premier League 2026",
+      "matchType": "t20",
+      "status": "New Delhi Tigers opt to bowl",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T13:30:00",
+      "teams": [
+        "West Delhi Lions",
+        "New Delhi Tigers"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Delhi Tigers",
+          "shortname": "NDT",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "West Delhi Lions",
+          "shortname": "WDL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 3,
+          "o": 16.3,
+          "inning": "West Delhi Lions Inning 1"
+        }
+      ],
+      "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "29afe24f-1bca-40da-9161-9f1463a4a0b8",
       "name": "South Delhi Superstarz vs East Delhi Riders, 2nd Match, Delhi Premier League 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "South Delhi Superstarz won by 4 wkts",
       "venue": "Arun Jaitley Stadium, Delhi",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T08:00:00",
@@ -31,6 +70,12 @@
           "w": 10,
           "o": 18.1,
           "inning": "East Delhi Riders Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 6,
+          "o": 18.1,
+          "inning": "South Delhi Superstarz Inning 1"
         }
       ],
       "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
@@ -38,7 +83,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f0a96a04-5541-43d6-b8a8-fecd720eb207",
@@ -608,6 +653,43 @@
       "matchEnded": true
     },
     {
+      "id": "5b462897-fc61-4c15-9631-1a0bab23794a",
+      "name": "Colombo Kaps vs Galle Gallants, 19th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Colombo Kaps opt to bowl",
+      "venue": "Pallekele International Cricket Stadium, Pallekele",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T14:00:00",
+      "teams": [
+        "Colombo Kaps",
+        "Galle Gallants"
+      ],
+      "teamInfo": [
+        {
+          "name": "Colombo Kaps",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Galle Gallants",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 3,
+          "o": 10.2,
+          "inning": "Galle Gallants Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "15c37be4-3337-4a9c-9986-0c07e6b57a88",
       "name": "Jaffna Kings vs Kandy Royals, 18th Match, Lanka Premier League 2026",
       "matchType": "t20",
@@ -781,6 +863,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "9234d9c7-c91a-4158-9fe2-642771a04cb1",
+      "name": "Birmingham Phoenix vs Welsh Fire, 15th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T13:30:00",
+      "teams": [
+        "Birmingham Phoenix",
+        "Welsh Fire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire",
+          "shortname": "WEF",
+          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 9,
+          "o": 100,
+          "inning": "birmingham phoenix Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "ede746bf-4ecf-49bc-a0a1-81970b8c70dc",
@@ -959,141 +1080,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fe995f41-d4ce-4b2d-aae0-62aa66401312",
-      "name": "Sunrisers Leeds vs Manchester Super Giants, 10th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Leeds won by 8 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T17:30:00",
-      "teams": [
-        "Sunrisers Leeds",
-        "Manchester Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manchester Super Giants",
-          "shortname": "MSG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sunrisers Leeds",
-          "shortname": "SL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 181,
-          "w": 3,
-          "o": 100,
-          "inning": "Manchester Super Giants Inning 1"
-        },
-        {
-          "r": 186,
-          "w": 2,
-          "o": 88,
-          "inning": "Sunrisers Leeds Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "edf09271-4135-4a74-86aa-79e51405ad98",
-      "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Namibia won by 6 wkts",
-      "venue": "Sportpark Maarschalkerweerd, Utrecht",
-      "date": "2026-07-31",
-      "dateTimeGMT": "2026-07-31T00:00:00",
-      "teams": [
-        "Netherlands",
-        "Namibia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 183,
-          "w": 10,
-          "o": 48.5,
-          "inning": "netherlands Inning 1"
-        },
-        {
-          "r": 186,
-          "w": 4,
-          "o": 41,
-          "inning": "Netherlands,Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8019a8b4-6270-484d-8e62-b601cd7bb263",
-      "name": "Nepal vs Netherlands, 120th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Netherlands won by 57 runs",
-      "venue": "Sportpark Maarschalkerweerd, Utrecht",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T00:00:00",
-      "teams": [
-        "Nepal",
-        "Netherlands"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 225,
-          "w": 9,
-          "o": 50,
-          "inning": "Netherlands Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 10,
-          "o": 48,
-          "inning": "Nepal Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
