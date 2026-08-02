@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T09:46:31.431Z",
+  "lastUpdated": "2026-08-02T15:06:38.840Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
@@ -485,10 +485,55 @@
       "matchEnded": false
     },
     {
+      "id": "e75a8c77-04ec-44c3-a591-4ac7d8102284",
+      "name": "Argentina Women vs Canada Women, 5th T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Canada Women won by 8 wkts",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T17:00:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+        },
+        {
+          "name": "Canada Women",
+          "shortname": "CW",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 71,
+          "w": 7,
+          "o": 10,
+          "inning": "argentina women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 2,
+          "o": 9,
+          "inning": "Argentina Women,Canada Women Inning 1"
+        }
+      ],
+      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "a623b1b3-5e13-4179-a543-6427859f4c7d",
       "name": "Argentina Women vs Canada Women, 4th T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Canada Women opt to bowl",
+      "status": "Argentina Women won by 18 runs",
       "venue": "St George's College Ground, Quilmes, Buenos Aires",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T13:00:00",
@@ -508,12 +553,26 @@
           "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 96,
+          "w": 9,
+          "o": 20,
+          "inning": "Argentina Women Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 10,
+          "o": 18.4,
+          "inning": "Canada Women Inning 1"
+        }
+      ],
       "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "87ba3a88-7349-413d-8d79-1735b523a128",
@@ -643,6 +702,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "ab7eeed3-84ed-4879-8610-4163030f4bae",
+      "name": "Jaffna Kings vs Dambulla Sixers, 20th Match, Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Jaffna Kings opt to bowl",
+      "venue": "Pallekele International Cricket Stadium, Pallekele",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T14:00:00",
+      "teams": [
+        "Jaffna Kings",
+        "Dambulla Sixers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dambulla Sixers",
+          "shortname": "DS",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jaffna Kings",
+          "shortname": "JKS",
+          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 122,
+          "w": 3,
+          "o": 12,
+          "inning": "Dambulla Sixers Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5b462897-fc61-4c15-9631-1a0bab23794a",
@@ -819,6 +917,45 @@
       "matchEnded": true
     },
     {
+      "id": "4cd7247a-a0aa-4cf6-88d4-3a06231b0500",
+      "name": "Trent Rockets vs Sunrisers Leeds, 17th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T13:30:00",
+      "teams": [
+        "Trent Rockets",
+        "Sunrisers Leeds"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sunrisers Leeds",
+          "shortname": "SL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trent Rockets",
+          "shortname": "TRE",
+          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 146,
+          "w": 4,
+          "o": 100,
+          "inning": "trent rockets Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "935d6136-990c-4a95-85a9-726fe8d60b6b",
       "name": "London Spirit vs Southern Brave, 16th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
@@ -943,141 +1080,6 @@
           "r": 140,
           "w": 4,
           "o": 87,
-          "inning": "Trent Rockets Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "11eb333a-a67d-481c-958c-ac29c1e7341b",
-      "name": "Southern Brave vs Birmingham Phoenix, 13th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave won by 12 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T17:30:00",
-      "teams": [
-        "Southern Brave",
-        "Birmingham Phoenix"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix",
-          "shortname": "BRM",
-          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
-        },
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 8,
-          "o": 100,
-          "inning": "Southern Brave Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 9,
-          "o": 100,
-          "inning": "Birmingham Phoenix Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "addbab20-e10d-4910-854e-7246ad0a4421",
-      "name": "MI London vs London Spirit, 12th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "London Spirit won by 7 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T17:30:00",
-      "teams": [
-        "MI London",
-        "London Spirit"
-      ],
-      "teamInfo": [
-        {
-          "name": "London Spirit",
-          "shortname": "LDN",
-          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
-        },
-        {
-          "name": "Mi London",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 164,
-          "w": 5,
-          "o": 100,
-          "inning": "MI London Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 3,
-          "o": 89,
-          "inning": "London Spirit Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "be465d22-cb15-44bb-a2e3-fb0eaf08e162",
-      "name": "Welsh Fire vs Trent Rockets, 11th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets won by 9 wkts",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T14:00:00",
-      "teams": [
-        "Welsh Fire",
-        "Trent Rockets"
-      ],
-      "teamInfo": [
-        {
-          "name": "Trent Rockets",
-          "shortname": "TRE",
-          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire",
-          "shortname": "WEF",
-          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 122,
-          "w": 7,
-          "o": 100,
-          "inning": "Welsh Fire Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 1,
-          "o": 72,
           "inning": "Trent Rockets Inning 1"
         }
       ],
