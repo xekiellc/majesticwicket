@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T15:06:38.840Z",
+  "lastUpdated": "2026-08-02T20:59:23.683Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
@@ -227,141 +227,6 @@
       "matchEnded": true
     },
     {
-      "id": "42f49a0b-75ce-4092-89ac-7be50d5adec7",
-      "name": "Switzerland Women vs Brazil Women, 6th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 6 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T14:00:00",
-      "teams": [
-        "Switzerland Women",
-        "Brazil Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Switzerland Women",
-          "shortname": "SW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 76,
-          "w": 10,
-          "o": 18.3,
-          "inning": "switzerland women Inning 1"
-        },
-        {
-          "r": 80,
-          "w": 4,
-          "o": 8.2,
-          "inning": "Switzerland Women,Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9259fa83-a58e-4151-ab30-68ca65348fa5",
-      "name": "Brazil Women vs Spain Women, 5th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 6 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T10:30:00",
-      "teams": [
-        "Brazil Women",
-        "Spain Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Spain Women",
-          "shortname": "ESPW",
-          "img": "https://g.cricapi.com/iapi/657-637867439332284127.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 5,
-          "o": 20,
-          "inning": "Spain Women Inning 1"
-        },
-        {
-          "r": 143,
-          "w": 4,
-          "o": 10.1,
-          "inning": "Brazil Women Inning 1"
-        }
-      ],
-      "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "387a469a-d84f-4ec5-a296-eacfa64b7f5d",
-      "name": "Switzerland Women vs Jersey Women, Only T20I, Jersey Women tour of Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Jersey Women won by 66 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T07:00:00",
-      "teams": [
-        "Switzerland Women",
-        "Jersey Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jersey Women",
-          "shortname": "JERW",
-          "img": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=48"
-        },
-        {
-          "name": "Switzerland Women",
-          "shortname": "SW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 206,
-          "w": 5,
-          "o": 20,
-          "inning": "jersey women Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 8,
-          "o": 20,
-          "inning": "Switzerland Women,Jersey Women Inning 1"
-        }
-      ],
-      "series_id": "15b456a1-c32b-4b10-aca8-ef5638d74685",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d7a79f6e-87ed-41b8-be3f-bb3ac764167b",
       "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
@@ -483,6 +348,96 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "384afc14-e5a9-4708-b9d0-c20d329108c7",
+      "name": "Argentina Women vs Canada Women, 7th T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Argentina Women won by 2 wkts",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T17:00:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+        },
+        {
+          "name": "Canada Women",
+          "shortname": "CW",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 67,
+          "w": 8,
+          "o": 20,
+          "inning": "Argentina Women Inning 1"
+        },
+        {
+          "r": 70,
+          "w": 8,
+          "o": 17.3,
+          "inning": "Canada Women Inning 1"
+        }
+      ],
+      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "111ba640-5c9b-4250-90b1-d1ecadff457c",
+      "name": "Argentina Women vs Canada Women, 6th T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Argentina Women won by 21 runs",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T13:00:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+        },
+        {
+          "name": "Canada Women",
+          "shortname": "CW",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 99,
+          "w": 4,
+          "o": 15,
+          "inning": "Argentina Women Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 7,
+          "o": 15,
+          "inning": "Canada Women Inning 1"
+        }
+      ],
+      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "e75a8c77-04ec-44c3-a591-4ac7d8102284",
@@ -659,55 +614,10 @@
       "matchEnded": true
     },
     {
-      "id": "c4ba3927-699d-462b-92b4-3787a4a3b2de",
-      "name": "Argentina Women vs Canada Women, 1st T20I, Canada Women tour of Argentina, 2026",
-      "matchType": "t20",
-      "status": "Argentina Women won by 1 wkt",
-      "venue": "St George's College Ground, Quilmes, Buenos Aires",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T15:30:00",
-      "teams": [
-        "Argentina Women",
-        "Canada Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Argentina Women",
-          "shortname": "ARW",
-          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
-        },
-        {
-          "name": "Canada Women",
-          "shortname": "CW",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 74,
-          "w": 4,
-          "o": 20,
-          "inning": "Canada Women Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 9,
-          "o": 18.4,
-          "inning": "Argentina Women Inning 1"
-        }
-      ],
-      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "ab7eeed3-84ed-4879-8610-4163030f4bae",
       "name": "Jaffna Kings vs Dambulla Sixers, 20th Match, Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Jaffna Kings opt to bowl",
+      "status": "No result due to rain",
       "venue": "Pallekele International Cricket Stadium, Pallekele",
       "date": "2026-08-02",
       "dateTimeGMT": "2026-08-02T14:00:00",
@@ -729,9 +639,9 @@
       ],
       "score": [
         {
-          "r": 122,
-          "w": 3,
-          "o": 12,
+          "r": 203,
+          "w": 8,
+          "o": 20,
           "inning": "Dambulla Sixers Inning 1"
         }
       ],
@@ -740,7 +650,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5b462897-fc61-4c15-9631-1a0bab23794a",
@@ -830,86 +740,44 @@
       "matchEnded": true
     },
     {
-      "id": "a8ba2c2f-69e5-4044-a68a-663fce374008",
-      "name": "Colombo Kaps vs Dambulla Sixers, 17th Match, Lanka Premier League 2026",
+      "id": "7d77bd7c-e345-4b64-83fd-5df7b45f1cdd",
+      "name": "MI London vs Manchester Super Giants, 18th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Colombo Kaps won by 4 wkts",
-      "venue": "Pallekele International Cricket Stadium, Pallekele",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T14:00:00",
+      "status": "MI London won by 45 runs",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T17:00:00",
       "teams": [
-        "Colombo Kaps",
-        "Dambulla Sixers"
+        "MI London",
+        "Manchester Super Giants"
       ],
       "teamInfo": [
         {
-          "name": "Colombo Kaps",
+          "name": "Manchester Super Giants",
+          "shortname": "MSG",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Dambulla Sixers",
-          "shortname": "DS",
+          "name": "Mi London",
+          "shortname": "MIL",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 174,
-          "w": 5,
-          "o": 20,
-          "inning": "dambulla sixers Inning 1"
-        },
-        {
-          "r": 177,
+          "r": 183,
           "w": 6,
-          "o": 19,
-          "inning": "Colombo Kaps,Dambulla Sixers Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a4b3c7a9-c1e9-4ba9-a53f-491370ada0de",
-      "name": "Galle Gallants vs Kandy Royals, 16th Match, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Kandy Royals won by 6 wkts",
-      "venue": "Pallekele International Cricket Stadium, Pallekele",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T09:30:00",
-      "teams": [
-        "Galle Gallants",
-        "Kandy Royals"
-      ],
-      "teamInfo": [
-        {
-          "name": "Galle Gallants",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "o": 100,
+          "inning": "MI London Inning 1"
         },
         {
-          "name": "Kandy Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "r": 138,
+          "w": 10,
+          "o": 95,
+          "inning": "Manchester Super Giants Inning 1"
         }
       ],
-      "score": [
-        {
-          "r": 208,
-          "w": 3,
-          "o": 20,
-          "inning": "galle gallants Inning 1"
-        },
-        {
-          "r": 214,
-          "w": 4,
-          "o": 18.5,
-          "inning": "Galle Gallants,Kandy Royals Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -920,7 +788,7 @@
       "id": "4cd7247a-a0aa-4cf6-88d4-3a06231b0500",
       "name": "Trent Rockets vs Sunrisers Leeds, 17th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Trent Rockets won by 5 runs",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-08-02",
       "dateTimeGMT": "2026-08-02T13:30:00",
@@ -946,6 +814,12 @@
           "w": 4,
           "o": 100,
           "inning": "trent rockets Inning 1"
+        },
+        {
+          "r": 141,
+          "w": 4,
+          "o": 100,
+          "inning": "Trent Rockets,Sunrisers Leeds Inning 1"
         }
       ],
       "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
@@ -953,7 +827,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "935d6136-990c-4a95-85a9-726fe8d60b6b",
@@ -1089,6 +963,135 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "11eb333a-a67d-481c-958c-ac29c1e7341b",
+      "name": "Southern Brave vs Birmingham Phoenix, 13th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave won by 12 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T17:30:00",
+      "teams": [
+        "Southern Brave",
+        "Birmingham Phoenix"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Southern Brave",
+          "shortname": "SOU",
+          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 128,
+          "w": 8,
+          "o": 100,
+          "inning": "Southern Brave Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 9,
+          "o": 100,
+          "inning": "Birmingham Phoenix Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "edf09271-4135-4a74-86aa-79e51405ad98",
+      "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Namibia won by 6 wkts",
+      "venue": "Sportpark Maarschalkerweerd, Utrecht",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T00:00:00",
+      "teams": [
+        "Netherlands",
+        "Namibia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 10,
+          "o": 48.5,
+          "inning": "netherlands Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 4,
+          "o": 41,
+          "inning": "Netherlands,Namibia Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "68f000b7-4d03-4727-b06f-ab9cc599caa8",
+      "name": "West Indies vs Pakistan, 2nd Test, Pakistan tour of West Indies, 2026",
+      "matchType": "test",
+      "status": "Day 1: 3rd Session - West Indies opt to bat",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T14:00:00",
+      "teams": [
+        "West Indies",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 209,
+          "w": 5,
+          "o": 66.1,
+          "inning": "west indies Inning 1"
+        }
+      ],
+      "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
@@ -1390,9 +1393,17 @@
     "standings": [
       {
         "team": "Trent Rockets",
-        "played": 4,
-        "won": 3,
+        "played": 5,
+        "won": 4,
         "lost": 1,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "MI London",
+        "played": 5,
+        "won": 3,
+        "lost": 2,
         "nr": 0,
         "points": 6
       },
@@ -1405,18 +1416,10 @@
         "points": 6
       },
       {
-        "team": "MI London",
+        "team": "Sunrisers Leeds",
         "played": 4,
         "won": 2,
         "lost": 2,
-        "nr": 0,
-        "points": 4
-      },
-      {
-        "team": "Sunrisers Leeds",
-        "played": 3,
-        "won": 2,
-        "lost": 1,
         "nr": 0,
         "points": 4
       },
@@ -1430,9 +1433,9 @@
       },
       {
         "team": "Manchester Super Giants",
-        "played": 4,
+        "played": 5,
         "won": 2,
-        "lost": 2,
+        "lost": 3,
         "nr": 0,
         "points": 4
       },
