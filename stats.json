@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T16:30:04.804Z",
+  "lastUpdated": "2026-08-03T21:06:59.830Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
@@ -130,180 +130,6 @@
         }
       ],
       "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "32894cba-b94e-48c7-ba75-bdadd487d0d6",
-      "name": "Brazil Women vs Spain Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 86 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T12:00:00",
-      "teams": [
-        "Brazil Women",
-        "Spain Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brazil Women",
-          "shortname": "BRW",
-          "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
-        },
-        {
-          "name": "Spain Women",
-          "shortname": "ESPW",
-          "img": "https://g.cricapi.com/iapi/657-637867439332284127.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 210,
-          "w": 10,
-          "o": 19.4,
-          "inning": "brazil women Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 6,
-          "o": 20,
-          "inning": "Brazil Women,Spain Women Inning 1"
-        }
-      ],
-      "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68ab3133-143b-4ef8-aea9-b9cb86be18d1",
-      "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Spain Women won by 76 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T07:30:00",
-      "teams": [
-        "Spain Women",
-        "Switzerland Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Spain Women",
-          "shortname": "ESPW",
-          "img": "https://g.cricapi.com/iapi/657-637867439332284127.png?w=48"
-        },
-        {
-          "name": "Switzerland Women",
-          "shortname": "SW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 232,
-          "w": 2,
-          "o": 20,
-          "inning": "Spain Women Inning 1"
-        },
-        {
-          "r": 156,
-          "w": 2,
-          "o": 20,
-          "inning": "Switzerland Women Inning 1"
-        }
-      ],
-      "series_id": "67076271-fae2-49a3-892f-fb3135fcfe6f",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d7a79f6e-87ed-41b8-be3f-bb3ac764167b",
-      "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Uganda Women won by 17 runs",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T12:00:00",
-      "teams": [
-        "Namibia Women",
-        "Uganda Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia Women",
-          "shortname": "NAMW",
-          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
-        },
-        {
-          "name": "Uganda Women",
-          "shortname": "UGAW",
-          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 146,
-          "w": 3,
-          "o": 20,
-          "inning": "Uganda Women Inning 1"
-        },
-        {
-          "r": 129,
-          "w": 6,
-          "o": 20,
-          "inning": "Namibia Women Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7f1af414-5983-43f2-b02f-c80ad2280362",
-      "name": "Hong Kong, China Women vs Tanzania Women, 3rd Place Play-off, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Tanzania Women won by 7 wkts",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T07:30:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 4,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 3,
-          "o": 16.5,
-          "inning": " Inning 1"
-        }
-      ],
-      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -569,51 +395,6 @@
       "matchEnded": true
     },
     {
-      "id": "7b700e72-960d-4a59-a7f5-d0d15041ada0",
-      "name": "Argentina Women vs Canada Women, 2nd T20I, Canada Women tour of Argentina, 2026",
-      "matchType": "t20",
-      "status": "Argentina Women won by 6 wkts",
-      "venue": "St George's College Ground, Quilmes, Buenos Aires",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T15:30:00",
-      "teams": [
-        "Argentina Women",
-        "Canada Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Argentina Women",
-          "shortname": "ARW",
-          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
-        },
-        {
-          "name": "Canada Women",
-          "shortname": "CW",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 88,
-          "w": 8,
-          "o": 20,
-          "inning": "Canada Women Inning 1"
-        },
-        {
-          "r": 91,
-          "w": 4,
-          "o": 19.2,
-          "inning": "Argentina Women Inning 1"
-        }
-      ],
-      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "ab7eeed3-84ed-4879-8610-4163030f4bae",
       "name": "Jaffna Kings vs Dambulla Sixers, 20th Match, Lanka Premier League 2026",
       "matchType": "t20",
@@ -696,43 +477,44 @@
       "matchEnded": true
     },
     {
-      "id": "15c37be4-3337-4a9c-9986-0c07e6b57a88",
-      "name": "Jaffna Kings vs Kandy Royals, 18th Match, Lanka Premier League 2026",
+      "id": "c4de414c-1444-44c8-9d52-c4c7302feb84",
+      "name": "Welsh Fire vs Southern Brave, 19th Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Jaffna Kings won by 21 runs",
-      "venue": "Pallekele International Cricket Stadium, Pallekele",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T14:00:00",
+      "status": "Welsh Fire won by 6 wkts",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-08-03",
+      "dateTimeGMT": "2026-08-03T17:30:00",
       "teams": [
-        "Jaffna Kings",
-        "Kandy Royals"
+        "Welsh Fire",
+        "Southern Brave"
       ],
       "teamInfo": [
         {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+          "name": "Southern Brave",
+          "shortname": "SOU",
+          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
         },
         {
-          "name": "Kandy Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Welsh Fire",
+          "shortname": "WEF",
+          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 221,
-          "w": 6,
-          "o": 20,
-          "inning": "Jaffna Kings Inning 1"
+          "r": 115,
+          "w": 8,
+          "o": 100,
+          "inning": "Southern Brave Inning 1"
         },
         {
-          "r": 200,
-          "w": 10,
-          "o": 20,
-          "inning": "Kandy Royals Inning 1"
+          "r": 116,
+          "w": 4,
+          "o": 95,
+          "inning": "Welsh Fire Inning 1"
         }
       ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -965,51 +747,6 @@
       "matchEnded": true
     },
     {
-      "id": "11eb333a-a67d-481c-958c-ac29c1e7341b",
-      "name": "Southern Brave vs Birmingham Phoenix, 13th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave won by 12 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T17:30:00",
-      "teams": [
-        "Southern Brave",
-        "Birmingham Phoenix"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix",
-          "shortname": "BRM",
-          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
-        },
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 8,
-          "o": 100,
-          "inning": "Southern Brave Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 9,
-          "o": 100,
-          "inning": "Birmingham Phoenix Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "edf09271-4135-4a74-86aa-79e51405ad98",
       "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -1058,7 +795,7 @@
       "id": "68f000b7-4d03-4727-b06f-ab9cc599caa8",
       "name": "West Indies vs Pakistan, 2nd Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "West Indies opt to bat",
+      "status": "Day 2: 3rd Session - Pakistan trail by 97 runs",
       "venue": "Queen's Park Oval, Port of Spain, Trinidad",
       "date": "2026-08-02",
       "dateTimeGMT": "2026-08-02T14:00:00",
@@ -1084,6 +821,12 @@
           "w": 10,
           "o": 105.4,
           "inning": "west indies Inning 1"
+        },
+        {
+          "r": 247,
+          "w": 2,
+          "o": 58.2,
+          "inning": "West Indies,Pakistan Inning 1"
         }
       ],
       "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
@@ -1092,6 +835,276 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "3f70bfd7-6c49-4dd5-ad4a-e9e74309c85e",
+      "name": "Welsh Fire Women vs Southern Brave Women, 19th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Welsh Fire Women won by 4 wkts",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-08-03",
+      "dateTimeGMT": "2026-08-03T14:00:00",
+      "teams": [
+        "Welsh Fire Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 5,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 6,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e271dbff-faf7-4d83-9afb-1e3421f4f8f2",
+      "name": "MI London Women vs Manchester Super Giants Women, 18th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Manchester Super Giants Women won by 6 wkts",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T13:30:00",
+      "teams": [
+        "MI London Women",
+        "Manchester Super Giants Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants Women",
+          "shortname": "MSGW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Mi London Women",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 92,
+          "w": 10,
+          "o": 99,
+          "inning": "MI London Women Inning 1"
+        },
+        {
+          "r": 95,
+          "w": 4,
+          "o": 72,
+          "inning": "Manchester Super Giants Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "226db8e4-31e9-4cf7-900d-a7b713ac3e06",
+      "name": "Trent Rockets Women vs Sunrisers Leeds Women, 17th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets Women won by 5 runs",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T10:00:00",
+      "teams": [
+        "Trent Rockets Women",
+        "Sunrisers Leeds Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 139,
+          "w": 7,
+          "o": 100,
+          "inning": "Trent Rockets Women Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 5,
+          "o": 100,
+          "inning": "Sunrisers Leeds Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e84c310f-cccb-471b-9d80-331f59ba555f",
+      "name": "London Spirit Women vs Southern Brave Women, 16th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Southern Brave Women won by 5 wkts",
+      "venue": "Lord's, London",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T13:30:00",
+      "teams": [
+        "London Spirit Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit Women",
+          "shortname": "LSW",
+          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
+        },
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 8,
+          "o": 100,
+          "inning": "London Spirit Women Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 5,
+          "o": 93,
+          "inning": "Southern Brave Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "df56c701-5a2e-4275-b2d2-53781bbf066e",
+      "name": "Birmingham Phoenix Women vs Welsh Fire Women, 15th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Birmingham Phoenix Women won by 7 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T10:00:00",
+      "teams": [
+        "Birmingham Phoenix Women",
+        "Welsh Fire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 144,
+          "w": 3,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 145,
+          "w": 3,
+          "o": 99,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7fb87026-4c9f-4dda-82d4-c0b7b4265030",
+      "name": "Manchester Super Giants Women vs Trent Rockets Women, 14th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets Women won by 31 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T14:00:00",
+      "teams": [
+        "Manchester Super Giants Women",
+        "Trent Rockets Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants Women",
+          "shortname": "MSGW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 8,
+          "o": 100,
+          "inning": "Trent Rockets Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 10,
+          "o": 93,
+          "inning": "Manchester Super Giants Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1400,18 +1413,18 @@
         "points": 8
       },
       {
+        "team": "Welsh Fire",
+        "played": 5,
+        "won": 4,
+        "lost": 1,
+        "nr": 0,
+        "points": 8
+      },
+      {
         "team": "MI London",
         "played": 5,
         "won": 3,
         "lost": 2,
-        "nr": 0,
-        "points": 6
-      },
-      {
-        "team": "Welsh Fire",
-        "played": 4,
-        "won": 3,
-        "lost": 1,
         "nr": 0,
         "points": 6
       },
@@ -1425,9 +1438,9 @@
       },
       {
         "team": "Southern Brave",
-        "played": 5,
+        "played": 6,
         "won": 2,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 4
       },
