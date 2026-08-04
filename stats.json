@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T16:14:45.687Z",
+  "lastUpdated": "2026-08-04T21:15:04.532Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
@@ -82,51 +82,6 @@
           "w": 6,
           "o": 18.1,
           "inning": "South Delhi Superstarz Inning 1"
-        }
-      ],
-      "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f0a96a04-5541-43d6-b8a8-fecd720eb207",
-      "name": "Central Delhi Kings vs Purani Dilli 6, 1st Match, Delhi Premier League 2026",
-      "matchType": "t20",
-      "status": "Central Delhi Kings won by 4 wkts",
-      "venue": "Arun Jaitley Stadium, Delhi",
-      "date": "2026-07-31",
-      "dateTimeGMT": "2026-07-31T15:30:00",
-      "teams": [
-        "Central Delhi Kings",
-        "Purani Dilli 6"
-      ],
-      "teamInfo": [
-        {
-          "name": "Central Delhi Kings",
-          "shortname": "CDK",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Purani Dilli 6",
-          "shortname": "PD6",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 202,
-          "w": 4,
-          "o": 20,
-          "inning": "Purani Dilli 6 Inning 1"
-        },
-        {
-          "r": 204,
-          "w": 6,
-          "o": 19.1,
-          "inning": "Central Delhi Kings Inning 1"
         }
       ],
       "series_id": "2d42b70d-c4d3-4f90-9ae2-00de7244bd0a",
@@ -356,49 +311,10 @@
       "matchEnded": true
     },
     {
-      "id": "87ba3a88-7349-413d-8d79-1735b523a128",
-      "name": "Argentina Women vs Canada Women, 3rd T20I, Canada Women tour of Argentina, 2026",
-      "matchType": "t20",
-      "status": "No result",
-      "venue": "St George's College Ground, Quilmes, Buenos Aires",
-      "date": "2026-07-31",
-      "dateTimeGMT": "2026-07-31T15:30:00",
-      "teams": [
-        "Argentina Women",
-        "Canada Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Argentina Women",
-          "shortname": "ARW",
-          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
-        },
-        {
-          "name": "Canada Women",
-          "shortname": "CW",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 4,
-          "w": 2,
-          "o": 3,
-          "inning": "Argentina Women Inning 1"
-        }
-      ],
-      "series_id": "1bb955ec-d321-4fce-8eec-fd1f255f30e0",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "96b1e656-fab9-4e33-9149-098ad3dd9c45",
       "name": "IDream Tiruppur Tamizhans vs Dindigul Dragons, 1st Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Dindigul Dragons need 89 runs",
+      "status": "Dindigul Dragons won by 7 wkts",
       "venue": "NPR College Ground, Dindigul",
       "date": "2026-08-04",
       "dateTimeGMT": "2026-08-04T14:00:00",
@@ -426,9 +342,9 @@
           "inning": "IDream Tiruppur Tamizhans Inning 1"
         },
         {
-          "r": 19,
-          "w": 0,
-          "o": 3,
+          "r": 111,
+          "w": 3,
+          "o": 18.3,
           "inning": "Dindigul Dragons Inning 1"
         }
       ],
@@ -437,7 +353,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "ab7eeed3-84ed-4879-8610-4163030f4bae",
@@ -515,6 +431,51 @@
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ffda29bd-24de-4837-8720-5dc498f4434a",
+      "name": "Sunrisers Leeds vs London Spirit, 20th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Leeds won by 37 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-08-04",
+      "dateTimeGMT": "2026-08-04T17:30:00",
+      "teams": [
+        "Sunrisers Leeds",
+        "London Spirit"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit",
+          "shortname": "LDN",
+          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds",
+          "shortname": "SL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 241,
+          "w": 2,
+          "o": 100,
+          "inning": "Sunrisers Leeds Inning 1"
+        },
+        {
+          "r": 204,
+          "w": 6,
+          "o": 100,
+          "inning": "London Spirit Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -747,100 +708,10 @@
       "matchEnded": true
     },
     {
-      "id": "ede746bf-4ecf-49bc-a0a1-81970b8c70dc",
-      "name": "Manchester Super Giants vs Trent Rockets, 14th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets won by 6 wkts",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-07-31",
-      "dateTimeGMT": "2026-07-31T17:30:00",
-      "teams": [
-        "Manchester Super Giants",
-        "Trent Rockets"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manchester Super Giants",
-          "shortname": "MSG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trent Rockets",
-          "shortname": "TRE",
-          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 137,
-          "w": 3,
-          "o": 100,
-          "inning": "Manchester Super Giants Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 4,
-          "o": 87,
-          "inning": "Trent Rockets Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "edf09271-4135-4a74-86aa-79e51405ad98",
-      "name": "Netherlands vs Namibia, 121st Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Namibia won by 6 wkts",
-      "venue": "Sportpark Maarschalkerweerd, Utrecht",
-      "date": "2026-07-31",
-      "dateTimeGMT": "2026-07-31T00:00:00",
-      "teams": [
-        "Netherlands",
-        "Namibia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 183,
-          "w": 10,
-          "o": 48.5,
-          "inning": "netherlands Inning 1"
-        },
-        {
-          "r": 186,
-          "w": 4,
-          "o": 41,
-          "inning": "Netherlands,Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "68f000b7-4d03-4727-b06f-ab9cc599caa8",
       "name": "West Indies vs Pakistan, 2nd Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 3: Lunch Break - Pakistan trail by 11 runs",
+      "status": "Day 3: 3rd Session - West Indies lead by 56 runs",
       "venue": "Queen's Park Oval, Port of Spain, Trinidad",
       "date": "2026-08-02",
       "dateTimeGMT": "2026-08-02T14:00:00",
@@ -868,10 +739,16 @@
           "inning": "west indies Inning 1"
         },
         {
-          "r": 333,
-          "w": 6,
-          "o": 95,
+          "r": 387,
+          "w": 10,
+          "o": 115,
           "inning": "West Indies,Pakistan Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 4,
+          "o": 35.4,
+          "inning": "west indies Inning 2"
         }
       ],
       "series_id": "9a3523b4-f7fc-4e63-854e-5bf640456d20",
@@ -879,13 +756,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6eb20796-0017-47dc-b101-77e6e6f3dabc",
       "name": "Sunrisers Leeds Women vs London Spirit Women, 20th Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
-      "status": "Sunrisers Leeds Women need 101 runs in 80 balls",
+      "status": "Sunrisers Leeds Women won by 5 wkts",
       "venue": "Headingley, Leeds",
       "date": "2026-08-04",
       "dateTimeGMT": "2026-08-04T14:00:00",
@@ -913,9 +790,9 @@
           "inning": "London Spirit Women Inning 1"
         },
         {
-          "r": 36,
-          "w": 0,
-          "o": 20,
+          "r": 142,
+          "w": 5,
+          "o": 98,
           "inning": "Sunrisers Leeds Women Inning 1"
         }
       ],
@@ -924,7 +801,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3f70bfd7-6c49-4dd5-ad4a-e9e74309c85e",
@@ -1100,6 +977,141 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "df56c701-5a2e-4275-b2d2-53781bbf066e",
+      "name": "Birmingham Phoenix Women vs Welsh Fire Women, 15th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Birmingham Phoenix Women won by 7 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T10:00:00",
+      "teams": [
+        "Birmingham Phoenix Women",
+        "Welsh Fire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 144,
+          "w": 3,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 145,
+          "w": 3,
+          "o": 99,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "68ac2efa-652a-4f35-84ce-a309961cecca",
+      "name": "Derbyshire vs Sussex, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Derbyshire won by 188 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T10:00:00",
+      "teams": [
+        "Derbyshire",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 325,
+          "w": 7,
+          "o": 50,
+          "inning": "derbyshire Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 10,
+          "o": 31.4,
+          "inning": "Derbyshire,Sussex Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "83e882a9-a0b8-4728-963a-0129308b9c9a",
+      "name": "Essex vs Worcestershire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Essex won by 107 runs",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T10:00:00",
+      "teams": [
+        "Essex",
+        "Worcestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 376,
+          "w": 5,
+          "o": 50,
+          "inning": "essex Inning 1"
+        },
+        {
+          "r": 269,
+          "w": 10,
+          "o": 41.3,
+          "inning": "Essex,Worcestershire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1430,11 +1442,11 @@
       },
       {
         "team": "Sunrisers Leeds",
-        "played": 4,
-        "won": 2,
+        "played": 5,
+        "won": 3,
         "lost": 2,
         "nr": 0,
-        "points": 4
+        "points": 6
       },
       {
         "team": "Southern Brave",
@@ -1453,15 +1465,15 @@
         "points": 4
       },
       {
-        "team": "Birmingham Phoenix",
-        "played": 4,
+        "team": "London Spirit",
+        "played": 5,
         "won": 1,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 2
       },
       {
-        "team": "London Spirit",
+        "team": "Birmingham Phoenix",
         "played": 4,
         "won": 1,
         "lost": 3,
