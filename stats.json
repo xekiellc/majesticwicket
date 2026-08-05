@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T21:15:04.532Z",
+  "lastUpdated": "2026-08-05T05:19:19.708Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
@@ -711,7 +711,7 @@
       "id": "68f000b7-4d03-4727-b06f-ab9cc599caa8",
       "name": "West Indies vs Pakistan, 2nd Test, Pakistan tour of West Indies, 2026",
       "matchType": "test",
-      "status": "Day 3: 3rd Session - West Indies lead by 56 runs",
+      "status": "Day 3: Stumps - West Indies lead by 60 runs",
       "venue": "Queen's Park Oval, Port of Spain, Trinidad",
       "date": "2026-08-02",
       "dateTimeGMT": "2026-08-02T14:00:00",
@@ -745,9 +745,9 @@
           "inning": "West Indies,Pakistan Inning 1"
         },
         {
-          "r": 99,
-          "w": 4,
-          "o": 35.4,
+          "r": 103,
+          "w": 6,
+          "o": 40.5,
           "inning": "west indies Inning 2"
         }
       ],
