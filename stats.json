@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T05:19:19.708Z",
+  "lastUpdated": "2026-08-05T10:20:44.486Z",
   "recentMatches": [
     {
       "id": "ac956620-023b-4430-8f78-1877951a44d7",
@@ -311,6 +311,45 @@
       "matchEnded": true
     },
     {
+      "id": "a9918a15-cc50-4868-ad79-56d22924288f",
+      "name": "Trichy Grand Cholas vs Madurai Panthers, 2nd Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Madurai Panthers opt to bowl",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-05",
+      "dateTimeGMT": "2026-08-05T10:00:00",
+      "teams": [
+        "Trichy Grand Cholas",
+        "Madurai Panthers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Madurai Panthers",
+          "shortname": "MP",
+          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
+        },
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 40,
+          "w": 0,
+          "o": 4,
+          "inning": "Trichy Grand Cholas Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "96b1e656-fab9-4e33-9149-098ad3dd9c45",
       "name": "IDream Tiruppur Tamizhans vs Dindigul Dragons, 1st Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -354,6 +393,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "5f915a09-ce8e-48be-88c3-0cc0e78548ad",
+      "name": "Galle Gallants vs Jaffna Kings, Qualifier 1 (1v2), Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Galle Gallants opt to bowl",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "date": "2026-08-05",
+      "dateTimeGMT": "2026-08-05T09:30:00",
+      "teams": [
+        "Galle Gallants",
+        "Jaffna Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Galle Gallants",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jaffna Kings",
+          "shortname": "JKS",
+          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 1,
+          "o": 11,
+          "inning": "Jaffna Kings Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "ab7eeed3-84ed-4879-8610-4163030f4bae",
@@ -759,6 +836,38 @@
       "matchEnded": true
     },
     {
+      "id": "3d7d2de3-23b1-4901-aba1-f1886b9a4f8c",
+      "name": "Manchester Super Giants Women vs Welsh Fire Women, 21st Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Welsh Fire Women opt to bowl",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-08-05",
+      "dateTimeGMT": "2026-08-05T10:30:00",
+      "teams": [
+        "Manchester Super Giants Women",
+        "Welsh Fire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants Women",
+          "shortname": "MSGW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "6eb20796-0017-47dc-b101-77e6e6f3dabc",
       "name": "Sunrisers Leeds Women vs London Spirit Women, 20th Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
@@ -977,141 +1086,6 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "df56c701-5a2e-4275-b2d2-53781bbf066e",
-      "name": "Birmingham Phoenix Women vs Welsh Fire Women, 15th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Birmingham Phoenix Women won by 7 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-08-01",
-      "dateTimeGMT": "2026-08-01T10:00:00",
-      "teams": [
-        "Birmingham Phoenix Women",
-        "Welsh Fire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix Women",
-          "shortname": "BPW",
-          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 144,
-          "w": 3,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        },
-        {
-          "r": 145,
-          "w": 3,
-          "o": 99,
-          "inning": "Birmingham Phoenix Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68ac2efa-652a-4f35-84ce-a309961cecca",
-      "name": "Derbyshire vs Sussex, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Derbyshire won by 188 runs",
-      "venue": "County Ground, Derby",
-      "date": "2026-08-02",
-      "dateTimeGMT": "2026-08-02T10:00:00",
-      "teams": [
-        "Derbyshire",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 325,
-          "w": 7,
-          "o": 50,
-          "inning": "derbyshire Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 31.4,
-          "inning": "Derbyshire,Sussex Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "83e882a9-a0b8-4728-963a-0129308b9c9a",
-      "name": "Essex vs Worcestershire, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Essex won by 107 runs",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-08-02",
-      "dateTimeGMT": "2026-08-02T10:00:00",
-      "teams": [
-        "Essex",
-        "Worcestershire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Worcestershire",
-          "shortname": "WRCS",
-          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 376,
-          "w": 5,
-          "o": 50,
-          "inning": "essex Inning 1"
-        },
-        {
-          "r": 269,
-          "w": 10,
-          "o": 41.3,
-          "inning": "Essex,Worcestershire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
