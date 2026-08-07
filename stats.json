@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T08:43:17.102Z",
+  "lastUpdated": "2026-08-07T14:57:33.473Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,90 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "31b39199-bbc5-41b9-b9ca-4a6a6f3f9a8e",
+      "name": "Nellai Royal Kings vs Dindigul Dragons, 6th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Nellai Royal Kings opt to bowl",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T14:00:00",
+      "teams": [
+        "Nellai Royal Kings",
+        "Dindigul Dragons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dindigul Dragons",
+          "shortname": "DD",
+          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
+        },
+        {
+          "name": "Nellai Royal Kings",
+          "shortname": "NRK",
+          "img": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 110,
+          "w": 3,
+          "o": 13.2,
+          "inning": "Dindigul Dragons Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "78ab4333-3620-458c-a5ba-12f09149989e",
+      "name": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans, 5th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "IDream Tiruppur Tamizhans won by 7 wkts",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T10:00:00",
+      "teams": [
+        "Chepauk Super Gillies",
+        "IDream Tiruppur Tamizhans"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chepauk Super Gillies",
+          "shortname": "CSG",
+          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
+        },
+        {
+          "name": "IDream Tiruppur Tamizhans",
+          "shortname": "ITT",
+          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 205,
+          "w": 8,
+          "o": 20,
+          "inning": "Chepauk Super Gillies Inning 1"
+        },
+        {
+          "r": 206,
+          "w": 3,
+          "o": 18,
+          "inning": "IDream Tiruppur Tamizhans Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "0ee87274-2d4c-4fd7-9124-66f0b3699abe",
@@ -219,6 +303,43 @@
       "matchEnded": true
     },
     {
+      "id": "2e96412e-c79b-4c59-871a-bb4db85268fa",
+      "name": "Galle Gallants vs Colombo Kaps, Qualifier 2 (Looser Q1 vs Winner Eliminator), Lanka Premier League 2026",
+      "matchType": "t20",
+      "status": "Colombo Kaps opt to bat",
+      "venue": "R.Premadasa Stadium, Colombo",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T14:00:00",
+      "teams": [
+        "Galle Gallants",
+        "Colombo Kaps"
+      ],
+      "teamInfo": [
+        {
+          "name": "Colombo Kaps",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Galle Gallants",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 76,
+          "w": 5,
+          "o": 10,
+          "inning": "colombo kaps Inning 1"
+        }
+      ],
+      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "09167c64-daf0-40e3-b4e0-4eb32ddcf92c",
       "name": "Colombo Kaps vs Kandy Royals, Eliminator (3v4), Lanka Premier League 2026",
       "matchType": "t20",
@@ -304,6 +425,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "0a1dc419-73e7-42cf-a45a-045e547bfe67",
+      "name": "Ireland vs Afghanistan, 2nd ODI, Afghanistan tour of Ireland, 2026",
+      "matchType": "odi",
+      "status": "Innings Break",
+      "venue": "Bready Cricket Club, Bready, Northern Ireland",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T09:45:00",
+      "teams": [
+        "Ireland",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 299,
+          "w": 8,
+          "o": 47,
+          "inning": "Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "2a1567e1-5bdd-4bdb-b60b-1979c5193533",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "2466847a-3948-4f88-8d9c-3bcbb006b0b4",
@@ -531,6 +691,45 @@
       "matchEnded": true
     },
     {
+      "id": "bf87d6a7-427d-48d9-a4fd-081a71684d6a",
+      "name": "Birmingham Phoenix Women vs Sunrisers Leeds Women, 24th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Leeds Women opt to bowl",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T14:00:00",
+      "teams": [
+        "Birmingham Phoenix Women",
+        "Sunrisers Leeds Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 85,
+          "w": 4,
+          "o": 75,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "deb8544a-2fab-4ad2-8da2-98c32e9f3dab",
       "name": "London Spirit Women vs MI London Women, 23rd Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
@@ -756,67 +955,61 @@
       "matchEnded": true
     },
     {
-      "id": "09aeb163-b2c0-450b-8f31-f74902f9b3d7",
-      "name": "Hampshire vs Glamorgan, Group B, England Domestic One-Day Cup 2026",
+      "id": "d286b211-479e-470b-9883-d21c8b1f57e0",
+      "name": "Leicestershire vs Warwickshire, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Hampshire won by 90 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-08-05",
-      "dateTimeGMT": "2026-08-05T10:00:00",
+      "status": "Warwickshire opt to bat",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T13:00:00",
       "teams": [
-        "Hampshire",
-        "Glamorgan"
+        "Leicestershire",
+        "Warwickshire"
       ],
       "teamInfo": [
         {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
         },
         {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 263,
-          "w": 10,
-          "o": 49.3,
-          "inning": "hampshire Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 10,
-          "o": 40.4,
-          "inning": "Hampshire,Glamorgan Inning 1"
+          "r": 91,
+          "w": 4,
+          "o": 24,
+          "inning": "warwickshire Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "id": "1b75e24c-f40f-4adc-bd9d-513c0558df2a",
-      "name": "Surrey vs Kent, Group A, England Domestic One-Day Cup 2026",
+      "id": "e89c4d5f-f5b7-436d-826c-5fefd0a5f5fd",
+      "name": "Somerset vs Surrey, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Surrey won by 95 runs - 49 Overs game due to rain",
-      "venue": "Kennington Oval, London",
-      "date": "2026-08-05",
-      "dateTimeGMT": "2026-08-05T10:00:00",
+      "status": "Surrey opt to bowl",
+      "venue": "The Cooper Associates County Ground, Taunton",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T13:00:00",
       "teams": [
-        "Surrey",
-        "Kent"
+        "Somerset",
+        "Surrey"
       ],
       "teamInfo": [
         {
-          "name": "Kent",
-          "shortname": "KENT",
-          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
         },
         {
           "name": "Surrey",
@@ -826,24 +1019,57 @@
       ],
       "score": [
         {
-          "r": 286,
-          "w": 10,
-          "o": 48.3,
-          "inning": "Surrey Inning 1"
-        },
-        {
-          "r": 191,
-          "w": 10,
-          "o": 41.5,
-          "inning": "Kent Inning 1"
+          "r": 183,
+          "w": 2,
+          "o": 29,
+          "inning": "Somerset Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
+    },
+    {
+      "id": "f0da0b96-6561-48d9-8b49-7159a30c270a",
+      "name": "Sussex vs Worcestershire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Worcestershire opt to bowl",
+      "venue": "County Ground, Hove",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T13:00:00",
+      "teams": [
+        "Sussex",
+        "Worcestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 125,
+          "w": 3,
+          "o": 22,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
