@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T14:57:33.473Z",
+  "lastUpdated": "2026-08-07T20:45:02.660Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -44,7 +44,7 @@
       "id": "31b39199-bbc5-41b9-b9ca-4a6a6f3f9a8e",
       "name": "Nellai Royal Kings vs Dindigul Dragons, 6th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Nellai Royal Kings opt to bowl",
+      "status": "Nellai Royal Kings won by 6 wkts",
       "venue": "NPR College Ground, Dindigul",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T14:00:00",
@@ -66,10 +66,16 @@
       ],
       "score": [
         {
-          "r": 110,
-          "w": 3,
-          "o": 13.2,
+          "r": 170,
+          "w": 7,
+          "o": 20,
           "inning": "Dindigul Dragons Inning 1"
+        },
+        {
+          "r": 172,
+          "w": 4,
+          "o": 17.4,
+          "inning": "Nellai Royal Kings Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
@@ -77,7 +83,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "78ab4333-3620-458c-a5ba-12f09149989e",
@@ -306,7 +312,7 @@
       "id": "2e96412e-c79b-4c59-871a-bb4db85268fa",
       "name": "Galle Gallants vs Colombo Kaps, Qualifier 2 (Looser Q1 vs Winner Eliminator), Lanka Premier League 2026",
       "matchType": "t20",
-      "status": "Colombo Kaps opt to bat",
+      "status": "Galle Gallants won by 6 wkts",
       "venue": "R.Premadasa Stadium, Colombo",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T14:00:00",
@@ -326,10 +332,16 @@
       ],
       "score": [
         {
-          "r": 76,
-          "w": 5,
-          "o": 10,
+          "r": 176,
+          "w": 10,
+          "o": 18.5,
           "inning": "colombo kaps Inning 1"
+        },
+        {
+          "r": 177,
+          "w": 4,
+          "o": 18.4,
+          "inning": "Galle Gallants,Colombo Kaps Inning 1"
         }
       ],
       "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
@@ -337,7 +349,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "09167c64-daf0-40e3-b4e0-4eb32ddcf92c",
@@ -430,7 +442,7 @@
       "id": "0a1dc419-73e7-42cf-a45a-045e547bfe67",
       "name": "Ireland vs Afghanistan, 2nd ODI, Afghanistan tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Afghanistan won by 92 runs (Match reduced to 47 overs per side due to wet outfield)",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T09:45:00",
@@ -456,6 +468,12 @@
           "w": 8,
           "o": 47,
           "inning": "Afghanistan Inning 1"
+        },
+        {
+          "r": 207,
+          "w": 10,
+          "o": 33.4,
+          "inning": "Ireland Inning 1"
         }
       ],
       "series_id": "2a1567e1-5bdd-4bdb-b60b-1979c5193533",
@@ -463,7 +481,52 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "d2409751-eb6c-40ad-bf77-04a44ee5dcd5",
+      "name": "Birmingham Phoenix vs Sunrisers Leeds, 24th Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Leeds won by 45 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T17:30:00",
+      "teams": [
+        "Birmingham Phoenix",
+        "Sunrisers Leeds"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds",
+          "shortname": "SL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 169,
+          "w": 7,
+          "o": 100,
+          "inning": "Sunrisers Leeds Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 8,
+          "o": 100,
+          "inning": "Birmingham Phoenix Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "2466847a-3948-4f88-8d9c-3bcbb006b0b4",
@@ -646,55 +709,10 @@
       "matchEnded": true
     },
     {
-      "id": "c4de414c-1444-44c8-9d52-c4c7302feb84",
-      "name": "Welsh Fire vs Southern Brave, 19th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Welsh Fire won by 6 wkts",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-08-03",
-      "dateTimeGMT": "2026-08-03T17:30:00",
-      "teams": [
-        "Welsh Fire",
-        "Southern Brave"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire",
-          "shortname": "WEF",
-          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 115,
-          "w": 8,
-          "o": 100,
-          "inning": "Southern Brave Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 4,
-          "o": 95,
-          "inning": "Welsh Fire Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "bf87d6a7-427d-48d9-a4fd-081a71684d6a",
       "name": "Birmingham Phoenix Women vs Sunrisers Leeds Women, 24th Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
-      "status": "Sunrisers Leeds Women opt to bowl",
+      "status": "Sunrisers Leeds Women won by 9 wkts",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T14:00:00",
@@ -716,10 +734,16 @@
       ],
       "score": [
         {
-          "r": 85,
-          "w": 4,
-          "o": 75,
+          "r": 107,
+          "w": 9,
+          "o": 100,
           "inning": "Birmingham Phoenix Women Inning 1"
+        },
+        {
+          "r": 111,
+          "w": 1,
+          "o": 69,
+          "inning": "Sunrisers Leeds Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
@@ -727,7 +751,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "deb8544a-2fab-4ad2-8da2-98c32e9f3dab",
@@ -910,55 +934,10 @@
       "matchEnded": true
     },
     {
-      "id": "3f70bfd7-6c49-4dd5-ad4a-e9e74309c85e",
-      "name": "Welsh Fire Women vs Southern Brave Women, 19th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Welsh Fire Women won by 4 wkts",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-08-03",
-      "dateTimeGMT": "2026-08-03T14:00:00",
-      "teams": [
-        "Welsh Fire Women",
-        "Southern Brave Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 5,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 6,
-          "o": 100,
-          "inning": "Southern Brave Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d286b211-479e-470b-9883-d21c8b1f57e0",
       "name": "Leicestershire vs Warwickshire, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Warwickshire opt to bat",
+      "status": "Leicestershire won by 3 wkts",
       "venue": "Grace Road, Leicester",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T13:00:00",
@@ -980,10 +959,16 @@
       ],
       "score": [
         {
-          "r": 91,
-          "w": 4,
-          "o": 24,
+          "r": 220,
+          "w": 10,
+          "o": 46,
           "inning": "warwickshire Inning 1"
+        },
+        {
+          "r": 222,
+          "w": 7,
+          "o": 47.1,
+          "inning": "Leicestershire,Warwickshire Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
@@ -991,13 +976,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e89c4d5f-f5b7-436d-826c-5fefd0a5f5fd",
       "name": "Somerset vs Surrey, Group A, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Surrey opt to bowl",
+      "status": "Somerset won by 188 runs",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T13:00:00",
@@ -1019,10 +1004,16 @@
       ],
       "score": [
         {
-          "r": 183,
-          "w": 2,
-          "o": 29,
+          "r": 368,
+          "w": 9,
+          "o": 50,
           "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 180,
+          "w": 10,
+          "o": 38.2,
+          "inning": "Surrey Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
@@ -1030,13 +1021,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f0da0b96-6561-48d9-8b49-7159a30c270a",
       "name": "Sussex vs Worcestershire, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Worcestershire opt to bowl",
+      "status": "Worcestershire need 35 runs in 29 balls",
       "venue": "County Ground, Hove",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T13:00:00",
@@ -1058,10 +1049,16 @@
       ],
       "score": [
         {
-          "r": 125,
-          "w": 3,
-          "o": 22,
+          "r": 333,
+          "w": 9,
+          "o": 50,
           "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 299,
+          "w": 5,
+          "o": 45.1,
+          "inning": "Worcestershire Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
@@ -1070,6 +1067,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "54c5b820-b8d2-4273-b74e-75d9afc5db11",
+      "name": "Durham vs Middlesex, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Middlesex won by 3 wkts",
+      "venue": "Riverside Ground, Chester-le-Street",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T12:30:00",
+      "teams": [
+        "Durham",
+        "Middlesex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 303,
+          "w": 7,
+          "o": 50,
+          "inning": "Durham Inning 1"
+        },
+        {
+          "r": 307,
+          "w": 7,
+          "o": 49.3,
+          "inning": "Middlesex Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
@@ -1386,7 +1428,7 @@
         "points": 8
       },
       {
-        "team": "Welsh Fire",
+        "team": "Sunrisers Leeds",
         "played": 6,
         "won": 4,
         "lost": 2,
@@ -1394,12 +1436,12 @@
         "points": 8
       },
       {
-        "team": "Sunrisers Leeds",
-        "played": 5,
-        "won": 3,
+        "team": "Welsh Fire",
+        "played": 6,
+        "won": 4,
         "lost": 2,
         "nr": 0,
-        "points": 6
+        "points": 8
       },
       {
         "team": "Manchester Super Giants",
@@ -1419,9 +1461,9 @@
       },
       {
         "team": "Birmingham Phoenix",
-        "played": 5,
+        "played": 6,
         "won": 1,
-        "lost": 4,
+        "lost": 5,
         "nr": 0,
         "points": 2
       },
