@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T20:45:02.660Z",
+  "lastUpdated": "2026-08-08T03:37:54.662Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "2802b88c-2bef-48b5-b6c8-f39f7f825cea",
+      "name": "Jamaica Kingsmen vs Antigua and Barbuda Falcons, 1st Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Antigua and Barbuda Falcons won by 2 wkts",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "date": "2026-08-07",
+      "dateTimeGMT": "2026-08-07T23:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "Antigua and Barbuda Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 7,
+          "o": 20,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 168,
+          "w": 8,
+          "o": 20,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "31b39199-bbc5-41b9-b9ca-4a6a6f3f9a8e",
@@ -1027,7 +1071,7 @@
       "id": "f0da0b96-6561-48d9-8b49-7159a30c270a",
       "name": "Sussex vs Worcestershire, Group B, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Worcestershire need 35 runs in 29 balls",
+      "status": "Worcestershire won by 4 wkts",
       "venue": "County Ground, Hove",
       "date": "2026-08-07",
       "dateTimeGMT": "2026-08-07T13:00:00",
@@ -1055,55 +1099,10 @@
           "inning": "Sussex Inning 1"
         },
         {
-          "r": 299,
-          "w": 5,
-          "o": 45.1,
+          "r": 334,
+          "w": 6,
+          "o": 48.2,
           "inning": "Worcestershire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "54c5b820-b8d2-4273-b74e-75d9afc5db11",
-      "name": "Durham vs Middlesex, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Middlesex won by 3 wkts",
-      "venue": "Riverside Ground, Chester-le-Street",
-      "date": "2026-08-07",
-      "dateTimeGMT": "2026-08-07T12:30:00",
-      "teams": [
-        "Durham",
-        "Middlesex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 303,
-          "w": 7,
-          "o": 50,
-          "inning": "Durham Inning 1"
-        },
-        {
-          "r": 307,
-          "w": 7,
-          "o": 49.3,
-          "inning": "Middlesex Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
