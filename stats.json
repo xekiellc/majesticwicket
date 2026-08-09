@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T20:33:57.562Z",
+  "lastUpdated": "2026-08-09T03:47:19.332Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "63ef2e86-7380-4b08-977d-a2960097c1b8",
+      "name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders, 2nd Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders won by 19 runs (DLS Method)",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "date": "2026-08-08",
+      "dateTimeGMT": "2026-08-08T23:00:00",
+      "teams": [
+        "St Kitts and Nevis Patriots",
+        "Trinbago Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 9,
+          "o": 20,
+          "inning": "St Kitts and Nevis Patriots Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 2,
+          "o": 15,
+          "inning": "Trinbago Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "2802b88c-2bef-48b5-b6c8-f39f7f825cea",
@@ -1059,51 +1104,6 @@
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
       "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3b52b48c-7cd4-476f-9c1b-4155162e1f4a",
-      "name": "Trent Rockets Women vs Birmingham Phoenix Women, 22nd Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 6 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-08-05",
-      "dateTimeGMT": "2026-08-05T14:00:00",
-      "teams": [
-        "Trent Rockets Women",
-        "Birmingham Phoenix Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix Women",
-          "shortname": "BPW",
-          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 122,
-          "w": 7,
-          "o": 100,
-          "inning": "Birmingham Phoenix Women Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 4,
-          "o": 84,
-          "inning": "Trent Rockets Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
