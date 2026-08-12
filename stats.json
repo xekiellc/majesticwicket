@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T20:50:08.487Z",
+  "lastUpdated": "2026-08-12T04:12:13.951Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,49 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "630da7b9-fe15-4dfe-9ad6-ed411268fc5b",
+      "name": "Jamaica Kingsmen vs Barbados Tridents, 4th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Jamaica Kingsmen need 27 runs in 14 balls",
+      "venue": "Sabina Park, Kingston, Jamaica",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T00:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "Barbados Tridents"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 206,
+          "w": 3,
+          "o": 20,
+          "inning": "Barbados Tridents Inning 1"
+        },
+        {
+          "r": 180,
+          "w": 7,
+          "o": 17.4,
+          "inning": "Jamaica Kingsmen Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "67bf78d9-2409-4a40-9b20-4310dd0806be",
@@ -1064,51 +1107,6 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c0007557-4cde-4a2b-9a42-a1efe8154282",
-      "name": "Essex vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Yorkshire won by 7 wkts",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
-      "teams": [
-        "Essex",
-        "Yorkshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 10,
-          "o": 40.2,
-          "inning": "essex Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 3,
-          "o": 31.4,
-          "inning": "Essex,Yorkshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
