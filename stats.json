@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T15:02:41.812Z",
+  "lastUpdated": "2026-08-12T20:50:22.586Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -129,55 +129,10 @@
       "matchEnded": true
     },
     {
-      "id": "63ef2e86-7380-4b08-977d-a2960097c1b8",
-      "name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders, 2nd Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Trinbago Knight Riders won by 19 runs (DLS Method)",
-      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
-      "date": "2026-08-08",
-      "dateTimeGMT": "2026-08-08T23:00:00",
-      "teams": [
-        "St Kitts and Nevis Patriots",
-        "Trinbago Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "St Kitts and Nevis Patriots",
-          "shortname": "SNP",
-          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 9,
-          "o": 20,
-          "inning": "St Kitts and Nevis Patriots Inning 1"
-        },
-        {
-          "r": 94,
-          "w": 2,
-          "o": 15,
-          "inning": "Trinbago Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d423dab8-cc06-4676-98f6-105fcd48c9be",
       "name": "Dindigul Dragons vs Siechem Madurai Panthers, 15th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Dindigul Dragons opt to field",
+      "status": "Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
       "venue": "NPR College Ground, Dindigul",
       "date": "2026-08-12",
       "dateTimeGMT": "2026-08-12T14:00:00",
@@ -197,12 +152,26 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 171,
+          "w": 7,
+          "o": 18,
+          "inning": "Siechem Madurai Panthers Inning 1"
+        },
+        {
+          "r": 150,
+          "w": 6,
+          "o": 18,
+          "inning": "Dindigul Dragons Inning 1"
+        }
+      ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d38b5e89-4548-47f4-a3fa-255e4ed454ce",
@@ -473,142 +442,10 @@
       "matchEnded": true
     },
     {
-      "id": "fd126eab-e3c2-4847-8928-1d2f22f40717",
-      "name": "SKM Salem Spartans vs Trichy Grand Cholas, 8th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Trichy Grand Cholas won by 7 wkts",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-08",
-      "dateTimeGMT": "2026-08-08T14:00:00",
-      "teams": [
-        "SKM Salem Spartans",
-        "Trichy Grand Cholas"
-      ],
-      "teamInfo": [
-        {
-          "name": "SKM Salem Spartans",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 152,
-          "w": 9,
-          "o": 20,
-          "inning": "skm salem spartans Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 3,
-          "o": 17,
-          "inning": "SKM Salem Spartans,Trichy Grand Cholas Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3fac531b-a500-4570-8329-01cb7f697301",
-      "name": "Madurai Panthers vs Vida Kovai Kings, 7th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Madurai Panthers won by 6 wkts",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-08",
-      "dateTimeGMT": "2026-08-08T10:00:00",
-      "teams": [
-        "Madurai Panthers",
-        "Vida Kovai Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Madurai Panthers",
-          "shortname": "MP",
-          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
-        },
-        {
-          "name": "Vida Kovai Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 239,
-          "w": 4,
-          "o": 20,
-          "inning": "Vida Kovai Kings Inning 1"
-        },
-        {
-          "r": 240,
-          "w": 4,
-          "o": 19.3,
-          "inning": "Madurai Panthers Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "37425888-36ae-48c8-933b-1e7e9f1d37cb",
-      "name": "Jaffna Kings vs Galle Gallants, Final, Lanka Premier League 2026",
-      "matchType": "t20",
-      "status": "Galle Gallants won by 5 wkts",
-      "venue": "R.Premadasa Stadium, Colombo",
-      "date": "2026-08-08",
-      "dateTimeGMT": "2026-08-08T14:00:00",
-      "teams": [
-        "Jaffna Kings",
-        "Galle Gallants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Galle Gallants",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jaffna Kings",
-          "shortname": "JKS",
-          "img": "https://g.cricapi.com/iapi/188-637951181431298483.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 123,
-          "w": 10,
-          "o": 19.3,
-          "inning": "jaffna kings Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 5,
-          "o": 15.5,
-          "inning": "Jaffna Kings,Galle Gallants Inning 1"
-        }
-      ],
-      "series_id": "7cce2c26-63d3-4e9a-9728-33546cf732cd",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "abd11553-6082-4611-8994-8dca421f30ca",
       "name": "Ireland vs Afghanistan, 4th ODI, Afghanistan tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "Ireland need 303 runs",
+      "status": "Afghanistan won by 42 runs",
       "venue": "Civil Service Cricket Club, Belfast",
       "date": "2026-08-12",
       "dateTimeGMT": "2026-08-12T09:45:00",
@@ -636,9 +473,9 @@
           "inning": "Afghanistan Inning 1"
         },
         {
-          "r": 41,
-          "w": 0,
-          "o": 9.5,
+          "r": 301,
+          "w": 10,
+          "o": 48,
           "inning": "Ireland Inning 1"
         }
       ],
@@ -647,7 +484,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f79960b5-bda8-46ae-99ef-c622ba4a8d44",
@@ -695,10 +532,55 @@
       "matchEnded": true
     },
     {
+      "id": "d223b770-da84-4490-b317-267588a969e4",
+      "name": "Birmingham Phoenix vs MI London, 32nd Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "MI London won by 2 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T17:30:00",
+      "teams": [
+        "Birmingham Phoenix",
+        "MI London"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Mi London",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 157,
+          "w": 6,
+          "o": 100,
+          "inning": "MI London Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 7,
+          "o": 100,
+          "inning": "Birmingham Phoenix Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "5beda5ac-4cd7-46c3-bf19-0657d46222d3",
       "name": "Welsh Fire vs London Spirit, 31st Match, The Hundred Mens Competition 2026",
       "matchType": "t20",
-      "status": "Welsh Fire opt to bowl",
+      "status": "London Spirit won by 6 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-08-12",
       "dateTimeGMT": "2026-08-12T14:00:00",
@@ -720,10 +602,16 @@
       ],
       "score": [
         {
-          "r": 103,
-          "w": 4,
-          "o": 78,
+          "r": 131,
+          "w": 8,
+          "o": 100,
           "inning": "London Spirit Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 7,
+          "o": 100,
+          "inning": "Welsh Fire Inning 1"
         }
       ],
       "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
@@ -731,7 +619,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "bee460a0-a413-409e-8e18-431a21de7879",
@@ -914,100 +802,10 @@
       "matchEnded": true
     },
     {
-      "id": "415fb0a1-51f6-4e49-b1d3-9c1249c55ef5",
-      "name": "Southern Brave vs Manchester Super Giants, 26th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Manchester Super Giants won by 10 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-08-08",
-      "dateTimeGMT": "2026-08-08T17:00:00",
-      "teams": [
-        "Southern Brave",
-        "Manchester Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manchester Super Giants",
-          "shortname": "MSG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 149,
-          "w": 8,
-          "o": 100,
-          "inning": "manchester super giants Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 6,
-          "o": 100,
-          "inning": "Southern Brave,Manchester Super Giants Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "741495c8-dde6-4904-9783-98cae55faa6a",
-      "name": "MI London vs Trent Rockets, 25th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets won by 6 wkts",
-      "venue": "Kennington Oval, London",
-      "date": "2026-08-08",
-      "dateTimeGMT": "2026-08-08T13:30:00",
-      "teams": [
-        "MI London",
-        "Trent Rockets"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mi London",
-          "shortname": "MIL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trent Rockets",
-          "shortname": "TRE",
-          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 147,
-          "w": 7,
-          "o": 100,
-          "inning": "MI London Inning 1"
-        },
-        {
-          "r": 148,
-          "w": 4,
-          "o": 90,
-          "inning": "Trent Rockets Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "81af69dd-935e-4604-8345-01eed24df2b0",
       "name": "Birmingham Phoenix Women vs MI London Women, 32nd Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
-      "status": "Birmingham Phoenix Women opt to bowl",
+      "status": "Birmingham Phoenix Women won by 5 wkts",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-08-12",
       "dateTimeGMT": "2026-08-12T14:00:00",
@@ -1029,10 +827,16 @@
       ],
       "score": [
         {
-          "r": 90,
-          "w": 4,
-          "o": 81,
+          "r": 120,
+          "w": 6,
+          "o": 100,
           "inning": "MI London Women Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 5,
+          "o": 94,
+          "inning": "Birmingham Phoenix Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
@@ -1040,7 +844,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5e52633e-0086-4190-8c82-f6e706a3015a",
@@ -1081,6 +885,231 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fd360217-c17d-4a04-801e-3148f2290f89",
+      "name": "Manchester Super Giants Women vs Sunrisers Leeds Women, 30th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Leeds Women won by 41 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T14:00:00",
+      "teams": [
+        "Manchester Super Giants Women",
+        "Sunrisers Leeds Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants Women",
+          "shortname": "MSGW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 4,
+          "o": 100,
+          "inning": "Sunrisers Leeds Women Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 8,
+          "o": 100,
+          "inning": "Manchester Super Giants Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "93cbb104-7bba-4c60-997d-e0c662439f51",
+      "name": "Trent Rockets Women vs Southern Brave Women, 29th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Trent Rockets Women won by 3 wkts",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-08-10",
+      "dateTimeGMT": "2026-08-10T14:00:00",
+      "teams": [
+        "Trent Rockets Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Trent Rockets Women",
+          "shortname": "TRW",
+          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 5,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 7,
+          "o": 98,
+          "inning": "Trent Rockets Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7c2297e5-fa43-43a2-86cb-b20eb407ddb1",
+      "name": "London Spirit Women vs Birmingham Phoenix Women, 28th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "London Spirit Women won by 32 runs",
+      "venue": "Lord's, London",
+      "date": "2026-08-09",
+      "dateTimeGMT": "2026-08-09T13:30:00",
+      "teams": [
+        "London Spirit Women",
+        "Birmingham Phoenix Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "London Spirit Women",
+          "shortname": "LSW",
+          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 4,
+          "o": 100,
+          "inning": "London Spirit Women Inning 1"
+        },
+        {
+          "r": 108,
+          "w": 8,
+          "o": 100,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b16cbb81-8ce1-499f-b94c-e766e51259fb",
+      "name": "Sunrisers Leeds Women vs Welsh Fire Women, 27th Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Leeds Women won by 6 wkts",
+      "venue": "Headingley, Leeds",
+      "date": "2026-08-09",
+      "dateTimeGMT": "2026-08-09T10:00:00",
+      "teams": [
+        "Sunrisers Leeds Women",
+        "Welsh Fire Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 8,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 4,
+          "o": 74,
+          "inning": "Sunrisers Leeds Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c0007557-4cde-4a2b-9a42-a1efe8154282",
+      "name": "Essex vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Yorkshire won by 7 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Essex",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 10,
+          "o": 40.2,
+          "inning": "essex Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 3,
+          "o": 31.4,
+          "inning": "Essex,Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1394,6 +1423,14 @@
         "points": 12
       },
       {
+        "team": "MI London",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
         "team": "Sunrisers Leeds",
         "played": 8,
         "won": 5,
@@ -1410,20 +1447,20 @@
         "points": 10
       },
       {
-        "team": "MI London",
-        "played": 7,
+        "team": "Welsh Fire",
+        "played": 8,
         "won": 4,
-        "lost": 3,
+        "lost": 4,
         "nr": 0,
         "points": 8
       },
       {
-        "team": "Welsh Fire",
-        "played": 7,
-        "won": 4,
-        "lost": 3,
+        "team": "London Spirit",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
         "nr": 0,
-        "points": 8
+        "points": 6
       },
       {
         "team": "Southern Brave",
@@ -1434,18 +1471,10 @@
         "points": 6
       },
       {
-        "team": "London Spirit",
-        "played": 7,
-        "won": 2,
-        "lost": 5,
-        "nr": 0,
-        "points": 4
-      },
-      {
         "team": "Birmingham Phoenix",
-        "played": 7,
+        "played": 8,
         "won": 1,
-        "lost": 6,
+        "lost": 7,
         "nr": 0,
         "points": 2
       }
