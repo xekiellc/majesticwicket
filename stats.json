@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T04:12:13.951Z",
+  "lastUpdated": "2026-08-12T08:57:12.601Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -44,7 +44,7 @@
       "id": "630da7b9-fe15-4dfe-9ad6-ed411268fc5b",
       "name": "Jamaica Kingsmen vs Barbados Tridents, 4th Match, Caribbean Premier League 2026",
       "matchType": "t20",
-      "status": "Jamaica Kingsmen need 27 runs in 14 balls",
+      "status": "Barbados Tridents won by 5 runs",
       "venue": "Sabina Park, Kingston, Jamaica",
       "date": "2026-08-11",
       "dateTimeGMT": "2026-08-11T00:00:00",
@@ -70,9 +70,9 @@
           "inning": "Barbados Tridents Inning 1"
         },
         {
-          "r": 180,
-          "w": 7,
-          "o": 17.4,
+          "r": 201,
+          "w": 9,
+          "o": 20,
           "inning": "Jamaica Kingsmen Inning 1"
         }
       ],
