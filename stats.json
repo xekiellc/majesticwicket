@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T15:02:30.756Z",
+  "lastUpdated": "2026-08-13T20:48:32.422Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -129,55 +129,10 @@
       "matchEnded": true
     },
     {
-      "id": "67bf78d9-2409-4a40-9b20-4310dd0806be",
-      "name": "Antigua and Barbuda Falcons vs Saint Lucia Kings, 3rd Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Saint Lucia Kings won by 4 runs",
-      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T23:00:00",
-      "teams": [
-        "Antigua and Barbuda Falcons",
-        "Saint Lucia Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Antigua and Barbuda Falcons",
-          "shortname": "ABF",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 187,
-          "w": 8,
-          "o": 20,
-          "inning": "saint lucia kings Inning 1"
-        },
-        {
-          "r": 183,
-          "w": 7,
-          "o": 20,
-          "inning": "Antigua and Barbuda Falcons,Saint Lucia Kings Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0860c2b5-37e1-4fa8-9f15-236f93086fc2",
       "name": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans, 17th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "IDream Tiruppur Tamizhans opt to bowl",
+      "status": "Trichy Grand Cholas won by 17 runs",
       "venue": "NPR College Ground, Dindigul",
       "date": "2026-08-13",
       "dateTimeGMT": "2026-08-13T14:00:00",
@@ -199,10 +154,16 @@
       ],
       "score": [
         {
-          "r": 109,
-          "w": 3,
-          "o": 12.5,
+          "r": 196,
+          "w": 6,
+          "o": 20,
           "inning": "Trichy Grand Cholas Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 8,
+          "o": 20,
+          "inning": "IDream Tiruppur Tamizhans Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
@@ -210,7 +171,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f4e22c29-a051-446b-991f-8234b21efd0f",
@@ -470,96 +431,6 @@
           "w": 9,
           "o": 20,
           "inning": "SKM Salem Spartans Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e59065db-2007-4c34-bbf9-11a54fd2dddd",
-      "name": "IDream Tiruppur Tamizhans vs Nellai Royal Kings, 10th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "IDream Tiruppur Tamizhans won by 8 wkts",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T14:00:00",
-      "teams": [
-        "IDream Tiruppur Tamizhans",
-        "Nellai Royal Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "IDream Tiruppur Tamizhans",
-          "shortname": "ITT",
-          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
-        },
-        {
-          "name": "Nellai Royal Kings",
-          "shortname": "NRK",
-          "img": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 206,
-          "w": 8,
-          "o": 20,
-          "inning": "Nellai Royal Kings Inning 1"
-        },
-        {
-          "r": 207,
-          "w": 2,
-          "o": 18.1,
-          "inning": "IDream Tiruppur Tamizhans Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cc0a07ab-78e1-43c5-9def-83b1af1e1256",
-      "name": "Dindigul Dragons vs Chepauk Super Gillies, 9th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Chepauk Super Gillies won by 7 wkts",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T10:00:00",
-      "teams": [
-        "Dindigul Dragons",
-        "Chepauk Super Gillies"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chepauk Super Gillies",
-          "shortname": "CSG",
-          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
-        },
-        {
-          "name": "Dindigul Dragons",
-          "shortname": "DD",
-          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 8,
-          "o": 20,
-          "inning": "Dindigul Dragons Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 3,
-          "o": 16.2,
-          "inning": "Chepauk Super Gillies Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
@@ -840,96 +711,6 @@
       "matchEnded": true
     },
     {
-      "id": "29deab66-9d5c-41be-8367-11d144acd9d6",
-      "name": "London Spirit vs Birmingham Phoenix, 28th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "London Spirit won by 7 wkts",
-      "venue": "Lord's, London",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T17:00:00",
-      "teams": [
-        "London Spirit",
-        "Birmingham Phoenix"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix",
-          "shortname": "BRM",
-          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
-        },
-        {
-          "name": "London Spirit",
-          "shortname": "LDN",
-          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 162,
-          "w": 4,
-          "o": 100,
-          "inning": "Birmingham Phoenix Inning 1"
-        },
-        {
-          "r": 166,
-          "w": 3,
-          "o": 82,
-          "inning": "London Spirit Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bd18ba0e-ed3e-4a3f-81e2-4419eabe8f2a",
-      "name": "Sunrisers Leeds vs Welsh Fire, 27th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Leeds won by 71 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T13:30:00",
-      "teams": [
-        "Sunrisers Leeds",
-        "Welsh Fire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sunrisers Leeds",
-          "shortname": "SL",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Welsh Fire",
-          "shortname": "WEF",
-          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 201,
-          "w": 4,
-          "o": 100,
-          "inning": "Sunrisers Leeds Inning 1"
-        },
-        {
-          "r": 130,
-          "w": 6,
-          "o": 100,
-          "inning": "Welsh Fire Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "81af69dd-935e-4604-8345-01eed24df2b0",
       "name": "Birmingham Phoenix Women vs MI London Women, 32nd Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
@@ -1103,6 +884,231 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c0007557-4cde-4a2b-9a42-a1efe8154282",
+      "name": "Essex vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Yorkshire won by 7 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Essex",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 10,
+          "o": 40.2,
+          "inning": "essex Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 3,
+          "o": 31.4,
+          "inning": "Essex,Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "565706eb-92f7-4cad-bdba-12551396b118",
+      "name": "Gloucestershire vs Northamptonshire, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Gloucestershire won by 3 wkts",
+      "venue": "College Ground, Cheltenham",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Gloucestershire",
+        "Northamptonshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 308,
+          "w": 10,
+          "o": 46.4,
+          "inning": "Northamptonshire Inning 1"
+        },
+        {
+          "r": 309,
+          "w": 7,
+          "o": 49.2,
+          "inning": "Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b851ecb4-b34b-4fcf-b846-6c8e905ba876",
+      "name": "Hampshire vs Derbyshire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Derbyshire won by 8 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Hampshire",
+        "Derbyshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 317,
+          "w": 5,
+          "o": 50,
+          "inning": "Derbyshire Inning 1"
+        },
+        {
+          "r": 309,
+          "w": 10,
+          "o": 39.2,
+          "inning": "Hampshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2e9f20c4-efc6-48dc-b185-1d9538951954",
+      "name": "Middlesex vs Sussex, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Middlesex won by 92 runs",
+      "venue": "Brunton Memorial Ground, Radlett",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Middlesex",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 354,
+          "w": 8,
+          "o": 50,
+          "inning": "Middlesex Inning 1"
+        },
+        {
+          "r": 262,
+          "w": 10,
+          "o": 43.5,
+          "inning": "Sussex Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "82f5e325-d8d6-4157-9858-4a75c198105d",
+      "name": "Somerset vs Lancashire, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Lancashire won by 174 runs",
+      "venue": "The Cooper Associates County Ground, Taunton",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Somerset",
+        "Lancashire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 443,
+          "w": 6,
+          "o": 50,
+          "inning": "Lancashire Inning 1"
+        },
+        {
+          "r": 269,
+          "w": 10,
+          "o": 39.2,
+          "inning": "Somerset Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
