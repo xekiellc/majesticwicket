@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T20:50:22.586Z",
+  "lastUpdated": "2026-08-13T04:16:15.881Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "a2ebf416-f720-4aa6-b038-9f8bed5cb78f",
+      "name": "Saint Lucia Kings vs St Kitts and Nevis Patriots, 5th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "St Kitts and Nevis Patriots won by 5 wkts",
+      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T23:00:00",
+      "teams": [
+        "Saint Lucia Kings",
+        "St Kitts and Nevis Patriots"
+      ],
+      "teamInfo": [
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 8,
+          "o": 20,
+          "inning": "saint lucia kings Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 5,
+          "o": 17.4,
+          "inning": "Saint Lucia Kings,St Kitts and Nevis Patriots Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "630da7b9-fe15-4dfe-9ad6-ed411268fc5b",
@@ -1065,51 +1110,6 @@
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c0007557-4cde-4a2b-9a42-a1efe8154282",
-      "name": "Essex vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Yorkshire won by 7 wkts",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
-      "teams": [
-        "Essex",
-        "Yorkshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
-        },
-        {
-          "name": "Yorkshire",
-          "shortname": "YRK",
-          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 10,
-          "o": 40.2,
-          "inning": "essex Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 3,
-          "o": 31.4,
-          "inning": "Essex,Yorkshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
