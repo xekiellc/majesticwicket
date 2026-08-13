@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T08:59:02.593Z",
+  "lastUpdated": "2026-08-13T15:02:30.756Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -167,6 +167,89 @@
         }
       ],
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0860c2b5-37e1-4fa8-9f15-236f93086fc2",
+      "name": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans, 17th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "IDream Tiruppur Tamizhans opt to bowl",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T14:00:00",
+      "teams": [
+        "Trichy Grand Cholas",
+        "IDream Tiruppur Tamizhans"
+      ],
+      "teamInfo": [
+        {
+          "name": "IDream Tiruppur Tamizhans",
+          "shortname": "ITT",
+          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
+        },
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 3,
+          "o": 12.5,
+          "inning": "Trichy Grand Cholas Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f4e22c29-a051-446b-991f-8234b21efd0f",
+      "name": "Vida Kovai Kings vs Nellai Royal Kings, 16th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Nellai Royal Kings won by 2 wkts",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T10:00:00",
+      "teams": [
+        "Vida Kovai Kings",
+        "Nellai Royal Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nellai Royal Kings",
+          "shortname": "NRK",
+          "img": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=48"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 162,
+          "w": 9,
+          "o": 20,
+          "inning": "Vida Kovai Kings Inning 1"
+        },
+        {
+          "r": 163,
+          "w": 8,
+          "o": 19.5,
+          "inning": "Nellai Royal Kings Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -700,7 +783,7 @@
         {
           "r": 128,
           "w": 0,
-          "o": 68,
+          "o": 67,
           "inning": "Manchester Super Giants Inning 1"
         }
       ],
@@ -1017,96 +1100,6 @@
           "w": 7,
           "o": 98,
           "inning": "Trent Rockets Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7c2297e5-fa43-43a2-86cb-b20eb407ddb1",
-      "name": "London Spirit Women vs Birmingham Phoenix Women, 28th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "London Spirit Women won by 32 runs",
-      "venue": "Lord's, London",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T13:30:00",
-      "teams": [
-        "London Spirit Women",
-        "Birmingham Phoenix Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Birmingham Phoenix Women",
-          "shortname": "BPW",
-          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
-        },
-        {
-          "name": "London Spirit Women",
-          "shortname": "LSW",
-          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 4,
-          "o": 100,
-          "inning": "London Spirit Women Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 8,
-          "o": 100,
-          "inning": "Birmingham Phoenix Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b16cbb81-8ce1-499f-b94c-e766e51259fb",
-      "name": "Sunrisers Leeds Women vs Welsh Fire Women, 27th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Sunrisers Leeds Women won by 6 wkts",
-      "venue": "Headingley, Leeds",
-      "date": "2026-08-09",
-      "dateTimeGMT": "2026-08-09T10:00:00",
-      "teams": [
-        "Sunrisers Leeds Women",
-        "Welsh Fire Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sunrisers Leeds Women",
-          "shortname": "SLW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Welsh Fire Women",
-          "shortname": "WFW",
-          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 8,
-          "o": 100,
-          "inning": "Welsh Fire Women Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 4,
-          "o": 74,
-          "inning": "Sunrisers Leeds Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
