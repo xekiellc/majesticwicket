@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T20:48:32.422Z",
+  "lastUpdated": "2026-08-14T04:12:30.929Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "b58ef995-1045-41a1-84e9-706debbc20d5",
+      "name": "Jamaica Kingsmen vs Guyana Amazon Warriors, 6th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors won by 6 wkts",
+      "venue": "Sabina Park, Kingston, Jamaica",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T00:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "Guyana Amazon Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 4,
+          "o": 14.1,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "a2ebf416-f720-4aa6-b038-9f8bed5cb78f",
@@ -1061,51 +1105,6 @@
           "w": 10,
           "o": 43.5,
           "inning": "Sussex Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "82f5e325-d8d6-4157-9858-4a75c198105d",
-      "name": "Somerset vs Lancashire, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Lancashire won by 174 runs",
-      "venue": "The Cooper Associates County Ground, Taunton",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
-      "teams": [
-        "Somerset",
-        "Lancashire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lancashire",
-          "shortname": "LNCS",
-          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
-        },
-        {
-          "name": "Somerset",
-          "shortname": "SOM",
-          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 443,
-          "w": 6,
-          "o": 50,
-          "inning": "Lancashire Inning 1"
-        },
-        {
-          "r": 269,
-          "w": 10,
-          "o": 39.2,
-          "inning": "Somerset Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
