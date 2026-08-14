@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T08:54:36.689Z",
+  "lastUpdated": "2026-08-14T14:56:08.567Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -166,6 +166,81 @@
         }
       ],
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "af3a2cab-6dff-491c-b126-3c58b1084b9f",
+      "name": "Madurai Panthers vs Chepauk Super Gillies, 19th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Madurai Panthers opt to bowl",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T14:00:00",
+      "teams": [
+        "Madurai Panthers",
+        "Chepauk Super Gillies"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chepauk Super Gillies",
+          "shortname": "CSG",
+          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
+        },
+        {
+          "name": "Madurai Panthers",
+          "shortname": "MP",
+          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "32b78568-9a24-4ed9-9a4e-43b9b56ea4ae",
+      "name": "SKM Salem Spartans vs Dindigul Dragons, 18th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Dindigul Dragons won by 82 runs - 15 overs game due to rain",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T10:00:00",
+      "teams": [
+        "SKM Salem Spartans",
+        "Dindigul Dragons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dindigul Dragons",
+          "shortname": "DD",
+          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
+        },
+        {
+          "name": "SKM Salem Spartans",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 239,
+          "w": 6,
+          "o": 15,
+          "inning": "Dindigul Dragons Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 8,
+          "o": 15,
+          "inning": "SKM Salem Spartans Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -755,6 +830,45 @@
       "matchEnded": true
     },
     {
+      "id": "24b93d6c-6c73-42e6-8137-686fd1529ed5",
+      "name": "Sunrisers Leeds Women vs Southern Brave Women, Eliminator, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T13:15:00",
+      "teams": [
+        "Sunrisers Leeds Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 7,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "81af69dd-935e-4604-8345-01eed24df2b0",
       "name": "Birmingham Phoenix Women vs MI London Women, 32nd Match, The Hundred Womens Competition 2026",
       "matchType": "t20",
@@ -935,22 +1049,22 @@
       "matchEnded": true
     },
     {
-      "id": "c0007557-4cde-4a2b-9a42-a1efe8154282",
-      "name": "Essex vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
+      "id": "63a5a1ab-4a4c-4176-8218-dcfa524e695c",
+      "name": "Yorkshire vs Nottinghamshire, Quarter Final 2, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Yorkshire won by 7 wkts",
-      "venue": "County Ground, Chelmsford",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
+      "status": "Nottinghamshire need 238 runs",
+      "venue": "Clifton Park Ground, York",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T10:00:00",
       "teams": [
-        "Essex",
-        "Yorkshire"
+        "Yorkshire",
+        "Nottinghamshire"
       ],
       "teamInfo": [
         {
-          "name": "Essex",
-          "shortname": "ESX",
-          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
         },
         {
           "name": "Yorkshire",
@@ -960,16 +1074,16 @@
       ],
       "score": [
         {
-          "r": 151,
-          "w": 10,
-          "o": 40.2,
-          "inning": "essex Inning 1"
+          "r": 273,
+          "w": 9,
+          "o": 50,
+          "inning": "Yorkshire Inning 1"
         },
         {
-          "r": 155,
+          "r": 36,
           "w": 3,
-          "o": 31.4,
-          "inning": "Essex,Yorkshire Inning 1"
+          "o": 8.5,
+          "inning": "Nottinghamshire Inning 1"
         }
       ],
       "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
@@ -977,142 +1091,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "565706eb-92f7-4cad-bdba-12551396b118",
-      "name": "Gloucestershire vs Northamptonshire, Group A, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Gloucestershire won by 3 wkts",
-      "venue": "College Ground, Cheltenham",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
-      "teams": [
-        "Gloucestershire",
-        "Northamptonshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gloucestershire",
-          "shortname": "GLOU",
-          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
-        },
-        {
-          "name": "Northamptonshire",
-          "shortname": "NOR",
-          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 308,
-          "w": 10,
-          "o": 46.4,
-          "inning": "Northamptonshire Inning 1"
-        },
-        {
-          "r": 309,
-          "w": 7,
-          "o": 49.2,
-          "inning": "Gloucestershire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b851ecb4-b34b-4fcf-b846-6c8e905ba876",
-      "name": "Hampshire vs Derbyshire, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Derbyshire won by 8 runs",
-      "venue": "The Rose Bowl, Southampton",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
-      "teams": [
-        "Hampshire",
-        "Derbyshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Derbyshire",
-          "shortname": "DERB",
-          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
-        },
-        {
-          "name": "Hampshire",
-          "shortname": "HAM",
-          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 317,
-          "w": 5,
-          "o": 50,
-          "inning": "Derbyshire Inning 1"
-        },
-        {
-          "r": 309,
-          "w": 10,
-          "o": 39.2,
-          "inning": "Hampshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2e9f20c4-efc6-48dc-b185-1d9538951954",
-      "name": "Middlesex vs Sussex, Group B, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Middlesex won by 92 runs",
-      "venue": "Brunton Memorial Ground, Radlett",
-      "date": "2026-08-11",
-      "dateTimeGMT": "2026-08-11T10:00:00",
-      "teams": [
-        "Middlesex",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        },
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 354,
-          "w": 8,
-          "o": 50,
-          "inning": "Middlesex Inning 1"
-        },
-        {
-          "r": 262,
-          "w": 10,
-          "o": 43.5,
-          "inning": "Sussex Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
