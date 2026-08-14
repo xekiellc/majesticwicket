@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T14:56:08.567Z",
+  "lastUpdated": "2026-08-14T20:34:24.387Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -176,7 +176,7 @@
       "id": "af3a2cab-6dff-491c-b126-3c58b1084b9f",
       "name": "Madurai Panthers vs Chepauk Super Gillies, 19th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Madurai Panthers opt to bowl",
+      "status": "Chepauk Super Gillies won by 39 runs",
       "venue": "NPR College Ground, Dindigul",
       "date": "2026-08-14",
       "dateTimeGMT": "2026-08-14T14:00:00",
@@ -196,12 +196,26 @@
           "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 240,
+          "w": 2,
+          "o": 20,
+          "inning": "Madurai Panthers Inning 1"
+        },
+        {
+          "r": 201,
+          "w": 8,
+          "o": 20,
+          "inning": "Chepauk Super Gillies Inning 1"
+        }
+      ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "32b78568-9a24-4ed9-9a4e-43b9b56ea4ae",
@@ -516,50 +530,6 @@
       "matchEnded": true
     },
     {
-      "id": "0eff0ec8-4287-4258-8d71-60b3204a5910",
-      "name": "SKM Salem Spartans vs Madurai Panthers, 11th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Madurai Panthers won by 36 runs",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-10",
-      "dateTimeGMT": "2026-08-10T14:00:00",
-      "teams": [
-        "SKM Salem Spartans",
-        "Madurai Panthers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Madurai Panthers",
-          "shortname": "MP",
-          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
-        },
-        {
-          "name": "SKM Salem Spartans",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 195,
-          "w": 8,
-          "o": 20,
-          "inning": "Madurai Panthers Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 9,
-          "o": 20,
-          "inning": "SKM Salem Spartans Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "abd11553-6082-4611-8994-8dca421f30ca",
       "name": "Ireland vs Afghanistan, 4th ODI, Afghanistan tour of Ireland, 2026",
       "matchType": "odi",
@@ -605,44 +575,44 @@
       "matchEnded": true
     },
     {
-      "id": "f79960b5-bda8-46ae-99ef-c622ba4a8d44",
-      "name": "Ireland vs Afghanistan, 3rd ODI, Afghanistan tour of Ireland, 2026",
-      "matchType": "odi",
-      "status": "Afghanistan won by 3 wkts",
-      "venue": "Civil Service Cricket Club, Belfast",
-      "date": "2026-08-10",
-      "dateTimeGMT": "2026-08-10T09:45:00",
+      "id": "ffeeb4bf-b954-45e4-a016-0a392cc2d2fc",
+      "name": "Manchester Super Giants vs Sunrisers Leeds, Eliminator, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Manchester Super Giants won by 20 runs",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T17:00:00",
       "teams": [
-        "Ireland",
-        "Afghanistan"
+        "Manchester Super Giants",
+        "Sunrisers Leeds"
       ],
       "teamInfo": [
         {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          "name": "Manchester Super Giants",
+          "shortname": "MSG",
+          "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+          "name": "Sunrisers Leeds",
+          "shortname": "SL",
+          "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 206,
-          "w": 10,
-          "o": 46.3,
-          "inning": "Ireland Inning 1"
+          "r": 186,
+          "w": 4,
+          "o": 100,
+          "inning": "Manchester Super Giants Inning 1"
         },
         {
-          "r": 207,
+          "r": 166,
           "w": 7,
-          "o": 44.5,
-          "inning": "Afghanistan Inning 1"
+          "o": 100,
+          "inning": "Sunrisers Leeds Inning 1"
         }
       ],
-      "series_id": "2a1567e1-5bdd-4bdb-b60b-1979c5193533",
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -785,55 +755,10 @@
       "matchEnded": true
     },
     {
-      "id": "3032d7c1-dd02-4845-ac05-7bf032c6e5a4",
-      "name": "Trent Rockets vs Southern Brave, 29th Match, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Southern Brave won by 6 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-08-10",
-      "dateTimeGMT": "2026-08-10T17:30:00",
-      "teams": [
-        "Trent Rockets",
-        "Southern Brave"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave",
-          "shortname": "SOU",
-          "img": "https://g.cricapi.com/iapi/274-637885742671987889.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets",
-          "shortname": "TRE",
-          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 158,
-          "w": 5,
-          "o": 100,
-          "inning": "Trent Rockets Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 4,
-          "o": 97,
-          "inning": "Southern Brave Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "24b93d6c-6c73-42e6-8137-686fd1529ed5",
       "name": "Sunrisers Leeds Women vs Southern Brave Women, Eliminator, The Hundred Womens Competition 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Sunrisers Leeds Women won by 5 wkts",
       "venue": "Kennington Oval, London",
       "date": "2026-08-14",
       "dateTimeGMT": "2026-08-14T13:15:00",
@@ -859,6 +784,12 @@
           "w": 7,
           "o": 100,
           "inning": "Southern Brave Women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 5,
+          "o": 89,
+          "inning": "Sunrisers Leeds Women Inning 1"
         }
       ],
       "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
@@ -866,7 +797,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "81af69dd-935e-4604-8345-01eed24df2b0",
@@ -1004,55 +935,10 @@
       "matchEnded": true
     },
     {
-      "id": "93cbb104-7bba-4c60-997d-e0c662439f51",
-      "name": "Trent Rockets Women vs Southern Brave Women, 29th Match, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 3 wkts",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-08-10",
-      "dateTimeGMT": "2026-08-10T14:00:00",
-      "teams": [
-        "Trent Rockets Women",
-        "Southern Brave Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Southern Brave Women",
-          "shortname": "SBW",
-          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 117,
-          "w": 5,
-          "o": 100,
-          "inning": "Southern Brave Women Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 7,
-          "o": 98,
-          "inning": "Trent Rockets Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "63a5a1ab-4a4c-4176-8218-dcfa524e695c",
       "name": "Yorkshire vs Nottinghamshire, Quarter Final 2, England Domestic One-Day Cup 2026",
       "matchType": "odi",
-      "status": "Nottinghamshire need 238 runs",
+      "status": "Nottinghamshire won by 3 wkts",
       "venue": "Clifton Park Ground, York",
       "date": "2026-08-14",
       "dateTimeGMT": "2026-08-14T10:00:00",
@@ -1080,9 +966,9 @@
           "inning": "Yorkshire Inning 1"
         },
         {
-          "r": 36,
-          "w": 3,
-          "o": 8.5,
+          "r": 277,
+          "w": 7,
+          "o": 48.4,
           "inning": "Nottinghamshire Inning 1"
         }
       ],
@@ -1091,7 +977,142 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "f2c023fb-8830-4213-9afb-9747138d3d66",
+      "name": "Lancashire vs Durham, Quarter Final 1, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Durham won by 162 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T10:00:00",
+      "teams": [
+        "Lancashire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 349,
+          "w": 8,
+          "o": 50,
+          "inning": "durham Inning 1"
+        },
+        {
+          "r": 187,
+          "w": 10,
+          "o": 36.1,
+          "inning": "Lancashire,Durham Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c0007557-4cde-4a2b-9a42-a1efe8154282",
+      "name": "Essex vs Yorkshire, Group B, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Yorkshire won by 7 wkts",
+      "venue": "County Ground, Chelmsford",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Essex",
+        "Yorkshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 10,
+          "o": 40.2,
+          "inning": "essex Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 3,
+          "o": 31.4,
+          "inning": "Essex,Yorkshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "565706eb-92f7-4cad-bdba-12551396b118",
+      "name": "Gloucestershire vs Northamptonshire, Group A, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Gloucestershire won by 3 wkts",
+      "venue": "College Ground, Cheltenham",
+      "date": "2026-08-11",
+      "dateTimeGMT": "2026-08-11T10:00:00",
+      "teams": [
+        "Gloucestershire",
+        "Northamptonshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 308,
+          "w": 10,
+          "o": 46.4,
+          "inning": "Northamptonshire Inning 1"
+        },
+        {
+          "r": 309,
+          "w": 7,
+          "o": 49.2,
+          "inning": "Gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
