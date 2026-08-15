@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-08-14T20:34:24.387Z",
+  "lastUpdated": "2026-08-15T02:55:38.715Z",
   "articles": [
+    {
+      "title": "Cricket Australia chief highlights bilateral ODI revenue conundrum",
+      "url": "https://www.cricinfo.com/ci/content/story/1549998.html?ex_cid=OTC-RSS",
+      "description": "CA CEO Todd Greenberg says there needs to be more meaning in bilateral ODIs but is concerned by the financial cost if they are removed from the schedule",
+      "publishedAt": "2026-08-15T02:17:36.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Walter, Tongue make the difference as Super Giants surge into Men's Hundred final",
+      "url": "https://www.cricinfo.com/ci/content/story/1549995.html?ex_cid=OTC-RSS",
+      "description": "Brook and Rickelton fight for SRL, but target of 187 proves to be out of reach",
+      "publishedAt": "2026-08-14T21:18:27.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Baker and Winfield-Hill take in-form Sunrisers into final",
       "url": "https://www.cricinfo.com/ci/content/story/1549981.html?ex_cid=OTC-RSS",
@@ -76,26 +96,6 @@
       "url": "https://www.cricinfo.com/ci/content/story/1549906.html?ex_cid=OTC-RSS",
       "description": "Their batters put up a much-improved performance in the fourth ODI. But can they stop Afghanistan from making it 4-0?",
       "publishedAt": "2026-08-14T13:28:31.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "India and Sri Lanka meet in a vastly different Test landscape",
-      "url": "https://www.cricinfo.com/ci/content/story/1549895.html?ex_cid=OTC-RSS",
-      "description": "Stranded in the middle of the table, both teams need a 2-0 win to stay in realistic contention of making the WTC final",
-      "publishedAt": "2026-08-14T12:11:27.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Gill: 'Extra time in preparation definitely helps'",
-      "url": "https://www.cricinfo.com/ci/content/story/1549891.html?ex_cid=OTC-RSS",
-      "description": "&quot;Most of the players in this team require a bit of time to be able to adjust to the conditions&quot;",
-      "publishedAt": "2026-08-14T11:58:10.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -202,16 +202,6 @@
       "urlToImage": null
     },
     {
-      "title": "The Hundred 2026 results: Tim Seifert's 80* helps Manchester Super Giants crush Sunrisers Leeds - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcUIzZWpDanJ3aW0xSXg0Z25qRU5xX3o4TE51eG50cjNxWWI0RDRrZW5tdlN3QlFxSW5WMjhzeXlGSjViLUtBaTNBRHBKbDBnd2tiM1pzYU9kRFlhNkNPd2N0QmtnZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcUIzZWpDanJ3aW0xSXg0Z25qRU5xX3o4TE51eG50cjNxWWI0RDRrZW5tdlN3QlFxSW5WMjhzeXlGSjViLUtBaTNBRHBKbDBnd2tiM1pzYU9kRFlhNkNPd2N0QmtnZw?oc=5\" target=\"_blank\">The Hundred 2026 results: Tim Seifert's 80* helps Manchester Super Giants crush Sunrisers",
-      "publishedAt": "2026-08-11T20:27:32.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "The King of the Hundred is the best captain England never had - The Telegraph",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0JmeHJQQW5XQ0dxZDJ6WENnbE5DVll2M3duUGFDNVpHamszSkR6SER1cEt4VVRFekFwc2N4UE9vNTBqRzRoeUlYVXVEWlFITldwajUzRmR5S1ZreXE0ZDVJMWM0Q3hRSzdzX21HVTFZaC1MUkhSU09kbWdxcU5WT0p1dGJ1RFBnRUpCYWdULTV3VDFTekJKdkhZd2ZtNlE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0JmeHJQQW5XQ0dxZDJ6WENnbE5DVll2M3duUGFDNVpHamszSkR6SER1cEt4VVRFekFwc2N4UE9vNTBqRzRoeUlYVXVEWlFITldwajUzRmR5S1ZreXE0ZDVJMWM0Q3hRSzdzX21HVTFZaC1MUkhSU09kbWdxcU5WT0p1dGJ1RFBnRUpCYWdULTV3VDFTekJKdkhZd2ZtNlE?oc=5\" target=\"_blank\">The King of ",
@@ -242,16 +232,6 @@
       "urlToImage": null
     },
     {
-      "title": "Indians in the Hundred 2026: Deepti Sharma’s Sunrisers Leeds reaches final - Sportstar",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeUpBVHJWYnlrTnNmeGZUMEtPX0ZaODBnWnNleHNVOGtaSTFjWEN2Mi1XeENlSGVXSkVBdDRkTUlobkVvejdtMGRMQTV3VTh2bEVkc21xa3lsLWN0OXFsQ1RBVmFMejQzUGtkWi1MeWMxRUlOcm9MWFB3QmNfbGo5a2tMOW1IOUlqSjI2UEtLOTJuSXpVMmRLYzlvQ1FZbmVZbWZKRzdxR05HWGF1WjZDVk11Mk4xUmhPNVg3SWQzSWJWXzlkTHJmQ09mMl9tYzd6WHBFRlJ5cDh2a3d3cXZyOFFmQWVEbXVvbXl5VnM2U3pOdE9SSnVqaHM0SW03UFVSM3h1S9IBiwJBVV95cUxOYUlpbF9ua2EtUDBjckl6OFlYeW01bmRwRXY0am1xdHpBUnQwcjM0akY4SG1DbVdyVE1qb2x5WDFzSWUxSkJNY2JrWFNVYnUyOUNBQzVVaVBCQ2FVN2Rocmt2ajRnRmN2YUwzNTE1TmVfTTJlLWc4SGxSd3NMajFTTUdyZmhjaUo3UWFYQVhYaHRKbmJxd3l0RUs3YlByS2J1eXhXcC1jMDZnTjJoR3ZJV0l3cTFQTHpWVXFQUVdQYlpXN2JaNWtfWDVMRVJWbE9nRDFFWjNnZVlYYkJwWi1wemRraGVnYklRcjM2ajhOWmtnN09MbnFybXFYTVMwSlFQWDZyeTFqVktFT2c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQeUpBVHJWYnlrTnNmeGZUMEtPX0ZaODBnWnNleHNVOGtaSTFjWEN2Mi1XeENlSGVXSkVBdDRkTUlobkVvejdtMGRMQTV3VTh2bEVkc21xa3lsLWN0OXFsQ1RBVmFMejQzUGtkWi1MeWMxRUlOcm9MWFB3QmNfbGo5a2tMOW1IOUlqSjI2UEtLOTJuSXpVMmRLYzlvQ1FZbmVZbWZKRzdxR05HWGF1WjZDVk11Mk4xUmhPNV",
-      "publishedAt": "2026-08-14T17:08:43.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "The Hundred 2026 permutations: Qualification scenarios for each team ahead of their last league game - Wisden",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUi1CbXZvdktYSUxTNnIwN1FnbzVoWng0ZGVGNW9VQ0FPNm1RNEQ3UFBDWWJIYUpXT2VudWU0V2Q0cUxjcGdKUjktTzdlQmRtU3JYTHFzVkFHLXZOX2JLdnFRV3VhY1BjaUJ2a3RiUkdKUm5Wb19XeXpfcVZVQi1EZEhaVVNrT1NOQTRNc0VCek1vOFVidzBxNzQ3MlpDODBNRk9Oa3laR3VrQjd0Y2g4aHBNMV9DMEFvT2VCenVWUTg3RERBYlZHNEFpVVZNZ3dEUGVhejhENnM5emtuY0Itci1QclZUaWItWHh1eQ?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUi1CbXZvdktYSUxTNnIwN1FnbzVoWng0ZGVGNW9VQ0FPNm1RNEQ3UFBDWWJIYUpXT2VudWU0V2Q0cUxjcGdKUjktTzdlQmRtU3JYTHFzVkFHLXZOX2JLdnFRV3VhY1BjaUJ2a3RiUkdKUm5Wb19XeXpfcVZVQi1EZEhaVVNrT1NOQTRNc0VCek1vOFVidzBxNzQ3MlpDODBNRk9Oa3laR3VrQjd0Y2g4aHBNMV9DMEFvT2",
@@ -262,30 +242,20 @@
       "urlToImage": null
     },
     {
-      "title": "Cricket clubs urged to make their ‘pitch’ for £1,000 cash prize - Strabane Weekly",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWWRSZC02eFVrdjFlMTVleEc4Z0tKWmtSTTRTYzg2R094SlVBQkw2S2lGRHlTelQ5Ym92S19zVWYwbEtnaWh5OWkzTXF2YUlFTnlPTFBERUIyX1lTbXJURjFPSzZhWGFCTnE4cld5NEpYSHRDamZWRXVPczJPaFFZS1k1cjJmRVFZNVQxcFcxNWpwc3pYSS1RTmY5dnp2cU15R0VSVk9uR0FXbmttdFM4blNPOFF6NVpqZ0pLbVVYdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPWWRSZC02eFVrdjFlMTVleEc4Z0tKWmtSTTRTYzg2R094SlVBQkw2S2lGRHlTelQ5Ym92S19zVWYwbEtnaWh5OWkzTXF2YUlFTnlPTFBERUIyX1lTbXJURjFPSzZhWGFCTnE4cld5NEpYSHRDamZWRXVPczJPaFFZS1k1cjJmRVFZNVQxcFcxNWpwc3pYSS1RTmY5dnp2cU15R0VSVk9uR0FXbmttdFM4blNPOFF6NVpqZ0",
-      "publishedAt": "2026-08-14T09:03:28.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "The Hundred 2026 results: Welsh Fire beat London Spirit to end campaign on a high - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZmVxMy1uZ3BLb0RfYXVXQnBMNnY1dEJIc1ViNFFja3hlWHE4dDNYd2FkNmgzelZQclpTY3ZReFdtRjVLTU5RVllySlR5dlB2LUp4Nm1maks4b2pHRXNpbHFKMWhvd2o0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZmVxMy1uZ3BLb0RfYXVXQnBMNnY1dEJIc1ViNFFja3hlWHE4dDNYd2FkNmgzelZQclpTY3ZReFdtRjVLTU5RVllySlR5dlB2LUp4Nm1maks4b2pHRXNpbHFKMWhvd2o0?oc=5\" target=\"_blank\">The Hundred 2026 results: Welsh Fire beat London Spirit to end campaign on a high</a>&n",
-      "publishedAt": "2026-08-12T13:43:09.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rockets face nervous wait after defeat by Brave - bbc.com",
+      "title": "Rockets face nervous wait after defeat by Brave - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95dHFydWxTbnhaZFUzbUM1bzNtUHdrZkxtUFNNNmJoZlNscjhLV2RUWk9OSEJSZDQtZXhJckZ6SFlwdS1FbHFSblAxNjlnQ0hSdFQ1eTlBQkFRZGJ6UDlQbjJWeFNndw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE95dHFydWxTbnhaZFUzbUM1bzNtUHdrZkxtUFNNNmJoZlNscjhLV2RUWk9OSEJSZDQtZXhJckZ6SFlwdS1FbHFSblAxNjlnQ0hSdFQ1eTlBQkFRZGJ6UDlQbjJWeFNndw?oc=5\" target=\"_blank\">Rockets face nervous wait after defeat by Brave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE95dHFydWxTbnhaZFUzbUM1bzNtUHdrZkxtUFNNNmJoZlNscjhLV2RUWk9OSEJSZDQtZXhJckZ6SFlwdS1FbHFSblAxNjlnQ0hSdFQ1eTlBQkFRZGJ6UDlQbjJWeFNndw?oc=5\" target=\"_blank\">Rockets face nervous wait after defeat by Brave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC<",
       "publishedAt": "2026-08-10T20:45:31.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Indians in the Hundred 2026: Deepti Sharma’s Sunrisers Leeds reaches final - Sportstar",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeUpBVHJWYnlrTnNmeGZUMEtPX0ZaODBnWnNleHNVOGtaSTFjWEN2Mi1XeENlSGVXSkVBdDRkTUlobkVvejdtMGRMQTV3VTh2bEVkc21xa3lsLWN0OXFsQ1RBVmFMejQzUGtkWi1MeWMxRUlOcm9MWFB3QmNfbGo5a2tMOW1IOUlqSjI2UEtLOTJuSXpVMmRLYzlvQ1FZbmVZbWZKRzdxR05HWGF1WjZDVk11Mk4xUmhPNVg3SWQzSWJWXzlkTHJmQ09mMl9tYzd6WHBFRlJ5cDh2a3d3cXZyOFFmQWVEbXVvbXl5VnM2U3pOdE9SSnVqaHM0SW03UFVSM3h1S9IBiwJBVV95cUxOYUlpbF9ua2EtUDBjckl6OFlYeW01bmRwRXY0am1xdHpBUnQwcjM0akY4SG1DbVdyVE1qb2x5WDFzSWUxSkJNY2JrWFNVYnUyOUNBQzVVaVBCQ2FVN2Rocmt2ajRnRmN2YUwzNTE1TmVfTTJlLWc4SGxSd3NMajFTTUdyZmhjaUo3UWFYQVhYaHRKbmJxd3l0RUs3YlByS2J1eXhXcC1jMDZnTjJoR3ZJV0l3cTFQTHpWVXFQUVdQYlpXN2JaNWtfWDVMRVJWbE9nRDFFWjNnZVlYYkJwWi1wemRraGVnYklRcjM2ajhOWmtnN09MbnFybXFYTVMwSlFQWDZyeTFqVktFT2c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQeUpBVHJWYnlrTnNmeGZUMEtPX0ZaODBnWnNleHNVOGtaSTFjWEN2Mi1XeENlSGVXSkVBdDRkTUlobkVvejdtMGRMQTV3VTh2bEVkc21xa3lsLWN0OXFsQ1RBVmFMejQzUGtkWi1MeWMxRUlOcm9MWFB3QmNfbGo5a2tMOW1IOUlqSjI2UEtLOTJuSXpVMmRLYzlvQ1FZbmVZbWZKRzdxR05HWGF1WjZDVk11Mk4xUmhPNV",
+      "publishedAt": "2026-08-14T17:08:43.000Z",
       "source": {
         "name": "Google News"
       },
@@ -302,30 +272,30 @@
       "urlToImage": null
     },
     {
-      "title": "Babar Azam to reclaim Pakistan white-ball captaincy? Misbah-ul-Haq categorically rejects claim, Shaheen Afridi remains firm on retaining role - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYlNCclBLcElQMmoxbVNKRGdrRlM0bXR4N0Q5dTUwUmF3bmpqY3JLa3FaWkFBaEVIbWs3OHpIMGJ3RFpGaEdfT19JcDFlYThOeE1Bc1dnOWU2ZE5qeE5yTFZmM0Y0bTJWR1NpdEcwQThjaU1uMGZZSnlkSDFoQUJnb1BnRWdDZEVBZUE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPYlNCclBLcElQMmoxbVNKRGdrRlM0bXR4N0Q5dTUwUmF3bmpqY3JLa3FaWkFBaEVIbWs3OHpIMGJ3RFpGaEdfT19JcDFlYThOeE1Bc1dnOWU2ZE5qeE5yTFZmM0Y0bTJWR1NpdEcwQThjaU1uMGZZSnlkSDFoQUJnb1BnRWdDZEVBZUE?oc=5\" target=\"_blank\">Babar Azam to reclaim Pakistan white-bal",
-      "publishedAt": "2026-08-11T03:59:00.000Z",
+      "title": "Cricket clubs urged to make their ‘pitch’ for £1,000 cash prize - Strabane Weekly",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWWRSZC02eFVrdjFlMTVleEc4Z0tKWmtSTTRTYzg2R094SlVBQkw2S2lGRHlTelQ5Ym92S19zVWYwbEtnaWh5OWkzTXF2YUlFTnlPTFBERUIyX1lTbXJURjFPSzZhWGFCTnE4cld5NEpYSHRDamZWRXVPczJPaFFZS1k1cjJmRVFZNVQxcFcxNWpwc3pYSS1RTmY5dnp2cU15R0VSVk9uR0FXbmttdFM4blNPOFF6NVpqZ0pLbVVYdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPWWRSZC02eFVrdjFlMTVleEc4Z0tKWmtSTTRTYzg2R094SlVBQkw2S2lGRHlTelQ5Ym92S19zVWYwbEtnaWh5OWkzTXF2YUlFTnlPTFBERUIyX1lTbXJURjFPSzZhWGFCTnE4cld5NEpYSHRDamZWRXVPczJPaFFZS1k1cjJmRVFZNVQxcFcxNWpwc3pYSS1RTmY5dnp2cU15R0VSVk9uR0FXbmttdFM4blNPOFF6NVpqZ0",
+      "publishedAt": "2026-08-14T09:03:28.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar back inside top 10 as Pakistan trio win rankings boost - ICC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEI1NXBUQm1hWmJTbjBuVFh4dVk2amg3cFoxVFRMWVdyTzk5U2lvX25GWjQwMkhRUlB2UUZWTDQ0M3FTR1FTTTNGWnZkYk43cGh1RjFJNWxHWmNReEc3NS1CaUVSYndjMmJRRWRDZ2hfVWtwTXdpS2xkSXNxRkhoRWtEaDhEbXRDRzBwck4yb0Y2cjh1eGd4bQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEI1NXBUQm1hWmJTbjBuVFh4dVk2amg3cFoxVFRMWVdyTzk5U2lvX25GWjQwMkhRUlB2UUZWTDQ0M3FTR1FTTTNGWnZkYk43cGh1RjFJNWxHWmNReEc3NS1CaUVSYndjMmJRRWRDZ2hfVWtwTXdpS2xkSXNxRkhoRWtEaDhEbXRDRzBwck4yb0Y2cjh1eGd4bQ?oc=5\" target=\"_blank\">Babar back inside top",
-      "publishedAt": "2026-08-12T08:06:11.000Z",
+      "title": "Perry shines with bat to end Hundred campaign in style - cricket.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0loRU1DR0JwM1QxekRoTHJLMmxMSHdQd1MxVThOMjBxX0EwbVl6bFdQTjBnQmRnT2lZTHdRS1NKTHh0TTRZa0p2SUFpZ3dmTm4tVjVkYXpXWG1NS3hnbnF3d3hLNTA5M3hQaHhWbmRPb1hHUGtacFZ5QzJPRF9xdnNnRVZjZkVoRjd2cTNHRUhIMEZmeWo5YlczdUhRZHlJbGtPN1dOWmdmRFo4VmFScVNUWEN3M2FLTGEzRWNVbE1YLXNrZzBBbUtSRG1QTFR0MkZ2Y1RfUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0loRU1DR0JwM1QxekRoTHJLMmxMSHdQd1MxVThOMjBxX0EwbVl6bFdQTjBnQmRnT2lZTHdRS1NKTHh0TTRZa0p2SUFpZ3dmTm4tVjVkYXpXWG1NS3hnbnF3d3hLNTA5M3hQaHhWbmRPb1hHUGtacFZ5QzJPRF9xdnNnRVZjZkVoRjd2cTNHRUhIMEZmeWo5YlczdUhRZHlJbGtPN1dOWmdmRFo4VmFScVNUWEN3M2FLTG",
+      "publishedAt": "2026-08-12T21:22:43.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Emilio Gay makes a pair against Pakistan - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk9NQ1NSV2ZOS1hjZ19tVFZkNS1YNjZha08tamJPVGJRLTYyN0gtamdrWTZENkowYXplWFNrSlVhNi1ZanVYand3UldtWm1rOVNlcWJBN1NaYlhzd18wRHVYQ0FsaVRaNTlOdkgwajVLaGdzQU54bHFUQzhnLUhUTF9sNEFPQ1NZTkkzblRIYThCQlprMllwQzctSEZSbHd0MjZBVS13?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk9NQ1NSV2ZOS1hjZ19tVFZkNS1YNjZha08tamJPVGJRLTYyN0gtamdrWTZENkowYXplWFNrSlVhNi1ZanVYand3UldtWm1rOVNlcWJBN1NaYlhzd18wRHVYQ0FsaVRaNTlOdkgwajVLaGdzQU54bHFUQzhnLUhUTF9sNEFPQ1NZTkkzblRIYThCQlprMllwQzctSEZSbHd0MjZBVS13?oc=5\" target=\"_blank\">Emi",
-      "publishedAt": "2026-08-14T17:17:00.000Z",
+      "title": "Match Predictions: The Hundred Womens 2026 - Welsh Fire Women vs London Spirit Women - Birmingham Phoenix Women vs MI London Women - August 12 - Cricket World",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSlVxQkF0UkNfRGxsRnZCOGJuTEp5cWgtQUwxMzBSNklkaWlTbUdqT0ZlQkIxSU1SR0FfNjBpS2ZmNE9DLUc3Z0dobW5KMnc3NkdXdF9LMVViYkxsNGtvc0VCNmtZeDRCQTBueEJqekpLTzk1QTNldXJpekxOMzB1QURzX2NPamlESXlUcjVaQ1hKQWlsZ0FraTFQNDBKMUhQbWhBS2d6WDJJNkVGbDhzdmc2QmtaS1gtVFhKSmdtMlFSZlEtYUZTdG91Rk9wYnRKUHlCLWhweHY1T1htNHVNZjloLWFWVE1wOGRXc1V6RHBmS2xXRko4YVI4V1FwamJCc2kybzFR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOSlVxQkF0UkNfRGxsRnZCOGJuTEp5cWgtQUwxMzBSNklkaWlTbUdqT0ZlQkIxSU1SR0FfNjBpS2ZmNE9DLUc3Z0dobW5KMnc3NkdXdF9LMVViYkxsNGtvc0VCNmtZeDRCQTBueEJqekpLTzk1QTNldXJpekxOMzB1QURzX2NPamlESXlUcjVaQ1hKQWlsZ0FraTFQNDBKMUhQbWhBS2d6WDJJNkVGbDhzdmc2QmtaS1gtVF",
+      "publishedAt": "2026-08-11T15:00:27.000Z",
       "source": {
         "name": "Google News"
       },
@@ -342,40 +312,10 @@
       "urlToImage": null
     },
     {
-      "title": "'Difficult for Pakistan to handle': Shoaib Akhtar warns Babar Azam-led side - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZEJiNDhIMVR6dkpTUVZnRkRjVUw2QWVpczlkcGVwNGNsLVh1TEw5Nnd3OFIzTTB6aXRvRUJ6aFFJRlljYVRVNkRnalliTkJDeXlDczN4Z0FvTzYwN0dhX1Y0SVNsdDB1RlRfQ3d2SlRiWEdLeFlDZEZRbGRyWGNuZXNEWDFnclY1azhuN2NKd0JPM01nTEN0U21LM2VLaldPRHJBdVZzU2xpUjhBSjBOdXQ0MG5HdmdESVpxOXE0MHpOZ2R3VFJUNWc3RTNaanlrQU5DTXFrZnBENzUwM0pSOXN2VlNwVklaYlHSAe8BQVVfeXFMTzNvMURySFJ5OUFjby16WlhCWTVjX3l3emoxcjEyb25hS0FQeF9IeWtnMThzXzZwM3UwOU1ieDZGWnBVTmNjdG8wUUgzdkR6TE9wX0dubzhiNGptUC1veU5nVG1kLVcycDgzNEs0T3FPRVZjWnVsM1k2OGkxVzRsQVo5QkVJa1JPV3BtTnZjWE01WnZna1N5T0FLeWdqcDdTd1FyS1RTVUtGODBRVlMzRW9VVGVEV2xJQThXS3NpUmpYQURsZjVIS1ZuTVU1QV9rRDRQTlZUaTR3UlVFSENwR2I5VzZOcW51NjZUcTZFV2M?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZEJiNDhIMVR6dkpTUVZnRkRjVUw2QWVpczlkcGVwNGNsLVh1TEw5Nnd3OFIzTTB6aXRvRUJ6aFFJRlljYVRVNkRnalliTkJDeXlDczN4Z0FvTzYwN0dhX1Y0SVNsdDB1RlRfQ3d2SlRiWEdLeFlDZEZRbGRyWGNuZXNEWDFnclY1azhuN2NKd0JPM01nTEN0U21LM2VLaldPRHJBdVZzU2xpUjhBSjBOdXQ0MG5HdmdESV",
-      "publishedAt": "2026-08-12T04:42:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Difficult assignment': PCB advised to 'keep away' Babar Azam from English media on England tour - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVB2dFdCWWR0aVRlb0M1eWpjZUhFN2dzS2x3OHBpY1ZxbnRxY2l6ajlKWjF2NGx1TUU3RGVsVjFOaGIzdHloT0Qybi02T1BiYlRXakpJdEVicWdQLS15OFRrMGc2LWNhUndRbG0xRGdPczJFcDJyanI0allPX0MxRW83aXN6MFNXY21lY0lRZVhQY2ZiODZOZDEzVlBxQUowa3hEZ1oydmRqSFd2TTUtTGUyT0xQV184UkNCbWcxeEJISDJwd3NHdWVESVdpYzV6eHk1WjVnT2hGd2JOTXcyUXFPNnlLN3pNN3AteWJaS1M5MXFsZFkwVlo5dEVPTG84TktR0gGIAkFVX3lxTE0wdU0zZU1oTDZpTWJLcG5aU2owSEJIUmoxSlFaSlFXTDIzcjBpT0VpaXp4Qkl1VEV1NVBXODJxQzRReTRCU0NTTll6SEt6T1kxVEhQMW5SclN3TDVHdC1DWVhGWGItUGdsMEVJdzBHZTlXTHlON0tLTWl4RU50SXFmQ1dmV1owV1Y1VDRxV05LMEJYREZ3dkU2TEhmc3BGRnlpd2IwUDJXOUR5SzYtZ0EzN2VneFZvWXdMeEhsZzBUMXFTMlpIOTU5QUtrUTNOUll5Ynl1Mlg2WU5YZ3NIekxZcEFwVFExRmdKQ2dESHJPNXpvN2NhUFNlUVNQR210dnhSODdZSW9waQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVB2dFdCWWR0aVRlb0M1eWpjZUhFN2dzS2x3OHBpY1ZxbnRxY2l6ajlKWjF2NGx1TUU3RGVsVjFOaGIzdHloT0Qybi02T1BiYlRXakpJdEVicWdQLS15OFRrMGc2LWNhUndRbG0xRGdPczJFcDJyanI0allPX0MxRW83aXN6MFNXY21lY0lRZVhQY2ZiODZOZDEzVlBxQUowa3hEZ1oydmRqSFd2TTUtTGUyT0xQV184Uk",
-      "publishedAt": "2026-08-10T23:30:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Keep Babar Azam away from English media, ex-Pakistan captain's bizarre request to PCB - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFBSZDlMTE9EWk5sLXhrZXVKdjJMZVQyRVBHRUJCam5wOUxncGRoVm1OcmMtOVJlVUJSNUczczRkVzgtRzYzcVRsMEpnS2Voc2lOSkpmOXFBbEJCcnZYTkc5VmsyOE16aXd3M0pvWTg1WkZzOUFhaENVTVFZTFJrREJXN3RmbXRCalpkVTZudVlnQ0l3NXUwWmVHb2MtZF9oNlhESHRvRVpza2NqV0tUSzZoeHFwVUw1N1d2STAwSTR3UXVqcXVOWW5R0gHcAUFVX3lxTE4tUF9RYXBlSzRJU1NlanZiU011TTdSOGowTHVkelFtVlZsMnRSTnJyNlgweEN5bFIydnM3eTF2NnF0SlU3V2xjVUJidHc2X1pVVjlmRzhXcE5sUUlNbHhxdmdsWVhObUlYeGwyNU1MaGdydEktZGtjRWZjZmJJcTlDMkQ4Tk1udk95SERQbEJZdkZDVGdCLTZWdENNU3AyYy00N2RCWU1rTmxscDlWQXdHRld4eHFUWHB2T1BWR3NFQWpYVmQtSzZRb25nTmZLUHBwbndoTzhSa1dram0?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFBSZDlMTE9EWk5sLXhrZXVKdjJMZVQyRVBHRUJCam5wOUxncGRoVm1OcmMtOVJlVUJSNUczczRkVzgtRzYzcVRsMEpnS2Voc2lOSkpmOXFBbEJCcnZYTkc5VmsyOE16aXd3M0pvWTg1WkZzOUFhaENVTVFZTFJrREJXN3RmbXRCalpkVTZudVlnQ0l3NXUwWmVHb2MtZF9oNlhESHRvRVpza2NqV0tUSzZoeHFwVUw1N1",
-      "publishedAt": "2026-08-11T08:08:38.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Pakistan in England: From Kardar to Babar - Journalism Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0pvbDJNSFVjY2RWbXA1a19vZ1gzUlFIaTNKVkh5NnNHcTI4WDR1d0FfTmhjNklacU5CTHI5RFBNZmIwVXh2SkFIaG91ekNsUFdPQWVNMHR0MmpuNWlHd3AxQzFSNm1YRDloMG1TSGVtMElZOURMSlNXOVk5TVFYTw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0pvbDJNSFVjY2RWbXA1a19vZ1gzUlFIaTNKVkh5NnNHcTI4WDR1d0FfTmhjNklacU5CTHI5RFBNZmIwVXh2SkFIaG91ekNsUFdPQWVNMHR0MmpuNWlHd3AxQzFSNm1YRDloMG1TSGVtMElZOURMSlNXOVk5TVFYTw?oc=5\" target=\"_blank\">Pakistan in England: From Kardar to Babar</a>&nbsp;&n",
-      "publishedAt": "2026-08-14T14:48:32.000Z",
+      "title": "Babar hit on hand, advised rest till 17th - The News Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkNvTHlkeTNLRlR3WFE5UmFyMmJlZE5PRmxJdzEzVDlrNDBrTjctNXRrZ0dhLUJRcXliN2R2OVVZRkR0aFkwMTNxMFp3U09GbjZXSGs1UnhNb2VxYkdLdDlEOEpYbWwxYW9UMnhOWkVWenNHcFh6OEF1VVhhQlFkcE1zZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkNvTHlkeTNLRlR3WFE5UmFyMmJlZE5PRmxJdzEzVDlrNDBrTjctNXRrZ0dhLUJRcXliN2R2OVVZRkR0aFkwMTNxMFp3U09GbjZXSGs1UnhNb2VxYkdLdDlEOEpYbWwxYW9UMnhOWkVWenNHcFh6OEF1VVhhQlFkcE1zZw?oc=5\" target=\"_blank\">Babar hit on hand, advised rest till 17th</a>&nbs",
+      "publishedAt": "2026-08-14T19:00:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -392,6 +332,16 @@
       "urlToImage": null
     },
     {
+      "title": "Babar Azam retired hurt after being struck on hand during warm-up match - Geo Super",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkg0aERPcWVZNDFJVWFVUERtcU1ScGZtTVFER1dGLW1pZDdSMlNyN2pzVktDcHIxQmJsVE9LVVhIMFRwSUNSV0F2dFBmX0dpbV94NmZmTWxDVE1PQm9OdkFIUENlMjZsV2gxclJQVlJvQVpzd19IZ1BERjVDTVdIUmkwSHFqS0ZISUthbTB5bzZFcl85alJ6SXV2YWtOVVdVUHhBUUd5cHhrOXNr0gGoAUFVX3lxTE9vSU1KVGw0ZVVRQnNYem5MX2VBRjVONGdUc1VCU29iSTVVNGpyb2tDNERyVXNzaEwyWHVVZE5NR2NHRVhpZDdObHlfYTBPdko1bFFXd1ZKVklxMkZFWUh3Vk1nc1ZvYXZvdjliaUVoWkpZWWZSRnFmMTBTOVJNYkNaQk9BQUNwUGt1YzEwb3AzSVhGVE40bWFYc2d3eWl4cHJDSl9wRzRSXw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkg0aERPcWVZNDFJVWFVUERtcU1ScGZtTVFER1dGLW1pZDdSMlNyN2pzVktDcHIxQmJsVE9LVVhIMFRwSUNSV0F2dFBmX0dpbV94NmZmTWxDVE1PQm9OdkFIUENlMjZsV2gxclJQVlJvQVpzd19IZ1BERjVDTVdIUmkwSHFqS0ZISUthbTB5bzZFcl85alJ6SXV2YWtOVVdVUHhBUUd5cHhrOXNr0gGoAUFVX3lxTE9vSU",
+      "publishedAt": "2026-08-14T13:09:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Shaheen Afridi breaks silence on reports of Babar Azam replacing him as ODI captain: ‘For now, I’m the…' | Cricket - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON1VPV2ZKbFFadkZ6T3lyZW5BTkFNc0xXLVBzWDJCR2dnSHdvSDJ0VTlpVlZIWWNFZDlPSUVGZHBaUVp3MXF1c0pDRVNYMTREZ2hNNVU3U202UmEzRUFVY2N5YWRpVzg5Yi1jc0RYMmNEckc0MGhkU2tnek9WaEN4bHgzVDNCRjdPOFhCdklJa1N0Vy1wX1ltTDJNb1pZSVFHbm10bzZHUHlrdHA0aFh3WjhkY1I4TVFRRUlCUHNnVkZfeWxHa1VnWk5ndGF5NFB4M0F6OWFaTDh1Tm9PemhuUWF1bDBLX1NESFdoN1U5bjPSAfYBQVVfeXFMTjVsMU5rQXRGVjFTZUZ2VEFlZnU4TUhVR29Td2ZDVzhQeGZ1M3hNWXA2MVdaTThoNVJRekFWYTVvaklMMVBIZ1JDUnlCQURJeVZHZmtNVTBfajhOckVIRkhRQlI0elZ0dnloTVRvdGVBNUpLV3NBSkxUalZFU0hXMF94LXAtcXVYSERfbnpyWlprek81elUwTkdCUXc5OXh5b0ZfS2tHOHIwdkd6Y25sbFVOMEM0WGhSX25aUi1WUlNxUHFDbnA4T2s2UlgzZHlGTE1CNFdPckFrSlkzLTJQVnpENUlZSHRYZEpQTG05NXhVZXdxUE1R?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxON1VPV2ZKbFFadkZ6T3lyZW5BTkFNc0xXLVBzWDJCR2dnSHdvSDJ0VTlpVlZIWWNFZDlPSUVGZHBaUVp3MXF1c0pDRVNYMTREZ2hNNVU3U202UmEzRUFVY2N5YWRpVzg5Yi1jc0RYMmNEckc0MGhkU2tnek9WaEN4bHgzVDNCRjdPOFhCdklJa1N0Vy1wX1ltTDJNb1pZSVFHbm10bzZHUHlrdHA0aFh3WjhkY1I4TVFRRU",
@@ -400,9 +350,69 @@
         "name": "Google News"
       },
       "urlToImage": null
+    },
+    {
+      "title": "Shoaib Akhtar sounds alarm for Babar Azam’s Pakistan before England Test series: ‘Very difficult for them to handle’ | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV2xfdWpMRkxsMWpDc2NSUGN2aEJrSGZ1MlIyMEtuYXg4MlNhNE1JdkpmaTluNEdrem43aWswRmxob0JwYlhlcjBHTEZqelBaNEYwbDdoV0FPT05aVDd2V2pPN0VhRTVxaWxnNWNNc2dBekVUWFhBTFd1QmZMTjNRUjh6VGJlczd4OXlKRTV3eTJNZUk3c1cxNDd4M3lKRmZDeWtuQmpxcE9uZmJNRjZLa3QzUVBxUjNMMkN5blBfS2d3UW9JTkYxbE5UckNHdHJ6d3Y1MjNRckFxc0xCOGdUZVNtcFFLSDU2cUtTd0Y1QklhTWFBc1JSbURoMXZobUVUZHYw0gGIAkFVX3lxTE90YUtSOTVIcWlVSVFjb1BBT09mQXNwTDZNbngtYnZlN3FYRUJfeW1QY2FwZl9ncWxib2IxUjhyWEdxNGlzbFVBY1ZFYkRnaE5Cc29lWkdvNUhDRFBWUWlSOWxkR09OclBYQTRtNExLd0hNOERjMklEcG41Zk1oV1JGbWZacGt0eE42Ui13NGpfM2I2TVJyT0UtcXFCSHRjR3RPb1ZZUDdJblgxdzZPaGVwa3RuZFBtVzhObkFFSnVJcDRiUzJVNWhzZTNNRFVKY1ZMWU11OTFYcEJrOGZ3U0dBRDBxLUwwU09ZbHAzRWxlcTY4MWVHbExRcGFGX181MzJNVURQWEVZMw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQV2xfdWpMRkxsMWpDc2NSUGN2aEJrSGZ1MlIyMEtuYXg4MlNhNE1JdkpmaTluNEdrem43aWswRmxob0JwYlhlcjBHTEZqelBaNEYwbDdoV0FPT05aVDd2V2pPN0VhRTVxaWxnNWNNc2dBekVUWFhBTFd1QmZMTjNRUjh6VGJlczd4OXlKRTV3eTJNZUk3c1cxNDd4M3lKRmZDeWtuQmpxcE9uZmJNRjZLa3QzUVBxUjNMMk",
+      "publishedAt": "2026-08-12T01:58:14.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Babar Azam returns to ICC Test top 10, Shan Masood returns to training ahead of England series - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdTFHVWpJMk4xeWpfd0tWQWxNWHJPR0ZnTU1ZWTNFX1ktWU1oUmRLc3JIQTQ2bmE1OU1xYVZ5N1h4cXJRbmdidHA4aXY2YkZIMzE2UHg5cE1WSzlYWnN5bVJpM0F6YjBiRzRLaHVOaVRRUnFCNHF3cHBGdzhVS0ktdTlwWkVWb0k2MUlXTDNLallveVNYY0wtY1NhLW1US2pUTHNjbjJUV2FvMHpucHg5TzV3cGNoYnEzQXpNQ2dUT0FVOHZhR0xQYzRvSnMzZElwUnQxSGhSamV4WDB6Y3dYYWRTVzJITXVoZ2FJLTZ6bzJQTU8zSHNGNXVvZlR6bjc5NHdhR2h30gGLAkFVX3lxTE1peXVZSUhJbUVPaGltSzVjbFdvQVRJOUdHSjNBYmg0cVVFa3lDOEZkOGVVdUx0NDM2cFBpRE9YbHJXSHRxbWdmSlJwQ1Vqd1lKbGF2Y3pianhhWDVDaHQ1cXJ3MTVLTm95a0cyQzdaUzI5Rk9wcnR1MVF5ZHNDaTdmcVpNZF9DTEdXSmZYUEp1MldUNGYwVnV4UXhuUlI2VWZTLXNwUllIX05ITUZLbGU5a2lJZGlrclBmRXVyY3VIWXhCWEFjRGgycEJkRnJkaWg0VXkzZFEtNmtqNEgtM0k1djI3cHJSaXZxcG1WQ1V0R0wxTkFJM2tzU2xRTU13OHl5bUdUa1Jzc0prTQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOdTFHVWpJMk4xeWpfd0tWQWxNWHJPR0ZnTU1ZWTNFX1ktWU1oUmRLc3JIQTQ2bmE1OU1xYVZ5N1h4cXJRbmdidHA4aXY2YkZIMzE2UHg5cE1WSzlYWnN5bVJpM0F6YjBiRzRLaHVOaVRRUnFCNHF3cHBGdzhVS0ktdTlwWkVWb0k2MUlXTDNLallveVNYY0wtY1NhLW1US2pUTHNjbjJUV2FvMHpucHg5TzV3cGNoYnEzQX",
+      "publishedAt": "2026-08-12T09:17:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Pakistan Told To Hide Babar Azam From England Media, Instead This Star's Name Gets Floated - sports.ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFlkYS15QkJkajVQRzZyQThaT1pNWVFIWW81N3plbGVSU2pwcHU0MlN2VzlLalR2bUdFTXNlVlpJb0trYXAxOC1xelJKQjJwaC0wOWxMTDVxbU1kNkh1YV9yTkE0LWwtSW95RTQ4OGkxa3l3WFlvZXNmeWpMbnJqZnp5bjhSLWh2eXhmQnlaWl8zSTNRcEYtVUZrRGNLNnNrWFUxbWlEa1VISUtpX2k1OTlieEFMLXV2cnBsWXNaMlRHLUNvRjVNRWJuSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFlkYS15QkJkajVQRzZyQThaT1pNWVFIWW81N3plbGVSU2pwcHU0MlN2VzlLalR2bUdFTXNlVlpJb0trYXAxOC1xelJKQjJwaC0wOWxMTDVxbU1kNkh1YV9yTkE0LWwtSW95RTQ4OGkxa3l3WFlvZXNmeWpMbnJqZnp5bjhSLWh2eXhmQnlaWl8zSTNRcEYtVUZrRGNLNnNrWFUxbWlEa1VISUtpX2k1OTlieEFMLXV2cn",
+      "publishedAt": "2026-08-11T00:53:11.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Babar Azam gets English media warning as former Pakistan star suggests Shan Masood switch | Cricket - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNlZWWmx5S1JrU0gxdkEtQlV6OERtaXRpZDd1SFNRZUY3R3Z5V2NVaWhTNFMtRmlXVV96dUlWS2lKc1htLU5RUE1ncjZmQ3pudFZmNGxodWl2U3NwTkotUE0yWlMtYjAyak15OGItRWVBUjVaaTNmRHJQa2lWU2xKbmY5ZVBGLUV0bzJFTlFTOWVueW5ENzI4enJpallyMGlEQnl2Y05SZktkNGxSVWJYeE1Vd1QxX0tJdUhIcUI3NGFkVnR4cFByellNUGs3TlVaWGF3SGFLUVZhTFlvUmxfRFNLRdIB6AFBVV95cUxOdHhubUh4ZDRjM0VUa0N5eU1LLTZRdWQtZlBUeXgzZDZqMUhFSjYwTk9UdXZMVlJXR2ZaR195TTVaVDIxemFSdUxVMlhNWFBWOW54cURBWjREa3p2b1ZGVkN0QVBXOHNZYTd2UzhzaGxEdDRvQzdEOGJjVmNHVGhzdHVlcUs0amVwOS01VURVcEFNVGhSVHl6SjhOMWl6TVFKM2doQlZPNktPdnRab0VPN3BlYzRHdklkMW5ybnFjUFdPakhnLVI1Smc5MmJyMHk1ek9ucEE4WkRIQlp6SFlZMVl4T2s1NHY3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNlZWWmx5S1JrU0gxdkEtQlV6OERtaXRpZDd1SFNRZUY3R3Z5V2NVaWhTNFMtRmlXVV96dUlWS2lKc1htLU5RUE1ncjZmQ3pudFZmNGxodWl2U3NwTkotUE0yWlMtYjAyak15OGItRWVBUjVaaTNmRHJQa2lWU2xKbmY5ZVBGLUV0bzJFTlFTOWVueW5ENzI4enJpallyMGlEQnl2Y05SZktkNGxSVWJYeE1Vd1QxX0tJdU",
+      "publishedAt": "2026-08-11T02:59:08.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Pakistan in England: From Kardar to Babar - Journalism Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0pvbDJNSFVjY2RWbXA1a19vZ1gzUlFIaTNKVkh5NnNHcTI4WDR1d0FfTmhjNklacU5CTHI5RFBNZmIwVXh2SkFIaG91ekNsUFdPQWVNMHR0MmpuNWlHd3AxQzFSNm1YRDloMG1TSGVtMElZOURMSlNXOVk5TVFYTw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0pvbDJNSFVjY2RWbXA1a19vZ1gzUlFIaTNKVkh5NnNHcTI4WDR1d0FfTmhjNklacU5CTHI5RFBNZmIwVXh2SkFIaG91ekNsUFdPQWVNMHR0MmpuNWlHd3AxQzFSNm1YRDloMG1TSGVtMElZOURMSlNXOVk5TVFYTw?oc=5\" target=\"_blank\">Pakistan in England: From Kardar to Babar</a>&nbsp;&n",
+      "publishedAt": "2026-08-14T14:48:32.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
     }
   ],
   "culture": [
+    {
+      "title": "Ghana - Culture, Traditions, Cuisine - britannica.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGaXNiQThLLXg4U05tVXdXQ3ZTeEJndEdaSlVrWkJka1k4OE9EcXJsNmltWHRRY0pwa0d2OXpPX2s0clZTc2RNeUNnbmctOE1BME9hTV9rS20xaHpOYl9hX1doLXF0Ni1vcnBjMzNPb2NSbE5hRFlB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGaXNiQThLLXg4U05tVXdXQ3ZTeEJndEdaSlVrWkJka1k4OE9EcXJsNmltWHRRY0pwa0d2OXpPX2s0clZTc2RNeUNnbmctOE1BME9hTV9rS20xaHpOYl9hX1doLXF0Ni1vcnBjMzNPb2NSbE5hRFlB?oc=5\" target=\"_blank\">Ghana - Culture, Traditions, Cuisine</a>&nbsp;&nbsp;<font color=\"#6",
+      "publishedAt": "2026-08-11T05:00:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Study of folk & classical traditions a must to understand state’s cultural identity: Expert - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpfd1VNMWxrNGFDWW9nRmxyVkRXbHdEeDZGWFFHYnB1Wm5makpTYmk1UmNmY1hXaGpPNHpVVEVWcXdVUUNVaHR0amhXQ3dTVno1SXN1cGhVMnkteTQ4NXdFWlJCdll3dW1HbExLSW45elhsQ0JVUjh1MUFkcUM4aUNfd2hIa2ZNd0NsSC1XTHl0QnJaZTU5UXNtRUZKM25ZRENJbmdpSkE3bkd5WHpXTnVKZzVEUzBSQVFzUDJfMWlrUWw4RFJsRURFc9IBzwFBVV95cUxObHpwNjFTRVBCT1hXaUNOMEFvQ3ljRm9nR1lfV1BNLTdORkxNdUItUk1SUWt4R1pCc0Ntd3drUGV3NGFqY2x6bVYtZDRrVkN0c1Q5WHZjVnpYcUNtOHpleFFzV3ozTzB4X2duY0tVNURQYVE2b2M0dG9OMmpWSDZyZlNqMzR1SlNLQmw4REU4dFN0UFNLVEZFcHNYRlVVNC1nWFhEc2JXZ1JwclBIMzBHcE1MUXhtTlVBYW42bzY2QjlYcU5SelJqak9sczZ5bm8?oc=5",
@@ -434,16 +444,6 @@
       "urlToImage": null
     },
     {
-      "title": "80 years after the partition bloodbath - themorning.lk",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocE1qMUlZdmN4VG1BZWg3Q0twMk9lSFZ1aHdNWnFlYlJuOXhuU2dXYnR5TGx5YzVRQjVlMTdiZ3pFR055MmtiRjRMTTlkck5pV1c1WHZDR2RpdGdWcDdBT2JoS1R2Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocE1qMUlZdmN4VG1BZWg3Q0twMk9lSFZ1aHdNWnFlYlJuOXhuU2dXYnR5TGx5YzVRQjVlMTdiZ3pFR055MmtiRjRMTTlkck5pV1c1WHZDR2RpdGdWcDdBT2JoS1R2Zw?oc=5\" target=\"_blank\">80 years after the partition bloodbath</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">themorning.lk",
-      "publishedAt": "2026-08-14T01:11:56.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Glimpses of Haryanvi, Rajasthani culture showcased at UK exhibition | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnNiUEVKMEJtZGZnRXR3cGNnbHJGRzVRSkRURUQ4dnM4elZNSnZlOWZLTkxPQU5jZERMMEItZkFmUU9jdkNwU1B4NmgzSFhGbVd0TndwY3hGc2gzcURtem1Sa01HTWtVQTZmT1hSZ09MdWZrcjlud1U2VExROHZ2ZEJEOWRwQjZLNUlXLXA1QlUwbTc4MW9QdUdyT0w2ZGVwQ3ZsOFp5Mlo4bklJSVlXMFBaaS15TEdrNnl6dFhEVU1namFrd2lCRDk0dmNyTy15QU1lNHYtUzDSAd4BQVVfeXFMTUp5TWVKUXM5YjdlbkI1ZXNkTkNlLTFyN1BOdXozVGtHd1huazUySGltdXRNX25IMnVndy1nMWJRdVZ2czA0NFlnUm12TkxwZXR4dER6SmRWb1M4Slo2SkVmR2NsckhZRHd0ai1UOWdXbEhXZlB5SzFoTzVTNTJBaTMtSVQxS2s0ZGJueFdXbWx4UGN5NXJYcllSd0UtcG8tY3dLM1JwRE5Mdm0tRGtRWWg4VmV3NVVZWWtmS3dmekZaWUNWcmpNLUxUTWIyS2JPbmRLX2NmNnRZOVFZYkRB?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnNiUEVKMEJtZGZnRXR3cGNnbHJGRzVRSkRURUQ4dnM4elZNSnZlOWZLTkxPQU5jZERMMEItZkFmUU9jdkNwU1B4NmgzSFhGbVd0TndwY3hGc2gzcURtem1Sa01HTWtVQTZmT1hSZ09MdWZrcjlud1U2VExROHZ2ZEJEOWRwQjZLNUlXLXA1QlUwbTc4MW9QdUdyT0w2ZGVwQ3ZsOFp5Mlo4bklJSVlXMFBaaS15TEdrNn",
@@ -464,10 +464,30 @@
       "urlToImage": null
     },
     {
+      "title": "80 years after the partition bloodbath - The Morning",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocE1qMUlZdmN4VG1BZWg3Q0twMk9lSFZ1aHdNWnFlYlJuOXhuU2dXYnR5TGx5YzVRQjVlMTdiZ3pFR055MmtiRjRMTTlkck5pV1c1WHZDR2RpdGdWcDdBT2JoS1R2Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocE1qMUlZdmN4VG1BZWg3Q0twMk9lSFZ1aHdNWnFlYlJuOXhuU2dXYnR5TGx5YzVRQjVlMTdiZ3pFR055MmtiRjRMTTlkck5pV1c1WHZDR2RpdGdWcDdBT2JoS1R2Zw?oc=5\" target=\"_blank\">80 years after the partition bloodbath</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning</",
+      "publishedAt": "2026-08-14T01:11:56.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Northeast history, culture, heritage part of new NCERT books, Centre tells Parliament - India Today",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNy1fRlM3cjU4WXB4clYwdExab055RDVjdUJXa0pJbjNnVERVZnFIaUNKT1RXOVU1andfX3V2a1c5X3g0aE9CeE5lMElsazNxMkoxT0RsUnJfdlVick0wc3BYSE5ybUY0SUhVaGNFQ05YUnlrUnNtLTAtTjNSS2V6R2xpdFZIUlhWZmcxOEZtZ21maElseWlrRm1vSEF6cjU3emljV0FfZ1BuWDFEY0NETDZ4ZkNXZm1xRlI4c2VaeklsNkJxeWRta0dVYk1TdGdQeEJXblIybjdpUXdKMUpKTW5sSzNPMDDSAewBQVVfeXFMTUNHWEpoUldJWVM2MTFwWnl3TVdQVEgxdmJTb0hPOXB1bXpFcHZ4dzNlcFhwWDlyWmZPNUlYQkh3ejdIeVp5T2FyVWdGNzRrZEFWTGp4STZUOU8zc1kyM1BieXpOT1RnQk1ZaVZ5X3djWnN5UzRRTU5hVHhKOGtQQlJQR2NXY3JxcElLWmdoS1VSck9NS3NYLXowZXJYbVdNUWhLVFcxLVk0UmFlaWR5Qll6TXBCeDI1eGhGUWJTNDA1SWpVRDcwWlNTWGdoaUh4WDZKS2pUbTcxWVJQa0duWGdvMUdiOUdPckhMaE4?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNy1fRlM3cjU4WXB4clYwdExab055RDVjdUJXa0pJbjNnVERVZnFIaUNKT1RXOVU1andfX3V2a1c5X3g0aE9CeE5lMElsazNxMkoxT0RsUnJfdlVick0wc3BYSE5ybUY0SUhVaGNFQ05YUnlrUnNtLTAtTjNSS2V6R2xpdFZIUlhWZmcxOEZtZ21maElseWlrRm1vSEF6cjU3emljV0FfZ1BuWDFEY0NETDZ4ZkNXZm1xRl",
       "publishedAt": "2026-08-07T06:12:17.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Delhi’s monsoon walks: Reroute and rejoice rains while indulging in jamun tasting, capturing Teej traditions, and more | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQblVuTUN0MEVBYUZ5eEpQRURHT09vTWRHbkNwSHg5T09WOUtYVDA1ckNtbTY1UF9MM1FKcTd1M2NzaHFGazRlMHIxcU9pZDRxMHpvaHl0ZDNwd0xPRUhMMnF4NjhFQmRDTUFaUXBSLWNRRVFGY0lVazB2MG53cE4tRWZrWlgwWGxrMlBTcE5xSEl1Nk80ZVFiakRrNGNFTkJjVGowTEpaaVo1WjRRSUljaU5va0FVazdkR09JanB3MGZKMUc1YmxBSTVST01tUnlXZjlwZk52Z3VIY3JuNUlPTVNPeW1yeEJOQmVLT2E2bi1oTkxwYzdRa2owbFFkT0taUWVfWm5nMWhYNUwwWkgwcW40MTZyTTUyb3lUdnZOMNIBpAJBVV95cUxNQ3NZUkNDc25qcFFQQ05QcDQzaGd5Tk5BYlRCTXVRV1JBYWFscDRBcjlWeEdhbHc1NTRtd0NCN3pNelBQbm4tVXdBOTFSU0plYlFyRXJNQ18yUzFmS0VKN0ZJMG90cTF4UzgtVG5BQ1AxZGU2WnZSYmFSRlRHc2pYRVFfeWNpUVl2LTBJeWlFMzNvX2FmOTdZUmJ6cUJXVXlWcDl6cHplNXVIb0k4TzRWUmxLQTFzRlBuRE1zQ2VsN3c3RVExY1F0TXZyZG90TG5vMVBFUFhqZ0pkX19hWTE3cExETlRyZE81amlLNWVsWVptaEs0WHduaWpCMi11X3RMaU03M1NVUTczVkZIRUk2dEJaeFd5QUtyWGptY3pMU0VqeFBV?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQblVuTUN0MEVBYUZ5eEpQRURHT09vTWRHbkNwSHg5T09WOUtYVDA1ckNtbTY1UF9MM1FKcTd1M2NzaHFGazRlMHIxcU9pZDRxMHpvaHl0ZDNwd0xPRUhMMnF4NjhFQmRDTUFaUXBSLWNRRVFGY0lVazB2MG53cE4tRWZrWlgwWGxrMlBTcE5xSEl1Nk80ZVFiakRrNGNFTkJjVGowTEpaaVo1WjRRSUljaU5va0FVazdkR0",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -484,10 +504,10 @@
       "urlToImage": null
     },
     {
-      "title": "Delhi’s monsoon walks: Reroute and rejoice rains while indulging in jamun tasting, capturing Teej traditions, and more | Hindustan Times - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQblVuTUN0MEVBYUZ5eEpQRURHT09vTWRHbkNwSHg5T09WOUtYVDA1ckNtbTY1UF9MM1FKcTd1M2NzaHFGazRlMHIxcU9pZDRxMHpvaHl0ZDNwd0xPRUhMMnF4NjhFQmRDTUFaUXBSLWNRRVFGY0lVazB2MG53cE4tRWZrWlgwWGxrMlBTcE5xSEl1Nk80ZVFiakRrNGNFTkJjVGowTEpaaVo1WjRRSUljaU5va0FVazdkR09JanB3MGZKMUc1YmxBSTVST01tUnlXZjlwZk52Z3VIY3JuNUlPTVNPeW1yeEJOQmVLT2E2bi1oTkxwYzdRa2owbFFkT0taUWVfWm5nMWhYNUwwWkgwcW40MTZyTTUyb3lUdnZOMNIBpAJBVV95cUxNQ3NZUkNDc25qcFFQQ05QcDQzaGd5Tk5BYlRCTXVRV1JBYWFscDRBcjlWeEdhbHc1NTRtd0NCN3pNelBQbm4tVXdBOTFSU0plYlFyRXJNQ18yUzFmS0VKN0ZJMG90cTF4UzgtVG5BQ1AxZGU2WnZSYmFSRlRHc2pYRVFfeWNpUVl2LTBJeWlFMzNvX2FmOTdZUmJ6cUJXVXlWcDl6cHplNXVIb0k4TzRWUmxLQTFzRlBuRE1zQ2VsN3c3RVExY1F0TXZyZG90TG5vMVBFUFhqZ0pkX19hWTE3cExETlRyZE81amlLNWVsWVptaEs0WHduaWpCMi11X3RMaU03M1NVUTczVkZIRUk2dEJaeFd5QUtyWGptY3pMU0VqeFBV?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQblVuTUN0MEVBYUZ5eEpQRURHT09vTWRHbkNwSHg5T09WOUtYVDA1ckNtbTY1UF9MM1FKcTd1M2NzaHFGazRlMHIxcU9pZDRxMHpvaHl0ZDNwd0xPRUhMMnF4NjhFQmRDTUFaUXBSLWNRRVFGY0lVazB2MG53cE4tRWZrWlgwWGxrMlBTcE5xSEl1Nk80ZVFiakRrNGNFTkJjVGowTEpaaVo1WjRRSUljaU5va0FVazdkR0",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "title": "Kavya Bharati at Sanquelim Fort Celebrates Poetry, Culture and Patriotism - heraldgoa.in",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlVaVzh3clZ1Vy0tS05nRHhPMTlNSXhUWDNpc0pvaGM4Y1dNb0phSFk1dnFnT20tZmJlSWFZTnN2UW5qZDJsQW9TbEsxanNJV0szV1VBa3h4cGc1dDlnLUEtVUhDVXBQbnFiWlhWRzJlYmtxVHRKdTZXcFRET1VHWFdJWHc2ek52TlQxajZwTE1jTHpDWVFpZEZkSFVhWVRDR09IZVpLVExMSUpXb1E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlVaVzh3clZ1Vy0tS05nRHhPMTlNSXhUWDNpc0pvaGM4Y1dNb0phSFk1dnFnT20tZmJlSWFZTnN2UW5qZDJsQW9TbEsxanNJV0szV1VBa3h4cGc1dDlnLUEtVUhDVXBQbnFiWlhWRzJlYmtxVHRKdTZXcFRET1VHWFdJWHc2ek52TlQxajZwTE1jTHpDWVFpZEZkSFVhWVRDR09IZVpLVExMSUpXb1E?oc=5\" target=\"",
+      "publishedAt": "2026-08-14T10:27:39.000Z",
       "source": {
         "name": "Google News"
       },
@@ -524,27 +544,7 @@
       "urlToImage": null
     },
     {
-      "title": "Kavya Bharati at Sanquelim Fort Celebrates Poetry, Culture and Patriotism - heraldgoa.in",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlVaVzh3clZ1Vy0tS05nRHhPMTlNSXhUWDNpc0pvaGM4Y1dNb0phSFk1dnFnT20tZmJlSWFZTnN2UW5qZDJsQW9TbEsxanNJV0szV1VBa3h4cGc1dDlnLUEtVUhDVXBQbnFiWlhWRzJlYmtxVHRKdTZXcFRET1VHWFdJWHc2ek52TlQxajZwTE1jTHpDWVFpZEZkSFVhWVRDR09IZVpLVExMSUpXb1E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlVaVzh3clZ1Vy0tS05nRHhPMTlNSXhUWDNpc0pvaGM4Y1dNb0phSFk1dnFnT20tZmJlSWFZTnN2UW5qZDJsQW9TbEsxanNJV0szV1VBa3h4cGc1dDlnLUEtVUhDVXBQbnFiWlhWRzJlYmtxVHRKdTZXcFRET1VHWFdJWHc2ek52TlQxajZwTE1jTHpDWVFpZEZkSFVhWVRDR09IZVpLVExMSUpXb1E?oc=5\" target=\"",
-      "publishedAt": "2026-08-14T10:27:39.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Raisani Rejects Any Move to Divide Balochistan - dailyindependent.com.pk",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW8xam44T2NfQnpTQ2w5NXJmVUYxaUt5Q0tUeDQwa0VXc3VQUFcxc05BVTEzTDcwMXoyZVlmdm9qMGJHRXg1U3hIaFFKdDFpeUI5UjZJV2VvMTI4VnZ6Z3Q3U1lEcU4wVGd5WmFlUHNLdVY4ZEplc0tqVGVSSmdOdk9mdDgtaFdqNmVnV3AxbkZja1M4Q2FYd3pR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW8xam44T2NfQnpTQ2w5NXJmVUYxaUt5Q0tUeDQwa0VXc3VQUFcxc05BVTEzTDcwMXoyZVlmdm9qMGJHRXg1U3hIaFFKdDFpeUI5UjZJV2VvMTI4VnZ6Z3Q3U1lEcU4wVGd5WmFlUHNLdVY4ZEplc0tqVGVSSmdOdk9mdDgtaFdqNmVnV3AxbkZja1M4Q2FYd3pR?oc=5\" target=\"_blank\">Raisani Rejects Any",
-      "publishedAt": "2026-08-12T20:40:49.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Football - Rules, Positions, Tactics - Encyclopedia Britannica",
+      "title": "Football - Rules, Positions, Tactics - britannica.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGNGVGh3TWxXdFVWazVPZFJLUkc0bDJCVmhUSkVRaFY4RUhXajh6VnhjX251UUtFTFZydkJmVkdXeHpIa1A5OVdSRGVtcDl3M3g4ZkZ4M1NMRGxXVGdXVDhsbDFnaWE5bGI1S0dXSjhBRGRL?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGNGVGh3TWxXdFVWazVPZFJLUkc0bDJCVmhUSkVRaFY4RUhXajh6VnhjX251UUtFTFZydkJmVkdXeHpIa1A5OVdSRGVtcDl3M3g4ZkZ4M1NMRGxXVGdXVDhsbDFnaWE5bGI1S0dXSjhBRGRL?oc=5\" target=\"_blank\">Football - Rules, Positions, Tactics</a>&nbsp;&nbsp;<font color=\"#6f6f6",
       "publishedAt": "2026-07-20T07:00:00.000Z",
@@ -564,7 +564,7 @@
       "urlToImage": null
     },
     {
-      "title": "Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts - Encyclopedia Britannica",
+      "title": "Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts - britannica.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MXFtQ0xFbEJ5WFExU1Zqd0hqa3Y4bjZ6d19LdUE2cy03X0VYR3h2NkdXME1MYXFZMW1BRDduZnQ2VTAxOFV3ZG1VMEtNdkRrSzRRUHJMeU5qa2pRd0g4OA?oc=5\" target=\"_blank\">Cricket World Cup | Schedule, Matches, Winners, Women’s Edition, & Facts</a>&nbsp;&nbsp;<font col",
       "publishedAt": "2026-07-20T07:00:00.000Z",
@@ -584,9 +584,9 @@
       "urlToImage": null
     },
     {
-      "title": "Hank Aaron - Encyclopedia Britannica",
+      "title": "Hank Aaron - britannica.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZnp0Z2VyR3JIM1RZaTRkRVZaSHBuYkI5cFg3dWpPczkwZm5BTWZId002QkpveUs4N2VFS21SYzl3d29BTTFiS0EybXpQTmgyaGw1SHJ2LVZzaTg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZnp0Z2VyR3JIM1RZaTRkRVZaSHBuYkI5cFg3dWpPczkwZm5BTWZId002QkpveUs4N2VFS21SYzl3d29BTTFiS0EybXpQTmgyaGw1SHJ2LVZzaTg?oc=5\" target=\"_blank\">Hank Aaron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZnp0Z2VyR3JIM1RZaTRkRVZaSHBuYkI5cFg3dWpPczkwZm5BTWZId002QkpveUs4N2VFS21SYzl3d29BTTFiS0EybXpQTmgyaGw1SHJ2LVZzaTg?oc=5\" target=\"_blank\">Hank Aaron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">britannica.com</font>",
       "publishedAt": "2026-07-29T07:00:00.000Z",
       "source": {
         "name": "Google News"
