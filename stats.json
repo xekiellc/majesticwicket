@@ -1,4 +1,1419 @@
 {
-  "lastUpdated": "2026-08-15T14:27:30.573Z",
-  "recentMatches": []
+  "lastUpdated": "2026-08-15T20:26:34.037Z",
+  "recentMatches": [
+    {
+      "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
+      "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Tanzania Women awarded the match (opposition refused to play)",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T12:00:00",
+      "teams": [
+        "Tanzania Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Tanzania Women",
+          "shortname": "TAN-W",
+          "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 2,
+          "o": 16.4,
+          "inning": "Uganda Women Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "03481413-2204-474a-8fba-251011e4f437",
+      "name": "Saint Lucia Kings vs Antigua and Barbuda Falcons, 7th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Saint Lucia Kings won by 3 wkts (2nd innings reduced to 8 overs due to rain, DLS target 52)",
+      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T23:00:00",
+      "teams": [
+        "Saint Lucia Kings",
+        "Antigua and Barbuda Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 9,
+          "o": 19,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        },
+        {
+          "r": 54,
+          "w": 7,
+          "o": 7.4,
+          "inning": "Saint Lucia Kings Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b58ef995-1045-41a1-84e9-706debbc20d5",
+      "name": "Jamaica Kingsmen vs Guyana Amazon Warriors, 6th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors won by 6 wkts",
+      "venue": "Sabina Park, Kingston, Jamaica",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T00:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "Guyana Amazon Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 117,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 4,
+          "o": 14.1,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a2ebf416-f720-4aa6-b038-9f8bed5cb78f",
+      "name": "Saint Lucia Kings vs St Kitts and Nevis Patriots, 5th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "St Kitts and Nevis Patriots won by 5 wkts",
+      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T23:00:00",
+      "teams": [
+        "Saint Lucia Kings",
+        "St Kitts and Nevis Patriots"
+      ],
+      "teamInfo": [
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 8,
+          "o": 20,
+          "inning": "saint lucia kings Inning 1"
+        },
+        {
+          "r": 156,
+          "w": 5,
+          "o": 17.4,
+          "inning": "Saint Lucia Kings,St Kitts and Nevis Patriots Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "793fd4ac-a2ee-4ca7-90ec-63743393d32e",
+      "name": "Vida Kovai Kings vs Trichy Grand Cholas, 20th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings won by 116 runs",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-15",
+      "dateTimeGMT": "2026-08-15T14:00:00",
+      "teams": [
+        "Vida Kovai Kings",
+        "Trichy Grand Cholas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 201,
+          "w": 6,
+          "o": 20,
+          "inning": "Vida Kovai Kings Inning 1"
+        },
+        {
+          "r": 85,
+          "w": 10,
+          "o": 16.1,
+          "inning": "Trichy Grand Cholas Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "af3a2cab-6dff-491c-b126-3c58b1084b9f",
+      "name": "Madurai Panthers vs Chepauk Super Gillies, 19th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Chepauk Super Gillies won by 39 runs",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T14:00:00",
+      "teams": [
+        "Madurai Panthers",
+        "Chepauk Super Gillies"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chepauk Super Gillies",
+          "shortname": "CSG",
+          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
+        },
+        {
+          "name": "Madurai Panthers",
+          "shortname": "MP",
+          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 240,
+          "w": 2,
+          "o": 20,
+          "inning": "Madurai Panthers Inning 1"
+        },
+        {
+          "r": 201,
+          "w": 8,
+          "o": 20,
+          "inning": "Chepauk Super Gillies Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "32b78568-9a24-4ed9-9a4e-43b9b56ea4ae",
+      "name": "SKM Salem Spartans vs Dindigul Dragons, 18th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Dindigul Dragons won by 82 runs - 15 overs game due to rain",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T10:00:00",
+      "teams": [
+        "SKM Salem Spartans",
+        "Dindigul Dragons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dindigul Dragons",
+          "shortname": "DD",
+          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
+        },
+        {
+          "name": "SKM Salem Spartans",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 239,
+          "w": 6,
+          "o": 15,
+          "inning": "Dindigul Dragons Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 8,
+          "o": 15,
+          "inning": "SKM Salem Spartans Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0860c2b5-37e1-4fa8-9f15-236f93086fc2",
+      "name": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans, 17th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Trichy Grand Cholas won by 17 runs",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T14:00:00",
+      "teams": [
+        "Trichy Grand Cholas",
+        "IDream Tiruppur Tamizhans"
+      ],
+      "teamInfo": [
+        {
+          "name": "IDream Tiruppur Tamizhans",
+          "shortname": "ITT",
+          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
+        },
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 196,
+          "w": 6,
+          "o": 20,
+          "inning": "Trichy Grand Cholas Inning 1"
+        },
+        {
+          "r": 179,
+          "w": 8,
+          "o": 20,
+          "inning": "IDream Tiruppur Tamizhans Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f4e22c29-a051-446b-991f-8234b21efd0f",
+      "name": "Vida Kovai Kings vs Nellai Royal Kings, 16th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Nellai Royal Kings won by 2 wkts",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T10:00:00",
+      "teams": [
+        "Vida Kovai Kings",
+        "Nellai Royal Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nellai Royal Kings",
+          "shortname": "NRK",
+          "img": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=48"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 162,
+          "w": 9,
+          "o": 20,
+          "inning": "Vida Kovai Kings Inning 1"
+        },
+        {
+          "r": 163,
+          "w": 8,
+          "o": 19.5,
+          "inning": "Nellai Royal Kings Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d423dab8-cc06-4676-98f6-105fcd48c9be",
+      "name": "Dindigul Dragons vs Siechem Madurai Panthers, 15th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T14:00:00",
+      "teams": [
+        "Dindigul Dragons",
+        "Siechem Madurai Panthers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dindigul Dragons",
+          "shortname": "DD",
+          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
+        },
+        {
+          "name": "Siechem Madurai Panthers",
+          "shortname": "SMP",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 171,
+          "w": 7,
+          "o": 18,
+          "inning": "Siechem Madurai Panthers Inning 1"
+        },
+        {
+          "r": 150,
+          "w": 6,
+          "o": 18,
+          "inning": "Dindigul Dragons Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d38b5e89-4548-47f4-a3fa-255e4ed454ce",
+      "name": "Chepauk Super Gillies vs Salem Spartans, 14th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Chepauk Super Gillies won by 5 wkts",
+      "venue": "NPR College Ground, Dindigul",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T10:00:00",
+      "teams": [
+        "Chepauk Super Gillies",
+        "Salem Spartans"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chepauk Super Gillies",
+          "shortname": "CSG",
+          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
+        },
+        {
+          "name": "Salem Spartans",
+          "shortname": "SLST",
+          "img": "https://g.cricapi.com/iapi/267-637937642932634596.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 7,
+          "o": 20,
+          "inning": "Salem Spartans Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 5,
+          "o": 16.4,
+          "inning": "Chepauk Super Gillies Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "395791ba-6c70-4887-a6f2-5f8a4eaf33e0",
+      "name": "Ireland vs Afghanistan, 5th ODI, Afghanistan tour of Ireland, 2026",
+      "matchType": "odi",
+      "status": "Afghanistan won by 6 wkts",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T09:45:00",
+      "teams": [
+        "Ireland",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 298,
+          "w": 7,
+          "o": 50,
+          "inning": "Ireland Inning 1"
+        },
+        {
+          "r": 302,
+          "w": 4,
+          "o": 48.5,
+          "inning": "Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "2a1567e1-5bdd-4bdb-b60b-1979c5193533",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "abd11553-6082-4611-8994-8dca421f30ca",
+      "name": "Ireland vs Afghanistan, 4th ODI, Afghanistan tour of Ireland, 2026",
+      "matchType": "odi",
+      "status": "Afghanistan won by 42 runs",
+      "venue": "Civil Service Cricket Club, Belfast",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T09:45:00",
+      "teams": [
+        "Ireland",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 343,
+          "w": 9,
+          "o": 50,
+          "inning": "Afghanistan Inning 1"
+        },
+        {
+          "r": 301,
+          "w": 10,
+          "o": 48,
+          "inning": "Ireland Inning 1"
+        }
+      ],
+      "series_id": "2a1567e1-5bdd-4bdb-b60b-1979c5193533",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ffeeb4bf-b954-45e4-a016-0a392cc2d2fc",
+      "name": "Manchester Super Giants vs Sunrisers Leeds, Eliminator, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "Manchester Super Giants won by 20 runs",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T17:00:00",
+      "teams": [
+        "Manchester Super Giants",
+        "Sunrisers Leeds"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manchester Super Giants",
+          "shortname": "MSG",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sunrisers Leeds",
+          "shortname": "SL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 186,
+          "w": 4,
+          "o": 100,
+          "inning": "Manchester Super Giants Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 7,
+          "o": 100,
+          "inning": "Sunrisers Leeds Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d223b770-da84-4490-b317-267588a969e4",
+      "name": "Birmingham Phoenix vs MI London, 32nd Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "MI London won by 2 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T17:30:00",
+      "teams": [
+        "Birmingham Phoenix",
+        "MI London"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix",
+          "shortname": "BRM",
+          "img": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=48"
+        },
+        {
+          "name": "Mi London",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 157,
+          "w": 6,
+          "o": 100,
+          "inning": "MI London Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 7,
+          "o": 100,
+          "inning": "Birmingham Phoenix Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5beda5ac-4cd7-46c3-bf19-0657d46222d3",
+      "name": "Welsh Fire vs London Spirit, 31st Match, The Hundred Mens Competition 2026",
+      "matchType": "t20",
+      "status": "London Spirit won by 6 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T14:00:00",
+      "teams": [
+        "Welsh Fire",
+        "London Spirit"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit",
+          "shortname": "LDN",
+          "img": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire",
+          "shortname": "WEF",
+          "img": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 131,
+          "w": 8,
+          "o": 100,
+          "inning": "London Spirit Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 7,
+          "o": 100,
+          "inning": "Welsh Fire Inning 1"
+        }
+      ],
+      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "24b93d6c-6c73-42e6-8137-686fd1529ed5",
+      "name": "Sunrisers Leeds Women vs Southern Brave Women, Eliminator, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Sunrisers Leeds Women won by 5 wkts",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T13:15:00",
+      "teams": [
+        "Sunrisers Leeds Women",
+        "Southern Brave Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Southern Brave Women",
+          "shortname": "SBW",
+          "img": "https://g.cricapi.com/iapi/2015-637967614770065340.webp?w=48"
+        },
+        {
+          "name": "Sunrisers Leeds Women",
+          "shortname": "SLW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 7,
+          "o": 100,
+          "inning": "Southern Brave Women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 5,
+          "o": 89,
+          "inning": "Sunrisers Leeds Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "81af69dd-935e-4604-8345-01eed24df2b0",
+      "name": "Birmingham Phoenix Women vs MI London Women, 32nd Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Birmingham Phoenix Women won by 5 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T14:00:00",
+      "teams": [
+        "Birmingham Phoenix Women",
+        "MI London Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Birmingham Phoenix Women",
+          "shortname": "BPW",
+          "img": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=48"
+        },
+        {
+          "name": "Mi London Women",
+          "shortname": "MIL",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 6,
+          "o": 100,
+          "inning": "MI London Women Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 5,
+          "o": 94,
+          "inning": "Birmingham Phoenix Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5e52633e-0086-4190-8c82-f6e706a3015a",
+      "name": "Welsh Fire Women vs London Spirit Women, 31st Match, The Hundred Womens Competition 2026",
+      "matchType": "t20",
+      "status": "Welsh Fire Women won by 15 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-08-12",
+      "dateTimeGMT": "2026-08-12T10:30:00",
+      "teams": [
+        "Welsh Fire Women",
+        "London Spirit Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "London Spirit Women",
+          "shortname": "LSW",
+          "img": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=48"
+        },
+        {
+          "name": "Welsh Fire Women",
+          "shortname": "WFW",
+          "img": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 7,
+          "o": 100,
+          "inning": "Welsh Fire Women Inning 1"
+        },
+        {
+          "r": 123,
+          "w": 10,
+          "o": 99,
+          "inning": "London Spirit Women Inning 1"
+        }
+      ],
+      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "63a5a1ab-4a4c-4176-8218-dcfa524e695c",
+      "name": "Yorkshire vs Nottinghamshire, Quarter Final 2, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Nottinghamshire won by 3 wkts",
+      "venue": "Clifton Park Ground, York",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T10:00:00",
+      "teams": [
+        "Yorkshire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 273,
+          "w": 9,
+          "o": 50,
+          "inning": "Yorkshire Inning 1"
+        },
+        {
+          "r": 277,
+          "w": 7,
+          "o": 48.4,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f2c023fb-8830-4213-9afb-9747138d3d66",
+      "name": "Lancashire vs Durham, Quarter Final 1, England Domestic One-Day Cup 2026",
+      "matchType": "odi",
+      "status": "Durham won by 162 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-08-14",
+      "dateTimeGMT": "2026-08-14T10:00:00",
+      "teams": [
+        "Lancashire",
+        "Durham"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 349,
+          "w": 8,
+          "o": 50,
+          "inning": "durham Inning 1"
+        },
+        {
+          "r": 187,
+          "w": 10,
+          "o": 36.1,
+          "inning": "Lancashire,Durham Inning 1"
+        }
+      ],
+      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    }
+  ],
+  "ipl": {
+    "seriesName": "Indian Premier League 2026",
+    "startDate": "2026-03-28",
+    "endDate": "May 31",
+    "standings": [
+      {
+        "team": "Royal Challengers Bengaluru",
+        "played": 14,
+        "won": 9,
+        "lost": 4,
+        "nr": 1,
+        "points": 19
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
+      },
+      {
+        "team": "Gujarat Titans",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
+      },
+      {
+        "team": "Rajasthan Royals",
+        "played": 14,
+        "won": 8,
+        "lost": 6,
+        "nr": 0,
+        "points": 16
+      },
+      {
+        "team": "Punjab Kings",
+        "played": 14,
+        "won": 7,
+        "lost": 6,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Delhi Capitals",
+        "played": 14,
+        "won": 7,
+        "lost": 7,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Chennai Super Kings",
+        "played": 14,
+        "won": 6,
+        "lost": 8,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "played": 14,
+        "won": 5,
+        "lost": 7,
+        "nr": 2,
+        "points": 12
+      },
+      {
+        "team": "Mumbai Indians",
+        "played": 14,
+        "won": 4,
+        "lost": 10,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Lucknow Super Giants",
+        "played": 14,
+        "won": 3,
+        "lost": 9,
+        "nr": 2,
+        "points": 8
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "psl": {
+    "seriesName": "Pakistan Super League 2026",
+    "startDate": "2026-03-26",
+    "endDate": "May 03",
+    "standings": [
+      {
+        "team": "Peshawar Zalmi",
+        "played": 10,
+        "won": 8,
+        "lost": 1,
+        "nr": 1,
+        "points": 17
+      },
+      {
+        "team": "Islamabad United",
+        "played": 10,
+        "won": 6,
+        "lost": 3,
+        "nr": 1,
+        "points": 13
+      },
+      {
+        "team": "Multan Sultans",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Lahore Qalandars",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Hyderabad Kingsmen",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Karachi Kings",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Quetta Gladiators",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Rawalpindiz",
+        "played": 10,
+        "won": 1,
+        "lost": 9,
+        "nr": 0,
+        "points": 2
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "bbl": {
+    "seriesName": "Big Bash League 2025-26",
+    "startDate": "2025-12-14",
+    "endDate": "Jan 25",
+    "standings": [
+      {
+        "team": "Hobart Hurricanes",
+        "played": 12,
+        "won": 7,
+        "lost": 4,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Sydney Sixers",
+        "played": 11,
+        "won": 7,
+        "lost": 3,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Perth Scorchers",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Melbourne Stars",
+        "played": 11,
+        "won": 6,
+        "lost": 5,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Brisbane Heat",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Adelaide Strikers",
+        "played": 10,
+        "won": 4,
+        "lost": 6,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Melbourne Renegades",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Sydney Thunder",
+        "played": 10,
+        "won": 2,
+        "lost": 8,
+        "nr": 0,
+        "points": 4
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "cpl": {
+    "seriesName": "Caribbean Premier League 2025",
+    "startDate": "2025-08-14",
+    "endDate": "Sep 21",
+    "standings": [
+      {
+        "team": "Guyana Amazon Warriors",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Trinbago Knight Riders",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Saint Lucia Kings",
+        "played": 10,
+        "won": 5,
+        "lost": 3,
+        "nr": 2,
+        "points": 12
+      },
+      {
+        "team": "Antigua and Barbuda Falcons",
+        "played": 10,
+        "won": 5,
+        "lost": 4,
+        "nr": 1,
+        "points": 11
+      },
+      {
+        "team": "St Kitts and Nevis Patriots",
+        "played": 10,
+        "won": 4,
+        "lost": 6,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Barbados Royals",
+        "played": 10,
+        "won": 2,
+        "lost": 7,
+        "nr": 1,
+        "points": 5
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "hundred": {
+    "seriesName": "The Hundred Men's Competition 2026",
+    "startDate": "2026-07-21",
+    "endDate": "Aug 16",
+    "standings": [
+      {
+        "team": "Trent Rockets",
+        "played": 8,
+        "won": 6,
+        "lost": 2,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "MI London",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Sunrisers Leeds",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Manchester Super Giants",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Welsh Fire",
+        "played": 8,
+        "won": 4,
+        "lost": 4,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "London Spirit",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Southern Brave",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Birmingham Phoenix",
+        "played": 8,
+        "won": 1,
+        "lost": 7,
+        "nr": 0,
+        "points": 2
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "sa20": {
+    "seriesName": "SA20, 2025",
+    "startDate": "2025-01-09",
+    "endDate": "Feb 08",
+    "standings": [
+      {
+        "team": "MI Cape Town",
+        "played": 10,
+        "won": 7,
+        "lost": 2,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Paarl Royals",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Sunrisers Eastern Cape",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Joburg Super Kings",
+        "played": 10,
+        "won": 4,
+        "lost": 4,
+        "nr": 2,
+        "points": 10
+      },
+      {
+        "team": "Pretoria Capitals",
+        "played": 10,
+        "won": 2,
+        "lost": 6,
+        "nr": 2,
+        "points": 6
+      },
+      {
+        "team": "Durban Super Giants",
+        "played": 10,
+        "won": 1,
+        "lost": 6,
+        "nr": 3,
+        "points": 5
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "mlc": {
+    "seriesName": "Major League Cricket 2025",
+    "startDate": "2025-06-13",
+    "endDate": "Jul 13",
+    "standings": [
+      {
+        "team": "Washington Freedom",
+        "played": 10,
+        "won": 8,
+        "lost": 2,
+        "nr": 0,
+        "points": 16
+      },
+      {
+        "team": "Texas Super Kings",
+        "played": 11,
+        "won": 7,
+        "lost": 4,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "San Francisco Unicorns",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "MI New York",
+        "played": 11,
+        "won": 4,
+        "lost": 7,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Seattle Orcas",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Los Angeles Knight Riders",
+        "played": 10,
+        "won": 2,
+        "lost": 8,
+        "nr": 0,
+        "points": 4
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  }
 }
