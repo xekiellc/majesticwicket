@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T20:26:34.037Z",
+  "lastUpdated": "2026-08-16T03:04:36.285Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -35,6 +35,50 @@
       ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2c792f39-5c37-43e7-917c-44e5f62b1f43",
+      "name": "Jamaica Kingsmen vs Trinbago Knight Riders, 8th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Jamaica Kingsmen need 74 runs in 60 balls",
+      "venue": "Sabina Park, Kingston, Jamaica",
+      "date": "2026-08-15",
+      "dateTimeGMT": "2026-08-15T00:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "Trinbago Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 6,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 2,
+          "o": 10,
+          "inning": "Jamaica Kingsmen Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
