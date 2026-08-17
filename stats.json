@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T14:33:03.349Z",
+  "lastUpdated": "2026-08-17T20:30:28.428Z",
   "recentMatches": [
     {
       "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
@@ -218,50 +218,6 @@
       "matchEnded": true
     },
     {
-      "id": "b58ef995-1045-41a1-84e9-706debbc20d5",
-      "name": "Jamaica Kingsmen vs Guyana Amazon Warriors, 6th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 6 wkts",
-      "venue": "Sabina Park, Kingston, Jamaica",
-      "date": "2026-08-13",
-      "dateTimeGMT": "2026-08-13T00:00:00",
-      "teams": [
-        "Jamaica Kingsmen",
-        "Guyana Amazon Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        },
-        {
-          "name": "Jamaica Kingsmen",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 117,
-          "w": 10,
-          "o": 19.4,
-          "inning": "Jamaica Kingsmen Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 4,
-          "o": 14.1,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "793fd4ac-a2ee-4ca7-90ec-63743393d32e",
       "name": "Vida Kovai Kings vs Trichy Grand Cholas, 20th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -385,95 +341,6 @@
           "w": 8,
           "o": 15,
           "inning": "SKM Salem Spartans Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0860c2b5-37e1-4fa8-9f15-236f93086fc2",
-      "name": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans, 17th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Trichy Grand Cholas won by 17 runs",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-13",
-      "dateTimeGMT": "2026-08-13T14:00:00",
-      "teams": [
-        "Trichy Grand Cholas",
-        "IDream Tiruppur Tamizhans"
-      ],
-      "teamInfo": [
-        {
-          "name": "IDream Tiruppur Tamizhans",
-          "shortname": "ITT",
-          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
-        },
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 6,
-          "o": 20,
-          "inning": "Trichy Grand Cholas Inning 1"
-        },
-        {
-          "r": 179,
-          "w": 8,
-          "o": 20,
-          "inning": "IDream Tiruppur Tamizhans Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f4e22c29-a051-446b-991f-8234b21efd0f",
-      "name": "Vida Kovai Kings vs Nellai Royal Kings, 16th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Nellai Royal Kings won by 2 wkts",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-13",
-      "dateTimeGMT": "2026-08-13T10:00:00",
-      "teams": [
-        "Vida Kovai Kings",
-        "Nellai Royal Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nellai Royal Kings",
-          "shortname": "NRK",
-          "img": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=48"
-        },
-        {
-          "name": "Vida Kovai Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 162,
-          "w": 9,
-          "o": 20,
-          "inning": "Vida Kovai Kings Inning 1"
-        },
-        {
-          "r": 163,
-          "w": 8,
-          "o": 19.5,
-          "inning": "Nellai Royal Kings Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
