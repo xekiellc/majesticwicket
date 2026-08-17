@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-08-17T03:04:13.111Z",
+  "lastUpdated": "2026-08-17T08:28:06.007Z",
   "recentMatches": [
+    {
+      "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
+      "name": "Papua New Guinea Women vs Thailand Women, 3rd ODI, Thailand Women tour of Papua New Guinea, 2026",
+      "status": "Thailand Women won by 5 wkts",
+      "venue": "Amini Park, Port Moresby",
+      "date": "2026-08-17",
+      "dateTimeGMT": "2026-08-17T23:30:00",
+      "teams": [
+        "Papua New Guinea Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea Women",
+          "shortname": "PN -W",
+          "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 122,
+          "w": 10,
+          "o": 47,
+          "inning": "papua new guinea women Inning 1"
+        },
+        {
+          "r": 126,
+          "w": 5,
+          "o": 27,
+          "inning": "Papua New Guinea Women,Thailand Women Inning 1"
+        }
+      ],
+      "series_id": "639d4a51-6405-402a-9281-17e7922e5a25",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
       "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -44,7 +88,7 @@
       "id": "fee080ab-e8fe-4579-9e81-40d75f31ebbb",
       "name": "Saint Lucia Kings vs Barbados Tridents, 9th Match, Caribbean Premier League 2026",
       "matchType": "t20",
-      "status": "Saint Lucia Kings need 84 runs in 48 balls - 18 overs game due to rain",
+      "status": "Barbados Tridents won by 9 runs - 18 overs game due to rain",
       "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
       "date": "2026-08-16",
       "dateTimeGMT": "2026-08-16T23:00:00",
@@ -71,9 +115,9 @@
           "inning": "Barbados Tridents Inning 1"
         },
         {
-          "r": 94,
-          "w": 2,
-          "o": 10,
+          "r": 168,
+          "w": 7,
+          "o": 18,
           "inning": "Saint Lucia Kings Inning 1"
         }
       ],
@@ -82,7 +126,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2c792f39-5c37-43e7-917c-44e5f62b1f43",
