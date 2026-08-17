@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T20:26:34.531Z",
+  "lastUpdated": "2026-08-17T03:04:13.111Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -35,6 +35,50 @@
       ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "fee080ab-e8fe-4579-9e81-40d75f31ebbb",
+      "name": "Saint Lucia Kings vs Barbados Tridents, 9th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Saint Lucia Kings need 84 runs in 48 balls - 18 overs game due to rain",
+      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+      "date": "2026-08-16",
+      "dateTimeGMT": "2026-08-16T23:00:00",
+      "teams": [
+        "Saint Lucia Kings",
+        "Barbados Tridents"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 5,
+          "o": 18,
+          "inning": "Barbados Tridents Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 2,
+          "o": 10,
+          "inning": "Saint Lucia Kings Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
