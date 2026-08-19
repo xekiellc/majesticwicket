@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T14:38:33.695Z",
+  "lastUpdated": "2026-08-19T20:31:56.043Z",
   "recentMatches": [
     {
       "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
@@ -173,54 +173,10 @@
       "matchEnded": true
     },
     {
-      "id": "2c792f39-5c37-43e7-917c-44e5f62b1f43",
-      "name": "Jamaica Kingsmen vs Trinbago Knight Riders, 8th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Jamaica Kingsmen won by 5 wkts",
-      "venue": "Sabina Park, Kingston, Jamaica",
-      "date": "2026-08-15",
-      "dateTimeGMT": "2026-08-15T00:00:00",
-      "teams": [
-        "Jamaica Kingsmen",
-        "Trinbago Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jamaica Kingsmen",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 182,
-          "w": 6,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Inning 1"
-        },
-        {
-          "r": 183,
-          "w": 5,
-          "o": 18.4,
-          "inning": "Jamaica Kingsmen Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "b4569241-cd0c-47e3-bf50-dd552c207187",
       "name": "Dindigul Dragons vs Trichy Grand Cholas, 22nd Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Match delayed due to rain - Dindigul Dragons opt to bowl",
+      "status": "Trichy Grand Cholas won by 28 runs  -  19 overs game due to rain,DLS target 199",
       "venue": "MA Chidambaram Stadium, Chennai",
       "date": "2026-08-19",
       "dateTimeGMT": "2026-08-19T14:00:00",
@@ -242,10 +198,16 @@
       ],
       "score": [
         {
-          "r": 41,
-          "w": 0,
-          "o": 3,
+          "r": 197,
+          "w": 4,
+          "o": 19,
           "inning": "Trichy Grand Cholas Inning 1"
+        },
+        {
+          "r": 170,
+          "w": 8,
+          "o": 19,
+          "inning": "Dindigul Dragons Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
@@ -253,7 +215,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e9d200fb-3c43-4852-9c93-9160517d7b36",
@@ -290,50 +252,6 @@
           "w": 5,
           "o": 18.5,
           "inning": "Vida Kovai Kings Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "793fd4ac-a2ee-4ca7-90ec-63743393d32e",
-      "name": "Vida Kovai Kings vs Trichy Grand Cholas, 20th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Vida Kovai Kings won by 116 runs",
-      "venue": "NPR College Ground, Dindigul",
-      "date": "2026-08-15",
-      "dateTimeGMT": "2026-08-15T14:00:00",
-      "teams": [
-        "Vida Kovai Kings",
-        "Trichy Grand Cholas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Vida Kovai Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 201,
-          "w": 6,
-          "o": 20,
-          "inning": "Vida Kovai Kings Inning 1"
-        },
-        {
-          "r": 85,
-          "w": 10,
-          "o": 16.1,
-          "inning": "Trichy Grand Cholas Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
