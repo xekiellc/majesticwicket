@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T20:27:49.163Z",
+  "lastUpdated": "2026-08-19T03:01:43.344Z",
   "recentMatches": [
     {
       "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
@@ -79,6 +79,50 @@
       ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "83f95f18-2ea7-4b1b-b1e0-63db4d8fa363",
+      "name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots, 10th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "St Kitts and Nevis Patriots need 119 runs in 69 balls",
+      "venue": "Sabina Park, Kingston, Jamaica",
+      "date": "2026-08-18",
+      "dateTimeGMT": "2026-08-18T00:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "St Kitts and Nevis Patriots"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 181,
+          "w": 6,
+          "o": 20,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 63,
+          "w": 4,
+          "o": 8.3,
+          "inning": "St Kitts and Nevis Patriots Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
