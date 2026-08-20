@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T20:31:56.043Z",
+  "lastUpdated": "2026-08-20T03:01:04.604Z",
   "recentMatches": [
     {
       "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
@@ -79,6 +79,51 @@
       ],
       "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
       "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "283a3fed-c27b-488b-8333-e2f96bfec14c",
+      "name": "Saint Lucia Kings vs Guyana Amazon Warriors, 11th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors need 49 runs in 40 balls",
+      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+      "date": "2026-08-19",
+      "dateTimeGMT": "2026-08-19T23:00:00",
+      "teams": [
+        "Saint Lucia Kings",
+        "Guyana Amazon Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 7,
+          "o": 20,
+          "inning": "Saint Lucia Kings Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 1,
+          "o": 13.2,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
