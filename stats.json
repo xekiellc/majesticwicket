@@ -1,11 +1,89 @@
 {
-  "lastUpdated": "2026-08-20T14:41:00.713Z",
+  "lastUpdated": "2026-08-20T20:32:16.156Z",
   "recentMatches": [
+    {
+      "id": "89c3e654-61d9-46d4-8420-94059021cb20",
+      "name": "England vs Pakistan, 1st Test, Pakistan tour of England 2026",
+      "matchType": "test",
+      "status": "Day 2: Stumps - England lead by 195 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-08-19",
+      "dateTimeGMT": "2026-08-19T00:00:00",
+      "teams": [
+        "England",
+        "Pakistan"
+      ],
+      "score": [
+        {
+          "r": 171,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 366,
+          "w": 8,
+          "o": 82,
+          "inning": "England Inning 1"
+        }
+      ],
+      "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "66f658bf-fbd0-49f5-8169-0d5806ceb2cf",
+      "name": "Professional County Club Select XI vs Pakistan, 3 -Day Warm-up match, Pakistan tour of England 2026",
+      "matchType": "test",
+      "status": "Pakistan won by 7 wkts",
+      "venue": "Kent County Cricket Ground, Beckenham",
+      "date": "2026-08-13",
+      "dateTimeGMT": "2026-08-13T00:00:00",
+      "teams": [
+        "Professional County Club Select XI",
+        "Pakistan"
+      ],
+      "score": [
+        {
+          "r": 305,
+          "w": 10,
+          "o": 69.5,
+          "inning": "professional county club select xi Inning 1"
+        },
+        {
+          "r": 238,
+          "w": 10,
+          "o": 71.2,
+          "inning": "Professional County Club Select XI,Pakistan Inning 1"
+        },
+        {
+          "r": 194,
+          "w": 10,
+          "o": 41.1,
+          "inning": "professional county club select xi Inning 2"
+        },
+        {
+          "r": 264,
+          "w": 3,
+          "o": 57.1,
+          "inning": "Professional County Club Select XI,Pakistan Inning 2"
+        }
+      ],
+      "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "2f7b4b4d-222e-4a4b-93f8-5794ed89ad24",
       "name": "China Women vs Oman Women, 1st T20I, China Women T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "China Women won by 18 runs (DLS method Target 53)",
       "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T07:30:00",
@@ -31,6 +109,12 @@
           "w": 1,
           "o": 13,
           "inning": "China Women Inning 1"
+        },
+        {
+          "r": 34,
+          "w": 4,
+          "o": 7,
+          "inning": "Oman Women Inning 1"
         }
       ],
       "series_id": "4df3a8b2-ea50-47df-8954-39b615b14e84",
@@ -38,7 +122,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
@@ -213,54 +297,10 @@
       "matchEnded": true
     },
     {
-      "id": "fee080ab-e8fe-4579-9e81-40d75f31ebbb",
-      "name": "Saint Lucia Kings vs Barbados Tridents, 9th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Barbados Tridents won by 9 runs - 18 overs game due to rain",
-      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
-      "date": "2026-08-16",
-      "dateTimeGMT": "2026-08-16T23:00:00",
-      "teams": [
-        "Saint Lucia Kings",
-        "Barbados Tridents"
-      ],
-      "teamInfo": [
-        {
-          "name": "Barbados Tridents",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 5,
-          "o": 18,
-          "inning": "Barbados Tridents Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 7,
-          "o": 18,
-          "inning": "Saint Lucia Kings Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "3960b1b6-7602-4759-a83b-4261febc900b",
       "name": "Nellai Royal Kings vs SKM Salem Spartans, 24th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "SKM Salem Spartans opt to bat",
+      "status": "Nellai Royal Kings won by 5 wkts",
       "venue": "MA Chidambaram Stadium, Chennai",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T14:00:00",
@@ -281,10 +321,16 @@
       ],
       "score": [
         {
-          "r": 58,
-          "w": 1,
-          "o": 8.4,
+          "r": 140,
+          "w": 7,
+          "o": 20,
           "inning": "skm salem spartans Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 5,
+          "o": 16.1,
+          "inning": "Nellai Royal Kings,SKM Salem Spartans Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
@@ -292,7 +338,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0d60251b-4fcc-4a8f-8027-a2110aba0fed",
@@ -429,51 +475,6 @@
       "matchEnded": true
     },
     {
-      "id": "a031df55-6d10-4dfd-b45c-ba4fc9edeaa0",
-      "name": "Trent Rockets vs Manchester Super Giants, Final, The Hundred Mens Competition 2026",
-      "matchType": "t20",
-      "status": "Manchester Super Giants won by 5 wkts",
-      "venue": "Lord's, London",
-      "date": "2026-08-16",
-      "dateTimeGMT": "2026-08-16T17:00:00",
-      "teams": [
-        "Trent Rockets",
-        "Manchester Super Giants"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manchester Super Giants",
-          "shortname": "MSG",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trent Rockets",
-          "shortname": "TRE",
-          "img": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 158,
-          "w": 8,
-          "o": 100,
-          "inning": "Trent Rockets Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 5,
-          "o": 98,
-          "inning": "Manchester Super Giants Inning 1"
-        }
-      ],
-      "series_id": "ac5127e7-663b-4666-83ca-38f5d6935228",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0b3fc272-5a80-492b-a084-56e2708f320a",
       "name": "Gloucestershire vs Worcestershire, 36th Match, County Championship Division Two 2026",
       "matchType": "test",
@@ -516,7 +517,7 @@
       "id": "c6a003c3-890e-42d9-9f57-5a6ace711d29",
       "name": "Lancashire vs Northamptonshire, 35th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Lancashire opt to bowl",
+      "status": "Day 1: Stumps - Lancashire opt to bowl",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -538,9 +539,9 @@
       ],
       "score": [
         {
-          "r": 8,
-          "w": 0,
-          "o": 2,
+          "r": 56,
+          "w": 2,
+          "o": 18,
           "inning": "Northamptonshire Inning 1"
         }
       ],
@@ -555,7 +556,7 @@
       "id": "a0148686-d357-4b5f-854b-db02c0e8bcfb",
       "name": "Derbyshire vs Durham, 34th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Match delayed due to wet outfield - Derbyshire opt to bowl",
+      "status": "Day 1: Stumps - Derbyshire opt to bowl",
       "venue": "County Ground, Derby",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -577,9 +578,9 @@
       ],
       "score": [
         {
-          "r": 5,
-          "w": 0,
-          "o": 2.4,
+          "r": 102,
+          "w": 2,
+          "o": 38,
           "inning": "Durham Inning 1"
         }
       ],
@@ -594,7 +595,7 @@
       "id": "850347b1-f574-443a-ba50-7cfd73073d73",
       "name": "Middlesex vs Kent, 33rd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Kent opt to bat",
+      "status": "Day 1: Stumps - Kent opt to bat",
       "venue": "Merchant Taylors' School Ground, Northwood",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -616,9 +617,9 @@
       ],
       "score": [
         {
-          "r": 228,
-          "w": 4,
-          "o": 57.3,
+          "r": 299,
+          "w": 6,
+          "o": 76,
           "inning": "kent Inning 1"
         }
       ],
@@ -633,7 +634,7 @@
       "id": "5986316d-f5a1-45d9-9b4d-94cd7e817cdd",
       "name": "Hampshire vs Yorkshire, 45th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Yorkshire opt to bat",
+      "status": "Day 1: Stumps - Hampshire trail by 113 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -655,10 +656,16 @@
       ],
       "score": [
         {
-          "r": 95,
-          "w": 7,
-          "o": 43,
+          "r": 173,
+          "w": 10,
+          "o": 61.2,
           "inning": "yorkshire Inning 1"
+        },
+        {
+          "r": 60,
+          "w": 4,
+          "o": 26,
+          "inning": "Hampshire,Yorkshire Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -672,7 +679,7 @@
       "id": "dad732e9-7170-462a-85e7-f70b4442c5f3",
       "name": "Somerset vs Essex, 44th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Essex opt to bowl",
+      "status": "Day 1: Stumps - Essex opt to bowl",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -694,9 +701,9 @@
       ],
       "score": [
         {
-          "r": 231,
-          "w": 3,
-          "o": 59,
+          "r": 348,
+          "w": 5,
+          "o": 96,
           "inning": "Somerset Inning 1"
         }
       ],
@@ -711,7 +718,7 @@
       "id": "158c3f38-148c-451d-87ec-3d784d5b8624",
       "name": "Leicestershire vs Glamorgan, 43rd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Match delayed due to wet outfield - Glamorgan opt to bowl",
+      "status": "Day 1: Stumps - Glamorgan opt to bowl",
       "venue": "Grace Road, Leicester",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -733,9 +740,9 @@
       ],
       "score": [
         {
-          "r": 71,
-          "w": 4,
-          "o": 32,
+          "r": 113,
+          "w": 7,
+          "o": 46.4,
           "inning": "Leicestershire Inning 1"
         }
       ],
@@ -750,7 +757,7 @@
       "id": "6a023431-ab39-41aa-b274-0f74d866e04e",
       "name": "Warwickshire vs Sussex, 42nd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Warwickshire opt to bowl",
+      "status": "Day 1: Stumps - Warwickshire opt to bowl",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -772,9 +779,9 @@
       ],
       "score": [
         {
-          "r": 79,
-          "w": 1,
-          "o": 23,
+          "r": 99,
+          "w": 3,
+          "o": 30.3,
           "inning": "Sussex Inning 1"
         }
       ],
@@ -789,7 +796,7 @@
       "id": "a6e5f5b8-cd12-40b3-8727-834ae9c7380a",
       "name": "Surrey vs Nottinghamshire, 41st Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Surrey opt to bowl",
+      "status": "Day 1: Stumps - Surrey trail by 171 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -811,10 +818,16 @@
       ],
       "score": [
         {
-          "r": 99,
-          "w": 7,
-          "o": 43,
+          "r": 184,
+          "w": 10,
+          "o": 68.2,
           "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 13,
+          "w": 1,
+          "o": 9,
+          "inning": "Surrey Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -823,141 +836,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "5a209a6b-c8ed-4931-b392-57d106889dcc",
-      "name": "Trent Rockets Women vs Sunrisers Leeds Women, Final, The Hundred Womens Competition 2026",
-      "matchType": "t20",
-      "status": "Trent Rockets Women won by 8 wkts",
-      "venue": "Lord's, London",
-      "date": "2026-08-16",
-      "dateTimeGMT": "2026-08-16T13:15:00",
-      "teams": [
-        "Trent Rockets Women",
-        "Sunrisers Leeds Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sunrisers Leeds Women",
-          "shortname": "SLW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trent Rockets Women",
-          "shortname": "TRW",
-          "img": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 91,
-          "w": 10,
-          "o": 91,
-          "inning": "Sunrisers Leeds Women Inning 1"
-        },
-        {
-          "r": 92,
-          "w": 2,
-          "o": 54,
-          "inning": "Trent Rockets Women Inning 1"
-        }
-      ],
-      "series_id": "99aea2e0-513f-4d4c-b83c-336e456723ae",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "67b24f5c-ca0b-43ae-8ef2-b199a740bebe",
-      "name": "Middlesex vs Durham, Semi Final 2, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Middlesex won by 2 wkts",
-      "venue": "Brunton Memorial Ground, Radlett",
-      "date": "2026-08-16",
-      "dateTimeGMT": "2026-08-16T10:00:00",
-      "teams": [
-        "Middlesex",
-        "Durham"
-      ],
-      "teamInfo": [
-        {
-          "name": "Durham",
-          "shortname": "DURH",
-          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 254,
-          "w": 7,
-          "o": 50,
-          "inning": "durham Inning 1"
-        },
-        {
-          "r": 255,
-          "w": 8,
-          "o": 48.4,
-          "inning": "Middlesex,Durham Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5ea5f86b-8314-473f-a3cc-3d0decf37012",
-      "name": "Leicestershire vs Nottinghamshire, Semi Final 1, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Leicestershire won by 23 runs",
-      "venue": "Grace Road, Leicester",
-      "date": "2026-08-16",
-      "dateTimeGMT": "2026-08-16T10:00:00",
-      "teams": [
-        "Leicestershire",
-        "Nottinghamshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        },
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 303,
-          "w": 7,
-          "o": 50,
-          "inning": "nottinghamshire Inning 1"
-        },
-        {
-          "r": 280,
-          "w": 10,
-          "o": 49,
-          "inning": "Leicestershire,Nottinghamshire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
