@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T03:01:04.604Z",
+  "lastUpdated": "2026-08-20T08:21:43.081Z",
   "recentMatches": [
     {
       "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
@@ -88,7 +88,7 @@
       "id": "283a3fed-c27b-488b-8333-e2f96bfec14c",
       "name": "Saint Lucia Kings vs Guyana Amazon Warriors, 11th Match, Caribbean Premier League 2026",
       "matchType": "t20",
-      "status": "Guyana Amazon Warriors need 49 runs in 40 balls",
+      "status": "Guyana Amazon Warriors won by 7 wkts",
       "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
       "date": "2026-08-19",
       "dateTimeGMT": "2026-08-19T23:00:00",
@@ -116,9 +116,9 @@
           "inning": "Saint Lucia Kings Inning 1"
         },
         {
-          "r": 103,
-          "w": 1,
-          "o": 13.2,
+          "r": 157,
+          "w": 3,
+          "o": 18.1,
           "inning": "Guyana Amazon Warriors Inning 1"
         }
       ],
@@ -127,7 +127,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "83f95f18-2ea7-4b1b-b1e0-63db4d8fa363",
