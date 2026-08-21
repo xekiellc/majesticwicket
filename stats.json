@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-21T08:23:10.958Z",
+  "lastUpdated": "2026-08-21T14:40:06.313Z",
   "recentMatches": [
     {
       "id": "89c3e654-61d9-46d4-8420-94059021cb20",
       "name": "England vs Pakistan, 1st Test, Pakistan tour of England 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - England lead by 195 runs",
+      "status": "Day 3: 2nd Session - Pakistan trail by 107 runs",
       "venue": "Headingley, Leeds",
       "date": "2026-08-19",
       "dateTimeGMT": "2026-08-19T00:00:00",
@@ -21,10 +21,16 @@
           "inning": "Pakistan Inning 1"
         },
         {
-          "r": 366,
-          "w": 8,
-          "o": 82,
+          "r": 409,
+          "w": 10,
+          "o": 89.5,
           "inning": "England Inning 1"
+        },
+        {
+          "r": 131,
+          "w": 9,
+          "o": 37,
+          "inning": "Pakistan Inning 2"
         }
       ],
       "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
@@ -342,6 +348,89 @@
       "matchEnded": true
     },
     {
+      "id": "b3610a13-4cd2-4396-aba1-3011dbd0dee6",
+      "name": "Trichy Grand Cholas vs Chepauk Super Gillies, 26th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Trichy Grand Cholas opt to bat",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-21",
+      "dateTimeGMT": "2026-08-21T14:00:00",
+      "teams": [
+        "Trichy Grand Cholas",
+        "Chepauk Super Gillies"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chepauk Super Gillies",
+          "shortname": "CSG",
+          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
+        },
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 2,
+          "w": 1,
+          "o": 1,
+          "inning": "trichy grand cholas Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "7619f5ad-00a7-4f5f-a1e6-76bf2c380015",
+      "name": "Vida Kovai Kings vs Dindigul Dragons, 25th Match, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings won by 85 runs (DLS Method)",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-21",
+      "dateTimeGMT": "2026-08-21T10:00:00",
+      "teams": [
+        "Vida Kovai Kings",
+        "Dindigul Dragons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Dindigul Dragons",
+          "shortname": "DD",
+          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 171,
+          "w": 3,
+          "o": 16,
+          "inning": "Vida Kovai Kings Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 10,
+          "o": 13.2,
+          "inning": "Dindigul Dragons Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "3960b1b6-7602-4759-a83b-4261febc900b",
       "name": "Nellai Royal Kings vs SKM Salem Spartans, 24th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -523,7 +612,7 @@
       "id": "0b3fc272-5a80-492b-a084-56e2708f320a",
       "name": "Gloucestershire vs Worcestershire, 36th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Gloucestershire opt to bat",
+      "status": "Day 2: 2nd Session - Worcestershire trail by 54 runs",
       "venue": "College Ground, Cheltenham",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -545,10 +634,16 @@
       ],
       "score": [
         {
-          "r": 107,
-          "w": 5,
-          "o": 43.4,
+          "r": 150,
+          "w": 10,
+          "o": 59.5,
           "inning": "gloucestershire Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 3,
+          "o": 36.2,
+          "inning": "Gloucestershire,Worcestershire Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -562,7 +657,7 @@
       "id": "c6a003c3-890e-42d9-9f57-5a6ace711d29",
       "name": "Lancashire vs Northamptonshire, 35th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Lancashire opt to bowl",
+      "status": "Day 2: 2nd Session - Lancashire opt to bowl",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -584,9 +679,9 @@
       ],
       "score": [
         {
-          "r": 56,
-          "w": 2,
-          "o": 18,
+          "r": 217,
+          "w": 6,
+          "o": 73,
           "inning": "Northamptonshire Inning 1"
         }
       ],
@@ -601,7 +696,7 @@
       "id": "a0148686-d357-4b5f-854b-db02c0e8bcfb",
       "name": "Derbyshire vs Durham, 34th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Derbyshire opt to bowl",
+      "status": "Day 2: 2nd Session - Derbyshire opt to bowl",
       "venue": "County Ground, Derby",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -623,9 +718,9 @@
       ],
       "score": [
         {
-          "r": 102,
-          "w": 2,
-          "o": 38,
+          "r": 281,
+          "w": 8,
+          "o": 92.2,
           "inning": "Durham Inning 1"
         }
       ],
@@ -640,7 +735,7 @@
       "id": "850347b1-f574-443a-ba50-7cfd73073d73",
       "name": "Middlesex vs Kent, 33rd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Kent opt to bat",
+      "status": "Day 2: 2nd Session - Middlesex trail by 224 runs",
       "venue": "Merchant Taylors' School Ground, Northwood",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -662,10 +757,16 @@
       ],
       "score": [
         {
-          "r": 299,
-          "w": 6,
-          "o": 76,
+          "r": 350,
+          "w": 10,
+          "o": 91.3,
           "inning": "kent Inning 1"
+        },
+        {
+          "r": 126,
+          "w": 6,
+          "o": 35.5,
+          "inning": "Middlesex,Kent Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -679,7 +780,7 @@
       "id": "5986316d-f5a1-45d9-9b4d-94cd7e817cdd",
       "name": "Hampshire vs Yorkshire, 45th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Hampshire trail by 113 runs",
+      "status": "Day 2: 2nd Session - Hampshire lead by 11 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -707,9 +808,9 @@
           "inning": "yorkshire Inning 1"
         },
         {
-          "r": 60,
-          "w": 4,
-          "o": 26,
+          "r": 184,
+          "w": 8,
+          "o": 83,
           "inning": "Hampshire,Yorkshire Inning 1"
         }
       ],
@@ -724,7 +825,7 @@
       "id": "dad732e9-7170-462a-85e7-f70b4442c5f3",
       "name": "Somerset vs Essex, 44th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Essex opt to bowl",
+      "status": "Day 2: 2nd Session - Essex trail by 390 runs",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -746,10 +847,16 @@
       ],
       "score": [
         {
-          "r": 348,
-          "w": 5,
-          "o": 96,
+          "r": 469,
+          "w": 10,
+          "o": 127.5,
           "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 79,
+          "w": 3,
+          "o": 18,
+          "inning": "Essex Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -763,7 +870,7 @@
       "id": "158c3f38-148c-451d-87ec-3d784d5b8624",
       "name": "Leicestershire vs Glamorgan, 43rd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Glamorgan opt to bowl",
+      "status": "Day 2: 2nd Session - Glamorgan trail by 60 runs",
       "venue": "Grace Road, Leicester",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -785,10 +892,16 @@
       ],
       "score": [
         {
-          "r": 113,
-          "w": 7,
-          "o": 46.4,
+          "r": 151,
+          "w": 10,
+          "o": 62.5,
           "inning": "Leicestershire Inning 1"
+        },
+        {
+          "r": 91,
+          "w": 6,
+          "o": 31,
+          "inning": "Glamorgan Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -802,7 +915,7 @@
       "id": "6a023431-ab39-41aa-b274-0f74d866e04e",
       "name": "Warwickshire vs Sussex, 42nd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Warwickshire opt to bowl",
+      "status": "Day 2: 2nd Session - Warwickshire trail by 62 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -824,10 +937,16 @@
       ],
       "score": [
         {
-          "r": 99,
-          "w": 3,
-          "o": 30.3,
+          "r": 156,
+          "w": 10,
+          "o": 47.4,
           "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 7,
+          "o": 30.2,
+          "inning": "Warwickshire Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -841,7 +960,7 @@
       "id": "a6e5f5b8-cd12-40b3-8727-834ae9c7380a",
       "name": "Surrey vs Nottinghamshire, 41st Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Surrey trail by 171 runs",
+      "status": "Day 2: 2nd Session - Surrey trail by 37 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -869,9 +988,9 @@
           "inning": "Nottinghamshire Inning 1"
         },
         {
-          "r": 13,
-          "w": 1,
-          "o": 9,
+          "r": 147,
+          "w": 8,
+          "o": 62,
           "inning": "Surrey Inning 1"
         }
       ],
