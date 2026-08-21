@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T20:32:16.156Z",
+  "lastUpdated": "2026-08-21T03:07:49.792Z",
   "recentMatches": [
     {
       "id": "89c3e654-61d9-46d4-8420-94059021cb20",
@@ -206,6 +206,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "e2465074-7f3e-4183-b133-9ce6c3368b0f",
+      "name": "Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots, 12th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Antigua and Barbuda Falcons won by 3 wkts",
+      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
+      "date": "2026-08-20",
+      "dateTimeGMT": "2026-08-20T23:00:00",
+      "teams": [
+        "Antigua and Barbuda Falcons",
+        "St Kitts and Nevis Patriots"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 187,
+          "w": 6,
+          "o": 20,
+          "inning": "St Kitts and Nevis Patriots Inning 1"
+        },
+        {
+          "r": 191,
+          "w": 7,
+          "o": 19.3,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "283a3fed-c27b-488b-8333-e2f96bfec14c",
