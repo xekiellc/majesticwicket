@@ -1,11 +1,71 @@
 {
-  "lastUpdated": "2026-08-22T08:14:13.285Z",
+  "lastUpdated": "2026-08-22T14:26:30.017Z",
   "articles": [
+    {
+      "title": "Gambhir 'ideally' wants three-match Test series",
+      "url": "https://www.cricinfo.com/ci/content/story/1551021.html?ex_cid=OTC-RSS",
+      "description": "India men's coach prefers the team losing the first Test to retain the chance of winning the series",
+      "publishedAt": "2026-08-22T13:56:05.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Ponting on Labuschagne's struggles: Well and truly time to look at somebody else",
+      "url": "https://www.cricinfo.com/ci/content/story/1551035.html?ex_cid=OTC-RSS",
+      "description": "The Australia No. 3 is averaging 24.69 since his last Test century in July 2023",
+      "publishedAt": "2026-08-22T12:12:58.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Gambhir rates Kuldeep 'very highly' but doesn't commit on selection",
+      "url": "https://www.cricinfo.com/ci/content/story/1551030.html?ex_cid=OTC-RSS",
+      "description": "Gambhir said that the management rates Kuldeep highly but 'we're going to try and pick the best attack of what can deliver in these conditions'",
+      "publishedAt": "2026-08-22T12:12:56.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "De Silva wants Sri Lanka's fast bowlers to 'raise their game a little bit'",
+      "url": "https://www.cricinfo.com/ci/content/story/1551031.html?ex_cid=OTC-RSS",
+      "description": "The Sri Lanka captain also wants &quot;two or three bowlers who can bowl at more than 140kph&quot;",
+      "publishedAt": "2026-08-22T12:04:57.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Zubin Bharucha joins Mumbai Indians as director of performance",
+      "url": "https://www.cricinfo.com/ci/content/story/1551019.html?ex_cid=OTC-RSS",
+      "description": "Zubin Bharucha has worked in various capacities with Rajasthan Royals since the start of the IPL except for two years in between when he was with Delhi Daredevils",
+      "publishedAt": "2026-08-22T10:13:24.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Six for Starc, six for Shoriful, Australia in front after 18-wicket opening day",
       "url": "https://www.cricinfo.com/ci/content/story/1550957.html?ex_cid=OTC-RSS",
       "description": "Bangladesh were knocked over in just 34 overs for 64 but fought back to leave Australia eight down - though 101 runs in front - by the end of the first day",
-      "publishedAt": "2026-08-22T07:55:35.000Z",
+      "publishedAt": "2026-08-22T09:12:16.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "SL hope for spinners to step up to equalise in Colombo",
+      "url": "https://www.cricinfo.com/ci/content/story/1551014.html?ex_cid=OTC-RSS",
+      "description": "Having put in the performance they did in Galle, anything less than a win now will be unsatisfactory for India irrespective of the toss",
+      "publishedAt": "2026-08-22T09:03:20.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -15,7 +75,7 @@
       "title": "Dravid: Need players like Sooryavanshi to play all formats for Test cricket to grow",
       "url": "https://www.cricinfo.com/ci/content/story/1550983.html?ex_cid=OTC-RSS",
       "description": "Dravid believes Sooryavanshi's development needs to be balanced between the white-ball and red-ball formats",
-      "publishedAt": "2026-08-22T05:38:55.000Z",
+      "publishedAt": "2026-08-22T08:43:59.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -42,212 +102,102 @@
       "urlToImage": null
     },
     {
-      "title": "Australia bowl first on Mackay's Test debut; Shoriful in for Bangladesh",
-      "url": "https://www.cricinfo.com/ci/content/story/1550946.html?ex_cid=OTC-RSS",
-      "description": "After surprising many by batting first in Darwin, Australia's captain went the opposite way in the second Test",
-      "publishedAt": "2026-08-21T23:52:05.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Milnes five-for puts Kent in charge against Middlesex",
-      "url": "https://www.cricinfo.com/ci/content/story/1550935.html?ex_cid=OTC-RSS",
-      "description": "Toby Roland-Jones battles for home side as they concede hefty first-innings deficit",
-      "publishedAt": "2026-08-21T20:13:02.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Bartlett battles to give Northants a fighting chance at Old Trafford",
-      "url": "https://www.cricinfo.com/ci/content/story/1550934.html?ex_cid=OTC-RSS",
-      "description": "Lancashire lose two wickets in reply as promotion race hots up",
-      "publishedAt": "2026-08-21T19:43:31.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Essex battle in follow-on as Leach, Gregory tighten Somerset's grip",
-      "url": "https://www.cricinfo.com/ci/content/story/1550928.html?ex_cid=OTC-RSS",
-      "description": "Visitors face uphill battle as spinners get a grip of contest at Taunton",
-      "publishedAt": "2026-08-21T19:25:10.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Stone takes six as Nottinghamshire turn the tables on Surrey",
-      "url": "https://www.cricinfo.com/ci/content/story/1550929.html?ex_cid=OTC-RSS",
-      "description": "Outstanding display of fast bowling steals a march for champions before batters build promising lead",
-      "publishedAt": "2026-08-21T19:13:39.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Stokes stars with bat and ball as Durham dominate Derbyshire",
-      "url": "https://www.cricinfo.com/ci/content/story/1550937.html?ex_cid=OTC-RSS",
-      "description": "Former England captain makes half-century and take two wickets to set up imposing position",
-      "publishedAt": "2026-08-21T19:13:37.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'I'd give any two players for Hardik Pandya' - Kris Srikkanth makes bold CSK trade claim",
-      "url": "https://www.crictracker.com/cricket-news/id-give-any-two-players-for-hardik-pandya-kris-srikkanth-makes-bold-csk-trade-claim-3065/",
-      "description": "Former India captain Kris Srikkanth believes Chennai Super Kings should be willing to part with multiple players to acquire Mumbai Indians captain Hardik Pandya ahead of IPL 2027.",
-      "publishedAt": "2026-08-22T08:06:11.000Z",
+      "title": "Former Pakistan pacer slams Misbah-ul-Haq-led PCB selection committee after Headingley defeat",
+      "url": "https://www.crictracker.com/cricket-news/former-pakistan-pacer-slams-misbah-ul-haq-led-pcb-selection-committee-after-headingley-defeat-0680/",
+      "description": "Tanveer Ahmed questioned the PCB selection committee's composition after Pakistan lost the first Test to England by an innings and 103 runs at Headingley.",
+      "publishedAt": "2026-08-22T14:09:35.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'Joe Root had three really good days as captain' - Nasser Hussain lauds England legend after lopsided Leeds Test",
-      "url": "https://www.crictracker.com/cricket-news/joe-root-had-three-really-good-days-as-captain-nasser-hussain-lauds-england-legend-after-lopsided-leeds-test/",
-      "description": "Former England skipper Nasser Hussain praised Joe Root's captaincy during England's dominant three-day victory over Pakistan at Headingley.",
-      "publishedAt": "2026-08-22T07:48:27.000Z",
+      "title": "Duleep Trophy 2026: North Zone vs West Zone, 2nd Quarter-Final Match Preview",
+      "url": "https://www.crictracker.com/cricket-previews/duleep-trophy-2026-north-zone-vs-west-zone-2nd-quarter-final-match-preview/",
+      "description": "A strong West Zone side locks horns with a talented North Zone unit at the BCCI Centre of Excellence Ground 1 in the second quarter-final of the Duleep Trophy 2026, commencing on Sunday, August 23.",
+      "publishedAt": "2026-08-22T13:33:18.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'SENA countries will tell you your true capability' - Aakash Chopra compares Sachin Tendulkar and Virat Kohli",
-      "url": "https://www.crictracker.com/cricket-news/sena-countries-will-tell-you-your-true-capability-aakash-chopra-compares-sachin-tendulkar-and-virat-kohli-5991/",
-      "description": "Aakash Chopra breaks down Test statistics across South Africa, England, New Zealand and Australia to assess the two batting greats.",
-      "publishedAt": "2026-08-22T07:33:33.000Z",
+      "title": "Mark Butcher says England should not break fast-bowling quartet for Sam Curran",
+      "url": "https://www.crictracker.com/cricket-news/mark-butcher-says-england-should-not-break-fast-bowling-quartet-for-sam-curran-2836/",
+      "description": "Former England batter Mark Butcher insists the four-seamer attack that dismantled Pakistan at Headingley must stay together, even after Sam Curran recovers.",
+      "publishedAt": "2026-08-22T13:28:42.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Stuart Broad hails Josh Tongue as England's best and most valuable bowler after Headingley heroics",
-      "url": "https://www.crictracker.com/cricket-news/stuart-broad-hails-josh-tongue-as-englands-best-and-most-valuable-bowler-after-headingley-heroics/",
-      "description": "Stuart Broad praised Josh Tongue's fitness and consistency after the pacer's eight-wicket match haul in England's dominant victory over Pakistan at Headingley.",
-      "publishedAt": "2026-08-22T07:24:55.000Z",
+      "title": "Duleep Trophy 2026: East Zone vs North East Zone, 1st Quarter-Final Match Preview",
+      "url": "https://www.crictracker.com/cricket-previews/duleep-trophy-2026-east-zone-vs-north-east-zone-1st-quarter-final-match-preview/",
+      "description": "East Zone and North East Zone are set to face each other in the first quarter-final of the Duleep Trophy 2026 at the BCCI Centre of Excellence Ground 2 in Bengaluru, starting on Sunday, August 23.",
+      "publishedAt": "2026-08-22T12:28:35.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "[WATCH] AUS vs BAN 2026: Shoriful Islam strikes twice in one over to rattle Australia",
-      "url": "https://www.crictracker.com/social-tracker-cricket/watch-aus-vs-ban-2026-shoriful-islam-strikes-twice-in-one-over-to-rattle-australia-4019/",
-      "description": "The left-arm seamer made an immediate impact on Day 1 of the 2nd Test at Mackay's Great Barrier Reef Arena.",
-      "publishedAt": "2026-08-22T07:18:51.000Z",
+      "title": "Dhananjaya De Silva urges Sri Lanka's fast bowlers to raise their game ahead of Colombo Test",
+      "url": "https://www.crictracker.com/cricket-news/dhananjaya-de-silva-urges-sri-lankas-fast-bowlers-to-raise-their-game-ahead-of-colombo-test-8578/",
+      "description": "Sri Lanka Test captain Dhananjaya de Silva has called for improved performance from his fast bowling unit as the team prepares for the second Test against India at the Sinhalese Sports Club.",
+      "publishedAt": "2026-08-22T13:11:01.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Gambhir, Indian commentators join Jayasuriya for dinner in Colombo ahead of 2nd Test",
-      "url": "https://www.crictracker.com/social-tracker-cricket/gambhir-indian-commentators-join-jayasuriya-for-dinner-in-colombo-ahead-of-2nd-test-3234/",
-      "description": "The gathering brought together India's head coach and prominent voices from the commentary box at the former Sri Lanka coach's Colombo home.",
-      "publishedAt": "2026-08-22T07:14:34.000Z",
+      "title": "'We have to be at our best from first match': Arshdeep Singh ahead of Sher-e-Punjab T20 League 2026",
+      "url": "https://www.crictracker.com/cricket-news/we-have-to-be-at-our-best-from-first-match-arshdeep-singh-ahead-of-sher-e-punjab-t20-league-2026-5226/",
+      "description": "India left-arm pacer Arshdeep Singh speaks on Ludhiana Lions' preparations and the role of young players ahead of the tournament starting August 30.",
+      "publishedAt": "2026-08-22T13:09:23.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'After Sai Sudharsan gets fit, he will struggle to replace Devdutt Padikkal' - Mohammad Kaif on India's No. 3 debate",
-      "url": "https://www.crictracker.com/cricket-news/after-sai-sudharsan-gets-fit-he-will-struggle-to-replace-devdutt-padikkal-mohammad-kaif-on-indias-no-3-debate/",
-      "description": "Former India batter Mohammad Kaif believes Devdutt Padikkal has made a compelling case for the No. 3 position after scoring 167 in his third Test.",
-      "publishedAt": "2026-08-22T07:07:23.000Z",
+      "title": "Cheteshwar Pujara's World Test XI: Five Indians Make the Cut",
+      "url": "https://www.crictracker.com/cricket-news/cheteshwar-pujaras-world-test-xi-five-indians-make-the-cut-8814/",
+      "description": "Cheteshwar Pujara named a World Test XI with five Indians, explaining how his bowling choices would shift based on playing conditions.",
+      "publishedAt": "2026-08-22T13:06:06.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'Test cricket needs players to play all formats' - Rahul Dravid on Vaibhav Sooryavanshi",
-      "url": "https://www.crictracker.com/cricket-news/test-cricket-needs-players-to-play-all-formats-rahul-dravid-on-vaibhav-sooryavanshi-2722/",
-      "description": "The former India coach emphasises the importance of multi-format experience for young talent in strengthening Test cricket's future.",
-      "publishedAt": "2026-08-22T06:46:17.000Z",
+      "title": "Salman Ali Agha responds to 'worst Pakistan side' comment after heavy  defeat at Headingley",
+      "url": "https://www.crictracker.com/cricket-news/salman-ali-agha-responds-to-worst-pakistan-side-comment-after-heavy-defeat-at-headingley-0594/",
+      "description": "Pakistan's stand-in captain addresses harsh criticism following an innings and 103-run defeat to England in the first Test at Headingley.",
+      "publishedAt": "2026-08-22T12:28:57.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'Shubman Gill doesn't have enough faith in Kuldeep Yadav' - Mohammad Kaif slams Indian captain for underutilising wrist spinner in Galle",
-      "url": "https://www.crictracker.com/cricket-news/shubman-gill-doesnt-have-enough-faith-in-kuldeep-yadav-mohammad-kaif-slams-indian-captain-for-underutilising-wrist-spinner-in-galle/",
-      "description": "Former India batter Mohammad Kaif has questioned captain Shubman Gill's faith in Kuldeep Yadav after the wrist-spinner bowled just 25 overs in India's 165-run victory at Galle.",
-      "publishedAt": "2026-08-22T06:45:40.000Z",
+      "title": "Ben Stokes slams Headingley omission from 2027 Ashes as shambolic",
+      "url": "https://www.crictracker.com/cricket-news/ben-stokes-slams-headingley-omission-from-2027-ashes-as-shambolic/",
+      "description": "England captain Ben Stokes has expressed strong frustration at the ECB's decision to exclude Leeds from the 2027 men's Ashes schedule, citing the ground's upgraded pitch quality.",
+      "publishedAt": "2026-08-22T12:27:56.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Duleep Trophy 2026: Where to watch matches – TV channels and live streaming details",
-      "url": "https://www.crictracker.com/cricket-news/duleep-trophy-2026-where-to-watch-matches-tv-channels-and-live-streaming-details/",
-      "description": "The Duleep Trophy will run from August 23 to September 10.",
-      "publishedAt": "2026-08-22T06:06:30.000Z",
+      "title": "'There's some technical deficiency, time to look at somebody else' - Ricky Ponting wants Australia to move past Labuschagne",
+      "url": "https://www.crictracker.com/cricket-news/theres-some-technical-deficiency-time-to-look-at-somebody-else-ricky-ponting-wants-australia-to-move-past-labuschagne/",
+      "description": "Ricky Ponting has called for Australia to look beyond Marnus Labuschagne after the batter's continued struggles during the Test series against Bangladesh.",
+      "publishedAt": "2026-08-22T12:18:41.000Z",
       "source": {
         "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Logic Over Emotion? AB de Villiers Puts Virat Kohli Above Sachin Tendulkar; Here's Why - MensXP",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUWNMLWY5X1dQY09NVGd5R3ZnYk5VNXNNNVBTSmxSRlY5QTcwV2pLX3J5X0xaSkVDcUYtWE1QR0VCMHRxUUE1YmpIU3NZSGlmNURHX0haOGNUaC1nY3U3ZXJfaUYxeE5kSTNxd01JaFZwblVVU1pnQWF2NGFHUGpuekNxNFJNbU9TTkxGRUM0TnYydkJoWlBYaHFFSnoyOTEwXzZvNUJXWXR3ZDBKR01VMGpvTmlkUGRWUGRLSXA2YnRxakFfQ0x6bjk5RnBmd9IB0wFBVV95cUxNUzUxYVoyYnpqUzVlUjMxS3R0WV9VaWlud2lEcVFLaEJ1RWE2X0F5b0cyOHdJcFQxbjJ2UnRlVk5Rb0x6MTdZNFhlV2dIR1czbW1qZW5LVFdaS1NuSEFCamhURzczVF96bzFNdVR6dGIwTlZmSjFuNC1POXJDM0tMcDJvV1RlZmdoNHQ0M25zZ1k1V1NYR1AyV0UwREp4YmdodEpCTXZHN3BXTWxrd1RZWlBNaGJrYi14SGxOU2c5Q3dTNVMzek9CWnhUYV9SS1lTcy00?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUWNMLWY5X1dQY09NVGd5R3ZnYk5VNXNNNVBTSmxSRlY5QTcwV2pLX3J5X0xaSkVDcUYtWE1QR0VCMHRxUUE1YmpIU3NZSGlmNURHX0haOGNUaC1nY3U3ZXJfaUYxeE5kSTNxd01JaFZwblVVU1pnQWF2NGFHUGpuekNxNFJNbU9TTkxGRUM0TnYydkJoWlBYaHFFSnoyOTEwXzZvNUJXWXR3ZDBKR01VMGpvTmlkUGRWUG",
-      "publishedAt": "2026-08-21T05:58:18.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli a stronger batsman than Sachin Tendulkar? Former India bowler ridicules AB de Villiers' controversial statement - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1NOcUJ1LXdFaThMMzFDUTJrV2lnNVRyS1VJZkFZSWQ0RzZKX0Rvczd3S3F1M0RHR3prOG9Vc2hTUHlQVkRMOXIxSlhPdGRmQVdya2c0RDlkNlpHY0VSMTBDQjdhREVtUDhxYUxvUlpZeU9JeU5VMEtpZWl3WV9mUUxaZ0Y3Zzg4dXYxQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1NOcUJ1LXdFaThMMzFDUTJrV2lnNVRyS1VJZkFZSWQ0RzZKX0Rvczd3S3F1M0RHR3prOG9Vc2hTUHlQVkRMOXIxSlhPdGRmQVdya2c0RDlkNlpHY0VSMTBDQjdhREVtUDhxYUxvUlpZeU9JeU5VMEtpZWl3WV9mUUxaZ0Y3Zzg4dXYxQQ?oc=5\" target=\"_blank\">Virat Kohli a stronger batsman than S",
-      "publishedAt": "2026-08-20T15:20:25.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "18 years of ruthless Virat Kohli: The man who refused to stay ordinary - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYWlDY1NlZ1EzcWtmUGZ3Z2ZyVEg3c25yMlNuVjdYaFFDR0RPckVlQllhZTQwamhuRFE5Wi1jb29uOWhWcG55dF92cTFfbGdLb1l4OE5zc2FSMUUwZ2gteWNZdkQ4ZlJpZk56S0xSRGxzOEVld0FLcTZ0eTN2bC10aVR2WDZfZGdWZ0VaTnlUb2lZdGxiTHpQcWtId1B5Q1ZYUUVrdVdwNDZnZmY0V1IySjhUX1o1N2xpZHdCMjRaOVA4LWFZdnVmYkZweXFQOXFkbjlMNldQU2lpUDV6UFZsSUdESGt6Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYWlDY1NlZ1EzcWtmUGZ3Z2ZyVEg3c25yMlNuVjdYaFFDR0RPckVlQllhZTQwamhuRFE5Wi1jb29uOWhWcG55dF92cTFfbGdLb1l4OE5zc2FSMUUwZ2gteWNZdkQ4ZlJpZk56S0xSRGxzOEVld0FLcTZ0eTN2bC10aVR2WDZfZGdWZ0VaTnlUb2lZdGxiTHpQcWtId1B5Q1ZYUUVrdVdwNDZnZmY0V1IySjhUX1o1N2xpZH",
-      "publishedAt": "2026-08-18T07:11:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "18 Years, No. 18 & King Kohli: How Virat Turned 12 on Debut into 28,000 Runs - Open Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3llMTVrS0JCTmtiS2FTWW1uNVRIOEJRdmNKU01aOEdleHhSWHVJN3pSYml3MWpzR0wzRVJXblFzbHl1YnR0V2huTldHUHpyOGQwZDdTMTlWYVRCMWRpUmNtUms4SFJPOHhwYWNPV3pTZjlfeGF2cFJGczJXeVhkSm52bnpRVFN6N25IcDZJTTJWSWY1bkJzX0RIeE9BZnR1LURiWXJtSFY?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3llMTVrS0JCTmtiS2FTWW1uNVRIOEJRdmNKU01aOEdleHhSWHVJN3pSYml3MWpzR0wzRVJXblFzbHl1YnR0V2huTldHUHpyOGQwZDdTMTlWYVRCMWRpUmNtUms4SFJPOHhwYWNPV3pTZjlfeGF2cFJGczJXeVhkSm52bnpRVFN6N25IcDZJTTJWSWY1bkJzX0RIeE9BZnR1LURiWXJtSFY?oc=5\" target=\"_blank\">",
-      "publishedAt": "2026-08-18T12:25:44.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Pass on the weed': Ex-India cricketer mocks AB de Villiers over Virat Kohli- Sachin Tendulkar take - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN3dkc3B1RDJoNDFUMWNnM2ZOTWNDczVqbU5nR1RlclZON1pkb3ZCUE1Lb0h1aWFQTGVNU2xEY3p5QnhTZ3dTSUwwME1CYTB2Z3hDX0xuT0ZZWnF4TVhQZG1pTDhuU1BSTmcxV3pPV3lPVXpRTlVzaVEyeGRfTWw1bW1vd3JYQ21ITDIzOGZSU1AtcFU5QWdoNHl3elJ3R1praF9ObEtuN0UyUVJOMUQ3MGttVThqYmZ4dUQ1djhBRkRtQUVaQTQxZmhJVG11THFDdHBIZERMVGVmZmwwUmlWTUV3T0JwMndWNWtYU2tXVFVmTWtsMkhRRFBYOV85WTdISnQ4ZXhYMDPSAY4CQVVfeXFMT1FYVURST096WHZHUEQwYTRmY0xId3JPN0luUkdjN0t6SFM4d1M5NEd5OXRLRE5PSXRFaF9pZVF6aS1LaHdYZzg2VlF4MEIxUWlKUy1VLUh2UTJ2QjJGV3ZIX2xveGlkb3NOTmNPaERwRzlGOHd2T2dsek9nSGI0YkdERjUxalJ0N1BvbksycmZGNjFsa2NQbllyLVk5aGFSNFk3VXV4RVpOQzRSdElxR2h1TGhDcjNIb0FDZERCeFhGYnZGelVKZzJiRFdRZzBOWTM2U2M2cjZ0R0t4ZFhBVERCVEl1X0g5SkFFdm16SzZUVkhwdi1Gbkc0QzUxNzhyaTJ2cW91bFZXNXJBRVR3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN3dkc3B1RDJoNDFUMWNnM2ZOTWNDczVqbU5nR1RlclZON1pkb3ZCUE1Lb0h1aWFQTGVNU2xEY3p5QnhTZ3dTSUwwME1CYTB2Z3hDX0xuT0ZZWnF4TVhQZG1pTDhuU1BSTmcxV3pPV3lPVXpRTlVzaVEyeGRfTWw1bW1vd3JYQ21ITDIzOGZSU1AtcFU5QWdoNHl3elJ3R1praF9ObEtuN0UyUVJOMUQ3MGttVThqYmZ4dU",
-      "publishedAt": "2026-08-21T05:35:00.000Z",
-      "source": {
-        "name": "Google News"
       },
       "urlToImage": null
     },
@@ -272,16 +222,6 @@
       "urlToImage": null
     },
     {
-      "title": "‘When I was at my lowest’: PV Sindhu reveals Virat Kohli’s advice that ‘completely changed’ her perspecti - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdVJNOGVzWjlUTFFpejhjQmJQRnJiaG9haU5GdktZd01lNlFwOTFHYTM3ZTVFMDZCMlpXejFsNFNQY3hCUkZ1MVZleDNCOWNsMy11SmNUWWx1UVJhNHJQa3hsT2luN29NLXZrOXBwN2t3U3Q4OE5LVFhXT2FVN2pUZjdPWG1lUkdZWnhXSy16eHhtVzdDdzdxMzJpUDhpTElQckhDR0NXREpDaERIR09CUU5TbWdBcjVPbnpnenVsSVBDa3dneGFLNnFZTGF6cllhVTlpRzdBbkNTNWFuNDdmbEVrSUdHWEg0YzJMWWZWbWpleUY1Y1pTYk9zX29GY0VhdlN2YzlBMW82TENCNUZBQdIBlgJBVV95cUxPR3ZBR0piRjQtQjZVR0JHOGVKRjVxQVhmVVlmbVdZZERxZmRubDFfbnd1bnZCVEE3WVBuMTlmc3B2S0t2bVZMWmlabFlIc2R5QVFwT3BCWmluR1BLNk9YN21rVHZkVThsbkMxRkRhbXFLako3bmIxU0ZDb3ptOGVtcTJrVjdsTjRuR2FmUVB4c0QyMUpSUEJiSGYyeXM2djZOYkVRSWlrMXhKVkhsLWk2TjNmVC1pSW95SUpmV0pBQXBpUUxjU1NrbFN2RnR1WnItaVJiZnREV20xU0NtcGNldlJaTFpsNmhvNXRoQk5ScGtCRy11UE5wbVhqVUJmVFlpNlpJLTFfT2pyZmRueXdkbjJFNmtSdw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQdVJNOGVzWjlUTFFpejhjQmJQRnJiaG9haU5GdktZd01lNlFwOTFHYTM3ZTVFMDZCMlpXejFsNFNQY3hCUkZ1MVZleDNCOWNsMy11SmNUWWx1UVJhNHJQa3hsT2luN29NLXZrOXBwN2t3U3Q4OE5LVFhXT2FVN2pUZjdPWG1lUkdZWnhXSy16eHhtVzdDdzdxMzJpUDhpTElQckhDR0NXREpDaERIR09CUU5TbWdBcjVPbn",
-      "publishedAt": "2026-08-19T05:08:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Jordan Cox hopes to use Virat Kohli advice to thrive in Test cricket for England - Yahoo Sports UK",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFRLcFBiZ0pVMENVX08tZXcxei1paUxNWmNpLV84V051bEJLdWRtdlFMTVpOWjFuT3pSdE53alA3N1ROaVJzZjktRzNtYlJIb1Q5bGMxRVdUYlBsUW9rSU9BZ0NUa2dyOUp6RzVVMWlGbUY2TkZVWG10SHJtaVVrOU5B?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFRLcFBiZ0pVMENVX08tZXcxei1paUxNWmNpLV84V051bEJLdWRtdlFMTVpOWjFuT3pSdE53alA3N1ROaVJzZjktRzNtYlJIb1Q5bGMxRVdUYlBsUW9rSU9BZ0NUa2dyOUp6RzVVMWlGbUY2TkZVWG10SHJtaVVrOU5B?oc=5\" target=\"_blank\">Jordan Cox hopes to use Virat Kohli advice to thriv",
@@ -292,10 +232,70 @@
       "urlToImage": null
     },
     {
+      "title": "‘When I was at my lowest’: PV Sindhu reveals Virat Kohli’s advice that ‘completely changed’ her perspecti - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdVJNOGVzWjlUTFFpejhjQmJQRnJiaG9haU5GdktZd01lNlFwOTFHYTM3ZTVFMDZCMlpXejFsNFNQY3hCUkZ1MVZleDNCOWNsMy11SmNUWWx1UVJhNHJQa3hsT2luN29NLXZrOXBwN2t3U3Q4OE5LVFhXT2FVN2pUZjdPWG1lUkdZWnhXSy16eHhtVzdDdzdxMzJpUDhpTElQckhDR0NXREpDaERIR09CUU5TbWdBcjVPbnpnenVsSVBDa3dneGFLNnFZTGF6cllhVTlpRzdBbkNTNWFuNDdmbEVrSUdHWEg0YzJMWWZWbWpleUY1Y1pTYk9zX29GY0VhdlN2YzlBMW82TENCNUZBQdIBlgJBVV95cUxPR3ZBR0piRjQtQjZVR0JHOGVKRjVxQVhmVVlmbVdZZERxZmRubDFfbnd1bnZCVEE3WVBuMTlmc3B2S0t2bVZMWmlabFlIc2R5QVFwT3BCWmluR1BLNk9YN21rVHZkVThsbkMxRkRhbXFLako3bmIxU0ZDb3ptOGVtcTJrVjdsTjRuR2FmUVB4c0QyMUpSUEJiSGYyeXM2djZOYkVRSWlrMXhKVkhsLWk2TjNmVC1pSW95SUpmV0pBQXBpUUxjU1NrbFN2RnR1WnItaVJiZnREV20xU0NtcGNldlJaTFpsNmhvNXRoQk5ScGtCRy11UE5wbVhqVUJmVFlpNlpJLTFfT2pyZmRueXdkbjJFNmtSdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQdVJNOGVzWjlUTFFpejhjQmJQRnJiaG9haU5GdktZd01lNlFwOTFHYTM3ZTVFMDZCMlpXejFsNFNQY3hCUkZ1MVZleDNCOWNsMy11SmNUWWx1UVJhNHJQa3hsT2luN29NLXZrOXBwN2t3U3Q4OE5LVFhXT2FVN2pUZjdPWG1lUkdZWnhXSy16eHhtVzdDdzdxMzJpUDhpTElQckhDR0NXREpDaERIR09CUU5TbWdBcjVPbn",
+      "publishedAt": "2026-08-19T05:08:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Faster than Don Bradman: Virat Kohli's Record-Breaking 18 Years For India - Rediff",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObTJINGhsMlF2WDhMcXZjdGxIZWFxQi1TQ29XdUNQLWRkTExrTEdxamJuQ1AwT2d5OVM1TE5ycm9kNmdaY3A2aHFmTGp5cS1LcUtsRmFQNzNPX2diZlBYRlFsdDU1WGlKRjdUMTNiZXlsUWd0ZTNKREVsSUIzdjRfZEdxbUlBUjNRV1ZMd0dQN2ttMjhPWjRRN0dmTzN2MGN1ME1DMmlEdE0wYmtnSHQ4YmZHaFJ6ZF9JUmVMbkFyMVdpdTF2RUNBNEN3RXNtWUFLaXk5dGpaLXVhM20tZDFadHBfQzLSAecBQVVfeXFMTUNvZmhkNjNSdVB0NHU3ZGY1UkY3Zjd1YVdocHVjSldfWDdJT1Bob2VRbHBNOEQyMldORk16dTFWX1JUQmU3eWlrSGJ4ZGZCeHRiazJOclFCUVNfMEpKOTcyZVVNT3lHb0NvblNoclVyWmtVbU1iM1JVUk52NTNxbDI2SEdGMGZCLWhjQ0xsZEttLVhoeGhJNmlTcjN5TjhWTnhsU19hamx0ZGxiazBWTGdiVDFTVURUcHlRQjRLWEhONXc1ZVFfWUF5ak1JU29xVVoxZEM0UFJWUUo0ZDNocnVQSnBsSy1r?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxObTJINGhsMlF2WDhMcXZjdGxIZWFxQi1TQ29XdUNQLWRkTExrTEdxamJuQ1AwT2d5OVM1TE5ycm9kNmdaY3A2aHFmTGp5cS1LcUtsRmFQNzNPX2diZlBYRlFsdDU1WGlKRjdUMTNiZXlsUWd0ZTNKREVsSUIzdjRfZEdxbUlBUjNRV1ZMd0dQN2ttMjhPWjRRN0dmTzN2MGN1ME1DMmlEdE0wYmtnSHQ4YmZHaFJ6ZF9JUm",
       "publishedAt": "2026-08-18T10:54:58.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'Pass On The Weed': South Africa Great Mocked For Stunning Sachin Tendulkar-Virat Kohli Comparison - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXV0LUltUHhwY3ZfSXZ0aEZSazJlVzM0Y0FYVDFUaTJCMndaMjZqdHNNd2VOMkQzVHQyV1c2aDBUbmtSaXdZV3B1eTdXUlpmSDJvcW56RDBkcVBVTTRvRVgzV1k5d2xjSWlJWjFCTjFxa0VIQ2NxVGszYm81d2JSckg1MDRlMDNsNktfaDh3Z0NNZnEzTFBydW50VGcwampNN1I1eG5KcWFIcFNaaUd0QmtfVXF4dzl4cTlDeUhoX1BnbGtwMjBIQkhIcUhqQWdVa0E?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXV0LUltUHhwY3ZfSXZ0aEZSazJlVzM0Y0FYVDFUaTJCMndaMjZqdHNNd2VOMkQzVHQyV1c2aDBUbmtSaXdZV3B1eTdXUlpmSDJvcW56RDBkcVBVTTRvRVgzV1k5d2xjSWlJWjFCTjFxa0VIQ2NxVGszYm81d2JSckg1MDRlMDNsNktfaDh3Z0NNZnEzTFBydW50VGcwampNN1I1eG5KcWFIcFNaaUd0QmtfVXF4dzl4cT",
+      "publishedAt": "2026-08-21T03:37:12.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "My job is to win trophies, not likes and views: Gautam Gambhir - Yardbarker",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXoyRGZyWlpQcGdQdlFiYXl5cGNmUXRxRG1jbFVwWGhFZER6RjJWck95SzhSWE1wT3FGaGhQNUdpNThXZFg3cnEzZVlTUEM3dC1xN1RzcHkyM1ZqT0lZMWVhamRFRldTT2lJWkhPT2p6eHRKRlM5aXkzNW1YU2otcE1kMDNpeGh6VDAwODdXVXVvTU1MUHhUZi0wRTdZckZtcmpyZ0l4WG1PbGZQNEUwcmVrSWN4cHpNTExFRFQxYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXoyRGZyWlpQcGdQdlFiYXl5cGNmUXRxRG1jbFVwWGhFZER6RjJWck95SzhSWE1wT3FGaGhQNUdpNThXZFg3cnEzZVlTUEM3dC1xN1RzcHkyM1ZqT0lZMWVhamRFRldTT2lJWkhPT2p6eHRKRlM5aXkzNW1YU2otcE1kMDNpeGh6VDAwODdXVXVvTU1MUHhUZi0wRTdZckZtcmpyZ0l4WG1PbGZQNEUwcmVrSWN4cHpNTE",
+      "publishedAt": "2026-08-22T10:31:54.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Geoffrey Boycott Names His \"Favourite Present Cricketer\". Hint: He Is Indian. Not Shubman Gill, Virat Kohli Or Rohit Sharma - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSS13YUxyUUp2OFJWWTR2YjdlZExfVDhuMkRVN3E2WWtscWNvTFRoYzNuYTU5V3F1bzJnSV9oaG1UV3VaaEFYRVJ1RC11eVNtWFNvV3NxaEVLbEJITFZGNndfNEd4TWU4dWtXQVZrdWYxWDJUS21NY1pEVjhKODNyZGpHcHFQWGhuNkxwcm5SNlFxbkUtOVVnbF93cUM4WndiSUtGTlVZVWpUUzZtWVVXdEFOYzBUVWlLaUFCZlRxdlctc05vM051V0VYMnBvR0J4d1F1UmZJR2hYY0ljaFR6WTVKc00ydzRma2JYMFRXdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSS13YUxyUUp2OFJWWTR2YjdlZExfVDhuMkRVN3E2WWtscWNvTFRoYzNuYTU5V3F1bzJnSV9oaG1UV3VaaEFYRVJ1RC11eVNtWFNvV3NxaEVLbEJITFZGNndfNEd4TWU4dWtXQVZrdWYxWDJUS21NY1pEVjhKODNyZGpHcHFQWGhuNkxwcm5SNlFxbkUtOVVnbF93cUM4WndiSUtGTlVZVWpUUzZtWVVXdEFOYzBUVWlLaU",
+      "publishedAt": "2026-08-19T10:26:32.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "AB De Villiers Makes Bold Virat Kohli-Sachin Tendulkar Comparison: \"Raised The Bar\" - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWhya0p1SnBid0p3aTlxY0VWeWhyZWpra1ViYlh1T0h0QXBkRkJXdFdrUVVENGt5M3ZPWDRYZXNUT1pxMVdyU2pZTEJXUkMyZFNxWG9jLXJhVXkyTlY3UW1LNjZqQ2RjMXdGTFVzbXJwemRzcHBsRUxnSVhpZEZCWUpxVTlYV1M2OFhHVVNCa2JNYU1xT2VFWkYtcHV6RHNuejVxY3JTM3RIaEJFWmxKSkV4OXB5TWFzcHdzdjNMdFRScDQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWhya0p1SnBid0p3aTlxY0VWeWhyZWpra1ViYlh1T0h0QXBkRkJXdFdrUVVENGt5M3ZPWDRYZXNUT1pxMVdyU2pZTEJXUkMyZFNxWG9jLXJhVXkyTlY3UW1LNjZqQ2RjMXdGTFVzbXJwemRzcHBsRUxnSVhpZEZCWUpxVTlYV1M2OFhHVVNCa2JNYU1xT2VFWkYtcHV6RHNuejVxY3JTM3RIaEJFWmxKSkV4OXB5TWFzcH",
+      "publishedAt": "2026-08-20T07:30:01.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Virat Kohli completes 18 years in international cricket - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0pla3gxZW9tN3duQWdXZEVkNW53ako3eVk2dHVaMzVidU5SX0hRdGtQSFZQeXJaOTFwaWJBM1czdGY5UW1aQm1kTENjWjF1VEVNNHFuR0U1QlhlZHlWYWxrVkZsS0NvZDZTeWwxWk52dEFUVHFGSVAtOGV3dndFQV84X0pTc0dUQmZqQi1wY0FHTFlqSVhwVEhXU1Y3UHlOZ05uRg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0pla3gxZW9tN3duQWdXZEVkNW53ako3eVk2dHVaMzVidU5SX0hRdGtQSFZQeXJaOTFwaWJBM1czdGY5UW1aQm1kTENjWjF1VEVNNHFuR0U1QlhlZHlWYWxrVkZsS0NvZDZTeWwxWk52dEFUVHFGSVAtOGV3dndFQV84X0pTc0dUQmZqQi1wY0FHTFlqSVhwVEhXU1Y3UHlOZ05uRg?oc=5\" target=\"_blank\">Virat",
+      "publishedAt": "2026-08-18T05:10:25.000Z",
       "source": {
         "name": "Google News"
       },
@@ -337,7 +337,7 @@
       "title": "Pakistan's heritage footprint expands globally - The Express Tribune",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc09SU2VTVF9nOEJMdWsyZDdMODNtbWRsa01wZUJ1WXRqVU9hZ0YtcWRfUUxSRGRhM1VHc2tmZHhpTjdzQXBLemFwRU96ZkR3YXVSMGV0Y0Faa20xVzRBOFdFQVJNWThRNi02SU41RFRMU1pKQXF2SUY4MHhIenV6NDZzejI3MGRtOUHSAZIBQVVfeXFMTTV2emNVRXp6aUJDYjJvdWZWS3AteGdMellKY1d5dmF4LVl1LUZXSkRKaFlyLTZOUlFfd3FkZ29fYnV2MWF4cFkxbW9JQU1ETEdiRzZ4UWNEUm1xdmEtX2UxWUMxNFJneG84Sk52aHBVZzNveEp2TWs0Ty0yNS1XR3hzLXZqREtCZ1U3dDRILUsyMFE?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQc09SU2VTVF9nOEJMdWsyZDdMODNtbWRsa01wZUJ1WXRqVU9hZ0YtcWRfUUxSRGRhM1VHc2tmZHhpTjdzQXBLemFwRU96ZkR3YXVSMGV0Y0Faa20xVzRBOFdFQVJNWThRNi02SU41RFRMU1pKQXF2SUY4MHhIenV6NDZzejI3MGRtOUHSAZIBQVVfeXFMTTV2emNVRXp6aUJDYjJvdWZWS3AteGdMellKY1d5dmF4LVl1LU",
-      "publishedAt": "2026-08-14T00:23:08.000Z",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -348,16 +348,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNy1fRlM3cjU4WXB4clYwdExab055RDVjdUJXa0pJbjNnVERVZnFIaUNKT1RXOVU1andfX3V2a1c5X3g0aE9CeE5lMElsazNxMkoxT0RsUnJfdlVick0wc3BYSE5ybUY0SUhVaGNFQ05YUnlrUnNtLTAtTjNSS2V6R2xpdFZIUlhWZmcxOEZtZ21maElseWlrRm1vSEF6cjU3emljV0FfZ1BuWDFEY0NETDZ4ZkNXZm1xRlI4c2VaeklsNkJxeWRta0dVYk1TdGdQeEJXblIybjdpUXdKMUpKTW5sSzNPMDDSAewBQVVfeXFMTUNHWEpoUldJWVM2MTFwWnl3TVdQVEgxdmJTb0hPOXB1bXpFcHZ4dzNlcFhwWDlyWmZPNUlYQkh3ejdIeVp5T2FyVWdGNzRrZEFWTGp4STZUOU8zc1kyM1BieXpOT1RnQk1ZaVZ5X3djWnN5UzRRTU5hVHhKOGtQQlJQR2NXY3JxcElLWmdoS1VSck9NS3NYLXowZXJYbVdNUWhLVFcxLVk0UmFlaWR5Qll6TXBCeDI1eGhGUWJTNDA1SWpVRDcwWlNTWGdoaUh4WDZKS2pUbTcxWVJQa0duWGdvMUdiOUdPckhMaE4?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNy1fRlM3cjU4WXB4clYwdExab055RDVjdUJXa0pJbjNnVERVZnFIaUNKT1RXOVU1andfX3V2a1c5X3g0aE9CeE5lMElsazNxMkoxT0RsUnJfdlVick0wc3BYSE5ybUY0SUhVaGNFQ05YUnlrUnNtLTAtTjNSS2V6R2xpdFZIUlhWZmcxOEZtZ21maElseWlrRm1vSEF6cjU3emljV0FfZ1BuWDFEY0NETDZ4ZkNXZm1xRl",
       "publishedAt": "2026-08-07T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Adams, Ogun commissioner seek Yoruba, History teaching in schools - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmxmbmJNQlBUb0RfRGZUWU9telJyLVRkVnJsaGF4b2ZicjVuX3lrQTZMZDNNRDdUZGNsYjFHZk1DcWVrU0dHRTBtemIwdVV4YmdBU2UyWjJiVmNuVTkxclFSWmhUZEsteWZyS1pvNGkwMjk2bkdBNzF0WjU4cWViTTJPNGVqVFRKdndUbm0welV6a3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObmxmbmJNQlBUb0RfRGZUWU9telJyLVRkVnJsaGF4b2ZicjVuX3lrQTZMZDNNRDdUZGNsYjFHZk1DcWVrU0dHRTBtemIwdVV4YmdBU2UyWjJiVmNuVTkxclFSWmhUZEsteWZyS1pvNGkwMjk2bkdBNzF0WjU4cWViTTJPNGVqVFRKdndUbm0welV6a3c?oc=5\" target=\"_blank\">Adams, Ogun commissioner see",
-      "publishedAt": "2026-08-21T04:32:00.000Z",
       "source": {
         "name": "Google News"
       },
