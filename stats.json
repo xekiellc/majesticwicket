@@ -1,62 +1,11 @@
 {
-  "lastUpdated": "2026-08-23T14:27:50.662Z",
+  "lastUpdated": "2026-08-23T20:26:49.642Z",
   "recentMatches": [
-    {
-      "id": "89c3e654-61d9-46d4-8420-94059021cb20",
-      "name": "England vs Pakistan, 1st Test, Pakistan tour of England 2026",
-      "matchType": "test",
-      "status": "England won by an innings and 103 runs",
-      "venue": "Headingley, Leeds",
-      "date": "2026-08-19",
-      "dateTimeGMT": "2026-08-19T00:00:00",
-      "teams": [
-        "England",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 171,
-          "w": 10,
-          "o": 48.1,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 409,
-          "w": 10,
-          "o": 89.5,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 135,
-          "w": 10,
-          "o": 37.3,
-          "inning": "Pakistan Inning 2"
-        }
-      ],
-      "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
       "name": "Luxembourg Women vs Belgium Women, 4th T20I, Belgium Women tour of Luxembourg, 2026",
       "matchType": "t20",
-      "status": "Belgium Women opt to bowl",
+      "status": "Luxembourg Women won by 47 runs",
       "venue": "Pierre Werner Cricket Ground, Walferdange",
       "date": "2026-08-23",
       "dateTimeGMT": "2026-08-23T13:30:00",
@@ -76,12 +25,26 @@
           "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 194,
+          "w": 0,
+          "o": 20,
+          "inning": "Luxembourg Women Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 8,
+          "o": 20,
+          "inning": "Belgium Women Inning 1"
+        }
+      ],
       "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "67c75be2-2cbe-4d4a-9b42-a71277bceab6",
@@ -437,55 +400,10 @@
       "matchEnded": true
     },
     {
-      "id": "283a3fed-c27b-488b-8333-e2f96bfec14c",
-      "name": "Saint Lucia Kings vs Guyana Amazon Warriors, 11th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 7 wkts",
-      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
-      "date": "2026-08-19",
-      "dateTimeGMT": "2026-08-19T23:00:00",
-      "teams": [
-        "Saint Lucia Kings",
-        "Guyana Amazon Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 7,
-          "o": 20,
-          "inning": "Saint Lucia Kings Inning 1"
-        },
-        {
-          "r": 157,
-          "w": 3,
-          "o": 18.1,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "7d79a71a-0bd5-41eb-8920-6eae1081ba7e",
       "name": "Madurai Panthers vs Trichy Grand Cholas, Qualifier 1, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Rain stops play - Madurai Panthers opt to bowl",
+      "status": "No result due to rain - Madurai Panthers opt to bowl",
       "venue": "MA Chidambaram Stadium, Chennai",
       "date": "2026-08-23",
       "dateTimeGMT": "2026-08-23T14:00:00",
@@ -507,9 +425,9 @@
       ],
       "score": [
         {
-          "r": 25,
+          "r": 50,
           "w": 1,
-          "o": 2.5,
+          "o": 4.5,
           "inning": "Trichy Grand Cholas Inning 1"
         }
       ],
@@ -518,7 +436,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d478067f-0f10-454b-9fc0-1d4f173b2fdd",
@@ -788,55 +706,10 @@
       "matchEnded": true
     },
     {
-      "id": "b4569241-cd0c-47e3-bf50-dd552c207187",
-      "name": "Dindigul Dragons vs Trichy Grand Cholas, 22nd Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Trichy Grand Cholas won by 28 runs  -  19 overs game due to rain,DLS target 199",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-19",
-      "dateTimeGMT": "2026-08-19T14:00:00",
-      "teams": [
-        "Dindigul Dragons",
-        "Trichy Grand Cholas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Dindigul Dragons",
-          "shortname": "DD",
-          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
-        },
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 197,
-          "w": 4,
-          "o": 19,
-          "inning": "Trichy Grand Cholas Inning 1"
-        },
-        {
-          "r": 170,
-          "w": 8,
-          "o": 19,
-          "inning": "Dindigul Dragons Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0b3fc272-5a80-492b-a084-56e2708f320a",
       "name": "Gloucestershire vs Worcestershire, 36th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 4: 2nd Session - Worcestershire need 188 runs",
+      "status": "Worcestershire won by 8 wkts",
       "venue": "College Ground, Cheltenham",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -876,9 +749,9 @@
           "inning": "gloucestershire Inning 2"
         },
         {
-          "r": 91,
-          "w": 0,
-          "o": 17.3,
+          "r": 281,
+          "w": 2,
+          "o": 55.1,
           "inning": "Gloucestershire,Worcestershire Inning 2"
         }
       ],
@@ -1064,7 +937,7 @@
       "id": "5986316d-f5a1-45d9-9b4d-94cd7e817cdd",
       "name": "Hampshire vs Yorkshire, 45th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 4: 2nd Session - Hampshire need 41 runs",
+      "status": "Yorkshire won by 39 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -1104,9 +977,9 @@
           "inning": "yorkshire Inning 2"
         },
         {
-          "r": 237,
-          "w": 8,
-          "o": 97.4,
+          "r": 238,
+          "w": 10,
+          "o": 98.2,
           "inning": "Hampshire,Yorkshire Inning 2"
         }
       ],
@@ -1115,13 +988,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "dad732e9-7170-462a-85e7-f70b4442c5f3",
       "name": "Somerset vs Essex, 44th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 4: 2nd Session - Somerset need 47 runs",
+      "status": "Somerset won by 8 wkts",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -1161,9 +1034,9 @@
           "inning": "Somerset Inning 2"
         },
         {
-          "r": 55,
-          "w": 0,
-          "o": 7.4,
+          "r": 103,
+          "w": 2,
+          "o": 19.2,
           "inning": "Essex Inning 2"
         }
       ],
@@ -1172,7 +1045,178 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "158c3f38-148c-451d-87ec-3d784d5b8624",
+      "name": "Leicestershire vs Glamorgan, 43rd Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Leicestershire won by 42 runs",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-08-20",
+      "dateTimeGMT": "2026-08-20T10:00:00",
+      "teams": [
+        "Leicestershire",
+        "Glamorgan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 10,
+          "o": 62.5,
+          "inning": "Leicestershire Inning 1"
+        },
+        {
+          "r": 152,
+          "w": 10,
+          "o": 53.1,
+          "inning": "Glamorgan Inning 1"
+        },
+        {
+          "r": 257,
+          "w": 9,
+          "o": 74.1,
+          "inning": "Leicestershire Inning 2"
+        },
+        {
+          "r": 214,
+          "w": 10,
+          "o": 86,
+          "inning": "Glamorgan Inning 2"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6a023431-ab39-41aa-b274-0f74d866e04e",
+      "name": "Warwickshire vs Sussex, 42nd Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Warwickshire won by 1 wkt",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-20",
+      "dateTimeGMT": "2026-08-20T10:00:00",
+      "teams": [
+        "Warwickshire",
+        "Sussex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 156,
+          "w": 10,
+          "o": 47.4,
+          "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 10,
+          "o": 47.3,
+          "inning": "Warwickshire Inning 1"
+        },
+        {
+          "r": 207,
+          "w": 10,
+          "o": 61.5,
+          "inning": "Sussex Inning 2"
+        },
+        {
+          "r": 206,
+          "w": 9,
+          "o": 53.1,
+          "inning": "Warwickshire Inning 2"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a6e5f5b8-cd12-40b3-8727-834ae9c7380a",
+      "name": "Surrey vs Nottinghamshire, 41st Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Nottinghamshire won by 145 runs",
+      "venue": "Kennington Oval, London",
+      "date": "2026-08-20",
+      "dateTimeGMT": "2026-08-20T10:00:00",
+      "teams": [
+        "Surrey",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 184,
+          "w": 10,
+          "o": 68.2,
+          "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 10,
+          "o": 66.3,
+          "inning": "Surrey Inning 1"
+        },
+        {
+          "r": 306,
+          "w": 10,
+          "o": 90.3,
+          "inning": "Nottinghamshire Inning 2"
+        },
+        {
+          "r": 183,
+          "w": 10,
+          "o": 56,
+          "inning": "Surrey Inning 2"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
