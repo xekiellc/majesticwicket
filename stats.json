@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T08:14:56.850Z",
+  "lastUpdated": "2026-08-23T14:27:50.662Z",
   "recentMatches": [
     {
       "id": "89c3e654-61d9-46d4-8420-94059021cb20",
@@ -49,6 +49,82 @@
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
+      "name": "Luxembourg Women vs Belgium Women, 4th T20I, Belgium Women tour of Luxembourg, 2026",
+      "matchType": "t20",
+      "status": "Belgium Women opt to bowl",
+      "venue": "Pierre Werner Cricket Ground, Walferdange",
+      "date": "2026-08-23",
+      "dateTimeGMT": "2026-08-23T13:30:00",
+      "teams": [
+        "Luxembourg Women",
+        "Belgium Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belgium Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Luxembourg Women",
+          "shortname": "LW",
+          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
+        }
+      ],
+      "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "67c75be2-2cbe-4d4a-9b42-a71277bceab6",
+      "name": "Luxembourg Women vs Belgium Women, 3rd T20I, Belgium Women tour of Luxembourg, 2026",
+      "matchType": "t20",
+      "status": "Luxembourg Women won by 4 wkts",
+      "venue": "Pierre Werner Cricket Ground, Walferdange",
+      "date": "2026-08-23",
+      "dateTimeGMT": "2026-08-23T08:30:00",
+      "teams": [
+        "Luxembourg Women",
+        "Belgium Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Belgium Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Luxembourg Women",
+          "shortname": "LW",
+          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 7,
+          "o": 20,
+          "inning": "Belgium Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 6,
+          "o": 18.4,
+          "inning": "Luxembourg Women Inning 1"
+        }
+      ],
+      "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -406,6 +482,45 @@
       "matchEnded": true
     },
     {
+      "id": "7d79a71a-0bd5-41eb-8920-6eae1081ba7e",
+      "name": "Madurai Panthers vs Trichy Grand Cholas, Qualifier 1, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Rain stops play - Madurai Panthers opt to bowl",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-23",
+      "dateTimeGMT": "2026-08-23T14:00:00",
+      "teams": [
+        "Madurai Panthers",
+        "Trichy Grand Cholas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Madurai Panthers",
+          "shortname": "MP",
+          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
+        },
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 25,
+          "w": 1,
+          "o": 2.5,
+          "inning": "Trichy Grand Cholas Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "d478067f-0f10-454b-9fc0-1d4f173b2fdd",
       "name": "Nellai Royal Kings vs Madurai Panthers, 28th Match, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -721,7 +836,7 @@
       "id": "0b3fc272-5a80-492b-a084-56e2708f320a",
       "name": "Gloucestershire vs Worcestershire, 36th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Gloucestershire lead by 131 runs",
+      "status": "Day 4: 2nd Session - Worcestershire need 188 runs",
       "venue": "College Ground, Cheltenham",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -755,10 +870,16 @@
           "inning": "Gloucestershire,Worcestershire Inning 1"
         },
         {
-          "r": 248,
-          "w": 3,
-          "o": 80,
+          "r": 395,
+          "w": 7,
+          "o": 114,
           "inning": "gloucestershire Inning 2"
+        },
+        {
+          "r": 91,
+          "w": 0,
+          "o": 17.3,
+          "inning": "Gloucestershire,Worcestershire Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -772,7 +893,7 @@
       "id": "c6a003c3-890e-42d9-9f57-5a6ace711d29",
       "name": "Lancashire vs Northamptonshire, 35th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Lancashire need 422 runs",
+      "status": "Northamptonshire won by 316 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -812,9 +933,9 @@
           "inning": "Northamptonshire Inning 2"
         },
         {
-          "r": 24,
-          "w": 2,
-          "o": 11,
+          "r": 129,
+          "w": 10,
+          "o": 52.2,
           "inning": "Lancashire Inning 2"
         }
       ],
@@ -823,7 +944,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a0148686-d357-4b5f-854b-db02c0e8bcfb",
@@ -886,7 +1007,7 @@
       "id": "850347b1-f574-443a-ba50-7cfd73073d73",
       "name": "Middlesex vs Kent, 33rd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Middlesex need 170 runs",
+      "status": "Kent won by 46 runs",
       "venue": "Merchant Taylors' School Ground, Northwood",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -926,9 +1047,9 @@
           "inning": "kent Inning 2"
         },
         {
-          "r": 186,
-          "w": 4,
-          "o": 42,
+          "r": 309,
+          "w": 10,
+          "o": 73.4,
           "inning": "Middlesex,Kent Inning 2"
         }
       ],
@@ -937,13 +1058,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5986316d-f5a1-45d9-9b4d-94cd7e817cdd",
       "name": "Hampshire vs Yorkshire, 45th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Hampshire need 172 runs",
+      "status": "Day 4: 2nd Session - Hampshire need 41 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -983,9 +1104,9 @@
           "inning": "yorkshire Inning 2"
         },
         {
-          "r": 106,
-          "w": 3,
-          "o": 37,
+          "r": 237,
+          "w": 8,
+          "o": 97.4,
           "inning": "Hampshire,Yorkshire Inning 2"
         }
       ],
@@ -1000,7 +1121,7 @@
       "id": "dad732e9-7170-462a-85e7-f70b4442c5f3",
       "name": "Somerset vs Essex, 44th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Essex lead by 3 runs",
+      "status": "Day 4: 2nd Session - Somerset need 47 runs",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T10:00:00",
@@ -1034,10 +1155,16 @@
           "inning": "Essex Inning 1"
         },
         {
-          "r": 314,
-          "w": 3,
-          "o": 115,
+          "r": 412,
+          "w": 10,
+          "o": 161.1,
           "inning": "Somerset Inning 2"
+        },
+        {
+          "r": 55,
+          "w": 0,
+          "o": 7.4,
+          "inning": "Essex Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -1046,177 +1173,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "158c3f38-148c-451d-87ec-3d784d5b8624",
-      "name": "Leicestershire vs Glamorgan, 43rd Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Day 3: Stumps - Glamorgan need 131 runs",
-      "venue": "Grace Road, Leicester",
-      "date": "2026-08-20",
-      "dateTimeGMT": "2026-08-20T10:00:00",
-      "teams": [
-        "Leicestershire",
-        "Glamorgan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Glamorgan",
-          "shortname": "GLAM",
-          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
-        },
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 151,
-          "w": 10,
-          "o": 62.5,
-          "inning": "Leicestershire Inning 1"
-        },
-        {
-          "r": 152,
-          "w": 10,
-          "o": 53.1,
-          "inning": "Glamorgan Inning 1"
-        },
-        {
-          "r": 257,
-          "w": 10,
-          "o": 74.2,
-          "inning": "Leicestershire Inning 2"
-        },
-        {
-          "r": 126,
-          "w": 5,
-          "o": 47,
-          "inning": "Glamorgan Inning 2"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "6a023431-ab39-41aa-b274-0f74d866e04e",
-      "name": "Warwickshire vs Sussex, 42nd Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Warwickshire won by 1 wkt",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-08-20",
-      "dateTimeGMT": "2026-08-20T10:00:00",
-      "teams": [
-        "Warwickshire",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 156,
-          "w": 10,
-          "o": 47.4,
-          "inning": "Sussex Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 10,
-          "o": 47.3,
-          "inning": "Warwickshire Inning 1"
-        },
-        {
-          "r": 207,
-          "w": 10,
-          "o": 61.5,
-          "inning": "Sussex Inning 2"
-        },
-        {
-          "r": 206,
-          "w": 9,
-          "o": 53.1,
-          "inning": "Warwickshire Inning 2"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a6e5f5b8-cd12-40b3-8727-834ae9c7380a",
-      "name": "Surrey vs Nottinghamshire, 41st Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Nottinghamshire won by 145 runs",
-      "venue": "Kennington Oval, London",
-      "date": "2026-08-20",
-      "dateTimeGMT": "2026-08-20T10:00:00",
-      "teams": [
-        "Surrey",
-        "Nottinghamshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        },
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 10,
-          "o": 68.2,
-          "inning": "Nottinghamshire Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 10,
-          "o": 66.3,
-          "inning": "Surrey Inning 1"
-        },
-        {
-          "r": 306,
-          "w": 10,
-          "o": 90.3,
-          "inning": "Nottinghamshire Inning 2"
-        },
-        {
-          "r": 183,
-          "w": 10,
-          "o": 56,
-          "inning": "Surrey Inning 2"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
