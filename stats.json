@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:26:31.760Z",
+  "lastUpdated": "2026-08-23T03:07:19.312Z",
   "recentMatches": [
     {
       "id": "89c3e654-61d9-46d4-8420-94059021cb20",
@@ -225,6 +225,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "cc6155a0-3179-45f8-bef5-cc2202adbe5b",
+      "name": "Antigua and Barbuda Falcons vs Trinbago Knight Riders, 14th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Antigua and Barbuda Falcons won by 5 wkts",
+      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
+      "date": "2026-08-22",
+      "dateTimeGMT": "2026-08-22T23:00:00",
+      "teams": [
+        "Antigua and Barbuda Falcons",
+        "Trinbago Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 6,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        },
+        {
+          "r": 168,
+          "w": 5,
+          "o": 18.3,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "86850d35-d97a-436f-ba24-78277088d34c",
