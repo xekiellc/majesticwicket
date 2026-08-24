@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:26:49.642Z",
+  "lastUpdated": "2026-08-24T03:08:11.121Z",
   "recentMatches": [
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
@@ -264,6 +264,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "82fc5df7-fe9f-4970-972f-993a0c251c14",
+      "name": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors, 15th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors won by 7 wkts",
+      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
+      "date": "2026-08-23",
+      "dateTimeGMT": "2026-08-23T23:00:00",
+      "teams": [
+        "Antigua and Barbuda Falcons",
+        "Guyana Amazon Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 10,
+          "o": 17,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 3,
+          "o": 9.5,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "cc6155a0-3179-45f8-bef5-cc2202adbe5b",
@@ -1152,63 +1197,6 @@
           "w": 9,
           "o": 53.1,
           "inning": "Warwickshire Inning 2"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a6e5f5b8-cd12-40b3-8727-834ae9c7380a",
-      "name": "Surrey vs Nottinghamshire, 41st Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Nottinghamshire won by 145 runs",
-      "venue": "Kennington Oval, London",
-      "date": "2026-08-20",
-      "dateTimeGMT": "2026-08-20T10:00:00",
-      "teams": [
-        "Surrey",
-        "Nottinghamshire"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nottinghamshire",
-          "shortname": "NOT",
-          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
-        },
-        {
-          "name": "Surrey",
-          "shortname": "SUR",
-          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 10,
-          "o": 68.2,
-          "inning": "Nottinghamshire Inning 1"
-        },
-        {
-          "r": 162,
-          "w": 10,
-          "o": 66.3,
-          "inning": "Surrey Inning 1"
-        },
-        {
-          "r": 306,
-          "w": 10,
-          "o": 90.3,
-          "inning": "Nottinghamshire Inning 2"
-        },
-        {
-          "r": 183,
-          "w": 10,
-          "o": 56,
-          "inning": "Surrey Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
