@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T08:33:17.495Z",
+  "lastUpdated": "2026-08-24T14:47:55.454Z",
   "recentMatches": [
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
@@ -443,6 +443,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "bb130949-5eaa-46ff-89d5-883839da1e3a",
+      "name": "Vida Kovai Kings vs IDream Tiruppur Tamizhans, Eliminator, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings opt to bowl",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-24",
+      "dateTimeGMT": "2026-08-24T14:00:00",
+      "teams": [
+        "Vida Kovai Kings",
+        "IDream Tiruppur Tamizhans"
+      ],
+      "teamInfo": [
+        {
+          "name": "IDream Tiruppur Tamizhans",
+          "shortname": "ITT",
+          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 6,
+          "w": 0,
+          "o": 0.5,
+          "inning": "IDream Tiruppur Tamizhans Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "7d79a71a-0bd5-41eb-8920-6eae1081ba7e",
@@ -1140,63 +1178,6 @@
           "w": 10,
           "o": 86,
           "inning": "Glamorgan Inning 2"
-        }
-      ],
-      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6a023431-ab39-41aa-b274-0f74d866e04e",
-      "name": "Warwickshire vs Sussex, 42nd Match, County Championship Division One 2026",
-      "matchType": "test",
-      "status": "Warwickshire won by 1 wkt",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-08-20",
-      "dateTimeGMT": "2026-08-20T10:00:00",
-      "teams": [
-        "Warwickshire",
-        "Sussex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Sussex",
-          "shortname": "SUSS",
-          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
-        },
-        {
-          "name": "Warwickshire",
-          "shortname": "WRKS",
-          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 156,
-          "w": 10,
-          "o": 47.4,
-          "inning": "Sussex Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 10,
-          "o": 47.3,
-          "inning": "Warwickshire Inning 1"
-        },
-        {
-          "r": 207,
-          "w": 10,
-          "o": 61.5,
-          "inning": "Sussex Inning 2"
-        },
-        {
-          "r": 206,
-          "w": 9,
-          "o": 53.1,
-          "inning": "Warwickshire Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
