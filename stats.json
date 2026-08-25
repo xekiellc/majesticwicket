@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T14:51:28.752Z",
+  "lastUpdated": "2026-08-25T20:32:44.594Z",
   "recentMatches": [
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
@@ -261,7 +261,7 @@
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -306,51 +306,7 @@
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "86850d35-d97a-436f-ba24-78277088d34c",
-      "name": "Saint Lucia Kings vs Jamaica Kingsmen, 13th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Saint Lucia Kings won by 6 wkts",
-      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
-      "date": "2026-08-21",
-      "dateTimeGMT": "2026-08-21T23:00:00",
-      "teams": [
-        "Saint Lucia Kings",
-        "Jamaica Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jamaica Kingsmen",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 169,
-          "w": 9,
-          "o": 20,
-          "inning": "Jamaica Kingsmen Inning 1"
-        },
-        {
-          "r": 171,
-          "w": 4,
-          "o": 18.2,
-          "inning": "Saint Lucia Kings Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -388,7 +344,7 @@
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -427,7 +383,7 @@
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -472,7 +428,7 @@
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -516,96 +472,7 @@
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
       "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b3610a13-4cd2-4396-aba1-3011dbd0dee6",
-      "name": "Trichy Grand Cholas vs Chepauk Super Gillies, 26th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Trichy Grand Cholas won by 14 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-21",
-      "dateTimeGMT": "2026-08-21T14:00:00",
-      "teams": [
-        "Trichy Grand Cholas",
-        "Chepauk Super Gillies"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chepauk Super Gillies",
-          "shortname": "CSG",
-          "img": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=48"
-        },
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 191,
-          "w": 7,
-          "o": 20,
-          "inning": "trichy grand cholas Inning 1"
-        },
-        {
-          "r": 177,
-          "w": 6,
-          "o": 20,
-          "inning": "Trichy Grand Cholas,Chepauk Super Gillies Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7619f5ad-00a7-4f5f-a1e6-76bf2c380015",
-      "name": "Vida Kovai Kings vs Dindigul Dragons, 25th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Vida Kovai Kings won by 85 runs (DLS Method)",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-21",
-      "dateTimeGMT": "2026-08-21T10:00:00",
-      "teams": [
-        "Vida Kovai Kings",
-        "Dindigul Dragons"
-      ],
-      "teamInfo": [
-        {
-          "name": "Dindigul Dragons",
-          "shortname": "DD",
-          "img": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=48"
-        },
-        {
-          "name": "Vida Kovai Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 171,
-          "w": 3,
-          "o": 16,
-          "inning": "Vida Kovai Kings Inning 1"
-        },
-        {
-          "r": 93,
-          "w": 10,
-          "o": 13.2,
-          "inning": "Dindigul Dragons Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
