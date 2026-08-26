@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T08:27:03.617Z",
+  "lastUpdated": "2026-08-26T14:49:27.942Z",
   "recentMatches": [
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
@@ -353,6 +353,44 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
+      "name": "Trichy Grand Cholas vs Vida Kovai Kings, Qualifier 2, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings opt to bat",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-26",
+      "dateTimeGMT": "2026-08-26T14:00:00",
+      "teams": [
+        "Trichy Grand Cholas",
+        "Vida Kovai Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 65,
+          "w": 0,
+          "o": 7.3,
+          "inning": "vida kovai kings Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "bb130949-5eaa-46ff-89d5-883839da1e3a",
