@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T20:32:44.594Z",
+  "lastUpdated": "2026-08-26T08:27:03.617Z",
   "recentMatches": [
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
@@ -219,6 +219,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "d9c33252-aad4-46a8-bc6d-ca87211717a5",
+      "name": "Antigua and Barbuda Falcons vs Barbados Tridents, 16th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Antigua and Barbuda Falcons won by 30 runs",
+      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
+      "date": "2026-08-25",
+      "dateTimeGMT": "2026-08-25T23:00:00",
+      "teams": [
+        "Antigua and Barbuda Falcons",
+        "Barbados Tridents"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 5,
+          "o": 20,
+          "inning": "Barbados Tridents Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 10,
+          "o": 18,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "82fc5df7-fe9f-4970-972f-993a0c251c14",
