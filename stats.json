@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T14:49:27.942Z",
+  "lastUpdated": "2026-08-26T22:54:41.605Z",
   "recentMatches": [
     {
       "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
@@ -92,96 +92,6 @@
       "matchEnded": true
     },
     {
-      "id": "a6270d0c-7674-4272-a6f8-ff01a140fc03",
-      "name": "Luxembourg Women vs Belgium Women, 2nd T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Luxembourg Women won by 10 wkts (DLS method)",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T13:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Luxembourg Women",
-          "shortname": "LW",
-          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 122,
-          "w": 5,
-          "o": 15,
-          "inning": "Belgium Women Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 0,
-          "o": 12.5,
-          "inning": "Luxembourg Women Inning 1"
-        }
-      ],
-      "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "30e4ed6b-c9a1-445f-8b67-1f0bb4d61707",
-      "name": "Luxembourg Women vs Belgium Women, 1st T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Belgium Women won by 26 runs",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T08:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Luxembourg Women",
-          "shortname": "LW",
-          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 198,
-          "w": 6,
-          "o": 20,
-          "inning": "Belgium Women Inning 1"
-        },
-        {
-          "r": 172,
-          "w": 4,
-          "o": 20,
-          "inning": "Luxembourg Women Inning 1"
-        }
-      ],
-      "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
       "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
@@ -218,6 +128,37 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d13e1f53-6487-4b61-8b28-84c9833b3e42",
+      "name": "Trinbago Knight Riders vs Saint Lucia Kings, 17th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders opt to bowl",
+      "venue": "Brian Lara Stadium, Tarouba, Trinidad",
+      "date": "2026-08-26",
+      "dateTimeGMT": "2026-08-26T23:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Saint Lucia Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
       "matchEnded": false
     },
     {
@@ -310,55 +251,10 @@
       "matchEnded": true
     },
     {
-      "id": "cc6155a0-3179-45f8-bef5-cc2202adbe5b",
-      "name": "Antigua and Barbuda Falcons vs Trinbago Knight Riders, 14th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Antigua and Barbuda Falcons won by 5 wkts",
-      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T23:00:00",
-      "teams": [
-        "Antigua and Barbuda Falcons",
-        "Trinbago Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Antigua and Barbuda Falcons",
-          "shortname": "ABF",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 6,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 5,
-          "o": 18.3,
-          "inning": "Antigua and Barbuda Falcons Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
       "name": "Trichy Grand Cholas vs Vida Kovai Kings, Qualifier 2, Tamil Nadu Premier League 2026",
       "matchType": "t20",
-      "status": "Vida Kovai Kings opt to bat",
+      "status": "Vida Kovai Kings won by 84 runs",
       "venue": "MA Chidambaram Stadium, Chennai",
       "date": "2026-08-26",
       "dateTimeGMT": "2026-08-26T14:00:00",
@@ -379,10 +275,16 @@
       ],
       "score": [
         {
-          "r": 65,
-          "w": 0,
-          "o": 7.3,
+          "r": 183,
+          "w": 5,
+          "o": 20,
           "inning": "vida kovai kings Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 10,
+          "o": 15.4,
+          "inning": "Trichy Grand Cholas,Vida Kovai Kings Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
@@ -390,7 +292,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "bb130949-5eaa-46ff-89d5-883839da1e3a",
@@ -460,95 +362,6 @@
           "w": 1,
           "o": 4.5,
           "inning": "Trichy Grand Cholas Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d478067f-0f10-454b-9fc0-1d4f173b2fdd",
-      "name": "Nellai Royal Kings vs Madurai Panthers, 28th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Madurai Panthers won by 72 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T14:00:00",
-      "teams": [
-        "Nellai Royal Kings",
-        "Madurai Panthers"
-      ],
-      "teamInfo": [
-        {
-          "name": "Madurai Panthers",
-          "shortname": "MP",
-          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
-        },
-        {
-          "name": "Nellai Royal Kings",
-          "shortname": "NRK",
-          "img": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 198,
-          "w": 5,
-          "o": 20,
-          "inning": "madurai panthers Inning 1"
-        },
-        {
-          "r": 126,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Nellai Royal Kings,Madurai Panthers Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cbc12416-cb62-4263-9000-b61961c58a44",
-      "name": "IDream Tiruppur Tamizhans vs SKM Salem Spartans, 27th Match, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "SKM Salem Spartans won by 45 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T10:00:00",
-      "teams": [
-        "IDream Tiruppur Tamizhans",
-        "SKM Salem Spartans"
-      ],
-      "teamInfo": [
-        {
-          "name": "IDream Tiruppur Tamizhans",
-          "shortname": "ITT",
-          "img": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=48"
-        },
-        {
-          "name": "SKM Salem Spartans",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 169,
-          "w": 8,
-          "o": 20,
-          "inning": "skm salem spartans Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 9,
-          "o": 20,
-          "inning": "IDream Tiruppur Tamizhans,SKM Salem Spartans Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
