@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-27T12:38:55.891Z",
+  "lastUpdated": "2026-08-27T18:27:08.450Z",
   "recentMatches": [
     {
       "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
       "name": "England vs Pakistan, 2nd Test, Pakistan tour of England 2026",
       "matchType": "test",
-      "status": "Day 1: 1st Session - Pakistan opt to bowl",
+      "status": "Day 1: Stumps - Pakistan opt to bowl",
       "venue": "Lord's, London",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -27,9 +27,9 @@
       ],
       "score": [
         {
-          "r": 58,
-          "w": 3,
-          "o": 13.4,
+          "r": 248,
+          "w": 9,
+          "o": 56,
           "inning": "England Inning 1"
         }
       ],
@@ -174,7 +174,7 @@
       "name": "Trinbago Knight Riders vs Saint Lucia Kings, 17th Match, Caribbean Premier League 2026",
       "matchType": "t20",
       "status": "Saint Lucia Kings won by 36 runs",
-      "venue": "Brian Lara Stadium, Tarouba, Trinidad",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
       "date": "2026-08-26",
       "dateTimeGMT": "2026-08-26T23:00:00",
       "teams": [
@@ -425,10 +425,49 @@
       "matchEnded": true
     },
     {
+      "id": "cc2a866f-a9ad-4ae5-ac25-582874e45a99",
+      "name": "Northamptonshire vs Kent, 38th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Northamptonshire opt to bowl",
+      "venue": "County Ground, Northampton",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Northamptonshire",
+        "Kent"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 154,
+          "w": 0,
+          "o": 36,
+          "inning": "Kent Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "2b5a029a-aa13-4d1b-9bbe-cb6446ee7e9b",
       "name": "Durham vs Gloucestershire, 40th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Durham opt to bowl",
+      "status": "Day 1: Stumps - Durham trail by 37 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -450,10 +489,16 @@
       ],
       "score": [
         {
-          "r": 95,
-          "w": 5,
-          "o": 28,
+          "r": 137,
+          "w": 10,
+          "o": 42,
           "inning": "Gloucestershire Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 3,
+          "o": 26,
+          "inning": "Durham Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -467,7 +512,7 @@
       "id": "cb970852-df8b-48bf-8b2f-7098db5e19d9",
       "name": "Essex vs Surrey, 47th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Essex opt to bowl",
+      "status": "Day 1: Stumps - Essex trail by 173 runs",
       "venue": "The Ambassador Cruise Line Ground, Chelmsford",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -487,7 +532,20 @@
           "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 183,
+          "w": 10,
+          "o": 53.2,
+          "inning": "Surrey Inning 1"
+        },
+        {
+          "r": 10,
+          "w": 1,
+          "o": 4.1,
+          "inning": "Essex Inning 1"
+        }
+      ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
       "fantasyEnabled": false,
       "bbbEnabled": false,
@@ -499,7 +557,7 @@
       "id": "80b734be-dda7-4fbf-bd08-f00321aeb492",
       "name": "Yorkshire vs Leicestershire, 48th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Leicestershire opt to bowl",
+      "status": "Day 1: Stumps - Leicestershire opt to bowl",
       "venue": "North Marine Road Ground, Scarborough",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -521,9 +579,9 @@
       ],
       "score": [
         {
-          "r": 84,
-          "w": 2,
-          "o": 29,
+          "r": 144,
+          "w": 5,
+          "o": 52.5,
           "inning": "Yorkshire Inning 1"
         }
       ],
@@ -538,7 +596,7 @@
       "id": "72c97402-850a-40a1-93d7-d0466af31471",
       "name": "Glamorgan vs Hampshire, 49th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Glamorgan opt to bowl",
+      "status": "Day 1: Stumps - Glamorgan trail by 51 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -560,10 +618,16 @@
       ],
       "score": [
         {
-          "r": 98,
-          "w": 4,
-          "o": 23,
+          "r": 162,
+          "w": 10,
+          "o": 40.2,
           "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 111,
+          "w": 7,
+          "o": 38,
+          "inning": "Glamorgan Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -577,7 +641,7 @@
       "id": "3c647e81-d74e-47a3-90fb-e1d3f451d5f6",
       "name": "Sussex vs Somerset, 50th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Sussex opt to bowl",
+      "status": "Day 1: Stumps - Sussex trail by 125 runs",
       "venue": "County Ground, Hove",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -599,10 +663,16 @@
       ],
       "score": [
         {
-          "r": 93,
-          "w": 4,
-          "o": 29,
+          "r": 202,
+          "w": 10,
+          "o": 58,
           "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 77,
+          "w": 2,
+          "o": 17.2,
+          "inning": "Sussex Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
