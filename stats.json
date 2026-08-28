@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-28T04:06:15.626Z",
+  "lastUpdated": "2026-08-28T14:12:18.125Z",
   "recentMatches": [
     {
       "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
       "name": "England vs Pakistan, 2nd Test, Pakistan tour of England 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Pakistan opt to bowl",
+      "status": "Day 2: Rain stops play - Pakistan trail by 209 runs",
       "venue": "Lord's, London",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -27,10 +27,16 @@
       ],
       "score": [
         {
-          "r": 248,
-          "w": 9,
-          "o": 56,
+          "r": 290,
+          "w": 10,
+          "o": 66.4,
           "inning": "England Inning 1"
+        },
+        {
+          "r": 81,
+          "w": 4,
+          "o": 28,
+          "inning": "Pakistan Inning 1"
         }
       ],
       "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
@@ -213,6 +219,44 @@
       "matchEnded": true
     },
     {
+      "id": "118efad4-1972-451c-8bf2-7f86c61386d0",
+      "name": "Madurai Panthers vs Vida Kovai Kings, Final, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings opt to bat",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-28",
+      "dateTimeGMT": "2026-08-28T14:00:00",
+      "teams": [
+        "Madurai Panthers",
+        "Vida Kovai Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Madurai Panthers",
+          "shortname": "MP",
+          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 25,
+          "w": 0,
+          "o": 2,
+          "inning": "vida kovai kings Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
       "name": "Trichy Grand Cholas vs Vida Kovai Kings, Qualifier 2, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -295,10 +339,49 @@
       "matchEnded": true
     },
     {
+      "id": "17df8d49-eb6e-4800-b0aa-2cefd3c5aacd",
+      "name": "Derbyshire vs Middlesex, 37th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 2: Rain stops play - Middlesex opt to bowl",
+      "venue": "County Ground, Derby",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Derbyshire",
+        "Middlesex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 79,
+          "w": 3,
+          "o": 32,
+          "inning": "Middlesex Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "cc2a866f-a9ad-4ae5-ac25-582874e45a99",
       "name": "Northamptonshire vs Kent, 38th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Northamptonshire opt to bowl",
+      "status": "Day 2: 2nd Session - Northamptonshire opt to bowl",
       "venue": "County Ground, Northampton",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -320,10 +403,49 @@
       ],
       "score": [
         {
-          "r": 154,
-          "w": 0,
-          "o": 36,
+          "r": 324,
+          "w": 8,
+          "o": 84,
           "inning": "Kent Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "09d17b88-c181-4c77-b2cd-c64f534f8719",
+      "name": "Worcestershire vs Lancashire, 39th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 2: 2nd Session - Worcestershire opt to bowl",
+      "venue": "New Road, Worcester",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Worcestershire",
+        "Lancashire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 106,
+          "w": 6,
+          "o": 40.1,
+          "inning": "Lancashire Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -337,7 +459,7 @@
       "id": "2b5a029a-aa13-4d1b-9bbe-cb6446ee7e9b",
       "name": "Durham vs Gloucestershire, 40th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Durham trail by 37 runs",
+      "status": "Day 2: 2nd Session - Durham lead by 156 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -365,9 +487,9 @@
           "inning": "Gloucestershire Inning 1"
         },
         {
-          "r": 100,
-          "w": 3,
-          "o": 26,
+          "r": 293,
+          "w": 7,
+          "o": 67,
           "inning": "Durham Inning 1"
         }
       ],
@@ -379,10 +501,49 @@
       "matchEnded": false
     },
     {
+      "id": "873a788e-4106-4c86-84a9-ec2358b23128",
+      "name": "Warwickshire vs Nottinghamshire, 46th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - Warwickshire opt to bowl",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Warwickshire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 153,
+          "w": 5,
+          "o": 44,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "cb970852-df8b-48bf-8b2f-7098db5e19d9",
       "name": "Essex vs Surrey, 47th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Essex trail by 173 runs",
+      "status": "Day 2: 2nd Session - Essex lead by 15 runs",
       "venue": "The Ambassador Cruise Line Ground, Chelmsford",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -410,9 +571,9 @@
           "inning": "Surrey Inning 1"
         },
         {
-          "r": 10,
-          "w": 1,
-          "o": 4.1,
+          "r": 198,
+          "w": 3,
+          "o": 59,
           "inning": "Essex Inning 1"
         }
       ],
@@ -427,7 +588,7 @@
       "id": "80b734be-dda7-4fbf-bd08-f00321aeb492",
       "name": "Yorkshire vs Leicestershire, 48th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Leicestershire opt to bowl",
+      "status": "Day 2: 2nd Session - Leicestershire opt to bowl",
       "venue": "North Marine Road Ground, Scarborough",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -449,9 +610,9 @@
       ],
       "score": [
         {
-          "r": 144,
-          "w": 5,
-          "o": 52.5,
+          "r": 185,
+          "w": 6,
+          "o": 65,
           "inning": "Yorkshire Inning 1"
         }
       ],
@@ -466,7 +627,7 @@
       "id": "72c97402-850a-40a1-93d7-d0466af31471",
       "name": "Glamorgan vs Hampshire, 49th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Glamorgan trail by 51 runs",
+      "status": "Day 2: Rain stops play - Glamorgan trail by 13 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -494,9 +655,9 @@
           "inning": "Hampshire Inning 1"
         },
         {
-          "r": 111,
-          "w": 7,
-          "o": 38,
+          "r": 149,
+          "w": 8,
+          "o": 54.1,
           "inning": "Glamorgan Inning 1"
         }
       ],
@@ -511,7 +672,7 @@
       "id": "3c647e81-d74e-47a3-90fb-e1d3f451d5f6",
       "name": "Sussex vs Somerset, 50th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Sussex trail by 125 runs",
+      "status": "Day 2: 2nd Session - Sussex lead by 23 runs",
       "venue": "County Ground, Hove",
       "date": "2026-08-27",
       "dateTimeGMT": "2026-08-27T10:00:00",
@@ -539,9 +700,9 @@
           "inning": "Somerset Inning 1"
         },
         {
-          "r": 77,
-          "w": 2,
-          "o": 17.2,
+          "r": 225,
+          "w": 9,
+          "o": 65,
           "inning": "Sussex Inning 1"
         }
       ],
