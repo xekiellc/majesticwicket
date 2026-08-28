@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T18:27:08.450Z",
+  "lastUpdated": "2026-08-28T04:06:15.626Z",
   "recentMatches": [
     {
       "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
@@ -41,96 +41,6 @@
       "matchEnded": false
     },
     {
-      "id": "d7ad6f40-5f17-4a8e-8552-044453e33b43",
-      "name": "Luxembourg Women vs Belgium Women, 4th T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Luxembourg Women won by 47 runs",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T13:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Luxembourg Women",
-          "shortname": "LW",
-          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 0,
-          "o": 20,
-          "inning": "Luxembourg Women Inning 1"
-        },
-        {
-          "r": 147,
-          "w": 8,
-          "o": 20,
-          "inning": "Belgium Women Inning 1"
-        }
-      ],
-      "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "67c75be2-2cbe-4d4a-9b42-a71277bceab6",
-      "name": "Luxembourg Women vs Belgium Women, 3rd T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Luxembourg Women won by 4 wkts",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T08:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Luxembourg Women",
-          "shortname": "LW",
-          "img": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 7,
-          "o": 20,
-          "inning": "Belgium Women Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 6,
-          "o": 18.4,
-          "inning": "Luxembourg Women Inning 1"
-        }
-      ],
-      "series_id": "2959c81f-9df4-41f8-b9d7-f316975d9677",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
       "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
@@ -168,6 +78,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "8b255ae2-8eee-469e-89a8-b992b783dcd2",
+      "name": "St Kitts and Nevis Patriots vs Jamaica Kingsmen, 18th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Jamaica Kingsmen won by 11 runs",
+      "venue": "Warner Park, Basseterre, St Kitts",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T23:00:00",
+      "teams": [
+        "St Kitts and Nevis Patriots",
+        "Jamaica Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 7,
+          "o": 20,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 171,
+          "w": 6,
+          "o": 20,
+          "inning": "St Kitts and Nevis Patriots Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "d13e1f53-6487-4b61-8b28-84c9833b3e42",
@@ -259,51 +213,6 @@
       "matchEnded": true
     },
     {
-      "id": "82fc5df7-fe9f-4970-972f-993a0c251c14",
-      "name": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors, 15th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 7 wkts",
-      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T23:00:00",
-      "teams": [
-        "Antigua and Barbuda Falcons",
-        "Guyana Amazon Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Antigua and Barbuda Falcons",
-          "shortname": "ABF",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 10,
-          "o": 17,
-          "inning": "Antigua and Barbuda Falcons Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 3,
-          "o": 9.5,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
       "name": "Trichy Grand Cholas vs Vida Kovai Kings, Qualifier 2, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -376,45 +285,6 @@
           "w": 0,
           "o": 3,
           "inning": "IDream Tiruppur Tamizhans Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7d79a71a-0bd5-41eb-8920-6eae1081ba7e",
-      "name": "Madurai Panthers vs Trichy Grand Cholas, Qualifier 1, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "No result due to rain - Madurai Panthers opt to bowl",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T14:00:00",
-      "teams": [
-        "Madurai Panthers",
-        "Trichy Grand Cholas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Madurai Panthers",
-          "shortname": "MP",
-          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
-        },
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 50,
-          "w": 1,
-          "o": 4.5,
-          "inning": "Trichy Grand Cholas Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
