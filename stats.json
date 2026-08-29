@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T23:29:22.301Z",
+  "lastUpdated": "2026-08-29T02:46:03.981Z",
   "recentMatches": [
     {
       "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
@@ -88,6 +88,50 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "966b0ced-3ee4-4641-9bd6-0f5e1d4829bb",
+      "name": "Trinbago Knight Riders vs Barbados Tridents, 19th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders need 27 runs in 59 balls",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-08-28",
+      "dateTimeGMT": "2026-08-28T00:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Barbados Tridents"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 9,
+          "o": 20,
+          "inning": "Barbados Tridents Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 1,
+          "o": 10.1,
+          "inning": "Trinbago Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
     },
@@ -804,8 +848,75 @@
         "points": 8
       }
     ],
-    "topBatters": [],
-    "topBowlers": []
+    "topBatters": [
+      {
+        "name": "Yashasvi Jaiswal",
+        "runs": 115,
+        "innings": 2,
+        "average": "57.5",
+        "strikeRate": "169.1"
+      },
+      {
+        "name": "Vaibhav Sooryavanshi",
+        "runs": 91,
+        "innings": 2,
+        "average": "45.5",
+        "strikeRate": "293.5"
+      },
+      {
+        "name": "Sai Sudharsan",
+        "runs": 87,
+        "innings": 1,
+        "average": "87.0",
+        "strikeRate": "189.1"
+      },
+      {
+        "name": "Ruturaj Gaikwad",
+        "runs": 80,
+        "innings": 2,
+        "average": "40.0",
+        "strikeRate": "112.7"
+      },
+      {
+        "name": "Cooper Connolly",
+        "runs": 75,
+        "innings": 2,
+        "average": "37.5",
+        "strikeRate": "153.1"
+      }
+    ],
+    "topBowlers": [
+      {
+        "name": "Nandre Burger",
+        "wickets": 4,
+        "overs": "6.0",
+        "economy": "7.8"
+      },
+      {
+        "name": "Kagiso Rabada",
+        "wickets": 3,
+        "overs": "4.0",
+        "economy": "6.3"
+      },
+      {
+        "name": "Jofra Archer",
+        "wickets": 3,
+        "overs": "6.0",
+        "economy": "6.0"
+      },
+      {
+        "name": "Rasikh Salam Dar",
+        "wickets": 3,
+        "overs": "4.0",
+        "economy": "9.0"
+      },
+      {
+        "name": "Ravi Bishnoi",
+        "wickets": 3,
+        "overs": "5.0",
+        "economy": "8.2"
+      }
+    ]
   },
   "psl": {
     "seriesName": "Pakistan Super League 2026",
@@ -877,324 +988,74 @@
         "points": 2
       }
     ],
-    "topBatters": [],
-    "topBowlers": []
-  },
-  "bbl": {
-    "seriesName": "Big Bash League 2025-26",
-    "startDate": "2025-12-14",
-    "endDate": "Jan 25",
-    "standings": [
+    "topBatters": [
       {
-        "team": "Hobart Hurricanes",
-        "played": 12,
-        "won": 7,
-        "lost": 4,
-        "nr": 1,
-        "points": 15
+        "name": "Mohammad Rizwan",
+        "runs": 45,
+        "innings": 1,
+        "average": "45.0",
+        "strikeRate": "118.4"
       },
       {
-        "team": "Sydney Sixers",
-        "played": 11,
-        "won": 7,
-        "lost": 3,
-        "nr": 1,
-        "points": 15
+        "name": "Kamran Ghulam",
+        "runs": 42,
+        "innings": 1,
+        "average": "42.0",
+        "strikeRate": "140.0"
       },
       {
-        "team": "Perth Scorchers",
-        "played": 10,
-        "won": 7,
-        "lost": 3,
-        "nr": 0,
-        "points": 14
+        "name": "Mohsin Riaz",
+        "runs": 42,
+        "innings": 1,
+        "average": "42.0",
+        "strikeRate": "233.3"
       },
       {
-        "team": "Melbourne Stars",
-        "played": 11,
-        "won": 6,
-        "lost": 5,
-        "nr": 0,
-        "points": 12
+        "name": "Devon Conway",
+        "runs": 40,
+        "innings": 2,
+        "average": "20.0",
+        "strikeRate": "114.3"
       },
       {
-        "team": "Brisbane Heat",
-        "played": 10,
-        "won": 5,
-        "lost": 5,
-        "nr": 0,
-        "points": 10
-      },
-      {
-        "team": "Adelaide Strikers",
-        "played": 10,
-        "won": 4,
-        "lost": 6,
-        "nr": 0,
-        "points": 8
-      },
-      {
-        "team": "Melbourne Renegades",
-        "played": 10,
-        "won": 3,
-        "lost": 7,
-        "nr": 0,
-        "points": 6
-      },
-      {
-        "team": "Sydney Thunder",
-        "played": 10,
-        "won": 2,
-        "lost": 8,
-        "nr": 0,
-        "points": 4
+        "name": "Muhammad Waseem",
+        "runs": 38,
+        "innings": 1,
+        "average": "38.0",
+        "strikeRate": "102.7"
       }
     ],
-    "topBatters": [],
-    "topBowlers": []
-  },
-  "cpl": {
-    "seriesName": "Caribbean Premier League 2025",
-    "startDate": "2025-08-14",
-    "endDate": "Sep 21",
-    "standings": [
+    "topBowlers": [
       {
-        "team": "Guyana Amazon Warriors",
-        "played": 10,
-        "won": 6,
-        "lost": 4,
-        "nr": 0,
-        "points": 12
+        "name": "Shaheen Afridi",
+        "wickets": 4,
+        "overs": "4.0",
+        "economy": "4.5"
       },
       {
-        "team": "Trinbago Knight Riders",
-        "played": 10,
-        "won": 6,
-        "lost": 4,
-        "nr": 0,
-        "points": 12
+        "name": "Shadab Khan",
+        "wickets": 4,
+        "overs": "7.0",
+        "economy": "4.4"
       },
       {
-        "team": "Saint Lucia Kings",
-        "played": 10,
-        "won": 5,
-        "lost": 3,
-        "nr": 2,
-        "points": 12
+        "name": "Imad Wasim",
+        "wickets": 4,
+        "overs": "7.5",
+        "economy": "7.2"
       },
       {
-        "team": "Antigua and Barbuda Falcons",
-        "played": 10,
-        "won": 5,
-        "lost": 4,
-        "nr": 1,
-        "points": 11
+        "name": "Richard Gleeson",
+        "wickets": 3,
+        "overs": "6.0",
+        "economy": "6.2"
       },
       {
-        "team": "St Kitts and Nevis Patriots",
-        "played": 10,
-        "won": 4,
-        "lost": 6,
-        "nr": 0,
-        "points": 8
-      },
-      {
-        "team": "Barbados Royals",
-        "played": 10,
-        "won": 2,
-        "lost": 7,
-        "nr": 1,
-        "points": 5
+        "name": "Dian Forrester",
+        "wickets": 2,
+        "overs": "1.0",
+        "economy": "9.0"
       }
-    ],
-    "topBatters": [],
-    "topBowlers": []
-  },
-  "hundred": {
-    "seriesName": "The Hundred Men's Competition 2026",
-    "startDate": "2026-07-21",
-    "endDate": "Aug 16",
-    "standings": [
-      {
-        "team": "Trent Rockets",
-        "played": 8,
-        "won": 6,
-        "lost": 2,
-        "nr": 0,
-        "points": 12
-      },
-      {
-        "team": "MI London",
-        "played": 8,
-        "won": 5,
-        "lost": 3,
-        "nr": 0,
-        "points": 10
-      },
-      {
-        "team": "Sunrisers Leeds",
-        "played": 8,
-        "won": 5,
-        "lost": 3,
-        "nr": 0,
-        "points": 10
-      },
-      {
-        "team": "Manchester Super Giants",
-        "played": 8,
-        "won": 5,
-        "lost": 3,
-        "nr": 0,
-        "points": 10
-      },
-      {
-        "team": "Welsh Fire",
-        "played": 8,
-        "won": 4,
-        "lost": 4,
-        "nr": 0,
-        "points": 8
-      },
-      {
-        "team": "London Spirit",
-        "played": 8,
-        "won": 3,
-        "lost": 5,
-        "nr": 0,
-        "points": 6
-      },
-      {
-        "team": "Southern Brave",
-        "played": 8,
-        "won": 3,
-        "lost": 5,
-        "nr": 0,
-        "points": 6
-      },
-      {
-        "team": "Birmingham Phoenix",
-        "played": 8,
-        "won": 1,
-        "lost": 7,
-        "nr": 0,
-        "points": 2
-      }
-    ],
-    "topBatters": [],
-    "topBowlers": []
-  },
-  "sa20": {
-    "seriesName": "SA20, 2025",
-    "startDate": "2025-01-09",
-    "endDate": "Feb 08",
-    "standings": [
-      {
-        "team": "MI Cape Town",
-        "played": 10,
-        "won": 7,
-        "lost": 2,
-        "nr": 1,
-        "points": 15
-      },
-      {
-        "team": "Paarl Royals",
-        "played": 10,
-        "won": 7,
-        "lost": 3,
-        "nr": 0,
-        "points": 14
-      },
-      {
-        "team": "Sunrisers Eastern Cape",
-        "played": 10,
-        "won": 5,
-        "lost": 5,
-        "nr": 0,
-        "points": 10
-      },
-      {
-        "team": "Joburg Super Kings",
-        "played": 10,
-        "won": 4,
-        "lost": 4,
-        "nr": 2,
-        "points": 10
-      },
-      {
-        "team": "Pretoria Capitals",
-        "played": 10,
-        "won": 2,
-        "lost": 6,
-        "nr": 2,
-        "points": 6
-      },
-      {
-        "team": "Durban Super Giants",
-        "played": 10,
-        "won": 1,
-        "lost": 6,
-        "nr": 3,
-        "points": 5
-      }
-    ],
-    "topBatters": [],
-    "topBowlers": []
-  },
-  "mlc": {
-    "seriesName": "Major League Cricket 2025",
-    "startDate": "2025-06-13",
-    "endDate": "Jul 13",
-    "standings": [
-      {
-        "team": "Washington Freedom",
-        "played": 10,
-        "won": 8,
-        "lost": 2,
-        "nr": 0,
-        "points": 16
-      },
-      {
-        "team": "Texas Super Kings",
-        "played": 11,
-        "won": 7,
-        "lost": 4,
-        "nr": 0,
-        "points": 14
-      },
-      {
-        "team": "San Francisco Unicorns",
-        "played": 10,
-        "won": 7,
-        "lost": 3,
-        "nr": 0,
-        "points": 14
-      },
-      {
-        "team": "MI New York",
-        "played": 11,
-        "won": 4,
-        "lost": 7,
-        "nr": 0,
-        "points": 8
-      },
-      {
-        "team": "Seattle Orcas",
-        "played": 10,
-        "won": 3,
-        "lost": 7,
-        "nr": 0,
-        "points": 6
-      },
-      {
-        "team": "Los Angeles Knight Riders",
-        "played": 10,
-        "won": 2,
-        "lost": 8,
-        "nr": 0,
-        "points": 4
-      }
-    ],
-    "topBatters": [],
-    "topBowlers": []
+    ]
   }
 }
