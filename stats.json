@@ -1,4 +1,1256 @@
 {
-  "lastUpdated": "2026-08-29T17:37:14.089Z",
-  "recentMatches": []
+  "lastUpdated": "2026-08-30T08:07:01.676Z",
+  "recentMatches": [
+    {
+      "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
+      "name": "England vs Pakistan, 2nd Test, Pakistan tour of England 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - England lead by 357 runs",
+      "venue": "Lord's, London",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "England",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 290,
+          "w": 10,
+          "o": 66.4,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 110,
+          "w": 10,
+          "o": 37.2,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 177,
+          "w": 7,
+          "o": 46.5,
+          "inning": "England Inning 2"
+        }
+      ],
+      "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
+      "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Tanzania Women awarded the match (opposition refused to play)",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T12:00:00",
+      "teams": [
+        "Tanzania Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Tanzania Women",
+          "shortname": "TAN-W",
+          "img": "https://g.cricapi.com/iapi/3614-638101761273860958.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 2,
+          "o": 16.4,
+          "inning": "Uganda Women Inning 1"
+        }
+      ],
+      "series_id": "3014a459-6e69-4f64-86eb-2f30a2cdbd0b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d42f60c6-a3a2-4b97-a487-fe06327933dd",
+      "name": "Trinbago Knight Riders vs Jamaica Kingsmen, 20th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Jamaica Kingsmen won by 7 runs (DLS Method)",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-08-29",
+      "dateTimeGMT": "2026-08-29T23:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Jamaica Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 180,
+          "w": 6,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 3,
+          "o": 14.4,
+          "inning": "Jamaica Kingsmen Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "966b0ced-3ee4-4641-9bd6-0f5e1d4829bb",
+      "name": "Trinbago Knight Riders vs Barbados Tridents, 19th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders won by 7 wkts",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-08-28",
+      "dateTimeGMT": "2026-08-28T00:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Barbados Tridents"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 9,
+          "o": 20,
+          "inning": "Barbados Tridents Inning 1"
+        },
+        {
+          "r": 128,
+          "w": 3,
+          "o": 14.5,
+          "inning": "Trinbago Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8b255ae2-8eee-469e-89a8-b992b783dcd2",
+      "name": "St Kitts and Nevis Patriots vs Jamaica Kingsmen, 18th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Jamaica Kingsmen won by 11 runs",
+      "venue": "Warner Park, Basseterre, St Kitts",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T23:00:00",
+      "teams": [
+        "St Kitts and Nevis Patriots",
+        "Jamaica Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 7,
+          "o": 20,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 171,
+          "w": 6,
+          "o": 20,
+          "inning": "St Kitts and Nevis Patriots Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d13e1f53-6487-4b61-8b28-84c9833b3e42",
+      "name": "Trinbago Knight Riders vs Saint Lucia Kings, 17th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Saint Lucia Kings won by 36 runs",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-08-26",
+      "dateTimeGMT": "2026-08-26T23:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Saint Lucia Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 211,
+          "w": 4,
+          "o": 20,
+          "inning": "Saint Lucia Kings Inning 1"
+        },
+        {
+          "r": 175,
+          "w": 6,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "118efad4-1972-451c-8bf2-7f86c61386d0",
+      "name": "Madurai Panthers vs Vida Kovai Kings, Final, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings won by 84 runs",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-28",
+      "dateTimeGMT": "2026-08-28T14:00:00",
+      "teams": [
+        "Madurai Panthers",
+        "Vida Kovai Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Madurai Panthers",
+          "shortname": "MP",
+          "img": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=48"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 7,
+          "o": 20,
+          "inning": "vida kovai kings Inning 1"
+        },
+        {
+          "r": 98,
+          "w": 10,
+          "o": 14.2,
+          "inning": "Madurai Panthers,Vida Kovai Kings Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
+      "name": "Trichy Grand Cholas vs Vida Kovai Kings, Qualifier 2, Tamil Nadu Premier League 2026",
+      "matchType": "t20",
+      "status": "Vida Kovai Kings won by 84 runs",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "date": "2026-08-26",
+      "dateTimeGMT": "2026-08-26T14:00:00",
+      "teams": [
+        "Trichy Grand Cholas",
+        "Vida Kovai Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Trichy Grand Cholas",
+          "shortname": "TGC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Vida Kovai Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 5,
+          "o": 20,
+          "inning": "vida kovai kings Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 10,
+          "o": 15.4,
+          "inning": "Trichy Grand Cholas,Vida Kovai Kings Inning 1"
+        }
+      ],
+      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "17df8d49-eb6e-4800-b0aa-2cefd3c5aacd",
+      "name": "Derbyshire vs Middlesex, 37th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps(No play on day 3) - Middlesex opt to bowl",
+      "venue": "County Ground, Derby",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Derbyshire",
+        "Middlesex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 79,
+          "w": 3,
+          "o": 32.3,
+          "inning": "Middlesex Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "cc2a866f-a9ad-4ae5-ac25-582874e45a99",
+      "name": "Northamptonshire vs Kent, 38th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Northamptonshire trail by 271 runs",
+      "venue": "County Ground, Northampton",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Northamptonshire",
+        "Kent"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        },
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 345,
+          "w": 10,
+          "o": 91.3,
+          "inning": "Kent Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 0,
+          "o": 22.3,
+          "inning": "Northamptonshire Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "09d17b88-c181-4c77-b2cd-c64f534f8719",
+      "name": "Worcestershire vs Lancashire, 39th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Worcestershire trail by 168 runs",
+      "venue": "New Road, Worcester",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Worcestershire",
+        "Lancashire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 180,
+          "w": 10,
+          "o": 61.2,
+          "inning": "Lancashire Inning 1"
+        },
+        {
+          "r": 12,
+          "w": 1,
+          "o": 6,
+          "inning": "Worcestershire Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2b5a029a-aa13-4d1b-9bbe-cb6446ee7e9b",
+      "name": "Durham vs Gloucestershire, 40th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Gloucestershire lead by 3 runs",
+      "venue": "Riverside Ground, Chester-le-Street",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Durham",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 10,
+          "o": 42,
+          "inning": "Gloucestershire Inning 1"
+        },
+        {
+          "r": 384,
+          "w": 10,
+          "o": 88.1,
+          "inning": "Durham Inning 1"
+        },
+        {
+          "r": 250,
+          "w": 10,
+          "o": 73.3,
+          "inning": "Gloucestershire Inning 2"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "873a788e-4106-4c86-84a9-ec2358b23128",
+      "name": "Warwickshire vs Nottinghamshire, 46th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps (No play on day 3) - Warwickshire opt to bowl",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Warwickshire",
+        "Nottinghamshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 299,
+          "w": 7,
+          "o": 82,
+          "inning": "Nottinghamshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "cb970852-df8b-48bf-8b2f-7098db5e19d9",
+      "name": "Essex vs Surrey, 47th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps (No play on day 3 due to rain) - Surrey trail by 45 runs",
+      "venue": "The Ambassador Cruise Line Ground, Chelmsford",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Essex",
+        "Surrey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 10,
+          "o": 53.2,
+          "inning": "Surrey Inning 1"
+        },
+        {
+          "r": 279,
+          "w": 10,
+          "o": 85,
+          "inning": "Essex Inning 1"
+        },
+        {
+          "r": 51,
+          "w": 4,
+          "o": 21.3,
+          "inning": "Surrey Inning 2"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "80b734be-dda7-4fbf-bd08-f00321aeb492",
+      "name": "Yorkshire vs Leicestershire, 48th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Leicestershire trail by 179 runs",
+      "venue": "North Marine Road Ground, Scarborough",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Yorkshire",
+        "Leicestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 263,
+          "w": 10,
+          "o": 76.4,
+          "inning": "Yorkshire Inning 1"
+        },
+        {
+          "r": 84,
+          "w": 0,
+          "o": 35.3,
+          "inning": "Leicestershire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "72c97402-850a-40a1-93d7-d0466af31471",
+      "name": "Glamorgan vs Hampshire, 49th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Hampshire lead by 125 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Glamorgan",
+        "Hampshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 162,
+          "w": 10,
+          "o": 40.2,
+          "inning": "Hampshire Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 10,
+          "o": 60,
+          "inning": "Glamorgan Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 2,
+          "o": 40,
+          "inning": "Hampshire Inning 2"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "3c647e81-d74e-47a3-90fb-e1d3f451d5f6",
+      "name": "Sussex vs Somerset, 50th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Somerset lead by 119 runs",
+      "venue": "County Ground, Hove",
+      "date": "2026-08-27",
+      "dateTimeGMT": "2026-08-27T10:00:00",
+      "teams": [
+        "Sussex",
+        "Somerset"
+      ],
+      "teamInfo": [
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 202,
+          "w": 10,
+          "o": 58,
+          "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 250,
+          "w": 10,
+          "o": 69.4,
+          "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 167,
+          "w": 2,
+          "o": 50,
+          "inning": "Somerset Inning 2"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    }
+  ],
+  "ipl": {
+    "seriesName": "Indian Premier League 2026",
+    "startDate": "2026-03-28",
+    "endDate": "May 31",
+    "standings": [
+      {
+        "team": "Royal Challengers Bengaluru",
+        "played": 14,
+        "won": 9,
+        "lost": 4,
+        "nr": 1,
+        "points": 19
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
+      },
+      {
+        "team": "Gujarat Titans",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
+      },
+      {
+        "team": "Rajasthan Royals",
+        "played": 14,
+        "won": 8,
+        "lost": 6,
+        "nr": 0,
+        "points": 16
+      },
+      {
+        "team": "Punjab Kings",
+        "played": 14,
+        "won": 7,
+        "lost": 6,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Delhi Capitals",
+        "played": 14,
+        "won": 7,
+        "lost": 7,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Chennai Super Kings",
+        "played": 14,
+        "won": 6,
+        "lost": 8,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "played": 14,
+        "won": 5,
+        "lost": 7,
+        "nr": 2,
+        "points": 12
+      },
+      {
+        "team": "Mumbai Indians",
+        "played": 14,
+        "won": 4,
+        "lost": 10,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Lucknow Super Giants",
+        "played": 14,
+        "won": 3,
+        "lost": 9,
+        "nr": 2,
+        "points": 8
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "psl": {
+    "seriesName": "Pakistan Super League 2026",
+    "startDate": "2026-03-26",
+    "endDate": "May 03",
+    "standings": [
+      {
+        "team": "Peshawar Zalmi",
+        "played": 10,
+        "won": 8,
+        "lost": 1,
+        "nr": 1,
+        "points": 17
+      },
+      {
+        "team": "Islamabad United",
+        "played": 10,
+        "won": 6,
+        "lost": 3,
+        "nr": 1,
+        "points": 13
+      },
+      {
+        "team": "Multan Sultans",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Lahore Qalandars",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Hyderabad Kingsmen",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Karachi Kings",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Quetta Gladiators",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Rawalpindiz",
+        "played": 10,
+        "won": 1,
+        "lost": 9,
+        "nr": 0,
+        "points": 2
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "bbl": {
+    "seriesName": "Big Bash League 2025-26",
+    "startDate": "2025-12-14",
+    "endDate": "Jan 25",
+    "standings": [
+      {
+        "team": "Hobart Hurricanes",
+        "played": 12,
+        "won": 7,
+        "lost": 4,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Sydney Sixers",
+        "played": 11,
+        "won": 7,
+        "lost": 3,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Perth Scorchers",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Melbourne Stars",
+        "played": 11,
+        "won": 6,
+        "lost": 5,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Brisbane Heat",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Adelaide Strikers",
+        "played": 10,
+        "won": 4,
+        "lost": 6,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Melbourne Renegades",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Sydney Thunder",
+        "played": 10,
+        "won": 2,
+        "lost": 8,
+        "nr": 0,
+        "points": 4
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "cpl": {
+    "seriesName": "Caribbean Premier League 2025",
+    "startDate": "2025-08-14",
+    "endDate": "Sep 21",
+    "standings": [
+      {
+        "team": "Guyana Amazon Warriors",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Trinbago Knight Riders",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Saint Lucia Kings",
+        "played": 10,
+        "won": 5,
+        "lost": 3,
+        "nr": 2,
+        "points": 12
+      },
+      {
+        "team": "Antigua and Barbuda Falcons",
+        "played": 10,
+        "won": 5,
+        "lost": 4,
+        "nr": 1,
+        "points": 11
+      },
+      {
+        "team": "St Kitts and Nevis Patriots",
+        "played": 10,
+        "won": 4,
+        "lost": 6,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Barbados Royals",
+        "played": 10,
+        "won": 2,
+        "lost": 7,
+        "nr": 1,
+        "points": 5
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "hundred": {
+    "seriesName": "The Hundred Men's Competition 2026",
+    "startDate": "2026-07-21",
+    "endDate": "Aug 16",
+    "standings": [
+      {
+        "team": "Trent Rockets",
+        "played": 8,
+        "won": 6,
+        "lost": 2,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "MI London",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Sunrisers Leeds",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Manchester Super Giants",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Welsh Fire",
+        "played": 8,
+        "won": 4,
+        "lost": 4,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "London Spirit",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Southern Brave",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Birmingham Phoenix",
+        "played": 8,
+        "won": 1,
+        "lost": 7,
+        "nr": 0,
+        "points": 2
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "sa20": {
+    "seriesName": "SA20, 2025",
+    "startDate": "2025-01-09",
+    "endDate": "Feb 08",
+    "standings": [
+      {
+        "team": "MI Cape Town",
+        "played": 10,
+        "won": 7,
+        "lost": 2,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Paarl Royals",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Sunrisers Eastern Cape",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Joburg Super Kings",
+        "played": 10,
+        "won": 4,
+        "lost": 4,
+        "nr": 2,
+        "points": 10
+      },
+      {
+        "team": "Pretoria Capitals",
+        "played": 10,
+        "won": 2,
+        "lost": 6,
+        "nr": 2,
+        "points": 6
+      },
+      {
+        "team": "Durban Super Giants",
+        "played": 10,
+        "won": 1,
+        "lost": 6,
+        "nr": 3,
+        "points": 5
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "mlc": {
+    "seriesName": "Major League Cricket 2025",
+    "startDate": "2025-06-13",
+    "endDate": "Jul 13",
+    "standings": [
+      {
+        "team": "Washington Freedom",
+        "played": 10,
+        "won": 8,
+        "lost": 2,
+        "nr": 0,
+        "points": 16
+      },
+      {
+        "team": "Texas Super Kings",
+        "played": 11,
+        "won": 7,
+        "lost": 4,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "San Francisco Unicorns",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "MI New York",
+        "played": 11,
+        "won": 4,
+        "lost": 7,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Seattle Orcas",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Los Angeles Knight Riders",
+        "played": 10,
+        "won": 2,
+        "lost": 8,
+        "nr": 0,
+        "points": 4
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  }
 }
