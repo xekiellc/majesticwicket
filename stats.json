@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T17:59:45.170Z",
+  "lastUpdated": "2026-08-31T15:34:03.699Z",
   "recentMatches": [
     {
       "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
@@ -96,6 +96,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "64d278c6-f90b-40c4-8612-c181c13ab97c",
+      "name": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons, 21st Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Match abandoned due to rain (with toss)",
+      "venue": "Warner Park, Basseterre, St Kitts",
+      "date": "2026-08-30",
+      "dateTimeGMT": "2026-08-30T23:00:00",
+      "teams": [
+        "St Kitts and Nevis Patriots",
+        "Antigua and Barbuda Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "d42f60c6-a3a2-4b97-a487-fe06327933dd",
@@ -230,51 +261,6 @@
       "matchEnded": true
     },
     {
-      "id": "d13e1f53-6487-4b61-8b28-84c9833b3e42",
-      "name": "Trinbago Knight Riders vs Saint Lucia Kings, 17th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Saint Lucia Kings won by 36 runs",
-      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
-      "date": "2026-08-26",
-      "dateTimeGMT": "2026-08-26T23:00:00",
-      "teams": [
-        "Trinbago Knight Riders",
-        "Saint Lucia Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 211,
-          "w": 4,
-          "o": 20,
-          "inning": "Saint Lucia Kings Inning 1"
-        },
-        {
-          "r": 175,
-          "w": 6,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "118efad4-1972-451c-8bf2-7f86c61386d0",
       "name": "Madurai Panthers vs Vida Kovai Kings, Final, Tamil Nadu Premier League 2026",
       "matchType": "t20",
@@ -309,50 +295,6 @@
           "w": 10,
           "o": 14.2,
           "inning": "Madurai Panthers,Vida Kovai Kings Inning 1"
-        }
-      ],
-      "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
-      "name": "Trichy Grand Cholas vs Vida Kovai Kings, Qualifier 2, Tamil Nadu Premier League 2026",
-      "matchType": "t20",
-      "status": "Vida Kovai Kings won by 84 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-08-26",
-      "dateTimeGMT": "2026-08-26T14:00:00",
-      "teams": [
-        "Trichy Grand Cholas",
-        "Vida Kovai Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Trichy Grand Cholas",
-          "shortname": "TGC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Vida Kovai Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 183,
-          "w": 5,
-          "o": 20,
-          "inning": "vida kovai kings Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 10,
-          "o": 15.4,
-          "inning": "Trichy Grand Cholas,Vida Kovai Kings Inning 1"
         }
       ],
       "series_id": "6c3c5876-5cfc-4490-9c8e-8ba90aec4323",
