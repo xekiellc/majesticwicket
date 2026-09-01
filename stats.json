@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T19:53:29.497Z",
+  "lastUpdated": "2026-09-01T07:34:08.383Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "d63a5a3f-60e0-4170-b81e-ac0de512327a",
+      "name": "Trinbago Knight Riders vs Guyana Amazon Warriors, 22nd Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors won by 9 runs (DLS Method), TKR target 182",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-08-31",
+      "dateTimeGMT": "2026-08-31T21:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Guyana Amazon Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 185,
+          "w": 5,
+          "o": 16,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        },
+        {
+          "r": 172,
+          "w": 7,
+          "o": 16,
+          "inning": "Trinbago Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "64d278c6-f90b-40c4-8612-c181c13ab97c",
