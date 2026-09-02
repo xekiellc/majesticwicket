@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:47:38.555Z",
+  "lastUpdated": "2026-09-02T22:27:46.247Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -161,50 +161,6 @@
       "matchEnded": true
     },
     {
-      "id": "d42f60c6-a3a2-4b97-a487-fe06327933dd",
-      "name": "Trinbago Knight Riders vs Jamaica Kingsmen, 20th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Jamaica Kingsmen won by 7 runs (DLS Method)",
-      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
-      "date": "2026-08-29",
-      "dateTimeGMT": "2026-08-29T23:00:00",
-      "teams": [
-        "Trinbago Knight Riders",
-        "Jamaica Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jamaica Kingsmen",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
-          "w": 6,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 3,
-          "o": 14.4,
-          "inning": "Jamaica Kingsmen Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "6614ae3e-a45a-48d0-a70f-78bec7f0c9c9",
       "name": "Gloucestershire vs Derbyshire, 41st Match, County Championship Division Two 2026",
       "matchType": "test",
@@ -247,7 +203,7 @@
       "id": "19f53d15-4f12-4e14-a788-60a6a3efbe50",
       "name": "Kent vs Worcestershire, 42nd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Worcestershire trail by 158 runs",
+      "status": "Day 1: Stumps - Worcestershire trail by 158 runs",
       "venue": "St Lawrence Ground, Canterbury",
       "date": "2026-09-02",
       "dateTimeGMT": "2026-09-02T10:00:00",
