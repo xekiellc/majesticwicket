@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T22:27:46.247Z",
+  "lastUpdated": "2026-09-03T07:02:15.713Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "a3ed7e03-c3e7-48a2-8dde-a9c1884b5d2a",
+      "name": "Trinbago Knight Riders vs Antigua and Barbuda Falcons, 24th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Antigua and Barbuda Falcons won by 8 runs",
+      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
+      "date": "2026-09-02",
+      "dateTimeGMT": "2026-09-02T23:00:00",
+      "teams": [
+        "Trinbago Knight Riders",
+        "Antigua and Barbuda Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 4,
+          "o": 20,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        },
+        {
+          "r": 175,
+          "w": 7,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "b76084ab-303a-4756-848f-67ad34b90578",
