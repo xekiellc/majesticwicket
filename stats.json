@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T17:30:09.944Z",
+  "lastUpdated": "2026-09-05T06:50:00.398Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "9fb494fd-6398-4955-a349-28065464d1a2",
+      "name": "Guyana Amazon Warriors vs Jamaica Kingsmen, 26th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors won by 8 wkts",
+      "venue": "Providence Stadium, Guyana",
+      "date": "2026-09-04",
+      "dateTimeGMT": "2026-09-04T23:00:00",
+      "teams": [
+        "Guyana Amazon Warriors",
+        "Jamaica Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 7,
+          "o": 20,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 2,
+          "o": 17.2,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "49e8ff59-3fcf-4128-a56d-da3774c85492",
@@ -175,55 +219,10 @@
       "matchEnded": true
     },
     {
-      "id": "d63a5a3f-60e0-4170-b81e-ac0de512327a",
-      "name": "Trinbago Knight Riders vs Guyana Amazon Warriors, 22nd Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 9 runs (DLS Method), TKR target 182",
-      "venue": "Queen's Park Oval, Port of Spain, Trinidad",
-      "date": "2026-08-31",
-      "dateTimeGMT": "2026-08-31T21:00:00",
-      "teams": [
-        "Trinbago Knight Riders",
-        "Guyana Amazon Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 185,
-          "w": 5,
-          "o": 16,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        },
-        {
-          "r": 172,
-          "w": 7,
-          "o": 16,
-          "inning": "Trinbago Knight Riders Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "6614ae3e-a45a-48d0-a70f-78bec7f0c9c9",
       "name": "Gloucestershire vs Derbyshire, 41st Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Bad light stops play - Gloucestershire lead by 102 runs",
+      "status": "Day 3: Stumps - Gloucestershire lead by 108 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-09-02",
       "dateTimeGMT": "2026-09-02T10:00:00",
@@ -257,9 +256,9 @@
           "inning": "Gloucestershire,Derbyshire Inning 1"
         },
         {
-          "r": 143,
+          "r": 149,
           "w": 3,
-          "o": 48,
+          "o": 51,
           "inning": "gloucestershire Inning 2"
         }
       ],
@@ -553,7 +552,7 @@
       "id": "c0ae4c16-555a-44db-ba08-0b903cc302e8",
       "name": "Nottinghamshire vs Leicestershire, 53rd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 3rd Session - Leicestershire trail by 207 runs",
+      "status": "Day 3: Stumps - Leicestershire trail by 201 runs",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-09-02",
       "dateTimeGMT": "2026-09-02T10:00:00",
