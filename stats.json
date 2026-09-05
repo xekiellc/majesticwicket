@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T16:41:22.463Z",
+  "lastUpdated": "2026-09-05T21:58:54.044Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -175,54 +175,10 @@
       "matchEnded": true
     },
     {
-      "id": "b76084ab-303a-4756-848f-67ad34b90578",
-      "name": "St Kitts and Nevis Patriots vs Barbados Tridents, 23rd Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "St Kitts and Nevis Patriots won by 6 wkts",
-      "venue": "Warner Park, Basseterre, St Kitts",
-      "date": "2026-09-01",
-      "dateTimeGMT": "2026-09-01T23:00:00",
-      "teams": [
-        "St Kitts and Nevis Patriots",
-        "Barbados Tridents"
-      ],
-      "teamInfo": [
-        {
-          "name": "Barbados Tridents",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "St Kitts and Nevis Patriots",
-          "shortname": "SNP",
-          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 217,
-          "w": 4,
-          "o": 20,
-          "inning": "Barbados Tridents Inning 1"
-        },
-        {
-          "r": 220,
-          "w": 4,
-          "o": 19.1,
-          "inning": "St Kitts and Nevis Patriots Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "6614ae3e-a45a-48d0-a70f-78bec7f0c9c9",
       "name": "Gloucestershire vs Derbyshire, 41st Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 4: 3rd Session - Derbyshire need 227 runs",
+      "status": "Gloucestershire won by 213 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-09-02",
       "dateTimeGMT": "2026-09-02T10:00:00",
@@ -262,9 +218,9 @@
           "inning": "gloucestershire Inning 2"
         },
         {
-          "r": 92,
-          "w": 9,
-          "o": 37,
+          "r": 105,
+          "w": 10,
+          "o": 38.4,
           "inning": "Gloucestershire,Derbyshire Inning 2"
         }
       ],
