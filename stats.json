@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T21:58:54.044Z",
+  "lastUpdated": "2026-09-06T07:00:37.274Z",
   "recentMatches": [
     {
       "id": "1fa3bd8a-4bac-4ebb-b022-aba8281467e3",
@@ -39,6 +39,50 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "b066cf91-f5ad-47cc-876c-fb3c7776eb91",
+      "name": "Barbados Tridents vs Trinbago Knight Riders, 27th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders won by 35 runs",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-05",
+      "dateTimeGMT": "2026-09-05T00:00:00",
+      "teams": [
+        "Barbados Tridents",
+        "Trinbago Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 147,
+          "w": 6,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 10,
+          "o": 18.3,
+          "inning": "Barbados Tridents Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "9fb494fd-6398-4955-a349-28065464d1a2",
