@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T13:44:03.946Z",
+  "lastUpdated": "2026-09-07T18:39:40.124Z",
   "recentMatches": [
     {
       "id": "404707a9-a2b4-4111-9d19-ab32afa8ea2f",
@@ -169,51 +169,6 @@
           "w": 2,
           "o": 17.2,
           "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "49e8ff59-3fcf-4128-a56d-da3774c85492",
-      "name": "St Kitts and Nevis Patriots vs Saint Lucia Kings, 25th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "St Kitts and Nevis Patriots won by 137 runs",
-      "venue": "Warner Park, Basseterre, St Kitts",
-      "date": "2026-09-03",
-      "dateTimeGMT": "2026-09-03T23:00:00",
-      "teams": [
-        "St Kitts and Nevis Patriots",
-        "Saint Lucia Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        },
-        {
-          "name": "St Kitts and Nevis Patriots",
-          "shortname": "SNP",
-          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 235,
-          "w": 4,
-          "o": 20,
-          "inning": "St Kitts and Nevis Patriots Inning 1"
-        },
-        {
-          "r": 98,
-          "w": 10,
-          "o": 13.5,
-          "inning": "Saint Lucia Kings Inning 1"
         }
       ],
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
