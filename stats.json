@@ -1,11 +1,55 @@
 {
-  "lastUpdated": "2026-09-06T22:00:43.729Z",
+  "lastUpdated": "2026-09-07T13:44:03.946Z",
   "recentMatches": [
+    {
+      "id": "404707a9-a2b4-4111-9d19-ab32afa8ea2f",
+      "name": "Barbados Tridents vs Saint Lucia Kings, 29th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Barbados Tridents won by 8 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-06",
+      "dateTimeGMT": "2026-09-06T23:00:00",
+      "teams": [
+        "Barbados Tridents",
+        "Saint Lucia Kings"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Saint Lucia Kings",
+          "shortname": "SLK",
+          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 6,
+          "o": 20,
+          "inning": "Saint Lucia Kings Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 2,
+          "o": 17.5,
+          "inning": "Barbados Tridents Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "5d38ad47-bb76-423b-bbd1-7a0848e22b0d",
       "name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots, 28th Match, Caribbean Premier League 2026",
       "matchType": "t20",
-      "status": "Guyana Amazon Warriors need 49 runs in 54 balls",
+      "status": "Guyana Amazon Warriors won by 7 wkts",
       "venue": "Providence Stadium, Guyana",
       "date": "2026-09-05",
       "dateTimeGMT": "2026-09-05T14:00:00",
@@ -33,9 +77,9 @@
           "inning": "st kitts and nevis patriots Inning 1"
         },
         {
-          "r": 80,
+          "r": 132,
           "w": 3,
-          "o": 11,
+          "o": 18.3,
           "inning": "Guyana Amazon Warriors,St Kitts and Nevis Patriots Inning 1"
         }
       ],
@@ -44,7 +88,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b066cf91-f5ad-47cc-876c-fb3c7776eb91",
