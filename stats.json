@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T07:06:15.531Z",
+  "lastUpdated": "2026-09-08T17:50:43.915Z",
   "recentMatches": [
     {
       "id": "404707a9-a2b4-4111-9d19-ab32afa8ea2f",
@@ -177,6 +177,348 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "1a0bdc82-4a9b-4202-a962-2a8daf52840e",
+      "name": "Lancashire vs Gloucestershire, 48th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Gloucestershire opt to bat",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Lancashire",
+        "Gloucestershire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gloucestershire",
+          "shortname": "GLOU",
+          "img": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=48"
+        },
+        {
+          "name": "Lancashire",
+          "shortname": "LNCS",
+          "img": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 164,
+          "w": 6,
+          "o": 61,
+          "inning": "gloucestershire Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d762ae72-5789-4f2c-bf22-e228da1cfe7d",
+      "name": "Durham vs Middlesex, 47th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 3rd Session - Middlesex trail by 187 runs",
+      "venue": "Riverside Ground, Chester-le-Street",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Durham",
+        "Middlesex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Durham",
+          "shortname": "DURH",
+          "img": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=48"
+        },
+        {
+          "name": "Middlesex",
+          "shortname": "MDX",
+          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 252,
+          "w": 10,
+          "o": 73.4,
+          "inning": "Durham Inning 1"
+        },
+        {
+          "r": 65,
+          "w": 2,
+          "o": 18.3,
+          "inning": "Middlesex Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e6f9bb7f-1169-45fb-b374-3849c2eced6a",
+      "name": "Worcestershire vs Northamptonshire, 46th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: 3rd Session - Northamptonshire trail by 185 runs",
+      "venue": "New Road, Worcester",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Worcestershire",
+        "Northamptonshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northamptonshire",
+          "shortname": "NOR",
+          "img": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=48"
+        },
+        {
+          "name": "Worcestershire",
+          "shortname": "WRCS",
+          "img": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 200,
+          "w": 10,
+          "o": 67.1,
+          "inning": "Worcestershire Inning 1"
+        },
+        {
+          "r": 15,
+          "w": 0,
+          "o": 6.3,
+          "inning": "Northamptonshire Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2662bac3-8eea-47fd-9bfd-64fe24702ac4",
+      "name": "Derbyshire vs Kent, 45th Match, County Championship Division Two 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Kent trail by 289 runs",
+      "venue": "County Ground, Derby",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Derbyshire",
+        "Kent"
+      ],
+      "teamInfo": [
+        {
+          "name": "Derbyshire",
+          "shortname": "DERB",
+          "img": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=48"
+        },
+        {
+          "name": "Kent",
+          "shortname": "KENT",
+          "img": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 300,
+          "w": 10,
+          "o": 87.5,
+          "inning": "Derbyshire Inning 1"
+        },
+        {
+          "r": 11,
+          "w": 1,
+          "o": 6,
+          "inning": "Kent Inning 1"
+        }
+      ],
+      "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "fff37706-6b25-4dcd-8e26-2f6e40f12ea9",
+      "name": "Leicestershire vs Somerset, 60th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Leicestershire opt to bowl",
+      "venue": "Grace Road, Leicester",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Leicestershire",
+        "Somerset"
+      ],
+      "teamInfo": [
+        {
+          "name": "Leicestershire",
+          "shortname": "LECS",
+          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
+        },
+        {
+          "name": "Somerset",
+          "shortname": "SOM",
+          "img": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 354,
+          "w": 9,
+          "o": 72,
+          "inning": "Somerset Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "9c039d41-8967-4160-b4b3-09f0736bf282",
+      "name": "Glamorgan vs Warwickshire, 58th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: 3rd Session - Warwickshire lead by 70 runs",
+      "venue": "Sophia Gardens, Cardiff",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Glamorgan",
+        "Warwickshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Glamorgan",
+          "shortname": "GLAM",
+          "img": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=48"
+        },
+        {
+          "name": "Warwickshire",
+          "shortname": "WRKS",
+          "img": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 69,
+          "w": 10,
+          "o": 26.3,
+          "inning": "glamorgan Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 3,
+          "o": 37,
+          "inning": "Glamorgan,Warwickshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "af52eb8d-e038-479f-bcc5-f845124ab4b5",
+      "name": "Yorkshire vs Essex, 57th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Yorkshire opt to bat",
+      "venue": "Headingley, Leeds",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Yorkshire",
+        "Essex"
+      ],
+      "teamInfo": [
+        {
+          "name": "Essex",
+          "shortname": "ESX",
+          "img": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=48"
+        },
+        {
+          "name": "Yorkshire",
+          "shortname": "YRK",
+          "img": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 241,
+          "w": 6,
+          "o": 70,
+          "inning": "yorkshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "c2a3eed0-e2ac-42ce-80f6-35babdd221d0",
+      "name": "Nottinghamshire vs Hampshire, 56th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Hampshire trail by 365 runs",
+      "venue": "Trent Bridge, Nottingham",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Nottinghamshire",
+        "Hampshire"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hampshire",
+          "shortname": "HAM",
+          "img": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=48"
+        },
+        {
+          "name": "Nottinghamshire",
+          "shortname": "NOT",
+          "img": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 377,
+          "w": 10,
+          "o": 89.4,
+          "inning": "Nottinghamshire Inning 1"
+        },
+        {
+          "r": 12,
+          "w": 0,
+          "o": 4,
+          "inning": "Hampshire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
