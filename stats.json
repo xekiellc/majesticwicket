@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-09-08T17:50:43.915Z",
+  "lastUpdated": "2026-09-09T12:31:26.471Z",
   "recentMatches": [
+    {
+      "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
+      "name": "England vs Pakistan, 3rd Test, Pakistan tour of England 2026",
+      "matchType": "test",
+      "status": "England opt to bowl",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-09-09",
+      "dateTimeGMT": "2026-09-09T10:00:00",
+      "teams": [
+        "England",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 100,
+          "w": 7,
+          "o": 23,
+          "inning": "Pakistan Inning 1"
+        }
+      ],
+      "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "43401462-87a0-43a4-b66d-7865146a976d",
+      "name": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons, 30th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Antigua and Barbuda Falcons won by 65 runs",
+      "venue": "Providence Stadium, Guyana",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T23:00:00",
+      "teams": [
+        "Guyana Amazon Warriors",
+        "Antigua and Barbuda Falcons"
+      ],
+      "teamInfo": [
+        {
+          "name": "Antigua and Barbuda Falcons",
+          "shortname": "ABF",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 5,
+          "o": 20,
+          "inning": "Antigua and Barbuda Falcons Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 10,
+          "o": 14.2,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "404707a9-a2b4-4111-9d19-ab32afa8ea2f",
       "name": "Barbados Tridents vs Saint Lucia Kings, 29th Match, Caribbean Premier League 2026",
@@ -135,54 +219,10 @@
       "matchEnded": true
     },
     {
-      "id": "9fb494fd-6398-4955-a349-28065464d1a2",
-      "name": "Guyana Amazon Warriors vs Jamaica Kingsmen, 26th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 8 wkts",
-      "venue": "Providence Stadium, Guyana",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T23:00:00",
-      "teams": [
-        "Guyana Amazon Warriors",
-        "Jamaica Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        },
-        {
-          "name": "Jamaica Kingsmen",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 7,
-          "o": 20,
-          "inning": "Jamaica Kingsmen Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 2,
-          "o": 17.2,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "1a0bdc82-4a9b-4202-a962-2a8daf52840e",
       "name": "Lancashire vs Gloucestershire, 48th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Gloucestershire opt to bat",
+      "status": "Day 2: Match delayed due to rain - Lancashire trail by 189 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -204,10 +244,16 @@
       ],
       "score": [
         {
-          "r": 164,
-          "w": 6,
-          "o": 61,
+          "r": 212,
+          "w": 10,
+          "o": 80.2,
           "inning": "gloucestershire Inning 1"
+        },
+        {
+          "r": 23,
+          "w": 3,
+          "o": 10,
+          "inning": "Lancashire,Gloucestershire Inning 1"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -221,7 +267,7 @@
       "id": "d762ae72-5789-4f2c-bf22-e228da1cfe7d",
       "name": "Durham vs Middlesex, 47th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Middlesex trail by 187 runs",
+      "status": "Day 2: 2nd Session - Middlesex trail by 80 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -249,9 +295,9 @@
           "inning": "Durham Inning 1"
         },
         {
-          "r": 65,
-          "w": 2,
-          "o": 18.3,
+          "r": 172,
+          "w": 8,
+          "o": 50,
           "inning": "Middlesex Inning 1"
         }
       ],
@@ -266,7 +312,7 @@
       "id": "e6f9bb7f-1169-45fb-b374-3849c2eced6a",
       "name": "Worcestershire vs Northamptonshire, 46th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Northamptonshire trail by 185 runs",
+      "status": "Day 2: 2nd Session - Northamptonshire trail by 94 runs",
       "venue": "New Road, Worcester",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -294,9 +340,9 @@
           "inning": "Worcestershire Inning 1"
         },
         {
-          "r": 15,
-          "w": 0,
-          "o": 6.3,
+          "r": 106,
+          "w": 4,
+          "o": 38,
           "inning": "Northamptonshire Inning 1"
         }
       ],
@@ -311,7 +357,7 @@
       "id": "2662bac3-8eea-47fd-9bfd-64fe24702ac4",
       "name": "Derbyshire vs Kent, 45th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Kent trail by 289 runs",
+      "status": "Day 2: 2nd Session - Kent trail by 180 runs",
       "venue": "County Ground, Derby",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -339,9 +385,9 @@
           "inning": "Derbyshire Inning 1"
         },
         {
-          "r": 11,
-          "w": 1,
-          "o": 6,
+          "r": 120,
+          "w": 4,
+          "o": 39,
           "inning": "Kent Inning 1"
         }
       ],
@@ -356,7 +402,7 @@
       "id": "fff37706-6b25-4dcd-8e26-2f6e40f12ea9",
       "name": "Leicestershire vs Somerset, 60th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Leicestershire opt to bowl",
+      "status": "Day 2: Lunch Break - Leicestershire trail by 280 runs",
       "venue": "Grace Road, Leicester",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -378,10 +424,55 @@
       ],
       "score": [
         {
-          "r": 354,
-          "w": 9,
-          "o": 72,
+          "r": 363,
+          "w": 10,
+          "o": 75.4,
           "inning": "Somerset Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 5,
+          "o": 26,
+          "inning": "Leicestershire Inning 1"
+        }
+      ],
+      "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "7edf66af-36b4-40a0-9338-deafe4a531ef",
+      "name": "Sussex vs Surrey, 59th Match, County Championship Division One 2026",
+      "matchType": "test",
+      "status": "Day 2: 2nd Session - Sussex opt to bat",
+      "venue": "County Ground, Hove",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T10:00:00",
+      "teams": [
+        "Sussex",
+        "Surrey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Surrey",
+          "shortname": "SUR",
+          "img": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=48"
+        },
+        {
+          "name": "Sussex",
+          "shortname": "SUSS",
+          "img": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 118,
+          "w": 2,
+          "o": 34.1,
+          "inning": "sussex Inning 1"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -395,7 +486,7 @@
       "id": "9c039d41-8967-4160-b4b3-09f0736bf282",
       "name": "Glamorgan vs Warwickshire, 58th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Warwickshire lead by 70 runs",
+      "status": "Day 2: 2nd Session - Warwickshire lead by 222 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -423,9 +514,9 @@
           "inning": "glamorgan Inning 1"
         },
         {
-          "r": 139,
-          "w": 3,
-          "o": 37,
+          "r": 291,
+          "w": 5,
+          "o": 75.2,
           "inning": "Glamorgan,Warwickshire Inning 1"
         }
       ],
@@ -440,7 +531,7 @@
       "id": "af52eb8d-e038-479f-bcc5-f845124ab4b5",
       "name": "Yorkshire vs Essex, 57th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Yorkshire opt to bat",
+      "status": "Yorkshire opt to bat",
       "venue": "Headingley, Leeds",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -462,9 +553,9 @@
       ],
       "score": [
         {
-          "r": 241,
-          "w": 6,
-          "o": 70,
+          "r": 335,
+          "w": 7,
+          "o": 102,
           "inning": "yorkshire Inning 1"
         }
       ],
@@ -479,7 +570,7 @@
       "id": "c2a3eed0-e2ac-42ce-80f6-35babdd221d0",
       "name": "Nottinghamshire vs Hampshire, 56th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Hampshire trail by 365 runs",
+      "status": "Day 2: 2nd Session - Hampshire trail by 246 runs",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -507,9 +598,9 @@
           "inning": "Nottinghamshire Inning 1"
         },
         {
-          "r": 12,
-          "w": 0,
-          "o": 4,
+          "r": 131,
+          "w": 3,
+          "o": 35.2,
           "inning": "Hampshire Inning 1"
         }
       ],
