@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:36:11.772Z",
+  "lastUpdated": "2026-09-10T22:21:10.854Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
@@ -133,50 +133,6 @@
           "w": 10,
           "o": 14.2,
           "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "404707a9-a2b4-4111-9d19-ab32afa8ea2f",
-      "name": "Barbados Tridents vs Saint Lucia Kings, 29th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Barbados Tridents won by 8 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-06",
-      "dateTimeGMT": "2026-09-06T23:00:00",
-      "teams": [
-        "Barbados Tridents",
-        "Saint Lucia Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Barbados Tridents",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 138,
-          "w": 6,
-          "o": 20,
-          "inning": "Saint Lucia Kings Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 2,
-          "o": 17.5,
-          "inning": "Barbados Tridents Inning 1"
         }
       ],
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
