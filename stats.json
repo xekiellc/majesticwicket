@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-11T07:09:47.311Z",
+  "lastUpdated": "2026-09-11T12:23:47.364Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
       "name": "England vs Pakistan, 3rd Test, Pakistan tour of England 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - Pakistan trail by 268 runs",
+      "status": "Day 3: 1st Session - Pakistan trail by 162 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-09-09",
       "dateTimeGMT": "2026-09-09T10:00:00",
@@ -39,9 +39,9 @@
           "inning": "England Inning 1"
         },
         {
-          "r": 52,
-          "w": 2,
-          "o": 12.4,
+          "r": 158,
+          "w": 3,
+          "o": 35.1,
           "inning": "Pakistan Inning 2"
         }
       ],
@@ -190,7 +190,7 @@
       "id": "1a0bdc82-4a9b-4202-a962-2a8daf52840e",
       "name": "Lancashire vs Gloucestershire, 48th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Lancashire need 128 runs",
+      "status": "Gloucestershire won by 105 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -230,9 +230,9 @@
           "inning": "gloucestershire Inning 2"
         },
         {
-          "r": 120,
-          "w": 6,
-          "o": 35.3,
+          "r": 142,
+          "w": 10,
+          "o": 41.4,
           "inning": "Lancashire,Gloucestershire Inning 2"
         }
       ],
@@ -241,13 +241,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d762ae72-5789-4f2c-bf22-e228da1cfe7d",
       "name": "Durham vs Middlesex, 47th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Middlesex need 369 runs",
+      "status": "Day 4: 2nd Session - Middlesex need 240 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -287,9 +287,9 @@
           "inning": "Durham Inning 2"
         },
         {
-          "r": 55,
-          "w": 2,
-          "o": 12.2,
+          "r": 184,
+          "w": 6,
+          "o": 42.2,
           "inning": "Middlesex Inning 2"
         }
       ],
@@ -361,7 +361,7 @@
       "id": "2662bac3-8eea-47fd-9bfd-64fe24702ac4",
       "name": "Derbyshire vs Kent, 45th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Kent need 431 runs",
+      "status": "Day 4: Lunch Break - Kent need 343 runs",
       "venue": "County Ground, Derby",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -401,9 +401,9 @@
           "inning": "Derbyshire Inning 2"
         },
         {
-          "r": 3,
-          "w": 0,
-          "o": 1.3,
+          "r": 91,
+          "w": 5,
+          "o": 30,
           "inning": "Kent Inning 2"
         }
       ],
@@ -475,7 +475,7 @@
       "id": "7edf66af-36b4-40a0-9338-deafe4a531ef",
       "name": "Sussex vs Surrey, 59th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Surrey trail by 99 runs",
+      "status": "Day 4: 2nd Session - Sussex lead by 119 runs",
       "venue": "County Ground, Hove",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -503,10 +503,16 @@
           "inning": "sussex Inning 1"
         },
         {
-          "r": 294,
-          "w": 7,
-          "o": 94.2,
+          "r": 321,
+          "w": 10,
+          "o": 104.4,
           "inning": "Sussex,Surrey Inning 1"
+        },
+        {
+          "r": 47,
+          "w": 1,
+          "o": 18.3,
+          "inning": "sussex Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -622,7 +628,7 @@
       "id": "c2a3eed0-e2ac-42ce-80f6-35babdd221d0",
       "name": "Nottinghamshire vs Hampshire, 56th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Hampshire need 117 runs",
+      "status": "Nottinghamshire won by 54 runs",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -662,9 +668,9 @@
           "inning": "Nottinghamshire Inning 2"
         },
         {
-          "r": 61,
-          "w": 6,
-          "o": 20.4,
+          "r": 123,
+          "w": 10,
+          "o": 49.2,
           "inning": "Hampshire Inning 2"
         }
       ],
@@ -673,7 +679,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
