@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-11T12:23:47.364Z",
+  "lastUpdated": "2026-09-11T22:21:05.851Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
       "name": "England vs Pakistan, 3rd Test, Pakistan tour of England 2026",
       "matchType": "test",
-      "status": "Day 3: 1st Session - Pakistan trail by 162 runs",
+      "status": "Day 3: Stumps - Pakistan lead by 129 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-09-09",
       "dateTimeGMT": "2026-09-09T10:00:00",
@@ -39,9 +39,9 @@
           "inning": "England Inning 1"
         },
         {
-          "r": 158,
-          "w": 3,
-          "o": 35.1,
+          "r": 449,
+          "w": 10,
+          "o": 96.4,
           "inning": "Pakistan Inning 2"
         }
       ],
@@ -247,7 +247,7 @@
       "id": "d762ae72-5789-4f2c-bf22-e228da1cfe7d",
       "name": "Durham vs Middlesex, 47th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 4: 2nd Session - Middlesex need 240 runs",
+      "status": "Durham won by 93 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -287,9 +287,9 @@
           "inning": "Durham Inning 2"
         },
         {
-          "r": 184,
-          "w": 6,
-          "o": 42.2,
+          "r": 330,
+          "w": 10,
+          "o": 78,
           "inning": "Middlesex Inning 2"
         }
       ],
@@ -298,7 +298,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e6f9bb7f-1169-45fb-b374-3849c2eced6a",
@@ -361,7 +361,7 @@
       "id": "2662bac3-8eea-47fd-9bfd-64fe24702ac4",
       "name": "Derbyshire vs Kent, 45th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 4: Lunch Break - Kent need 343 runs",
+      "status": "Derbyshire won by 181 runs",
       "venue": "County Ground, Derby",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -401,9 +401,9 @@
           "inning": "Derbyshire Inning 2"
         },
         {
-          "r": 91,
-          "w": 5,
-          "o": 30,
+          "r": 252,
+          "w": 10,
+          "o": 95.3,
           "inning": "Kent Inning 2"
         }
       ],
@@ -412,7 +412,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "fff37706-6b25-4dcd-8e26-2f6e40f12ea9",
@@ -475,7 +475,7 @@
       "id": "7edf66af-36b4-40a0-9338-deafe4a531ef",
       "name": "Sussex vs Surrey, 59th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 4: 2nd Session - Sussex lead by 119 runs",
+      "status": "Match drawn",
       "venue": "County Ground, Hove",
       "date": "2026-09-08",
       "dateTimeGMT": "2026-09-08T10:00:00",
@@ -509,9 +509,9 @@
           "inning": "Sussex,Surrey Inning 1"
         },
         {
-          "r": 47,
-          "w": 1,
-          "o": 18.3,
+          "r": 167,
+          "w": 3,
+          "o": 65,
           "inning": "sussex Inning 2"
         }
       ],
@@ -520,7 +520,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "9c039d41-8967-4160-b4b3-09f0736bf282",
