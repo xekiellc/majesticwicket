@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T22:21:10.854Z",
+  "lastUpdated": "2026-09-11T07:09:47.311Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
@@ -46,6 +46,50 @@
         }
       ],
       "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "87c75673-5aa0-408d-8cf5-d8316a0e2383",
+      "name": "Barbados Tridents vs St Kitts and Nevis Patriots, 32nd Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Barbados Tridents won by 4 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-10",
+      "dateTimeGMT": "2026-09-10T23:00:00",
+      "teams": [
+        "Barbados Tridents",
+        "St Kitts and Nevis Patriots"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "St Kitts and Nevis Patriots",
+          "shortname": "SNP",
+          "img": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 118,
+          "w": 10,
+          "o": 20,
+          "inning": "St Kitts and Nevis Patriots Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 6,
+          "o": 18,
+          "inning": "Barbados Tridents Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
