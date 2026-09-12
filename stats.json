@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T22:21:05.851Z",
+  "lastUpdated": "2026-09-12T07:01:22.849Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
@@ -46,6 +46,51 @@
         }
       ],
       "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2519e9f2-5fe8-482e-906b-d85ab9d6a5d1",
+      "name": "Guyana Amazon Warriors vs Trinbago Knight Riders, 33rd Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors won by 6 wkts",
+      "venue": "Providence Stadium, Guyana",
+      "date": "2026-09-11",
+      "dateTimeGMT": "2026-09-11T23:00:00",
+      "teams": [
+        "Guyana Amazon Warriors",
+        "Trinbago Knight Riders"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Trinbago Knight Riders",
+          "shortname": "TKR",
+          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 8,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 4,
+          "o": 18.4,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
