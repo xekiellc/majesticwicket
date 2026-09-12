@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-12T11:45:20.003Z",
+  "lastUpdated": "2026-09-12T16:52:52.327Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
       "name": "England vs Pakistan, 3rd Test, Pakistan tour of England 2026",
       "matchType": "test",
-      "status": "Day 4: 1st Session - England need 44 runs",
+      "status": "England won by 8 wkts",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-09-09",
       "dateTimeGMT": "2026-09-09T10:00:00",
@@ -45,9 +45,9 @@
           "inning": "Pakistan Inning 2"
         },
         {
-          "r": 86,
+          "r": 130,
           "w": 2,
-          "o": 17.1,
+          "o": 24.2,
           "inning": "England Inning 2"
         }
       ],
