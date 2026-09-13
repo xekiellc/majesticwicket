@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T22:02:28.913Z",
+  "lastUpdated": "2026-09-13T07:20:35.060Z",
   "recentMatches": [
     {
       "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
@@ -52,6 +52,49 @@
         }
       ],
       "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5bc47185-5931-4737-9fad-9d254a6ecbbe",
+      "name": "Barbados Tridents vs Jamaica Kingsmen, 34th Match, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Barbados Tridents won by 2 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-12",
+      "dateTimeGMT": "2026-09-12T00:00:00",
+      "teams": [
+        "Barbados Tridents",
+        "Jamaica Kingsmen"
+      ],
+      "teamInfo": [
+        {
+          "name": "Barbados Tridents",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 150,
+          "w": 9,
+          "o": 20,
+          "inning": "Jamaica Kingsmen Inning 1"
+        },
+        {
+          "r": 151,
+          "w": 8,
+          "o": 20,
+          "inning": "Barbados Tridents Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true,
