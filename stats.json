@@ -1,63 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T17:21:30.577Z",
+  "lastUpdated": "2026-09-13T22:14:43.526Z",
   "recentMatches": [
-    {
-      "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
-      "name": "England vs Pakistan, 3rd Test, Pakistan tour of England 2026",
-      "matchType": "test",
-      "status": "England won by 8 wkts",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-09-09",
-      "dateTimeGMT": "2026-09-09T10:00:00",
-      "teams": [
-        "England",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 133,
-          "w": 10,
-          "o": 33.5,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 453,
-          "w": 10,
-          "o": 89,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 449,
-          "w": 10,
-          "o": 96.4,
-          "inning": "Pakistan Inning 2"
-        },
-        {
-          "r": 130,
-          "w": 2,
-          "o": 24.2,
-          "inning": "England Inning 2"
-        }
-      ],
-      "series_id": "4f8f04e8-8c11-402d-9bc3-48c09603d9d8",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "5bc47185-5931-4737-9fad-9d254a6ecbbe",
       "name": "Barbados Tridents vs Jamaica Kingsmen, 34th Match, Caribbean Premier League 2026",
@@ -181,51 +124,6 @@
           "w": 6,
           "o": 18,
           "inning": "Barbados Tridents Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "60f146c0-b66b-408b-96f0-d8a653d7a972",
-      "name": "Guyana Amazon Warriors vs Saint Lucia Kings, 31st Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 4 wkts",
-      "venue": "Providence Stadium, Guyana",
-      "date": "2026-09-09",
-      "dateTimeGMT": "2026-09-09T23:00:00",
-      "teams": [
-        "Guyana Amazon Warriors",
-        "Saint Lucia Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 119,
-          "w": 10,
-          "o": 18.5,
-          "inning": "saint lucia kings Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 6,
-          "o": 18.3,
-          "inning": "Guyana Amazon Warriors,Saint Lucia Kings Inning 1"
         }
       ],
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
