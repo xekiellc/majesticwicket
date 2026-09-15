@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T18:03:10.381Z",
+  "lastUpdated": "2026-09-15T22:46:10.976Z",
   "recentMatches": [
     {
       "id": "b16673ec-cf45-4dc0-b700-1981e9cb6745",
@@ -89,51 +89,6 @@
       "matchEnded": true
     },
     {
-      "id": "2519e9f2-5fe8-482e-906b-d85ab9d6a5d1",
-      "name": "Guyana Amazon Warriors vs Trinbago Knight Riders, 33rd Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors won by 6 wkts",
-      "venue": "Providence Stadium, Guyana",
-      "date": "2026-09-11",
-      "dateTimeGMT": "2026-09-11T23:00:00",
-      "teams": [
-        "Guyana Amazon Warriors",
-        "Trinbago Knight Riders"
-      ],
-      "teamInfo": [
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        },
-        {
-          "name": "Trinbago Knight Riders",
-          "shortname": "TKR",
-          "img": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 8,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 4,
-          "o": 18.4,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "ad75aa6a-609d-446c-9e9d-c2f31d361dcb",
       "name": "Durham vs Worcestershire, 49th Match, County Championship Division Two 2026",
       "matchType": "test",
@@ -176,7 +131,7 @@
       "id": "481c7b10-4a7e-4805-9c71-33a6b68b27bd",
       "name": "Northamptonshire vs Derbyshire, 50th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Northamptonshire trail by 370 runs",
+      "status": "Day 1: Stumps - Northamptonshire trail by 357 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -204,9 +159,9 @@
           "inning": "Derbyshire Inning 1"
         },
         {
-          "r": 2,
+          "r": 15,
           "w": 0,
-          "o": 2,
+          "o": 10,
           "inning": "Northamptonshire Inning 1"
         }
       ],
@@ -260,7 +215,7 @@
       "id": "f3aa6891-eb0e-4295-8c30-8e3520b19649",
       "name": "Kent vs Lancashire, 52nd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Kent trail by 21 runs",
+      "status": "Day 1: Stumps - Kent trail by 10 runs",
       "venue": "St Lawrence Ground, Canterbury",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -288,9 +243,9 @@
           "inning": "Lancashire Inning 1"
         },
         {
-          "r": 140,
+          "r": 151,
           "w": 7,
-          "o": 33,
+          "o": 35,
           "inning": "Kent Inning 1"
         }
       ],
@@ -395,7 +350,7 @@
       "id": "6c8a402e-13dd-423a-890c-4dd9c59e92d4",
       "name": "Yorkshire vs Somerset, 63rd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Somerset trail by 166 runs",
+      "status": "Day 1: Stumps - Somerset trail by 144 runs",
       "venue": "Headingley, Leeds",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -423,9 +378,9 @@
           "inning": "yorkshire Inning 1"
         },
         {
-          "r": 71,
+          "r": 68,
           "w": 5,
-          "o": 27,
+          "o": 28,
           "inning": "Yorkshire,Somerset Inning 1"
         }
       ],
@@ -491,7 +446,7 @@
       "id": "8790a8c6-acde-4913-9c9a-0dfff25a3b19",
       "name": "Sussex vs Nottinghamshire, 65th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Sussex opt to bowl",
+      "status": "Day 1: Stumps - Sussex opt to bowl",
       "venue": "County Ground, Hove",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -513,9 +468,9 @@
       ],
       "score": [
         {
-          "r": 206,
-          "w": 8,
-          "o": 74,
+          "r": 232,
+          "w": 9,
+          "o": 83,
           "inning": "Nottinghamshire Inning 1"
         }
       ],
