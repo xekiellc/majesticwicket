@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T18:04:01.883Z",
+  "lastUpdated": "2026-09-17T22:44:20.014Z",
   "recentMatches": [
     {
       "id": "02f39f5f-d91e-4a1d-9aca-bcce166a7946",
@@ -35,50 +35,6 @@
           "w": 1,
           "o": 14.1,
           "inning": "Jamaica Kingsmen Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b16673ec-cf45-4dc0-b700-1981e9cb6745",
-      "name": "Barbados Tridents vs Guyana Amazon Warriors, 35th Match, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Barbados Tridents won by 6 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-13",
-      "dateTimeGMT": "2026-09-13T23:00:00",
-      "teams": [
-        "Barbados Tridents",
-        "Guyana Amazon Warriors"
-      ],
-      "teamInfo": [
-        {
-          "name": "Barbados Tridents",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Guyana Amazon Warriors",
-          "shortname": "GAW",
-          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 99,
-          "w": 10,
-          "o": 18.1,
-          "inning": "Guyana Amazon Warriors Inning 1"
-        },
-        {
-          "r": 100,
-          "w": 4,
-          "o": 14.5,
-          "inning": "Barbados Tridents Inning 1"
         }
       ],
       "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
