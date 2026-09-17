@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T12:49:57.441Z",
+  "lastUpdated": "2026-09-17T18:04:01.883Z",
   "recentMatches": [
     {
       "id": "02f39f5f-d91e-4a1d-9aca-bcce166a7946",
@@ -92,7 +92,7 @@
       "id": "ad75aa6a-609d-446c-9e9d-c2f31d361dcb",
       "name": "Durham vs Worcestershire, 49th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Worcestershire trail by 55 runs",
+      "status": "Day 3: Stumps - Durham lead by 178 runs",
       "venue": "Riverside Ground, Chester-le-Street",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -120,10 +120,16 @@
           "inning": "Durham Inning 1"
         },
         {
-          "r": 410,
-          "w": 8,
-          "o": 123.1,
+          "r": 448,
+          "w": 10,
+          "o": 131.3,
           "inning": "Worcestershire Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 6,
+          "o": 44,
+          "inning": "Durham Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -137,7 +143,7 @@
       "id": "481c7b10-4a7e-4805-9c71-33a6b68b27bd",
       "name": "Northamptonshire vs Derbyshire, 50th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Derbyshire lead by 183 runs",
+      "status": "Day 3: Stumps - Northamptonshire need 312 runs",
       "venue": "County Ground, Northampton",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -171,10 +177,16 @@
           "inning": "Northamptonshire Inning 1"
         },
         {
-          "r": 121,
-          "w": 4,
-          "o": 32,
+          "r": 286,
+          "w": 10,
+          "o": 77.1,
           "inning": "Derbyshire Inning 2"
+        },
+        {
+          "r": 37,
+          "w": 0,
+          "o": 16,
+          "inning": "Northamptonshire Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -188,7 +200,7 @@
       "id": "c394fa0a-17dd-4249-91f3-09fe8cea1f2c",
       "name": "Gloucestershire vs Middlesex, 51st Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Middlesex lead by 135 runs",
+      "status": "Day 3: Stumps - Middlesex lead by 328 runs",
       "venue": "County Ground, Bristol",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -222,9 +234,9 @@
           "inning": "Gloucestershire,Middlesex Inning 1"
         },
         {
-          "r": 105,
-          "w": 2,
-          "o": 45,
+          "r": 298,
+          "w": 6,
+          "o": 106,
           "inning": "middlesex Inning 2"
         }
       ],
@@ -353,7 +365,7 @@
       "id": "b9b2957e-094a-42e6-88f6-1d134ade0e0e",
       "name": "Leicestershire vs Hampshire, 62nd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Hampshire lead by 294 runs",
+      "status": "Day 3: Stumps - Leicestershire need 178 runs",
       "venue": "Grace Road, Leicester",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -387,10 +399,16 @@
           "inning": "Leicestershire Inning 1"
         },
         {
-          "r": 324,
-          "w": 7,
-          "o": 100,
+          "r": 363,
+          "w": 10,
+          "o": 108.1,
           "inning": "Hampshire Inning 2"
+        },
+        {
+          "r": 156,
+          "w": 3,
+          "o": 50,
+          "inning": "Leicestershire Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -404,7 +422,7 @@
       "id": "6c8a402e-13dd-423a-890c-4dd9c59e92d4",
       "name": "Yorkshire vs Somerset, 63rd Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Yorkshire lead by 233 runs",
+      "status": "Day 3: Stumps - Somerset need 214 runs",
       "venue": "Headingley, Leeds",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -438,10 +456,16 @@
           "inning": "Yorkshire,Somerset Inning 1"
         },
         {
-          "r": 222,
-          "w": 7,
-          "o": 92,
+          "r": 275,
+          "w": 10,
+          "o": 111,
           "inning": "yorkshire Inning 2"
+        },
+        {
+          "r": 73,
+          "w": 3,
+          "o": 30.2,
+          "inning": "Yorkshire,Somerset Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -455,7 +479,7 @@
       "id": "3d33ac07-22e8-43b9-9f5f-0de3e99e2d4d",
       "name": "Surrey vs Glamorgan, 64th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Glamorgan lead by 455 runs",
+      "status": "Day 3: Stumps - Surrey need 435 runs",
       "venue": "Kennington Oval, London",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -489,10 +513,16 @@
           "inning": "Surrey Inning 1"
         },
         {
-          "r": 438,
-          "w": 7,
-          "o": 140.5,
+          "r": 594,
+          "w": 10,
+          "o": 162.2,
           "inning": "Glamorgan Inning 2"
+        },
+        {
+          "r": 177,
+          "w": 2,
+          "o": 39,
+          "inning": "Surrey Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -506,7 +536,7 @@
       "id": "8790a8c6-acde-4913-9c9a-0dfff25a3b19",
       "name": "Sussex vs Nottinghamshire, 65th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Sussex lead by 83 runs",
+      "status": "Day 3: Stumps - Nottinghamshire lead by 31 runs",
       "venue": "County Ground, Hove",
       "date": "2026-09-15",
       "dateTimeGMT": "2026-09-15T10:00:00",
@@ -534,10 +564,16 @@
           "inning": "Nottinghamshire Inning 1"
         },
         {
-          "r": 323,
-          "w": 6,
-          "o": 101,
+          "r": 358,
+          "w": 10,
+          "o": 110.2,
           "inning": "Sussex Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 7,
+          "o": 52,
+          "inning": "Nottinghamshire Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
