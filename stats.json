@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-09-18T17:36:26.868Z",
+  "lastUpdated": "2026-09-19T12:05:59.277Z",
   "recentMatches": [
+    {
+      "id": "57b9034f-2942-4394-898c-c285b78b7485",
+      "name": "Jamaica Kingsmen vs Guyana Amazon Warriors, Qualifier 2, Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Jamaica Kingsmen won by 5 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-18",
+      "dateTimeGMT": "2026-09-18T23:00:00",
+      "teams": [
+        "Jamaica Kingsmen",
+        "Guyana Amazon Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Guyana Amazon Warriors",
+          "shortname": "GAW",
+          "img": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=48"
+        },
+        {
+          "name": "Jamaica Kingsmen",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 206,
+          "w": 4,
+          "o": 20,
+          "inning": "Guyana Amazon Warriors Inning 1"
+        },
+        {
+          "r": 207,
+          "w": 5,
+          "o": 19.4,
+          "inning": "Jamaica Kingsmen Inning 1"
+        }
+      ],
+      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "f34ad977-793b-44ce-9c85-abcf56a1de49",
       "name": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons, Qualifier 1, Caribbean Premier League 2026",
