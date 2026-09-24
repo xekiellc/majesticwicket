@@ -1,50 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T18:20:58.421Z",
+  "lastUpdated": "2026-09-24T23:06:13.431Z",
   "recentMatches": [
-    {
-      "id": "e28b0343-737f-4a0a-a27a-6c6c80295d8d",
-      "name": "Antigua and Barbuda Falcons vs Jamaica Kingsmen, Final, Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Antigua and Barbuda Falcons won by 8 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-20",
-      "dateTimeGMT": "2026-09-20T23:00:00",
-      "teams": [
-        "Antigua and Barbuda Falcons",
-        "Jamaica Kingsmen"
-      ],
-      "teamInfo": [
-        {
-          "name": "Antigua and Barbuda Falcons",
-          "shortname": "ABF",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jamaica Kingsmen",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 170,
-          "w": 9,
-          "o": 20,
-          "inning": "Jamaica Kingsmen Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 2,
-          "o": 16.4,
-          "inning": "Antigua and Barbuda Falcons Inning 1"
-        }
-      ],
-      "series_id": "929c36f6-9ed6-4cec-a2ad-910a2ee4f701",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "726b37d0-a008-4eea-8dd2-4ac77687e870",
       "name": "Lancashire vs Durham, 56th Match, County Championship Division Two 2026",
@@ -431,51 +387,6 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "fc2efe00-8974-4ef5-a827-671366004744",
-      "name": "Leicestershire vs Middlesex, Final, England Domestic One-Day Cup 2026",
-      "matchType": "odi",
-      "status": "Middlesex won by 31 runs",
-      "venue": "Trent Bridge, Nottingham",
-      "date": "2026-09-20",
-      "dateTimeGMT": "2026-09-20T10:00:00",
-      "teams": [
-        "Leicestershire",
-        "Middlesex"
-      ],
-      "teamInfo": [
-        {
-          "name": "Leicestershire",
-          "shortname": "LECS",
-          "img": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=48"
-        },
-        {
-          "name": "Middlesex",
-          "shortname": "MDX",
-          "img": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 231,
-          "w": 10,
-          "o": 49.5,
-          "inning": "Middlesex Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 10,
-          "o": 44.2,
-          "inning": "Leicestershire Inning 1"
-        }
-      ],
-      "series_id": "2734957c-528c-4a90-bf0d-17b4c88be4dc",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
