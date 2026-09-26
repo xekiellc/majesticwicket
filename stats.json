@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-26T12:31:26.987Z",
+  "lastUpdated": "2026-09-26T22:31:57.239Z",
   "recentMatches": [
     {
       "id": "726b37d0-a008-4eea-8dd2-4ac77687e870",
       "name": "Lancashire vs Durham, 56th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Lancashire trail by 413 runs",
+      "status": "Day 3: Stumps - Lancashire trail by 226 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -33,9 +33,9 @@
           "inning": "durham Inning 1"
         },
         {
-          "r": 80,
-          "w": 3,
-          "o": 42.2,
+          "r": 267,
+          "w": 5,
+          "o": 113,
           "inning": "Lancashire,Durham Inning 1"
         }
       ],
@@ -50,7 +50,7 @@
       "id": "6a321f9b-f99c-44c3-a162-4296466fcf29",
       "name": "Worcestershire vs Derbyshire, 55th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Derbyshire need 257 runs",
+      "status": "Worcestershire won by 175 runs",
       "venue": "New Road, Worcester",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -90,9 +90,9 @@
           "inning": "Worcestershire Inning 2"
         },
         {
-          "r": 76,
-          "w": 6,
-          "o": 27,
+          "r": 157,
+          "w": 10,
+          "o": 43,
           "inning": "Derbyshire Inning 2"
         }
       ],
@@ -101,13 +101,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7b304e3b-c522-4917-b247-76e1ce3d5633",
       "name": "Middlesex vs Northamptonshire, 54th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Middlesex need 86 runs",
+      "status": "Middlesex won by 7 wkts",
       "venue": "Lord's, London",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -147,9 +147,9 @@
           "inning": "northamptonshire Inning 2"
         },
         {
-          "r": 48,
-          "w": 2,
-          "o": 19.5,
+          "r": 134,
+          "w": 3,
+          "o": 41.3,
           "inning": "Middlesex,Northamptonshire Inning 2"
         }
       ],
@@ -164,7 +164,7 @@
       "id": "d4701e30-c564-4e30-af7c-28eace04d9d4",
       "name": "Kent vs Gloucestershire, 53rd Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Gloucestershire lead by 27 runs",
+      "status": "Kent won by 8 wkts",
       "venue": "St Lawrence Ground, Canterbury",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -198,10 +198,16 @@
           "inning": "Kent Inning 1"
         },
         {
-          "r": 151,
-          "w": 6,
-          "o": 51,
+          "r": 241,
+          "w": 10,
+          "o": 75.1,
           "inning": "Gloucestershire Inning 2"
+        },
+        {
+          "r": 120,
+          "w": 2,
+          "o": 26.3,
+          "inning": "Kent Inning 2"
         }
       ],
       "series_id": "dfe730c5-873d-44ce-955c-00d82716749b",
@@ -209,13 +215,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d6eeb24a-9697-4cee-af76-74cc35313a5e",
       "name": "Somerset vs Surrey, 70th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Somerset trail by 55 runs",
+      "status": "Day 3: Stumps - Somerset lead by 269 runs",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -243,9 +249,9 @@
           "inning": "surrey Inning 1"
         },
         {
-          "r": 367,
-          "w": 3,
-          "o": 105.1,
+          "r": 691,
+          "w": 8,
+          "o": 164,
           "inning": "Somerset,Surrey Inning 1"
         }
       ],
@@ -254,13 +260,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d23e3f6f-9277-49f1-807a-1af881ce6804",
       "name": "Glamorgan vs Essex, 69th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Essex trail by 330 runs",
+      "status": "Day 3: Stumps - Essex trail by 45 runs",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -294,9 +300,9 @@
           "inning": "Essex Inning 1"
         },
         {
-          "r": 46,
-          "w": 1,
-          "o": 16.4,
+          "r": 331,
+          "w": 5,
+          "o": 82,
           "inning": "Glamorgan Inning 2"
         }
       ],
@@ -311,7 +317,7 @@
       "id": "4a12d26d-beeb-4c4f-ac0f-5425c3228b6c",
       "name": "Hampshire vs Sussex, 68th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Hampshire need 407 runs",
+      "status": "Sussex won by 197 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -351,9 +357,9 @@
           "inning": "sussex Inning 2"
         },
         {
-          "r": 29,
-          "w": 5,
-          "o": 13.1,
+          "r": 238,
+          "w": 10,
+          "o": 54.4,
           "inning": "Hampshire,Sussex Inning 2"
         }
       ],
@@ -362,13 +368,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b39fa94d-0214-4f62-9cdd-4239d9ba37cc",
       "name": "Nottinghamshire vs Yorkshire, 67th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Yorkshire need 114 runs",
+      "status": "Yorkshire won by 1 wkt",
       "venue": "Trent Bridge, Nottingham",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -408,9 +414,9 @@
           "inning": "Nottinghamshire Inning 2"
         },
         {
-          "r": 44,
-          "w": 0,
-          "o": 9.5,
+          "r": 159,
+          "w": 9,
+          "o": 52.5,
           "inning": "Yorkshire Inning 2"
         }
       ],
@@ -419,13 +425,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "68e5d7d2-06ce-41b5-be0c-4f25240eade9",
       "name": "Warwickshire vs Leicestershire, 66th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Lunch Break - Leicestershire trail by 80 runs",
+      "status": "Warwickshire won by an innings and 79 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -459,9 +465,9 @@
           "inning": "Warwickshire,Leicestershire Inning 1"
         },
         {
-          "r": 167,
-          "w": 9,
-          "o": 55,
+          "r": 168,
+          "w": 10,
+          "o": 56.1,
           "inning": "leicestershire Inning 2"
         }
       ],
@@ -470,7 +476,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
