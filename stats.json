@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-27T07:53:02.673Z",
+  "lastUpdated": "2026-09-27T13:21:55.280Z",
   "recentMatches": [
     {
       "id": "726b37d0-a008-4eea-8dd2-4ac77687e870",
       "name": "Lancashire vs Durham, 56th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Lancashire trail by 226 runs",
+      "status": "Day 4: 2nd Session - Lancashire trail by 111 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -33,9 +33,9 @@
           "inning": "durham Inning 1"
         },
         {
-          "r": 267,
-          "w": 5,
-          "o": 113,
+          "r": 382,
+          "w": 6,
+          "o": 146,
           "inning": "Lancashire,Durham Inning 1"
         }
       ],
@@ -221,7 +221,7 @@
       "id": "d6eeb24a-9697-4cee-af76-74cc35313a5e",
       "name": "Somerset vs Surrey, 70th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Somerset lead by 269 runs",
+      "status": "Day 4: Rain stops play - Surrey trail by 256 runs",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -249,10 +249,16 @@
           "inning": "surrey Inning 1"
         },
         {
-          "r": 691,
-          "w": 8,
-          "o": 164,
+          "r": 731,
+          "w": 10,
+          "o": 171.1,
           "inning": "Somerset,Surrey Inning 1"
+        },
+        {
+          "r": 53,
+          "w": 3,
+          "o": 23.2,
+          "inning": "surrey Inning 2"
         }
       ],
       "series_id": "fc9cfc65-4ff6-47c4-baa2-05cc39830e5a",
@@ -266,7 +272,7 @@
       "id": "d23e3f6f-9277-49f1-807a-1af881ce6804",
       "name": "Glamorgan vs Essex, 69th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - Essex trail by 45 runs",
+      "status": "Match drawn",
       "venue": "Sophia Gardens, Cardiff",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -300,9 +306,9 @@
           "inning": "Essex Inning 1"
         },
         {
-          "r": 331,
-          "w": 5,
-          "o": 82,
+          "r": 351,
+          "w": 6,
+          "o": 85.3,
           "inning": "Glamorgan Inning 2"
         }
       ],
@@ -311,7 +317,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4a12d26d-beeb-4c4f-ac0f-5425c3228b6c",
@@ -477,6 +483,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "90ae280c-cb10-4d58-9bcc-ec95294819e6",
+      "name": "India vs West Indies, 1st ODI, West Indies tour of India, 2026",
+      "matchType": "odi",
+      "status": "India need 265 runs",
+      "venue": "Greenfield International Stadium, Thiruvananthapuram",
+      "date": "2026-09-27",
+      "dateTimeGMT": "2026-09-27T08:30:00",
+      "teams": [
+        "India",
+        "West Indies"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 295,
+          "w": 7,
+          "o": 50,
+          "inning": "West Indies Inning 1"
+        },
+        {
+          "r": 31,
+          "w": 0,
+          "o": 5.3,
+          "inning": "India Inning 1"
+        }
+      ],
+      "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
