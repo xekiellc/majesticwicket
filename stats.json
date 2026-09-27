@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-27T13:21:55.280Z",
+  "lastUpdated": "2026-09-27T18:11:41.708Z",
   "recentMatches": [
     {
       "id": "726b37d0-a008-4eea-8dd2-4ac77687e870",
       "name": "Lancashire vs Durham, 56th Match, County Championship Division Two 2026",
       "matchType": "test",
-      "status": "Day 4: 2nd Session - Lancashire trail by 111 runs",
+      "status": "Match drawn",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -33,9 +33,9 @@
           "inning": "durham Inning 1"
         },
         {
-          "r": 382,
+          "r": 397,
           "w": 6,
-          "o": 146,
+          "o": 151,
           "inning": "Lancashire,Durham Inning 1"
         }
       ],
@@ -44,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6a321f9b-f99c-44c3-a162-4296466fcf29",
@@ -221,7 +221,7 @@
       "id": "d6eeb24a-9697-4cee-af76-74cc35313a5e",
       "name": "Somerset vs Surrey, 70th Match, County Championship Division One 2026",
       "matchType": "test",
-      "status": "Day 4: Rain stops play - Surrey trail by 256 runs",
+      "status": "Match drawn",
       "venue": "The Cooper Associates County Ground, Taunton",
       "date": "2026-09-24",
       "dateTimeGMT": "2026-09-24T10:00:00",
@@ -255,9 +255,9 @@
           "inning": "Somerset,Surrey Inning 1"
         },
         {
-          "r": 53,
-          "w": 3,
-          "o": 23.2,
+          "r": 127,
+          "w": 5,
+          "o": 54,
           "inning": "surrey Inning 2"
         }
       ],
@@ -488,7 +488,7 @@
       "id": "90ae280c-cb10-4d58-9bcc-ec95294819e6",
       "name": "India vs West Indies, 1st ODI, West Indies tour of India, 2026",
       "matchType": "odi",
-      "status": "India need 265 runs",
+      "status": "India won by 8 wkts",
       "venue": "Greenfield International Stadium, Thiruvananthapuram",
       "date": "2026-09-27",
       "dateTimeGMT": "2026-09-27T08:30:00",
@@ -516,9 +516,9 @@
           "inning": "West Indies Inning 1"
         },
         {
-          "r": 31,
-          "w": 0,
-          "o": 5.3,
+          "r": 300,
+          "w": 2,
+          "o": 41.4,
           "inning": "India Inning 1"
         }
       ],
@@ -527,7 +527,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
