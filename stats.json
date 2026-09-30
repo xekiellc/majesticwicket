@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-30T08:14:06.093Z",
+  "lastUpdated": "2026-09-30T14:19:06.719Z",
   "recentMatches": [
     {
       "id": "56d07759-19dd-4a8c-a3d5-58bfd6a142a1",
       "name": "India vs West Indies, 2nd ODI, West Indies tour of India, 2026",
       "matchType": "odi",
-      "status": "India opt to bowl",
+      "status": "India need 285 runs",
       "venue": "Barsapara Cricket Stadium, Guwahati",
       "date": "2026-09-30",
       "dateTimeGMT": "2026-09-30T08:30:00",
@@ -25,12 +25,25 @@
           "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
         }
       ],
-      "score": [],
+      "score": [
+        {
+          "r": 405,
+          "w": 7,
+          "o": 50,
+          "inning": "West Indies Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 0,
+          "o": 14,
+          "inning": "India Inning 1"
+        }
+      ],
       "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
