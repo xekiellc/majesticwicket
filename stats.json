@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T08:37:06.110Z",
+  "lastUpdated": "2026-10-01T19:21:52.265Z",
   "recentMatches": [
     {
       "id": "56d07759-19dd-4a8c-a3d5-58bfd6a142a1",
@@ -36,51 +36,6 @@
           "r": 406,
           "w": 2,
           "o": 43.3,
-          "inning": "India Inning 1"
-        }
-      ],
-      "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "90ae280c-cb10-4d58-9bcc-ec95294819e6",
-      "name": "India vs West Indies, 1st ODI, West Indies tour of India, 2026",
-      "matchType": "odi",
-      "status": "India won by 8 wkts",
-      "venue": "Greenfield International Stadium, Thiruvananthapuram",
-      "date": "2026-09-27",
-      "dateTimeGMT": "2026-09-27T08:30:00",
-      "teams": [
-        "India",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 295,
-          "w": 7,
-          "o": 50,
-          "inning": "West Indies Inning 1"
-        },
-        {
-          "r": 300,
-          "w": 2,
-          "o": 41.4,
           "inning": "India Inning 1"
         }
       ],
