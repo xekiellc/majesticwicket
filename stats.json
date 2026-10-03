@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-10-02T19:05:05.115Z",
+  "lastUpdated": "2026-10-03T12:47:33.736Z",
   "recentMatches": [
+    {
+      "id": "da91f633-acac-4449-86f8-9bff6244053f",
+      "name": "India vs West Indies, 3rd ODI, West Indies tour of India, 2026",
+      "matchType": "odi",
+      "status": "Innings Break",
+      "venue": "PCA International Cricket Stadium, Ground A, New Chandigarh",
+      "date": "2026-10-03",
+      "dateTimeGMT": "2026-10-03T08:30:00",
+      "teams": [
+        "India",
+        "West Indies"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 351,
+          "w": 7,
+          "o": 50,
+          "inning": "india Inning 1"
+        }
+      ],
+      "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "56d07759-19dd-4a8c-a3d5-58bfd6a142a1",
       "name": "India vs West Indies, 2nd ODI, West Indies tour of India, 2026",
