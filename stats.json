@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-10-04T13:31:04.274Z",
+  "lastUpdated": "2026-10-04T18:03:32.679Z",
   "recentMatches": [
     {
-      "id": "c8a907b7-c13e-489a-8110-92aea30a6691",
-      "name": "Afghanistan vs Nepal, 4th Match, Group A, Asian Games 2026",
-      "status": "Nepal won by 5 wkts",
-      "venue": "Korogi Sports Park, Nisshin",
-      "date": "2026-09-25",
-      "dateTimeGMT": "2026-09-25T00:00:00",
+      "id": "fe5c54b9-3935-4989-ae64-467f36db1317",
+      "name": "Northern Cape vs Limpopo, 4th Match, CSA Three-Day Series Division Two 2026-27",
+      "status": "Match drawn",
+      "venue": "Diamond Oval, Kimberley",
+      "date": "2026-09-17",
+      "dateTimeGMT": "2026-09-17T00:00:00",
       "teams": [
-        "Afghanistan",
-        "Nepal"
+        "Northern Cape",
+        "Limpopo"
       ],
       "teamInfo": [
         {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          "name": "Limpopo",
+          "shortname": "LIMPO",
+          "img": "https://g.cricapi.com/iapi/42-637991993542281273.webp?w=48"
         },
         {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+          "name": "Northern Cape",
+          "shortname": "NCAPE",
+          "img": "https://g.cricapi.com/iapi/61-637991981464151764.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 102,
+          "r": 356,
           "w": 7,
-          "o": 20,
-          "inning": "afghanistan Inning 1"
+          "o": 96.5,
+          "inning": "northern cape Inning 1"
         },
         {
-          "r": 103,
-          "w": 5,
-          "o": 17.2,
-          "inning": "Afghanistan,Nepal Inning 1"
+          "r": 7,
+          "w": 0,
+          "o": 2,
+          "inning": "Northern Cape,Limpopo Inning 1"
         }
       ],
-      "series_id": "1877f2ac-bfd1-4cad-b4d2-e1f66760e4e7",
+      "series_id": "a276e556-845d-4c43-8351-1af035d3db64",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -46,99 +46,15 @@
       "matchEnded": true
     },
     {
-      "id": "ce65d9bc-8580-4946-a95e-ec0bf6f6496f",
-      "name": "Nigeria vs Ghana, 1st Match, Quadrangular T20I Series in Nigeria, 2026",
-      "matchType": "t20",
-      "status": "Nigeria won by 8 wkts",
-      "venue": "Tafawa Balewa Square Cricket Oval, Lagos",
-      "date": "2026-09-21",
-      "dateTimeGMT": "2026-09-21T00:00:00",
+      "id": "c6afe73b-c05a-4ba8-8d1b-b37d5d8e6b2a",
+      "name": "Eastern Storm vs Border, 5th Match, CSA Three-Day Series Division Two 2026-27",
+      "status": "Match drawn",
+      "venue": "Willowmoore Park, Benoni",
+      "date": "2026-09-17",
+      "dateTimeGMT": "2026-09-17T00:00:00",
       "teams": [
-        "Nigeria",
-        "Ghana"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ghana",
-          "shortname": "GHA",
-          "img": "https://g.cricapi.com/iapi/607-637869112521081863.webp?w=48"
-        },
-        {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 91,
-          "w": 9,
-          "o": 20,
-          "inning": "ghana Inning 1"
-        },
-        {
-          "r": 95,
-          "w": 2,
-          "o": 13,
-          "inning": "Nigeria,Ghana Inning 1"
-        }
-      ],
-      "series_id": "c1447761-1361-426a-8735-d7adaa73f407",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68df4ab7-6200-4d47-9472-88e3130ef179",
-      "name": "Hong Kong, China vs Oman, 3rd Match, Group B, Asian Games 2026",
-      "status": "Hong Kong, China won by 41 runs",
-      "venue": "Korogi Sports Park, Nisshin",
-      "date": "2026-09-25",
-      "dateTimeGMT": "2026-09-25T00:00:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 8,
-          "o": 20,
-          "inning": "hong kong, china Inning 1"
-        },
-        {
-          "r": 80,
-          "w": 6,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "1877f2ac-bfd1-4cad-b4d2-e1f66760e4e7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "38eb5d5a-556c-4d2d-8b39-6257f6e03593",
-      "name": "Border vs North West",
-      "matchType": "t20",
-      "status": "Border won by 13 runs",
-      "venue": "Buffalo Park, East London",
-      "date": "2026-09-28",
-      "dateTimeGMT": "2026-09-28T00:00:00",
-      "teams": [
-        "Border",
-        "North West - Eastvaal Renault Dragons"
+        "Eastern Storm",
+        "Border"
       ],
       "teamInfo": [
         {
@@ -147,346 +63,48 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "North West - Eastvaal Renault Dragons",
-          "shortname": "ERD",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Eastern Storm",
+          "shortname": "ESTORM",
+          "img": "https://g.cricapi.com/iapi/22-637992689531725146.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 151,
+          "r": 233,
+          "w": 10,
+          "o": 79.3,
+          "inning": "eastern storm Inning 1"
+        },
+        {
+          "r": 277,
+          "w": 10,
+          "o": 113.5,
+          "inning": "Eastern Storm,Border Inning 1"
+        },
+        {
+          "r": 141,
           "w": 4,
-          "o": 20,
-          "inning": "Border Inning 1"
-        },
-        {
-          "r": 138,
-          "w": 9,
-          "o": 20,
-          "inning": "North West - Eastvaal Renault Dragons Inning 1"
+          "o": 56,
+          "inning": "eastern storm Inning 2"
         }
       ],
-      "series_id": "3010394d-4de6-4843-8782-f41ecadf17b7",
-      "fantasyEnabled": true,
+      "series_id": "a276e556-845d-4c43-8351-1af035d3db64",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "7f964f31-6ed0-4c96-b51b-d1b6415a3149",
-      "name": "Czech Republic Women vs Portugal Women, 6th Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 6 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Portugal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Czech Republic Women",
-          "shortname": "CZW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Portugal Women",
-          "shortname": "PGW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 10,
-          "o": 19.2,
-          "inning": "Portugal Women Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 4,
-          "o": 20,
-          "inning": "Czech Republic Women Inning 1"
-        }
-      ],
-      "series_id": "14a45e57-63bf-4ca1-841c-f240f85ad631",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d57608c4-3f83-42d4-8d00-373b2af41217",
-      "name": "Hong Kong, China vs Malaysia, 2nd Match, Group B, Asian Games 2026",
-      "status": "Malaysia won by 8 wkts",
-      "venue": "Korogi Sports Park, Nisshin",
-      "date": "2026-09-24",
-      "dateTimeGMT": "2026-09-24T00:00:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 81,
-          "w": 9,
-          "o": 20,
-          "inning": "hong kong, china Inning 1"
-        },
-        {
-          "r": 84,
-          "w": 2,
-          "o": 12,
-          "inning": "Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "1877f2ac-bfd1-4cad-b4d2-e1f66760e4e7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8e6f9a7b-778e-4949-9a86-b6cbd4c7bad5",
-      "name": "Bathinda Royals vs Amritsar Soormas, 10th Match, Sher-E-Punjab T20 League, 2026",
-      "matchType": "t20",
-      "status": "Bathinda Royals won by 8 wkt (Match reduced to 11 overs DLS method Target 107)",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Bathinda Royals",
-        "Amritsar Soormas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Amritsar Soormas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Bathinda Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 105,
-          "w": 7,
-          "o": 11,
-          "inning": "Amritsar Soormas Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 2,
-          "o": 7.5,
-          "inning": "Bathinda Royals Inning 1"
-        }
-      ],
-      "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4f388911-230a-4b7a-8e7f-4b5ea938730e",
-      "name": "Western Province vs Knights, Pool B, CSA T20 Challenge 2026",
-      "matchType": "t20",
-      "status": "Western Province won by 5 wkts",
-      "venue": "Newlands, Cape Town",
-      "date": "2026-09-27",
-      "dateTimeGMT": "2026-09-27T00:00:00",
-      "teams": [
-        "Western Province",
-        "Knights"
-      ],
-      "teamInfo": [
-        {
-          "name": "Knights",
-          "shortname": "KNG",
-          "img": "https://g.cricapi.com/iapi/40-637992688759741358.webp?w=48"
-        },
-        {
-          "name": "Western Province",
-          "shortname": "WPR",
-          "img": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 168,
-          "w": 7,
-          "o": 20,
-          "inning": "Knights Inning 1"
-        },
-        {
-          "r": 169,
-          "w": 5,
-          "o": 19.4,
-          "inning": "Western Province Inning 1"
-        }
-      ],
-      "series_id": "3010394d-4de6-4843-8782-f41ecadf17b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8f903b0b-c9b5-4508-846f-6bfa18222ffa",
-      "name": "Czech Republic Women vs Belgium Women, 5th Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 10 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Belgium Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Czech Republic Women",
-          "shortname": "CZW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 52,
-          "w": 10,
-          "o": 13.2,
-          "inning": "belgium women Inning 1"
-        },
-        {
-          "r": 56,
-          "w": 0,
-          "o": 5.3,
-          "inning": "Czech Republic Women,Belgium Women Inning 1"
-        }
-      ],
-      "series_id": "14a45e57-63bf-4ca1-841c-f240f85ad631",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8837ae46-bb56-4b8c-850a-8d58e903a424",
-      "name": "Japan vs Afghanistan, 1st Match, Group A, Asian Games 2026",
-      "status": "Afghanistan won by 48 runs",
-      "venue": "Korogi Sports Park, Nisshin",
-      "date": "2026-09-24",
-      "dateTimeGMT": "2026-09-24T00:00:00",
-      "teams": [
-        "Japan",
-        "Afghanistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Japan",
-          "shortname": "JPN",
-          "img": "https://g.cricapi.com/iapi/618-637928917609353191.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 6,
-          "o": 20,
-          "inning": "Afghanistan Inning 1"
-        },
-        {
-          "r": 81,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Japan Inning 1"
-        }
-      ],
-      "series_id": "1877f2ac-bfd1-4cad-b4d2-e1f66760e4e7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2887aa02-22a9-4896-a8ab-864b722371cc",
-      "name": "Fazilka Falcons vs Mohali Kings, 9th Match, Sher-E-Punjab T20 League, 2026",
-      "matchType": "t20",
-      "status": "Mohali Kings won by 40 runs",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-03",
-      "dateTimeGMT": "2026-09-03T00:00:00",
-      "teams": [
-        "Fazilka Falcons",
-        "Mohali Kings"
-      ],
-      "teamInfo": [
-        {
-          "name": "Fazilka Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mohali Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 230,
-          "w": 3,
-          "o": 20,
-          "inning": "Mohali Kings Inning 1"
-        },
-        {
-          "r": 190,
-          "w": 9,
-          "o": 20,
-          "inning": "Fazilka Falcons Inning 1"
-        }
-      ],
-      "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "88424a44-601e-4f5c-a111-8d84930b2423",
-      "name": "Mpumalanga Rhinos vs Titans, Pool B, CSA T20 Challenge 2026",
-      "matchType": "t20",
-      "status": "Titans won by 9 wkts  -  6 over game due to rain",
+      "id": "dfb3a649-8bae-4117-bb1b-579ae933dd3c",
+      "name": "Mpumalanga Rhinos vs South Western Districts, 6th Match, CSA Three-Day Series Division Two 2026-27",
+      "status": "Match drawn",
       "venue": "Uplands College, White River, Mpumalanga",
-      "date": "2026-09-27",
-      "dateTimeGMT": "2026-09-27T00:00:00",
+      "date": "2026-09-17",
+      "dateTimeGMT": "2026-09-17T00:00:00",
       "teams": [
         "Mpumalanga Rhinos",
-        "Titans"
+        "South Western Districts"
       ],
       "teamInfo": [
         {
@@ -495,71 +113,69 @@
           "img": "https://g.cricapi.com/iapi/49-637991993271802283.webp?w=48"
         },
         {
-          "name": "Titans",
-          "shortname": "TITNS",
-          "img": "https://g.cricapi.com/iapi/89-637987557693726758.webp?w=48"
+          "name": "South Western Districts",
+          "shortname": "SWD",
+          "img": "https://g.cricapi.com/iapi/85-637993498736049006.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 75,
-          "w": 2,
-          "o": 6,
-          "inning": "mpumalanga rhinos Inning 1"
+          "r": 220,
+          "w": 9,
+          "o": 70.1,
+          "inning": "Mpumalanga Rhinos Inning 1"
         },
         {
-          "r": 79,
-          "w": 1,
-          "o": 5,
-          "inning": "Mpumalanga Rhinos,Titans Inning 1"
+          "r": 39,
+          "w": 0,
+          "o": 8.1,
+          "inning": "South Western Districts Inning 1"
         }
       ],
-      "series_id": "3010394d-4de6-4843-8782-f41ecadf17b7",
-      "fantasyEnabled": true,
+      "series_id": "a276e556-845d-4c43-8351-1af035d3db64",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "08b0337d-1046-43fb-b141-386b17f7b621",
-      "name": "Belgium Women vs Portugal Women, 4th Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Portugal Women won by 7 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
+      "id": "54e951d9-6292-4402-b646-a9b60e4e9f97",
+      "name": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers, 3rd Match, CSA Three-Day Series Division Two 2026-27",
+      "status": "Match drawn",
+      "venue": "Uplands College, White River, Mpumalanga",
+      "date": "2026-09-10",
+      "dateTimeGMT": "2026-09-10T00:00:00",
       "teams": [
-        "Belgium Women",
-        "Portugal Women"
+        "Mpumalanga Rhinos",
+        "KwaZulu-Natal Inland Tuskers"
       ],
       "teamInfo": [
         {
-          "name": "Belgium Women",
-          "shortname": "BW",
+          "name": "KwaZulu-Natal Inland Tuskers",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Portugal Women",
-          "shortname": "PGW",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "Mpumalanga Rhinos",
+          "shortname": "MPR",
+          "img": "https://g.cricapi.com/iapi/49-637991993271802283.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 141,
-          "w": 6,
-          "o": 20,
-          "inning": "belgium women Inning 1"
+          "r": 416,
+          "w": 3,
+          "o": 133.5,
+          "inning": "mpumalanga rhinos Inning 1"
         },
         {
-          "r": 145,
-          "w": 3,
-          "o": 19,
-          "inning": "Belgium Women,Portugal Women Inning 1"
+          "r": 655,
+          "w": 5,
+          "o": 129.5,
+          "inning": "Mpumalanga Rhinos,KwaZulu-Natal Inland Tuskers Inning 1"
         }
       ],
-      "series_id": "14a45e57-63bf-4ca1-841c-f240f85ad631",
+      "series_id": "a276e556-845d-4c43-8351-1af035d3db64",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -567,39 +183,807 @@
       "matchEnded": true
     },
     {
-      "id": "2a621922-4f8d-4f13-8e67-594dc7f4a144",
-      "name": "Bathinda Royals vs Jalandhar Warriors, 8th Match, Sher-E-Punjab T20 League, 2026",
-      "matchType": "t20",
-      "status": "Jalandhar Warriors won by 3 runs",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-03",
-      "dateTimeGMT": "2026-09-03T00:00:00",
+      "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
+      "name": "Cricket South Africa Invitation XI vs Australia, 2 Days Warm-Up Match, Australia tour of South Africa, 2026",
+      "status": "Match drawn",
+      "venue": "Senwes Park, Potchefstroom",
+      "date": "2026-10-03",
+      "dateTimeGMT": "2026-10-03T00:00:00",
       "teams": [
-        "Bathinda Royals",
+        "Cricket South Africa Invitation XI",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Cricket South Africa Invitation XI",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 318,
+          "w": 7,
+          "o": 90,
+          "inning": "Cricket South Africa Invitation XI Inning 1"
+        },
+        {
+          "r": 368,
+          "w": 5,
+          "o": 74,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1aeec7ca-446c-4ef8-9472-b7b3877159d5",
+      "name": "Limpopo vs Border, 2nd Match, CSA Three-Day Series Division Two 2026-27",
+      "status": "Match drawn",
+      "venue": "Polokwane Cricket Club, Polokwane",
+      "date": "2026-09-10",
+      "dateTimeGMT": "2026-09-10T00:00:00",
+      "teams": [
+        "Limpopo",
+        "Border"
+      ],
+      "teamInfo": [
+        {
+          "name": "Border",
+          "shortname": "BR",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Limpopo",
+          "shortname": "LIMPO",
+          "img": "https://g.cricapi.com/iapi/42-637991993542281273.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 207,
+          "w": 10,
+          "o": 76.4,
+          "inning": "border Inning 1"
+        },
+        {
+          "r": 233,
+          "w": 10,
+          "o": 83,
+          "inning": "Limpopo,Border Inning 1"
+        },
+        {
+          "r": 234,
+          "w": 10,
+          "o": 83,
+          "inning": "border Inning 2"
+        },
+        {
+          "r": 170,
+          "w": 4,
+          "o": 23,
+          "inning": "Limpopo,Border Inning 2"
+        }
+      ],
+      "series_id": "a276e556-845d-4c43-8351-1af035d3db64",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "81705c0b-e7e8-412b-a2bc-97c5b8fc93c3",
+      "name": "South Africa vs Australia, 3rd ODI, Australia tour of South Africa, 2026",
+      "status": "Australia won by 45 runs (DLS Method due to rain)",
+      "venue": "Senwes Park, Potchefstroom",
+      "date": "2026-09-30",
+      "dateTimeGMT": "2026-09-30T00:00:00",
+      "teams": [
+        "South Africa",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 322,
+          "w": 9,
+          "o": 50,
+          "inning": "Australia Inning 1"
+        },
+        {
+          "r": 145,
+          "w": 4,
+          "o": 28,
+          "inning": "South Africa Inning 1"
+        }
+      ],
+      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dc73fd42-6d17-4e15-a1ee-df0810d839ad",
+      "name": "Eastern Storm vs South Western Districts, 1st Match, CSA Three-Day Series Division Two 2026-27",
+      "status": "Match drawn",
+      "venue": "Willowmoore Park, Benoni",
+      "date": "2026-09-10",
+      "dateTimeGMT": "2026-09-10T00:00:00",
+      "teams": [
+        "Eastern Storm",
+        "South Western Districts"
+      ],
+      "teamInfo": [
+        {
+          "name": "Eastern Storm",
+          "shortname": "ESTORM",
+          "img": "https://g.cricapi.com/iapi/22-637992689531725146.webp?w=48"
+        },
+        {
+          "name": "South Western Districts",
+          "shortname": "SWD",
+          "img": "https://g.cricapi.com/iapi/85-637993498736049006.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 460,
+          "w": 10,
+          "o": 117,
+          "inning": "South Western Districts Inning 1"
+        },
+        {
+          "r": 316,
+          "w": 7,
+          "o": 70.3,
+          "inning": "Eastern Storm Inning 1"
+        }
+      ],
+      "series_id": "a276e556-845d-4c43-8351-1af035d3db64",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "580c9421-fc69-4e36-89c3-34395ecb6e70",
+      "name": "South Africa vs Australia, 2nd ODI, Australia tour of South Africa, 2026",
+      "status": "South Africa won by 32 runs",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "date": "2026-09-27",
+      "dateTimeGMT": "2026-09-27T00:00:00",
+      "teams": [
+        "South Africa",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 365,
+          "w": 9,
+          "o": 50,
+          "inning": "South Africa Inning 1"
+        },
+        {
+          "r": 333,
+          "w": 10,
+          "o": 49.5,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f3451545-863c-4330-8901-556df932122a",
+      "name": "South Africa vs Australia, 1st ODI, Australia tour of South Africa, 2026",
+      "status": "South Africa won by 67 runs",
+      "venue": "Kingsmead, Durban",
+      "date": "2026-09-24",
+      "dateTimeGMT": "2026-09-24T00:00:00",
+      "teams": [
+        "South Africa",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 297,
+          "w": 8,
+          "o": 50,
+          "inning": "South Africa Inning 1"
+        },
+        {
+          "r": 230,
+          "w": 10,
+          "o": 41.2,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "66438075-4d59-44d4-868a-7e4457e213db",
+      "name": "Namibia vs South Africa, 3rd ODI, South Africa tour of Namibia, 2026",
+      "matchType": "odi",
+      "status": "South Africa won by 9 wkts",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-09-13",
+      "dateTimeGMT": "2026-09-13T00:00:00",
+      "teams": [
+        "Namibia",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 156,
+          "w": 10,
+          "o": 36.2,
+          "inning": "namibia Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 1,
+          "o": 21.3,
+          "inning": "Namibia,South Africa Inning 1"
+        }
+      ],
+      "series_id": "365e0a9d-6027-43cb-8139-21d9473c18aa",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2795064b-5e62-4e8e-8d55-cfe21af5cf52",
+      "name": "Namibia vs South Africa, 2nd ODI, South Africa tour of Namibia, 2026",
+      "matchType": "odi",
+      "status": "South Africa won by 157 runs",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-09-11",
+      "dateTimeGMT": "2026-09-11T00:00:00",
+      "teams": [
+        "Namibia",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 335,
+          "w": 9,
+          "o": 50,
+          "inning": "South Africa Inning 1"
+        },
+        {
+          "r": 178,
+          "w": 10,
+          "o": 41.5,
+          "inning": "Namibia Inning 1"
+        }
+      ],
+      "series_id": "365e0a9d-6027-43cb-8139-21d9473c18aa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9996f464-aea5-463b-8a5a-97bed887e8d3",
+      "name": "Namibia vs South Africa, 1st ODI, South Africa tour of Namibia, 2026",
+      "matchType": "odi",
+      "status": "South Africa won by 99 runs (DLS Method)",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-09-09",
+      "dateTimeGMT": "2026-09-09T00:00:00",
+      "teams": [
+        "Namibia",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 348,
+          "w": 6,
+          "o": 50,
+          "inning": "South Africa Inning 1"
+        },
+        {
+          "r": 162,
+          "w": 8,
+          "o": 31,
+          "inning": "Namibia Inning 1"
+        }
+      ],
+      "series_id": "365e0a9d-6027-43cb-8139-21d9473c18aa",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e4c90dc0-53fd-461a-a3e9-6ebb7e3bcc23",
+      "name": "India Women vs Sri Lanka Women, Final, Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "India Women won by 72 runs",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-13",
+      "dateTimeGMT": "2026-09-13T00:00:00",
+      "teams": [
+        "India Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 5,
+          "o": 20,
+          "inning": "india women Inning 1"
+        },
+        {
+          "r": 111,
+          "w": 10,
+          "o": 20,
+          "inning": "India Women,Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "269b724b-5992-4647-8d1b-41b5baf8dca1",
+      "name": "Sri Lanka Women vs Pakistan Women, Semi Final 2 (B1 v A2), Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 4 wkts",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-11",
+      "dateTimeGMT": "2026-09-11T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Pakistan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 130,
+          "w": 5,
+          "o": 20,
+          "inning": "Pakistan Women Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 6,
+          "o": 18.4,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "17f82cc5-f9f6-4c8a-ab78-927fdb831ee2",
+      "name": "India Women vs Bangladesh Women, Semi Final 1 (A1 v B2), Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "India Women won by 40 runs",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-10",
+      "dateTimeGMT": "2026-09-10T00:00:00",
+      "teams": [
+        "India Women",
+        "Bangladesh Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 149,
+          "w": 6,
+          "o": 20,
+          "inning": "India Women Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 7,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8583eec9-b43f-41fc-8eac-826c575b2e30",
+      "name": "Bangladesh Women vs United Arab Emirates Women, Match 12, Group B, Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "Bangladesh Women won by 34 runs",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-08",
+      "dateTimeGMT": "2026-09-08T00:00:00",
+      "teams": [
+        "Bangladesh Women",
+        "United Arab Emirates Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 7,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 69,
+          "w": 9,
+          "o": 20,
+          "inning": "United Arab Emirates Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "10f6f211-e597-4dd7-8b78-0e094e09c988",
+      "name": "Pakistan Women vs Hong Kong, China Women, Match 11, Group A, Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women won by 72 runs",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-07",
+      "dateTimeGMT": "2026-09-07T00:00:00",
+      "teams": [
+        "Pakistan Women",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 8,
+          "o": 20,
+          "inning": "pakistan women Inning 1"
+        },
+        {
+          "r": 71,
+          "w": 10,
+          "o": 19,
+          "inning": "Pakistan Women,Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "aac67956-0ecd-4fe4-bb0d-0b520c4641da",
+      "name": "Sri Lanka Women vs Bangladesh Women, Match 10, Group B, Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 4 wkts",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-06",
+      "dateTimeGMT": "2026-09-06T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Bangladesh Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 8,
+          "o": 20,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 6,
+          "o": 19.2,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "06fabcba-88d1-4fc2-a54d-00372d94d5fc",
+      "name": "Amritsar Soormas vs Ludhiana Lions, Final, Sher-E-Punjab T20 League, 2026",
+      "matchType": "t20",
+      "status": "Amritsar Soormas won by 8 wkts",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2026-09-13",
+      "dateTimeGMT": "2026-09-13T00:00:00",
+      "teams": [
+        "Amritsar Soormas",
+        "Ludhiana Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Amritsar Soormas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Ludhiana Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 10,
+          "o": 20,
+          "inning": "Ludhiana Lions Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 2,
+          "o": 16.4,
+          "inning": "Amritsar Soormas Inning 1"
+        }
+      ],
+      "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b4f72629-55b8-4934-ae7e-e2b2fc3c80a0",
+      "name": "India Women vs Pakistan Women, Match 9, Group A, Womens Asia Cup 2026",
+      "matchType": "t20",
+      "status": "India Women won by 7 wkts",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-05",
+      "dateTimeGMT": "2026-09-05T00:00:00",
+      "teams": [
+        "India Women",
+        "Pakistan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 55,
+          "w": 10,
+          "o": 18.1,
+          "inning": "pakistan women Inning 1"
+        },
+        {
+          "r": 57,
+          "w": 3,
+          "o": 8.4,
+          "inning": "India Women,Pakistan Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "876adcd0-5a39-437c-8719-59e9b7796247",
+      "name": "Ludhiana Lions vs Jalandhar Warriors, Semi Final 2, Sher-E-Punjab T20 League, 2026",
+      "matchType": "t20",
+      "status": "Ludhiana Lions won by 17 runs",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2026-09-12",
+      "dateTimeGMT": "2026-09-12T00:00:00",
+      "teams": [
+        "Ludhiana Lions",
         "Jalandhar Warriors"
       ],
       "teamInfo": [
         {
-          "name": "Bathinda Royals",
+          "name": "Jalandhar Warriors",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Jalandhar Warriors",
+          "name": "Ludhiana Lions",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 205,
-          "w": 10,
-          "o": 19.3,
-          "inning": "Jalandhar Warriors Inning 1"
+          "r": 220,
+          "w": 5,
+          "o": 20,
+          "inning": "Ludhiana Lions Inning 1"
         },
         {
-          "r": 202,
-          "w": 7,
+          "r": 203,
+          "w": 8,
           "o": 20,
-          "inning": "Bathinda Royals Inning 1"
+          "inning": "Jalandhar Warriors Inning 1"
         }
       ],
       "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
@@ -610,198 +994,20 @@
       "matchEnded": true
     },
     {
-      "id": "573337bf-8a4e-473a-9211-648e2837de73",
-      "name": "Dolphins vs Lions, Pool A, CSA T20 Challenge 2026",
-      "matchType": "t20",
-      "status": "Lions won by 8 runs",
-      "venue": "Kingsmead, Durban",
-      "date": "2026-09-27",
-      "dateTimeGMT": "2026-09-27T00:00:00",
-      "teams": [
-        "Dolphins",
-        "Lions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Dolphins",
-          "shortname": "DOL",
-          "img": "https://g.cricapi.com/iapi/20-637993514627926036.webp?w=48"
-        },
-        {
-          "name": "Lions",
-          "shortname": "LIONS",
-          "img": "https://g.cricapi.com/iapi/43-638016114998237773.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 202,
-          "w": 4,
-          "o": 20,
-          "inning": "lions Inning 1"
-        },
-        {
-          "r": 194,
-          "w": 6,
-          "o": 20,
-          "inning": "Dolphins,Lions Inning 1"
-        }
-      ],
-      "series_id": "3010394d-4de6-4843-8782-f41ecadf17b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9e9da6ec-ace1-405d-beab-372e19a76f1b",
-      "name": "Czech Republic Women vs Belgium Women, 3rd Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 48 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Belgium Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Czech Republic Women",
-          "shortname": "CZW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 7,
-          "o": 20,
-          "inning": "Czech Republic Women Inning 1"
-        },
-        {
-          "r": 92,
-          "w": 9,
-          "o": 20,
-          "inning": "Belgium Women Inning 1"
-        }
-      ],
-      "series_id": "14a45e57-63bf-4ca1-841c-f240f85ad631",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "74f06983-3b9f-4142-b64c-775f89079673",
-      "name": "Fazilka Falcons vs Amritsar Soormas, 7th Match, Sher-E-Punjab T20 League, 2026",
+      "id": "7bbf1c89-f3ff-43e9-9d61-90952bd3d691",
+      "name": "Mohali Kings vs Amritsar Soormas, Semi Final 1, Sher-E-Punjab T20 League, 2026",
       "matchType": "t20",
       "status": "Amritsar Soormas won by 7 wkts",
       "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-02",
-      "dateTimeGMT": "2026-09-02T00:00:00",
+      "date": "2026-09-12",
+      "dateTimeGMT": "2026-09-12T00:00:00",
       "teams": [
-        "Fazilka Falcons",
+        "Mohali Kings",
         "Amritsar Soormas"
       ],
       "teamInfo": [
         {
           "name": "Amritsar Soormas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Fazilka Falcons",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 182,
-          "w": 9,
-          "o": 20,
-          "inning": "Fazilka Falcons Inning 1"
-        },
-        {
-          "r": 186,
-          "w": 3,
-          "o": 17.3,
-          "inning": "Amritsar Soormas Inning 1"
-        }
-      ],
-      "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9ddee369-9d16-4230-a0a1-96d5034f66e3",
-      "name": "Czech Republic Women vs Portugal Women, 2nd Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 7 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Portugal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Czech Republic Women",
-          "shortname": "CZW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Portugal Women",
-          "shortname": "PGW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 86,
-          "w": 10,
-          "o": 13.2,
-          "inning": "Portugal Women Inning 1"
-        },
-        {
-          "r": 87,
-          "w": 3,
-          "o": 12.5,
-          "inning": "Czech Republic Women Inning 1"
-        }
-      ],
-      "series_id": "14a45e57-63bf-4ca1-841c-f240f85ad631",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e2711ae8-94af-4f0c-b93f-76e0f463129e",
-      "name": "Mohali Kings vs Ludhiana Lions, 6th Match, Sher-E-Punjab T20 League, 2026",
-      "matchType": "t20",
-      "status": "Ludhiana Lions won by 7 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-02",
-      "dateTimeGMT": "2026-09-02T00:00:00",
-      "teams": [
-        "Mohali Kings",
-        "Ludhiana Lions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ludhiana Lions",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
@@ -810,238 +1016,17 @@
         }
       ],
       "score": [
-        {
-          "r": 101,
-          "w": 10,
-          "o": 17.2,
-          "inning": "Mohali Kings Inning 1"
-        },
-        {
-          "r": 106,
-          "w": 3,
-          "o": 8.3,
-          "inning": "Ludhiana Lions Inning 1"
-        }
-      ],
-      "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e52f6a14-7dee-4506-b14e-a121e3d8c427",
-      "name": "Titans vs Western Province, Pool B, CSA T20 Challenge 2026",
-      "matchType": "t20",
-      "status": "Titans won by 5 wkts",
-      "venue": "SuperSport Park, Centurion",
-      "date": "2026-09-25",
-      "dateTimeGMT": "2026-09-25T00:00:00",
-      "teams": [
-        "Titans",
-        "Western Province"
-      ],
-      "teamInfo": [
-        {
-          "name": "Titans",
-          "shortname": "TITNS",
-          "img": "https://g.cricapi.com/iapi/89-637987557693726758.webp?w=48"
-        },
-        {
-          "name": "Western Province",
-          "shortname": "WPR",
-          "img": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 186,
-          "w": 4,
-          "o": 20,
-          "inning": "Western Province Inning 1"
-        },
-        {
-          "r": 190,
-          "w": 5,
-          "o": 14.5,
-          "inning": "Titans Inning 1"
-        }
-      ],
-      "series_id": "3010394d-4de6-4843-8782-f41ecadf17b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b02737a5-bcae-4a46-9f03-215111d29cec",
-      "name": "Belgium Women vs Portugal Women, 1st Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Portugal Women won by 52 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Belgium Women",
-        "Portugal Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Belgium Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Portugal Women",
-          "shortname": "PGW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 157,
-          "w": 4,
-          "o": 20,
-          "inning": "Portugal Women Inning 1"
-        },
-        {
-          "r": 105,
-          "w": 4,
-          "o": 20,
-          "inning": "Belgium Women Inning 1"
-        }
-      ],
-      "series_id": "14a45e57-63bf-4ca1-841c-f240f85ad631",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "dcc559a7-a9d0-4f5a-ba55-ac550a368482",
-      "name": "Jalandhar Warriors vs Amritsar Soormas, 5th Match, Sher-E-Punjab T20 League, 2026",
-      "matchType": "t20",
-      "status": "Jalandhar Warriors won by 8 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-01",
-      "dateTimeGMT": "2026-09-01T00:00:00",
-      "teams": [
-        "Jalandhar Warriors",
-        "Amritsar Soormas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Amritsar Soormas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Jalandhar Warriors",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 264,
-          "w": 5,
-          "o": 20,
-          "inning": "Amritsar Soormas Inning 1"
-        },
-        {
-          "r": 265,
-          "w": 2,
-          "o": 16.5,
-          "inning": "Jalandhar Warriors Inning 1"
-        }
-      ],
-      "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6d438bcd-72cc-4c79-afe9-26f10951d576",
-      "name": "Warriors vs North West",
-      "matchType": "t20",
-      "status": "North West  -  Eastvaal Renault Dragons won by 7 wkts",
-      "venue": "SuperSport Park, Centurion",
-      "date": "2026-09-25",
-      "dateTimeGMT": "2026-09-25T00:00:00",
-      "teams": [
-        "Warriors",
-        "North West - Eastvaal Renault Dragons"
-      ],
-      "teamInfo": [
-        {
-          "name": "North West - Eastvaal Renault Dragons",
-          "shortname": "ERD",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Warriors",
-          "shortname": "WAR",
-          "img": "https://g.cricapi.com/iapi/98-637987556857963180.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 128,
-          "w": 6,
-          "o": 20,
-          "inning": "Warriors Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 3,
-          "o": 15.3,
-          "inning": "North West - Eastvaal Renault Dragons Inning 1"
-        }
-      ],
-      "series_id": "3010394d-4de6-4843-8782-f41ecadf17b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ffffa603-788a-49dc-9735-299849c339e9",
-      "name": "Bathinda Royals vs Ludhiana Lions, 4th Match, Sher-E-Punjab T20 League, 2026",
-      "matchType": "t20",
-      "status": "Ludhiana Lions won by 3 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-01",
-      "dateTimeGMT": "2026-09-01T00:00:00",
-      "teams": [
-        "Bathinda Royals",
-        "Ludhiana Lions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bathinda Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Ludhiana Lions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 10,
-          "o": 19,
-          "inning": "Bathinda Royals Inning 1"
-        },
         {
           "r": 169,
           "w": 7,
-          "o": 18.4,
-          "inning": "Ludhiana Lions Inning 1"
+          "o": 20,
+          "inning": "Mohali Kings Inning 1"
+        },
+        {
+          "r": 172,
+          "w": 3,
+          "o": 16.3,
+          "inning": "Amritsar Soormas Inning 1"
         }
       ],
       "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
@@ -1052,43 +1037,88 @@
       "matchEnded": true
     },
     {
-      "id": "b3880a1e-9be2-4789-a4f4-0d68ebba957a",
-      "name": "Mohali Kings vs Bathinda Royals, 3rd Match, Sher-E-Punjab T20 League, 2026",
+      "id": "1a4bb73e-629a-48db-b5c9-9c09e0a16129",
+      "name": "United Arab Emirates Women vs Indonesia Women, Match 8, Group B, Womens Asia Cup 2026",
       "matchType": "t20",
-      "status": "Bathinda Royals won by 7 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-08-31",
-      "dateTimeGMT": "2026-08-31T00:00:00",
+      "status": "United Arab Emirates Women won by 6 wkts",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "date": "2026-09-04",
+      "dateTimeGMT": "2026-09-04T00:00:00",
       "teams": [
-        "Mohali Kings",
-        "Bathinda Royals"
+        "United Arab Emirates Women",
+        "Indonesia Women"
       ],
       "teamInfo": [
         {
-          "name": "Bathinda Royals",
+          "name": "Indonesia Women",
+          "shortname": "INA-W",
+          "img": "https://g.cricapi.com/iapi/2874-638040163945402807.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates Women",
+          "shortname": "UAEW",
+          "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 71,
+          "w": 10,
+          "o": 19.4,
+          "inning": "Indonesia Women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 4,
+          "o": 13.1,
+          "inning": "United Arab Emirates Women Inning 1"
+        }
+      ],
+      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2db707fb-8613-45a9-b42e-37ebdd748a8b",
+      "name": "Amritsar Soormas vs Ludhiana Lions, 24th Match, Sher-E-Punjab T20 League, 2026",
+      "matchType": "t20",
+      "status": "Ludhiana Lions won by 5 wkts",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2026-09-11",
+      "dateTimeGMT": "2026-09-11T00:00:00",
+      "teams": [
+        "Amritsar Soormas",
+        "Ludhiana Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Amritsar Soormas",
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Mohali Kings",
+          "name": "Ludhiana Lions",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 176,
+          "r": 177,
           "w": 9,
           "o": 20,
-          "inning": "Mohali Kings Inning 1"
+          "inning": "Amritsar Soormas Inning 1"
         },
         {
-          "r": 180,
-          "w": 3,
-          "o": 17.2,
-          "inning": "Bathinda Royals Inning 1"
+          "r": 178,
+          "w": 5,
+          "o": 18.3,
+          "inning": "Ludhiana Lions Inning 1"
         }
       ],
       "series_id": "67ed625f-0cf8-4130-aabd-f8283fe23b92",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
