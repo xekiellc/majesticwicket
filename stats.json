@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-10-04T22:53:32.888Z",
+  "lastUpdated": "2026-10-05T08:43:11.183Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
-      "name": "Oops! Something went wrong.",
-      "status": "",
-      "venue": "",
+      "name": "Cricket South Africa Invitation XI vs Australia, 2 Days Warm-Up Match, Australia tour of South Africa, 2026",
+      "status": "Match drawn",
+      "venue": "Senwes Park, Potchefstroom",
       "date": "2026-10-03",
       "dateTimeGMT": "2026-10-03T00:00:00",
       "teams": [
-        "Oops! Something went wrong."
+        "Cricket South Africa Invitation XI",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Cricket South Africa Invitation XI",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
       ],
       "score": [
         {
@@ -22,7 +34,7 @@
           "r": 368,
           "w": 5,
           "o": 74,
-          "inning": "Oops! Something went wrong. Inning 1"
+          "inning": "Australia Inning 1"
         }
       ],
       "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
@@ -123,15 +135,66 @@
       "matchEnded": true
     },
     {
+      "id": "055a0f85-0cc8-4deb-a9f7-7884e6c537e9",
+      "name": "India U19 vs Australia U19, 2nd unofficial Test, Australia U19 tour of India 2026",
+      "status": "Day 1: 2nd Session - India U19 opt to bowl",
+      "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
+      "date": "2026-10-05",
+      "dateTimeGMT": "2026-10-05T04:00:00",
+      "teams": [
+        "India U19",
+        "Australia U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia U19",
+          "shortname": "AU",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 6,
+          "o": 58.5,
+          "inning": "Australia U19 Inning 1"
+        }
+      ],
+      "series_id": "2c08c573-88b9-4c19-bf2d-45efabdaec56",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "2566be70-33cd-42a7-85b7-02694e0754e9",
-      "name": "Oops! Something went wrong.",
+      "name": "Jammu and Kashmir vs Rest of India, Irani Cup, Irani Cup 2026",
       "matchType": "test",
-      "status": "",
-      "venue": "",
+      "status": "Rest of India won by 167 runs",
+      "venue": "Sher-i-Kashmir Stadium, Srinagar",
       "date": "2026-10-01",
       "dateTimeGMT": "2026-10-01T00:00:00",
       "teams": [
-        "Oops! Something went wrong."
+        "Jammu and Kashmir",
+        "Rest of India"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jammu and Kashmir",
+          "shortname": "JK",
+          "img": "https://g.cricapi.com/iapi/35-637897795101008676.png?w=48"
+        },
+        {
+          "name": "Rest of India",
+          "shortname": "ROI",
+          "img": "https://g.cricapi.com/iapi/2523-638153739017313813.png?w=48"
+        }
       ],
       "score": [
         {
@@ -144,7 +207,7 @@
           "r": 278,
           "w": 10,
           "o": 64.2,
-          "inning": "Oops! Something went wrong. Inning 1"
+          "inning": "Jammu and Kashmir Inning 1"
         },
         {
           "r": 319,
@@ -156,7 +219,7 @@
           "r": 111,
           "w": 10,
           "o": 28.4,
-          "inning": "Oops! Something went wrong. Inning 2"
+          "inning": "Jammu and Kashmir Inning 2"
         }
       ],
       "series_id": "fa12505e-e088-4d4f-b087-2f290ba25e40",
@@ -168,14 +231,27 @@
     },
     {
       "id": "e0230ea8-d9c8-4109-bc7c-ba74b6652a63",
-      "name": "Oops! Something went wrong.",
+      "name": "Malaysia Women vs Samoa Women, 1st Match, Malaysia Womens T20I Tri-Series 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Malaysia Women won by 8 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
       "date": "2026-10-03",
       "dateTimeGMT": "2026-10-03T00:00:00",
       "teams": [
-        "Oops! Something went wrong."
+        "Malaysia Women",
+        "Samoa Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia Women",
+          "shortname": "ML-W",
+          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
+        },
+        {
+          "name": "Samoa Women",
+          "shortname": "SAMWN",
+          "img": "https://g.cricapi.com/iapi/2550-638004821886874966.png?w=48"
+        }
       ],
       "score": [
         {
@@ -188,13 +264,148 @@
           "r": 95,
           "w": 2,
           "o": 16.4,
-          "inning": "Oops! Something went wrong. Inning 1"
+          "inning": "Malaysia Women Inning 1"
         }
       ],
       "series_id": "31a62a32-3501-4a53-8a0b-d083a5135410",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b2f6d99e-9c3a-4a99-8a3f-c7b166b27f88",
+      "name": "Kuwait vs Qatar, 3rd Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Qatar need 142 runs in 84 balls",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-05",
+      "dateTimeGMT": "2026-10-05T06:00:00",
+      "teams": [
+        "Kuwait",
+        "Qatar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 199,
+          "w": 7,
+          "o": 20,
+          "inning": "Kuwait Inning 1"
+        },
+        {
+          "r": 58,
+          "w": 1,
+          "o": 6,
+          "inning": "Qatar Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "611950b4-b02b-496f-be67-8134b73533a8",
+      "name": "Bahrain vs Thailand, 2nd Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bahrain won by 7 runs",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-05",
+      "dateTimeGMT": "2026-10-05T01:15:00",
+      "teams": [
+        "Bahrain",
+        "Thailand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain",
+          "shortname": "BHR",
+          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 6,
+          "o": 20,
+          "inning": "Bahrain Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 8,
+          "o": 20,
+          "inning": "Thailand Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f7d2bef8-87e1-422f-b446-e27eeab1baf9",
+      "name": "Bhutan vs Myanmar, 1st Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bhutan won by 27 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-05",
+      "dateTimeGMT": "2026-10-05T01:15:00",
+      "teams": [
+        "Bhutan",
+        "Myanmar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan",
+          "shortname": "BHU",
+          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
+        },
+        {
+          "name": "Myanmar",
+          "shortname": "MYAN",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 8,
+          "o": 20,
+          "inning": "bhutan Inning 1"
+        },
+        {
+          "r": 92,
+          "w": 9,
+          "o": 20,
+          "inning": "Bhutan,Myanmar Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
