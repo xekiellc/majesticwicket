@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:43:11.183Z",
+  "lastUpdated": "2026-10-05T16:29:41.372Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
@@ -137,7 +137,7 @@
     {
       "id": "055a0f85-0cc8-4deb-a9f7-7884e6c537e9",
       "name": "India U19 vs Australia U19, 2nd unofficial Test, Australia U19 tour of India 2026",
-      "status": "Day 1: 2nd Session - India U19 opt to bowl",
+      "status": "Day 1: Stumps - India U19 trail by 136 runs",
       "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
       "date": "2026-10-05",
       "dateTimeGMT": "2026-10-05T04:00:00",
@@ -159,10 +159,16 @@
       ],
       "score": [
         {
-          "r": 127,
-          "w": 6,
-          "o": 58.5,
+          "r": 174,
+          "w": 10,
+          "o": 73,
           "inning": "Australia U19 Inning 1"
+        },
+        {
+          "r": 38,
+          "w": 2,
+          "o": 15,
+          "inning": "India U19 Inning 1"
         }
       ],
       "series_id": "2c08c573-88b9-4c19-bf2d-45efabdaec56",
@@ -278,7 +284,7 @@
       "id": "b2f6d99e-9c3a-4a99-8a3f-c7b166b27f88",
       "name": "Kuwait vs Qatar, 3rd Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Qatar need 142 runs in 84 balls",
+      "status": "Kuwait won by 58 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-10-05",
       "dateTimeGMT": "2026-10-05T06:00:00",
@@ -306,9 +312,9 @@
           "inning": "Kuwait Inning 1"
         },
         {
-          "r": 58,
-          "w": 1,
-          "o": 6,
+          "r": 141,
+          "w": 8,
+          "o": 20,
           "inning": "Qatar Inning 1"
         }
       ],
@@ -317,7 +323,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "611950b4-b02b-496f-be67-8134b73533a8",
