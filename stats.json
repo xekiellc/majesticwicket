@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T08:46:52.289Z",
+  "lastUpdated": "2026-10-06T14:32:32.879Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
@@ -137,7 +137,7 @@
     {
       "id": "055a0f85-0cc8-4deb-a9f7-7884e6c537e9",
       "name": "India U19 vs Australia U19, 2nd unofficial Test, Australia U19 tour of India 2026",
-      "status": "Day 2: 2nd Session - India U19 lead by 113 runs",
+      "status": "Day 2: Stumps - Australia U19 trail by 55 runs",
       "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
       "date": "2026-10-05",
       "dateTimeGMT": "2026-10-05T04:00:00",
@@ -165,10 +165,16 @@
           "inning": "Australia U19 Inning 1"
         },
         {
-          "r": 287,
-          "w": 9,
-          "o": 73,
+          "r": 315,
+          "w": 10,
+          "o": 78.4,
           "inning": "India U19 Inning 1"
+        },
+        {
+          "r": 86,
+          "w": 4,
+          "o": 26,
+          "inning": "Australia U19 Inning 2"
         }
       ],
       "series_id": "2c08c573-88b9-4c19-bf2d-45efabdaec56",
@@ -181,7 +187,7 @@
     {
       "id": "99b12355-2d86-490e-ae12-1e1079c3db36",
       "name": "India A vs Australia A, 1st unofficial ODI, Australia A tour of India 2026",
-      "status": "Australia A opt to bat",
+      "status": "India A need 166 runs",
       "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
       "date": "2026-10-06",
       "dateTimeGMT": "2026-10-06T08:30:00",
@@ -203,10 +209,16 @@
       ],
       "score": [
         {
-          "r": 29,
-          "w": 1,
-          "o": 2.5,
+          "r": 274,
+          "w": 10,
+          "o": 48.2,
           "inning": "australia a Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 5,
+          "o": 22.3,
+          "inning": "India A,Australia A Inning 1"
         }
       ],
       "series_id": "1db21cd4-5fe2-4a93-a67f-d6d4e65b2ca3",
@@ -265,7 +277,7 @@
       "id": "ab266c2d-8bb1-4439-9cd0-b6a3d5d38ceb",
       "name": "Bahrain vs Bhutan, 5th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Bhutan need 87 runs in 36 balls",
+      "status": "Bahrain won by 66 runs",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-10-06",
       "dateTimeGMT": "2026-10-06T06:00:00",
@@ -293,9 +305,9 @@
           "inning": "bahrain Inning 1"
         },
         {
-          "r": 53,
-          "w": 6,
-          "o": 14,
+          "r": 73,
+          "w": 10,
+          "o": 18.4,
           "inning": "Bahrain,Bhutan Inning 1"
         }
       ],
@@ -304,7 +316,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "2ecaf0d6-33fb-44c2-92e4-66f6b7a08d86",
@@ -530,6 +542,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "0643db2e-fd71-41d6-bad1-df3513607f3f",
+      "name": "India vs West Indies, 1st T20I, West Indies tour of India, 2026",
+      "matchType": "odi",
+      "status": "India opt to bowl",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2026-10-06",
+      "dateTimeGMT": "2026-10-06T13:30:00",
+      "teams": [
+        "India",
+        "West Indies"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 107,
+          "w": 4,
+          "o": 11.4,
+          "inning": "West Indies Inning 1"
+        }
+      ],
+      "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "da91f633-acac-4449-86f8-9bff6244053f",
