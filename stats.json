@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T16:29:41.372Z",
+  "lastUpdated": "2026-10-06T01:12:49.289Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
@@ -177,63 +177,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "2566be70-33cd-42a7-85b7-02694e0754e9",
-      "name": "Jammu and Kashmir vs Rest of India, Irani Cup, Irani Cup 2026",
-      "matchType": "test",
-      "status": "Rest of India won by 167 runs",
-      "venue": "Sher-i-Kashmir Stadium, Srinagar",
-      "date": "2026-10-01",
-      "dateTimeGMT": "2026-10-01T00:00:00",
-      "teams": [
-        "Jammu and Kashmir",
-        "Rest of India"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jammu and Kashmir",
-          "shortname": "JK",
-          "img": "https://g.cricapi.com/iapi/35-637897795101008676.png?w=48"
-        },
-        {
-          "name": "Rest of India",
-          "shortname": "ROI",
-          "img": "https://g.cricapi.com/iapi/2523-638153739017313813.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 237,
-          "w": 10,
-          "o": 68.1,
-          "inning": "Rest of India Inning 1"
-        },
-        {
-          "r": 278,
-          "w": 10,
-          "o": 64.2,
-          "inning": "Jammu and Kashmir Inning 1"
-        },
-        {
-          "r": 319,
-          "w": 10,
-          "o": 99.5,
-          "inning": "Rest of India Inning 2"
-        },
-        {
-          "r": 111,
-          "w": 10,
-          "o": 28.4,
-          "inning": "Jammu and Kashmir Inning 2"
-        }
-      ],
-      "series_id": "fa12505e-e088-4d4f-b087-2f290ba25e40",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     },
     {
       "id": "e0230ea8-d9c8-4109-bc7c-ba74b6652a63",
