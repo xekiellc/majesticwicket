@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T01:12:49.289Z",
+  "lastUpdated": "2026-10-06T08:46:52.289Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
@@ -137,7 +137,7 @@
     {
       "id": "055a0f85-0cc8-4deb-a9f7-7884e6c537e9",
       "name": "India U19 vs Australia U19, 2nd unofficial Test, Australia U19 tour of India 2026",
-      "status": "Day 1: Stumps - India U19 trail by 136 runs",
+      "status": "Day 2: 2nd Session - India U19 lead by 113 runs",
       "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
       "date": "2026-10-05",
       "dateTimeGMT": "2026-10-05T04:00:00",
@@ -165,13 +165,51 @@
           "inning": "Australia U19 Inning 1"
         },
         {
-          "r": 38,
-          "w": 2,
-          "o": 15,
+          "r": 287,
+          "w": 9,
+          "o": 73,
           "inning": "India U19 Inning 1"
         }
       ],
       "series_id": "2c08c573-88b9-4c19-bf2d-45efabdaec56",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "99b12355-2d86-490e-ae12-1e1079c3db36",
+      "name": "India A vs Australia A, 1st unofficial ODI, Australia A tour of India 2026",
+      "status": "Australia A opt to bat",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
+      "date": "2026-10-06",
+      "dateTimeGMT": "2026-10-06T08:30:00",
+      "teams": [
+        "India A",
+        "Australia A"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia A",
+          "shortname": "AUSA",
+          "img": "https://g.cricapi.com/iapi/1429-637926307133296133.webp?w=48"
+        },
+        {
+          "name": "India A",
+          "shortname": "INA",
+          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 29,
+          "w": 1,
+          "o": 2.5,
+          "inning": "australia a Inning 1"
+        }
+      ],
+      "series_id": "1db21cd4-5fe2-4a93-a67f-d6d4e65b2ca3",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -220,6 +258,141 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ab266c2d-8bb1-4439-9cd0-b6a3d5d38ceb",
+      "name": "Bahrain vs Bhutan, 5th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bhutan need 87 runs in 36 balls",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-06",
+      "dateTimeGMT": "2026-10-06T06:00:00",
+      "teams": [
+        "Bahrain",
+        "Bhutan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain",
+          "shortname": "BHR",
+          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
+        },
+        {
+          "name": "Bhutan",
+          "shortname": "BHU",
+          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 139,
+          "w": 5,
+          "o": 20,
+          "inning": "bahrain Inning 1"
+        },
+        {
+          "r": 53,
+          "w": 6,
+          "o": 14,
+          "inning": "Bahrain,Bhutan Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "2ecaf0d6-33fb-44c2-92e4-66f6b7a08d86",
+      "name": "Kuwait vs Mongolia, 6th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Kuwait won by 10 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-06",
+      "dateTimeGMT": "2026-10-06T06:00:00",
+      "teams": [
+        "Kuwait",
+        "Mongolia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Mongolia",
+          "shortname": "MN",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 42,
+          "w": 10,
+          "o": 14.5,
+          "inning": "Mongolia Inning 1"
+        },
+        {
+          "r": 43,
+          "w": 0,
+          "o": 3.3,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "12c2ca23-f69b-4854-a5fd-60a592c72384",
+      "name": "Qatar vs Thailand, 4th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Qatar won by 7 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-06",
+      "dateTimeGMT": "2026-10-06T01:15:00",
+      "teams": [
+        "Qatar",
+        "Thailand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 76,
+          "w": 9,
+          "o": 20,
+          "inning": "Thailand Inning 1"
+        },
+        {
+          "r": 80,
+          "w": 3,
+          "o": 12.3,
+          "inning": "Qatar Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
