@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T14:32:32.879Z",
+  "lastUpdated": "2026-10-06T19:22:36.393Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
@@ -187,7 +187,7 @@
     {
       "id": "99b12355-2d86-490e-ae12-1e1079c3db36",
       "name": "India A vs Australia A, 1st unofficial ODI, Australia A tour of India 2026",
-      "status": "India A need 166 runs",
+      "status": "Australia A won by 125 runs",
       "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
       "date": "2026-10-06",
       "dateTimeGMT": "2026-10-06T08:30:00",
@@ -215,9 +215,9 @@
           "inning": "australia a Inning 1"
         },
         {
-          "r": 109,
-          "w": 5,
-          "o": 22.3,
+          "r": 149,
+          "w": 10,
+          "o": 31.4,
           "inning": "India A,Australia A Inning 1"
         }
       ],
@@ -226,7 +226,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e0230ea8-d9c8-4109-bc7c-ba74b6652a63",
@@ -547,7 +547,7 @@
       "id": "0643db2e-fd71-41d6-bad1-df3513607f3f",
       "name": "India vs West Indies, 1st T20I, West Indies tour of India, 2026",
       "matchType": "odi",
-      "status": "India opt to bowl",
+      "status": "India won by 8 wkts",
       "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
       "date": "2026-10-06",
       "dateTimeGMT": "2026-10-06T13:30:00",
@@ -569,10 +569,16 @@
       ],
       "score": [
         {
-          "r": 107,
-          "w": 4,
-          "o": 11.4,
+          "r": 171,
+          "w": 10,
+          "o": 19.1,
           "inning": "West Indies Inning 1"
+        },
+        {
+          "r": 172,
+          "w": 2,
+          "o": 14.4,
+          "inning": "India Inning 1"
         }
       ],
       "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
@@ -580,7 +586,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "da91f633-acac-4449-86f8-9bff6244053f",
