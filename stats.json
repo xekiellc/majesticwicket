@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T19:22:36.393Z",
+  "lastUpdated": "2026-10-07T08:23:37.522Z",
   "recentMatches": [
     {
       "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
@@ -137,7 +137,7 @@
     {
       "id": "055a0f85-0cc8-4deb-a9f7-7884e6c537e9",
       "name": "India U19 vs Australia U19, 2nd unofficial Test, Australia U19 tour of India 2026",
-      "status": "Day 2: Stumps - Australia U19 trail by 55 runs",
+      "status": "India U19 won by 10 wkts",
       "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
       "date": "2026-10-05",
       "dateTimeGMT": "2026-10-05T04:00:00",
@@ -171,10 +171,16 @@
           "inning": "India U19 Inning 1"
         },
         {
-          "r": 86,
-          "w": 4,
-          "o": 26,
+          "r": 151,
+          "w": 10,
+          "o": 43.5,
           "inning": "Australia U19 Inning 2"
+        },
+        {
+          "r": 11,
+          "w": 0,
+          "o": 0.5,
+          "inning": "India U19 Inning 2"
         }
       ],
       "series_id": "2c08c573-88b9-4c19-bf2d-45efabdaec56",
@@ -182,7 +188,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "99b12355-2d86-490e-ae12-1e1079c3db36",
@@ -542,6 +548,51 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "956f3a64-cc60-437f-a96d-20f68f72874f",
+      "name": "Victoria vs South Australia, 1st Match, Sheffield Shield 2026-27",
+      "matchType": "test",
+      "status": "Day 1: Stumps - South Australia trail by 240 runs",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-10-07",
+      "dateTimeGMT": "2026-10-07T23:30:00",
+      "teams": [
+        "Victoria",
+        "South Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "South Australia",
+          "shortname": "SAUS",
+          "img": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=48"
+        },
+        {
+          "name": "Victoria",
+          "shortname": "VIC",
+          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 244,
+          "w": 10,
+          "o": 84.3,
+          "inning": "Victoria Inning 1"
+        },
+        {
+          "r": 4,
+          "w": 1,
+          "o": 8,
+          "inning": "South Australia Inning 1"
+        }
+      ],
+      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
     },
     {
       "id": "0643db2e-fd71-41d6-bad1-df3513607f3f",
