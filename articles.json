@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-10-07T14:49:04.634Z",
+  "lastUpdated": "2026-10-07T19:49:38.604Z",
   "articles": [
+    {
+      "title": "SA20 auction: JSK sign Pollard, Rowles; MICT pick Hetmyer and Boult",
+      "url": "https://www.cricinfo.com/ci/content/story/1557573.html?ex_cid=OTC-RSS",
+      "description": "Jason Rowles, an 18-year-old allrounder, commanded a bid of R 2.9 million from JSK, who also picked up Faf du Plessis",
+      "publishedAt": "2026-10-07T19:22:26.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "BJ Watling appointed New Zealand men's batting coach",
+      "url": "https://www.cricinfo.com/ci/content/story/1557511.html?ex_cid=OTC-RSS",
+      "description": "Watling will take over from Luke Ronchi following the conclusion of New Zealand's Test series against India in December",
+      "publishedAt": "2026-10-07T17:37:51.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Rabada puts himself through the paces as South Africa weigh Test return",
+      "url": "https://www.cricinfo.com/ci/content/story/1557510.html?ex_cid=OTC-RSS",
+      "description": "Two days ahead of the first Test against Australia, Rabada initially bowled off two paces and then moved to nine, and looked relaxed throughout.",
+      "publishedAt": "2026-10-07T16:33:49.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "ECB hints at NOC u-turn even as APL doubts emerge",
       "url": "https://www.cricinfo.com/ci/content/story/1557504.html?ex_cid=OTC-RSS",
@@ -72,32 +102,62 @@
       "urlToImage": null
     },
     {
-      "title": "Hoekstra stars on debut as Test hopefuls miss chance with the bat",
-      "url": "https://www.cricinfo.com/ci/content/story/1557396.html?ex_cid=OTC-RSS",
-      "description": "Hoekstra made 45 with the bat from No.9 to rescue Victoria and help them post 244 against SA before knocking over Weatherald for a duck",
-      "publishedAt": "2026-10-07T08:06:06.000Z",
+      "title": "BJ Watling confirmed as New Zealand batting coach, replacing Luke Ronchi",
+      "url": "https://www.crictracker.com/cricket-news/bj-watling-confirmed-as-new-zealand-batting-coach-replacing-luke-ronchi-1410/",
+      "description": "Watling joins the Black Caps support staff on November 16 for a transition period before taking full charge ahead of the Australia Test series.",
+      "publishedAt": "2026-10-07T16:35:55.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Baloda takes 14 to script three-day win for India U-19 over Australia U-19",
-      "url": "https://www.cricinfo.com/ci/content/story/1557391.html?ex_cid=OTC-RSS",
-      "description": "Tanmay Baloda picked up eight wickets in the second Australia Under-19 innings to set up a target of just 11, which India Under-19 knocked off in just five balls",
-      "publishedAt": "2026-10-07T06:29:19.000Z",
+      "title": "Joburg Super Kings sign Kieron Pollard for R1.5 million at SA20 2027 auction",
+      "url": "https://www.crictracker.com/social-tracker-cricket/joburg-super-kings-sign-kieron-pollard-for-r15-million-at-sa20-2027-auction-7934/",
+      "description": "The West Indian all-rounder was picked up unopposed by the yellow franchise at the SA20 2027 auction held on October 7, 2026.",
+      "publishedAt": "2026-10-07T16:13:09.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Twelve-team WTC close to reality, says CA CEO Greenberg",
-      "url": "https://www.cricinfo.com/ci/content/story/1557378.html?ex_cid=OTC-RSS",
-      "description": "&quot;This whole reciprocal nature is potentially sending some countries broke,&quot; the Cricket Australia CEO says about the future of bilateral cricket",
-      "publishedAt": "2026-10-07T06:12:03.000Z",
+      "title": "NLC grants CSA R65.6 crore for stadium upgrades ahead of 2027 ODI World Cup",
+      "url": "https://www.crictracker.com/cricket-news/nlc-grants-csa-r656-crore-for-stadium-upgrades-ahead-of-2027-odi-world-cup-2020/",
+      "description": "The National Lotteries Commission has allocated R65,645,092.30 to Cricket South Africa for infrastructure improvements across nine venues ahead of the 2027 ODI World Cup.",
+      "publishedAt": "2026-10-07T16:01:54.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Player participation in privatised BBL not guaranteed without financial agreement, warns ACA",
+      "url": "https://www.crictracker.com/cricket-news/player-participation-in-privatised-bbl-not-guaranteed-without-financial-agreement-warns-aca-2139/",
+      "description": "The Australian Cricketers' Association has signalled that players may not take part in a privatised Big Bash League unless a financial agreement with Cricket Australia is reached.",
+      "publishedAt": "2026-10-07T15:42:56.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Abishek Porel named in Bengal squad for Ranji Trophy opener against Delhi",
+      "url": "https://www.crictracker.com/cricket-news/abishek-porel-named-in-bengal-squad-for-ranji-trophy-opener-against-delhi-2135/",
+      "description": "The wicketkeeper-batter has not played competitive cricket since IPL 2026, having been arrested in August in connection with serious allegations.",
+      "publishedAt": "2026-10-07T15:32:35.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'Strong signal Shreyas Iyer is back to his best' - Sunil Gavaskar hails India skipper after maiden T20I ton",
+      "url": "https://www.crictracker.com/cricket-news/strong-signal-shreyas-iyer-is-back-to-his-best-sunil-gavaskar-hails-india-skipper-after-maiden-t20i-ton-0951/",
+      "description": "India captain Shreyas Iyer scored 102 not out off 43 balls in the first T20I against West Indies in Lucknow on October 6, 2026.",
+      "publishedAt": "2026-10-07T15:20:11.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -142,80 +202,70 @@
       "urlToImage": null
     },
     {
-      "title": "Desert Vipers CEO explains why Babar Azam was high on priority list",
-      "url": "https://www.crictracker.com/cricket-news/desert-vipers-ceo-explains-why-babar-azam-was-high-on-priority-list-7043/",
-      "description": "Desert Vipers CEO outlines the reasoning behind the franchise's decision to sign the Pakistan star for the 2026-27 ILT20 season.",
-      "publishedAt": "2026-10-07T13:11:47.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Monty Panesar predicts Virat Kohli won’t retire after 2027 World Cup",
-      "url": "https://www.crictracker.com/cricket-news/monty-panesar-predicts-virat-kohli-wont-retire-after-2027-world-cup-9634/",
-      "description": "The former England spinner praised Kohli's hunger and intensity after the batter reached 15,000 ODI runs.",
-      "publishedAt": "2026-10-07T13:10:19.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "3 Indian cricketers who could benefit from 2026-27 domestic season",
-      "url": "https://www.crictracker.com/cricket-appeal/3-indian-cricketers-who-could-benefit-from-2026-27-domestic-season/",
-      "description": "The Ranji Trophy returns on October 11, 2026, and these three players have strong reasons to make an impression.",
-      "publishedAt": "2026-10-07T12:53:13.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "ICC Anti-Corruption Unit chief warns of ‘grey area’ surrounding legends leagues",
-      "url": "https://www.crictracker.com/cricket-news/icc-anti-corruption-unit-chief-warns-of-grey-area-surrounding-legends-leagues-5542/",
-      "description": "Andrew Ephgrave highlights concerns over unsanctioned retired-player tournaments and their reputational risks to cricket.",
-      "publishedAt": "2026-10-07T12:53:14.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'Conversation with Abhishek Nayar helped a lot' - Shreyas Iyer after maiden T20I century",
-      "url": "https://www.crictracker.com/cricket-news/conversation-with-abhishek-nayar-helped-a-lot-shreyas-iyer-after-maiden-t20i-century-8152/",
-      "description": "India captain Shreyas Iyer scored an unbeaten 102 off 42 balls in a run-chase against West Indies at Lucknow.",
-      "publishedAt": "2026-10-07T12:38:20.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "3 Indian players who could benefit from the next round of squad rotation",
-      "url": "https://www.crictracker.com/cricket-appeal/3-indian-players-who-could-benefit-from-the-next-round-of-squad-rotation-4250/",
-      "description": "With fresh faces earning opportunities across formats, these three cricketers stand to gain from India's ongoing squad rotation policy.",
-      "publishedAt": "2026-10-07T12:30:39.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Who is Premanand Maharaj, and why does Virat Kohli keep visiting him? - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXM5ajFySmUxWHROT0xNcjF6NVZLcFRsZWNBLWg5M0FuTFIwMTg2VnZaMEtPR2szX0lSc0lBWEdva3hVVHBveEpKNkt4WE16RW45a0RRdHp3d0oxX0RTRktBbXkzR2NIVXd6a214cThJUEw0N1FQQ3M2aFA1YWZRZzFhZEdSV3dYNVQ1RVJuYWdDWmlqMVBMdkhhOGFRdnRfN29GSU5MMDRUS1g5M0lVQVZra2bSAccBQVVfeXFMTWZWdG85STdsV0M3YTFwTjlTaDRuRTJ1dDBLMnN4cHZhMVExeGp1YVo0RVVhRlNBcTFiMkNzZmV4Q3BaZkN3ZG8xUVpMTG5tM0ZtUGZVR1VIWlktbUZNZ1JodWNhREU0NlhnS21DZ25NZ0hwTDhHYml5eTJ1eE1aVzY2MmcxWU5vTm9TdEtHRFNLUVM0WnpHdHJ4bXRjOGRQZGp6ZEEyWVBjcE5kSHhBalhTOTF4RUZpOS1jeDBGcEk4QllkWXNyNA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXM5ajFySmUxWHROT0xNcjF6NVZLcFRsZWNBLWg5M0FuTFIwMTg2VnZaMEtPR2szX0lSc0lBWEdva3hVVHBveEpKNkt4WE16RW45a0RRdHp3d0oxX0RTRktBbXkzR2NIVXd6a214cThJUEw0N1FQQ3M2aFA1YWZRZzFhZEdSV3dYNVQ1RVJuYWdDWmlqMVBMdkhhOGFRdnRfN29GSU5MMDRUS1g5M0lVQVZra2bSAccBQV",
-      "publishedAt": "2026-10-07T09:36:31.000Z",
+      "title": "\"Baseless\": Kohli's Team Rejects Claim He Was Paid Rs 5 Crore for Premanand Maharaj's Ashram Visit - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3lqcWhGVFQ4UEVKWFB2MUh2S1BtRVRudnpmZ255LU42Q2JYRG0yNVhDa3IwWUhHQmtWQU42Tm5wQmQ5S0pSUWdOY2kyeUtpZlR2OVhQVEg1dHZIMGQ0MTJhSzQweWg1Q0x5WkpFSThManV5TDhEREdfallFbXlBZVl5dlNmakp0RXlEM0xKX3Jid0IyaXlQSEFIZERyUzdwWktVVFVkal9BeUQtNjFMREVTM2xCdEtTZy1QX0tLWnlzUEtRUmc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3lqcWhGVFQ4UEVKWFB2MUh2S1BtRVRudnpmZ255LU42Q2JYRG0yNVhDa3IwWUhHQmtWQU42Tm5wQmQ5S0pSUWdOY2kyeUtpZlR2OVhQVEg1dHZIMGQ0MTJhSzQweWg1Q0x5WkpFSThManV5TDhEREdfallFbXlBZVl5dlNmakp0RXlEM0xKX3Jid0IyaXlQSEFIZERyUzdwWktVVFVkal9BeUQtNjFMREVTM2xCdEtTZy",
+      "publishedAt": "2026-10-07T09:58:41.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Rohit Sharma and Virat Kohli's playful reunion sets the tone for JioStar’s World Cup 2027 Campaign - MediaNews4U",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2w3dWEtVndydmZRVjk3TXNGVWxtcVBONGp5enhtMGM1TWlpZHA1VmYwelRwczJmNFVsZUFUMG4tbkx2TWtoTk44bFVwM2VzTk4tR2htUGQ3S0tFdnA2NEk3OEhvWGhBRWNfVGJ1OHVPbmVPRzVDejlPcnFmdm5DdjI2UzZncHVSblNBRnRXdGpVcmRpeDNoU0tkUk9XVHdCWWt1dDQ0WFRSYkVBeXpiSE9hX3o5VXJ2VU9icEI2bTVpYlk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2w3dWEtVndydmZRVjk3TXNGVWxtcVBONGp5enhtMGM1TWlpZHA1VmYwelRwczJmNFVsZUFUMG4tbkx2TWtoTk44bFVwM2VzTk4tR2htUGQ3S0tFdnA2NEk3OEhvWGhBRWNfVGJ1OHVPbmVPRzVDejlPcnFmdm5DdjI2UzZncHVSblNBRnRXdGpVcmRpeDNoU0tkUk9XVHdCWWt1dDQ0WFRSYkVBeXpiSE9hX3o5VXJ2VU",
-      "publishedAt": "2026-10-07T11:58:02.000Z",
+      "title": "Virat Kohli Breaks Silence On Claims He Took Rs 5 Crore To Visit Premanand Maharaj's Ashram: 'False, Basele - News18",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbE4xUFFIeE11WmJlZGs3OU9ENHVqZVMtRk53cnJ1aU9oamZET0tfZlNURDJOUU5jN0NGbHFqdU9ZMlZZcG9ENFJ3VkwycndEclJnUFZmYVBoeWtKOVZmWTgxOEwwaUdEek5CWlplUXlFbWFwRy1sYzdpaG9nMmJNSUh5QXFCTVpGaWhjaTJjMnVqTHJXc053QlNQaEVYbTc2Y3NHWjdiRHJ3b29FNWkwc2lsN3FqblNIeFBGMzNpZEVHeUUzS1p0TThoaWZtMWx1OU1ZYzNzWFFDN2RaMGpiNFoyanLSAeoBQVVfeXFMTm1XTTc4d0xfcEM5YWVIY2JZWVVvSS04YkVLcHhlSWVBTTZRZnF1Mk0tTGw0OG5LQkFGbjE0bGl5QjNwMmF0ZjZrYXBxZzJYanZXVF9WY3JaYVJuODlQUm05aHlVLVlUNjU5T3Y4eC1DVjdENmJYWmx3ZUlaUXJWUG81NWN3MVZvUENiN0ZtdzdWejl4ZTVGenQ5S1pUbjdFckpCdm1ITWxwRWd2UTBaOGFUeHdYY2Z0MExLS0JnbW5heUg4d2JmbjZuTVR0SUptVUtrQ2JYa2t5UzNXcmIwSTNHa3BQZWx5NmNB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbE4xUFFIeE11WmJlZGs3OU9ENHVqZVMtRk53cnJ1aU9oamZET0tfZlNURDJOUU5jN0NGbHFqdU9ZMlZZcG9ENFJ3VkwycndEclJnUFZmYVBoeWtKOVZmWTgxOEwwaUdEek5CWlplUXlFbWFwRy1sYzdpaG9nMmJNSUh5QXFCTVpGaWhjaTJjMnVqTHJXc053QlNQaEVYbTc2Y3NHWjdiRHJ3b29FNWkwc2lsN3FqblNIeF",
+      "publishedAt": "2026-10-07T06:34:45.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Virat Kohli Slams Rs 5 Crore Ashram Visit Allegations - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDdHdUVJa3dlOUltelExMXg3aUpKUTNGdzZJQ2tEVk5pMThSSWlDT3gzdFBhMVFVZkdBaVZ4TEhSRjhLLWNCY25mU19uWUU5X0pBZzJOV05oZHQ1Y0owOWlUTDA1UGxUcUZYdzNpNDZ1dkxLcjFYSEhtcTEwX0MwalBSUXowdjhNa3I1ajYyTTVyWHJZclN0akdqOFlVOG5iOFJoMGVHb9IBqgFBVV95cUxOSmJxNjRkcTRFTi1ySEtQZXRDX0ZwRndNQkpBX25qM1ZZYXNtZ1JXcm5vNnVYOWYxaV9WVjZ0NVFCR2FmSWtSek51UE9uem00Qk9yWXRQOGxpZVJib1ZpYktPWTIzZU9ZUWpqYlV2bTBrNHpKdHBPamNVNGd2SzVpTkFZY2FJQ1pNaThWUGw5TmtkLVVPbEswbEIyTkxGSkluTEFxR3A1b1NGQQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDdHdUVJa3dlOUltelExMXg3aUpKUTNGdzZJQ2tEVk5pMThSSWlDT3gzdFBhMVFVZkdBaVZ4TEhSRjhLLWNCY25mU19uWUU5X0pBZzJOV05oZHQ1Y0owOWlUTDA1UGxUcUZYdzNpNDZ1dkxLcjFYSEhtcTEwX0MwalBSUXowdjhNa3I1ajYyTTVyWHJZclN0akdqOFlVOG5iOFJoMGVHb9IBqgFBVV95cUxOSmJxNjRkcT",
+      "publishedAt": "2026-10-07T08:12:47.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "When will Virat Kohli and Rohit Sharma play their next ODI for India? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGVWNUNFR2dpOVVZRUJsZmpyakRTR3FPZE9KU0FwaVFtcHU2OVROVmlTRHgwWERHQUFsay1Qa05BNkVJM1YzSlJhMXZjTWF6NXBsc0lvV19KZGlUdVMtdC1nSUZhTW0tZWNkX1EwMDVWRWtYZGM1ZkYyZ1c0ZjhHaWRib2I?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGVWNUNFR2dpOVVZRUJsZmpyakRTR3FPZE9KU0FwaVFtcHU2OVROVmlTRHgwWERHQUFsay1Qa05BNkVJM1YzSlJhMXZjTWF6NXBsc0lvV19KZGlUdVMtdC1nSUZhTW0tZWNkX1EwMDVWRWtYZGM1ZkYyZ1c0ZjhHaWRib2I?oc=5\" target=\"_blank\">When will Virat Kohli and Rohit Sharma play thei",
+      "publishedAt": "2026-10-04T17:36:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Baseless: Team Virat Kohli denies he took Rs 5 crore to visit Premanand's ashram - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdGF6V2xfZHpwRnBYckxubVlHR3FZTE03eFJraWtYVHI0dUVMNTVSdEQtSGphTGNFRnktcXdyUlRrVTU0b09FODQyR3ljYjFhRFhjbllvaWRNanY0T21ZdmR4cEpSZnVSS05YSVFzQk1NNnkyVE04VjZTcF8xUVFvRnZoZXFXX2FYdDg1eTZvel9CVXRxX0RfUkZGNFlPQUNyN3dtLTNJbGdnaHNycHdwbkhzdkVDV2I1ZjZIVHIyQVNjQnRFV0hkdTFJaklScm9XUGNGX1dLZzg3U0NpNWRRQnB6eW1pWDhWYkdQdjVn0gHzAUFVX3lxTE5NSk9oQklNZHU0RHZkNjZHLUs3NUdzRWM1bHJPZHdubXZxZDBwWVpvQVBpRjVrc3NCdTA1UWVQN2lUa05KckJadzhzeFRIQ050QjFDU05MWjk4Z2dXSzN1dVR5Vy1uVHlybjlFdHl5NjdROEp3S21sSEU3Y1ZPNllpT2dRVldHa3FIdURNVUpRV0RXSXRYeGRFaldURHBJNDdsQWpFWjNxLTJvWFB0VWltbHl0cEhVYzV5QlVFWHFlWm1tTjYzLXhYZ29MNFM5Vk1tVGVQTEIxUU9CZE1UcTFUZFRucHdaTVFYTkE0SGcwUEpRcw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdGF6V2xfZHpwRnBYckxubVlHR3FZTE03eFJraWtYVHI0dUVMNTVSdEQtSGphTGNFRnktcXdyUlRrVTU0b09FODQyR3ljYjFhRFhjbllvaWRNanY0T21ZdmR4cEpSZnVSS05YSVFzQk1NNnkyVE04VjZTcF8xUVFvRnZoZXFXX2FYdDg1eTZvel9CVXRxX0RfUkZGNFlPQUNyN3dtLTNJbGdnaHNycHdwbkhzdkVDV2I1Zj",
+      "publishedAt": "2026-10-07T06:12:05.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Star Pakistan cricketer applauds Virat Kohli and Rohit Sharma for their brilliance vs WI, urges them to... - India.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdndzLXJ2cXJBLTNjRFlfcmNPSzhDdFhsSEZ6QVIyS0hDZ0ZsY2J2SVZ3VDYteEN6V2pIUlYxbzl1NGpJcEt4WHdZZmRBcTBpeVkxV3gzc3JYYzJtYmpUSGxLY3B1OTNOVEVPN3FKRTlaX1ZHVndGZmNGREFCdjBPU19JVHl3YWNNZENQdk1UbmstSkxiOEhiaDNIbVZQUnZVVXhVWkpHVGpWRzZqWmRydVNVY0hXZWROaHo2RVNySG1pUDZNWnhoaHJSSmFBMVNDMWtJUDlOOEM3NDVIZG1XN3NB0gHnAUFVX3lxTFBRYVFLaXhETGZ6QnFpRlJHYWtVSV9EVERPZWNHVlJyalJjc05RR0RGNmwzWWI3NHRPcjlKSGJHdzRWdnpPeUs2aHhGT2J2ZDNGSUxxN0FSekRqdFlJckItZDZpeWV1R3E1T2U5MXFhb1RiZWhfTV9YTUx5YjRJMUtaODJZV0FxR0FaQ29SVkxOMjhHZlhwcjF4bUxWWXRmTzFYdjRqRzJ6b1dzaGlWeUFUZktaQVN5c1JwRkhRUUZIbVNEQ3VWYTB3Y0sxYUl6TjF6RVpxR0NSV203RWNYS2tzUkhINExoMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdndzLXJ2cXJBLTNjRFlfcmNPSzhDdFhsSEZ6QVIyS0hDZ0ZsY2J2SVZ3VDYteEN6V2pIUlYxbzl1NGpJcEt4WHdZZmRBcTBpeVkxV3gzc3JYYzJtYmpUSGxLY3B1OTNOVEVPN3FKRTlaX1ZHVndGZmNGREFCdjBPU19JVHl3YWNNZENQdk1UbmstSkxiOEhiaDNIbVZQUnZVVXhVWkpHVGpWRzZqWmRydVNVY0hXZWROaH",
+      "publishedAt": "2026-10-07T10:54:28.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "‘Anushka was in the stands, Virat Kohli hit 160’: Ravi Shastri recalls their dating days - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaTFnOUFOano4LUs0dUh3eXQ4UHhGcklvRzNsT2NVdDNkU2hsWVk0UldsYjVHb3lITWVNQU9oQnJGR1dPbTY4djZpdmltQUZ4VUEwb3JROW5iVkFUV05OQ2x0UWJRR29PdFhBWE5pYWE0SWFOSEF6cTdpal93MURUZDU1MHJsMjJUaTZocXlESVdaUV85ck9CVm9DOFEyd2tGNUN6QjBfT3kybDVmN2VDUTB1dDhmRVREbmFhUTFXWVhyejAwQTBBcS1BZmRpSWR2VlVkV2JiZ1BFbi16bVNJZzJWeFM1ZVVvcldn0gHyAUFVX3lxTE5WS0poaDRzWmJEUV9Ub0tSV3JmbjRKTU9fRTQtQnViRjcyaDQtYVlnUHcxYkF6ejBQSDlGQmFMSUo0MGZTSTY1RmNBTzVKbU0tRzh3WkJTZnI5SC1KMWNpb0lRdW1lZENodjdmOUtWaEJpQks0YVFxa1NzdDB6RnROeGFYeS13ZXBiOUpJcU9FS0ZZWVhaQnFTeVZlV1lZQnNIMHE3UFBMSGFSNjdjc1c2NXFZWXZfYUwyUXlwTkxWN1A0WGJjc1NHV2g2VFVOb3JoV0E0OUhXVGNPRTNLNHRxQ2xrYjk1Q1dlVzA5OHUzZHJR?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaTFnOUFOano4LUs0dUh3eXQ4UHhGcklvRzNsT2NVdDNkU2hsWVk0UldsYjVHb3lITWVNQU9oQnJGR1dPbTY4djZpdmltQUZ4VUEwb3JROW5iVkFUV05OQ2x0UWJRR29PdFhBWE5pYWE0SWFOSEF6cTdpal93MURUZDU1MHJsMjJUaTZocXlESVdaUV85ck9CVm9DOFEyd2tGNUN6QjBfT3kybDVmN2VDUTB1dDhmRVREbm",
+      "publishedAt": "2026-10-07T09:56:31.000Z",
       "source": {
         "name": "Google News"
       },
@@ -232,70 +282,20 @@
       "urlToImage": null
     },
     {
-      "title": "Ex-England Star Makes Massive Virat Kohli Retirement Prediction: 'He Is Still Very Hungry' - News18",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUJMcVcyTGs4aF9qajFONzVRLUpmRm9BUzVWa2hyUXYza0M2NjBSTVh0cDFuNW5rb096VDczcDJfeFE4cFItWTBCMjRFU2dlX21hS3prWngtcjRPdF93UHVkOHVmQnY3Z05oUzR0RzQtLWFsUDBHOF9TdG11cTZxOTNvQ3lKNms1LXBEOG05ZHVPbWhVZHA5Nks0dEZ0WTVWVmJMZGxVSlQ1MWkyaE1kRkd1SmZZa3ZyZnlHWGF1WTVnQWxRNi11MTNrMERKQ1RhWE5R0gHYAUFVX3lxTE9HQTVvbTdZTmY5LTNXd2VDazcxN1lZX2xqb3I3UVp2ckRNNEJpSmxMNE44VzRlSnBkcTA2dlA0d0h0d1Jzc205akc3ODRMc24wNmRMOTNPWHFXeERsUTJ2WENVMlhfT2pFRFd5OUtxQTg2ckxwQjNTRTN4em5EaW1DNGUwQWNFT1FpTm1NR3ZnUlR0MVV3VFRVMUZiTHVudUtCRjJPM3kxMU51ZnIxLW1IMGRWQm5LZnJxc2pSZ3B1WDJCNlg1VXozYkRpNFBKNXNBbjVuMzN2bw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUJMcVcyTGs4aF9qajFONzVRLUpmRm9BUzVWa2hyUXYza0M2NjBSTVh0cDFuNW5rb096VDczcDJfeFE4cFItWTBCMjRFU2dlX21hS3prWngtcjRPdF93UHVkOHVmQnY3Z05oUzR0RzQtLWFsUDBHOF9TdG11cTZxOTNvQ3lKNms1LXBEOG05ZHVPbWhVZHA5Nks0dEZ0WTVWVmJMZGxVSlQ1MWkyaE1kRkd1SmZZa3ZyZn",
-      "publishedAt": "2026-10-07T13:55:39.000Z",
+      "title": "Virat Kohli Breaks Silence On Rs 5 Crore Claim Over Premanand Maharaj Ashram Visit: 'False, Baseless' - News18",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNWxwOFZGWFV5Nmx6bTBBRVBERTRYUXNSR0p5UDY3aDBIQ0NmS2didlhRSDFvbjVLVG1TX0ZkMHdfV1AtaHFEMDI1ZUhKQmFTN2JPblQ0X0o4NjVZZndUSmhJQkViVmtjYUt1WkNwaXpIbk8teW5UZ0tQdWZhSVR4VGVpelFXYmNYNU0ySjlJSU9MT0ZTVk1Cb2Y5cDJBV0I1NzRRbnZzZGdZTTB4dFE4WDFWcW9ySnNCUUlDbDlUWU5BYW02TVMyQzZWZ1FFOTBsMGJ5R2kzZVdScy13WXl0MGhYS0pZd9IB5gFBVV95cUxNNWxwOFZGWFV5Nmx6bTBBRVBERTRYUXNSR0p5UDY3aDBIQ0NmS2didlhRSDFvbjVLVG1TX0ZkMHdfV1AtaHFEMDI1ZUhKQmFTN2JPblQ0X0o4NjVZZndUSmhJQkViVmtjYUt1WkNwaXpIbk8teW5UZ0tQdWZhSVR4VGVpelFXYmNYNU0ySjlJSU9MT0ZTVk1Cb2Y5cDJBV0I1NzRRbnZzZGdZTTB4dFE4WDFWcW9ySnNCUUlDbDlUWU5BYW02TVMyQzZWZ1FFOTBsMGJ5R2kzZVdScy13WXl0MGhYS0pZdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNWxwOFZGWFV5Nmx6bTBBRVBERTRYUXNSR0p5UDY3aDBIQ0NmS2didlhRSDFvbjVLVG1TX0ZkMHdfV1AtaHFEMDI1ZUhKQmFTN2JPblQ0X0o4NjVZZndUSmhJQkViVmtjYUt1WkNwaXpIbk8teW5UZ0tQdWZhSVR4VGVpelFXYmNYNU0ySjlJSU9MT0ZTVk1Cb2Y5cDJBV0I1NzRRbnZzZGdZTTB4dFE4WDFWcW9ySnNCUU",
+      "publishedAt": "2026-10-07T06:34:45.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Kohli Denies Cricketer Took Money to Visit Premanand's Ashram - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3Y2YVRkQXhLaEVnekVEZkx4WW9JSmEya01wNTlXVDRXMzN4UkJjVUoxWWlwVkRpSDV0dkZMUmtIZXVnZV9yVjZjSzNGOUhLQVEwSk5NbTFGTFl1czFRazlQWmRlS1VoQTdPVDZuNFNPbERzLS1OZVBSLUFqN1pLZXBJRXp1QUNrSlhYRktnWlJSUU5UWnBlS1IxZkN1bDNuVThVOG4yWTZHcTd0VVRZRWFmR1MtNWFLc3RzUXNaQ3NiTjgzUmRpV0pZRUt5d9IBzgFBVV95cUxQd3Y2YVRkQXhLaEVnekVEZkx4WW9JSmEya01wNTlXVDRXMzN4UkJjVUoxWWlwVkRpSDV0dkZMUmtIZXVnZV9yVjZjSzNGOUhLQVEwSk5NbTFGTFl1czFRazlQWmRlS1VoQTdPVDZuNFNPbERzLS1OZVBSLUFqN1pLZXBJRXp1QUNrSlhYRktnWlJSUU5UWnBlS1IxZkN1bDNuVThVOG4yWTZHcTd0VVRZRWFmR1MtNWFLc3RzUXNaQ3NiTjgzUmRpV0pZRUt5dw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3Y2YVRkQXhLaEVnekVEZkx4WW9JSmEya01wNTlXVDRXMzN4UkJjVUoxWWlwVkRpSDV0dkZMUmtIZXVnZV9yVjZjSzNGOUhLQVEwSk5NbTFGTFl1czFRazlQWmRlS1VoQTdPVDZuNFNPbERzLS1OZVBSLUFqN1pLZXBJRXp1QUNrSlhYRktnWlJSUU5UWnBlS1IxZkN1bDNuVThVOG4yWTZHcTd0VVRZRWFmR1MtNWFLc3",
-      "publishedAt": "2026-10-07T07:59:09.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "'He Kissed His Bat After Century': Ravi Shastri Recalls Anushka Sharma Watching Virat Kohli Hit 160 During Their Dating Days - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNU2dyRFhsWmtCWlBBQzd3cjVEWG8xdU56bWFiZDQ3RXItMDR5dWZ4bkhpX0ZHZHc0S3o3UlNUaG9UNGN3SFgyNWhsdy1rWjBoNDdXZWlzaWk0TFRQZ0VsY1h0Ti1VVUR6OW9vWVQ3QzU0QnJQWEQwTE95SUZodkFhVjUxZG9GYVp5QVBNOTVaSmtYRVJyS1dvNGVhTVdsbDBibFNlNVJrOC02OVdadnNGQ1RJeS1xUHdxMXYwQ2gzWlRSMWIzeDBjMm82dzhPb2F6U3F1d1UzWUpFQWdNNlB3ZV9hYklvNXhhOEdMVFJrYmFCN0kwWE10LVFhZW1ybEktZXpYT19TUm9objhaTWlnUEVQajZUQnZ2Q25LM1hXWlJ2d2FsNE1BcGFqSXdGcDJuaU02eUJTZHgwTUxrdVZBSUlkSFhkUkVSRUpZQ0JMQTlxM3F2WU9YR0hR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxNU2dyRFhsWmtCWlBBQzd3cjVEWG8xdU56bWFiZDQ3RXItMDR5dWZ4bkhpX0ZHZHc0S3o3UlNUaG9UNGN3SFgyNWhsdy1rWjBoNDdXZWlzaWk0TFRQZ0VsY1h0Ti1VVUR6OW9vWVQ3QzU0QnJQWEQwTE95SUZodkFhVjUxZG9GYVp5QVBNOTVaSmtYRVJyS1dvNGVhTVdsbDBibFNlNVJrOC02OVdadnNGQ1RJeS1xUHdxMX",
-      "publishedAt": "2026-10-07T14:10:20.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "“Baseless, factually incorrect”: Team Virat Kohli rejects allegation of being paid Rs 5 crore for Ashram visit - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYl85aVpzLVVRckZPaGFOcFZyNERUUUVxd1NWcENtY196N292cGkzMXZIVFBYMFdSYkJkR0ZqWEM0bjdJRVNEZWZfbWV3dzJLX0w0Sy1nQUZUYWNHWTdTVXZKUDY4cjI5X1AwRUkzTkZIWVNyOHFVbFliU09wNnRMcWR1dWpveWVGLVQxNl9iUWFzSWlWQlZ3dk5rQWhOUURzYW44ZkRGVmNjMFhkY3pjYWJtVlR0RlVfTGw1OUZVaGN1XzM0UjRkMmlRN2RzNm8xb2h2TkZ5U1JmUVBpZXptY013NkpKUGg3MW0tYmV1RUN6OEg1dENob2Vqa3RJMXoyMzNnY3JqdG5rbHA1bXc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOYl85aVpzLVVRckZPaGFOcFZyNERUUUVxd1NWcENtY196N292cGkzMXZIVFBYMFdSYkJkR0ZqWEM0bjdJRVNEZWZfbWV3dzJLX0w0Sy1nQUZUYWNHWTdTVXZKUDY4cjI5X1AwRUkzTkZIWVNyOHFVbFliU09wNnRMcWR1dWpveWVGLVQxNl9iUWFzSWlWQlZ3dk5rQWhOUURzYW44ZkRGVmNjMFhkY3pjYWJtVlR0RlVfTG",
-      "publishedAt": "2026-10-07T06:43:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Shreyas Iyer Shatters Virat Kohli's All-Time Record With Blazing Hundred Against West Indies - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGVXZlc3OFRBVEdGR3hPbjk2ZWJyRGVKLVBPNWlTeXI1ci13OWRtcWdvZlROYk44UU80YTVkb3ZxRU9hT2lRZ2VPWFZSYlplU0hoLW5SNlN2TTNVa1A3Q00yVmw4T0lSQ3pUbnh3MEphdVY3U3FaZUprYmQzQUJuQXZNUzZKblA0S01KNG9TT0FpLV90cnEwYkZlRFZBdEZISkdXU2pyckYyNXRSYVBLcnJCQXJ1bmd2eDJ5VHMwbmF2QWFRM1RielphajBhOU9VaXB4WG1QM2prMHUwR1ZReVg0dVk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGVXZlc3OFRBVEdGR3hPbjk2ZWJyRGVKLVBPNWlTeXI1ci13OWRtcWdvZlROYk44UU80YTVkb3ZxRU9hT2lRZ2VPWFZSYlplU0hoLW5SNlN2TTNVa1A3Q00yVmw4T0lSQ3pUbnh3MEphdVY3U3FaZUprYmQzQUJuQXZNUzZKblA0S01KNG9TT0FpLV90cnEwYkZlRFZBdEZISkdXU2pyckYyNXRSYVBLcnJCQXJ1bmd2eD",
-      "publishedAt": "2026-10-07T06:23:45.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Shreyas Iyer breaks Virat Kohli's record after maiden T20I century - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejRrWHVkQmtkb2FwcUp2OVdtcWY5anlGN3pQbmpfSHF0YUVVS3hPSHVFLUJ2ZW94NmpPSFBjWmpZeEZva0hpUlRDRmh1dzE2UWVzeDRadEVMVGtjbGgyS1FBSnV2WUNxUWczT3drbnMwN0Rfak9kVFVKU2NNUUdidUNZQjl6R0xUbTQxVmxINTZOU0hDaVlXZ3pYTS1PcGFUNmRJaTFXUdIBtwFBVV95cUxNalYtQWF0N0dsdnRHa29obkFlMU9sVW1VM081OU92bklhNzJKOUVfdkJncTZhWS1OQjhVYUlWVlVvYldrN0ZsNXhmNE1ReDBnWW1xdDFqd2hTT2lHU1RYc2sxSExRdTRVcGFTUGwyTVhaMDNjWTk4Y1ZkaTVpeXlpLTd4dTk3c3g0cTdERTJDWWdlRDAxekpURzN2WnhvQkxka3NoYVRjM0o5emU5SnF3eTRIWklKYkE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQejRrWHVkQmtkb2FwcUp2OVdtcWY5anlGN3pQbmpfSHF0YUVVS3hPSHVFLUJ2ZW94NmpPSFBjWmpZeEZva0hpUlRDRmh1dzE2UWVzeDRadEVMVGtjbGgyS1FBSnV2WUNxUWczT3drbnMwN0Rfak9kVFVKU2NNUUdidUNZQjl6R0xUbTQxVmxINTZOU0hDaVlXZ3pYTS1PcGFUNmRJaTFXUdIBtwFBVV95cUxNalYtQWF0N0",
-      "publishedAt": "2026-10-07T05:56:42.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "The Great Indian Kapil Show 5: Ravi Shastri recalls Virat Kohli-Anushka Sharma’s on-field romance as he arrives with Sunil Gavaskar; Sunil Grover turns into Kapil Dev - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOVXQ1WXpUWjRKUFlBMEQ4MnFkdE1HUUY2NnQzVkRZUDJQQVFOaFp5MHBjdTBuQ1FTcFNaS0hZS2NzcnNrTnJtVVdmd3VyZUxsNmRtblh0cW5CejUyYk1YNklUdHV0SUdnYk5tZGpfVVkxcjRoeWtJM2JUdVlraWJ1Z3BBVG5Wc3hSX2lhamtjWWhjSmtQTWFrYkxhTHpfVHhiaDZ5TnFJUUVLUU90blppajFPaWxuaTgtS2IxWG9kRFNVV3l5NFM3LTlURVRmcTVUY0F5bmpYc3BxRGVqeWlZWFUzb1lQdjhodFlWXy1vSGk4OWN4UnJfSVhCUGNwb09UTG5DbXZGNldLaXhocGk0S3VrcEY5bDlqU1ZQcnVEYjdvZmtfZGphb3VFa1Y1eEJ1YlVkdVRjWmp0LWVRU1Q3bkY1NGFQbXZhQWJ1aVdFZVd0aWh4bVdIQUZtUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxOVXQ1WXpUWjRKUFlBMEQ4MnFkdE1HUUY2NnQzVkRZUDJQQVFOaFp5MHBjdTBuQ1FTcFNaS0hZS2NzcnNrTnJtVVdmd3VyZUxsNmRtblh0cW5CejUyYk1YNklUdHV0SUdnYk5tZGpfVVkxcjRoeWtJM2JUdVlraWJ1Z3BBVG5Wc3hSX2lhamtjWWhjSmtQTWFrYkxhTHpfVHhiaDZ5TnFJUUVLUU90blppajFPaWxuaTgtS2",
-      "publishedAt": "2026-10-07T13:00:00.000Z",
+      "title": "Rohit Sharma and Virat Kohli's playful reunion sets the tone for JioStar’s World Cup 2027 Campaign - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2w3dWEtVndydmZRVjk3TXNGVWxtcVBONGp5enhtMGM1TWlpZHA1VmYwelRwczJmNFVsZUFUMG4tbkx2TWtoTk44bFVwM2VzTk4tR2htUGQ3S0tFdnA2NEk3OEhvWGhBRWNfVGJ1OHVPbmVPRzVDejlPcnFmdm5DdjI2UzZncHVSblNBRnRXdGpVcmRpeDNoU0tkUk9XVHdCWWt1dDQ0WFRSYkVBeXpiSE9hX3o5VXJ2VU9icEI2bTVpYlk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2w3dWEtVndydmZRVjk3TXNGVWxtcVBONGp5enhtMGM1TWlpZHA1VmYwelRwczJmNFVsZUFUMG4tbkx2TWtoTk44bFVwM2VzTk4tR2htUGQ3S0tFdnA2NEk3OEhvWGhBRWNfVGJ1OHVPbmVPRzVDejlPcnFmdm5DdjI2UzZncHVSblNBRnRXdGpVcmRpeDNoU0tkUk9XVHdCWWt1dDQ0WFRSYkVBeXpiSE9hX3o5VXJ2VU",
+      "publishedAt": "2026-10-07T11:58:02.000Z",
       "source": {
         "name": "Google News"
       },

@@ -1,49 +1,6 @@
 {
-  "lastUpdated": "2026-10-07T14:49:04.635Z",
+  "lastUpdated": "2026-10-07T19:49:38.605Z",
   "recentMatches": [
-    {
-      "id": "8c243510-2e8b-4577-be4e-ec2485e94d1b",
-      "name": "Cricket South Africa Invitation XI vs Australia, 2 Days Warm-Up Match, Australia tour of South Africa, 2026",
-      "status": "Match drawn",
-      "venue": "Senwes Park, Potchefstroom",
-      "date": "2026-10-03",
-      "dateTimeGMT": "2026-10-03T00:00:00",
-      "teams": [
-        "Cricket South Africa Invitation XI",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Cricket South Africa Invitation XI",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 318,
-          "w": 7,
-          "o": 90,
-          "inning": "Cricket South Africa Invitation XI Inning 1"
-        },
-        {
-          "r": 368,
-          "w": 5,
-          "o": 74,
-          "inning": "Australia Inning 1"
-        }
-      ],
-      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "269b724b-5992-4647-8d1b-41b5baf8dca1",
       "name": "Sri Lanka Women vs Pakistan Women, Semi Final 2 (B1 v A2), Womens Asia Cup 2026",
@@ -228,51 +185,6 @@
         }
       ],
       "series_id": "1db21cd4-5fe2-4a93-a67f-d6d4e65b2ca3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e0230ea8-d9c8-4109-bc7c-ba74b6652a63",
-      "name": "Malaysia Women vs Samoa Women, 1st Match, Malaysia Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Malaysia Women won by 8 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-03",
-      "dateTimeGMT": "2026-10-03T00:00:00",
-      "teams": [
-        "Malaysia Women",
-        "Samoa Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malaysia Women",
-          "shortname": "ML-W",
-          "img": "https://g.cricapi.com/iapi/1551-637926306213013515.webp?w=48"
-        },
-        {
-          "name": "Samoa Women",
-          "shortname": "SAMWN",
-          "img": "https://g.cricapi.com/iapi/2550-638004821886874966.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 91,
-          "w": 8,
-          "o": 20,
-          "inning": "Samoa Women Inning 1"
-        },
-        {
-          "r": 95,
-          "w": 2,
-          "o": 16.4,
-          "inning": "Malaysia Women Inning 1"
-        }
-      ],
-      "series_id": "31a62a32-3501-4a53-8a0b-d083a5135410",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -630,51 +542,6 @@
           "w": 2,
           "o": 14.4,
           "inning": "India Inning 1"
-        }
-      ],
-      "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "da91f633-acac-4449-86f8-9bff6244053f",
-      "name": "India vs West Indies, 3rd ODI, West Indies tour of India, 2026",
-      "matchType": "odi",
-      "status": "West Indies won by 5 wkts",
-      "venue": "PCA International Cricket Stadium, Ground A, New Chandigarh",
-      "date": "2026-10-03",
-      "dateTimeGMT": "2026-10-03T08:30:00",
-      "teams": [
-        "India",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 351,
-          "w": 7,
-          "o": 50,
-          "inning": "india Inning 1"
-        },
-        {
-          "r": 352,
-          "w": 5,
-          "o": 48.2,
-          "inning": "India,West Indies Inning 1"
         }
       ],
       "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
