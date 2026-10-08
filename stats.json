@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T08:39:26.685Z",
+  "lastUpdated": "2026-10-08T19:45:09.399Z",
   "recentMatches": [
     {
       "id": "269b724b-5992-4647-8d1b-41b5baf8dca1",
@@ -600,7 +600,7 @@
       "id": "f7e74b46-d393-4066-b161-738f6ac287b7",
       "name": "Western Australia vs Queensland, 3rd Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Western Australia opt to bowl",
+      "status": "Day 1: Stumps - Western Australia opt to bowl",
       "venue": "W.A.C.A. Ground, Perth",
       "date": "2026-10-08",
       "dateTimeGMT": "2026-10-08T02:30:00",
@@ -622,9 +622,9 @@
       ],
       "score": [
         {
-          "r": 237,
-          "w": 5,
-          "o": 71.1,
+          "r": 258,
+          "w": 6,
+          "o": 74.1,
           "inning": "Queensland Inning 1"
         }
       ],
