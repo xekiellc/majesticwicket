@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T00:04:23.516Z",
+  "lastUpdated": "2026-10-08T08:39:26.685Z",
   "recentMatches": [
     {
       "id": "269b724b-5992-4647-8d1b-41b5baf8dca1",
@@ -148,6 +148,96 @@
       "matchEnded": true
     },
     {
+      "id": "f282a0cb-51d5-4189-b067-aa50683d4f19",
+      "name": "Bahrain vs Myanmar, 9th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bahrain won by 8 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-08",
+      "dateTimeGMT": "2026-10-08T01:15:00",
+      "teams": [
+        "Bahrain",
+        "Myanmar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain",
+          "shortname": "BHR",
+          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
+        },
+        {
+          "name": "Myanmar",
+          "shortname": "MYAN",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 70,
+          "w": 9,
+          "o": 20,
+          "inning": "Myanmar Inning 1"
+        },
+        {
+          "r": 73,
+          "w": 2,
+          "o": 11.2,
+          "inning": "Bahrain Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "785c8271-f338-4263-a991-d2898460132e",
+      "name": "Bhutan vs Mongolia, 8th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bhutan won by 136 runs",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-08",
+      "dateTimeGMT": "2026-10-08T01:15:00",
+      "teams": [
+        "Bhutan",
+        "Mongolia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bhutan",
+          "shortname": "BHU",
+          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
+        },
+        {
+          "name": "Mongolia",
+          "shortname": "MN",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 203,
+          "w": 5,
+          "o": 20,
+          "inning": "bhutan Inning 1"
+        },
+        {
+          "r": 67,
+          "w": 10,
+          "o": 15,
+          "inning": "Bhutan,Mongolia Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "99b12355-2d86-490e-ae12-1e1079c3db36",
       "name": "India A vs Australia A, 1st unofficial ODI, Australia A tour of India 2026",
       "status": "Australia A won by 125 runs",
@@ -188,6 +278,51 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "586c0a37-7512-44c4-9e60-356a541d0ebb",
+      "name": "Kuwait vs Thailand, 7th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Kuwait won by 9 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-08",
+      "dateTimeGMT": "2026-10-08T01:15:00",
+      "teams": [
+        "Kuwait",
+        "Thailand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 60,
+          "w": 10,
+          "o": 18.3,
+          "inning": "Thailand Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 1,
+          "o": 7,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -462,10 +597,49 @@
       "matchEnded": true
     },
     {
+      "id": "f7e74b46-d393-4066-b161-738f6ac287b7",
+      "name": "Western Australia vs Queensland, 3rd Match, Sheffield Shield 2026-27",
+      "matchType": "test",
+      "status": "Day 1: 3rd Session - Western Australia opt to bowl",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-10-08",
+      "dateTimeGMT": "2026-10-08T02:30:00",
+      "teams": [
+        "Western Australia",
+        "Queensland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Queensland",
+          "shortname": "QL",
+          "img": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 237,
+          "w": 5,
+          "o": 71.1,
+          "inning": "Queensland Inning 1"
+        }
+      ],
+      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "f86a1b5e-83be-41b0-b2d3-4f1ae4e12a03",
       "name": "New South Wales vs Tasmania, 2nd Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 1: 1st Session - New South Wales opt to bowl",
+      "status": "Day 1: Stumps - New South Wales opt to bowl",
       "venue": "Cricket Central, Sydney",
       "date": "2026-10-08",
       "dateTimeGMT": "2026-10-08T23:30:00",
@@ -487,9 +661,9 @@
       ],
       "score": [
         {
-          "r": 24,
-          "w": 1,
-          "o": 7,
+          "r": 241,
+          "w": 9,
+          "o": 95,
           "inning": "Tasmania Inning 1"
         }
       ],
@@ -504,7 +678,7 @@
       "id": "956f3a64-cc60-437f-a96d-20f68f72874f",
       "name": "Victoria vs South Australia, 1st Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 2: 1st Session - South Australia trail by 223 runs",
+      "status": "Day 2: Stumps - South Australia lead by 108 runs",
       "venue": "Junction Oval, Melbourne",
       "date": "2026-10-07",
       "dateTimeGMT": "2026-10-07T23:30:00",
@@ -532,9 +706,9 @@
           "inning": "Victoria Inning 1"
         },
         {
-          "r": 21,
-          "w": 2,
-          "o": 15,
+          "r": 352,
+          "w": 6,
+          "o": 103,
           "inning": "South Australia Inning 1"
         }
       ],
@@ -543,7 +717,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0643db2e-fd71-41d6-bad1-df3513607f3f",
