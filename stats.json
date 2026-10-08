@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T19:49:38.605Z",
+  "lastUpdated": "2026-10-08T00:04:23.516Z",
   "recentMatches": [
     {
       "id": "269b724b-5992-4647-8d1b-41b5baf8dca1",
@@ -462,10 +462,49 @@
       "matchEnded": true
     },
     {
+      "id": "f86a1b5e-83be-41b0-b2d3-4f1ae4e12a03",
+      "name": "New South Wales vs Tasmania, 2nd Match, Sheffield Shield 2026-27",
+      "matchType": "test",
+      "status": "Day 1: 1st Session - New South Wales opt to bowl",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-08",
+      "dateTimeGMT": "2026-10-08T23:30:00",
+      "teams": [
+        "New South Wales",
+        "Tasmania"
+      ],
+      "teamInfo": [
+        {
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+        },
+        {
+          "name": "Tasmania",
+          "shortname": "TAS",
+          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 24,
+          "w": 1,
+          "o": 7,
+          "inning": "Tasmania Inning 1"
+        }
+      ],
+      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "956f3a64-cc60-437f-a96d-20f68f72874f",
       "name": "Victoria vs South Australia, 1st Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 1: Stumps - South Australia trail by 240 runs",
+      "status": "Day 2: 1st Session - South Australia trail by 223 runs",
       "venue": "Junction Oval, Melbourne",
       "date": "2026-10-07",
       "dateTimeGMT": "2026-10-07T23:30:00",
@@ -493,9 +532,9 @@
           "inning": "Victoria Inning 1"
         },
         {
-          "r": 4,
-          "w": 1,
-          "o": 8,
+          "r": 21,
+          "w": 2,
+          "o": 15,
           "inning": "South Australia Inning 1"
         }
       ],
@@ -503,7 +542,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
