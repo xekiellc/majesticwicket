@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T19:22:11.218Z",
+  "lastUpdated": "2026-10-09T23:53:18.620Z",
   "recentMatches": [
     {
       "id": "51482a19-a41a-494e-82a0-3714b5a77360",
@@ -581,7 +581,7 @@
       "id": "f86a1b5e-83be-41b0-b2d3-4f1ae4e12a03",
       "name": "New South Wales vs Tasmania, 2nd Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 2: Stumps - New South Wales lead by 196 runs",
+      "status": "Day 3: 1st Session - New South Wales lead by 201 runs",
       "venue": "Cricket Central, Sydney",
       "date": "2026-10-08",
       "dateTimeGMT": "2026-10-08T23:30:00",
@@ -609,9 +609,9 @@
           "inning": "Tasmania Inning 1"
         },
         {
-          "r": 441,
+          "r": 446,
           "w": 6,
-          "o": 86,
+          "o": 87,
           "inning": "New South Wales Inning 1"
         }
       ],
@@ -626,7 +626,7 @@
       "id": "956f3a64-cc60-437f-a96d-20f68f72874f",
       "name": "Victoria vs South Australia, 1st Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 3: Stumps - Victoria trail by 89 runs",
+      "status": "Day 4: 1st Session - Victoria trail by 74 runs",
       "venue": "Junction Oval, Melbourne",
       "date": "2026-10-07",
       "dateTimeGMT": "2026-10-07T23:30:00",
@@ -660,9 +660,9 @@
           "inning": "South Australia Inning 1"
         },
         {
-          "r": 175,
+          "r": 190,
           "w": 7,
-          "o": 68,
+          "o": 74,
           "inning": "Victoria Inning 2"
         }
       ],
