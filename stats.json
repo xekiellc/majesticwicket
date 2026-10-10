@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T18:22:20.243Z",
+  "lastUpdated": "2026-10-10T23:20:35.430Z",
   "recentMatches": [
     {
       "id": "51482a19-a41a-494e-82a0-3714b5a77360",
@@ -270,50 +270,6 @@
       "matchEnded": true
     },
     {
-      "id": "99b12355-2d86-490e-ae12-1e1079c3db36",
-      "name": "India A vs Australia A, 1st unofficial ODI, Australia A tour of India 2026",
-      "status": "Australia A won by 125 runs",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "date": "2026-10-06",
-      "dateTimeGMT": "2026-10-06T08:30:00",
-      "teams": [
-        "India A",
-        "Australia A"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia A",
-          "shortname": "AUSA",
-          "img": "https://g.cricapi.com/iapi/1429-637926307133296133.webp?w=48"
-        },
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 274,
-          "w": 10,
-          "o": 48.2,
-          "inning": "australia a Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 10,
-          "o": 31.4,
-          "inning": "India A,Australia A Inning 1"
-        }
-      ],
-      "series_id": "1db21cd4-5fe2-4a93-a67f-d6d4e65b2ca3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "586c0a37-7512-44c4-9e60-356a541d0ebb",
       "name": "Kuwait vs Thailand, 7th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
       "matchType": "t20",
@@ -348,96 +304,6 @@
           "r": 61,
           "w": 1,
           "o": 7,
-          "inning": "Kuwait Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ab266c2d-8bb1-4439-9cd0-b6a3d5d38ceb",
-      "name": "Bahrain vs Bhutan, 5th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Bahrain won by 66 runs",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-06",
-      "dateTimeGMT": "2026-10-06T06:00:00",
-      "teams": [
-        "Bahrain",
-        "Bhutan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain",
-          "shortname": "BHR",
-          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
-        },
-        {
-          "name": "Bhutan",
-          "shortname": "BHU",
-          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 139,
-          "w": 5,
-          "o": 20,
-          "inning": "bahrain Inning 1"
-        },
-        {
-          "r": 73,
-          "w": 10,
-          "o": 18.4,
-          "inning": "Bahrain,Bhutan Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2ecaf0d6-33fb-44c2-92e4-66f6b7a08d86",
-      "name": "Kuwait vs Mongolia, 6th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Kuwait won by 10 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-06",
-      "dateTimeGMT": "2026-10-06T06:00:00",
-      "teams": [
-        "Kuwait",
-        "Mongolia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        },
-        {
-          "name": "Mongolia",
-          "shortname": "MN",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 42,
-          "w": 10,
-          "o": 14.5,
-          "inning": "Mongolia Inning 1"
-        },
-        {
-          "r": 43,
-          "w": 0,
-          "o": 3.3,
           "inning": "Kuwait Inning 1"
         }
       ],
@@ -490,51 +356,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "12c2ca23-f69b-4854-a5fd-60a592c72384",
-      "name": "Qatar vs Thailand, 4th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Qatar won by 7 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-06",
-      "dateTimeGMT": "2026-10-06T01:15:00",
-      "teams": [
-        "Qatar",
-        "Thailand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        },
-        {
-          "name": "Thailand",
-          "shortname": "THAI",
-          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 76,
-          "w": 9,
-          "o": 20,
-          "inning": "Thailand Inning 1"
-        },
-        {
-          "r": 80,
-          "w": 3,
-          "o": 12.3,
-          "inning": "Qatar Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -733,51 +554,6 @@
           "w": 4,
           "o": 18.3,
           "inning": "West Indies Inning 1"
-        }
-      ],
-      "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0643db2e-fd71-41d6-bad1-df3513607f3f",
-      "name": "India vs West Indies, 1st T20I, West Indies tour of India, 2026",
-      "matchType": "odi",
-      "status": "India won by 8 wkts",
-      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-      "date": "2026-10-06",
-      "dateTimeGMT": "2026-10-06T13:30:00",
-      "teams": [
-        "India",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 171,
-          "w": 10,
-          "o": 19.1,
-          "inning": "West Indies Inning 1"
-        },
-        {
-          "r": 172,
-          "w": 2,
-          "o": 14.4,
-          "inning": "India Inning 1"
         }
       ],
       "series_id": "702ce6cb-a551-4aab-961e-0ed1548a3c74",
