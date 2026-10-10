@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-10T08:17:02.035Z",
+  "lastUpdated": "2026-10-10T14:01:28.347Z",
   "recentMatches": [
     {
       "id": "51482a19-a41a-494e-82a0-3714b5a77360",
       "name": "South Africa vs Australia, 1st Test, Australia tour of South Africa, 2026",
-      "status": "Day 2: 1st Session - Australia opt to bat",
+      "status": "Day 2: 3rd Session - South Africa trail by 388 runs",
       "venue": "Kingsmead, Durban",
       "date": "2026-10-09",
       "dateTimeGMT": "2026-10-09T07:30:00",
@@ -26,10 +26,16 @@
       ],
       "score": [
         {
-          "r": 213,
-          "w": 7,
-          "o": 74.4,
+          "r": 390,
+          "w": 10,
+          "o": 137.2,
           "inning": "australia Inning 1"
+        },
+        {
+          "r": 2,
+          "w": 1,
+          "o": 2,
+          "inning": "South Africa,Australia Inning 1"
         }
       ],
       "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
@@ -536,7 +542,7 @@
       "id": "f7e74b46-d393-4066-b161-738f6ac287b7",
       "name": "Western Australia vs Queensland, 3rd Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 3: 3rd Session - Western Australia need 120 runs",
+      "status": "Day 3: Stumps - Western Australia need 67 runs",
       "venue": "W.A.C.A. Ground, Perth",
       "date": "2026-10-08",
       "dateTimeGMT": "2026-10-08T02:30:00",
@@ -576,9 +582,9 @@
           "inning": "Queensland Inning 2"
         },
         {
-          "r": 81,
-          "w": 4,
-          "o": 25,
+          "r": 134,
+          "w": 5,
+          "o": 45,
           "inning": "Western Australia Inning 2"
         }
       ],
