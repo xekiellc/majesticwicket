@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-10T14:01:28.347Z",
+  "lastUpdated": "2026-10-10T18:22:20.243Z",
   "recentMatches": [
     {
       "id": "51482a19-a41a-494e-82a0-3714b5a77360",
       "name": "South Africa vs Australia, 1st Test, Australia tour of South Africa, 2026",
-      "status": "Day 2: 3rd Session - South Africa trail by 388 runs",
+      "status": "Day 2: Stumps - South Africa trail by 363 runs",
       "venue": "Kingsmead, Durban",
       "date": "2026-10-09",
       "dateTimeGMT": "2026-10-09T07:30:00",
@@ -32,9 +32,9 @@
           "inning": "australia Inning 1"
         },
         {
-          "r": 2,
+          "r": 27,
           "w": 1,
-          "o": 2,
+          "o": 8.4,
           "inning": "South Africa,Australia Inning 1"
         }
       ],
