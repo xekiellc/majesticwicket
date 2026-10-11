@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-11T08:33:40.375Z",
+  "lastUpdated": "2026-10-11T18:43:36.229Z",
   "recentMatches": [
     {
       "id": "51482a19-a41a-494e-82a0-3714b5a77360",
       "name": "South Africa vs Australia, 1st Test, Australia tour of South Africa, 2026",
-      "status": "Day 3: 1st Session - South Africa trail by 305 runs",
+      "status": "Day 3: Stumps - Australia lead by 139 runs",
       "venue": "Kingsmead, Durban",
       "date": "2026-10-09",
       "dateTimeGMT": "2026-10-09T07:30:00",
@@ -32,10 +32,16 @@
           "inning": "australia Inning 1"
         },
         {
-          "r": 85,
-          "w": 2,
-          "o": 21.5,
+          "r": 284,
+          "w": 10,
+          "o": 78,
           "inning": "South Africa,Australia Inning 1"
+        },
+        {
+          "r": 33,
+          "w": 0,
+          "o": 5.4,
+          "inning": "australia Inning 2"
         }
       ],
       "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
@@ -49,7 +55,7 @@
       "id": "f32f9aad-f26e-4c2d-8dec-2e7e45ba0e82",
       "name": "Sikkim vs Meghalaya, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - Meghalaya opt to bowl",
+      "status": "Day 1: Stumps - Meghalaya trail by 243 runs",
       "venue": "SICA ground, Rangpo",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -71,10 +77,16 @@
       ],
       "score": [
         {
-          "r": 186,
-          "w": 7,
-          "o": 57,
+          "r": 245,
+          "w": 10,
+          "o": 80.5,
           "inning": "Sikkim Inning 1"
+        },
+        {
+          "r": 2,
+          "w": 0,
+          "o": 1,
+          "inning": "Meghalaya Inning 1"
         }
       ],
       "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
@@ -88,7 +100,7 @@
       "id": "a1205eb5-b45b-498e-8b43-99dc6f7442f9",
       "name": "Mizoram vs Manipur, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Mizoram opt to bat",
+      "status": "Day 1: Stumps - Manipur trail by 144 runs",
       "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -110,10 +122,16 @@
       ],
       "score": [
         {
-          "r": 116,
-          "w": 6,
-          "o": 46,
+          "r": 183,
+          "w": 10,
+          "o": 62.3,
           "inning": "Manipur Inning 1"
+        },
+        {
+          "r": 39,
+          "w": 4,
+          "o": 26,
+          "inning": "Mizoram Inning 1"
         }
       ],
       "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
@@ -216,7 +234,7 @@
     {
       "id": "842f3c1d-b2c9-4945-b09b-7b12cb1b5ab8",
       "name": "India A vs Australia A, 3rd unofficial ODI, Australia A tour of India 2026",
-      "status": "Australia A need 216 runs",
+      "status": "India A won by 49 runs",
       "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T03:30:00",
@@ -244,9 +262,9 @@
           "inning": "India A Inning 1"
         },
         {
-          "r": 60,
-          "w": 0,
-          "o": 9.5,
+          "r": 226,
+          "w": 10,
+          "o": 46.2,
           "inning": "Australia A Inning 1"
         }
       ],
@@ -255,7 +273,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f282a0cb-51d5-4189-b067-aa50683d4f19",
@@ -437,6 +455,51 @@
       "matchEnded": true
     },
     {
+      "id": "0cb2b44c-69b3-4c50-b1a5-9af598ffecaf",
+      "name": "Pakistan vs Sri Lanka, 2nd T20I, Sri Lanka tour of Pakistan, 2026",
+      "matchType": "t20",
+      "status": "Pakistan won by 82 runs",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T15:00:00",
+      "teams": [
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 215,
+          "w": 3,
+          "o": 20,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 133,
+          "w": 7,
+          "o": 20,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "f16be214-8be8-427e-90fc-c8e42a4a1322",
       "name": "Pakistan vs Sri Lanka, 1st T20I, Sri Lanka tour of Pakistan, 2026",
       "matchType": "t20",
@@ -590,61 +653,10 @@
       "matchEnded": true
     },
     {
-      "id": "956f3a64-cc60-437f-a96d-20f68f72874f",
-      "name": "Victoria vs South Australia, 1st Match, Sheffield Shield 2026-27",
-      "matchType": "test",
-      "status": "South Australia won by an innings and 40 runs",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-10-07",
-      "dateTimeGMT": "2026-10-07T23:30:00",
-      "teams": [
-        "Victoria",
-        "South Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "South Australia",
-          "shortname": "SAUS",
-          "img": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=48"
-        },
-        {
-          "name": "Victoria",
-          "shortname": "VIC",
-          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 244,
-          "w": 10,
-          "o": 84.3,
-          "inning": "Victoria Inning 1"
-        },
-        {
-          "r": 508,
-          "w": 10,
-          "o": 135.3,
-          "inning": "South Australia Inning 1"
-        },
-        {
-          "r": 224,
-          "w": 10,
-          "o": 90.4,
-          "inning": "Victoria Inning 2"
-        }
-      ],
-      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d61fc549-afc1-408b-8d00-a64af9dd0084",
       "name": "Bihar vs Uttar Pradesh, Elite Group A, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Bihar opt to bowl",
+      "status": "Day 1: Stumps - Bihar opt to bowl",
       "venue": "Rajgir International Cricket Stadium, Rajgir",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -666,9 +678,9 @@
       ],
       "score": [
         {
-          "r": 153,
+          "r": 287,
           "w": 3,
-          "o": 47.2,
+          "o": 84,
           "inning": "Uttar Pradesh Inning 1"
         }
       ],
@@ -683,7 +695,7 @@
       "id": "f2a1eeb2-0280-4ca4-aeb0-0683d6f45821",
       "name": "Jammu and Kashmir vs Madhya Pradesh, Elite Group A, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Jammu and Kashmir opt to bowl",
+      "status": "Day 1: Stumps - Jammu and Kashmir trail by 193 runs",
       "venue": "Sher-i-Kashmir Stadium, Srinagar",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -705,10 +717,16 @@
       ],
       "score": [
         {
-          "r": 108,
-          "w": 5,
-          "o": 45,
+          "r": 196,
+          "w": 10,
+          "o": 74.2,
           "inning": "Madhya Pradesh Inning 1"
+        },
+        {
+          "r": 3,
+          "w": 1,
+          "o": 3,
+          "inning": "Jammu and Kashmir Inning 1"
         }
       ],
       "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
@@ -722,7 +740,7 @@
       "id": "3cd0f8b3-e9b2-4dbc-a9cd-1913eeb93618",
       "name": "Vidarbha vs Puducherry, Elite Group A, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Vidarbha opt to bat",
+      "status": "Day 1: Stumps - Vidarbha opt to bat",
       "venue": "Vidarbha Cricket Association Stadium, Nagpur",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -744,9 +762,9 @@
       ],
       "score": [
         {
-          "r": 160,
+          "r": 300,
           "w": 5,
-          "o": 47,
+          "o": 85,
           "inning": "vidarbha Inning 1"
         }
       ],
@@ -761,7 +779,7 @@
       "id": "718cd34d-a825-4455-ae95-2f9d55dac416",
       "name": "Hyderabad vs Tripura, Elite Group B, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: Innings Break",
+      "status": "Day 1: Stumps - Hyderabad trail by 13 runs",
       "venue": "Gymkhana Ground, Hyderabad",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -787,6 +805,12 @@
           "w": 10,
           "o": 44,
           "inning": "tripura Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 4,
+          "o": 41,
+          "inning": "Hyderabad,Tripura Inning 1"
         }
       ],
       "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
@@ -800,7 +824,7 @@
       "id": "dc3d6e70-c066-4715-955a-794f586f8328",
       "name": "Andhra vs Karnataka, Elite Group B, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Karnataka opt to bat",
+      "status": "Day 1: Stumps - Andhra trail by 258 runs",
       "venue": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground, Vijayawada",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -822,10 +846,16 @@
       ],
       "score": [
         {
-          "r": 134,
-          "w": 5,
-          "o": 39,
+          "r": 274,
+          "w": 10,
+          "o": 82.2,
           "inning": "karnataka Inning 1"
+        },
+        {
+          "r": 16,
+          "w": 2,
+          "o": 5,
+          "inning": "Andhra,Karnataka Inning 1"
         }
       ],
       "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
@@ -839,7 +869,7 @@
       "id": "e1ccd917-ac28-4a5e-9a5a-868e2c2802f3",
       "name": "Punjab vs Assam, Elite Group B, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: Rain stops play - Punjab opt to bowl",
+      "status": "Day 1: Stumps - Punjab opt to bowl",
       "venue": "PCA International Cricket Stadium, Ground A, New Chandigarh",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -878,7 +908,7 @@
       "id": "1b31f318-babb-41d1-bcf3-7dab0397dd24",
       "name": "Saurashtra vs Chhattisgarh, Elite Group B, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Chhattisgarh opt to bowl",
+      "status": "Day 1: Stumps - Chhattisgarh opt to bowl",
       "venue": "Niranjan Shah Stadium, Khandheri, Rajkot",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -900,9 +930,9 @@
       ],
       "score": [
         {
-          "r": 154,
+          "r": 308,
           "w": 4,
-          "o": 52,
+          "o": 90,
           "inning": "Saurashtra Inning 1"
         }
       ],
@@ -917,7 +947,7 @@
       "id": "bcef1450-1f0f-4165-a277-d4f4b76d9e9e",
       "name": "Jharkhand vs Kerala, Elite Group C, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Jharkhand opt to bat",
+      "status": "Day 1: Stumps - Jharkhand opt to bat",
       "venue": "Keenan Stadium, Jamshedpur",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -939,9 +969,9 @@
       ],
       "score": [
         {
-          "r": 202,
-          "w": 1,
-          "o": 58,
+          "r": 289,
+          "w": 5,
+          "o": 90,
           "inning": "jharkhand Inning 1"
         }
       ],
@@ -956,7 +986,7 @@
       "id": "26fffbfa-c5be-4c42-8894-dde066422e36",
       "name": "Gujarat vs Odisha, Elite Group C, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Odisha opt to bat",
+      "status": "Day 1: Stumps - Odisha opt to bat",
       "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -978,9 +1008,9 @@
       ],
       "score": [
         {
-          "r": 153,
+          "r": 272,
           "w": 3,
-          "o": 49,
+          "o": 90,
           "inning": "odisha Inning 1"
         }
       ],
@@ -995,7 +1025,7 @@
       "id": "afc6f294-fc46-4d26-9b90-7f5c87caa06b",
       "name": "Bengal vs Delhi, Elite Group C, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Bengal opt to bowl",
+      "status": "Day 1: Stumps - Bengal opt to bowl",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -1017,9 +1047,9 @@
       ],
       "score": [
         {
-          "r": 160,
-          "w": 7,
-          "o": 53,
+          "r": 240,
+          "w": 10,
+          "o": 77.3,
           "inning": "Delhi Inning 1"
         }
       ],
@@ -1034,7 +1064,7 @@
       "id": "4c4e5dad-1be1-4195-a382-5ede45c27475",
       "name": "Services vs Maharashtra, Elite Group C, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - Maharashtra opt to bat",
+      "status": "Day 1: Stumps - Maharashtra opt to bat",
       "venue": "Palam A Stadium, Delhi",
       "date": "2026-10-11",
       "dateTimeGMT": "2026-10-11T04:00:00",
@@ -1056,9 +1086,9 @@
       ],
       "score": [
         {
-          "r": 170,
-          "w": 3,
-          "o": 53,
+          "r": 287,
+          "w": 5,
+          "o": 90,
           "inning": "maharashtra Inning 1"
         }
       ],
