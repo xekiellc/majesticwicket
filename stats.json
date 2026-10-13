@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-10-13T20:09:33.587Z",
+  "lastUpdated": "2026-10-13T23:39:41.580Z",
   "recentMatches": [
+    {
+      "id": "5e6bd6d6-3505-4cf0-9798-9ef6332c3e23",
+      "name": "Australia Women vs Bangladesh Women, 2nd ODI, Bangladesh Women tour of Australia, 2026",
+      "matchType": "odi",
+      "status": "Australia Women won by 9 wkts",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Australia Women",
+        "Bangladesh Women"
+      ],
+      "score": [
+        {
+          "r": 220,
+          "w": 6,
+          "o": 50,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 222,
+          "w": 1,
+          "o": 28.1,
+          "inning": "Australia Women Inning 1"
+        }
+      ],
+      "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3fc2f16c-27d3-4692-9a3c-55a554a73235",
+      "name": "Australia Women vs Bangladesh Women, 1st ODI, Bangladesh Women tour of Australia, 2026",
+      "matchType": "odi",
+      "status": "Australia Women won by 7 wkts",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2026-10-09",
+      "dateTimeGMT": "2026-10-09T00:00:00",
+      "teams": [
+        "Australia Women",
+        "Bangladesh Women"
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 10,
+          "o": 49.4,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 168,
+          "w": 3,
+          "o": 25.4,
+          "inning": "Australia Women Inning 1"
+        }
+      ],
+      "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "1627a16a-352e-4018-8974-904ee861bb60",
       "name": "Qatar vs Mongolia, 16th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
@@ -773,96 +839,6 @@
         }
       ],
       "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2fcad54f-842d-4bf4-9a2e-ea8a7e99a32c",
-      "name": "India Champions vs South Africa Champions, 11th Match, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "South Africa Champions won by 4 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-10",
-      "dateTimeGMT": "2026-10-10T00:00:00",
-      "teams": [
-        "India Champions",
-        "South Africa Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Champions",
-          "shortname": "INDC",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "South Africa Champions",
-          "shortname": "SAC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 8,
-          "o": 20,
-          "inning": "India Champions Inning 1"
-        },
-        {
-          "r": 198,
-          "w": 6,
-          "o": 18.5,
-          "inning": "South Africa Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8102bbd5-6ac5-49eb-ae59-e2b13bfc9ce5",
-      "name": "Western Australia vs Queensland, 9th Match, Australia Domestic One-Day Cup 2026-27",
-      "matchType": "odi",
-      "status": "Queensland won by 15 runs",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-13",
-      "dateTimeGMT": "2026-10-13T00:00:00",
-      "teams": [
-        "Western Australia",
-        "Queensland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Queensland",
-          "shortname": "QL",
-          "img": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=48"
-        },
-        {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 261,
-          "w": 10,
-          "o": 45.2,
-          "inning": "Queensland Inning 1"
-        },
-        {
-          "r": 246,
-          "w": 10,
-          "o": 44,
-          "inning": "Western Australia Inning 1"
-        }
-      ],
-      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
