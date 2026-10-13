@@ -1,1199 +1,833 @@
 {
-  "lastUpdated": "2026-10-13T09:09:50.788Z",
+  "lastUpdated": "2026-10-13T15:20:34.993Z",
   "recentMatches": [
     {
-      "id": "51482a19-a41a-494e-82a0-3714b5a77360",
-      "name": "South Africa vs Australia, 1st Test, Australia tour of South Africa, 2026",
-      "status": "Day 5: 1st Session - South Africa need 272 runs",
-      "venue": "Kingsmead, Durban",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T07:30:00",
+      "id": "388c8420-ff74-4840-b6ab-11d223faf55b",
+      "name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women, Final, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors Women won by 2 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-17",
+      "dateTimeGMT": "2026-09-17T00:00:00",
       "teams": [
-        "South Africa",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "South Africa",
-          "shortname": "RSA",
-          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
-        }
+        "Trinbago Knight Riders Women",
+        "Guyana Amazon Warriors Women"
       ],
       "score": [
         {
-          "r": 390,
-          "w": 10,
-          "o": 137.2,
-          "inning": "australia Inning 1"
-        },
-        {
-          "r": 284,
-          "w": 10,
-          "o": 78,
-          "inning": "South Africa,Australia Inning 1"
-        },
-        {
-          "r": 314,
+          "r": 145,
           "w": 6,
-          "o": 58,
-          "inning": "australia Inning 2"
+          "o": 20,
+          "inning": "trinbago knight riders women Inning 1"
         },
         {
           "r": 149,
-          "w": 4,
-          "o": 58.3,
-          "inning": "South Africa,Australia Inning 2"
+          "w": 8,
+          "o": 19.3,
+          "inning": "Trinbago Knight Riders Women,Guyana Amazon Warriors Women Inning 1"
         }
       ],
-      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "f32f9aad-f26e-4c2d-8dec-2e7e45ba0e82",
-      "name": "Sikkim vs Meghalaya, Plate, Ranji Trophy Plate 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 3rd Session - Sikkim trail by 130 runs",
-      "venue": "SICA ground, Rangpo",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Sikkim",
-        "Meghalaya"
-      ],
-      "teamInfo": [
-        {
-          "name": "Meghalaya",
-          "shortname": "MGLY",
-          "img": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=48"
-        },
-        {
-          "name": "Sikkim",
-          "shortname": "SKM",
-          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 245,
-          "w": 10,
-          "o": 80.5,
-          "inning": "Sikkim Inning 1"
-        },
-        {
-          "r": 395,
-          "w": 10,
-          "o": 150.2,
-          "inning": "Meghalaya Inning 1"
-        },
-        {
-          "r": 20,
-          "w": 0,
-          "o": 7,
-          "inning": "Sikkim Inning 2"
-        }
-      ],
-      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "a1205eb5-b45b-498e-8b43-99dc6f7442f9",
-      "name": "Mizoram vs Manipur, Plate, Ranji Trophy Plate 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Mizoram lead by 93 runs",
-      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Mizoram",
-        "Manipur"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manipur",
-          "shortname": "MNP",
-          "img": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=48"
-        },
-        {
-          "name": "Mizoram",
-          "shortname": "MIZ",
-          "img": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 183,
-          "w": 10,
-          "o": 62.3,
-          "inning": "Manipur Inning 1"
-        },
-        {
-          "r": 251,
-          "w": 10,
-          "o": 91,
-          "inning": "Mizoram Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 7,
-          "o": 77,
-          "inning": "Manipur Inning 2"
-        }
-      ],
-      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "269b724b-5992-4647-8d1b-41b5baf8dca1",
-      "name": "Sri Lanka Women vs Pakistan Women, Semi Final 2 (B1 v A2), Womens Asia Cup 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 4 wkts",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "date": "2026-09-11",
-      "dateTimeGMT": "2026-09-11T00:00:00",
-      "teams": [
-        "Sri Lanka Women",
-        "Pakistan Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Women",
-          "shortname": "PAKW",
-          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka Women",
-          "shortname": "SLW",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 130,
-          "w": 5,
-          "o": 20,
-          "inning": "Pakistan Women Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 6,
-          "o": 18.4,
-          "inning": "Sri Lanka Women Inning 1"
-        }
-      ],
-      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
-      "fantasyEnabled": true,
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "17f82cc5-f9f6-4c8a-ab78-927fdb831ee2",
-      "name": "India Women vs Bangladesh Women, Semi Final 1 (A1 v B2), Womens Asia Cup 2026",
+      "id": "11eb60da-d548-48a0-8ca2-528083086d0f",
+      "name": "Barbados Tridents Women vs Guyana Amazon Warriors Women, Playoff 2nd v 3rd, Womens Caribbean Premier League 2026",
       "matchType": "t20",
-      "status": "India Women won by 40 runs",
-      "venue": "Dubai International Cricket Stadium, Dubai",
+      "status": "Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-16",
+      "dateTimeGMT": "2026-09-16T00:00:00",
+      "teams": [
+        "Barbados Tridents Women",
+        "Guyana Amazon Warriors Women"
+      ],
+      "score": [
+        {
+          "r": 69,
+          "w": 4,
+          "o": 8,
+          "inning": "Barbados Tridents Women Inning 1"
+        },
+        {
+          "r": 75,
+          "w": 3,
+          "o": 7.2,
+          "inning": "Guyana Amazon Warriors Women Inning 1"
+        }
+      ],
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "169b8f6a-f69d-4201-91d0-0ee792d4dbaf",
+      "name": "Guyana Amazon Warriors Women vs Barbados Tridents Women, 6th Match, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors Women won by 5 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-12",
+      "dateTimeGMT": "2026-09-12T00:00:00",
+      "teams": [
+        "Guyana Amazon Warriors Women",
+        "Barbados Tridents Women"
+      ],
+      "score": [
+        {
+          "r": 158,
+          "w": 7,
+          "o": 20,
+          "inning": "Barbados Tridents Women Inning 1"
+        },
+        {
+          "r": 159,
+          "w": 5,
+          "o": 19,
+          "inning": "Guyana Amazon Warriors Women Inning 1"
+        }
+      ],
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b54b73b4-772a-435e-9c72-2780be6ee7c3",
+      "name": "Barbados Tridents Women vs Jamaica Empress Women, 5th Match, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Barbados Tridents Women won by 3 runs",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-12",
+      "dateTimeGMT": "2026-09-12T00:00:00",
+      "teams": [
+        "Barbados Tridents Women",
+        "Jamaica Empress Women"
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 7,
+          "o": 20,
+          "inning": "barbados tridents women Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 4,
+          "o": 20,
+          "inning": "Barbados Tridents Women,Jamaica Empress Women Inning 1"
+        }
+      ],
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9c5ecc33-a009-4490-82ec-00b321f92eb6",
+      "name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women, 4th Match, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Guyana Amazon Warriors Women won by 25 runs",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-12",
+      "dateTimeGMT": "2026-09-12T00:00:00",
+      "teams": [
+        "Trinbago Knight Riders Women",
+        "Guyana Amazon Warriors Women"
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 8,
+          "o": 20,
+          "inning": "Guyana Amazon Warriors Women Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 9,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Women Inning 1"
+        }
+      ],
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c747ad84-e4be-45d9-9fed-d537c3babf9a",
+      "name": "Trinbago Knight Riders Women vs Jamaica Empress Women, 3rd Match, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders Women won by 9 wkts",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
       "date": "2026-09-10",
       "dateTimeGMT": "2026-09-10T00:00:00",
       "teams": [
-        "India Women",
-        "Bangladesh Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        },
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        }
+        "Trinbago Knight Riders Women",
+        "Jamaica Empress Women"
       ],
       "score": [
         {
-          "r": 149,
-          "w": 6,
-          "o": 20,
-          "inning": "India Women Inning 1"
-        },
-        {
-          "r": 109,
-          "w": 7,
-          "o": 20,
-          "inning": "Bangladesh Women Inning 1"
-        }
-      ],
-      "series_id": "c8d183d0-d545-4781-9d73-0de43e044204",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "842f3c1d-b2c9-4945-b09b-7b12cb1b5ab8",
-      "name": "India A vs Australia A, 3rd unofficial ODI, Australia A tour of India 2026",
-      "status": "India A won by 49 runs",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T03:30:00",
-      "teams": [
-        "India A",
-        "Australia A"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia A",
-          "shortname": "AUSA",
-          "img": "https://g.cricapi.com/iapi/1429-637926307133296133.webp?w=48"
-        },
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 275,
-          "w": 10,
-          "o": 47.3,
-          "inning": "India A Inning 1"
-        },
-        {
-          "r": 226,
-          "w": 10,
-          "o": 46.2,
-          "inning": "Australia A Inning 1"
-        }
-      ],
-      "series_id": "1db21cd4-5fe2-4a93-a67f-d6d4e65b2ca3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "45e00e94-2219-4348-8b0c-01184813f3fc",
-      "name": "India A vs Australia A, 2nd unofficial ODI, Australia A tour of India 2026",
-      "status": "Australia A won by 69 runs",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T03:30:00",
-      "teams": [
-        "India A",
-        "Australia A"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia A",
-          "shortname": "AUSA",
-          "img": "https://g.cricapi.com/iapi/1429-637926307133296133.webp?w=48"
-        },
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 275,
-          "w": 10,
-          "o": 49.5,
-          "inning": "australia a Inning 1"
-        },
-        {
-          "r": 206,
-          "w": 10,
-          "o": 45.2,
-          "inning": "India A,Australia A Inning 1"
-        }
-      ],
-      "series_id": "1db21cd4-5fe2-4a93-a67f-d6d4e65b2ca3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0cb2b44c-69b3-4c50-b1a5-9af598ffecaf",
-      "name": "Pakistan vs Sri Lanka, 2nd T20I, Sri Lanka tour of Pakistan, 2026",
-      "matchType": "t20",
-      "status": "Pakistan won by 82 runs",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T15:00:00",
-      "teams": [
-        "Pakistan",
-        "Sri Lanka"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 215,
-          "w": 3,
-          "o": 20,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 7,
-          "o": 20,
-          "inning": "Sri Lanka Inning 1"
-        }
-      ],
-      "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f16be214-8be8-427e-90fc-c8e42a4a1322",
-      "name": "Pakistan vs Sri Lanka, 1st T20I, Sri Lanka tour of Pakistan, 2026",
-      "matchType": "t20",
-      "status": "Pakistan won by 4 wkts",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T15:00:00",
-      "teams": [
-        "Pakistan",
-        "Sri Lanka"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 182,
+          "r": 100,
           "w": 8,
           "o": 20,
-          "inning": "sri lanka Inning 1"
+          "inning": "Jamaica Empress Women Inning 1"
         },
         {
-          "r": 187,
-          "w": 6,
-          "o": 18.5,
-          "inning": "Pakistan,Sri Lanka Inning 1"
+          "r": 104,
+          "w": 1,
+          "o": 11.1,
+          "inning": "Trinbago Knight Riders Women Inning 1"
         }
       ],
-      "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
-      "fantasyEnabled": true,
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "d61fc549-afc1-408b-8d00-a64af9dd0084",
-      "name": "Bihar vs Uttar Pradesh, Elite Group A, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Bihar trail by 311 runs",
-      "venue": "Rajgir International Cricket Stadium, Rajgir",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
+      "id": "c87589b0-76b5-4534-b1c9-69777e2eb1fd",
+      "name": "Jamaica Empress Women vs Guyana Amazon Warriors Women, 2nd Match, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "JEW won by 1 wkt  -  2nd innings reduced to 19 overs - DLS Target 132",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-05",
+      "dateTimeGMT": "2026-09-05T00:00:00",
       "teams": [
-        "Bihar",
-        "Uttar Pradesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bihar",
-          "shortname": "BIH",
-          "img": "https://g.cricapi.com/iapi/13-637897789593616439.png?w=48"
-        },
-        {
-          "name": "Uttar Pradesh",
-          "shortname": "UP",
-          "img": "https://g.cricapi.com/iapi/94-637897806676935322.png?w=48"
-        }
+        "Jamaica Empress Women",
+        "Guyana Amazon Warriors Women"
       ],
       "score": [
         {
-          "r": 540,
-          "w": 10,
-          "o": 153.1,
-          "inning": "Uttar Pradesh Inning 1"
+          "r": 138,
+          "w": 7,
+          "o": 20,
+          "inning": "Guyana Amazon Warriors Women Inning 1"
         },
         {
-          "r": 141,
-          "w": 10,
-          "o": 52.1,
-          "inning": "Bihar Inning 1"
-        },
-        {
-          "r": 88,
-          "w": 4,
-          "o": 27.4,
-          "inning": "Uttar Pradesh Inning 2"
+          "r": 136,
+          "w": 9,
+          "o": 19,
+          "inning": "Jamaica Empress Women Inning 1"
         }
       ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
-      "id": "f2a1eeb2-0280-4ca4-aeb0-0683d6f45821",
-      "name": "Jammu and Kashmir vs Madhya Pradesh, Elite Group A, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: Bad Light stops play - Madhya Pradesh lead by 227 runs",
-      "venue": "Sher-i-Kashmir Stadium, Srinagar",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
+      "id": "2c39be65-e9b9-4956-a05c-a7b07d394f92",
+      "name": "Barbados Tridents Women vs Trinbago Knight Riders Women, 1st Match, Womens Caribbean Premier League 2026",
+      "matchType": "t20",
+      "status": "Trinbago Knight Riders Women won by 21 runs",
+      "venue": "Kensington Oval, Bridgetown, Barbados",
+      "date": "2026-09-05",
+      "dateTimeGMT": "2026-09-05T00:00:00",
       "teams": [
-        "Jammu and Kashmir",
-        "Madhya Pradesh"
+        "Barbados Tridents Women",
+        "Trinbago Knight Riders Women"
       ],
-      "teamInfo": [
+      "score": [
         {
-          "name": "Jammu and Kashmir",
-          "shortname": "JK",
-          "img": "https://g.cricapi.com/iapi/35-637897795101008676.png?w=48"
+          "r": 155,
+          "w": 10,
+          "o": 20,
+          "inning": "Trinbago Knight Riders Women Inning 1"
         },
         {
-          "name": "Madhya Pradesh",
-          "shortname": "MP",
-          "img": "https://g.cricapi.com/iapi/44-637897797618832180.png?w=48"
+          "r": 134,
+          "w": 10,
+          "o": 18.4,
+          "inning": "Barbados Tridents Women Inning 1"
         }
+      ],
+      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dfa0e6dd-0aa2-4df9-9d52-5ceaaa81fb74",
+      "name": "South Africa vs Zimbabwe, Final, Namibia T20I Tri-Series 2026",
+      "matchType": "t20",
+      "status": "South Africa won by 48 runs",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-09-06",
+      "dateTimeGMT": "2026-09-06T00:00:00",
+      "teams": [
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "score": [
+        {
+          "r": 205,
+          "w": 5,
+          "o": 20,
+          "inning": "south africa Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 10,
+          "o": 18,
+          "inning": "South Africa,Zimbabwe Inning 1"
+        }
+      ],
+      "series_id": "22782c3b-464b-4555-9825-2fca1e63f082",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "44a97051-023d-4d9e-9f78-e38ceb9a9179",
+      "name": "Namibia vs South Africa, 6th Match, Namibia T20I Tri-Series 2026",
+      "matchType": "t20",
+      "status": "South Africa won by 11 runs",
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "date": "2026-09-04",
+      "dateTimeGMT": "2026-09-04T00:00:00",
+      "teams": [
+        "Namibia",
+        "South Africa"
+      ],
+      "score": [
+        {
+          "r": 228,
+          "w": 4,
+          "o": 20,
+          "inning": "South Africa Inning 1"
+        },
+        {
+          "r": 217,
+          "w": 3,
+          "o": 20,
+          "inning": "Namibia Inning 1"
+        }
+      ],
+      "series_id": "22782c3b-464b-4555-9825-2fca1e63f082",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "090eb8f1-120b-4be3-a2ed-3b39337971d7",
+      "name": "Japan vs Hong Kong, China, 1st T20I, Hong Kong, China tour of Japan 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China won by 4 wkts",
+      "venue": "Sano International Cricket Ground, Sano, Kanto",
+      "date": "2026-09-19",
+      "dateTimeGMT": "2026-09-19T00:00:00",
+      "teams": [
+        "Japan",
+        "Hong Kong"
+      ],
+      "score": [
+        {
+          "r": 95,
+          "w": 7,
+          "o": 20,
+          "inning": "japan Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 6,
+          "o": 19.1,
+          "inning": "Japan,Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "379a4f0a-b6c5-4fee-8c63-28938dbb2b9d",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1627a16a-352e-4018-8974-904ee861bb60",
+      "name": "Qatar vs Mongolia, 16th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "No result due to rain",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Qatar",
+        "Mongolia"
+      ],
+      "score": [
+        {
+          "r": 211,
+          "w": 3,
+          "o": 16.1,
+          "inning": "Qatar Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6e9ba236-3e28-4982-bf7d-79036ef6845a",
+      "name": "Myanmar vs Thailand, 17th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Thailand won by 9 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Myanmar",
+        "Thailand"
+      ],
+      "score": [
+        {
+          "r": 52,
+          "w": 10,
+          "o": 16,
+          "inning": "Myanmar Inning 1"
+        },
+        {
+          "r": 53,
+          "w": 1,
+          "o": 9.5,
+          "inning": "Thailand Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ad5a8faf-0863-4be1-9a15-6bfcb16893bd",
+      "name": "Bhutan vs Kuwait, 18th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Kuwait won by 8 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Bhutan",
+        "Kuwait"
+      ],
+      "score": [
+        {
+          "r": 74,
+          "w": 9,
+          "o": 20,
+          "inning": "Bhutan Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 2,
+          "o": 4.2,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2365f9c7-f26a-4994-88c2-e7ac2851c84f",
+      "name": "Bahrain vs Mongolia, 15th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bahrain won by 8 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Bahrain",
+        "Mongolia"
+      ],
+      "score": [
+        {
+          "r": 17,
+          "w": 10,
+          "o": 12.4,
+          "inning": "Mongolia Inning 1"
+        },
+        {
+          "r": 18,
+          "w": 2,
+          "o": 1.1,
+          "inning": "Bahrain Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6555d19f-1ffb-4f91-890d-2919fe262238",
+      "name": "Bhutan vs Qatar, 14th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Qatar won by 9 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Bhutan",
+        "Qatar"
+      ],
+      "score": [
+        {
+          "r": 64,
+          "w": 10,
+          "o": 15.5,
+          "inning": "Bhutan Inning 1"
+        },
+        {
+          "r": 65,
+          "w": 1,
+          "o": 5.4,
+          "inning": "Qatar Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7896b60c-6f71-40ad-ad18-1521bb2f3475",
+      "name": "Kuwait vs Myanmar, 13th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Kuwait won by 9 wkts",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Kuwait",
+        "Myanmar"
+      ],
+      "score": [
+        {
+          "r": 34,
+          "w": 10,
+          "o": 15.3,
+          "inning": "Myanmar Inning 1"
+        },
+        {
+          "r": 37,
+          "w": 1,
+          "o": 4,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ab50010b-18ad-4a1e-9170-f2c664c52b60",
+      "name": "Mongolia vs Thailand, 10th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Thailand won by 183 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-09",
+      "dateTimeGMT": "2026-10-09T00:00:00",
+      "teams": [
+        "Mongolia",
+        "Thailand"
       ],
       "score": [
         {
           "r": 196,
-          "w": 10,
-          "o": 74.2,
-          "inning": "Madhya Pradesh Inning 1"
+          "w": 2,
+          "o": 20,
+          "inning": "thailand Inning 1"
         },
         {
-          "r": 120,
+          "r": 13,
           "w": 10,
-          "o": 46.3,
-          "inning": "Jammu and Kashmir Inning 1"
-        },
-        {
-          "r": 151,
-          "w": 5,
-          "o": 62,
-          "inning": "Madhya Pradesh Inning 2"
+          "o": 11.3,
+          "inning": "Mongolia,Thailand Inning 1"
         }
       ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
-      "id": "3cd0f8b3-e9b2-4dbc-a9cd-1913eeb93618",
-      "name": "Vidarbha vs Puducherry, Elite Group A, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Puducherry trail by 199 runs",
-      "venue": "Vidarbha Cricket Association Stadium, Nagpur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
+      "id": "e575e1ce-93c4-441d-bc2a-e0ac2f6bcfce",
+      "name": "Bahrain vs Kuwait, 11th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Bahrain won by 6 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-09",
+      "dateTimeGMT": "2026-10-09T00:00:00",
       "teams": [
-        "Vidarbha",
-        "Puducherry"
-      ],
-      "teamInfo": [
-        {
-          "name": "Puducherry",
-          "shortname": "PDC",
-          "img": "https://g.cricapi.com/iapi/71-637897802638820789.png?w=48"
-        },
-        {
-          "name": "Vidarbha",
-          "shortname": "VID",
-          "img": "https://g.cricapi.com/iapi/97-637897807024164117.png?w=48"
-        }
+        "Bahrain",
+        "Kuwait"
       ],
       "score": [
         {
-          "r": 428,
-          "w": 10,
-          "o": 129.4,
-          "inning": "vidarbha Inning 1"
-        },
-        {
-          "r": 229,
+          "r": 188,
           "w": 7,
-          "o": 92.5,
-          "inning": "Vidarbha,Puducherry Inning 1"
+          "o": 20,
+          "inning": "Kuwait Inning 1"
+        },
+        {
+          "r": 189,
+          "w": 4,
+          "o": 19.2,
+          "inning": "Bahrain Inning 1"
         }
       ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "718cd34d-a825-4455-ae95-2f9d55dac416",
-      "name": "Hyderabad vs Tripura, Elite Group B, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Hyderabad won by an innings and 40 runs",
-      "venue": "Gymkhana Ground, Hyderabad",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Hyderabad",
-        "Tripura"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hyderabad",
-          "shortname": "HYD",
-          "img": "https://g.cricapi.com/iapi/30-637897794525321433.png?w=48"
-        },
-        {
-          "name": "Tripura",
-          "shortname": "TRI",
-          "img": "https://g.cricapi.com/iapi/90-637897805085647315.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 134,
-          "w": 10,
-          "o": 44,
-          "inning": "tripura Inning 1"
-        },
-        {
-          "r": 294,
-          "w": 10,
-          "o": 103.2,
-          "inning": "Hyderabad,Tripura Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 10,
-          "o": 41.2,
-          "inning": "tripura Inning 2"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "dc3d6e70-c066-4715-955a-794f586f8328",
-      "name": "Andhra vs Karnataka, Elite Group B, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Karnataka trail by 74 runs",
-      "venue": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground, Vijayawada",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
+      "id": "c3b6181c-52ec-4bb9-b00e-b9d3c0961ae1",
+      "name": "Qatar vs Myanmar, 12th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "matchType": "t20",
+      "status": "Qatar won by 9 wkts",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-09",
+      "dateTimeGMT": "2026-10-09T00:00:00",
       "teams": [
-        "Andhra",
-        "Karnataka"
-      ],
-      "teamInfo": [
-        {
-          "name": "Andhra",
-          "shortname": "AP",
-          "img": "https://g.cricapi.com/iapi/2-637897787068768481.png?w=48"
-        },
-        {
-          "name": "Karnataka",
-          "shortname": "KAR",
-          "img": "https://g.cricapi.com/iapi/38-637897796420763611.png?w=48"
-        }
+        "Qatar",
+        "Myanmar"
       ],
       "score": [
         {
-          "r": 274,
-          "w": 10,
-          "o": 82.2,
-          "inning": "karnataka Inning 1"
+          "r": 55,
+          "w": 9,
+          "o": 20,
+          "inning": "myanmar Inning 1"
         },
         {
-          "r": 418,
-          "w": 10,
-          "o": 121.5,
-          "inning": "Andhra,Karnataka Inning 1"
-        },
-        {
-          "r": 70,
-          "w": 3,
-          "o": 26,
-          "inning": "karnataka Inning 2"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e1ccd917-ac28-4a5e-9a5a-868e2c2802f3",
-      "name": "Punjab vs Assam, Elite Group B, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Punjab trail by 201 runs",
-      "venue": "PCA International Cricket Stadium, Ground A, New Chandigarh",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Punjab",
-        "Assam"
-      ],
-      "teamInfo": [
-        {
-          "name": "Assam",
-          "shortname": "ASM",
-          "img": "https://g.cricapi.com/iapi/4-637897788303626448.png?w=48"
-        },
-        {
-          "name": "Punjab",
-          "shortname": "PUN",
-          "img": "https://g.cricapi.com/iapi/72-637897801965344275.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 373,
-          "w": 10,
-          "o": 117,
-          "inning": "Assam Inning 1"
-        },
-        {
-          "r": 172,
+          "r": 56,
           "w": 1,
-          "o": 56.2,
-          "inning": "Punjab Inning 1"
+          "o": 7,
+          "inning": "Qatar,Myanmar Inning 1"
         }
       ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
+      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
-      "id": "1b31f318-babb-41d1-bcf3-7dab0397dd24",
-      "name": "Saurashtra vs Chhattisgarh, Elite Group B, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Chhattisgarh trail by 135 runs",
-      "venue": "Niranjan Shah Stadium, Khandheri, Rajkot",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
+      "id": "9c01691f-668b-420e-954e-4d76abfd9d37",
+      "name": "India A Women vs Australia A Women, Only unofficial Test, Australia A Women tour of India 2026",
+      "status": "India A Women won by 281 runs",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "date": "2026-09-29",
+      "dateTimeGMT": "2026-09-29T00:00:00",
       "teams": [
-        "Saurashtra",
-        "Chhattisgarh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chhattisgarh",
-          "shortname": "CG",
-          "img": "https://g.cricapi.com/iapi/18-637897790441171438.png?w=48"
-        },
-        {
-          "name": "Saurashtra",
-          "shortname": "SAUR",
-          "img": "https://g.cricapi.com/iapi/78-637897803602821716.png?w=48"
-        }
+        "India A Women",
+        "Australia A Women"
       ],
       "score": [
         {
-          "r": 392,
+          "r": 364,
           "w": 10,
-          "o": 110.4,
-          "inning": "Saurashtra Inning 1"
+          "o": 103.3,
+          "inning": "india a women Inning 1"
+        },
+        {
+          "r": 176,
+          "w": 10,
+          "o": 63.4,
+          "inning": "India A Women,Australia A Women Inning 1"
         },
         {
           "r": 257,
-          "w": 6,
-          "o": 101,
-          "inning": "Chhattisgarh Inning 1"
+          "w": 10,
+          "o": 64.2,
+          "inning": "india a women Inning 2"
+        },
+        {
+          "r": 164,
+          "w": 10,
+          "o": 76,
+          "inning": "India A Women,Australia A Women Inning 2"
         }
       ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
+      "series_id": "70e7ac37-33e6-4468-9181-74d8b6bb969e",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
-      "id": "bcef1450-1f0f-4165-a277-d4f4b76d9e9e",
-      "name": "Jharkhand vs Kerala, Elite Group C, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Kerala trail by 375 runs",
-      "venue": "Keenan Stadium, Jamshedpur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
+      "id": "48aa16f6-6ae2-4736-9802-2c4e2e11e13d",
+      "name": "India A Women vs Australia A Women, 3rd unofficial ODI, Australia A Women tour of India 2026",
+      "status": "India A Women won by 4 wkts",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2026-09-25",
+      "dateTimeGMT": "2026-09-25T00:00:00",
       "teams": [
-        "Jharkhand",
-        "Kerala"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jharkhand",
-          "shortname": "JHKD",
-          "img": "https://g.cricapi.com/iapi/36-637897796049905291.png?w=48"
-        },
-        {
-          "name": "Kerala",
-          "shortname": "KER",
-          "img": "https://g.cricapi.com/iapi/39-637897797224429950.png?w=48"
-        }
+        "India A Women",
+        "Australia A Women"
       ],
       "score": [
         {
-          "r": 587,
-          "w": 10,
-          "o": 179.5,
-          "inning": "jharkhand Inning 1"
+          "r": 362,
+          "w": 9,
+          "o": 50,
+          "inning": "australia a women Inning 1"
         },
         {
-          "r": 212,
+          "r": 364,
+          "w": 6,
+          "o": 48.2,
+          "inning": "India A Women,Australia A Women Inning 1"
+        }
+      ],
+      "series_id": "70e7ac37-33e6-4468-9181-74d8b6bb969e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1abb3449-7a90-44c8-8b04-2ef742292aaf",
+      "name": "India A Women vs Australia A Women, 2nd unofficial ODI, Australia A Women tour of India 2026",
+      "status": "Australia A Women won by 2 wkts",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2026-09-23",
+      "dateTimeGMT": "2026-09-23T00:00:00",
+      "teams": [
+        "India A Women",
+        "Australia A Women"
+      ],
+      "score": [
+        {
+          "r": 338,
+          "w": 6,
+          "o": 50,
+          "inning": "india a women Inning 1"
+        },
+        {
+          "r": 341,
+          "w": 8,
+          "o": 49.3,
+          "inning": "India A Women,Australia A Women Inning 1"
+        }
+      ],
+      "series_id": "70e7ac37-33e6-4468-9181-74d8b6bb969e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4e08f1a7-c37d-4bda-8e7e-a5ac233a41e8",
+      "name": "Cayman Islands vs Bermuda, Final, North American Cup, 2026",
+      "matchType": "t20",
+      "status": "Bermuda won by 42 runs",
+      "venue": "Jimmy Powell Oval, George Town",
+      "date": "2026-09-27",
+      "dateTimeGMT": "2026-09-27T00:00:00",
+      "teams": [
+        "Cayman Islands",
+        "Bermuda"
+      ],
+      "score": [
+        {
+          "r": 101,
+          "w": 9,
+          "o": 15,
+          "inning": "Bermuda Inning 1"
+        },
+        {
+          "r": 59,
+          "w": 10,
+          "o": 15,
+          "inning": "Cayman Islands Inning 1"
+        }
+      ],
+      "series_id": "8119e88b-10fa-4480-89b6-89bd4f3ec135",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e111dc25-9820-48a7-b566-6c03cf57c9b6",
+      "name": "Bahamas vs Bermuda, Qualifier, North American Cup, 2026",
+      "matchType": "t20",
+      "status": "Bermuda won by 8 wkts",
+      "venue": "Jimmy Powell Oval, George Town",
+      "date": "2026-09-26",
+      "dateTimeGMT": "2026-09-26T00:00:00",
+      "teams": [
+        "Bahamas",
+        "Bermuda"
+      ],
+      "score": [
+        {
+          "r": 82,
+          "w": 10,
+          "o": 18.5,
+          "inning": "bahamas Inning 1"
+        },
+        {
+          "r": 83,
           "w": 2,
-          "o": 60,
-          "inning": "Jharkhand,Kerala Inning 1"
+          "o": 6.1,
+          "inning": "Bahamas,Bermuda Inning 1"
         }
       ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
+      "series_id": "8119e88b-10fa-4480-89b6-89bd4f3ec135",
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "26fffbfa-c5be-4c42-8894-dde066422e36",
-      "name": "Gujarat vs Odisha, Elite Group C, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Gujarat lead by 83 runs",
-      "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Gujarat",
-        "Odisha"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gujarat",
-          "shortname": "GUJ",
-          "img": "https://g.cricapi.com/iapi/27-637897792592204662.png?w=48"
-        },
-        {
-          "name": "Odisha",
-          "shortname": "ODSA",
-          "img": "https://g.cricapi.com/iapi/63-637897801546556330.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 324,
-          "w": 10,
-          "o": 113,
-          "inning": "odisha Inning 1"
-        },
-        {
-          "r": 407,
-          "w": 8,
-          "o": 101.3,
-          "inning": "Gujarat,Odisha Inning 1"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "afc6f294-fc46-4d26-9b90-7f5c87caa06b",
-      "name": "Bengal vs Delhi, Elite Group C, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: Tea Break - Delhi trail by 162 runs",
-      "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Bengal",
-        "Delhi"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bengal",
-          "shortname": "BEN",
-          "img": "https://g.cricapi.com/iapi/12-637897789312826453.png?w=48"
-        },
-        {
-          "name": "Delhi",
-          "shortname": "DEL",
-          "img": "https://g.cricapi.com/iapi/19-637897791252425890.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 240,
-          "w": 10,
-          "o": 77.3,
-          "inning": "Delhi Inning 1"
-        },
-        {
-          "r": 429,
-          "w": 10,
-          "o": 112,
-          "inning": "Bengal Inning 1"
-        },
-        {
-          "r": 27,
-          "w": 1,
-          "o": 19,
-          "inning": "Delhi Inning 2"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "4c4e5dad-1be1-4195-a382-5ede45c27475",
-      "name": "Services vs Maharashtra, Elite Group C, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Services trail by 143 runs",
-      "venue": "Palam A Stadium, Delhi",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Services",
-        "Maharashtra"
-      ],
-      "teamInfo": [
-        {
-          "name": "Maharashtra",
-          "shortname": "MAH",
-          "img": "https://g.cricapi.com/iapi/45-637897797960178569.png?w=48"
-        },
-        {
-          "name": "Services",
-          "shortname": "SER",
-          "img": "https://g.cricapi.com/iapi/80-637897803943638638.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 333,
-          "w": 10,
-          "o": 110.1,
-          "inning": "maharashtra Inning 1"
-        },
-        {
-          "r": 190,
-          "w": 6,
-          "o": 77.5,
-          "inning": "Services,Maharashtra Inning 1"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "6431c597-e765-4cc2-ad56-12cbc1819d0f",
-      "name": "Haryana vs Himachal Pradesh, Elite Group D, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Himachal Pradesh trail by 5 runs",
-      "venue": "Ch Bansi Lal Cricket Stadium, Rohtak",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Haryana",
-        "Himachal Pradesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Haryana",
-          "shortname": "HAR",
-          "img": "https://g.cricapi.com/iapi/28-637897793655542496.png?w=48"
-        },
-        {
-          "name": "Himachal Pradesh",
-          "shortname": "HP",
-          "img": "https://g.cricapi.com/iapi/29-637897794090988497.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 253,
-          "w": 10,
-          "o": 113.4,
-          "inning": "himachal pradesh Inning 1"
-        },
-        {
-          "r": 296,
-          "w": 10,
-          "o": 82.3,
-          "inning": "Haryana,Himachal Pradesh Inning 1"
-        },
-        {
-          "r": 38,
-          "w": 4,
-          "o": 16,
-          "inning": "himachal pradesh Inning 2"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "18241534-1dd0-4b4e-844d-4f524a288dcc",
-      "name": "Railways vs Uttarakhand, Elite Group D, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Uttarakhand lead by 144 runs",
-      "venue": "Brabourne Stadium, Mumbai",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Railways",
-        "Uttarakhand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Railways",
-          "shortname": "RLYS",
-          "img": "https://g.cricapi.com/iapi/75-637897802979231020.png?w=48"
-        },
-        {
-          "name": "Uttarakhand",
-          "shortname": "UTK",
-          "img": "https://g.cricapi.com/iapi/95-637897806132002810.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 278,
-          "w": 10,
-          "o": 87.5,
-          "inning": "Railways Inning 1"
-        },
-        {
-          "r": 422,
-          "w": 6,
-          "o": 138,
-          "inning": "Uttarakhand Inning 1"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "1d4ed84f-0d11-4ece-a300-5a5e001ed510",
-      "name": "Rajasthan vs Tamil Nadu, Elite Group D, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Rajasthan lead by 90 runs",
-      "venue": "Sawai Mansingh Stadium, Jaipur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Rajasthan",
-        "Tamil Nadu"
-      ],
-      "teamInfo": [
-        {
-          "name": "Rajasthan",
-          "shortname": "RAJ",
-          "img": "https://g.cricapi.com/iapi/76-637897803285904034.png?w=48"
-        },
-        {
-          "name": "Tamil Nadu",
-          "shortname": "TN",
-          "img": "https://g.cricapi.com/iapi/87-637897804625426972.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 363,
-          "w": 10,
-          "o": 115.3,
-          "inning": "rajasthan Inning 1"
-        },
-        {
-          "r": 274,
-          "w": 10,
-          "o": 98.4,
-          "inning": "Rajasthan,Tamil Nadu Inning 1"
-        },
-        {
-          "r": 1,
-          "w": 1,
-          "o": 2,
-          "inning": "rajasthan Inning 2"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "e5cb5069-ff48-4161-ad48-57f92467dd67",
-      "name": "Mumbai vs Chandigarh, Elite Group D, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Chandigarh trail by 184 runs",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Mumbai",
-        "Chandigarh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chandigarh",
-          "shortname": "CDG",
-          "img": "https://g.cricapi.com/iapi/17-637897790786615930.png?w=48"
-        },
-        {
-          "name": "Mumbai",
-          "shortname": "MUM",
-          "img": "https://g.cricapi.com/iapi/51-637897800490404099.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 429,
-          "w": 10,
-          "o": 136.5,
-          "inning": "Mumbai Inning 1"
-        },
-        {
-          "r": 78,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Chandigarh Inning 1"
-        },
-        {
-          "r": 167,
-          "w": 7,
-          "o": 47,
-          "inning": "Mumbai Inning 2"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "95ba2477-f7d7-48cf-93e3-6012372d9cc3",
-      "name": "Goa vs Baroda, Elite Group A, Ranji Trophy Elite 2026-27",
-      "matchType": "test",
-      "status": "Day 3: 2nd Session - Goa trail by 325 runs",
-      "venue": "Bhausaheb Bandodkar Ground, Goa",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T04:00:00",
-      "teams": [
-        "Goa",
-        "Baroda"
-      ],
-      "teamInfo": [
-        {
-          "name": "Baroda",
-          "shortname": "BRD",
-          "img": "https://g.cricapi.com/iapi/11-637897788547716432.png?w=48"
-        },
-        {
-          "name": "Goa",
-          "shortname": "GOA",
-          "img": "https://g.cricapi.com/iapi/26-637897792202678375.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 472,
-          "w": 8,
-          "o": 157,
-          "inning": "baroda Inning 1"
-        },
-        {
-          "r": 147,
-          "w": 4,
-          "o": 47,
-          "inning": "Goa,Baroda Inning 1"
-        }
-      ],
-      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
