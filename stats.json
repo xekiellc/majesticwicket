@@ -1,369 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T15:20:34.993Z",
+  "lastUpdated": "2026-10-13T20:09:33.587Z",
   "recentMatches": [
-    {
-      "id": "388c8420-ff74-4840-b6ab-11d223faf55b",
-      "name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women, Final, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 2 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-17",
-      "dateTimeGMT": "2026-09-17T00:00:00",
-      "teams": [
-        "Trinbago Knight Riders Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "score": [
-        {
-          "r": 145,
-          "w": 6,
-          "o": 20,
-          "inning": "trinbago knight riders women Inning 1"
-        },
-        {
-          "r": 149,
-          "w": 8,
-          "o": 19.3,
-          "inning": "Trinbago Knight Riders Women,Guyana Amazon Warriors Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "11eb60da-d548-48a0-8ca2-528083086d0f",
-      "name": "Barbados Tridents Women vs Guyana Amazon Warriors Women, Playoff 2nd v 3rd, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-16",
-      "dateTimeGMT": "2026-09-16T00:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "score": [
-        {
-          "r": 69,
-          "w": 4,
-          "o": 8,
-          "inning": "Barbados Tridents Women Inning 1"
-        },
-        {
-          "r": 75,
-          "w": 3,
-          "o": 7.2,
-          "inning": "Guyana Amazon Warriors Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "169b8f6a-f69d-4201-91d0-0ee792d4dbaf",
-      "name": "Guyana Amazon Warriors Women vs Barbados Tridents Women, 6th Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 5 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Guyana Amazon Warriors Women",
-        "Barbados Tridents Women"
-      ],
-      "score": [
-        {
-          "r": 158,
-          "w": 7,
-          "o": 20,
-          "inning": "Barbados Tridents Women Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 5,
-          "o": 19,
-          "inning": "Guyana Amazon Warriors Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b54b73b4-772a-435e-9c72-2780be6ee7c3",
-      "name": "Barbados Tridents Women vs Jamaica Empress Women, 5th Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Barbados Tridents Women won by 3 runs",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Jamaica Empress Women"
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 7,
-          "o": 20,
-          "inning": "barbados tridents women Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 4,
-          "o": 20,
-          "inning": "Barbados Tridents Women,Jamaica Empress Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9c5ecc33-a009-4490-82ec-00b321f92eb6",
-      "name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women, 4th Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 25 runs",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Trinbago Knight Riders Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "score": [
-        {
-          "r": 119,
-          "w": 8,
-          "o": 20,
-          "inning": "Guyana Amazon Warriors Women Inning 1"
-        },
-        {
-          "r": 94,
-          "w": 9,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c747ad84-e4be-45d9-9fed-d537c3babf9a",
-      "name": "Trinbago Knight Riders Women vs Jamaica Empress Women, 3rd Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Trinbago Knight Riders Women won by 9 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-10",
-      "dateTimeGMT": "2026-09-10T00:00:00",
-      "teams": [
-        "Trinbago Knight Riders Women",
-        "Jamaica Empress Women"
-      ],
-      "score": [
-        {
-          "r": 100,
-          "w": 8,
-          "o": 20,
-          "inning": "Jamaica Empress Women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 1,
-          "o": 11.1,
-          "inning": "Trinbago Knight Riders Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c87589b0-76b5-4534-b1c9-69777e2eb1fd",
-      "name": "Jamaica Empress Women vs Guyana Amazon Warriors Women, 2nd Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "JEW won by 1 wkt  -  2nd innings reduced to 19 overs - DLS Target 132",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Jamaica Empress Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "score": [
-        {
-          "r": 138,
-          "w": 7,
-          "o": 20,
-          "inning": "Guyana Amazon Warriors Women Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 9,
-          "o": 19,
-          "inning": "Jamaica Empress Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2c39be65-e9b9-4956-a05c-a7b07d394f92",
-      "name": "Barbados Tridents Women vs Trinbago Knight Riders Women, 1st Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Trinbago Knight Riders Women won by 21 runs",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Trinbago Knight Riders Women"
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 10,
-          "o": 20,
-          "inning": "Trinbago Knight Riders Women Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 10,
-          "o": 18.4,
-          "inning": "Barbados Tridents Women Inning 1"
-        }
-      ],
-      "series_id": "415eb1aa-b596-49d3-a17e-be8624e9801f",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "dfa0e6dd-0aa2-4df9-9d52-5ceaaa81fb74",
-      "name": "South Africa vs Zimbabwe, Final, Namibia T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "South Africa won by 48 runs",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-09-06",
-      "dateTimeGMT": "2026-09-06T00:00:00",
-      "teams": [
-        "South Africa",
-        "Zimbabwe"
-      ],
-      "score": [
-        {
-          "r": 205,
-          "w": 5,
-          "o": 20,
-          "inning": "south africa Inning 1"
-        },
-        {
-          "r": 157,
-          "w": 10,
-          "o": 18,
-          "inning": "South Africa,Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "22782c3b-464b-4555-9825-2fca1e63f082",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "44a97051-023d-4d9e-9f78-e38ceb9a9179",
-      "name": "Namibia vs South Africa, 6th Match, Namibia T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "South Africa won by 11 runs",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Namibia",
-        "South Africa"
-      ],
-      "score": [
-        {
-          "r": 228,
-          "w": 4,
-          "o": 20,
-          "inning": "South Africa Inning 1"
-        },
-        {
-          "r": 217,
-          "w": 3,
-          "o": 20,
-          "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "22782c3b-464b-4555-9825-2fca1e63f082",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "090eb8f1-120b-4be3-a2ed-3b39337971d7",
-      "name": "Japan vs Hong Kong, China, 1st T20I, Hong Kong, China tour of Japan 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China won by 4 wkts",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-09-19",
-      "dateTimeGMT": "2026-09-19T00:00:00",
-      "teams": [
-        "Japan",
-        "Hong Kong"
-      ],
-      "score": [
-        {
-          "r": 95,
-          "w": 7,
-          "o": 20,
-          "inning": "japan Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 6,
-          "o": 19.1,
-          "inning": "Japan,Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "379a4f0a-b6c5-4fee-8c63-28938dbb2b9d",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "1627a16a-352e-4018-8974-904ee861bb60",
       "name": "Qatar vs Mongolia, 16th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
@@ -557,273 +194,676 @@
       "matchEnded": true
     },
     {
-      "id": "ab50010b-18ad-4a1e-9170-f2c664c52b60",
-      "name": "Mongolia vs Thailand, 10th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
+      "id": "c34a6e41-5c7b-4b12-9b02-fb5de09dc259",
+      "name": "China vs Saudi Arabia, 12th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
       "matchType": "t20",
-      "status": "Thailand won by 183 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T00:00:00",
+      "status": "Saudi Arabia won by 64 runs (10 Overs game due to rain)",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
       "teams": [
-        "Mongolia",
-        "Thailand"
+        "China",
+        "Saudi Arabia"
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 6,
+          "o": 10,
+          "inning": "Saudi Arabia Inning 1"
+        },
+        {
+          "r": 34,
+          "w": 8,
+          "o": 10,
+          "inning": "China Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1189dc8b-0dd3-4ce0-be0c-510d3eef75a3",
+      "name": "Hong Kong, China vs Maldives, 11th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "No result due to rain",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 3,
+          "o": 13,
+          "inning": "Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "33969b2a-6963-4dcf-a371-591c47107ab3",
+      "name": "Malaysia vs Singapore, 10th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 37 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Malaysia",
+        "Singapore"
+      ],
+      "score": [
+        {
+          "r": 149,
+          "w": 5,
+          "o": 20,
+          "inning": "Malaysia Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 10,
+          "o": 19,
+          "inning": "Singapore Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7883fbec-2116-40cf-a0fe-f634e476ab7d",
+      "name": "Hong Kong, China vs Saudi Arabia, 7th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Saudi Arabia won by 10 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "score": [
+        {
+          "r": 168,
+          "w": 6,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 10,
+          "o": 19.3,
+          "inning": " Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fa889625-942f-4402-891e-c2093ba3a6c2",
+      "name": "Malaysia vs Maldives, 8th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 6 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Malaysia",
+        "Maldives"
+      ],
+      "score": [
+        {
+          "r": 125,
+          "w": 9,
+          "o": 20,
+          "inning": "Maldives Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 4,
+          "o": 8.5,
+          "inning": "Malaysia Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7e70cc14-6118-45b7-a083-22851e1ad9c6",
+      "name": "China vs Singapore, 9th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Singapore won by 50 runs",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "China",
+        "Singapore"
+      ],
+      "score": [
+        {
+          "r": 139,
+          "w": 10,
+          "o": 20,
+          "inning": "Singapore Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 6,
+          "o": 20,
+          "inning": "China Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "57e4d85e-0474-4b34-b30d-b0b24f937040",
+      "name": "Sydney Thunder Women vs Brisbane Heat Women, 7th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Match abandoned due to rain (with toss)",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Brisbane Heat Women"
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "40a13d90-b2ff-4b71-90d6-6036604087b9",
+      "name": "Adelaide Strikers Women vs Perth Scorchers Women, 6th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 6 wkts",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Perth Scorchers Women"
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 8,
+          "o": 20,
+          "inning": "Perth Scorchers Women Inning 1"
+        },
+        {
+          "r": 183,
+          "w": 4,
+          "o": 19.2,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ce7500a3-9301-4d32-a378-14da07fc5d6a",
+      "name": "Sydney Sixers Women vs ACT Women, 5th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 12 runs (DLS method)",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "ACT Women"
+      ],
+      "score": [
+        {
+          "r": 78,
+          "w": 3,
+          "o": 9,
+          "inning": "Sydney Sixers Women Inning 1"
+        },
+        {
+          "r": 77,
+          "w": 7,
+          "o": 9,
+          "inning": "ACT Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c13f6e9a-12c6-46a1-a56e-2b72f6d02cbe",
+      "name": "Sydney Thunder Women vs Melbourne Stars Women, 4th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Thunder Women won by 7 wkts",
+      "venue": "Hurstville Oval, Sydney",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Melbourne Stars Women"
+      ],
+      "score": [
+        {
+          "r": 78,
+          "w": 10,
+          "o": 15,
+          "inning": "melbourne stars women Inning 1"
+        },
+        {
+          "r": 79,
+          "w": 3,
+          "o": 9.4,
+          "inning": "Sydney Thunder Women,Melbourne Stars Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3c9e5ff9-1637-4389-ae80-ac77078db263",
+      "name": "Melbourne Renegades Women vs Perth Scorchers Women, 3rd Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 6 wkts",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Perth Scorchers Women"
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 7,
+          "o": 20,
+          "inning": "Melbourne Renegades Women Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 4,
+          "o": 16.1,
+          "inning": "Perth Scorchers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "17644ae5-3d03-4dfd-834b-6e078fa8a51c",
+      "name": "Sydney Sixers Women vs Brisbane Heat Women, 2nd Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 46 runs",
+      "venue": "Hurstville Oval, Sydney",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Brisbane Heat Women"
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 3,
+          "o": 20,
+          "inning": "Sydney Sixers Women Inning 1"
+        },
+        {
+          "r": 90,
+          "w": 10,
+          "o": 18,
+          "inning": "Brisbane Heat Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "054ad23d-4733-49b5-b753-7bf4c1705931",
+      "name": "Hobart Hurricanes Women vs ACT Women, 1st Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Hobart Hurricanes Women won by 27 runs",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "ACT Women"
+      ],
+      "score": [
+        {
+          "r": 127,
+          "w": 7,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 10,
+          "o": 18.5,
+          "inning": "ACT Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "461133d0-b613-44f1-958d-bb523226ab90",
+      "name": "India Champions vs West Indies Champions, 15th Match, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "West Indies Champions won by 6 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T15:30:00",
+      "teams": [
+        "India Champions",
+        "West Indies Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Champions",
+          "shortname": "INDC",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "West Indies Champions",
+          "shortname": "WIC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 110,
+          "w": 8,
+          "o": 20,
+          "inning": "India Champions Inning 1"
+        },
+        {
+          "r": 111,
+          "w": 4,
+          "o": 14.5,
+          "inning": "West Indies Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "006c4557-4443-4a0f-b351-b32dc48e7d33",
+      "name": "South Africa Champions vs England Champions, 14th Match, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "South Africa Champions won by 9 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T11:30:00",
+      "teams": [
+        "South Africa Champions",
+        "England Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Champions",
+          "shortname": "ENGC",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "South Africa Champions",
+          "shortname": "SAC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 204,
+          "w": 5,
+          "o": 20,
+          "inning": "south africa champions Inning 1"
+        },
+        {
+          "r": 195,
+          "w": 7,
+          "o": 20,
+          "inning": "South Africa Champions,England Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e99855fe-6ed0-4448-8af0-2913749fddf3",
+      "name": "India Champions vs Bangladesh Champions, 13th Match, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "Bangladesh Champions won by 3 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "India Champions",
+        "Bangladesh Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "India Champions",
+          "shortname": "INDC",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 9,
+          "o": 20,
+          "inning": "Bangladesh Champions Inning 1"
+        },
+        {
+          "r": 138,
+          "w": 8,
+          "o": 20,
+          "inning": "India Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fbc6cefe-95bc-402c-923c-533a51650fc5",
+      "name": "Australia Champions vs West Indies Champions, 12th Match, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "Australia Champions won by 36 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Australia Champions",
+        "West Indies Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Champions",
+          "shortname": "AUSC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "West Indies Champions",
+          "shortname": "WIC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 10,
+          "o": 16.2,
+          "inning": "australia champions Inning 1"
+        },
+        {
+          "r": 83,
+          "w": 10,
+          "o": 18.1,
+          "inning": "Australia Champions,West Indies Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2fcad54f-842d-4bf4-9a2e-ea8a7e99a32c",
+      "name": "India Champions vs South Africa Champions, 11th Match, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "South Africa Champions won by 4 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-10",
+      "dateTimeGMT": "2026-10-10T00:00:00",
+      "teams": [
+        "India Champions",
+        "South Africa Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Champions",
+          "shortname": "INDC",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "South Africa Champions",
+          "shortname": "SAC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
       ],
       "score": [
         {
           "r": 196,
-          "w": 2,
-          "o": 20,
-          "inning": "thailand Inning 1"
-        },
-        {
-          "r": 13,
-          "w": 10,
-          "o": 11.3,
-          "inning": "Mongolia,Thailand Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e575e1ce-93c4-441d-bc2a-e0ac2f6bcfce",
-      "name": "Bahrain vs Kuwait, 11th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Bahrain won by 6 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T00:00:00",
-      "teams": [
-        "Bahrain",
-        "Kuwait"
-      ],
-      "score": [
-        {
-          "r": 188,
-          "w": 7,
-          "o": 20,
-          "inning": "Kuwait Inning 1"
-        },
-        {
-          "r": 189,
-          "w": 4,
-          "o": 19.2,
-          "inning": "Bahrain Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "c3b6181c-52ec-4bb9-b00e-b9d3c0961ae1",
-      "name": "Qatar vs Myanmar, 12th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Qatar won by 9 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T00:00:00",
-      "teams": [
-        "Qatar",
-        "Myanmar"
-      ],
-      "score": [
-        {
-          "r": 55,
-          "w": 9,
-          "o": 20,
-          "inning": "myanmar Inning 1"
-        },
-        {
-          "r": 56,
-          "w": 1,
-          "o": 7,
-          "inning": "Qatar,Myanmar Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9c01691f-668b-420e-954e-4d76abfd9d37",
-      "name": "India A Women vs Australia A Women, Only unofficial Test, Australia A Women tour of India 2026",
-      "status": "India A Women won by 281 runs",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "date": "2026-09-29",
-      "dateTimeGMT": "2026-09-29T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "score": [
-        {
-          "r": 364,
-          "w": 10,
-          "o": 103.3,
-          "inning": "india a women Inning 1"
-        },
-        {
-          "r": 176,
-          "w": 10,
-          "o": 63.4,
-          "inning": "India A Women,Australia A Women Inning 1"
-        },
-        {
-          "r": 257,
-          "w": 10,
-          "o": 64.2,
-          "inning": "india a women Inning 2"
-        },
-        {
-          "r": 164,
-          "w": 10,
-          "o": 76,
-          "inning": "India A Women,Australia A Women Inning 2"
-        }
-      ],
-      "series_id": "70e7ac37-33e6-4468-9181-74d8b6bb969e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "48aa16f6-6ae2-4736-9802-2c4e2e11e13d",
-      "name": "India A Women vs Australia A Women, 3rd unofficial ODI, Australia A Women tour of India 2026",
-      "status": "India A Women won by 4 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-25",
-      "dateTimeGMT": "2026-09-25T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "score": [
-        {
-          "r": 362,
-          "w": 9,
-          "o": 50,
-          "inning": "australia a women Inning 1"
-        },
-        {
-          "r": 364,
-          "w": 6,
-          "o": 48.2,
-          "inning": "India A Women,Australia A Women Inning 1"
-        }
-      ],
-      "series_id": "70e7ac37-33e6-4468-9181-74d8b6bb969e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1abb3449-7a90-44c8-8b04-2ef742292aaf",
-      "name": "India A Women vs Australia A Women, 2nd unofficial ODI, Australia A Women tour of India 2026",
-      "status": "Australia A Women won by 2 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-23",
-      "dateTimeGMT": "2026-09-23T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "score": [
-        {
-          "r": 338,
-          "w": 6,
-          "o": 50,
-          "inning": "india a women Inning 1"
-        },
-        {
-          "r": 341,
           "w": 8,
-          "o": 49.3,
-          "inning": "India A Women,Australia A Women Inning 1"
-        }
-      ],
-      "series_id": "70e7ac37-33e6-4468-9181-74d8b6bb969e",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4e08f1a7-c37d-4bda-8e7e-a5ac233a41e8",
-      "name": "Cayman Islands vs Bermuda, Final, North American Cup, 2026",
-      "matchType": "t20",
-      "status": "Bermuda won by 42 runs",
-      "venue": "Jimmy Powell Oval, George Town",
-      "date": "2026-09-27",
-      "dateTimeGMT": "2026-09-27T00:00:00",
-      "teams": [
-        "Cayman Islands",
-        "Bermuda"
-      ],
-      "score": [
-        {
-          "r": 101,
-          "w": 9,
-          "o": 15,
-          "inning": "Bermuda Inning 1"
+          "o": 20,
+          "inning": "India Champions Inning 1"
         },
         {
-          "r": 59,
-          "w": 10,
-          "o": 15,
-          "inning": "Cayman Islands Inning 1"
-        }
-      ],
-      "series_id": "8119e88b-10fa-4480-89b6-89bd4f3ec135",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e111dc25-9820-48a7-b566-6c03cf57c9b6",
-      "name": "Bahamas vs Bermuda, Qualifier, North American Cup, 2026",
-      "matchType": "t20",
-      "status": "Bermuda won by 8 wkts",
-      "venue": "Jimmy Powell Oval, George Town",
-      "date": "2026-09-26",
-      "dateTimeGMT": "2026-09-26T00:00:00",
-      "teams": [
-        "Bahamas",
-        "Bermuda"
-      ],
-      "score": [
-        {
-          "r": 82,
-          "w": 10,
+          "r": 198,
+          "w": 6,
           "o": 18.5,
-          "inning": "bahamas Inning 1"
-        },
-        {
-          "r": 83,
-          "w": 2,
-          "o": 6.1,
-          "inning": "Bahamas,Bermuda Inning 1"
+          "inning": "South Africa Champions Inning 1"
         }
       ],
-      "series_id": "8119e88b-10fa-4480-89b6-89bd4f3ec135",
-      "fantasyEnabled": false,
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8102bbd5-6ac5-49eb-ae59-e2b13bfc9ce5",
+      "name": "Western Australia vs Queensland, 9th Match, Australia Domestic One-Day Cup 2026-27",
+      "matchType": "odi",
+      "status": "Queensland won by 15 runs",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Western Australia",
+        "Queensland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Queensland",
+          "shortname": "QL",
+          "img": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 261,
+          "w": 10,
+          "o": 45.2,
+          "inning": "Queensland Inning 1"
+        },
+        {
+          "r": 246,
+          "w": 10,
+          "o": 44,
+          "inning": "Western Australia Inning 1"
+        }
+      ],
+      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
