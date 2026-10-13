@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T17:04:11.965Z",
+  "lastUpdated": "2026-10-13T01:54:19.834Z",
   "recentMatches": [
     {
       "id": "51482a19-a41a-494e-82a0-3714b5a77360",
@@ -288,51 +288,6 @@
       "matchEnded": true
     },
     {
-      "id": "f282a0cb-51d5-4189-b067-aa50683d4f19",
-      "name": "Bahrain vs Myanmar, 9th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Bahrain won by 8 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-08",
-      "dateTimeGMT": "2026-10-08T01:15:00",
-      "teams": [
-        "Bahrain",
-        "Myanmar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain",
-          "shortname": "BHR",
-          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
-        },
-        {
-          "name": "Myanmar",
-          "shortname": "MYAN",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 70,
-          "w": 9,
-          "o": 20,
-          "inning": "Myanmar Inning 1"
-        },
-        {
-          "r": 73,
-          "w": 2,
-          "o": 11.2,
-          "inning": "Bahrain Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "45e00e94-2219-4348-8b0c-01184813f3fc",
       "name": "India A vs Australia A, 2nd unofficial ODI, Australia A tour of India 2026",
       "status": "Australia A won by 69 runs",
@@ -373,96 +328,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "785c8271-f338-4263-a991-d2898460132e",
-      "name": "Bhutan vs Mongolia, 8th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Bhutan won by 136 runs",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-08",
-      "dateTimeGMT": "2026-10-08T01:15:00",
-      "teams": [
-        "Bhutan",
-        "Mongolia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhutan",
-          "shortname": "BHU",
-          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
-        },
-        {
-          "name": "Mongolia",
-          "shortname": "MN",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 203,
-          "w": 5,
-          "o": 20,
-          "inning": "bhutan Inning 1"
-        },
-        {
-          "r": 67,
-          "w": 10,
-          "o": 15,
-          "inning": "Bhutan,Mongolia Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "586c0a37-7512-44c4-9e60-356a541d0ebb",
-      "name": "Kuwait vs Thailand, 7th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Kuwait won by 9 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-08",
-      "dateTimeGMT": "2026-10-08T01:15:00",
-      "teams": [
-        "Kuwait",
-        "Thailand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        },
-        {
-          "name": "Thailand",
-          "shortname": "THAI",
-          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 60,
-          "w": 10,
-          "o": 18.3,
-          "inning": "Thailand Inning 1"
-        },
-        {
-          "r": 61,
-          "w": 1,
-          "o": 7,
-          "inning": "Kuwait Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -550,114 +415,6 @@
         }
       ],
       "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f7e74b46-d393-4066-b161-738f6ac287b7",
-      "name": "Western Australia vs Queensland, 3rd Match, Sheffield Shield 2026-27",
-      "matchType": "test",
-      "status": "Western Australia won by 2 wkts",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-08",
-      "dateTimeGMT": "2026-10-08T02:30:00",
-      "teams": [
-        "Western Australia",
-        "Queensland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Queensland",
-          "shortname": "QL",
-          "img": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=48"
-        },
-        {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 307,
-          "w": 10,
-          "o": 90.3,
-          "inning": "Queensland Inning 1"
-        },
-        {
-          "r": 175,
-          "w": 10,
-          "o": 73.1,
-          "inning": "Western Australia Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 10,
-          "o": 25.1,
-          "inning": "Queensland Inning 2"
-        },
-        {
-          "r": 201,
-          "w": 8,
-          "o": 72.5,
-          "inning": "Western Australia Inning 2"
-        }
-      ],
-      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f86a1b5e-83be-41b0-b2d3-4f1ae4e12a03",
-      "name": "New South Wales vs Tasmania, 2nd Match, Sheffield Shield 2026-27",
-      "matchType": "test",
-      "status": "Match drawn",
-      "venue": "Cricket Central, Sydney",
-      "date": "2026-10-08",
-      "dateTimeGMT": "2026-10-08T23:30:00",
-      "teams": [
-        "New South Wales",
-        "Tasmania"
-      ],
-      "teamInfo": [
-        {
-          "name": "New South Wales",
-          "shortname": "NSW",
-          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
-        },
-        {
-          "name": "Tasmania",
-          "shortname": "TAS",
-          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 245,
-          "w": 10,
-          "o": 96.2,
-          "inning": "Tasmania Inning 1"
-        },
-        {
-          "r": 500,
-          "w": 9,
-          "o": 97.2,
-          "inning": "New South Wales Inning 1"
-        },
-        {
-          "r": 402,
-          "w": 5,
-          "o": 153,
-          "inning": "Tasmania Inning 2"
-        }
-      ],
-      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1156,6 +913,237 @@
           "w": 1,
           "o": 28,
           "inning": "Services,Maharashtra Inning 1"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6431c597-e765-4cc2-ad56-12cbc1819d0f",
+      "name": "Haryana vs Himachal Pradesh, Elite Group D, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Haryana trail by 75 runs",
+      "venue": "Ch Bansi Lal Cricket Stadium, Rohtak",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T04:00:00",
+      "teams": [
+        "Haryana",
+        "Himachal Pradesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Haryana",
+          "shortname": "HAR",
+          "img": "https://g.cricapi.com/iapi/28-637897793655542496.png?w=48"
+        },
+        {
+          "name": "Himachal Pradesh",
+          "shortname": "HP",
+          "img": "https://g.cricapi.com/iapi/29-637897794090988497.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 253,
+          "w": 10,
+          "o": 113.4,
+          "inning": "himachal pradesh Inning 1"
+        },
+        {
+          "r": 178,
+          "w": 4,
+          "o": 46,
+          "inning": "Haryana,Himachal Pradesh Inning 1"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "18241534-1dd0-4b4e-844d-4f524a288dcc",
+      "name": "Railways vs Uttarakhand, Elite Group D, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Uttarakhand trail by 18 runs",
+      "venue": "Brabourne Stadium, Mumbai",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T04:00:00",
+      "teams": [
+        "Railways",
+        "Uttarakhand"
+      ],
+      "teamInfo": [
+        {
+          "name": "Railways",
+          "shortname": "RLYS",
+          "img": "https://g.cricapi.com/iapi/75-637897802979231020.png?w=48"
+        },
+        {
+          "name": "Uttarakhand",
+          "shortname": "UTK",
+          "img": "https://g.cricapi.com/iapi/95-637897806132002810.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 278,
+          "w": 10,
+          "o": 87.5,
+          "inning": "Railways Inning 1"
+        },
+        {
+          "r": 260,
+          "w": 4,
+          "o": 84,
+          "inning": "Uttarakhand Inning 1"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1d4ed84f-0d11-4ece-a300-5a5e001ed510",
+      "name": "Rajasthan vs Tamil Nadu, Elite Group D, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Tamil Nadu trail by 196 runs",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T04:00:00",
+      "teams": [
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rajasthan",
+          "shortname": "RAJ",
+          "img": "https://g.cricapi.com/iapi/76-637897803285904034.png?w=48"
+        },
+        {
+          "name": "Tamil Nadu",
+          "shortname": "TN",
+          "img": "https://g.cricapi.com/iapi/87-637897804625426972.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 363,
+          "w": 10,
+          "o": 115.3,
+          "inning": "rajasthan Inning 1"
+        },
+        {
+          "r": 167,
+          "w": 4,
+          "o": 50,
+          "inning": "Rajasthan,Tamil Nadu Inning 1"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "e5cb5069-ff48-4161-ad48-57f92467dd67",
+      "name": "Mumbai vs Chandigarh, Elite Group D, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Chandigarh trail by 351 runs",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T04:00:00",
+      "teams": [
+        "Mumbai",
+        "Chandigarh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chandigarh",
+          "shortname": "CDG",
+          "img": "https://g.cricapi.com/iapi/17-637897790786615930.png?w=48"
+        },
+        {
+          "name": "Mumbai",
+          "shortname": "MUM",
+          "img": "https://g.cricapi.com/iapi/51-637897800490404099.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 429,
+          "w": 10,
+          "o": 136.5,
+          "inning": "Mumbai Inning 1"
+        },
+        {
+          "r": 78,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Chandigarh Inning 1"
+        },
+        {
+          "r": 0,
+          "w": 1,
+          "o": 1,
+          "inning": "Mumbai Inning 2"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "95ba2477-f7d7-48cf-93e3-6012372d9cc3",
+      "name": "Goa vs Baroda, Elite Group A, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Goa trail by 467 runs",
+      "venue": "Bhausaheb Bandodkar Ground, Goa",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T04:00:00",
+      "teams": [
+        "Goa",
+        "Baroda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Baroda",
+          "shortname": "BRD",
+          "img": "https://g.cricapi.com/iapi/11-637897788547716432.png?w=48"
+        },
+        {
+          "name": "Goa",
+          "shortname": "GOA",
+          "img": "https://g.cricapi.com/iapi/26-637897792202678375.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 472,
+          "w": 8,
+          "o": 157,
+          "inning": "baroda Inning 1"
+        },
+        {
+          "r": 5,
+          "w": 1,
+          "o": 3,
+          "inning": "Goa,Baroda Inning 1"
         }
       ],
       "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
