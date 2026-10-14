@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-14T07:19:56.900Z",
+  "lastUpdated": "2026-10-14T13:08:34.570Z",
   "recentMatches": [
     {
       "id": "c28bfd05-81dd-46d6-9873-b094df319ef3",
       "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Australia Women won by 8 wkts",
       "venue": "Allan Border Field, Brisbane",
       "date": "2026-10-14",
       "dateTimeGMT": "2026-10-14T03:50:00",
@@ -13,20 +13,38 @@
         "Australia Women",
         "Bangladesh Women"
       ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 172,
           "w": 10,
           "o": 49.5,
           "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 175,
+          "w": 2,
+          "o": 22.4,
+          "inning": "Australia Women Inning 1"
         }
       ],
       "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5e6bd6d6-3505-4cf0-9798-9ef6332c3e23",
@@ -39,6 +57,18 @@
       "teams": [
         "Australia Women",
         "Bangladesh Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -55,7 +85,7 @@
         }
       ],
       "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -73,6 +103,18 @@
         "Australia Women",
         "Bangladesh Women"
       ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 166,
@@ -88,7 +130,7 @@
         }
       ],
       "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -98,7 +140,7 @@
       "id": "e982aea2-1238-448c-9005-1cd04642693f",
       "name": "Bhutan vs Thailand, 21st Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
       "matchType": "t20",
-      "status": "Thailand opt to bat",
+      "status": "Thailand won by 37 runs",
       "venue": "Selangor Turf Club, Kuala Lumpur",
       "date": "2026-10-14",
       "dateTimeGMT": "2026-10-14T06:00:00",
@@ -106,12 +148,38 @@
         "Bhutan",
         "Thailand"
       ],
+      "teamInfo": [
+        {
+          "name": "Bhutan",
+          "shortname": "BHU",
+          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 134,
+          "w": 8,
+          "o": 20,
+          "inning": "thailand Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 10,
+          "o": 18.5,
+          "inning": "Bhutan,Thailand Inning 1"
+        }
+      ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "46cf1f9f-e741-423a-bfe9-98dd14921252",
@@ -124,6 +192,18 @@
       "teams": [
         "Bahrain",
         "Qatar"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain",
+          "shortname": "BHR",
+          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -140,7 +220,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -158,6 +238,18 @@
         "Myanmar",
         "Mongolia"
       ],
+      "teamInfo": [
+        {
+          "name": "Mongolia",
+          "shortname": "MN",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Myanmar",
+          "shortname": "MYAN",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
       "score": [
         {
           "r": 56,
@@ -173,7 +265,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -191,6 +283,18 @@
         "Qatar",
         "Mongolia"
       ],
+      "teamInfo": [
+        {
+          "name": "Mongolia",
+          "shortname": "MN",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 211,
@@ -200,7 +304,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -218,6 +322,18 @@
         "Myanmar",
         "Thailand"
       ],
+      "teamInfo": [
+        {
+          "name": "Myanmar",
+          "shortname": "MYAN",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        },
+        {
+          "name": "Thailand",
+          "shortname": "THAI",
+          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 52,
@@ -233,7 +349,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -251,6 +367,18 @@
         "Bhutan",
         "Kuwait"
       ],
+      "teamInfo": [
+        {
+          "name": "Bhutan",
+          "shortname": "BHU",
+          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
+        },
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 74,
@@ -266,7 +394,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -284,6 +412,18 @@
         "Bahrain",
         "Mongolia"
       ],
+      "teamInfo": [
+        {
+          "name": "Bahrain",
+          "shortname": "BHR",
+          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
+        },
+        {
+          "name": "Mongolia",
+          "shortname": "MN",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
       "score": [
         {
           "r": 17,
@@ -299,7 +439,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -317,6 +457,18 @@
         "Bhutan",
         "Qatar"
       ],
+      "teamInfo": [
+        {
+          "name": "Bhutan",
+          "shortname": "BHU",
+          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 64,
@@ -332,7 +484,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -350,6 +502,18 @@
         "Kuwait",
         "Myanmar"
       ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Myanmar",
+          "shortname": "MYAN",
+          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
+        }
+      ],
       "score": [
         {
           "r": 34,
@@ -365,7 +529,7 @@
         }
       ],
       "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -375,7 +539,7 @@
       "id": "982c7933-f9bf-48e2-9cdc-e98c5109f006",
       "name": "Maldives vs Saudi Arabia, 15th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
       "matchType": "t20",
-      "status": "Saudi Arabia opt to bat",
+      "status": "Saudi Arabia won by 125 runs",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "date": "2026-10-14",
       "dateTimeGMT": "2026-10-14T06:00:00",
@@ -383,30 +547,77 @@
         "Maldives",
         "Saudi Arabia"
       ],
+      "teamInfo": [
+        {
+          "name": "Maldives",
+          "shortname": "MDV",
+          "img": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=48"
+        },
+        {
+          "name": "Saudi Arabia",
+          "shortname": "SAU",
+          "img": "https://g.cricapi.com/iapi/649-637877090170801940.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 194,
+          "w": 5,
+          "o": 20,
+          "inning": "saudi arabia Inning 1"
+        },
+        {
+          "r": 69,
+          "w": 10,
+          "o": 17.1,
+          "inning": "Maldives,Saudi Arabia Inning 1"
+        }
+      ],
       "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "4a378ea0-b156-47f1-8127-c2bfb65f765d",
       "name": "Hong Kong, China vs Singapore, 14th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
       "matchType": "t20",
-      "status": "Hong Kong, China opt to bat",
+      "status": "Hong Kong, China won by 38 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-10-14",
       "dateTimeGMT": "2026-10-14T06:00:00",
       "teams": [
         "Hong Kong"
       ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 172,
+          "w": 5,
+          "o": 20,
+          "inning": "hong kong, china Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 10,
+          "o": 18,
+          "inning": "Hong Kong Inning 1"
+        }
+      ],
       "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "35d090cb-44f4-4696-a76c-3a6d5f18bafb",
@@ -419,6 +630,18 @@
       "teams": [
         "Malaysia",
         "China"
+      ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -435,7 +658,7 @@
         }
       ],
       "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -452,6 +675,18 @@
       "teams": [
         "China",
         "Saudi Arabia"
+      ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Saudi Arabia",
+          "shortname": "SAU",
+          "img": "https://g.cricapi.com/iapi/649-637877090170801940.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -485,6 +720,13 @@
       "teams": [
         "Hong Kong"
       ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 104,
@@ -511,6 +753,18 @@
       "teams": [
         "Malaysia",
         "Singapore"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        },
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -543,6 +797,13 @@
       "dateTimeGMT": "2026-10-11T00:00:00",
       "teams": [
         "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -577,6 +838,18 @@
         "Malaysia",
         "Maldives"
       ],
+      "teamInfo": [
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        },
+        {
+          "name": "Maldives",
+          "shortname": "MDV",
+          "img": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 125,
@@ -610,6 +883,18 @@
         "China",
         "Singapore"
       ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 139,
@@ -632,6 +917,51 @@
       "matchEnded": true
     },
     {
+      "id": "f3064046-a1c8-458f-996e-0dbaa34531e7",
+      "name": "Adelaide Strikers Women vs Hobart Hurricanes Women, 9th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 29 runs",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-14",
+      "dateTimeGMT": "2026-10-14T08:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 5,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 8,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "689d96f3-42ba-4ab3-a41f-357b2edcf122",
       "name": "Melbourne Renegades Women vs Melbourne Stars Women, 8th Match, T20 Spring Challenge 2026",
       "matchType": "t20",
@@ -642,6 +972,18 @@
       "teams": [
         "Melbourne Renegades Women",
         "Melbourne Stars Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        },
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        }
       ],
       "score": [
         {
@@ -658,7 +1000,7 @@
         }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
@@ -675,6 +1017,18 @@
       "teams": [
         "Sydney Thunder Women",
         "Brisbane Heat Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
       "fantasyEnabled": false,
@@ -695,6 +1049,18 @@
         "Adelaide Strikers Women",
         "Perth Scorchers Women"
       ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 182,
@@ -707,39 +1073,6 @@
           "w": 4,
           "o": 19.2,
           "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ce7500a3-9301-4d32-a378-14da07fc5d6a",
-      "name": "Sydney Sixers Women vs ACT Women, 5th Match, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 12 runs (DLS method)",
-      "venue": "Bankstown Oval, Sydney",
-      "date": "2026-10-13",
-      "dateTimeGMT": "2026-10-13T00:00:00",
-      "teams": [
-        "Sydney Sixers Women",
-        "ACT Women"
-      ],
-      "score": [
-        {
-          "r": 78,
-          "w": 3,
-          "o": 9,
-          "inning": "Sydney Sixers Women Inning 1"
-        },
-        {
-          "r": 77,
-          "w": 7,
-          "o": 9,
-          "inning": "ACT Women Inning 1"
         }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
