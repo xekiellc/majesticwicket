@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:25:10.534Z",
+  "lastUpdated": "2026-10-14T23:03:43.834Z",
   "recentMatches": [
     {
       "id": "b769a5ee-0254-4213-9e3a-0ba263d2b09f",
@@ -182,225 +182,6 @@
       "matchEnded": true
     },
     {
-      "id": "6eb043eb-ff5c-4a52-aa74-7227f91d3507",
-      "name": "Namibia vs United Arab Emirates, 132nd Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Namibia won by 8 wkts",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T00:00:00",
-      "teams": [
-        "Namibia",
-        "United Arab Emirates"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 134,
-          "w": 10,
-          "o": 37.3,
-          "inning": "United Arab Emirates Inning 1"
-        },
-        {
-          "r": 135,
-          "w": 2,
-          "o": 26,
-          "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "11ddbc43-2ade-4d46-8ecc-f5f63f915996",
-      "name": "Oman vs Canada, 131st Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Oman won by 41 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T00:00:00",
-      "teams": [
-        "Oman",
-        "Canada"
-      ],
-      "teamInfo": [
-        {
-          "name": "Canada",
-          "shortname": "CAN",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 263,
-          "w": 10,
-          "o": 49.1,
-          "inning": "oman Inning 1"
-        },
-        {
-          "r": 222,
-          "w": 10,
-          "o": 48,
-          "inning": "Oman,Canada Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "62c08dcc-258b-41ec-b8c6-97deb82a22d5",
-      "name": "United States of America vs Namibia, 130th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United States of America won by 4 wkts",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "date": "2026-10-07",
-      "dateTimeGMT": "2026-10-07T00:00:00",
-      "teams": [
-        "United States of America",
-        "Namibia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "United States of America",
-          "shortname": "US",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 298,
-          "w": 9,
-          "o": 50,
-          "inning": "namibia Inning 1"
-        },
-        {
-          "r": 299,
-          "w": 6,
-          "o": 48.5,
-          "inning": "United States of America,Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4296e16a-7020-4744-bbd3-3e5c158376a0",
-      "name": "United States of America vs United Arab Emirates, 129th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United States of America won by 6 wkts",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "date": "2026-10-05",
-      "dateTimeGMT": "2026-10-05T00:00:00",
-      "teams": [
-        "United States of America",
-        "United Arab Emirates"
-      ],
-      "teamInfo": [
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        },
-        {
-          "name": "United States of America",
-          "shortname": "US",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 330,
-          "w": 8,
-          "o": 50,
-          "inning": "United Arab Emirates Inning 1"
-        },
-        {
-          "r": 332,
-          "w": 4,
-          "o": 48.5,
-          "inning": "United States of America Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "55fee32f-a13a-4a93-bfc9-6dc37333f35e",
-      "name": "Namibia vs United Arab Emirates, 128th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "No result due to rain",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "date": "2026-10-03",
-      "dateTimeGMT": "2026-10-03T00:00:00",
-      "teams": [
-        "Namibia",
-        "United Arab Emirates"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 9,
-          "w": 0,
-          "o": 2,
-          "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "c28bfd05-81dd-46d6-9873-b094df319ef3",
       "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
       "matchType": "odi",
@@ -480,51 +261,6 @@
           "r": 222,
           "w": 1,
           "o": 28.1,
-          "inning": "Australia Women Inning 1"
-        }
-      ],
-      "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3fc2f16c-27d3-4692-9a3c-55a554a73235",
-      "name": "Australia Women vs Bangladesh Women, 1st ODI, Bangladesh Women tour of Australia, 2026",
-      "matchType": "odi",
-      "status": "Australia Women won by 7 wkts",
-      "venue": "Allan Border Field, Brisbane",
-      "date": "2026-10-09",
-      "dateTimeGMT": "2026-10-09T00:00:00",
-      "teams": [
-        "Australia Women",
-        "Bangladesh Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 10,
-          "o": 49.4,
-          "inning": "Bangladesh Women Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 3,
-          "o": 25.4,
           "inning": "Australia Women Inning 1"
         }
       ],
@@ -1102,6 +838,258 @@
         }
       ],
       "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1189dc8b-0dd3-4ce0-be0c-510d3eef75a3",
+      "name": "Hong Kong, China vs Maldives, 11th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "No result due to rain",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 104,
+          "w": 3,
+          "o": 13,
+          "inning": "Hong Kong Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "33969b2a-6963-4dcf-a371-591c47107ab3",
+      "name": "Malaysia vs Singapore, 10th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 37 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-12",
+      "dateTimeGMT": "2026-10-12T00:00:00",
+      "teams": [
+        "Malaysia",
+        "Singapore"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        },
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 149,
+          "w": 5,
+          "o": 20,
+          "inning": "Malaysia Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 10,
+          "o": 19,
+          "inning": "Singapore Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7883fbec-2116-40cf-a0fe-f634e476ab7d",
+      "name": "Hong Kong, China vs Saudi Arabia, 7th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Saudi Arabia won by 10 runs",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 168,
+          "w": 6,
+          "o": 20,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 10,
+          "o": 19.3,
+          "inning": " Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fa889625-942f-4402-891e-c2093ba3a6c2",
+      "name": "Malaysia vs Maldives, 8th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Malaysia won by 6 wkts",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "Malaysia",
+        "Maldives"
+      ],
+      "teamInfo": [
+        {
+          "name": "Malaysia",
+          "shortname": "MAL",
+          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+        },
+        {
+          "name": "Maldives",
+          "shortname": "MDV",
+          "img": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 125,
+          "w": 9,
+          "o": 20,
+          "inning": "Maldives Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 4,
+          "o": 8.5,
+          "inning": "Malaysia Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7e70cc14-6118-45b7-a083-22851e1ad9c6",
+      "name": "China vs Singapore, 9th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "matchType": "t20",
+      "status": "Singapore won by 50 runs",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "date": "2026-10-11",
+      "dateTimeGMT": "2026-10-11T00:00:00",
+      "teams": [
+        "China",
+        "Singapore"
+      ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Singapore",
+          "shortname": "SGP",
+          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 139,
+          "w": 10,
+          "o": 20,
+          "inning": "Singapore Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 6,
+          "o": 20,
+          "inning": "China Inning 1"
+        }
+      ],
+      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f3064046-a1c8-458f-996e-0dbaa34531e7",
+      "name": "Adelaide Strikers Women vs Hobart Hurricanes Women, 9th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 29 runs",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-14",
+      "dateTimeGMT": "2026-10-14T08:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 5,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 8,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
