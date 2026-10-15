@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-10-14T23:03:43.834Z",
+  "lastUpdated": "2026-10-15T07:11:00.465Z",
   "recentMatches": [
+    {
+      "id": "8068c292-3042-402b-a53f-76ddc54d9785",
+      "name": "Oman vs Canada, 137th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Canada opt to bat",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-10-15",
+      "dateTimeGMT": "2026-10-15T06:00:00",
+      "teams": [
+        "Oman",
+        "Canada"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 3,
+          "o": 23,
+          "inning": "canada Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "b769a5ee-0254-4213-9e3a-0ba263d2b09f",
       "name": "United States of America vs Namibia, 136th Match, ICC Cricket World Cup League Two 2023-27",
@@ -1045,51 +1084,6 @@
         }
       ],
       "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f3064046-a1c8-458f-996e-0dbaa34531e7",
-      "name": "Adelaide Strikers Women vs Hobart Hurricanes Women, 9th Match, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Adelaide Strikers Women won by 29 runs",
-      "venue": "Bankstown Oval, Sydney",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T08:00:00",
-      "teams": [
-        "Adelaide Strikers Women",
-        "Hobart Hurricanes Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Adelaide Strikers Women",
-          "shortname": "AS-W",
-          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
-        },
-        {
-          "name": "Hobart Hurricanes Women",
-          "shortname": "HB-W",
-          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 5,
-          "o": 20,
-          "inning": "Adelaide Strikers Women Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 8,
-          "o": 20,
-          "inning": "Hobart Hurricanes Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,

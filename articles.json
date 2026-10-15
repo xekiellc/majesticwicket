@@ -1,11 +1,31 @@
 {
-  "lastUpdated": "2026-10-14T23:03:43.833Z",
+  "lastUpdated": "2026-10-15T07:11:00.464Z",
   "articles": [
+    {
+      "title": "Stubbs dropped, Rickelton to keep wickets in Gqeberha Test",
+      "url": "https://www.cricinfo.com/ci/content/story/1558532.html?ex_cid=OTC-RSS",
+      "description": "Matthew Breetzke has been brought into South Africa's 17-man squad",
+      "publishedAt": "2026-10-15T07:00:47.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Samson: Tilak's wicket the 'turning point' in India's loss",
+      "url": "https://www.cricinfo.com/ci/content/story/1558515.html?ex_cid=OTC-RSS",
+      "description": "India lost the fourth T20I by 24 runs while chasing 248 in Hyderabad",
+      "publishedAt": "2026-10-15T03:22:16.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Hope ton, Paul five-for help West Indies level series 2-2",
       "url": "https://www.cricinfo.com/ci/content/story/1558497.html?ex_cid=OTC-RSS",
       "description": "West Indies bowlers reined India in after Sanju Samson's 56 off 23",
-      "publishedAt": "2026-10-14T18:12:44.000Z",
+      "publishedAt": "2026-10-15T03:12:47.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -82,182 +102,102 @@
       "urlToImage": null
     },
     {
-      "title": "Iyer moves to fourth in T20I batting rankings",
-      "url": "https://www.cricinfo.com/ci/content/story/1558447.html?ex_cid=OTC-RSS",
-      "description": "Markram has moved into the top ten of the Test batting charts, while Hazlewood has moved to to seventh on the bowling front",
-      "publishedAt": "2026-10-14T11:42:26.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Chad Laycock takes record-breaking five wickets in an over in South African T20 match",
-      "url": "https://www.cricinfo.com/ci/content/story/1558419.html?ex_cid=OTC-RSS",
-      "description": "The KZN-Inland fast bowler finished with 6 for 26, the best figures in Pro20 Cup history",
-      "publishedAt": "2026-10-14T10:30:58.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "IND vs WI 2026: India vs West Indies Highlights & Review – 4th T20I",
-      "url": "https://www.crictracker.com/cricket-news/ind-vs-wi-2026-india-vs-west-indies-highlights-review-4th-t20i-9468/",
-      "description": "The visitors level the series 2-2 with a crucial win in Hyderabad.",
-      "publishedAt": "2026-10-14T17:07:54.000Z",
+      "title": "'Lacked in every aspect' - Mohammed Kaif star rips into Shreyas Iyer and Co after 247-run hammering",
+      "url": "https://www.crictracker.com/cricket-news/lacked-in-every-aspect-mohammed-kaif-star-rips-into-shreyas-iyer-and-co-after-247-run-hammering-2116/",
+      "description": "Mohammad Kaif criticised India's bowling, fielding and over-rate after West Indies posted 247/3 to beat the hosts by 24 runs in the 4th T20I at Hyderabad.",
+      "publishedAt": "2026-10-15T06:55:53.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "‘I've been your assistant for the last 25 years’ - Yuvraj Singh on joining Sourav Ganguly at DC",
-      "url": "https://www.crictracker.com/cricket-news/ive-been-your-assistant-for-the-last-25-years-yuvraj-singh-on-joining-sourav-ganguly-at-dc-8982/",
-      "description": "Yuvraj Singh joins Delhi Capitals as assistant and batting coach for IPL 2027, reuniting with former captain Sourav Ganguly.",
-      "publishedAt": "2026-10-14T16:29:50.000Z",
+      "title": "Tristan Stubbs dropped for Gqeberha Test as Ryan Rickelton to take keeping gloves",
+      "url": "https://www.crictracker.com/cricket-news/tristan-stubbs-dropped-for-gqeberha-test-as-ryan-rickelton-to-take-keeping-gloves-3329/",
+      "description": "Matthew Breetzke replaces Tristan Stubbs in South Africa's squad for the second Test against Australia, with Ryan Rickelton confirmed as wicketkeeper.",
+      "publishedAt": "2026-10-15T06:40:35.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Sahibzada Farhan breaks Abhishek Sharma's record for most runs in a three-match T20I series",
-      "url": "https://www.crictracker.com/cricket-news/sahibzada-farhan-breaks-abhishek-sharmas-record-for-most-runs-in-a-three-match-t20i-series-5429/",
-      "description": "Pakistan opener Sahibzada Farhan scored 238 runs across three T20Is against Sri Lanka, surpassing Abhishek Sharma's previous record of 229 runs set in 2026.",
-      "publishedAt": "2026-10-14T15:56:27.000Z",
+      "title": "Cameron Green 'progressing well' but second Test availability remains uncertain, says Andrew McDonald",
+      "url": "https://www.crictracker.com/cricket-news/cameron-green-progressing-well-but-second-test-availability-remains-uncertain-says-andrew-mcdonald/",
+      "description": "Australia's Cameron Green has not yet resumed batting after his abdominal injury, with the second Test against South Africa starting in Gqeberha on October 18, 2026.",
+      "publishedAt": "2026-10-15T05:19:41.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "BCCI wants Harmanpreet Kaur to guide Smriti Mandhana as captain, following Dhoni-Kohli model",
-      "url": "https://www.crictracker.com/cricket-news/bcci-wants-harmanpreet-kaur-to-guide-smriti-mandhana-as-captain-following-dhoni-kohli-model-9904/",
-      "description": "BCCI president Mithun Manhas believes the mentorship model that worked for men's cricket will benefit women's team leadership.",
-      "publishedAt": "2026-10-14T14:34:43.000Z",
+      "title": "Tilak's wicket the 'turning point' in India's loss to West Indies in the fourth T20I, says Sanju Samson",
+      "url": "https://www.crictracker.com/cricket-news/tilaks-wicket-the-turning-point-in-indias-loss-to-west-indies-in-the-fourth-t20i-says-sanju-samson/",
+      "description": "Sanju Samson identified the dismissal of Tilak Varma by Romario Shepherd as the moment India's chase of 248 unravelled in Hyderabad.",
+      "publishedAt": "2026-10-15T06:12:25.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "‘Bumrah would have been a doctor’ - Rohit Sharma hilariously describes teammates’ alternative careers",
-      "url": "https://www.crictracker.com/cricket-news/bumrah-would-have-been-a-doctor-rohit-sharma-hilariously-describes-teammates-alternative-careers-8283/",
-      "description": "In a recent episode of Family Full House, Krushna Abhishek turns the tables on Rohit Sharma, asking him a series of fun questions about his personal life and fellow cricketers.",
-      "publishedAt": "2026-10-14T14:04:04.000Z",
+      "title": "India's bowling was ordinary in 4th T20I against West Indies, says Aakash Chopra",
+      "url": "https://www.crictracker.com/cricket-news/indias-bowling-was-ordinary-in-4th-t20i-against-west-indies-says-aakash-chopra-0776/",
+      "description": "Former India batter Aakash Chopra highlighted India's bowling strategy as a key factor in West Indies' 24-run victory in Hyderabad.",
+      "publishedAt": "2026-10-15T06:22:08.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "‘A lot of our dismissals sat in the mental corner’ - Shukri Conrad reflects on South Africa's loss to Australia",
-      "url": "https://www.crictracker.com/cricket-news/a-lot-of-our-dismissals-sat-in-the-mental-corner-shukri-conrad-reflects-on-south-africas-loss-to-australia-4507/",
-      "description": "SA coach Matthew Nkosi Conrad emphasised unwavering mental discipline after Australia's 214-run victory in the first Test at Kingsmead, highlighting the dismissals that cost his team the match.",
-      "publishedAt": "2026-10-14T13:32:46.000Z",
+      "title": "India Women predicted playing XI for 1st T20I vs Zimbabwe Women",
+      "url": "https://www.crictracker.com/cricket-analysis/india-women-predicted-playing-xi-for-1st-t20i-vs-zimbabwe-women-3619/",
+      "description": "Smriti Mandhana leads India in her first captaincy assignment against Zimbabwe in Raipur.",
+      "publishedAt": "2026-10-15T06:03:48.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Lancashire Women sign Riva Pindoria from Middlesex on two-year deal",
-      "url": "https://www.crictracker.com/cricket-news/lancashire-women-sign-riva-pindoria-from-middlesex-on-two-year-deal/",
-      "description": "The 20-year-old Barnet-born all-rounder joins Emirates Old Trafford on a contract running until the end of the 2028 season.",
-      "publishedAt": "2026-10-14T13:31:12.000Z",
+      "title": "India’s last T20I in Bengaluru: Match Result and Key Highlights",
+      "url": "https://www.crictracker.com/cricket-news/indias-last-t20i-in-bengaluru-match-result-and-key-highlights/",
+      "description": "Rohit Sharma's unbeaten 121 off 69 balls powered India to 212/4, and the hosts eventually won the second Super Over by 10 runs on January 17, 2024.",
+      "publishedAt": "2026-10-15T05:42:12.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "IND vs WI 2026: Why is Kuldeep Yadav not playing in the 4th T20I?",
-      "url": "https://www.crictracker.com/cricket-news/ind-vs-wi-2026-why-is-kuldeep-yadav-not-playing-in-the-4th-t20i/",
-      "description": "Kuldeep Yadav misses his second consecutive T20I as India field an unchanged side in Hyderabad.",
-      "publishedAt": "2026-10-14T13:20:14.000Z",
+      "title": "'One match he gets hit, and then he is dropped again' - Mohammad Kaif backs Kuldeep Yadav's return for 5th T20I",
+      "url": "https://www.crictracker.com/cricket-news/one-match-he-gets-hit-and-then-he-is-dropped-again-mohammad-kaif-backs-kuldeep-yadavs-return-for-5th-t20i-2918/",
+      "description": "Former India batter Mohammad Kaif advocates for Kuldeep Yadav's inclusion in the final T20I against West Indies at Bengaluru on October 17.",
+      "publishedAt": "2026-10-15T05:23:07.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Hardik Pandya-Yashasvi Jaiswal trade between Mumbai Indians and Rajasthan Royals appears unlikely",
-      "url": "https://www.crictracker.com/cricket-news/hardik-pandya-yashasvi-jaiswal-trade-between-mumbai-indians-and-rajasthan-royals-appears-unlikely-8935/",
-      "description": "Talks between Mumbai Indians and Rajasthan Royals on a potential swap involving Hardik Pandya and Yashasvi Jaiswal have stalled, with the two franchises no longer in active discussions.",
-      "publishedAt": "2026-10-14T13:13:50.000Z",
+      "title": "'Why start there?' — Faf du Plessis questions CSA's logic behind Proteas' Durban Test opener",
+      "url": "https://www.crictracker.com/cricket-news/why-start-there-faf-du-plessis-questions-csas-logic-behind-proteas-durban-test-opener-6738/",
+      "description": "The former Proteas captain criticises the decision to begin the series at Kingsmead, where South Africa's record is poor and Australia's is strong.",
+      "publishedAt": "2026-10-15T05:00:30.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "India eye Suryansh Shedge for New Zealand ODIs after Australia A heroics",
-      "url": "https://www.crictracker.com/cricket-news/india-eye-suryansh-shedge-for-new-zealand-odis-after-australia-a-heroics-5951/",
-      "description": "The 23-year-old Mumbai all-rounder took four wickets and scored 66 in the Australia A series, putting himself firmly in contention for a maiden ODI call-up.",
-      "publishedAt": "2026-10-14T13:00:10.000Z",
+      "title": "Nic Maddinson admits 'huge relief' after second outing in Durban",
+      "url": "https://www.crictracker.com/cricket-news/nic-maddinson-admits-huge-relief-after-second-outing-in-durban-5654/",
+      "description": "Australia's recalled opener bounced back from a first-innings duck with a brisk 48 off 38 balls in the opening Test against South Africa.",
+      "publishedAt": "2026-10-15T04:41:54.000Z",
       "source": {
         "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli gains more than 240,000 LinkedIn followers in 24 hours - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkxxMl96NXAxWkowZVVyUUhWNlQ1ZXBuWVlrQ2RnSnhWbUc0MGMzQ3RtYUthbjVIQjU4RGtjVW84eVBpWHpxRGp4enlHVmstaEphekFzMUhsbFc0WXpJMmlBX0RRMllPNDNQb3Y1U3RUWVRxUmxuX2pBNld3WEpUQzJnNDd2UUdNaTNyR3RoWWIweS1JejBMckt1ZzdzTXl3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkxxMl96NXAxWkowZVVyUUhWNlQ1ZXBuWVlrQ2RnSnhWbUc0MGMzQ3RtYUthbjVIQjU4RGtjVW84eVBpWHpxRGp4enlHVmstaEphekFzMUhsbFc0WXpJMmlBX0RRMllPNDNQb3Y1U3RUWVRxUmxuX2pBNld3WEpUQzJnNDd2UUdNaTNyR3RoWWIweS1JejBMckt1ZzdzTXl3?oc=5\" target=\"_blank\">Virat Kohli",
-      "publishedAt": "2026-10-14T08:15:26.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli hints at his next innings in LinkedIn debut - The Federal",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkNxM0hKak82dXdkV1diWHZiSjh1OE9leWVhZnpVMGJuY2xwZUFYamYxd1NJQTdVMkc0UDZRbHFybjg1Q0xwRS1Jemc1VnpuakNfNUVSb3FSUFFSSFljWlZhV1QtT2RTRVh1N0M5REZveGNFM2w5SEtVNmItUE1GY2dicG1sLWFlSFpvOEJ1dmozdHQ4aHpnTE9nQTFEZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZkNxM0hKak82dXdkV1diWHZiSjh1OE9leWVhZnpVMGJuY2xwZUFYamYxd1NJQTdVMkc0UDZRbHFybjg1Q0xwRS1Jemc1VnpuakNfNUVSb3FSUFFSSFljWlZhV1QtT2RTRVh1N0M5REZveGNFM2w5SEtVNmItUE1GY2dicG1sLWFlSFpvOEJ1dmozdHQ4aHpnTE9nQTFEZw?oc=5\" target=\"_blank\">Virat Kohli h",
-      "publishedAt": "2026-10-13T11:35:02.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli Makes LinkedIn Debut At 37 With A Long Post: \"The Vision Is Clear\" - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3hTMzZVVTFNTlZuc2NzRkRzcEVhcmZMNUE5dTlNeXBFdzRXZUM1VnRjY0ttOUVGbTEtV2FZQ1F2eHR0Rmt0WTA3YmZ4VF9VYkJPbGZQQ0Y2QjRQQXJSU1dibUNGOGxiVWVGdmxvZmVXVVBQckRNZXVTc1g2Ui11MFZoTF82cDBhMWZIV3J0cGFJV1ptTXhmdl9tbkdHQXhIOTVGZklZOTAtQ0RWYnNfdnc2bktZVWc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3hTMzZVVTFNTlZuc2NzRkRzcEVhcmZMNUE5dTlNeXBFdzRXZUM1VnRjY0ttOUVGbTEtV2FZQ1F2eHR0Rmt0WTA3YmZ4VF9VYkJPbGZQQ0Y2QjRQQXJSU1dibUNGOGxiVWVGdmxvZmVXVVBQckRNZXVTc1g2Ui11MFZoTF82cDBhMWZIV3J0cGFJV1ptTXhmdl9tbkdHQXhIOTVGZklZOTAtQ0RWYnNfdnc2bktZVWc?oc",
-      "publishedAt": "2026-10-13T07:18:50.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "A deep dive into Steve Smith's trigger movement - Yardbarker",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1qYmtmdlFfVS04MkxVWjRxUXBJazhIeXVTSWpNdzRvR1p4UUJGZVF3Q0dNTEFReGlFV1p2Yjk0dnhYUVpROXpnaHNoUjY5blVwWG5WQTdwZ1o0a3gyeVhaMlJwS01DTHN1RlowVHBXRmVIZWZIUnMxNkhrcDBHNG9LcHRneGljUHNpNGRsUUMwVDZmam96NEpBZUhsXzF4TkdfVUo4UF9oMThr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQS1qYmtmdlFfVS04MkxVWjRxUXBJazhIeXVTSWpNdzRvR1p4UUJGZVF3Q0dNTEFReGlFV1p2Yjk0dnhYUVpROXpnaHNoUjY5blVwWG5WQTdwZ1o0a3gyeVhaMlJwS01DTHN1RlowVHBXRmVIZWZIUnMxNkhrcDBHNG9LcHRneGljUHNpNGRsUUMwVDZmam96NEpBZUhsXzF4TkdfVUo4UF9oMThr?oc=5\" target=\"_bl",
-      "publishedAt": "2026-10-14T20:13:18.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "The Virat Kohli masterclass: How Australian batter Nathan McSweeney used YouTube videos to crack Indian spinners - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFp3cEk0cmVEeXd0QkVMUmxMWEFwZG9aTWx5N0gxbWphYzJ4bm5wbDBnVHpYdC1RYmpUNG9uWjczaHZHSFRiOVNCOXBBblF2djk3RGRDLV92emc0b2ZWN1R3VGZMdlM3cmwzd0JONGhMZlA1VnFYaGl5OWhTSnBoZDFLTFVWQWRJQmdUMWdrS1FiQjd5?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFp3cEk0cmVEeXd0QkVMUmxMWEFwZG9aTWx5N0gxbWphYzJ4bm5wbDBnVHpYdC1RYmpUNG9uWjczaHZHSFRiOVNCOXBBblF2djk3RGRDLV92emc0b2ZWN1R3VGZMdlM3cmwzd0JONGhMZlA1VnFYaGl5OWhTSnBoZDFLTFVWQWRJQmdUMWdrS1FiQjd5?oc=5\" target=\"_blank\">The Virat Kohli masterclass",
-      "publishedAt": "2026-10-12T11:40:23.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Shubman Gill vs Babar Azam vs Virat Kohli: Who has won the most ICC Player of the Month awards? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdm8zb1JsTEtjeFdzVzFrODk3M1g1ekFVU2pKWWllWnRyODBVS2JQU3hXOHBwbm9fYzBhWjlKQThpak0xek11Nno1bGFnMDUtQlZSekRfenZoTEtxclVYd181NUdBNFU4dFcwaDJNc3V1Y1Z2MkxlYjBVdnRKQ1g0Rg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdm8zb1JsTEtjeFdzVzFrODk3M1g1ekFVU2pKWWllWnRyODBVS2JQU3hXOHBwbm9fYzBhWjlKQThpak0xek11Nno1bGFnMDUtQlZSekRfenZoTEtxclVYd181NUdBNFU4dFcwaDJNc3V1Y1Z2MkxlYjBVdnRKQ1g0Rg?oc=5\" target=\"_blank\">Shubman Gill vs Babar Azam vs Virat Kohli: Who has wo",
-      "publishedAt": "2026-10-13T13:04:02.000Z",
-      "source": {
-        "name": "Google News"
       },
       "urlToImage": null
     },
@@ -266,6 +206,26 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZTlHS0ozZmplRktXWjBHU2Y0NWMwVkh4c250RTQ3bWFUcE1zdTYxR2hPUHJDdG52bGVMSzZWeko0QlBDXzBnUW5rQ3VoZ2Fkd29PdUhWWUY3b2EyQU5IRjg0VU44VnAxNjY0NUwwUEtCSVJfc010eGc1UEFaU1RXNTJTeXJjNDhlU1lj?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZTlHS0ozZmplRktXWjBHU2Y0NWMwVkh4c250RTQ3bWFUcE1zdTYxR2hPUHJDdG52bGVMSzZWeko0QlBDXzBnUW5rQ3VoZ2Fkd29PdUhWWUY3b2EyQU5IRjg0VU44VnAxNjY0NUwwUEtCSVJfc010eGc1UEFaU1RXNTJTeXJjNDhlU1lj?oc=5\" target=\"_blank\">Is Sachin Tendulkar the GOAT? Stuart Br",
       "publishedAt": "2026-10-08T12:39:59.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'India can help shape the future of global sport': Virat Kohli's first post on LinkedIn goes viral - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMkhIeHhKenlrMnY5aWo5N1Y5SzU4eXNUMFkyUF93bXBPdUhPMDZKSzFaVkh2akVrd2dDdi1ENFhHN2F2QzRKZVVVQWRJbGpBbUItdTRiVFM5MGtnbTY3bnQ3ZThMSkdZNXFmdTQ0ZjBoLThvREQ1eUttZzNwOGJHZndpaHFlUnZWZ2tQTXhYWEYxSFQtYUxtRDUtTUYwLURJMG9fbDVyb0Ntdzl6cEgxejlON2NWV3k0TkwxYUNQamlrNl93SmhYd0J4VzhmelRPTlI0TzNWMFlOZUtWbmxjSXlVYi1fTHBScFN6MXhtSEpZT0JSV1M1SXZXcDd4a2pFWkNHR2dONNIBjAJBVV95cUxOb091VkFmTkswSVNXTWpCcFFheVZ1bEg2MFZ6a1Z3dzRQQjI0U3R4TjhHOWw2VHFtUEhGRno4b1Jnd3pyLU5Vem0yZzFwR1lEZDh2MVlhLXdTSGtfUGhBM0hLYzhrSDVaZ0tXcUVja2pmRGF3VnFwOVBzbjUwQzQzNTlWUFBORHAyc1lWRHdsclp0bmhQYkduQWRtUDY0cnAySkFyZDFodDRDbEgtYXUwb1ZpaWV0YXIyUWJUUWVKeThpMVRCandfaV93U2wyc3d3ajBNSEJtRE84MHF0d3p2bDBFaDhCSlVkTHlyRERLNkdoWi15LTJKSFRRdnZnWmpwcl9hNFl0Q1ZZWG04?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOMkhIeHhKenlrMnY5aWo5N1Y5SzU4eXNUMFkyUF93bXBPdUhPMDZKSzFaVkh2akVrd2dDdi1ENFhHN2F2QzRKZVVVQWRJbGpBbUItdTRiVFM5MGtnbTY3bnQ3ZThMSkdZNXFmdTQ0ZjBoLThvREQ1eUttZzNwOGJHZndpaHFlUnZWZ2tQTXhYWEYxSFQtYUxtRDUtTUYwLURJMG9fbDVyb0Ntdzl6cEgxejlON2NWV3k0Tk",
+      "publishedAt": "2026-10-14T06:44:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Sanju Samson joins Rohit Sharma, Virat Kohli in elite T20I club after quick 56 off 23 against West Indies - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNS2tGeVIzcG9xSHFySklPQWdLMTM2b196M09fdG1QZndFNlJ4bDVVY2ZRT19KNmMyTHdkeUlZQUNjYTJnR1Q3ellkemVydjA3SnkySlpxS1UwLWtkYTVxU29yQklrYjBYNW5UYmxrTE5CNHlUOEp0cW0xSF9yYXd0bVlxX3Rmd1llR1hUY3ZYS21OakJWS3p6bkZBUHFVQzBxazJhX3BSZ2pvYTEwX1Uzc1NJdkNzMjJ6ZjcyMU0tTVpQZGxEMExuRDVLMDF1aFRpQU1sVUhJeUNhYjlXZHk3Wm5OX1V1TnNETDlGNUQ1MmZzQXhrbzFTNjY0ODdHbDdiYWg3VE9GVHhFbnYxVk9DODFhUTBFOEhWbEVUeWFxQm5fcS0tQzdlOUtR0gGvAkFVX3lxTE9hcE1zeXUteVhqOERkWnJ0QlRHd0FfVXZCUTNkVVZlaWtnWmFXTEJNbFZKQ3VTeUVfUVd0Z0x0aTRsdktrYUxiRDQ0TWdDR21lZnRBYzBpeVpPdDExbTFnampqaW41ZEVHTVpFNUhtNnRjMDRxRktja0hYWkloaXp0dUtTd09hcXl2RkJrMlNaLWdQTE01V1dOSGJmZzAxbXk3SWFyUUFqVFpacUMwZ1RZUnJLdE5Qb3BtcWZSVUpOWkhMQ1dacnVfVVJGdlNqWXBRSDd0bGIyV2xOWjdERWZOUXdzcEVNYkdmX1JYUWRPUEVsdUVDa2NOR05wZktmUHQ5TjNKdmFoTjhyWVg1STR4RmNtaEgtTGk0bmJvTERhcHJDWUxpanBvSXR0NUo3VQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxNS2tGeVIzcG9xSHFySklPQWdLMTM2b196M09fdG1QZndFNlJ4bDVVY2ZRT19KNmMyTHdkeUlZQUNjYTJnR1Q3ellkemVydjA3SnkySlpxS1UwLWtkYTVxU29yQklrYjBYNW5UYmxrTE5CNHlUOEp0cW0xSF9yYXd0bVlxX3Rmd1llR1hUY3ZYS21OakJWS3p6bkZBUHFVQzBxazJhX3BSZ2pvYTEwX1Uzc1NJdkNzMjJ6Zj",
+      "publishedAt": "2026-10-15T01:30:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -282,10 +242,10 @@
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli's second innings? Star cricketer debuts on LinkedIn, shares investment and business vision - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVV2OWV5clo0OFVyYzBlZ0FvekNkZXVLRERYcGVBWnd6TkRQdEh3WGRiT0EzNnp2cFlvYlA2aXlSUGc4VnJsU2xETUpWenMtQnVNX0NuTTl0UzB4ck9pUnZRNHpxTWZwUHpHMFdXVnl0SkpKWWozRnZVRjNUTzlMejE5LVF6RkdvejNCcU5KM0s3aTdFUWNrOHR3ZDFOcjJvZkhEVVhUVHFqVlRsY0ZhODBzOTBaLTFCTm9JM3RMVUdva3VkZWpPZzV0Z0xMSFAzakM1Mk0zMmxMalA1ZDVuZndzSQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVV2OWV5clo0OFVyYzBlZ0FvekNkZXVLRERYcGVBWnd6TkRQdEh3WGRiT0EzNnp2cFlvYlA2aXlSUGc4VnJsU2xETUpWenMtQnVNX0NuTTl0UzB4ck9pUnZRNHpxTWZwUHpHMFdXVnl0SkpKWWozRnZVRjNUTzlMejE5LVF6RkdvejNCcU5KM0s3aTdFUWNrOHR3ZDFOcjJvZkhEVVhUVHFqVlRsY0ZhODBzOTBaLTFCTm",
-      "publishedAt": "2026-10-14T06:17:38.000Z",
+      "title": "Babar Azam Turns 32! Here's Top 5 Records Of Pakistan Batter That Even Virat Kohli Can't Touch - Sportscape Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0JRTFVtd3F0QXNzZDJwbjE3Ql9uQlItX1FKUmlSTm5CZXdTbzJETTZVM0xNNG5wZDVqcVJ2UWFQNWhodEFudkhnNGwzQ3BvRzAyVlR5SS1xa3pYaHlOaHFqa1JoWDlsRUJVbzVqMEIwSUpxMUNiNTlwejdNM2QyUzVUajN1TEdCSFV2ZXdtS2JzZDhVOVltbVRrZ2Raelozam5FUUJKeExpZ0NGbzhvYnFLNnhUNThtNy1jaHRUWS10ZndHbGF1dEdtdw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0JRTFVtd3F0QXNzZDJwbjE3Ql9uQlItX1FKUmlSTm5CZXdTbzJETTZVM0xNNG5wZDVqcVJ2UWFQNWhodEFudkhnNGwzQ3BvRzAyVlR5SS1xa3pYaHlOaHFqa1JoWDlsRUJVbzVqMEIwSUpxMUNiNTlwejdNM2QyUzVUajN1TEdCSFV2ZXdtS2JzZDhVOVltbVRrZ2Raelozam5FUUJKeExpZ0NGbzhvYnFLNnhUNThtNy",
+      "publishedAt": "2026-10-15T06:41:43.000Z",
       "source": {
         "name": "Google News"
       },
@@ -296,6 +256,46 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSVpBUWRNTU92Um9hR2hUX3RUeWNlRUNPVWo5dUtlU1hiUWZGMU1MMXBxMW0wMTJxLXF6VHN3SHVMVGwyNVBaTWRRTjZwUEd2aTd1ZFF0aTVFQWNHUk1PTWE2VFQ5TmF6NmRZdXAtMXV2M3NGRWh6am15aG82ajJRX1B3VGFTb3c5bnlRS2hXeklRVDNla01oa0RUREhIdjZURC13Z2Z6aXhOYWVrWHBoU3k4ekZ6LVE1bXprU0VFa1BIb1lJVFlrcGlpVlMwOEt5bl8zcGh0ckVyUmRMcWhXSmlJSmY3eHphOWhTNXhVV0xoWXhPOTJhb2dKR0dtY0xMYTRpMEZjT1JwSW1yRUVWVzVqWVNGZzV5QXhOWnFTZEVTd3NiVGgwLWttZUk5TU3SAbQCQVVfeXFMTXI3dDM1NkU5bzQwdTFLaFRNWHpUaG1hWnUzSG5QS3daSkpQTHptTlpsMGZremk3TlBFQnIxNkZlcDRpdjlWa0xwOGxIaHVDanpvWWVnV2FBU0I5MXlfTjB4bHpOQWRaQWJkZlV0dUdSVjdoV1hUYmV4NW9SZmlnSkRPamNFVVdCZWo2REFycnpYTUMwaG1udU9wSUx0Q1NPVUVlcGYyT3owaU5KNHYyODdPcDdrZUtPNXRjYnNMNmZoOWZaUjBqd0JTcllhdm1xRzczQ3pDWWdQdHlxam0xcWY3QjE3M0tCUS1IenotenUxX2VVUXJVZTh4Q0xCcjJycTRaRWpYOW5TUHFqSHBFbmVndGpyR2FoSHk5RVMxQl9fcXgxMC10d29rR2x1dUpBN21XRlg?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNSVpBUWRNTU92Um9hR2hUX3RUeWNlRUNPVWo5dUtlU1hiUWZGMU1MMXBxMW0wMTJxLXF6VHN3SHVMVGwyNVBaTWRRTjZwUEd2aTd1ZFF0aTVFQWNHUk1PTWE2VFQ5TmF6NmRZdXAtMXV2M3NGRWh6am15aG82ajJRX1B3VGFTb3c5bnlRS2hXeklRVDNla01oa0RUREhIdjZURC13Z2Z6aXhOYWVrWHBoU3k4ekZ6LVE1bX",
       "publishedAt": "2026-10-13T16:34:36.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "How watching Virat Kohli's videos helped Australia A star tackle Indian spinners - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnlIZXI2RFNvQTVud29xUkRjVURrc2psc2VoTl9XYS1sbXY5bWxMb2EtUndmY2wwdk5LZVo4Mkx4cmV3UmZ4V3lLMElCeE5sMzN5RHFnWGROS1p5YXEwQnM4Q3lzY3NtdmhpRFlKblRsZERMR3QtOE9GTDJqRzR4WE41MXIwYV9naEd2aDdqbUdPMy1ocmhEVkZiSm0wNzJyY0xkZUlLMjAzYWpYOUpsRm5HRzhEcDI5VG9sRUtrMXczeHFrSmM5TVVpUnZmb1ZkV21vMFRFMzc1SjJsaUVHYkJNTVRJYnBrSk16SWZKVUs0RjTSAfgBQVVfeXFMTWJRYUh3c2taYTE5TWJ0dENpai1FRUNlekxocmwtaHJXSnJUWHVpNG5TQnVfVG9KdnZvTVZKdW9aN0FJZ2V2cnRxMDhEX21JbUQ0bDFpdTJhdC1TZzNVQlVqRkQwa3lNUjhrY1JLc1cxRHR4VzNMejYtME1zd0RGclRPN3FmbkVybktKTkhHN2NVRjg4OTMxUnhEa2tCU3dhZ0JlbUhJSUFmSUI4MmxJMGh6NTlnMUJDRnk1ZEVpLWt4bFozWEpwVXFTQWRrbWlJSkNIMVh0dTJuczFLeVpnNnhySUhZRXpub1BGX0dqZjNtbHYxRm1JaTk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnlIZXI2RFNvQTVud29xUkRjVURrc2psc2VoTl9XYS1sbXY5bWxMb2EtUndmY2wwdk5LZVo4Mkx4cmV3UmZ4V3lLMElCeE5sMzN5RHFnWGROS1p5YXEwQnM4Q3lzY3NtdmhpRFlKblRsZERMR3QtOE9GTDJqRzR4WE41MXIwYV9naEd2aDdqbUdPMy1ocmhEVkZiSm0wNzJyY0xkZUlLMjAzYWpYOUpsRm5HRzhEcDI5VG",
+      "publishedAt": "2026-10-12T06:50:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Virat Kohli joins LinkedIn and shares message for India - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdC0wVTlKTUMtWTFzc1BER3h5TURGSmNCeXFNNUJCcm9RSVp5UjUtQm9XUlpfZTM4Sk9ycTBuQTJGbUVjOWNaallCSlhhazlDc251R0NHNGZRaWl1TW9MQThvN2xLU0gwby1QamhCYll5UlY5T1dLTXVLUnAwNnRXTjVvVkpJR3dQMnpfd3NVMEtaMGszdTRqNUhtRG4wVTJoTVJ0My1xVkcwZE9wWkHSAb4BQVVfeXFMTUcyZjJicUFjYUFMZDZSaFZISzZzd3UwQS1VY09vXzg3eVRtYWRUUWNlcW5CZUZlMXZUYkVNLXlieC1hRDgyR3ZuVVlDdDIwV2U5bWl2cGNuQlhCYUtlWFNDelRpOWR1VVpicWw2YzI0cnpnVW1JTTZ6SmFYWWRJcGx3RXV2VGRDN0pIWXFfU1ZEcmFkUWJZM1k1RmJqNVJkQnROY3RqV1VzYmVWMG45MGZXX3FrSWptY2pyUWxvZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdC0wVTlKTUMtWTFzc1BER3h5TURGSmNCeXFNNUJCcm9RSVp5UjUtQm9XUlpfZTM4Sk9ycTBuQTJGbUVjOWNaallCSlhhazlDc251R0NHNGZRaWl1TW9MQThvN2xLU0gwby1QamhCYll5UlY5T1dLTXVLUnAwNnRXTjVvVkpJR3dQMnpfd3NVMEtaMGszdTRqNUhtRG4wVTJoTVJ0My1xVkcwZE9wWkHSAb4BQVVfeXFMTU",
+      "publishedAt": "2026-10-13T08:44:34.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Virat Kohli gains more than 240,000 LinkedIn followers in 24 hours - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkxxMl96NXAxWkowZVVyUUhWNlQ1ZXBuWVlrQ2RnSnhWbUc0MGMzQ3RtYUthbjVIQjU4RGtjVW84eVBpWHpxRGp4enlHVmstaEphekFzMUhsbFc0WXpJMmlBX0RRMllPNDNQb3Y1U3RUWVRxUmxuX2pBNld3WEpUQzJnNDd2UUdNaTNyR3RoWWIweS1JejBMckt1ZzdzTXl3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkxxMl96NXAxWkowZVVyUUhWNlQ1ZXBuWVlrQ2RnSnhWbUc0MGMzQ3RtYUthbjVIQjU4RGtjVW84eVBpWHpxRGp4enlHVmstaEphekFzMUhsbFc0WXpJMmlBX0RRMllPNDNQb3Y1U3RUWVRxUmxuX2pBNld3WEpUQzJnNDd2UUdNaTNyR3RoWWIweS1JejBMckt1ZzdzTXl3?oc=5\" target=\"_blank\">Virat Kohli",
+      "publishedAt": "2026-10-14T08:15:26.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Virat Kohli's second innings? Star cricketer debuts on LinkedIn, shares investment and business vision - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVV2OWV5clo0OFVyYzBlZ0FvekNkZXVLRERYcGVBWnd6TkRQdEh3WGRiT0EzNnp2cFlvYlA2aXlSUGc4VnJsU2xETUpWenMtQnVNX0NuTTl0UzB4ck9pUnZRNHpxTWZwUHpHMFdXVnl0SkpKWWozRnZVRjNUTzlMejE5LVF6RkdvejNCcU5KM0s3aTdFUWNrOHR3ZDFOcjJvZkhEVVhUVHFqVlRsY0ZhODBzOTBaLTFCTm9JM3RMVUdva3VkZWpPZzV0Z0xMSFAzakM1Mk0zMmxMalA1ZDVuZndzSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVV2OWV5clo0OFVyYzBlZ0FvekNkZXVLRERYcGVBWnd6TkRQdEh3WGRiT0EzNnp2cFlvYlA2aXlSUGc4VnJsU2xETUpWenMtQnVNX0NuTTl0UzB4ck9pUnZRNHpxTWZwUHpHMFdXVnl0SkpKWWozRnZVRjNUTzlMejE5LVF6RkdvejNCcU5KM0s3aTdFUWNrOHR3ZDFOcjJvZkhEVVhUVHFqVlRsY0ZhODBzOTBaLTFCTm",
+      "publishedAt": "2026-10-14T06:17:38.000Z",
       "source": {
         "name": "Google News"
       },
@@ -324,16 +324,6 @@
       "urlToImage": null
     },
     {
-      "title": "Sindh offers unique blend of history, culture and natural beauty: CM - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTlzRHRWbl9jQnlleDBZeUR6dm5HVjRkRmcweXQ0SV9BV0ZHZ1FuNXhiYzVGbHc0M0kzZ2Fkem8tenpBaTU4ZFN1aXFMVHFJdVNPTW94ZEM0QVQyVDBnbGRfNDdiLXZJbHFwbGxadE45Q0E3VkFIdWNYSmJTNFQ3OHAtMTdyYkozTGtTQVZXUU9RSjhzT214OE5vMGpSNVZvcThzLVd30gGuAUFVX3lxTE1ROElTQ1ZNMm5yQlJ1dTFmX05CbXUtSTdzNlhtZWtaRktiLU9MXzZGcC1QOC1pUHJFTnVDMjBia0pPU2JNVEhNRlRmSlRaMDRxSnlWUjZ1MTl1T2RYTlNoOUVoeFI5Uy02RTdYaXNacUs4end4SWRHajdodW94TFN2R01LcE5BNHRTNUNDdDZxRU5YZTNSRjAtbmpNSlhzc0kyTmxjeEJodmNMMjV2Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTlzRHRWbl9jQnlleDBZeUR6dm5HVjRkRmcweXQ0SV9BV0ZHZ1FuNXhiYzVGbHc0M0kzZ2Fkem8tenpBaTU4ZFN1aXFMVHFJdVNPTW94ZEM0QVQyVDBnbGRfNDdiLXZJbHFwbGxadE45Q0E3VkFIdWNYSmJTNFQ3OHAtMTdyYkozTGtTQVZXUU9RSjhzT214OE5vMGpSNVZvcThzLVd30gGuAUFVX3lxTE1ROElTQ1ZNMm",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Indigenous Peoples Day: Date, Places & Controversy - History.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4waFVLdU82VFYxQld5b1J5NzdGSmdYNUpuQUw3RVlRVzVia0FBd0tjN1JEcDIySlRVTklQWV85Rnl5Wjdfbzl0c3I3cjB6Z1pxWXVLdXNLdkFSN3BzNktGTklOel95UnU0bGVEUUI5VlA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4waFVLdU82VFYxQld5b1J5NzdGSmdYNUpuQUw3RVlRVzVia0FBd0tjN1JEcDIySlRVTklQWV85Rnl5Wjdfbzl0c3I3cjB6Z1pxWXVLdXNLdkFSN3BzNktGTklOel95UnU0bGVEUUI5VlA?oc=5\" target=\"_blank\">Indigenous Peoples Day: Date, Places & Controversy</a>&nbsp;&nbsp;<font colo",
@@ -344,10 +334,20 @@
       "urlToImage": null
     },
     {
-      "title": "\"Will not allow anyone to destroy Tamil identity\": DMK hits out at Rahul Gandhi over 'Chhatron Ki Goonj' event - https://www.indiagazette.com/",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOFZkS2dVS09KeDJqTEtJYkhXcU5oSTBXQmRKOGFYQ1pQVHo1TnFteTh2RlFNUWJhalRObm9GNzZ6SHFqUnh0Zjdqdm9zWlA1TkpYVDZEbnVTbkVWWlVIUktmdmNSV000V1NIM1NtTy1pakZpaFV1OTB0ZXN6V0F3M0JKV0d0QmczcGtfN25XZXJGYXd1dzY1YTRKbEpmZGM5Z0Z1bXpuN2E3QXIyU0VTSmhtWlpScGNKMjN4eFRZaHd2cmItWVJyMjFOSk9rRWVOODB3eGxhYjU5OTJoenR0S1FBcw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOFZkS2dVS09KeDJqTEtJYkhXcU5oSTBXQmRKOGFYQ1pQVHo1TnFteTh2RlFNUWJhalRObm9GNzZ6SHFqUnh0Zjdqdm9zWlA1TkpYVDZEbnVTbkVWWlVIUktmdmNSV000V1NIM1NtTy1pakZpaFV1OTB0ZXN6V0F3M0JKV0d0QmczcGtfN25XZXJGYXd1dzY1YTRKbEpmZGM5Z0Z1bXpuN2E3QXIyU0VTSmhtWlpScGNKMj",
-      "publishedAt": "2026-10-11T09:36:00.000Z",
+      "title": "Sindh offers unique blend of history, culture and natural beauty: CM - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTlzRHRWbl9jQnlleDBZeUR6dm5HVjRkRmcweXQ0SV9BV0ZHZ1FuNXhiYzVGbHc0M0kzZ2Fkem8tenpBaTU4ZFN1aXFMVHFJdVNPTW94ZEM0QVQyVDBnbGRfNDdiLXZJbHFwbGxadE45Q0E3VkFIdWNYSmJTNFQ3OHAtMTdyYkozTGtTQVZXUU9RSjhzT214OE5vMGpSNVZvcThzLVd30gGuAUFVX3lxTE1ROElTQ1ZNMm5yQlJ1dTFmX05CbXUtSTdzNlhtZWtaRktiLU9MXzZGcC1QOC1pUHJFTnVDMjBia0pPU2JNVEhNRlRmSlRaMDRxSnlWUjZ1MTl1T2RYTlNoOUVoeFI5Uy02RTdYaXNacUs4end4SWRHajdodW94TFN2R01LcE5BNHRTNUNDdDZxRU5YZTNSRjAtbmpNSlhzc0kyTmxjeEJodmNMMjV2Zw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTlzRHRWbl9jQnlleDBZeUR6dm5HVjRkRmcweXQ0SV9BV0ZHZ1FuNXhiYzVGbHc0M0kzZ2Fkem8tenpBaTU4ZFN1aXFMVHFJdVNPTW94ZEM0QVQyVDBnbGRfNDdiLXZJbHFwbGxadE45Q0E3VkFIdWNYSmJTNFQ3OHAtMTdyYkozTGtTQVZXUU9RSjhzT214OE5vMGpSNVZvcThzLVd30gGuAUFVX3lxTE1ROElTQ1ZNMm",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "India, Australia celebrate indigenous cultural heritage through music; Australian HC Philip Green highlights 65,000-year-old tradition - https://www.indiagazette.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZk1MRTNNZE85MVowR1VZTU9tU0xLRV9uVHdTZThfMF9kd2VQd0FxcmF3aXdLXzA5Q1BkYi1yQXhYY1lCMTVwVTRRWXR1UzFMSHh6UHQ5Sy03aUJqRWVteGxBZ0tUYzZnMVdSYzRXcW9oWFlld0szV1FmdlU0bkh6Rmt0cE5SbUNOUmdScFFQS2tMZWZuU0VoREJiRThtbEJXaTY2clllTHRnOV8yMDFZbEhoREhwZTdJQW5sMzJUN2FEQ1dqalNxOFRJc0JUZEdtMGxXRWRCMG5uRGtzWGgxajBvV0g1b1pnaDhGSThITXluUkNjejAxamdyYmlkX3g5cTI2OW9B?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQZk1MRTNNZE85MVowR1VZTU9tU0xLRV9uVHdTZThfMF9kd2VQd0FxcmF3aXdLXzA5Q1BkYi1yQXhYY1lCMTVwVTRRWXR1UzFMSHh6UHQ5Sy03aUJqRWVteGxBZ0tUYzZnMVdSYzRXcW9oWFlld0szV1FmdlU0bkh6Rmt0cE5SbUNOUmdScFFQS2tMZWZuU0VoREJiRThtbEJXaTY2clllTHRnOV8yMDFZbEhoREhwZTdJQW",
+      "publishedAt": "2026-10-14T15:27:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -384,10 +384,10 @@
       "urlToImage": null
     },
     {
-      "title": "India, Australia celebrate indigenous cultural heritage through music; Australian HC Philip Green highlights 65,000-year-old tradition - India's News.Net",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSlptU0tFN3hfZVdQOFFtR0RPa0pOaVlDaFpKNUFmcTltbTRsdW5VRTNCdFFiTFRaa01vbm9wR3lOTjFLaS1TUTR1S3lHUUw4cmVFT3F4a2tkanFwbks2QlpFUVJtZlU5LWNvR2EzV3hSRFFXMkVGTm1mYzMtN0xVWGF1MW1xN1JjMU5HRGNTVjMwVGhtdDZYQy1RalNRcjUyYkxsZTBoY1k5bXozM3lEQW1LT0FuRzhhbEp1R2VrMlo4Z2ptVDQxbWZObjJQNkpQWWxfaDlnT204bTh1RUFhTnBQdmFROUJ4SmFkMGxROURPeTluaEl3QlQ5YXJFb0pZaDBr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOSlptU0tFN3hfZVdQOFFtR0RPa0pOaVlDaFpKNUFmcTltbTRsdW5VRTNCdFFiTFRaa01vbm9wR3lOTjFLaS1TUTR1S3lHUUw4cmVFT3F4a2tkanFwbks2QlpFUVJtZlU5LWNvR2EzV3hSRFFXMkVGTm1mYzMtN0xVWGF1MW1xN1JjMU5HRGNTVjMwVGhtdDZYQy1RalNRcjUyYkxsZTBoY1k5bXozM3lEQW1LT0FuRzhhbE",
-      "publishedAt": "2026-10-14T20:24:03.000Z",
+      "title": "Suruchi Sangha’s Kolkata Durga Puja pandal honours Syama Prasad Mukherjee’s legacy - The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3I2SUtFRGF0UlBFVUl5OS1wekxnVVRaTzFrZXFPZXgzLTdsNEJ4eS1NelVvaHg2aDFvbTZXTkFFNW03ZFV5YXA5N2FWeWU2NlVsTzJkbGtKT1FTRTVTSWRYV0tDUnFad3NYRXZhdG1jdmgzR3RZZjlVazJjYmFqSGpRaldUcU1yVjhDeXdSaWVTLVRjdmJRa1E1UUdWbDBKU1FBTWUxYWVjUXN0UGxkWkMzYw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3I2SUtFRGF0UlBFVUl5OS1wekxnVVRaTzFrZXFPZXgzLTdsNEJ4eS1NelVvaHg2aDFvbTZXTkFFNW03ZFV5YXA5N2FWeWU2NlVsTzJkbGtKT1FTRTVTSWRYV0tDUnFad3NYRXZhdG1jdmgzR3RZZjlVazJjYmFqSGpRaldUcU1yVjhDeXdSaWVTLVRjdmJRa1E1UUdWbDBKU1FBTWUxYWVjUXN0UGxkWkMzYw?oc=5\" t",
+      "publishedAt": "2026-10-14T17:12:10.000Z",
       "source": {
         "name": "Google News"
       },
@@ -397,7 +397,7 @@
       "title": "West Bengal: Kolkata's Suruchi Sangha showcases Syama Prasad Mukherjee's life through Durga Puja pandal - India's News.Net",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTMxWndJT1oyb0lFU1JXT2JoM1dhM1lrSTZqMnROeGc0UmlHbWVYVmkzOTd6eEltc2NHZlN4UE9LRDlGUVlFTVU1VHhSdEpEaDJVYWg2UzJ0eVJ5QWtySFB4eEhtenJkbFFTRlRwQkFYVU0xakJOT3V5dmlIODhScU14bk9aVzB1ODI5Tnc0UWo0bW5GajJ1UjlLMGpHRUFQSkNtbjFkM1JGcjIzbnlIRVNiczJDYTRCc09UdFQ2NnJETTc4MlJqbXVhV1YxOWltUWhhVFRyNA?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTMxWndJT1oyb0lFU1JXT2JoM1dhM1lrSTZqMnROeGc0UmlHbWVYVmkzOTd6eEltc2NHZlN4UE9LRDlGUVlFTVU1VHhSdEpEaDJVYWg2UzJ0eVJ5QWtySFB4eEhtenJkbFFTRlRwQkFYVU0xakJOT3V5dmlIODhScU14bk9aVzB1ODI5Tnc0UWo0bW5GajJ1UjlLMGpHRUFQSkNtbjFkM1JGcjIzbnlIRVNiczJDYTRCc0",
-      "publishedAt": "2026-10-14T19:30:08.000Z",
+      "publishedAt": "2026-10-15T00:11:00.000Z",
       "source": {
         "name": "Google News"
       },
@@ -418,6 +418,16 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQl9ydGVGcGhGb0h6elNKak9qSDJrNUdQSjZ1WFNLdmcyUFlOakQxZU95MVB4OUIyS0R6Zzd5dTJiTE9qS2UyQzItOHhMNmg0QTkzd3BFRkJsdFBFRE9ZNDJudl9WTVlud25kMnRGOWx5S3BRNGNaVlNHdkNlZUdlUnBrbXA2SHhZMEFfdnFOWnd6bWpiNGJrR25zNGxYRmtXRmJXY3NNZDdBUVJwN3VTd1NERHYyc01EeG43MTR3ZVNWanozTURVNlNZR3MwcFViR0V5RTlOdFNuazN2TERRUXAteHJFdHRLTEp0WEFhVEdldWpJV2dSNmJnVGdqeEU?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQl9ydGVGcGhGb0h6elNKak9qSDJrNUdQSjZ1WFNLdmcyUFlOakQxZU95MVB4OUIyS0R6Zzd5dTJiTE9qS2UyQzItOHhMNmg0QTkzd3BFRkJsdFBFRE9ZNDJudl9WTVlud25kMnRGOWx5S3BRNGNaVlNHdkNlZUdlUnBrbXA2SHhZMEFfdnFOWnd6bWpiNGJrR25zNGxYRmtXRmJXY3NNZDdBUVJwN3VTd1NERHYyc01EeG",
       "publishedAt": "2026-10-12T19:50:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "NCRTC signs MoU with IGNCA to bring art, culture and heritage to Namo Bharat stations - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0pQSWZqQWVtdmZYVlZQUjdUX1BTWmhWdDNLaUFHTGZlMk1EaHNEV25SaTU4OW8yZUt0Yzhoa2JmWC1xOGhiYktMNUNvYldobnM3Q25xanVZV0d0UnF6cU9nODYwaU5HdFJ2bm53RE03TGhKbm9XdkJRWUhINDh4aHhDUzZraXdVckJ3VXhtVWF1eVV5cUVHdVl6LTV5ck90dTFqVnREVjczS3hHczN4RFNHejBEeWpOMGlJUXgteXpueGZyZHJMQ3Rn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0pQSWZqQWVtdmZYVlZQUjdUX1BTWmhWdDNLaUFHTGZlMk1EaHNEV25SaTU4OW8yZUt0Yzhoa2JmWC1xOGhiYktMNUNvYldobnM3Q25xanVZV0d0UnF6cU9nODYwaU5HdFJ2bm53RE03TGhKbm9XdkJRWUhINDh4aHhDUzZraXdVckJ3VXhtVWF1eVV5cUVHdVl6LTV5ck90dTFqVnREVjczS3hHczN4RFNHejBEeWpOMG",
+      "publishedAt": "2026-10-08T12:14:00.000Z",
       "source": {
         "name": "Google News"
       },
