@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-15T12:54:33.796Z",
+  "lastUpdated": "2026-10-15T18:07:34.370Z",
   "recentMatches": [
     {
       "id": "8068c292-3042-402b-a53f-76ddc54d9785",
       "name": "Oman vs Canada, 137th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Oman need 59 runs in 22 balls",
+      "status": "Canada won by 58 runs",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
       "date": "2026-10-15",
       "dateTimeGMT": "2026-10-15T06:00:00",
@@ -34,8 +34,8 @@
         },
         {
           "r": 198,
-          "w": 9,
-          "o": 46.2,
+          "w": 10,
+          "o": 46.3,
           "inning": "Oman,Canada Inning 1"
         }
       ],
@@ -44,7 +44,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b769a5ee-0254-4213-9e3a-0ba263d2b09f",
