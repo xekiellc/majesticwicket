@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T12:46:24.887Z",
+  "lastUpdated": "2026-10-16T17:54:03.267Z",
   "recentMatches": [
     {
       "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
@@ -82,6 +82,51 @@
           "w": 1,
           "o": 9.4,
           "inning": "Sweden Women Inning 1"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b9abacfc-903e-4578-8d13-f354c58e4a2c",
+      "name": "Austria Women vs Bulgaria Women, 4th Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Austria Women won by 10 wkts (DLS method)",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T11:00:00",
+      "teams": [
+        "Austria Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 39,
+          "w": 8,
+          "o": 12,
+          "inning": "bulgaria women Inning 1"
+        },
+        {
+          "r": 37,
+          "w": 0,
+          "o": 4.5,
+          "inning": "Austria Women,Bulgaria Women Inning 1"
         }
       ],
       "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
@@ -1034,51 +1079,6 @@
           "w": 4,
           "o": 19.2,
           "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ce7500a3-9301-4d32-a378-14da07fc5d6a",
-      "name": "Sydney Sixers Women vs ACT Women, 5th Match, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 12 runs (DLS method)",
-      "venue": "Bankstown Oval, Sydney",
-      "date": "2026-10-13",
-      "dateTimeGMT": "2026-10-13T00:00:00",
-      "teams": [
-        "Sydney Sixers Women",
-        "ACT Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Act Women",
-          "shortname": "ACTW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sydney Sixers Women",
-          "shortname": "SS-W",
-          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 78,
-          "w": 3,
-          "o": 9,
-          "inning": "Sydney Sixers Women Inning 1"
-        },
-        {
-          "r": 77,
-          "w": 7,
-          "o": 9,
-          "inning": "ACT Women Inning 1"
         }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
