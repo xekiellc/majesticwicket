@@ -1,6 +1,141 @@
 {
-  "lastUpdated": "2026-10-15T18:07:34.370Z",
+  "lastUpdated": "2026-10-16T12:46:24.887Z",
   "recentMatches": [
+    {
+      "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
+      "name": "Bulgaria Women vs Sweden Women, 2nd Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Sweden Women won by 10 wkts",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-15",
+      "dateTimeGMT": "2026-10-15T00:00:00",
+      "teams": [
+        "Bulgaria Women",
+        "Sweden Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sweden Women",
+          "shortname": "SWE-W",
+          "img": "https://g.cricapi.com/iapi/3004-638040161487648380.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 9,
+          "o": 20,
+          "inning": "bulgaria women Inning 1"
+        },
+        {
+          "r": 99,
+          "w": 0,
+          "o": 5.5,
+          "inning": "Bulgaria Women,Sweden Women Inning 1"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a2dc4f6c-4648-44d6-88d2-0932994a93e6",
+      "name": "Austria Women vs Sweden Women, 1st Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Sweden Women won by 9 wkts",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-15",
+      "dateTimeGMT": "2026-10-15T00:00:00",
+      "teams": [
+        "Austria Women",
+        "Sweden Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Sweden Women",
+          "shortname": "SWE-W",
+          "img": "https://g.cricapi.com/iapi/3004-638040161487648380.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 91,
+          "w": 9,
+          "o": 20,
+          "inning": "Austria Women Inning 1"
+        },
+        {
+          "r": 92,
+          "w": 1,
+          "o": 9.4,
+          "inning": "Sweden Women Inning 1"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2a57d45e-5d2f-4361-b4da-7ad3d0b908cd",
+      "name": "Romania Women vs Bulgaria Women, 3rd Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Bulgaria Women won by 2 wkts - 15 overs game",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 75,
+          "w": 5,
+          "o": 15,
+          "inning": "romania women Inning 1"
+        },
+        {
+          "r": 76,
+          "w": 8,
+          "o": 13.3,
+          "inning": "Romania Women,Bulgaria Women Inning 1"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "8068c292-3042-402b-a53f-76ddc54d9785",
       "name": "Oman vs Canada, 137th Match, ICC Cricket World Cup League Two 2023-27",
@@ -137,96 +272,6 @@
       "matchEnded": true
     },
     {
-      "id": "474a0cdb-2853-4d99-8910-d9612b7ccb22",
-      "name": "United States of America vs United Arab Emirates, 134th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United States of America won by 5 wkts",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "United States of America",
-        "United Arab Emirates"
-      ],
-      "teamInfo": [
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        },
-        {
-          "name": "United States of America",
-          "shortname": "US",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 213,
-          "w": 10,
-          "o": 46.3,
-          "inning": "United Arab Emirates Inning 1"
-        },
-        {
-          "r": 214,
-          "w": 5,
-          "o": 38.4,
-          "inning": "United States of America Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "69b260c0-59c9-40c1-8e96-ba5dc15163db",
-      "name": "Nepal vs Canada, 133rd Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 24 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "Nepal",
-        "Canada"
-      ],
-      "teamInfo": [
-        {
-          "name": "Canada",
-          "shortname": "CAN",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        },
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 235,
-          "w": 10,
-          "o": 50,
-          "inning": "Nepal Inning 1"
-        },
-        {
-          "r": 211,
-          "w": 10,
-          "o": 48.4,
-          "inning": "Canada Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "c28bfd05-81dd-46d6-9873-b094df319ef3",
       "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
       "matchType": "odi",
@@ -261,51 +306,6 @@
           "r": 175,
           "w": 2,
           "o": 22.4,
-          "inning": "Australia Women Inning 1"
-        }
-      ],
-      "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5e6bd6d6-3505-4cf0-9798-9ef6332c3e23",
-      "name": "Australia Women vs Bangladesh Women, 2nd ODI, Bangladesh Women tour of Australia, 2026",
-      "matchType": "odi",
-      "status": "Australia Women won by 9 wkts",
-      "venue": "Allan Border Field, Brisbane",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "Australia Women",
-        "Bangladesh Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 220,
-          "w": 6,
-          "o": 50,
-          "inning": "Bangladesh Women Inning 1"
-        },
-        {
-          "r": 222,
-          "w": 1,
-          "o": 28.1,
           "inning": "Australia Women Inning 1"
         }
       ],
@@ -581,141 +581,6 @@
       "matchEnded": true
     },
     {
-      "id": "2365f9c7-f26a-4994-88c2-e7ac2851c84f",
-      "name": "Bahrain vs Mongolia, 15th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Bahrain won by 8 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "Bahrain",
-        "Mongolia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain",
-          "shortname": "BHR",
-          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
-        },
-        {
-          "name": "Mongolia",
-          "shortname": "MN",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 17,
-          "w": 10,
-          "o": 12.4,
-          "inning": "Mongolia Inning 1"
-        },
-        {
-          "r": 18,
-          "w": 2,
-          "o": 1.1,
-          "inning": "Bahrain Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6555d19f-1ffb-4f91-890d-2919fe262238",
-      "name": "Bhutan vs Qatar, 14th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Qatar won by 9 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "Bhutan",
-        "Qatar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhutan",
-          "shortname": "BHU",
-          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 64,
-          "w": 10,
-          "o": 15.5,
-          "inning": "Bhutan Inning 1"
-        },
-        {
-          "r": 65,
-          "w": 1,
-          "o": 5.4,
-          "inning": "Qatar Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7896b60c-6f71-40ad-ad18-1521bb2f3475",
-      "name": "Kuwait vs Myanmar, 13th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Kuwait won by 9 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "Kuwait",
-        "Myanmar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        },
-        {
-          "name": "Myanmar",
-          "shortname": "MYAN",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 34,
-          "w": 10,
-          "o": 15.3,
-          "inning": "Myanmar Inning 1"
-        },
-        {
-          "r": 37,
-          "w": 1,
-          "o": 4,
-          "inning": "Kuwait Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "982c7933-f9bf-48e2-9cdc-e98c5109f006",
       "name": "Maldives vs Saudi Arabia, 15th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
       "matchType": "t20",
@@ -968,83 +833,89 @@
       "matchEnded": true
     },
     {
-      "id": "7883fbec-2116-40cf-a0fe-f634e476ab7d",
-      "name": "Hong Kong, China vs Saudi Arabia, 7th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "id": "22362ccf-58c8-43e7-bbba-07aace5e4043",
+      "name": "Brisbane Heat Women vs ACT Women, 10th Match, T20 Spring Challenge 2026",
       "matchType": "t20",
-      "status": "Saudi Arabia won by 10 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
+      "status": "Brisbane Heat Women won by 6 wkts",
+      "venue": "Raby Oval No. 1, Sydney",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T23:00:00",
       "teams": [
-        "Hong Kong"
+        "Brisbane Heat Women",
+        "ACT Women"
       ],
       "teamInfo": [
         {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+          "name": "Act Women",
+          "shortname": "ACTW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 168,
-          "w": 6,
-          "o": 20,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 158,
+          "r": 83,
           "w": 10,
-          "o": 19.3,
-          "inning": " Inning 1"
-        }
-      ],
-      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "fa889625-942f-4402-891e-c2093ba3a6c2",
-      "name": "Malaysia vs Maldives, 8th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
-      "matchType": "t20",
-      "status": "Malaysia won by 6 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
-      "teams": [
-        "Malaysia",
-        "Maldives"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malaysia",
-          "shortname": "MAL",
-          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
+          "o": 17.3,
+          "inning": "act women Inning 1"
         },
         {
-          "name": "Maldives",
-          "shortname": "MDV",
-          "img": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 125,
-          "w": 9,
-          "o": 20,
-          "inning": "Maldives Inning 1"
-        },
-        {
-          "r": 127,
+          "r": 86,
           "w": 4,
-          "o": 8.5,
-          "inning": "Malaysia Inning 1"
+          "o": 14.1,
+          "inning": "Brisbane Heat Women,ACT Women Inning 1"
         }
       ],
-      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
+      "id": "f3064046-a1c8-458f-996e-0dbaa34531e7",
+      "name": "Adelaide Strikers Women vs Hobart Hurricanes Women, 9th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 29 runs",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-14",
+      "dateTimeGMT": "2026-10-14T08:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 5,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 8,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1052,44 +923,165 @@
       "matchEnded": true
     },
     {
-      "id": "7e70cc14-6118-45b7-a083-22851e1ad9c6",
-      "name": "China vs Singapore, 9th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
+      "id": "689d96f3-42ba-4ab3-a41f-357b2edcf122",
+      "name": "Melbourne Renegades Women vs Melbourne Stars Women, 8th Match, T20 Spring Challenge 2026",
       "matchType": "t20",
-      "status": "Singapore won by 50 runs",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-11",
-      "dateTimeGMT": "2026-10-11T00:00:00",
+      "status": "Melbourne Renegades Women won by 1 run",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-14",
+      "dateTimeGMT": "2026-10-14T03:30:00",
       "teams": [
-        "China",
-        "Singapore"
+        "Melbourne Renegades Women",
+        "Melbourne Stars Women"
       ],
       "teamInfo": [
         {
-          "name": "China",
-          "shortname": "CHN",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
         },
         {
-          "name": "Singapore",
-          "shortname": "SGP",
-          "img": "https://g.cricapi.com/iapi/576-637877085561587712.webp?w=48"
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 139,
-          "w": 10,
+          "r": 180,
+          "w": 4,
           "o": 20,
-          "inning": "Singapore Inning 1"
+          "inning": "Melbourne Renegades Women Inning 1"
         },
         {
-          "r": 89,
+          "r": 179,
           "w": 6,
           "o": 20,
-          "inning": "China Inning 1"
+          "inning": "Melbourne Stars Women Inning 1"
         }
       ],
-      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "57e4d85e-0474-4b34-b30d-b0b24f937040",
+      "name": "Sydney Thunder Women vs Brisbane Heat Women, 7th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Match abandoned due to rain (with toss)",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Brisbane Heat Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "40a13d90-b2ff-4b71-90d6-6036604087b9",
+      "name": "Adelaide Strikers Women vs Perth Scorchers Women, 6th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 6 wkts",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 8,
+          "o": 20,
+          "inning": "Perth Scorchers Women Inning 1"
+        },
+        {
+          "r": 183,
+          "w": 4,
+          "o": 19.2,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ce7500a3-9301-4d32-a378-14da07fc5d6a",
+      "name": "Sydney Sixers Women vs ACT Women, 5th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 12 runs (DLS method)",
+      "venue": "Bankstown Oval, Sydney",
+      "date": "2026-10-13",
+      "dateTimeGMT": "2026-10-13T00:00:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "ACT Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Act Women",
+          "shortname": "ACTW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 78,
+          "w": 3,
+          "o": 9,
+          "inning": "Sydney Sixers Women Inning 1"
+        },
+        {
+          "r": 77,
+          "w": 7,
+          "o": 9,
+          "inning": "ACT Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
