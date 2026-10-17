@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T22:41:12.438Z",
+  "lastUpdated": "2026-10-17T11:47:39.855Z",
   "recentMatches": [
     {
       "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
@@ -182,6 +182,51 @@
       "matchEnded": true
     },
     {
+      "id": "cb919ac0-a0a4-4aec-8afd-7b0d2b2d558e",
+      "name": "Canada vs Nepal, 138th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal need 99 runs in 93 balls",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T06:00:00",
+      "teams": [
+        "Canada",
+        "Nepal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canada",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+        },
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 256,
+          "w": 10,
+          "o": 50,
+          "inning": "canada Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 4,
+          "o": 34.3,
+          "inning": "Canada,Nepal Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "8068c292-3042-402b-a53f-76ddc54d9785",
       "name": "Oman vs Canada, 137th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -315,6 +360,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "20822cbb-7fb1-4ba0-a975-b74bd2613bba",
+      "name": "Bangladesh vs Zimbabwe, 1st Match, ODI Tri-Nation Series in UAE, 2026",
+      "matchType": "odi",
+      "status": "Zimbabwe opt to bat",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T12:00:00",
+      "teams": [
+        "Bangladesh",
+        "Zimbabwe"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 1,
+          "w": 1,
+          "o": 2,
+          "inning": "zimbabwe Inning 1"
+        }
+      ],
+      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
     },
     {
       "id": "c28bfd05-81dd-46d6-9873-b094df319ef3",
@@ -626,6 +710,186 @@
       "matchEnded": true
     },
     {
+      "id": "9e0c6ba4-e542-40f0-80c5-a90958a518fe",
+      "name": "Sydney Sixers Women vs Adelaide Strikers Women, 14th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 38 runs",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T03:30:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Adelaide Strikers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 6,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        },
+        {
+          "r": 105,
+          "w": 9,
+          "o": 20,
+          "inning": "Sydney Sixers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "20733218-44c7-4ea5-a7d2-e9ddcaa284fd",
+      "name": "ACT Women vs Melbourne Stars Women, 13th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Melbourne Stars Women won by 4 wkts",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T03:30:00",
+      "teams": [
+        "ACT Women",
+        "Melbourne Stars Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Act Women",
+          "shortname": "ACTW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 129,
+          "w": 4,
+          "o": 20,
+          "inning": "ACT Women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 6,
+          "o": 19.1,
+          "inning": "Melbourne Stars Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b1d8353a-d38a-4bee-8b3c-d7a5900787a5",
+      "name": "Hobart Hurricanes Women vs Perth Scorchers Women, 11th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 30 runs",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T23:00:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 8,
+          "o": 20,
+          "inning": "Perth Scorchers Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 5,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
+      "id": "ca3ea10f-2148-4319-8461-7d3b90556a24",
+      "name": "Sydney Thunder Women vs Melbourne Renegades Women, 12th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Thunder Women won by 5 wkts",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T23:00:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Melbourne Renegades Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 9,
+          "o": 20,
+          "inning": "Melbourne Renegades Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 5,
+          "o": 18.5,
+          "inning": "Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
       "id": "22362ccf-58c8-43e7-bbba-07aace5e4043",
       "name": "Brisbane Heat Women vs ACT Women, 10th Match, T20 Spring Challenge 2026",
       "matchType": "t20",
@@ -667,7 +931,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -830,275 +1094,6 @@
         }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ce7500a3-9301-4d32-a378-14da07fc5d6a",
-      "name": "Sydney Sixers Women vs ACT Women, 5th Match, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 12 runs (DLS method)",
-      "venue": "Bankstown Oval, Sydney",
-      "date": "2026-10-13",
-      "dateTimeGMT": "2026-10-13T00:00:00",
-      "teams": [
-        "Sydney Sixers Women",
-        "ACT Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Act Women",
-          "shortname": "ACTW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sydney Sixers Women",
-          "shortname": "SS-W",
-          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 78,
-          "w": 3,
-          "o": 9,
-          "inning": "Sydney Sixers Women Inning 1"
-        },
-        {
-          "r": 77,
-          "w": 7,
-          "o": 9,
-          "inning": "ACT Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7be65e20-8aab-4774-9170-303169bb29a6",
-      "name": "Australia Champions vs West Indies Champions, Semi Final 2, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "West Indies Champions won by 5 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T15:30:00",
-      "teams": [
-        "Australia Champions",
-        "West Indies Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Champions",
-          "shortname": "AUSC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "West Indies Champions",
-          "shortname": "WIC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 172,
-          "w": 7,
-          "o": 20,
-          "inning": "australia champions Inning 1"
-        },
-        {
-          "r": 173,
-          "w": 5,
-          "o": 19,
-          "inning": "Australia Champions,West Indies Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4a33e95c-a65d-45d9-a3b1-5c2d5a205440",
-      "name": "South Africa Champions vs England Champions, Semi Final 1, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "England Champions won by 46 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T11:30:00",
-      "teams": [
-        "South Africa Champions",
-        "England Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Champions",
-          "shortname": "ENGC",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "South Africa Champions",
-          "shortname": "SAC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 189,
-          "w": 8,
-          "o": 20,
-          "inning": "England Champions Inning 1"
-        },
-        {
-          "r": 143,
-          "w": 10,
-          "o": 16.5,
-          "inning": "South Africa Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3ae018c2-b25e-4363-ad48-d6a63ba44b52",
-      "name": "Bangladesh Champions vs South Africa Champions, 17th Match, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "South Africa Champions won by 88 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T15:30:00",
-      "teams": [
-        "Bangladesh Champions",
-        "South Africa Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "South Africa Champions",
-          "shortname": "SAC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 210,
-          "w": 3,
-          "o": 20,
-          "inning": "south africa champions Inning 1"
-        },
-        {
-          "r": 122,
-          "w": 10,
-          "o": 18.5,
-          "inning": "Bangladesh Champions,South Africa Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "958157b7-5456-4800-986d-710d6d1ef997",
-      "name": "England Champions vs Australia Champions, 16th Match, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "Australia Champions won by 16 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T11:30:00",
-      "teams": [
-        "England Champions",
-        "Australia Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Champions",
-          "shortname": "AUSC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "England Champions",
-          "shortname": "ENGC",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 218,
-          "w": 6,
-          "o": 20,
-          "inning": "australia champions Inning 1"
-        },
-        {
-          "r": 202,
-          "w": 4,
-          "o": 20,
-          "inning": "England Champions,Australia Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "461133d0-b613-44f1-958d-bb523226ab90",
-      "name": "India Champions vs West Indies Champions, 15th Match, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "West Indies Champions won by 6 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-13",
-      "dateTimeGMT": "2026-10-13T15:30:00",
-      "teams": [
-        "India Champions",
-        "West Indies Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Champions",
-          "shortname": "INDC",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "West Indies Champions",
-          "shortname": "WIC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 110,
-          "w": 8,
-          "o": 20,
-          "inning": "India Champions Inning 1"
-        },
-        {
-          "r": 111,
-          "w": 4,
-          "o": 14.5,
-          "inning": "West Indies Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
