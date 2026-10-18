@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T17:11:04.969Z",
+  "lastUpdated": "2026-10-18T22:17:49.293Z",
   "recentMatches": [
     {
       "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
@@ -483,186 +483,6 @@
       "matchEnded": true
     },
     {
-      "id": "c28bfd05-81dd-46d6-9873-b094df319ef3",
-      "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
-      "matchType": "odi",
-      "status": "Australia Women won by 8 wkts",
-      "venue": "Allan Border Field, Brisbane",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T03:50:00",
-      "teams": [
-        "Australia Women",
-        "Bangladesh Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "Bangladesh Women",
-          "shortname": "BANW",
-          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 172,
-          "w": 10,
-          "o": 49.5,
-          "inning": "Bangladesh Women Inning 1"
-        },
-        {
-          "r": 175,
-          "w": 2,
-          "o": 22.4,
-          "inning": "Australia Women Inning 1"
-        }
-      ],
-      "series_id": "4d3b12d1-2699-4b19-873f-144719dc9bc7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e982aea2-1238-448c-9005-1cd04642693f",
-      "name": "Bhutan vs Thailand, 21st Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Thailand won by 37 runs",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T06:00:00",
-      "teams": [
-        "Bhutan",
-        "Thailand"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bhutan",
-          "shortname": "BHU",
-          "img": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=48"
-        },
-        {
-          "name": "Thailand",
-          "shortname": "THAI",
-          "img": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 134,
-          "w": 8,
-          "o": 20,
-          "inning": "thailand Inning 1"
-        },
-        {
-          "r": 97,
-          "w": 10,
-          "o": 18.5,
-          "inning": "Bhutan,Thailand Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "46cf1f9f-e741-423a-bfe9-98dd14921252",
-      "name": "Bahrain vs Qatar, 20th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Qatar won by 2 wkts",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T01:15:00",
-      "teams": [
-        "Bahrain",
-        "Qatar"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bahrain",
-          "shortname": "BHR",
-          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 119,
-          "w": 10,
-          "o": 20,
-          "inning": "Bahrain Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 8,
-          "o": 20,
-          "inning": "Qatar Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d98080ac-a5a9-4236-92b7-3e694ef1e8b2",
-      "name": "Myanmar vs Mongolia, 19th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier A 2026",
-      "matchType": "t20",
-      "status": "Myanmar won by 9 wkts",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T01:15:00",
-      "teams": [
-        "Myanmar",
-        "Mongolia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mongolia",
-          "shortname": "MN",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Myanmar",
-          "shortname": "MYAN",
-          "img": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 56,
-          "w": 10,
-          "o": 16.4,
-          "inning": "Mongolia Inning 1"
-        },
-        {
-          "r": 60,
-          "w": 1,
-          "o": 5.2,
-          "inning": "Myanmar Inning 1"
-        }
-      ],
-      "series_id": "74118296-7b42-46b1-8b43-efa92bb3ac6b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "98d2afd6-f4dc-4d43-a25b-0f812d8bc5c6",
       "name": "Pakistan vs Sri Lanka, 1st Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
@@ -701,135 +521,6 @@
         }
       ],
       "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "982c7933-f9bf-48e2-9cdc-e98c5109f006",
-      "name": "Maldives vs Saudi Arabia, 15th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
-      "matchType": "t20",
-      "status": "Saudi Arabia won by 125 runs",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T06:00:00",
-      "teams": [
-        "Maldives",
-        "Saudi Arabia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Maldives",
-          "shortname": "MDV",
-          "img": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=48"
-        },
-        {
-          "name": "Saudi Arabia",
-          "shortname": "SAU",
-          "img": "https://g.cricapi.com/iapi/649-637877090170801940.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 5,
-          "o": 20,
-          "inning": "saudi arabia Inning 1"
-        },
-        {
-          "r": 69,
-          "w": 10,
-          "o": 17.1,
-          "inning": "Maldives,Saudi Arabia Inning 1"
-        }
-      ],
-      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "4a378ea0-b156-47f1-8127-c2bfb65f765d",
-      "name": "Hong Kong, China vs Singapore, 14th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China won by 38 runs",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T06:00:00",
-      "teams": [
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 172,
-          "w": 5,
-          "o": 20,
-          "inning": "hong kong, china Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 10,
-          "o": 18,
-          "inning": "Hong Kong Inning 1"
-        }
-      ],
-      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "35d090cb-44f4-4696-a76c-3a6d5f18bafb",
-      "name": "Malaysia vs China, 13th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier B 2026",
-      "matchType": "t20",
-      "status": "Malaysia won by 6 wkts",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "date": "2026-10-14",
-      "dateTimeGMT": "2026-10-14T01:15:00",
-      "teams": [
-        "Malaysia",
-        "China"
-      ],
-      "teamInfo": [
-        {
-          "name": "China",
-          "shortname": "CHN",
-          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
-        },
-        {
-          "name": "Malaysia",
-          "shortname": "MAL",
-          "img": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 60,
-          "w": 10,
-          "o": 20,
-          "inning": "China Inning 1"
-        },
-        {
-          "r": 63,
-          "w": 4,
-          "o": 7.2,
-          "inning": "Malaysia Inning 1"
-        }
-      ],
-      "series_id": "cb353b0b-1247-40d0-af72-40237829dcd9",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1100,6 +791,321 @@
         }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b1d8353a-d38a-4bee-8b3c-d7a5900787a5",
+      "name": "Hobart Hurricanes Women vs Perth Scorchers Women, 11th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 30 runs",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T23:00:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 8,
+          "o": 20,
+          "inning": "Perth Scorchers Women Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 5,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ca3ea10f-2148-4319-8461-7d3b90556a24",
+      "name": "Sydney Thunder Women vs Melbourne Renegades Women, 12th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Thunder Women won by 5 wkts",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T23:00:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Melbourne Renegades Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 121,
+          "w": 9,
+          "o": 20,
+          "inning": "Melbourne Renegades Women Inning 1"
+        },
+        {
+          "r": 122,
+          "w": 5,
+          "o": 18.5,
+          "inning": "Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "22362ccf-58c8-43e7-bbba-07aace5e4043",
+      "name": "Brisbane Heat Women vs ACT Women, 10th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 6 wkts",
+      "venue": "Raby Oval No. 1, Sydney",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T23:00:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "ACT Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Act Women",
+          "shortname": "ACTW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 83,
+          "w": 10,
+          "o": 17.3,
+          "inning": "act women Inning 1"
+        },
+        {
+          "r": 86,
+          "w": 4,
+          "o": 14.1,
+          "inning": "Brisbane Heat Women,ACT Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ae785455-2d6f-4160-a569-088464ebe872",
+      "name": "England Champions vs West Indies Champions, Final, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "West Indies Champions won by 9 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T15:30:00",
+      "teams": [
+        "England Champions",
+        "West Indies Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Champions",
+          "shortname": "ENGC",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "West Indies Champions",
+          "shortname": "WIC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 7,
+          "o": 20,
+          "inning": "England Champions Inning 1"
+        },
+        {
+          "r": 165,
+          "w": 1,
+          "o": 17,
+          "inning": "West Indies Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7be65e20-8aab-4774-9170-303169bb29a6",
+      "name": "Australia Champions vs West Indies Champions, Semi Final 2, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "West Indies Champions won by 5 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T15:30:00",
+      "teams": [
+        "Australia Champions",
+        "West Indies Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Champions",
+          "shortname": "AUSC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "West Indies Champions",
+          "shortname": "WIC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 172,
+          "w": 7,
+          "o": 20,
+          "inning": "australia champions Inning 1"
+        },
+        {
+          "r": 173,
+          "w": 5,
+          "o": 19,
+          "inning": "Australia Champions,West Indies Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4a33e95c-a65d-45d9-a3b1-5c2d5a205440",
+      "name": "South Africa Champions vs England Champions, Semi Final 1, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "England Champions won by 46 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T11:30:00",
+      "teams": [
+        "South Africa Champions",
+        "England Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Champions",
+          "shortname": "ENGC",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "South Africa Champions",
+          "shortname": "SAC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 189,
+          "w": 8,
+          "o": 20,
+          "inning": "England Champions Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 10,
+          "o": 16.5,
+          "inning": "South Africa Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "85f911c5-a5e8-465b-90af-c601fce75012",
+      "name": "India Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of India, 2026",
+      "matchType": "t20",
+      "status": "India Women won by 9 wkts",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T13:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 8,
+          "o": 20,
+          "inning": "zimbabwe women Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 1,
+          "o": 8.5,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
