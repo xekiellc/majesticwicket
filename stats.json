@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T12:13:05.153Z",
+  "lastUpdated": "2026-10-18T17:11:04.969Z",
   "recentMatches": [
     {
       "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
@@ -135,6 +135,37 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "c9db38ac-f541-4ae9-b2f3-3f566aa00fd9",
+      "name": "Romania Women vs Bulgaria Women, 3rd place play-off, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Romania Women opt to bat",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "a17316e5-2020-4eb3-94e8-331195dab215",
@@ -635,7 +666,7 @@
       "id": "98d2afd6-f4dc-4d43-a25b-0f812d8bc5c6",
       "name": "Pakistan vs Sri Lanka, 1st Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Pakistan won by 37 runs",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "date": "2026-10-18",
       "dateTimeGMT": "2026-10-18T08:00:00",
@@ -661,6 +692,12 @@
           "w": 10,
           "o": 49.5,
           "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 268,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Sri Lanka Inning 1"
         }
       ],
       "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
@@ -668,7 +705,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "982c7933-f9bf-48e2-9cdc-e98c5109f006",
@@ -1060,51 +1097,6 @@
           "w": 6,
           "o": 19.1,
           "inning": "Melbourne Stars Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b1d8353a-d38a-4bee-8b3c-d7a5900787a5",
-      "name": "Hobart Hurricanes Women vs Perth Scorchers Women, 11th Match, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Perth Scorchers Women won by 30 runs",
-      "venue": "Blacktown International Sportspark, Sydney",
-      "date": "2026-10-17",
-      "dateTimeGMT": "2026-10-17T23:00:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Perth Scorchers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hobart Hurricanes Women",
-          "shortname": "HB-W",
-          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
-        },
-        {
-          "name": "Perth Scorchers Women",
-          "shortname": "PS-W",
-          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 166,
-          "w": 8,
-          "o": 20,
-          "inning": "Perth Scorchers Women Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 5,
-          "o": 20,
-          "inning": "Hobart Hurricanes Women Inning 1"
         }
       ],
       "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
