@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T22:17:49.293Z",
+  "lastUpdated": "2026-10-19T07:32:08.843Z",
   "recentMatches": [
     {
       "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
@@ -346,6 +346,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "d1a5aeba-24cc-4546-b214-df6de78f1247",
+      "name": "Oman vs Nepal, 139th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal opt to bat",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-10-19",
+      "dateTimeGMT": "2026-10-19T06:00:00",
+      "teams": [
+        "Oman",
+        "Nepal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 103,
+          "w": 3,
+          "o": 26,
+          "inning": "nepal Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "cb919ac0-a0a4-4aec-8afd-7b0d2b2d558e",
@@ -704,7 +743,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -1061,51 +1100,6 @@
         }
       ],
       "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "85f911c5-a5e8-465b-90af-c601fce75012",
-      "name": "India Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of India, 2026",
-      "matchType": "t20",
-      "status": "India Women won by 9 wkts",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T13:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 8,
-          "o": 20,
-          "inning": "zimbabwe women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 1,
-          "o": 8.5,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
