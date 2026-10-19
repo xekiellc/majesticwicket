@@ -1,96 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T15:03:52.920Z",
+  "lastUpdated": "2026-10-19T19:43:59.346Z",
   "recentMatches": [
-    {
-      "id": "b4c6f171-def5-4956-855e-89a9c2edcb9c",
-      "name": "Bulgaria Women vs Sweden Women, 2nd Match, ECA Womens European Cup, 2026",
-      "matchType": "t20",
-      "status": "Sweden Women won by 10 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-15",
-      "dateTimeGMT": "2026-10-15T00:00:00",
-      "teams": [
-        "Bulgaria Women",
-        "Sweden Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bulgaria Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sweden Women",
-          "shortname": "SWE-W",
-          "img": "https://g.cricapi.com/iapi/3004-638040161487648380.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 9,
-          "o": 20,
-          "inning": "bulgaria women Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 0,
-          "o": 5.5,
-          "inning": "Bulgaria Women,Sweden Women Inning 1"
-        }
-      ],
-      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a2dc4f6c-4648-44d6-88d2-0932994a93e6",
-      "name": "Austria Women vs Sweden Women, 1st Match, ECA Womens European Cup, 2026",
-      "matchType": "t20",
-      "status": "Sweden Women won by 9 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-15",
-      "dateTimeGMT": "2026-10-15T00:00:00",
-      "teams": [
-        "Austria Women",
-        "Sweden Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria Women",
-          "shortname": "AUTW",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Sweden Women",
-          "shortname": "SWE-W",
-          "img": "https://g.cricapi.com/iapi/3004-638040161487648380.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 91,
-          "w": 9,
-          "o": 20,
-          "inning": "Austria Women Inning 1"
-        },
-        {
-          "r": 92,
-          "w": 1,
-          "o": 9.4,
-          "inning": "Sweden Women Inning 1"
-        }
-      ],
-      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
     {
       "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
       "name": "Austria Women vs Sweden Women, Final, ECA Womens European Cup, 2026",
@@ -452,55 +362,10 @@
       "matchEnded": true
     },
     {
-      "id": "8068c292-3042-402b-a53f-76ddc54d9785",
-      "name": "Oman vs Canada, 137th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Canada won by 58 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-10-15",
-      "dateTimeGMT": "2026-10-15T06:00:00",
-      "teams": [
-        "Oman",
-        "Canada"
-      ],
-      "teamInfo": [
-        {
-          "name": "Canada",
-          "shortname": "CAN",
-          "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 256,
-          "w": 10,
-          "o": 50,
-          "inning": "canada Inning 1"
-        },
-        {
-          "r": 198,
-          "w": 10,
-          "o": 46.3,
-          "inning": "Oman,Canada Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "a14f02f8-9bc2-44ad-b3aa-17e6e1972e80",
       "name": "Afghanistan vs Zimbabwe, 2nd Match, ODI Tri-Nation Series in UAE, 2026",
       "matchType": "odi",
-      "status": "Afghanistan opt to bat",
+      "status": "Afghanistan won by 158 runs",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "date": "2026-10-19",
       "dateTimeGMT": "2026-10-19T12:00:00",
@@ -522,10 +387,16 @@
       ],
       "score": [
         {
-          "r": 283,
-          "w": 6,
-          "o": 47.4,
+          "r": 294,
+          "w": 10,
+          "o": 50,
           "inning": "afghanistan Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 10,
+          "o": 38.4,
+          "inning": "Afghanistan,Zimbabwe Inning 1"
         }
       ],
       "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
@@ -533,7 +404,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "20822cbb-7fb1-4ba0-a975-b74bd2613bba",
@@ -1114,6 +985,141 @@
         }
       ],
       "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4a33e95c-a65d-45d9-a3b1-5c2d5a205440",
+      "name": "South Africa Champions vs England Champions, Semi Final 1, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "England Champions won by 46 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T11:30:00",
+      "teams": [
+        "South Africa Champions",
+        "England Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Champions",
+          "shortname": "ENGC",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "South Africa Champions",
+          "shortname": "SAC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 189,
+          "w": 8,
+          "o": 20,
+          "inning": "England Champions Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 10,
+          "o": 16.5,
+          "inning": "South Africa Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "85f911c5-a5e8-465b-90af-c601fce75012",
+      "name": "India Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of India, 2026",
+      "matchType": "t20",
+      "status": "India Women won by 9 wkts",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T13:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 8,
+          "o": 20,
+          "inning": "zimbabwe women Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 1,
+          "o": 8.5,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b9c38067-96a6-41ea-94ba-417b4d8f0f23",
+      "name": "India Women vs Zimbabwe Women, 1st T20I, Zimbabwe Women tour of India, 2026",
+      "matchType": "t20",
+      "status": "India Women won by 4 wkts",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T13:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 114,
+          "w": 5,
+          "o": 20,
+          "inning": "Zimbabwe Women Inning 1"
+        },
+        {
+          "r": 116,
+          "w": 6,
+          "o": 15.4,
+          "inning": "India Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
