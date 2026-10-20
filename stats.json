@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:24:09.456Z",
+  "lastUpdated": "2026-10-20T23:02:25.329Z",
   "recentMatches": [
     {
       "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
@@ -172,96 +172,6 @@
           "w": 3,
           "o": 9.5,
           "inning": "Austria Women Inning 1"
-        }
-      ],
-      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b9abacfc-903e-4578-8d13-f354c58e4a2c",
-      "name": "Austria Women vs Bulgaria Women, 4th Match, ECA Womens European Cup, 2026",
-      "matchType": "t20",
-      "status": "Austria Women won by 10 wkts (DLS method)",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T11:00:00",
-      "teams": [
-        "Austria Women",
-        "Bulgaria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Austria Women",
-          "shortname": "AUTW",
-          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
-        },
-        {
-          "name": "Bulgaria Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 39,
-          "w": 8,
-          "o": 12,
-          "inning": "bulgaria women Inning 1"
-        },
-        {
-          "r": 37,
-          "w": 0,
-          "o": 4.5,
-          "inning": "Austria Women,Bulgaria Women Inning 1"
-        }
-      ],
-      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2a57d45e-5d2f-4361-b4da-7ad3d0b908cd",
-      "name": "Romania Women vs Bulgaria Women, 3rd Match, ECA Womens European Cup, 2026",
-      "matchType": "t20",
-      "status": "Bulgaria Women won by 2 wkts - 15 overs game",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T07:00:00",
-      "teams": [
-        "Romania Women",
-        "Bulgaria Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bulgaria Women",
-          "shortname": "BW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Romania Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 75,
-          "w": 5,
-          "o": 15,
-          "inning": "romania women Inning 1"
-        },
-        {
-          "r": 76,
-          "w": 8,
-          "o": 13.3,
-          "inning": "Romania Women,Bulgaria Women Inning 1"
         }
       ],
       "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
@@ -628,7 +538,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -992,51 +902,6 @@
       "matchEnded": true
     },
     {
-      "id": "22362ccf-58c8-43e7-bbba-07aace5e4043",
-      "name": "Brisbane Heat Women vs ACT Women, 10th Match, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Brisbane Heat Women won by 6 wkts",
-      "venue": "Raby Oval No. 1, Sydney",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T23:00:00",
-      "teams": [
-        "Brisbane Heat Women",
-        "ACT Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Act Women",
-          "shortname": "ACTW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Brisbane Heat Women",
-          "shortname": "BH-W",
-          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 83,
-          "w": 10,
-          "o": 17.3,
-          "inning": "act women Inning 1"
-        },
-        {
-          "r": 86,
-          "w": 4,
-          "o": 14.1,
-          "inning": "Brisbane Heat Women,ACT Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "bea783d5-929c-4bda-a9a9-5e048aaa91a8",
       "name": "Nigeria vs Gambia, 3rd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
@@ -1097,6 +962,141 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "63c4305e-f2ff-4052-a425-76c903a0dfce",
+      "name": "Uganda vs Zambia, 1st Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Uganda won by 87 runs",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T09:00:00",
+      "teams": [
+        "Uganda",
+        "Zambia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uganda",
+          "shortname": "UGA",
+          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
+        },
+        {
+          "name": "Zambia",
+          "shortname": "ZAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 195,
+          "w": 6,
+          "o": 20,
+          "inning": "uganda Inning 1"
+        },
+        {
+          "r": 108,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Uganda,Zambia Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ae785455-2d6f-4160-a569-088464ebe872",
+      "name": "England Champions vs West Indies Champions, Final, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "West Indies Champions won by 9 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T15:30:00",
+      "teams": [
+        "England Champions",
+        "West Indies Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Champions",
+          "shortname": "ENGC",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "West Indies Champions",
+          "shortname": "WIC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 7,
+          "o": 20,
+          "inning": "England Champions Inning 1"
+        },
+        {
+          "r": 165,
+          "w": 1,
+          "o": 17,
+          "inning": "West Indies Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7ef2a3f0-c9f5-402a-9417-078e9d583d6e",
+      "name": "India Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of India, 2026",
+      "matchType": "t20",
+      "status": "India Women won by 92 runs",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T13:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 216,
+          "w": 7,
+          "o": 20,
+          "inning": "india women Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 7,
+          "o": 20,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
