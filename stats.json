@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T23:27:43.058Z",
+  "lastUpdated": "2026-10-20T07:20:50.318Z",
   "recentMatches": [
     {
       "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
@@ -494,6 +494,96 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "05595be9-f139-4b20-929c-4a1466b0dda0",
+      "name": "Sydney Thunder Women vs Sydney Sixers Women, Semi Final 2, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 4 wkts",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T03:30:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 152,
+          "w": 9,
+          "o": 20,
+          "inning": "sydney thunder women Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 6,
+          "o": 19.3,
+          "inning": "Sydney Thunder Women,Sydney Sixers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c3bc5cf4-b0cb-4264-a91a-eaa17300c71e",
+      "name": "Adelaide Strikers Women vs Perth Scorchers Women, Semi Final 1, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 5 wkts",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T23:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 6,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 5,
+          "o": 18,
+          "inning": "Perth Scorchers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
       "matchEnded": true
     },
     {
@@ -1030,96 +1120,6 @@
         }
       ],
       "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "85f911c5-a5e8-465b-90af-c601fce75012",
-      "name": "India Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of India, 2026",
-      "matchType": "t20",
-      "status": "India Women won by 9 wkts",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T13:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 8,
-          "o": 20,
-          "inning": "zimbabwe women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 1,
-          "o": 8.5,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b9c38067-96a6-41ea-94ba-417b4d8f0f23",
-      "name": "India Women vs Zimbabwe Women, 1st T20I, Zimbabwe Women tour of India, 2026",
-      "matchType": "t20",
-      "status": "India Women won by 4 wkts",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T13:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 114,
-          "w": 5,
-          "o": 20,
-          "inning": "Zimbabwe Women Inning 1"
-        },
-        {
-          "r": 116,
-          "w": 6,
-          "o": 15.4,
-          "inning": "India Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
