@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T07:20:17.771Z",
+  "lastUpdated": "2026-10-21T13:16:34.369Z",
   "recentMatches": [
     {
       "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
@@ -270,6 +270,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "430aaf02-f284-47b9-a4e4-452ae068887f",
+      "name": "Afghanistan vs Bangladesh, 3rd Match, ODI Tri-Nation Series in UAE, 2026",
+      "matchType": "odi",
+      "status": "Bangladesh opt to bat",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T12:00:00",
+      "teams": [
+        "Afghanistan",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 67,
+          "w": 4,
+          "o": 20.3,
+          "inning": "bangladesh Inning 1"
+        }
+      ],
+      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "a14f02f8-9bc2-44ad-b3aa-17e6e1972e80",
@@ -947,15 +986,77 @@
       "matchEnded": true
     },
     {
-      "id": "bea783d5-929c-4bda-a9a9-5e048aaa91a8",
-      "name": "Nigeria vs Gambia, 3rd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "id": "91462ff6-ad04-49dd-b30e-5aaae203ea54",
+      "name": "Zambia vs Nigeria, 6th Match, ICC Mens T20 World Cup Asia Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Nigeria won by 160 runs",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T13:00:00",
+      "status": "Match starts at Oct 21, 13:00 GMT",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T13:00:00",
       "teams": [
-        "Nigeria",
+        "Zambia",
+        "Nigeria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nigeria",
+          "shortname": "NGA",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        },
+        {
+          "name": "Zambia",
+          "shortname": "ZAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "416e0429-7693-40a4-bd8d-1240617135c5",
+      "name": "Lesotho vs Uganda, 5th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Lesotho opt to bat",
+      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T09:00:00",
+      "teams": [
+        "Lesotho",
+        "Uganda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lesotho",
+          "shortname": "LES",
+          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+        },
+        {
+          "name": "Uganda",
+          "shortname": "UGA",
+          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "7764caf4-bd75-4166-8c02-313b31365a6f",
+      "name": "Mozambique vs Gambia, 4th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Mozambique opt to bat",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T09:00:00",
+      "teams": [
+        "Mozambique",
         "Gambia"
       ],
       "teamInfo": [
@@ -965,166 +1066,17 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         },
         {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 262,
-          "w": 1,
-          "o": 20,
-          "inning": "nigeria Inning 1"
-        },
-        {
-          "r": 102,
-          "w": 10,
-          "o": 17.2,
-          "inning": "Nigeria,Gambia Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e21d858e-32a8-42cd-8591-22fe9787cae3",
-      "name": "Lesotho vs Mozambique, 2nd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Lesotho won by 74 runs",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T13:00:00",
-      "teams": [
-        "Lesotho",
-        "Mozambique"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
-        },
-        {
           "name": "Mozambique",
           "shortname": "MOZ",
           "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
         }
       ],
-      "score": [
-        {
-          "r": 169,
-          "w": 8,
-          "o": 20,
-          "inning": "lesotho Inning 1"
-        },
-        {
-          "r": 95,
-          "w": 10,
-          "o": 18.2,
-          "inning": "Lesotho,Mozambique Inning 1"
-        }
-      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
+      "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "63c4305e-f2ff-4052-a425-76c903a0dfce",
-      "name": "Uganda vs Zambia, 1st Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Uganda won by 87 runs",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T09:00:00",
-      "teams": [
-        "Uganda",
-        "Zambia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Uganda",
-          "shortname": "UGA",
-          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
-        },
-        {
-          "name": "Zambia",
-          "shortname": "ZAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 195,
-          "w": 6,
-          "o": 20,
-          "inning": "uganda Inning 1"
-        },
-        {
-          "r": 108,
-          "w": 10,
-          "o": 17.3,
-          "inning": "Uganda,Zambia Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ae785455-2d6f-4160-a569-088464ebe872",
-      "name": "England Champions vs West Indies Champions, Final, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "West Indies Champions won by 9 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T15:30:00",
-      "teams": [
-        "England Champions",
-        "West Indies Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Champions",
-          "shortname": "ENGC",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "West Indies Champions",
-          "shortname": "WIC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 7,
-          "o": 20,
-          "inning": "England Champions Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 1,
-          "o": 17,
-          "inning": "West Indies Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
+      "matchEnded": false
     }
   ],
   "ipl": {
