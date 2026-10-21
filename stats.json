@@ -1,11 +1,641 @@
 {
-  "lastUpdated": "2026-10-21T18:30:21.226Z",
+  "lastUpdated": "2026-10-21T23:05:35.985Z",
   "recentMatches": [
+    {
+      "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
+      "name": "Austria Women vs Sweden Women, Final, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Sweden Women won by 64 runs",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T11:00:00",
+      "teams": [
+        "Austria Women",
+        "Sweden Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Austria Women",
+          "shortname": "AUTW",
+          "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+        },
+        {
+          "name": "Sweden Women",
+          "shortname": "SWE-W",
+          "img": "https://g.cricapi.com/iapi/3004-638040161487648380.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 124,
+          "w": 9,
+          "o": 20,
+          "inning": "Sweden Women Inning 1"
+        },
+        {
+          "r": 60,
+          "w": 10,
+          "o": 15,
+          "inning": "Austria Women Inning 1"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c9db38ac-f541-4ae9-b2f3-3f566aa00fd9",
+      "name": "Romania Women vs Bulgaria Women, 3rd place play-off, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Bulgaria Women won by 5 wkts",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Bulgaria Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bulgaria Women",
+          "shortname": "BW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Romania Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 108,
+          "w": 5,
+          "o": 20,
+          "inning": "romania women Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 5,
+          "o": 17.3,
+          "inning": "Romania Women,Bulgaria Women Inning 1"
+        }
+      ],
+      "series_id": "12e5ef6f-1105-4f20-8f6f-36d9f2825ed8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d1a5aeba-24cc-4546-b214-df6de78f1247",
+      "name": "Oman vs Nepal, 139th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Nepal won by 10 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-10-19",
+      "dateTimeGMT": "2026-10-19T06:00:00",
+      "teams": [
+        "Oman",
+        "Nepal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 280,
+          "w": 10,
+          "o": 50,
+          "inning": "nepal Inning 1"
+        },
+        {
+          "r": 270,
+          "w": 7,
+          "o": 50,
+          "inning": "Oman,Nepal Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "430aaf02-f284-47b9-a4e4-452ae068887f",
+      "name": "Afghanistan vs Bangladesh, 3rd Match, ODI Tri-Nation Series in UAE, 2026",
+      "matchType": "odi",
+      "status": "Afghanistan won by 7 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T12:00:00",
+      "teams": [
+        "Afghanistan",
+        "Bangladesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 160,
+          "w": 10,
+          "o": 41.2,
+          "inning": "bangladesh Inning 1"
+        },
+        {
+          "r": 161,
+          "w": 3,
+          "o": 35.3,
+          "inning": "Afghanistan,Bangladesh Inning 1"
+        }
+      ],
+      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a14f02f8-9bc2-44ad-b3aa-17e6e1972e80",
+      "name": "Afghanistan vs Zimbabwe, 2nd Match, ODI Tri-Nation Series in UAE, 2026",
+      "matchType": "odi",
+      "status": "Afghanistan won by 158 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-10-19",
+      "dateTimeGMT": "2026-10-19T12:00:00",
+      "teams": [
+        "Afghanistan",
+        "Zimbabwe"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 294,
+          "w": 10,
+          "o": 50,
+          "inning": "afghanistan Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 10,
+          "o": 38.4,
+          "inning": "Afghanistan,Zimbabwe Inning 1"
+        }
+      ],
+      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "17fc6ab9-84ba-490f-b35a-e671192df9cc",
+      "name": "Pakistan vs England, 2nd Match, Pakistan ODI Tri-Series, 2026",
+      "matchType": "odi",
+      "status": "Pakistan won by 87 runs",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T08:00:00",
+      "teams": [
+        "Pakistan",
+        "England"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 302,
+          "w": 9,
+          "o": 50,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 215,
+          "w": 10,
+          "o": 38.4,
+          "inning": "England Inning 1"
+        }
+      ],
+      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "98d2afd6-f4dc-4d43-a25b-0f812d8bc5c6",
+      "name": "Pakistan vs Sri Lanka, 1st Match, Pakistan ODI Tri-Series, 2026",
+      "matchType": "odi",
+      "status": "Pakistan won by 37 runs",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T08:00:00",
+      "teams": [
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 305,
+          "w": 10,
+          "o": 49.5,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 268,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b72a9804-5bb1-4319-8b45-a9598e757982",
+      "name": "Perth Scorchers Women vs Sydney Sixers Women, Final, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 15 runs",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T03:00:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 149,
+          "w": 8,
+          "o": 20,
+          "inning": "sydney sixers women Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 7,
+          "o": 20,
+          "inning": "Perth Scorchers Women,Sydney Sixers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "05595be9-f139-4b20-929c-4a1466b0dda0",
+      "name": "Sydney Thunder Women vs Sydney Sixers Women, Semi Final 2, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 4 wkts",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T03:30:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 152,
+          "w": 9,
+          "o": 20,
+          "inning": "sydney thunder women Inning 1"
+        },
+        {
+          "r": 153,
+          "w": 6,
+          "o": 19.3,
+          "inning": "Sydney Thunder Women,Sydney Sixers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c3bc5cf4-b0cb-4264-a91a-eaa17300c71e",
+      "name": "Adelaide Strikers Women vs Perth Scorchers Women, Semi Final 1, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 5 wkts",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T23:00:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 6,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 5,
+          "o": 18,
+          "inning": "Perth Scorchers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8c040459-ed9f-4e4c-a16a-b75f38e769e2",
+      "name": "Sydney Sixers Women vs Melbourne Stars Women, 18th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Melbourne Stars Women won by 5 wkts",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T08:00:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Melbourne Stars Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 155,
+          "w": 8,
+          "o": 20,
+          "inning": "sydney sixers women Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 5,
+          "o": 20,
+          "inning": "Sydney Sixers Women,Melbourne Stars Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f9408470-d38d-4abf-81ed-712f5bb1b5df",
+      "name": "Brisbane Heat Women vs Adelaide Strikers Women, 16th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 10 runs",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T03:30:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "Adelaide Strikers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 139,
+          "w": 6,
+          "o": 20,
+          "inning": "adelaide strikers women Inning 1"
+        },
+        {
+          "r": 129,
+          "w": 10,
+          "o": 17.5,
+          "inning": "Brisbane Heat Women,Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "05903d08-e78f-4ad8-b313-0b051277cbba",
+      "name": "Sydney Thunder Women vs Perth Scorchers Women, 17th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Thunder Women won by 8 wkts",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T03:30:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 92,
+          "w": 10,
+          "o": 18.2,
+          "inning": "perth scorchers women Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 2,
+          "o": 13.1,
+          "inning": "Sydney Thunder Women,Perth Scorchers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c6a8495a-4a09-4aec-b835-53847349ad00",
+      "name": "Melbourne Renegades Women vs Hobart Hurricanes Women, 15th Match, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Melbourne Renegades Women won by 8 wkts",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T23:00:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        },
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 129,
+          "w": 8,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 2,
+          "o": 17.1,
+          "inning": "Melbourne Renegades Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "91462ff6-ad04-49dd-b30e-5aaae203ea54",
       "name": "Zambia vs Nigeria, 6th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Zambia opt to bat",
+      "status": "Nigeria won by 9 wkts",
       "venue": "Nigeria Cricket Federation Oval 1, Abuja",
       "date": "2026-10-21",
       "dateTimeGMT": "2026-10-21T13:00:00",
@@ -25,18 +655,32 @@
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
+      "score": [
+        {
+          "r": 142,
+          "w": 9,
+          "o": 20,
+          "inning": "zambia Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 1,
+          "o": 14.5,
+          "inning": "Zambia,Nigeria Inning 1"
+        }
+      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "416e0429-7693-40a4-bd8d-1240617135c5",
       "name": "Lesotho vs Uganda, 5th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Lesotho opt to bat",
+      "status": "Uganda won by 5 wkts",
       "venue": "Nigeria Cricket Federation Oval 2, Abuja",
       "date": "2026-10-21",
       "dateTimeGMT": "2026-10-21T09:00:00",
@@ -56,18 +700,32 @@
           "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 87,
+          "w": 10,
+          "o": 19.3,
+          "inning": "lesotho Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 5,
+          "o": 12.3,
+          "inning": "Lesotho,Uganda Inning 1"
+        }
+      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7764caf4-bd75-4166-8c02-313b31365a6f",
       "name": "Mozambique vs Gambia, 4th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Mozambique opt to bat",
+      "status": "Mozambique won by 28 runs",
       "venue": "Nigeria Cricket Federation Oval 1, Abuja",
       "date": "2026-10-21",
       "dateTimeGMT": "2026-10-21T09:00:00",
@@ -87,12 +745,296 @@
           "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 148,
+          "w": 6,
+          "o": 20,
+          "inning": "mozambique Inning 1"
+        },
+        {
+          "r": 120,
+          "w": 8,
+          "o": 20,
+          "inning": "Mozambique,Gambia Inning 1"
+        }
+      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
+    },
+    {
+      "id": "bea783d5-929c-4bda-a9a9-5e048aaa91a8",
+      "name": "Nigeria vs Gambia, 3rd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Nigeria won by 160 runs",
+      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T13:00:00",
+      "teams": [
+        "Nigeria",
+        "Gambia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gambia",
+          "shortname": "GAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Nigeria",
+          "shortname": "NGA",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 262,
+          "w": 1,
+          "o": 20,
+          "inning": "nigeria Inning 1"
+        },
+        {
+          "r": 102,
+          "w": 10,
+          "o": 17.2,
+          "inning": "Nigeria,Gambia Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e21d858e-32a8-42cd-8591-22fe9787cae3",
+      "name": "Lesotho vs Mozambique, 2nd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Lesotho won by 74 runs",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T13:00:00",
+      "teams": [
+        "Lesotho",
+        "Mozambique"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lesotho",
+          "shortname": "LES",
+          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+        },
+        {
+          "name": "Mozambique",
+          "shortname": "MOZ",
+          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 169,
+          "w": 8,
+          "o": 20,
+          "inning": "lesotho Inning 1"
+        },
+        {
+          "r": 95,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Lesotho,Mozambique Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "63c4305e-f2ff-4052-a425-76c903a0dfce",
+      "name": "Uganda vs Zambia, 1st Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Uganda won by 87 runs",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T09:00:00",
+      "teams": [
+        "Uganda",
+        "Zambia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uganda",
+          "shortname": "UGA",
+          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
+        },
+        {
+          "name": "Zambia",
+          "shortname": "ZAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 195,
+          "w": 6,
+          "o": 20,
+          "inning": "uganda Inning 1"
+        },
+        {
+          "r": 108,
+          "w": 10,
+          "o": 17.3,
+          "inning": "Uganda,Zambia Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "ae785455-2d6f-4160-a569-088464ebe872",
+      "name": "England Champions vs West Indies Champions, Final, World Championship of Legends 2026",
+      "matchType": "t20",
+      "status": "West Indies Champions won by 9 wkts",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T15:30:00",
+      "teams": [
+        "England Champions",
+        "West Indies Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Champions",
+          "shortname": "ENGC",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "West Indies Champions",
+          "shortname": "WIC",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 7,
+          "o": 20,
+          "inning": "England Champions Inning 1"
+        },
+        {
+          "r": 165,
+          "w": 1,
+          "o": 17,
+          "inning": "West Indies Champions Inning 1"
+        }
+      ],
+      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7ef2a3f0-c9f5-402a-9417-078e9d583d6e",
+      "name": "India Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of India, 2026",
+      "matchType": "t20",
+      "status": "India Women won by 92 runs",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T13:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 216,
+          "w": 7,
+          "o": 20,
+          "inning": "india women Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 7,
+          "o": 20,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "85f911c5-a5e8-465b-90af-c601fce75012",
+      "name": "India Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of India, 2026",
+      "matchType": "t20",
+      "status": "India Women won by 9 wkts",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T13:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 102,
+          "w": 8,
+          "o": 20,
+          "inning": "zimbabwe women Inning 1"
+        },
+        {
+          "r": 104,
+          "w": 1,
+          "o": 8.5,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "87c745f1-00b1-4eae-a083-d67fffd80388",
@@ -145,118 +1087,55 @@
       "matchEnded": false
     },
     {
-      "id": "09586a79-abed-4c9b-bccb-90b7ec10c213",
-      "name": "Western Australia vs New South Wales, 6th Match, Sheffield Shield 2026-27",
+      "id": "2853b5a7-b074-4f38-a729-2a2abf8961a9",
+      "name": "Arunachal Pradesh vs Sikkim, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
-      "status": "Day 3: Stumps - Western Australia need 334 runs",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-19",
-      "dateTimeGMT": "2026-10-19T02:30:00",
+      "status": "Sikkim won by an innings and 328 runs",
+      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T04:00:00",
       "teams": [
-        "Western Australia",
-        "New South Wales"
+        "Arunachal Pradesh",
+        "Sikkim"
       ],
       "teamInfo": [
         {
-          "name": "New South Wales",
-          "shortname": "NSW",
-          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+          "name": "Arunachal Pradesh",
+          "shortname": "ARNP",
+          "img": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=48"
         },
         {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+          "name": "Sikkim",
+          "shortname": "SKM",
+          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
         }
       ],
       "score": [
         {
-          "r": 440,
-          "w": 6,
-          "o": 110,
-          "inning": "new south wales Inning 1"
-        },
-        {
-          "r": 339,
+          "r": 121,
           "w": 10,
-          "o": 105.1,
-          "inning": "Western Australia,New South Wales Inning 1"
+          "o": 51.4,
+          "inning": "Arunachal Pradesh Inning 1"
         },
         {
-          "r": 262,
+          "r": 572,
           "w": 5,
-          "o": 51.3,
-          "inning": "new south wales Inning 2"
+          "o": 142,
+          "inning": "Sikkim Inning 1"
         },
         {
-          "r": 30,
-          "w": 3,
-          "o": 15,
-          "inning": "Western Australia,New South Wales Inning 2"
+          "r": 123,
+          "w": 10,
+          "o": 54,
+          "inning": "Arunachal Pradesh Inning 2"
         }
       ],
-      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "23c140b5-eebc-4cb1-af1e-ddb885335b30",
-      "name": "Tasmania vs Victoria, 4th Match, Sheffield Shield 2026-27",
-      "matchType": "test",
-      "status": "Day 3: Stumps - Victoria need 173 runs",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-10-19",
-      "dateTimeGMT": "2026-10-19T23:30:00",
-      "teams": [
-        "Tasmania",
-        "Victoria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Tasmania",
-          "shortname": "TAS",
-          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
-        },
-        {
-          "name": "Victoria",
-          "shortname": "VIC",
-          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 241,
-          "w": 10,
-          "o": 89.2,
-          "inning": "tasmania Inning 1"
-        },
-        {
-          "r": 207,
-          "w": 10,
-          "o": 61.1,
-          "inning": "Tasmania,Victoria Inning 1"
-        },
-        {
-          "r": 236,
-          "w": 10,
-          "o": 85.3,
-          "inning": "tasmania Inning 2"
-        },
-        {
-          "r": 98,
-          "w": 5,
-          "o": 36,
-          "inning": "Tasmania,Victoria Inning 2"
-        }
-      ],
-      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     }
   ],
   "ipl": {
