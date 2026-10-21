@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T23:02:25.329Z",
+  "lastUpdated": "2026-10-21T07:20:17.771Z",
   "recentMatches": [
     {
       "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
@@ -445,6 +445,51 @@
         }
       ],
       "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b72a9804-5bb1-4319-8b45-a9598e757982",
+      "name": "Perth Scorchers Women vs Sydney Sixers Women, Final, T20 Spring Challenge 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 15 runs",
+      "venue": "Cricket Central, Sydney",
+      "date": "2026-10-21",
+      "dateTimeGMT": "2026-10-21T03:00:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 149,
+          "w": 8,
+          "o": 20,
+          "inning": "sydney sixers women Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 7,
+          "o": 20,
+          "inning": "Perth Scorchers Women,Sydney Sixers Women Inning 1"
+        }
+      ],
+      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -905,7 +950,7 @@
       "id": "bea783d5-929c-4bda-a9a9-5e048aaa91a8",
       "name": "Nigeria vs Gambia, 3rd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Nigeria opt to bat",
+      "status": "Nigeria won by 160 runs",
       "venue": "Nigeria Cricket Federation Oval 2, Abuja",
       "date": "2026-10-20",
       "dateTimeGMT": "2026-10-20T13:00:00",
@@ -925,18 +970,32 @@
           "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 262,
+          "w": 1,
+          "o": 20,
+          "inning": "nigeria Inning 1"
+        },
+        {
+          "r": 102,
+          "w": 10,
+          "o": 17.2,
+          "inning": "Nigeria,Gambia Inning 1"
+        }
+      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e21d858e-32a8-42cd-8591-22fe9787cae3",
       "name": "Lesotho vs Mozambique, 2nd Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Lesotho opt to bat",
+      "status": "Lesotho won by 74 runs",
       "venue": "Nigeria Cricket Federation Oval 1, Abuja",
       "date": "2026-10-20",
       "dateTimeGMT": "2026-10-20T13:00:00",
@@ -956,12 +1015,26 @@
           "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 169,
+          "w": 8,
+          "o": 20,
+          "inning": "lesotho Inning 1"
+        },
+        {
+          "r": 95,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Lesotho,Mozambique Inning 1"
+        }
+      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "63c4305e-f2ff-4052-a425-76c903a0dfce",
@@ -1047,51 +1120,6 @@
         }
       ],
       "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7ef2a3f0-c9f5-402a-9417-078e9d583d6e",
-      "name": "India Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of India, 2026",
-      "matchType": "t20",
-      "status": "India Women won by 92 runs",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T13:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 216,
-          "w": 7,
-          "o": 20,
-          "inning": "india women Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 7,
-          "o": 20,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
