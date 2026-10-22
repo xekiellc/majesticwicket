@@ -1,11 +1,50 @@
 {
-  "lastUpdated": "2026-10-22T07:21:02.389Z",
+  "lastUpdated": "2026-10-22T13:14:49.522Z",
   "recentMatches": [
+    {
+      "id": "157a08e6-8f59-4f27-a4d7-efd3be3390db",
+      "name": "Qatar vs Kuwait, 33rd Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Innings Break",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T06:45:00",
+      "teams": [
+        "Qatar",
+        "Kuwait"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 331,
+          "w": 6,
+          "o": 50,
+          "inning": "kuwait Inning 1"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "e61c5bef-4e89-4603-94cc-bb8cb4b9949e",
       "name": "Papua New Guinea vs Jersey, 32nd Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Jersey opt to bat",
+      "status": "Papua New Guinea need 304 runs",
       "venue": "Gymkhana Club Ground, Nairobi",
       "date": "2026-10-22",
       "dateTimeGMT": "2026-10-22T06:45:00",
@@ -25,8 +64,22 @@
           "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 347,
+          "w": 5,
+          "o": 50,
+          "inning": "jersey Inning 1"
+        },
+        {
+          "r": 44,
+          "w": 1,
+          "o": 9,
+          "inning": "Papua New Guinea,Jersey Inning 1"
+        }
+      ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -261,7 +314,7 @@
       "id": "98e35c6a-8155-4959-8df7-b4ac6fc4edfd",
       "name": "Namibia vs Ireland, 1st ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
-      "status": "Namibia opt to bowl",
+      "status": "Namibia need 117 runs",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-10-22",
       "dateTimeGMT": "2026-10-22T08:00:00",
@@ -281,11 +334,70 @@
           "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 229,
+          "w": 9,
+          "o": 50,
+          "inning": "Ireland Inning 1"
+        },
+        {
+          "r": 113,
+          "w": 7,
+          "o": 25.1,
+          "inning": "Namibia Inning 1"
+        }
+      ],
       "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "374856f9-a78b-425b-b6db-10f190bb8eb6",
+      "name": "Sri Lanka vs England, 3rd Match, Pakistan ODI Tri-Series, 2026",
+      "matchType": "odi",
+      "status": "Sri Lanka need 370 runs",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T08:00:00",
+      "teams": [
+        "Sri Lanka",
+        "England"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 429,
+          "w": 4,
+          "o": 50,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 60,
+          "w": 2,
+          "o": 10,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -697,7 +809,7 @@
       "id": "a3eae4af-9e3f-409a-8e8b-171343a7be67",
       "name": "Bangladesh Cricket Board XI vs West Indies, Warm-up Match, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: 2nd Session - West Indies opt to bowl",
+      "status": "Day 1: Stumps - West Indies opt to bowl",
       "venue": "Bashundhara Sports City Cricket Ground, Dhaka",
       "date": "2026-10-22",
       "dateTimeGMT": "2026-10-22T03:30:00",
@@ -719,9 +831,9 @@
       ],
       "score": [
         {
-          "r": 142,
-          "w": 3,
-          "o": 37,
+          "r": 371,
+          "w": 7,
+          "o": 90,
           "inning": "Bangladesh Cricket Board XI Inning 1"
         }
       ],
@@ -999,96 +1111,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ae785455-2d6f-4160-a569-088464ebe872",
-      "name": "England Champions vs West Indies Champions, Final, World Championship of Legends 2026",
-      "matchType": "t20",
-      "status": "West Indies Champions won by 9 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T15:30:00",
-      "teams": [
-        "England Champions",
-        "West Indies Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Champions",
-          "shortname": "ENGC",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "West Indies Champions",
-          "shortname": "WIC",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 7,
-          "o": 20,
-          "inning": "England Champions Inning 1"
-        },
-        {
-          "r": 165,
-          "w": 1,
-          "o": 17,
-          "inning": "West Indies Champions Inning 1"
-        }
-      ],
-      "series_id": "67b36c31-9495-441c-aece-96f7c3af44f7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7ef2a3f0-c9f5-402a-9417-078e9d583d6e",
-      "name": "India Women vs Zimbabwe Women, 3rd T20I, Zimbabwe Women tour of India, 2026",
-      "matchType": "t20",
-      "status": "India Women won by 92 runs",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T13:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 216,
-          "w": 7,
-          "o": 20,
-          "inning": "india women Inning 1"
-        },
-        {
-          "r": 124,
-          "w": 7,
-          "o": 20,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
