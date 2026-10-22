@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-10-21T23:05:35.985Z",
+  "lastUpdated": "2026-10-22T07:21:02.389Z",
   "recentMatches": [
+    {
+      "id": "e61c5bef-4e89-4603-94cc-bb8cb4b9949e",
+      "name": "Papua New Guinea vs Jersey, 32nd Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Jersey opt to bat",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T06:45:00",
+      "teams": [
+        "Papua New Guinea",
+        "Jersey"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jersey",
+          "shortname": "JER",
+          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
+        },
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "90c709fa-b2fd-49db-97aa-02d890a008a4",
       "name": "Austria Women vs Sweden Women, Final, ECA Womens European Cup, 2026",
@@ -225,6 +256,37 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "98e35c6a-8155-4959-8df7-b4ac6fc4edfd",
+      "name": "Namibia vs Ireland, 1st ODI, Ireland tour of Namibia, 2026",
+      "matchType": "odi",
+      "status": "Namibia opt to bowl",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T08:00:00",
+      "teams": [
+        "Namibia",
+        "Ireland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        }
+      ],
+      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
     },
     {
       "id": "17fc6ab9-84ba-490f-b35a-e671192df9cc",
@@ -632,6 +694,45 @@
       "matchEnded": true
     },
     {
+      "id": "a3eae4af-9e3f-409a-8e8b-171343a7be67",
+      "name": "Bangladesh Cricket Board XI vs West Indies, Warm-up Match, West Indies tour of Bangladesh, 2026",
+      "matchType": "test",
+      "status": "Day 1: 2nd Session - West Indies opt to bowl",
+      "venue": "Bashundhara Sports City Cricket Ground, Dhaka",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T03:30:00",
+      "teams": [
+        "Bangladesh Cricket Board XI",
+        "West Indies"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Cricket Board XI",
+          "shortname": "BCBXI",
+          "img": "https://g.cricapi.com/iapi/1221-637878811518748535.png?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 142,
+          "w": 3,
+          "o": 37,
+          "inning": "Bangladesh Cricket Board XI Inning 1"
+        }
+      ],
+      "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "91462ff6-ad04-49dd-b30e-5aaae203ea54",
       "name": "Zambia vs Nigeria, 6th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
@@ -985,152 +1086,6 @@
         }
       ],
       "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "85f911c5-a5e8-465b-90af-c601fce75012",
-      "name": "India Women vs Zimbabwe Women, 2nd T20I, Zimbabwe Women tour of India, 2026",
-      "matchType": "t20",
-      "status": "India Women won by 9 wkts",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T13:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 102,
-          "w": 8,
-          "o": 20,
-          "inning": "zimbabwe women Inning 1"
-        },
-        {
-          "r": 104,
-          "w": 1,
-          "o": 8.5,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "87c745f1-00b1-4eae-a083-d67fffd80388",
-      "name": "South Africa vs Australia, 2nd Test, Australia tour of South Africa, 2026",
-      "status": "Day 4: Stumps - Australia trail by 170 runs",
-      "venue": "St George's Park, Gqeberha",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T07:30:00",
-      "teams": [
-        "South Africa",
-        "Australia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "South Africa",
-          "shortname": "RSA",
-          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 425,
-          "w": 9,
-          "o": 127.1,
-          "inning": "South Africa Inning 1"
-        },
-        {
-          "r": 99,
-          "w": 10,
-          "o": 42.3,
-          "inning": "Australia Inning 1"
-        },
-        {
-          "r": 156,
-          "w": 4,
-          "o": 54,
-          "inning": "South Africa Inning 2"
-        }
-      ],
-      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "2853b5a7-b074-4f38-a729-2a2abf8961a9",
-      "name": "Arunachal Pradesh vs Sikkim, Plate, Ranji Trophy Plate 2026-27",
-      "matchType": "test",
-      "status": "Sikkim won by an innings and 328 runs",
-      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T04:00:00",
-      "teams": [
-        "Arunachal Pradesh",
-        "Sikkim"
-      ],
-      "teamInfo": [
-        {
-          "name": "Arunachal Pradesh",
-          "shortname": "ARNP",
-          "img": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=48"
-        },
-        {
-          "name": "Sikkim",
-          "shortname": "SKM",
-          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 121,
-          "w": 10,
-          "o": 51.4,
-          "inning": "Arunachal Pradesh Inning 1"
-        },
-        {
-          "r": 572,
-          "w": 5,
-          "o": 142,
-          "inning": "Sikkim Inning 1"
-        },
-        {
-          "r": 123,
-          "w": 10,
-          "o": 54,
-          "inning": "Arunachal Pradesh Inning 2"
-        }
-      ],
-      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
