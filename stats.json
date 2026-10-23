@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T18:11:51.027Z",
+  "lastUpdated": "2026-10-23T22:57:44.908Z",
   "recentMatches": [
     {
       "id": "157a08e6-8f59-4f27-a4d7-efd3be3390db",
@@ -92,51 +92,6 @@
       "matchEnded": true
     },
     {
-      "id": "d1a5aeba-24cc-4546-b214-df6de78f1247",
-      "name": "Oman vs Nepal, 139th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Nepal won by 10 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-10-19",
-      "dateTimeGMT": "2026-10-19T06:00:00",
-      "teams": [
-        "Oman",
-        "Nepal"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal",
-          "shortname": "NEP",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 280,
-          "w": 10,
-          "o": 50,
-          "inning": "nepal Inning 1"
-        },
-        {
-          "r": 270,
-          "w": 7,
-          "o": 50,
-          "inning": "Oman,Nepal Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "17cfca64-315b-498b-8009-57996a04342f",
       "name": "Afghanistan vs Zimbabwe, Final, ODI Tri-Nation Series in UAE, 2026",
       "matchType": "odi",
@@ -217,51 +172,6 @@
           "w": 3,
           "o": 35.3,
           "inning": "Afghanistan,Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a14f02f8-9bc2-44ad-b3aa-17e6e1972e80",
-      "name": "Afghanistan vs Zimbabwe, 2nd Match, ODI Tri-Nation Series in UAE, 2026",
-      "matchType": "odi",
-      "status": "Afghanistan won by 158 runs",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "date": "2026-10-19",
-      "dateTimeGMT": "2026-10-19T12:00:00",
-      "teams": [
-        "Afghanistan",
-        "Zimbabwe"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 294,
-          "w": 10,
-          "o": 50,
-          "inning": "afghanistan Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 10,
-          "o": 38.4,
-          "inning": "Afghanistan,Zimbabwe Inning 1"
         }
       ],
       "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
@@ -1067,56 +977,128 @@
       "matchEnded": true
     },
     {
-      "id": "09586a79-abed-4c9b-bccb-90b7ec10c213",
-      "name": "Western Australia vs New South Wales, 6th Match, Sheffield Shield 2026-27",
-      "matchType": "test",
-      "status": "Match drawn",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-19",
-      "dateTimeGMT": "2026-10-19T02:30:00",
+      "id": "1e140eff-3d6d-4b62-bfcf-cd723dd26cd7",
+      "name": "Australia Women vs New Zealand Women, 3rd T20I, New Zealand Women tour of Australia, 2026",
+      "matchType": "t20",
+      "status": "No result due to rain",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T08:15:00",
       "teams": [
-        "Western Australia",
-        "New South Wales"
+        "Australia Women",
+        "New Zealand Women"
       ],
       "teamInfo": [
         {
-          "name": "New South Wales",
-          "shortname": "NSW",
-          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
         },
         {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 440,
-          "w": 6,
-          "o": 110,
-          "inning": "new south wales Inning 1"
-        },
-        {
-          "r": 339,
-          "w": 10,
-          "o": 105.1,
-          "inning": "Western Australia,New South Wales Inning 1"
-        },
-        {
-          "r": 262,
-          "w": 5,
-          "o": 51.3,
-          "inning": "new south wales Inning 2"
-        },
-        {
-          "r": 244,
-          "w": 9,
-          "o": 111,
-          "inning": "Western Australia,New South Wales Inning 2"
+          "r": 11,
+          "w": 2,
+          "o": 2.4,
+          "inning": "New Zealand Women Inning 1"
         }
       ],
-      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
+      "series_id": "1b3e9639-fa3c-48e2-bb98-d945134e8b11",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2e5ee6e9-511f-434e-b794-9d3a792e2a6e",
+      "name": "Australia Women vs New Zealand Women, 2nd T20I, New Zealand Women tour of Australia, 2026",
+      "matchType": "t20",
+      "status": "Australia Women won by 40 runs",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T08:15:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 7,
+          "o": 20,
+          "inning": "Australia Women Inning 1"
+        },
+        {
+          "r": 127,
+          "w": 8,
+          "o": 20,
+          "inning": "New Zealand Women Inning 1"
+        }
+      ],
+      "series_id": "1b3e9639-fa3c-48e2-bb98-d945134e8b11",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "68be7da0-0e0a-4009-bca0-5a76dcc1d564",
+      "name": "New Zealand vs India, 1st T20I, India tour of New Zealand 2026",
+      "matchType": "t20",
+      "status": "India won by 4 wkts",
+      "venue": "Hagley Oval, Christchurch",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T07:00:00",
+      "teams": [
+        "New Zealand",
+        "India"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 225,
+          "w": 4,
+          "o": 20,
+          "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 230,
+          "w": 6,
+          "o": 19.4,
+          "inning": "India Inning 1"
+        }
+      ],
+      "series_id": "9f0a2527-1508-42b3-9945-4ade13fd4b5a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
