@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T22:57:44.908Z",
+  "lastUpdated": "2026-10-24T07:02:55.613Z",
   "recentMatches": [
     {
       "id": "157a08e6-8f59-4f27-a4d7-efd3be3390db",
@@ -452,6 +452,51 @@
       "matchEnded": true
     },
     {
+      "id": "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
+      "name": "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - New Zealand A lead by 22 runs",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "date": "2026-10-24",
+      "dateTimeGMT": "2026-10-24T21:30:00",
+      "teams": [
+        "New Zealand A",
+        "India A"
+      ],
+      "teamInfo": [
+        {
+          "name": "India A",
+          "shortname": "INA",
+          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
+        },
+        {
+          "name": "New Zealand A",
+          "shortname": "NZA",
+          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 113,
+          "w": 10,
+          "o": 39.3,
+          "inning": "India A Inning 1"
+        },
+        {
+          "r": 135,
+          "w": 3,
+          "o": 41,
+          "inning": "New Zealand A Inning 1"
+        }
+      ],
+      "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
       "id": "a3eae4af-9e3f-409a-8e8b-171343a7be67",
       "name": "Bangladesh Cricket Board XI vs West Indies, 2-Day Warm-up Match, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
@@ -500,7 +545,7 @@
       "id": "b12481b9-3c03-4a66-836f-0d87019d63ab",
       "name": "Gambia vs Uganda, 9th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Gambia opt to bat",
+      "status": "Uganda won by 10 wkts",
       "venue": "Nigeria Cricket Federation Oval 2, Abuja",
       "date": "2026-10-23",
       "dateTimeGMT": "2026-10-23T13:00:00",
@@ -520,12 +565,26 @@
           "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 27,
+          "w": 10,
+          "o": 8.2,
+          "inning": "gambia Inning 1"
+        },
+        {
+          "r": 28,
+          "w": 0,
+          "o": 1.4,
+          "inning": "Gambia,Uganda Inning 1"
+        }
+      ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "cef60146-811d-495b-a3d1-64f87e588a78",
@@ -977,132 +1036,87 @@
       "matchEnded": true
     },
     {
-      "id": "1e140eff-3d6d-4b62-bfcf-cd723dd26cd7",
-      "name": "Australia Women vs New Zealand Women, 3rd T20I, New Zealand Women tour of Australia, 2026",
-      "matchType": "t20",
-      "status": "No result due to rain",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T08:15:00",
+      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
+      "name": "Western Australia vs New South Wales, 12th Match, Australia Domestic One-Day Cup 2026-27",
+      "matchType": "odi",
+      "status": "New South Wales opt to bat",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-10-24",
+      "dateTimeGMT": "2026-10-24T06:00:00",
       "teams": [
-        "Australia Women",
-        "New Zealand Women"
+        "Western Australia",
+        "New South Wales"
       ],
       "teamInfo": [
         {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
         },
         {
-          "name": "New Zealand Women",
-          "shortname": "NZW",
-          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 11,
-          "w": 2,
-          "o": 2.4,
-          "inning": "New Zealand Women Inning 1"
+          "r": 65,
+          "w": 1,
+          "o": 11.4,
+          "inning": "new south wales Inning 1"
         }
       ],
-      "series_id": "1b3e9639-fa3c-48e2-bb98-d945134e8b11",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2e5ee6e9-511f-434e-b794-9d3a792e2a6e",
-      "name": "Australia Women vs New Zealand Women, 2nd T20I, New Zealand Women tour of Australia, 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 40 runs",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T08:15:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia Women",
-          "shortname": "AUSW",
-          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
-        },
-        {
-          "name": "New Zealand Women",
-          "shortname": "NZW",
-          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 167,
-          "w": 7,
-          "o": 20,
-          "inning": "Australia Women Inning 1"
-        },
-        {
-          "r": 127,
-          "w": 8,
-          "o": 20,
-          "inning": "New Zealand Women Inning 1"
-        }
-      ],
-      "series_id": "1b3e9639-fa3c-48e2-bb98-d945134e8b11",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "68be7da0-0e0a-4009-bca0-5a76dcc1d564",
-      "name": "New Zealand vs India, 1st T20I, India tour of New Zealand 2026",
-      "matchType": "t20",
-      "status": "India won by 4 wkts",
-      "venue": "Hagley Oval, Christchurch",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T07:00:00",
-      "teams": [
-        "New Zealand",
-        "India"
-      ],
-      "teamInfo": [
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        },
-        {
-          "name": "New Zealand",
-          "shortname": "NZ",
-          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 225,
-          "w": 4,
-          "o": 20,
-          "inning": "New Zealand Inning 1"
-        },
-        {
-          "r": 230,
-          "w": 6,
-          "o": 19.4,
-          "inning": "India Inning 1"
-        }
-      ],
-      "series_id": "9f0a2527-1508-42b3-9945-4ade13fd4b5a",
+      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f84461ef-5c14-46dd-bbfc-bd0e4b5be54d",
+      "name": "Tasmania vs Victoria, 11th Match, Australia Domestic One-Day Cup 2026-27",
+      "matchType": "odi",
+      "status": "Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-10-24",
+      "dateTimeGMT": "2026-10-24T23:30:00",
+      "teams": [
+        "Tasmania",
+        "Victoria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Tasmania",
+          "shortname": "TAS",
+          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
+        },
+        {
+          "name": "Victoria",
+          "shortname": "VIC",
+          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 304,
+          "w": 7,
+          "o": 50,
+          "inning": "Victoria Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 10,
+          "o": 25.2,
+          "inning": "Tasmania Inning 1"
+        }
+      ],
+      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
       "matchEnded": true
     }
   ],
