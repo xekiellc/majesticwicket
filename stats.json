@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T07:27:23.132Z",
+  "lastUpdated": "2026-10-25T12:48:25.857Z",
   "recentMatches": [
     {
       "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
@@ -95,7 +95,7 @@
       "id": "8ac2a8d5-2da4-4c95-9772-63a4fb6c42ca",
       "name": "United Arab Emirates vs Netherlands, 140th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "United Arab Emirates opt to bat",
+      "status": "Netherlands need 37 runs in 69 balls",
       "venue": "ICC Academy Ground, Dubai",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T05:30:00",
@@ -117,10 +117,16 @@
       ],
       "score": [
         {
-          "r": 73,
-          "w": 2,
-          "o": 18,
+          "r": 244,
+          "w": 8,
+          "o": 50,
           "inning": "united arab emirates Inning 1"
+        },
+        {
+          "r": 206,
+          "w": 7,
+          "o": 38.3,
+          "inning": "United Arab Emirates,Netherlands Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -134,7 +140,7 @@
       "id": "254aac65-a869-4b29-9ba4-4552f19f121f",
       "name": "Denmark vs Papua New Guinea, 37th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Papua New Guinea opt to bowl",
+      "status": "Innings Break",
       "venue": "Ruaraka Sports Club Ground, Nairobi",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T05:30:00",
@@ -154,8 +160,16 @@
           "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 304,
+          "w": 6,
+          "o": 50,
+          "inning": "Denmark Inning 1"
+        }
+      ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -165,7 +179,7 @@
       "id": "d766b31d-b69f-46f5-bb13-307bae39d37e",
       "name": "Jersey vs Kenya, 36th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Jersey opt to bat",
+      "status": "Innings Break",
       "venue": "Gymkhana Club Ground, Nairobi",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T05:30:00",
@@ -185,8 +199,16 @@
           "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 320,
+          "w": 9,
+          "o": 50,
+          "inning": "jersey Inning 1"
+        }
+      ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
@@ -553,6 +575,51 @@
       "matchEnded": true
     },
     {
+      "id": "f542502b-a537-46a6-8dbd-48eeaedd4d90",
+      "name": "Pakistan vs England, 4th Match, Pakistan ODI Tri-Series, 2026",
+      "matchType": "odi",
+      "status": "Pakistan need 223 runs",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T08:00:00",
+      "teams": [
+        "Pakistan",
+        "England"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 241,
+          "w": 10,
+          "o": 46.4,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 19,
+          "w": 1,
+          "o": 4.5,
+          "inning": "Pakistan Inning 1"
+        }
+      ],
+      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "374856f9-a78b-425b-b6db-10f190bb8eb6",
       "name": "Sri Lanka vs England, 3rd Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
@@ -737,6 +804,84 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "e682ab1e-322e-4b18-897c-8e27783c477a",
+      "name": "Mozambique vs Zambia, 14th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T09:00:00",
+      "teams": [
+        "Mozambique",
+        "Zambia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mozambique",
+          "shortname": "MOZ",
+          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+        },
+        {
+          "name": "Zambia",
+          "shortname": "ZAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 9,
+          "o": 20,
+          "inning": "mozambique Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6207c60f-7d82-4bd7-99df-53d4cc8e7df1",
+      "name": "Gambia vs Lesotho, 13th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T09:00:00",
+      "teams": [
+        "Gambia",
+        "Lesotho"
+      ],
+      "teamInfo": [
+        {
+          "name": "Gambia",
+          "shortname": "GAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Lesotho",
+          "shortname": "LES",
+          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 112,
+          "w": 9,
+          "o": 20,
+          "inning": "gambia Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "5794e291-c7ff-4542-8835-792bc4e06911",
@@ -960,141 +1105,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3140a033-437c-4ca5-81ff-b41b9e688f53",
-      "name": "Zambia vs Lesotho, 8th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Zambia won by 7 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T09:00:00",
-      "teams": [
-        "Zambia",
-        "Lesotho"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
-        },
-        {
-          "name": "Zambia",
-          "shortname": "ZAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 58,
-          "w": 10,
-          "o": 13.4,
-          "inning": "lesotho Inning 1"
-        },
-        {
-          "r": 61,
-          "w": 3,
-          "o": 7.4,
-          "inning": "Zambia,Lesotho Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "91462ff6-ad04-49dd-b30e-5aaae203ea54",
-      "name": "Zambia vs Nigeria, 6th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Nigeria won by 9 wkts",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-21",
-      "dateTimeGMT": "2026-10-21T13:00:00",
-      "teams": [
-        "Zambia",
-        "Nigeria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        },
-        {
-          "name": "Zambia",
-          "shortname": "ZAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 142,
-          "w": 9,
-          "o": 20,
-          "inning": "zambia Inning 1"
-        },
-        {
-          "r": 146,
-          "w": 1,
-          "o": 14.5,
-          "inning": "Zambia,Nigeria Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "416e0429-7693-40a4-bd8d-1240617135c5",
-      "name": "Lesotho vs Uganda, 5th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Uganda won by 5 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-21",
-      "dateTimeGMT": "2026-10-21T09:00:00",
-      "teams": [
-        "Lesotho",
-        "Uganda"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
-        },
-        {
-          "name": "Uganda",
-          "shortname": "UGA",
-          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 87,
-          "w": 10,
-          "o": 19.3,
-          "inning": "lesotho Inning 1"
-        },
-        {
-          "r": 89,
-          "w": 5,
-          "o": 12.3,
-          "inning": "Lesotho,Uganda Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
