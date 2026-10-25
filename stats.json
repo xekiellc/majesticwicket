@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T17:31:34.741Z",
+  "lastUpdated": "2026-10-25T22:22:41.112Z",
   "recentMatches": [
     {
       "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
@@ -43,7 +43,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -452,51 +452,6 @@
       "matchEnded": true
     },
     {
-      "id": "430aaf02-f284-47b9-a4e4-452ae068887f",
-      "name": "Afghanistan vs Bangladesh, 3rd Match, ODI Tri-Nation Series in UAE, 2026",
-      "matchType": "odi",
-      "status": "Afghanistan won by 7 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-21",
-      "dateTimeGMT": "2026-10-21T12:00:00",
-      "teams": [
-        "Afghanistan",
-        "Bangladesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 160,
-          "w": 10,
-          "o": 41.2,
-          "inning": "bangladesh Inning 1"
-        },
-        {
-          "r": 161,
-          "w": 3,
-          "o": 35.3,
-          "inning": "Afghanistan,Bangladesh Inning 1"
-        }
-      ],
-      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "3ada9f3e-8e32-4f49-80d5-0f915e19d3fd",
       "name": "Namibia vs Ireland, 2nd ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
@@ -673,51 +628,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b72a9804-5bb1-4319-8b45-a9598e757982",
-      "name": "Perth Scorchers Women vs Sydney Sixers Women, Final, T20 Spring Challenge 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 15 runs",
-      "venue": "Cricket Central, Sydney",
-      "date": "2026-10-21",
-      "dateTimeGMT": "2026-10-21T03:00:00",
-      "teams": [
-        "Perth Scorchers Women",
-        "Sydney Sixers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Perth Scorchers Women",
-          "shortname": "PS-W",
-          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
-        },
-        {
-          "name": "Sydney Sixers Women",
-          "shortname": "SS-W",
-          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 149,
-          "w": 8,
-          "o": 20,
-          "inning": "sydney sixers women Inning 1"
-        },
-        {
-          "r": 134,
-          "w": 7,
-          "o": 20,
-          "inning": "Perth Scorchers Women,Sydney Sixers Women Inning 1"
-        }
-      ],
-      "series_id": "681ece25-3cb0-48c6-93ce-29f437cf383a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -1123,6 +1033,96 @@
           "w": 0,
           "o": 1.4,
           "inning": "Gambia,Uganda Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "cef60146-811d-495b-a3d1-64f87e588a78",
+      "name": "Nigeria vs Mozambique, 7th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Nigeria won by 7 wkts",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-23",
+      "dateTimeGMT": "2026-10-23T09:00:00",
+      "teams": [
+        "Nigeria",
+        "Mozambique"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mozambique",
+          "shortname": "MOZ",
+          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+        },
+        {
+          "name": "Nigeria",
+          "shortname": "NGA",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 93,
+          "w": 10,
+          "o": 19.4,
+          "inning": "mozambique Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 3,
+          "o": 8.3,
+          "inning": "Nigeria,Mozambique Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3140a033-437c-4ca5-81ff-b41b9e688f53",
+      "name": "Zambia vs Lesotho, 8th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Zambia won by 7 wkts",
+      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+      "date": "2026-10-23",
+      "dateTimeGMT": "2026-10-23T09:00:00",
+      "teams": [
+        "Zambia",
+        "Lesotho"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lesotho",
+          "shortname": "LES",
+          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+        },
+        {
+          "name": "Zambia",
+          "shortname": "ZAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 58,
+          "w": 10,
+          "o": 13.4,
+          "inning": "lesotho Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 3,
+          "o": 7.4,
+          "inning": "Zambia,Lesotho Inning 1"
         }
       ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
