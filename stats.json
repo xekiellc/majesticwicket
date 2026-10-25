@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-10-24T22:18:23.977Z",
+  "lastUpdated": "2026-10-25T07:27:23.132Z",
   "recentMatches": [
+    {
+      "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
+      "name": "Mexico Women vs Argentina Women, 2nd T20I, Argentina Women tour of Mexico, 2026",
+      "matchType": "t20",
+      "status": "Argentina Women won by 165 runs",
+      "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T19:00:00",
+      "teams": [
+        "Mexico Women",
+        "Argentina Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+        },
+        {
+          "name": "Mexico Women",
+          "shortname": "MXW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 188,
+          "w": 5,
+          "o": 20,
+          "inning": "argentina women Inning 1"
+        },
+        {
+          "r": 23,
+          "w": 10,
+          "o": 9.3,
+          "inning": "Mexico Women,Argentina Women Inning 1"
+        }
+      ],
+      "series_id": "dbd6fb0b-4c7c-4c88-a148-f6af2c5b7686",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
     {
       "id": "13ecc73c-a3c3-49bb-ae2d-6c1593859d56",
       "name": "Mexico Women vs Argentina Women, 1st T20I, Argentina Women tour of Mexico, 2026",
@@ -45,6 +90,107 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "8ac2a8d5-2da4-4c95-9772-63a4fb6c42ca",
+      "name": "United Arab Emirates vs Netherlands, 140th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United Arab Emirates opt to bat",
+      "venue": "ICC Academy Ground, Dubai",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T05:30:00",
+      "teams": [
+        "United Arab Emirates",
+        "Netherlands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 73,
+          "w": 2,
+          "o": 18,
+          "inning": "united arab emirates Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "254aac65-a869-4b29-9ba4-4552f19f121f",
+      "name": "Denmark vs Papua New Guinea, 37th Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Papua New Guinea opt to bowl",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T05:30:00",
+      "teams": [
+        "Denmark",
+        "Papua New Guinea"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Papua New Guinea",
+          "shortname": "PNG",
+          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d766b31d-b69f-46f5-bb13-307bae39d37e",
+      "name": "Jersey vs Kenya, 36th Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Jersey opt to bat",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T05:30:00",
+      "teams": [
+        "Jersey",
+        "Kenya"
+      ],
+      "teamInfo": [
+        {
+          "name": "Jersey",
+          "shortname": "JER",
+          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
+        },
+        {
+          "name": "Kenya",
+          "shortname": "KEN",
+          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "acaeec1f-8aad-4da1-b938-790780303e0a",
@@ -500,7 +646,7 @@
       "id": "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
       "name": "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
       "matchType": "test",
-      "status": "Day 2: 1st Session - New Zealand A lead by 30 runs",
+      "status": "Day 2: Stumps - India A trail by 98 runs",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "date": "2026-10-24",
       "dateTimeGMT": "2026-10-24T21:30:00",
@@ -528,10 +674,16 @@
           "inning": "India A Inning 1"
         },
         {
-          "r": 143,
-          "w": 3,
-          "o": 44,
+          "r": 317,
+          "w": 10,
+          "o": 89.3,
           "inning": "New Zealand A Inning 1"
+        },
+        {
+          "r": 106,
+          "w": 2,
+          "o": 36,
+          "inning": "India A Inning 2"
         }
       ],
       "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
@@ -944,185 +1096,6 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7764caf4-bd75-4166-8c02-313b31365a6f",
-      "name": "Mozambique vs Gambia, 4th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Mozambique won by 28 runs",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-21",
-      "dateTimeGMT": "2026-10-21T09:00:00",
-      "teams": [
-        "Mozambique",
-        "Gambia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gambia",
-          "shortname": "GAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 6,
-          "o": 20,
-          "inning": "mozambique Inning 1"
-        },
-        {
-          "r": 120,
-          "w": 8,
-          "o": 20,
-          "inning": "Mozambique,Gambia Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0957b7a3-4906-49ef-9008-ccc58986f7ad",
-      "name": "India Women vs Zimbabwe Women, 1st ODI, Zimbabwe Women tour of India, 2026",
-      "status": "India Women won by 9 wkts",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T08:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 197,
-          "w": 10,
-          "o": 49.5,
-          "inning": "zimbabwe women Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 1,
-          "o": 27.1,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
-      "name": "Western Australia vs New South Wales, 12th Match, Australia Domestic One-Day Cup 2026-27",
-      "matchType": "odi",
-      "status": "New South Wales won by 78 runs",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T06:00:00",
-      "teams": [
-        "Western Australia",
-        "New South Wales"
-      ],
-      "teamInfo": [
-        {
-          "name": "New South Wales",
-          "shortname": "NSW",
-          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
-        },
-        {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 371,
-          "w": 8,
-          "o": 50,
-          "inning": "new south wales Inning 1"
-        },
-        {
-          "r": 293,
-          "w": 10,
-          "o": 46.3,
-          "inning": "Western Australia,New South Wales Inning 1"
-        }
-      ],
-      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f84461ef-5c14-46dd-bbfc-bd0e4b5be54d",
-      "name": "Tasmania vs Victoria, 11th Match, Australia Domestic One-Day Cup 2026-27",
-      "matchType": "odi",
-      "status": "Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T23:30:00",
-      "teams": [
-        "Tasmania",
-        "Victoria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Tasmania",
-          "shortname": "TAS",
-          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
-        },
-        {
-          "name": "Victoria",
-          "shortname": "VIC",
-          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 304,
-          "w": 7,
-          "o": 50,
-          "inning": "Victoria Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 25.2,
-          "inning": "Tasmania Inning 1"
-        }
-      ],
-      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": false,
       "matchEnded": true
     }
   ],
