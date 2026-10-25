@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T12:48:25.857Z",
+  "lastUpdated": "2026-10-25T17:31:34.741Z",
   "recentMatches": [
     {
       "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
@@ -95,7 +95,7 @@
       "id": "8ac2a8d5-2da4-4c95-9772-63a4fb6c42ca",
       "name": "United Arab Emirates vs Netherlands, 140th Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Netherlands need 37 runs in 69 balls",
+      "status": "Netherlands won by 3 wkts",
       "venue": "ICC Academy Ground, Dubai",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T05:30:00",
@@ -123,9 +123,9 @@
           "inning": "united arab emirates Inning 1"
         },
         {
-          "r": 206,
+          "r": 245,
           "w": 7,
-          "o": 38.3,
+          "o": 43.5,
           "inning": "United Arab Emirates,Netherlands Inning 1"
         }
       ],
@@ -134,13 +134,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "254aac65-a869-4b29-9ba4-4552f19f121f",
       "name": "Denmark vs Papua New Guinea, 37th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Papua New Guinea won by 4 wkts",
       "venue": "Ruaraka Sports Club Ground, Nairobi",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T05:30:00",
@@ -166,6 +166,12 @@
           "w": 6,
           "o": 50,
           "inning": "Denmark Inning 1"
+        },
+        {
+          "r": 307,
+          "w": 6,
+          "o": 49.1,
+          "inning": "Papua New Guinea Inning 1"
         }
       ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
@@ -173,13 +179,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d766b31d-b69f-46f5-bb13-307bae39d37e",
       "name": "Jersey vs Kenya, 36th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Jersey won by 123 runs",
       "venue": "Gymkhana Club Ground, Nairobi",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T05:30:00",
@@ -205,6 +211,12 @@
           "w": 9,
           "o": 50,
           "inning": "jersey Inning 1"
+        },
+        {
+          "r": 197,
+          "w": 10,
+          "o": 42,
+          "inning": "Jersey,Kenya Inning 1"
         }
       ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
@@ -212,7 +224,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "acaeec1f-8aad-4da1-b938-790780303e0a",
@@ -578,7 +590,7 @@
       "id": "f542502b-a537-46a6-8dbd-48eeaedd4d90",
       "name": "Pakistan vs England, 4th Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
-      "status": "Pakistan need 223 runs",
+      "status": "Pakistan won by 1 wkt",
       "venue": "Gaddafi Stadium, Lahore",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T08:00:00",
@@ -606,9 +618,9 @@
           "inning": "England Inning 1"
         },
         {
-          "r": 19,
-          "w": 1,
-          "o": 4.5,
+          "r": 243,
+          "w": 9,
+          "o": 47.1,
           "inning": "Pakistan Inning 1"
         }
       ],
@@ -617,7 +629,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "374856f9-a78b-425b-b6db-10f190bb8eb6",
@@ -806,10 +818,55 @@
       "matchEnded": true
     },
     {
+      "id": "5180605d-f5d1-47b4-9dae-8afd67c40bce",
+      "name": "Nigeria vs Uganda, 15th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Nigeria won by 1 run",
+      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T13:00:00",
+      "teams": [
+        "Nigeria",
+        "Uganda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nigeria",
+          "shortname": "NGA",
+          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+        },
+        {
+          "name": "Uganda",
+          "shortname": "UGA",
+          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 148,
+          "w": 10,
+          "o": 19.4,
+          "inning": "nigeria Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 9,
+          "o": 20,
+          "inning": "Nigeria,Uganda Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "e682ab1e-322e-4b18-897c-8e27783c477a",
       "name": "Mozambique vs Zambia, 14th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Mozambique won by 3 wkts",
       "venue": "Nigeria Cricket Federation Oval 2, Abuja",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T09:00:00",
@@ -835,6 +892,12 @@
           "w": 9,
           "o": 20,
           "inning": "mozambique Inning 1"
+        },
+        {
+          "r": 110,
+          "w": 7,
+          "o": 19,
+          "inning": "Mozambique,Zambia Inning 1"
         }
       ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
@@ -842,13 +905,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "6207c60f-7d82-4bd7-99df-53d4cc8e7df1",
       "name": "Gambia vs Lesotho, 13th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Gambia won by 3 runs",
       "venue": "Nigeria Cricket Federation Oval 1, Abuja",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T09:00:00",
@@ -874,6 +937,12 @@
           "w": 9,
           "o": 20,
           "inning": "gambia Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Gambia,Lesotho Inning 1"
         }
       ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
@@ -881,7 +950,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5794e291-c7ff-4542-8835-792bc4e06911",
@@ -1060,51 +1129,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "cef60146-811d-495b-a3d1-64f87e588a78",
-      "name": "Nigeria vs Mozambique, 7th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Nigeria won by 7 wkts",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T09:00:00",
-      "teams": [
-        "Nigeria",
-        "Mozambique"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        },
-        {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 93,
-          "w": 10,
-          "o": 19.4,
-          "inning": "mozambique Inning 1"
-        },
-        {
-          "r": 94,
-          "w": 3,
-          "o": 8.3,
-          "inning": "Nigeria,Mozambique Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
