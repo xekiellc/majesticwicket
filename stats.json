@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-10-25T22:22:41.112Z",
+  "lastUpdated": "2026-10-26T07:36:41.595Z",
   "recentMatches": [
+    {
+      "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
+      "name": "Mexico Women vs Argentina Women, 3rd T20I, Argentina Women tour of Mexico, 2026",
+      "matchType": "t20",
+      "status": "Argentina Women won by 135 runs",
+      "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T14:00:00",
+      "teams": [
+        "Mexico Women",
+        "Argentina Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Argentina Women",
+          "shortname": "ARW",
+          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+        },
+        {
+          "name": "Mexico Women",
+          "shortname": "MXW",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 186,
+          "w": 7,
+          "o": 20,
+          "inning": "argentina women Inning 1"
+        },
+        {
+          "r": 51,
+          "w": 10,
+          "o": 12.5,
+          "inning": "Mexico Women,Argentina Women Inning 1"
+        }
+      ],
+      "series_id": "dbd6fb0b-4c7c-4c88-a148-f6af2c5b7686",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
       "name": "Mexico Women vs Argentina Women, 2nd T20I, Argentina Women tour of Mexico, 2026",
@@ -635,7 +680,7 @@
       "id": "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
       "name": "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - India A trail by 98 runs",
+      "status": "Day 3: Stumps - India A lead by 284 runs",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "date": "2026-10-24",
       "dateTimeGMT": "2026-10-24T21:30:00",
@@ -669,9 +714,9 @@
           "inning": "New Zealand A Inning 1"
         },
         {
-          "r": 106,
-          "w": 2,
-          "o": 36,
+          "r": 488,
+          "w": 8,
+          "o": 119,
           "inning": "India A Inning 2"
         }
       ],
@@ -1084,51 +1129,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3140a033-437c-4ca5-81ff-b41b9e688f53",
-      "name": "Zambia vs Lesotho, 8th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Zambia won by 7 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T09:00:00",
-      "teams": [
-        "Zambia",
-        "Lesotho"
-      ],
-      "teamInfo": [
-        {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
-        },
-        {
-          "name": "Zambia",
-          "shortname": "ZAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 58,
-          "w": 10,
-          "o": 13.4,
-          "inning": "lesotho Inning 1"
-        },
-        {
-          "r": 61,
-          "w": 3,
-          "o": 7.4,
-          "inning": "Zambia,Lesotho Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
