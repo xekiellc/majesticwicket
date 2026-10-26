@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T14:37:11.135Z",
+  "lastUpdated": "2026-10-26T19:48:30.575Z",
   "recentMatches": [
     {
       "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
@@ -362,96 +362,6 @@
       "matchEnded": true
     },
     {
-      "id": "157a08e6-8f59-4f27-a4d7-efd3be3390db",
-      "name": "Qatar vs Kuwait, 33rd Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Qatar won by 5 wkts",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T06:45:00",
-      "teams": [
-        "Qatar",
-        "Kuwait"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 331,
-          "w": 6,
-          "o": 50,
-          "inning": "kuwait Inning 1"
-        },
-        {
-          "r": 335,
-          "w": 5,
-          "o": 45.3,
-          "inning": "Qatar,Kuwait Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e61c5bef-4e89-4603-94cc-bb8cb4b9949e",
-      "name": "Papua New Guinea vs Jersey, 32nd Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Jersey won by 172 runs",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T06:45:00",
-      "teams": [
-        "Papua New Guinea",
-        "Jersey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 347,
-          "w": 5,
-          "o": 50,
-          "inning": "jersey Inning 1"
-        },
-        {
-          "r": 175,
-          "w": 10,
-          "o": 36.5,
-          "inning": "Papua New Guinea,Jersey Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "17cfca64-315b-498b-8009-57996a04342f",
       "name": "Afghanistan vs Zimbabwe, Final, ODI Tri-Nation Series in UAE, 2026",
       "matchType": "odi",
@@ -542,51 +452,6 @@
       "matchEnded": true
     },
     {
-      "id": "98e35c6a-8155-4959-8df7-b4ac6fc4edfd",
-      "name": "Namibia vs Ireland, 1st ODI, Ireland tour of Namibia, 2026",
-      "matchType": "odi",
-      "status": "Ireland won by 55 runs",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T08:00:00",
-      "teams": [
-        "Namibia",
-        "Ireland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 229,
-          "w": 9,
-          "o": 50,
-          "inning": "Ireland Inning 1"
-        },
-        {
-          "r": 174,
-          "w": 10,
-          "o": 37.5,
-          "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "f542502b-a537-46a6-8dbd-48eeaedd4d90",
       "name": "Pakistan vs England, 4th Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
@@ -622,51 +487,6 @@
           "w": 9,
           "o": 47.1,
           "inning": "Pakistan Inning 1"
-        }
-      ],
-      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "374856f9-a78b-425b-b6db-10f190bb8eb6",
-      "name": "Sri Lanka vs England, 3rd Match, Pakistan ODI Tri-Series, 2026",
-      "matchType": "odi",
-      "status": "Sri Lanka won by 2 wkts",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T08:00:00",
-      "teams": [
-        "Sri Lanka",
-        "England"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 429,
-          "w": 4,
-          "o": 50,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 430,
-          "w": 8,
-          "o": 49.5,
-          "inning": "Sri Lanka Inning 1"
         }
       ],
       "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
@@ -721,51 +541,6 @@
         }
       ],
       "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a3eae4af-9e3f-409a-8e8b-171343a7be67",
-      "name": "Bangladesh Cricket Board XI vs West Indies, 2-Day Warm-up Match, West Indies tour of Bangladesh, 2026",
-      "matchType": "test",
-      "status": "Match drawn",
-      "venue": "Bashundhara Sports City Cricket Ground, Dhaka",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T03:30:00",
-      "teams": [
-        "Bangladesh Cricket Board XI",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh Cricket Board XI",
-          "shortname": "BCBXI",
-          "img": "https://g.cricapi.com/iapi/1221-637878811518748535.png?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 371,
-          "w": 7,
-          "o": 90,
-          "inning": "Bangladesh Cricket Board XI Inning 1"
-        },
-        {
-          "r": 336,
-          "w": 6,
-          "o": 80,
-          "inning": "West Indies Inning 1"
-        }
-      ],
-      "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1126,6 +901,229 @@
         }
       ],
       "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3140a033-437c-4ca5-81ff-b41b9e688f53",
+      "name": "Zambia vs Lesotho, 8th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
+      "matchType": "t20",
+      "status": "Zambia won by 7 wkts",
+      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
+      "date": "2026-10-23",
+      "dateTimeGMT": "2026-10-23T09:00:00",
+      "teams": [
+        "Zambia",
+        "Lesotho"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lesotho",
+          "shortname": "LES",
+          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+        },
+        {
+          "name": "Zambia",
+          "shortname": "ZAM",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 58,
+          "w": 10,
+          "o": 13.4,
+          "inning": "lesotho Inning 1"
+        },
+        {
+          "r": 61,
+          "w": 3,
+          "o": 7.4,
+          "inning": "Zambia,Lesotho Inning 1"
+        }
+      ],
+      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bb9378ae-85dd-4513-85ef-069c87305750",
+      "name": "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
+      "status": "India Women won by 121 runs",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T08:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 328,
+          "w": 6,
+          "o": 50,
+          "inning": "india women Inning 1"
+        },
+        {
+          "r": 207,
+          "w": 10,
+          "o": 48.5,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0957b7a3-4906-49ef-9008-ccc58986f7ad",
+      "name": "India Women vs Zimbabwe Women, 1st ODI, Zimbabwe Women tour of India, 2026",
+      "status": "India Women won by 9 wkts",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2026-10-23",
+      "dateTimeGMT": "2026-10-23T08:30:00",
+      "teams": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 197,
+          "w": 10,
+          "o": 49.5,
+          "inning": "zimbabwe women Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 1,
+          "o": 27.1,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
+      "name": "Western Australia vs New South Wales, 12th Match, Australia Domestic One-Day Cup 2026-27",
+      "matchType": "odi",
+      "status": "New South Wales won by 78 runs",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-10-24",
+      "dateTimeGMT": "2026-10-24T06:00:00",
+      "teams": [
+        "Western Australia",
+        "New South Wales"
+      ],
+      "teamInfo": [
+        {
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 371,
+          "w": 8,
+          "o": 50,
+          "inning": "new south wales Inning 1"
+        },
+        {
+          "r": 293,
+          "w": 10,
+          "o": 46.3,
+          "inning": "Western Australia,New South Wales Inning 1"
+        }
+      ],
+      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f84461ef-5c14-46dd-bbfc-bd0e4b5be54d",
+      "name": "Tasmania vs Victoria, 11th Match, Australia Domestic One-Day Cup 2026-27",
+      "matchType": "odi",
+      "status": "Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-10-24",
+      "dateTimeGMT": "2026-10-24T23:30:00",
+      "teams": [
+        "Tasmania",
+        "Victoria"
+      ],
+      "teamInfo": [
+        {
+          "name": "Tasmania",
+          "shortname": "TAS",
+          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
+        },
+        {
+          "name": "Victoria",
+          "shortname": "VIC",
+          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 304,
+          "w": 7,
+          "o": 50,
+          "inning": "Victoria Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 10,
+          "o": 25.2,
+          "inning": "Tasmania Inning 1"
+        }
+      ],
+      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
