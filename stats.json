@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T13:41:04.042Z",
+  "lastUpdated": "2026-10-27T19:17:33.466Z",
   "recentMatches": [
     {
       "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
@@ -230,8 +230,8 @@
       "id": "49d7bcea-8240-452a-aac0-fcf53e765849",
       "name": "Kuwait vs Jersey, 39th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "",
-      "venue": "",
+      "status": "Kuwait won by 7 wkts",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T05:30:00",
       "teams": [
@@ -497,55 +497,10 @@
       "matchEnded": true
     },
     {
-      "id": "17cfca64-315b-498b-8009-57996a04342f",
-      "name": "Afghanistan vs Zimbabwe, Final, ODI Tri-Nation Series in UAE, 2026",
-      "matchType": "odi",
-      "status": "Afghanistan won by 7 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T12:00:00",
-      "teams": [
-        "Afghanistan",
-        "Zimbabwe"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 169,
-          "w": 10,
-          "o": 43.3,
-          "inning": "zimbabwe Inning 1"
-        },
-        {
-          "r": 170,
-          "w": 3,
-          "o": 34.3,
-          "inning": "Afghanistan,Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "477506b9-5775-4b68-923e-31b79cea03ca",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
       "name": "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
-      "status": "Ireland need 134 runs",
+      "status": "Namibia won by 63 runs",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T08:00:00",
@@ -573,9 +528,9 @@
           "inning": "namibia Inning 1"
         },
         {
-          "r": 183,
-          "w": 5,
-          "o": 33,
+          "r": 253,
+          "w": 10,
+          "o": 44.5,
           "inning": "Namibia,Ireland Inning 1"
         }
       ],
@@ -584,7 +539,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "3ada9f3e-8e32-4f49-80d5-0f915e19d3fd",
@@ -772,6 +727,51 @@
         }
       ],
       "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1950e564-6c89-4a51-bd21-4b7413137434",
+      "name": "Afghanistan vs Zimbabwe, 1st T20I, Afghanistan vs Zimbabwe in UAE, 2026",
+      "matchType": "t20",
+      "status": "Afghanistan won by 37 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-27",
+      "dateTimeGMT": "2026-10-27T14:30:00",
+      "teams": [
+        "Afghanistan",
+        "Zimbabwe"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 10,
+          "o": 19.5,
+          "inning": "Afghanistan Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 10,
+          "o": 19.1,
+          "inning": "Zimbabwe Inning 1"
+        }
+      ],
+      "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1049,89 +1049,88 @@
       "matchEnded": true
     },
     {
-      "id": "b12481b9-3c03-4a66-836f-0d87019d63ab",
-      "name": "Gambia vs Uganda, 9th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Uganda won by 10 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T13:00:00",
+      "id": "bb9378ae-85dd-4513-85ef-069c87305750",
+      "name": "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
+      "status": "India Women won by 121 runs",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T08:30:00",
       "teams": [
-        "Gambia",
-        "Uganda"
+        "India Women",
+        "Zimbabwe Women"
       ],
       "teamInfo": [
         {
-          "name": "Gambia",
-          "shortname": "GAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
         },
         {
-          "name": "Uganda",
-          "shortname": "UGA",
-          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 27,
-          "w": 10,
-          "o": 8.2,
-          "inning": "gambia Inning 1"
+          "r": 328,
+          "w": 6,
+          "o": 50,
+          "inning": "india women Inning 1"
         },
         {
-          "r": 28,
-          "w": 0,
-          "o": 1.4,
-          "inning": "Gambia,Uganda Inning 1"
+          "r": 207,
+          "w": 10,
+          "o": 48.5,
+          "inning": "India Women,Zimbabwe Women Inning 1"
         }
       ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "cef60146-811d-495b-a3d1-64f87e588a78",
-      "name": "Nigeria vs Mozambique, 7th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Nigeria won by 7 wkts",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-23",
-      "dateTimeGMT": "2026-10-23T09:00:00",
+      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
+      "name": "Western Australia vs New South Wales, 12th Match, Australia Domestic One-Day Cup 2026-27",
+      "matchType": "odi",
+      "status": "New South Wales won by 78 runs",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-10-24",
+      "dateTimeGMT": "2026-10-24T06:00:00",
       "teams": [
-        "Nigeria",
-        "Mozambique"
+        "Western Australia",
+        "New South Wales"
       ],
       "teamInfo": [
         {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
         },
         {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 93,
-          "w": 10,
-          "o": 19.4,
-          "inning": "mozambique Inning 1"
+          "r": 371,
+          "w": 8,
+          "o": 50,
+          "inning": "new south wales Inning 1"
         },
         {
-          "r": 94,
-          "w": 3,
-          "o": 8.3,
-          "inning": "Nigeria,Mozambique Inning 1"
+          "r": 293,
+          "w": 10,
+          "o": 46.3,
+          "inning": "Western Australia,New South Wales Inning 1"
         }
       ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
