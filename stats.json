@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T19:48:30.575Z",
+  "lastUpdated": "2026-10-27T07:34:24.198Z",
   "recentMatches": [
     {
       "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
@@ -135,6 +135,45 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "df5dd379-9372-490a-99d2-b6b54a17f9a5",
+      "name": "Netherlands vs Oman, 141st Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Oman opt to bowl",
+      "venue": "ICC Academy Ground, Dubai",
+      "date": "2026-10-27",
+      "dateTimeGMT": "2026-10-27T05:30:00",
+      "teams": [
+        "Netherlands",
+        "Oman"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        },
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 157,
+          "w": 2,
+          "o": 24.2,
+          "inning": "Netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "8ac2a8d5-2da4-4c95-9772-63a4fb6c42ca",
@@ -407,6 +446,37 @@
       "matchEnded": true
     },
     {
+      "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
+      "name": "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
+      "matchType": "odi",
+      "status": "Namibia opt to bat",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-10-27",
+      "dateTimeGMT": "2026-10-27T08:00:00",
+      "teams": [
+        "Namibia",
+        "Ireland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland",
+          "shortname": "IRE",
+          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+        },
+        {
+          "name": "Namibia",
+          "shortname": "NAM",
+          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
+        }
+      ],
+      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "3ada9f3e-8e32-4f49-80d5-0f915e19d3fd",
       "name": "Namibia vs Ireland, 2nd ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
@@ -500,7 +570,7 @@
       "id": "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
       "name": "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - India A lead by 284 runs",
+      "status": "Match drawn",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "date": "2026-10-24",
       "dateTimeGMT": "2026-10-24T21:30:00",
@@ -534,10 +604,16 @@
           "inning": "New Zealand A Inning 1"
         },
         {
-          "r": 488,
-          "w": 8,
-          "o": 119,
+          "r": 516,
+          "w": 10,
+          "o": 123.1,
           "inning": "India A Inning 2"
+        },
+        {
+          "r": 187,
+          "w": 9,
+          "o": 65,
+          "inning": "New Zealand A Inning 2"
         }
       ],
       "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
@@ -1034,96 +1110,6 @@
         }
       ],
       "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
-      "name": "Western Australia vs New South Wales, 12th Match, Australia Domestic One-Day Cup 2026-27",
-      "matchType": "odi",
-      "status": "New South Wales won by 78 runs",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T06:00:00",
-      "teams": [
-        "Western Australia",
-        "New South Wales"
-      ],
-      "teamInfo": [
-        {
-          "name": "New South Wales",
-          "shortname": "NSW",
-          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
-        },
-        {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 371,
-          "w": 8,
-          "o": 50,
-          "inning": "new south wales Inning 1"
-        },
-        {
-          "r": 293,
-          "w": 10,
-          "o": 46.3,
-          "inning": "Western Australia,New South Wales Inning 1"
-        }
-      ],
-      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f84461ef-5c14-46dd-bbfc-bd0e4b5be54d",
-      "name": "Tasmania vs Victoria, 11th Match, Australia Domestic One-Day Cup 2026-27",
-      "matchType": "odi",
-      "status": "Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T23:30:00",
-      "teams": [
-        "Tasmania",
-        "Victoria"
-      ],
-      "teamInfo": [
-        {
-          "name": "Tasmania",
-          "shortname": "TAS",
-          "img": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=48"
-        },
-        {
-          "name": "Victoria",
-          "shortname": "VIC",
-          "img": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 304,
-          "w": 7,
-          "o": 50,
-          "inning": "Victoria Inning 1"
-        },
-        {
-          "r": 137,
-          "w": 10,
-          "o": 25.2,
-          "inning": "Tasmania Inning 1"
-        }
-      ],
-      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
