@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T14:35:39.861Z",
+  "lastUpdated": "2026-10-28T19:24:16.044Z",
   "recentMatches": [
     {
       "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
@@ -82,51 +82,6 @@
           "w": 10,
           "o": 9.3,
           "inning": "Mexico Women,Argentina Women Inning 1"
-        }
-      ],
-      "series_id": "dbd6fb0b-4c7c-4c88-a148-f6af2c5b7686",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "13ecc73c-a3c3-49bb-ae2d-6c1593859d56",
-      "name": "Mexico Women vs Argentina Women, 1st T20I, Argentina Women tour of Mexico, 2026",
-      "matchType": "t20",
-      "status": "Argentina Women won by 223 runs",
-      "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T14:00:00",
-      "teams": [
-        "Mexico Women",
-        "Argentina Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Argentina Women",
-          "shortname": "ARW",
-          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
-        },
-        {
-          "name": "Mexico Women",
-          "shortname": "MXW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 260,
-          "w": 5,
-          "o": 20,
-          "inning": "Argentina Women Inning 1"
-        },
-        {
-          "r": 37,
-          "w": 10,
-          "o": 11.4,
-          "inning": "Mexico Women Inning 1"
         }
       ],
       "series_id": "dbd6fb0b-4c7c-4c88-a148-f6af2c5b7686",
@@ -275,7 +230,7 @@
       "id": "6cd2b904-81dd-4dd5-a4bd-e2f1359c3382",
       "name": "Kuwait vs Kenya, 41st Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Kenya need 155 runs in 46 balls",
+      "status": "Kuwait won by 150 runs",
       "venue": "Ruaraka Sports Club Ground, Nairobi",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T05:30:00",
@@ -303,9 +258,9 @@
           "inning": "Kuwait Inning 1"
         },
         {
-          "r": 213,
-          "w": 9,
-          "o": 42.2,
+          "r": 217,
+          "w": 10,
+          "o": 43,
           "inning": "Kenya Inning 1"
         }
       ],
@@ -497,96 +452,6 @@
       "matchEnded": true
     },
     {
-      "id": "acaeec1f-8aad-4da1-b938-790780303e0a",
-      "name": "Denmark vs Kuwait, 34th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Denmark won by 102 runs",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T00:00:00",
-      "teams": [
-        "Denmark",
-        "Kuwait"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 274,
-          "w": 8,
-          "o": 50,
-          "inning": "denmark Inning 1"
-        },
-        {
-          "r": 172,
-          "w": 10,
-          "o": 29.4,
-          "inning": "Denmark,Kuwait Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ad69a927-b6f2-4535-95c1-da3fc0203e45",
-      "name": "Qatar vs Kenya, 35th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Qatar won by 4 runs",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T00:00:00",
-      "teams": [
-        "Qatar",
-        "Kenya"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 283,
-          "w": 10,
-          "o": 49.1,
-          "inning": "Qatar Inning 1"
-        },
-        {
-          "r": 279,
-          "w": 10,
-          "o": 48.5,
-          "inning": "Kenya Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
       "name": "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
@@ -622,51 +487,6 @@
           "w": 10,
           "o": 44.5,
           "inning": "Namibia,Ireland Inning 1"
-        }
-      ],
-      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3ada9f3e-8e32-4f49-80d5-0f915e19d3fd",
-      "name": "Namibia vs Ireland, 2nd ODI, Ireland tour of Namibia, 2026",
-      "matchType": "odi",
-      "status": "Namibia won by 31 runs",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T08:00:00",
-      "teams": [
-        "Namibia",
-        "Ireland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 321,
-          "w": 6,
-          "o": 50,
-          "inning": "Namibia Inning 1"
-        },
-        {
-          "r": 290,
-          "w": 10,
-          "o": 47.3,
-          "inning": "Ireland Inning 1"
         }
       ],
       "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
@@ -760,63 +580,6 @@
         }
       ],
       "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
-      "name": "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
-      "matchType": "test",
-      "status": "Match drawn",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T21:30:00",
-      "teams": [
-        "New Zealand A",
-        "India A"
-      ],
-      "teamInfo": [
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        },
-        {
-          "name": "New Zealand A",
-          "shortname": "NZA",
-          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 113,
-          "w": 10,
-          "o": 39.3,
-          "inning": "India A Inning 1"
-        },
-        {
-          "r": 317,
-          "w": 10,
-          "o": 89.3,
-          "inning": "New Zealand A Inning 1"
-        },
-        {
-          "r": 516,
-          "w": 10,
-          "o": 123.1,
-          "inning": "India A Inning 2"
-        },
-        {
-          "r": 187,
-          "w": 9,
-          "o": 65,
-          "inning": "New Zealand A Inning 2"
-        }
-      ],
-      "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1043,94 +806,328 @@
       "matchEnded": true
     },
     {
-      "id": "5794e291-c7ff-4542-8835-792bc4e06911",
-      "name": "Lesotho vs Nigeria, 12th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Nigeria won by 7 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T13:00:00",
+      "id": "7dc5c9c9-4924-4e36-a7a2-1f7eda3d5080",
+      "name": "India Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of India, 2026",
+      "status": "India Women won by 8 wkts",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T08:30:00",
       "teams": [
-        "Lesotho",
-        "Nigeria"
+        "India Women",
+        "Zimbabwe Women"
       ],
       "teamInfo": [
         {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
         },
         {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 62,
+          "r": 131,
           "w": 10,
-          "o": 12.5,
-          "inning": "lesotho Inning 1"
+          "o": 39.5,
+          "inning": "zimbabwe women Inning 1"
         },
         {
-          "r": 65,
-          "w": 3,
-          "o": 7.4,
-          "inning": "Lesotho,Nigeria Inning 1"
+          "r": 133,
+          "w": 2,
+          "o": 17,
+          "inning": "India Women,Zimbabwe Women Inning 1"
         }
       ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
     {
-      "id": "5a8024c3-e727-421b-bceb-3c47644fb1ba",
-      "name": "Gambia vs Zambia, 11th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Zambia won by 8 wkts",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T13:00:00",
+      "id": "bb9378ae-85dd-4513-85ef-069c87305750",
+      "name": "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
+      "status": "India Women won by 121 runs",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2026-10-25",
+      "dateTimeGMT": "2026-10-25T08:30:00",
       "teams": [
-        "Gambia",
-        "Zambia"
+        "India Women",
+        "Zimbabwe Women"
       ],
       "teamInfo": [
         {
-          "name": "Gambia",
-          "shortname": "GAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "India Women",
+          "shortname": "INDW",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
         },
         {
-          "name": "Zambia",
-          "shortname": "ZAM",
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 328,
+          "w": 6,
+          "o": 50,
+          "inning": "india women Inning 1"
+        },
+        {
+          "r": 207,
+          "w": 10,
+          "o": 48.5,
+          "inning": "India Women,Zimbabwe Women Inning 1"
+        }
+      ],
+      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "082407a8-19d9-40f7-8d40-a269f1f85c67",
+      "name": "Central Stags vs Northern Districts, 2nd Match, The Ford Trophy 2026-27",
+      "matchType": "odi",
+      "status": "Northern Districts won by 62 runs",
+      "venue": "Saxton Oval, Nelson",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T21:30:00",
+      "teams": [
+        "Central Stags",
+        "Northern Districts"
+      ],
+      "teamInfo": [
+        {
+          "name": "Central Stags",
+          "shortname": "CS",
+          "img": "https://g.cricapi.com/iapi/133-637957472586275153.webp?w=48"
+        },
+        {
+          "name": "Northern Districts",
+          "shortname": "ND",
           "img": "https://h.cricapi.com/img/icon512.png"
         }
       ],
       "score": [
         {
-          "r": 93,
-          "w": 9,
-          "o": 20,
-          "inning": "gambia Inning 1"
+          "r": 403,
+          "w": 6,
+          "o": 50,
+          "inning": "northern districts Inning 1"
         },
         {
-          "r": 97,
-          "w": 2,
-          "o": 11.4,
-          "inning": "Gambia,Zambia Inning 1"
+          "r": 341,
+          "w": 10,
+          "o": 44.2,
+          "inning": "Central Stags,Northern Districts Inning 1"
         }
       ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
+      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": true,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
+      "id": "024a059a-f2d5-4af0-b051-3188967e4785",
+      "name": "Auckland vs Canterbury, 1st Match, The Ford Trophy 2026-27",
+      "matchType": "odi",
+      "status": "Auckland won by 33 runs (DLS Method)  -  2nd innings reduced to 46 overs due to rain, target 345",
+      "venue": "Eden Park Outer Oval, Auckland",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T21:30:00",
+      "teams": [
+        "Auckland",
+        "Canterbury"
+      ],
+      "teamInfo": [
+        {
+          "name": "Auckland",
+          "shortname": "AKL",
+          "img": "https://g.cricapi.com/iapi/5-637993557414710285.webp?w=48"
+        },
+        {
+          "name": "Canterbury",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 361,
+          "w": 5,
+          "o": 50,
+          "inning": "Auckland Inning 1"
+        },
+        {
+          "r": 311,
+          "w": 10,
+          "o": 44.1,
+          "inning": "Canterbury Inning 1"
+        }
+      ],
+      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": true
+    },
+    {
+      "id": "e50a9d29-3043-47ef-b9ed-034f79cc6b0b",
+      "name": "South Africa vs Australia, 3rd Test, Australia tour of South Africa, 2026",
+      "status": "Day 2: Stumps - Australia lead by 1 run",
+      "venue": "Newlands, Cape Town",
+      "date": "2026-10-27",
+      "dateTimeGMT": "2026-10-27T08:30:00",
+      "teams": [
+        "South Africa",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 329,
+          "w": 10,
+          "o": 82.3,
+          "inning": "South Africa Inning 1"
+        },
+        {
+          "r": 330,
+          "w": 4,
+          "o": 90,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "e8adf8e6-a334-4fce-88b6-58e5ca825e8e",
+      "name": "Manipur vs Arunachal Pradesh, Plate, Ranji Trophy Plate 2026-27",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Manipur need 167 runs",
+      "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
+      "date": "2026-10-26",
+      "dateTimeGMT": "2026-10-26T04:00:00",
+      "teams": [
+        "Manipur",
+        "Arunachal Pradesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arunachal Pradesh",
+          "shortname": "ARNP",
+          "img": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=48"
+        },
+        {
+          "name": "Manipur",
+          "shortname": "MNP",
+          "img": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 111,
+          "w": 10,
+          "o": 41.4,
+          "inning": "arunachal pradesh Inning 1"
+        },
+        {
+          "r": 364,
+          "w": 10,
+          "o": 101.2,
+          "inning": "Manipur,Arunachal Pradesh Inning 1"
+        },
+        {
+          "r": 431,
+          "w": 10,
+          "o": 120.4,
+          "inning": "arunachal pradesh Inning 2"
+        },
+        {
+          "r": 12,
+          "w": 1,
+          "o": 4,
+          "inning": "Manipur,Arunachal Pradesh Inning 2"
+        }
+      ],
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "eec77188-4705-4751-9071-a01b947fef41",
+      "name": "Mizoram vs Meghalaya, Plate, Ranji Trophy Plate 2026-27",
+      "matchType": "test",
+      "status": "Day 3: Stumps - Mizoram trail by 212 runs",
+      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
+      "date": "2026-10-26",
+      "dateTimeGMT": "2026-10-26T04:00:00",
+      "teams": [
+        "Mizoram",
+        "Meghalaya"
+      ],
+      "teamInfo": [
+        {
+          "name": "Meghalaya",
+          "shortname": "MGLY",
+          "img": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=48"
+        },
+        {
+          "name": "Mizoram",
+          "shortname": "MIZ",
+          "img": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 562,
+          "w": 10,
+          "o": 137.2,
+          "inning": "meghalaya Inning 1"
+        },
+        {
+          "r": 350,
+          "w": 5,
+          "o": 127,
+          "inning": "Mizoram,Meghalaya Inning 1"
+        }
+      ],
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     }
   ],
   "ipl": {
