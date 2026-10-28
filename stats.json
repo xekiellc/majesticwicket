@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T23:38:05.449Z",
+  "lastUpdated": "2026-10-28T14:35:39.861Z",
   "recentMatches": [
     {
       "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
@@ -220,6 +220,96 @@
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5e5a4c99-ab45-4f16-8593-c9aa1ba0bba6",
+      "name": "Qatar vs Denmark, 40th Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Denmark won by 52 runs",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T05:30:00",
+      "teams": [
+        "Qatar",
+        "Denmark"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 10,
+          "o": 36.2,
+          "inning": "denmark Inning 1"
+        },
+        {
+          "r": 68,
+          "w": 10,
+          "o": 16.2,
+          "inning": "Qatar,Denmark Inning 1"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6cd2b904-81dd-4dd5-a4bd-e2f1359c3382",
+      "name": "Kuwait vs Kenya, 41st Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Kenya need 155 runs in 46 balls",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T05:30:00",
+      "teams": [
+        "Kuwait",
+        "Kenya"
+      ],
+      "teamInfo": [
+        {
+          "name": "Kenya",
+          "shortname": "KEN",
+          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
+        },
+        {
+          "name": "Kuwait",
+          "shortname": "KUW",
+          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 367,
+          "w": 9,
+          "o": 50,
+          "inning": "Kuwait Inning 1"
+        },
+        {
+          "r": 213,
+          "w": 9,
+          "o": 42.2,
+          "inning": "Kenya Inning 1"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
@@ -734,6 +824,45 @@
       "matchEnded": true
     },
     {
+      "id": "e690b55f-e5ea-4b28-ac72-323d81d14291",
+      "name": "Bangladesh vs West Indies, 1st Test, West Indies tour of Bangladesh, 2026",
+      "matchType": "test",
+      "status": "Day 1: Stumps - Bangladesh opt to bat",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T03:30:00",
+      "teams": [
+        "Bangladesh",
+        "West Indies"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "West Indies",
+          "shortname": "WI",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 213,
+          "w": 3,
+          "o": 74,
+          "inning": "bangladesh Inning 1"
+        }
+      ],
+      "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "1950e564-6c89-4a51-bd21-4b7413137434",
       "name": "Afghanistan vs Zimbabwe, 1st T20I, Afghanistan vs Zimbabwe in UAE, 2026",
       "matchType": "t20",
@@ -1000,140 +1129,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "41b3c2d0-5897-4e56-b8c7-d3116afb6ab3",
-      "name": "Uganda vs Mozambique, 10th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Uganda won by 10 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T09:00:00",
-      "teams": [
-        "Uganda",
-        "Mozambique"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        },
-        {
-          "name": "Uganda",
-          "shortname": "UGA",
-          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 19,
-          "w": 10,
-          "o": 7.2,
-          "inning": "mozambique Inning 1"
-        },
-        {
-          "r": 23,
-          "w": 0,
-          "o": 0.5,
-          "inning": "Uganda,Mozambique Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bb9378ae-85dd-4513-85ef-069c87305750",
-      "name": "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
-      "status": "India Women won by 121 runs",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T08:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 328,
-          "w": 6,
-          "o": 50,
-          "inning": "india women Inning 1"
-        },
-        {
-          "r": 207,
-          "w": 10,
-          "o": 48.5,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
-      "name": "Western Australia vs New South Wales, 12th Match, Australia Domestic One-Day Cup 2026-27",
-      "matchType": "odi",
-      "status": "New South Wales won by 78 runs",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-24",
-      "dateTimeGMT": "2026-10-24T06:00:00",
-      "teams": [
-        "Western Australia",
-        "New South Wales"
-      ],
-      "teamInfo": [
-        {
-          "name": "New South Wales",
-          "shortname": "NSW",
-          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
-        },
-        {
-          "name": "Western Australia",
-          "shortname": "WA",
-          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 371,
-          "w": 8,
-          "o": 50,
-          "inning": "new south wales Inning 1"
-        },
-        {
-          "r": 293,
-          "w": 10,
-          "o": 46.3,
-          "inning": "Western Australia,New South Wales Inning 1"
-        }
-      ],
-      "series_id": "54464f6f-3be4-4730-9ba7-cf77ce0a9ad8",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
