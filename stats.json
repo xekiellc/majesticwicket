@@ -1,93 +1,48 @@
 {
-  "lastUpdated": "2026-10-28T19:24:16.044Z",
+  "lastUpdated": "2026-10-29T19:28:23.694Z",
   "recentMatches": [
     {
-      "id": "326660fd-3ba5-498f-a70c-8465448e3c34",
-      "name": "Mexico Women vs Argentina Women, 3rd T20I, Argentina Women tour of Mexico, 2026",
-      "matchType": "t20",
-      "status": "Argentina Women won by 135 runs",
-      "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T14:00:00",
+      "id": "5dfe214e-3c24-4553-a0eb-a8d6ae12c063",
+      "name": "United Arab Emirates vs Oman, 142nd Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "United Arab Emirates won by 4 wkts",
+      "venue": "ICC Academy Ground, Dubai",
+      "date": "2026-10-29",
+      "dateTimeGMT": "2026-10-29T05:30:00",
       "teams": [
-        "Mexico Women",
-        "Argentina Women"
+        "United Arab Emirates",
+        "Oman"
       ],
       "teamInfo": [
         {
-          "name": "Argentina Women",
-          "shortname": "ARW",
-          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
         },
         {
-          "name": "Mexico Women",
-          "shortname": "MXW",
-          "img": "https://h.cricapi.com/img/icon512.png"
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 186,
-          "w": 7,
-          "o": 20,
-          "inning": "argentina women Inning 1"
+          "r": 196,
+          "w": 10,
+          "o": 45.1,
+          "inning": "Oman Inning 1"
         },
         {
-          "r": 51,
-          "w": 10,
-          "o": 12.5,
-          "inning": "Mexico Women,Argentina Women Inning 1"
+          "r": 199,
+          "w": 6,
+          "o": 47.3,
+          "inning": "United Arab Emirates Inning 1"
         }
       ],
-      "series_id": "dbd6fb0b-4c7c-4c88-a148-f6af2c5b7686",
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
-      "name": "Mexico Women vs Argentina Women, 2nd T20I, Argentina Women tour of Mexico, 2026",
-      "matchType": "t20",
-      "status": "Argentina Women won by 165 runs",
-      "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T19:00:00",
-      "teams": [
-        "Mexico Women",
-        "Argentina Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Argentina Women",
-          "shortname": "ARW",
-          "img": "https://g.cricapi.com/iapi/579-637869397212602812.webp?w=48"
-        },
-        {
-          "name": "Mexico Women",
-          "shortname": "MXW",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 188,
-          "w": 5,
-          "o": 20,
-          "inning": "argentina women Inning 1"
-        },
-        {
-          "r": 23,
-          "w": 10,
-          "o": 9.3,
-          "inning": "Mexico Women,Argentina Women Inning 1"
-        }
-      ],
-      "series_id": "dbd6fb0b-4c7c-4c88-a148-f6af2c5b7686",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -127,51 +82,6 @@
           "w": 10,
           "o": 49.3,
           "inning": "Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8ac2a8d5-2da4-4c95-9772-63a4fb6c42ca",
-      "name": "United Arab Emirates vs Netherlands, 140th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Netherlands won by 3 wkts",
-      "venue": "ICC Academy Ground, Dubai",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T05:30:00",
-      "teams": [
-        "United Arab Emirates",
-        "Netherlands"
-      ],
-      "teamInfo": [
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 244,
-          "w": 8,
-          "o": 50,
-          "inning": "united arab emirates Inning 1"
-        },
-        {
-          "r": 245,
-          "w": 7,
-          "o": 43.5,
-          "inning": "United Arab Emirates,Netherlands Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -362,96 +272,6 @@
       "matchEnded": true
     },
     {
-      "id": "254aac65-a869-4b29-9ba4-4552f19f121f",
-      "name": "Denmark vs Papua New Guinea, 37th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Papua New Guinea won by 4 wkts",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T05:30:00",
-      "teams": [
-        "Denmark",
-        "Papua New Guinea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 304,
-          "w": 6,
-          "o": 50,
-          "inning": "Denmark Inning 1"
-        },
-        {
-          "r": 307,
-          "w": 6,
-          "o": 49.1,
-          "inning": "Papua New Guinea Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d766b31d-b69f-46f5-bb13-307bae39d37e",
-      "name": "Jersey vs Kenya, 36th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Jersey won by 123 runs",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T05:30:00",
-      "teams": [
-        "Jersey",
-        "Kenya"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        },
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 320,
-          "w": 9,
-          "o": 50,
-          "inning": "jersey Inning 1"
-        },
-        {
-          "r": 197,
-          "w": 10,
-          "o": 42,
-          "inning": "Jersey,Kenya Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
       "name": "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
@@ -490,6 +310,51 @@
         }
       ],
       "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "074cb065-c64b-476a-89df-b6bcde4da715",
+      "name": "Sri Lanka vs England, 6th Match, Pakistan ODI Tri-Series, 2026",
+      "matchType": "odi",
+      "status": "England won by 55 runs",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-10-29",
+      "dateTimeGMT": "2026-10-29T08:00:00",
+      "teams": [
+        "Sri Lanka",
+        "England"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 386,
+          "w": 5,
+          "o": 50,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 331,
+          "w": 10,
+          "o": 45.1,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -542,55 +407,10 @@
       "matchEnded": true
     },
     {
-      "id": "f542502b-a537-46a6-8dbd-48eeaedd4d90",
-      "name": "Pakistan vs England, 4th Match, Pakistan ODI Tri-Series, 2026",
-      "matchType": "odi",
-      "status": "Pakistan won by 1 wkt",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T08:00:00",
-      "teams": [
-        "Pakistan",
-        "England"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 241,
-          "w": 10,
-          "o": 46.4,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 243,
-          "w": 9,
-          "o": 47.1,
-          "inning": "Pakistan Inning 1"
-        }
-      ],
-      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "e690b55f-e5ea-4b28-ac72-323d81d14291",
       "name": "Bangladesh vs West Indies, 1st Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - Bangladesh opt to bat",
+      "status": "Day 2: Stumps - West Indies trail by 138 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T03:30:00",
@@ -612,10 +432,16 @@
       ],
       "score": [
         {
-          "r": 213,
-          "w": 3,
-          "o": 74,
+          "r": 272,
+          "w": 10,
+          "o": 97.4,
           "inning": "bangladesh Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 4,
+          "o": 48,
+          "inning": "Bangladesh,West Indies Inning 1"
         }
       ],
       "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
@@ -624,6 +450,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "d153b19d-6528-4b07-9dc1-5c03c8112df1",
+      "name": "Afghanistan vs Zimbabwe, 2nd T20I, Afghanistan vs Zimbabwe in UAE, 2026",
+      "matchType": "t20",
+      "status": "Afghanistan won by 19 runs",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "date": "2026-10-29",
+      "dateTimeGMT": "2026-10-29T14:30:00",
+      "teams": [
+        "Afghanistan",
+        "Zimbabwe"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe",
+          "shortname": "ZIM",
+          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 7,
+          "o": 20,
+          "inning": "Afghanistan Inning 1"
+        },
+        {
+          "r": 202,
+          "w": 5,
+          "o": 20,
+          "inning": "Zimbabwe Inning 1"
+        }
+      ],
+      "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "1950e564-6c89-4a51-bd21-4b7413137434",
@@ -667,141 +538,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5180605d-f5d1-47b4-9dae-8afd67c40bce",
-      "name": "Nigeria vs Uganda, 15th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Nigeria won by 1 run",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T13:00:00",
-      "teams": [
-        "Nigeria",
-        "Uganda"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nigeria",
-          "shortname": "NGA",
-          "img": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=48"
-        },
-        {
-          "name": "Uganda",
-          "shortname": "UGA",
-          "img": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 148,
-          "w": 10,
-          "o": 19.4,
-          "inning": "nigeria Inning 1"
-        },
-        {
-          "r": 147,
-          "w": 9,
-          "o": 20,
-          "inning": "Nigeria,Uganda Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e682ab1e-322e-4b18-897c-8e27783c477a",
-      "name": "Mozambique vs Zambia, 14th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Mozambique won by 3 wkts",
-      "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T09:00:00",
-      "teams": [
-        "Mozambique",
-        "Zambia"
-      ],
-      "teamInfo": [
-        {
-          "name": "Mozambique",
-          "shortname": "MOZ",
-          "img": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=48"
-        },
-        {
-          "name": "Zambia",
-          "shortname": "ZAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 109,
-          "w": 9,
-          "o": 20,
-          "inning": "mozambique Inning 1"
-        },
-        {
-          "r": 110,
-          "w": 7,
-          "o": 19,
-          "inning": "Mozambique,Zambia Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "6207c60f-7d82-4bd7-99df-53d4cc8e7df1",
-      "name": "Gambia vs Lesotho, 13th Match, ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2026",
-      "matchType": "t20",
-      "status": "Gambia won by 3 runs",
-      "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T09:00:00",
-      "teams": [
-        "Gambia",
-        "Lesotho"
-      ],
-      "teamInfo": [
-        {
-          "name": "Gambia",
-          "shortname": "GAM",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Lesotho",
-          "shortname": "LES",
-          "img": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 112,
-          "w": 9,
-          "o": 20,
-          "inning": "gambia Inning 1"
-        },
-        {
-          "r": 109,
-          "w": 10,
-          "o": 19.5,
-          "inning": "Gambia,Lesotho Inning 1"
-        }
-      ],
-      "series_id": "73da12b0-33ea-455a-a891-ca61733e741d",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -850,43 +586,44 @@
       "matchEnded": true
     },
     {
-      "id": "bb9378ae-85dd-4513-85ef-069c87305750",
-      "name": "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
-      "status": "India Women won by 121 runs",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2026-10-25",
-      "dateTimeGMT": "2026-10-25T08:30:00",
+      "id": "e8aa2cac-2d06-4411-9bd5-e28886838071",
+      "name": "Wellington vs Otago, 3rd Match, The Ford Trophy 2026-27",
+      "matchType": "odi",
+      "status": "Otago won by 6 wkts",
+      "venue": "Basin Reserve, Wellington",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T21:30:00",
       "teams": [
-        "India Women",
-        "Zimbabwe Women"
+        "Wellington",
+        "Otago"
       ],
       "teamInfo": [
         {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+          "name": "Otago",
+          "shortname": "OTG",
+          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
         },
         {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+          "name": "Wellington",
+          "shortname": "WEL",
+          "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
         }
       ],
       "score": [
         {
-          "r": 328,
-          "w": 6,
-          "o": 50,
-          "inning": "india women Inning 1"
+          "r": 213,
+          "w": 10,
+          "o": 48.1,
+          "inning": "Wellington Inning 1"
         },
         {
-          "r": 207,
-          "w": 10,
-          "o": 48.5,
-          "inning": "India Women,Zimbabwe Women Inning 1"
+          "r": 214,
+          "w": 4,
+          "o": 37.1,
+          "inning": "Otago Inning 1"
         }
       ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
+      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -935,7 +672,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -980,13 +717,13 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
       "id": "e50a9d29-3043-47ef-b9ed-034f79cc6b0b",
       "name": "South Africa vs Australia, 3rd Test, Australia tour of South Africa, 2026",
-      "status": "Day 2: Stumps - Australia lead by 1 run",
+      "status": "Day 3: Stumps - South Africa lead by 40 runs",
       "venue": "Newlands, Cape Town",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T08:30:00",
@@ -1014,10 +751,16 @@
           "inning": "South Africa Inning 1"
         },
         {
-          "r": 330,
-          "w": 4,
-          "o": 90,
+          "r": 429,
+          "w": 10,
+          "o": 125.1,
           "inning": "Australia Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 4,
+          "o": 47,
+          "inning": "South Africa Inning 2"
         }
       ],
       "series_id": "0c2de514-946a-4b55-a6e3-4d1d6e892459",
@@ -1031,7 +774,7 @@
       "id": "e8adf8e6-a334-4fce-88b6-58e5ca825e8e",
       "name": "Manipur vs Arunachal Pradesh, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
-      "status": "Day 3: Stumps - Manipur need 167 runs",
+      "status": "Manipur won by 4 wkts",
       "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
       "date": "2026-10-26",
       "dateTimeGMT": "2026-10-26T04:00:00",
@@ -1071,9 +814,9 @@
           "inning": "arunachal pradesh Inning 2"
         },
         {
-          "r": 12,
-          "w": 1,
-          "o": 4,
+          "r": 180,
+          "w": 6,
+          "o": 48.4,
           "inning": "Manipur,Arunachal Pradesh Inning 2"
         }
       ],
@@ -1082,13 +825,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "eec77188-4705-4751-9071-a01b947fef41",
       "name": "Mizoram vs Meghalaya, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
-      "status": "Day 3: Stumps - Mizoram trail by 212 runs",
+      "status": "Match drawn",
       "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
       "date": "2026-10-26",
       "dateTimeGMT": "2026-10-26T04:00:00",
@@ -1116,10 +859,16 @@
           "inning": "meghalaya Inning 1"
         },
         {
-          "r": 350,
-          "w": 5,
-          "o": 127,
+          "r": 430,
+          "w": 10,
+          "o": 168.2,
           "inning": "Mizoram,Meghalaya Inning 1"
+        },
+        {
+          "r": 60,
+          "w": 2,
+          "o": 22,
+          "inning": "meghalaya Inning 2"
         }
       ],
       "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
@@ -1127,7 +876,307 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "13c85a72-15e8-47aa-ab33-f1713c8436fa",
+      "name": "Sikkim vs Nagaland, Plate, Ranji Trophy Plate 2026-27",
+      "matchType": "test",
+      "status": "Match drawn",
+      "venue": "SICA ground, Rangpo",
+      "date": "2026-10-26",
+      "dateTimeGMT": "2026-10-26T04:00:00",
+      "teams": [
+        "Sikkim",
+        "Nagaland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nagaland",
+          "shortname": "NGL",
+          "img": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=48"
+        },
+        {
+          "name": "Sikkim",
+          "shortname": "SKM",
+          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 187,
+          "w": 10,
+          "o": 72.5,
+          "inning": "Nagaland Inning 1"
+        },
+        {
+          "r": 184,
+          "w": 10,
+          "o": 71,
+          "inning": "Sikkim Inning 1"
+        },
+        {
+          "r": 208,
+          "w": 10,
+          "o": 91,
+          "inning": "Nagaland Inning 2"
+        },
+        {
+          "r": 117,
+          "w": 5,
+          "o": 46,
+          "inning": "Sikkim Inning 2"
+        }
+      ],
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5c425afe-2de9-4063-bc5c-123d1f2495a3",
+      "name": "Melbourne Stars Women vs Hobart Hurricanes Women, 2nd Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Melbourne Stars Women won by 18 runs",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-10-29",
+      "dateTimeGMT": "2026-10-29T08:10:00",
+      "teams": [
+        "Melbourne Stars Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        },
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 192,
+          "w": 4,
+          "o": 20,
+          "inning": "Melbourne Stars Women Inning 1"
+        },
+        {
+          "r": 174,
+          "w": 8,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e5243dfc-be2f-4aa9-a7fb-c868fbb3a146",
+      "name": "Melbourne Renegades Women vs Sydney Thunder Women, 1st Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Sydney Thunder Women won by 6 wkts",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-10-29",
+      "dateTimeGMT": "2026-10-29T04:40:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Sydney Thunder Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 9,
+          "o": 20,
+          "inning": "Melbourne Renegades Women Inning 1"
+        },
+        {
+          "r": 140,
+          "w": 4,
+          "o": 17,
+          "inning": "Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bac0f1bc-ed6d-4f69-ae99-340a6893e360",
+      "name": "South Australia vs Western Australia, 7th Match, Sheffield Shield 2026-27",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Western Australia lead by 331 runs",
+      "venue": "Adelaide Oval, Adelaide",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T00:00:00",
+      "teams": [
+        "South Australia",
+        "Western Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "South Australia",
+          "shortname": "SAUS",
+          "img": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 406,
+          "w": 5,
+          "o": 116,
+          "inning": "western australia Inning 1"
+        },
+        {
+          "r": 154,
+          "w": 10,
+          "o": 37.1,
+          "inning": "South Australia,Western Australia Inning 1"
+        },
+        {
+          "r": 79,
+          "w": 6,
+          "o": 29,
+          "inning": "western australia Inning 2"
+        }
+      ],
+      "series_id": "ef62c07e-e21a-4b89-b705-c0c4d4d6c82e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "c81a306a-824b-48de-8229-76536188098a",
+      "name": "Saurashtra vs Assam, Elite Group B, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Saurashtra won by an innings and 12 runs",
+      "venue": "Niranjan Shah Stadium, Khandheri, Rajkot",
+      "date": "2026-10-26",
+      "dateTimeGMT": "2026-10-26T04:00:00",
+      "teams": [
+        "Saurashtra",
+        "Assam"
+      ],
+      "teamInfo": [
+        {
+          "name": "Assam",
+          "shortname": "ASM",
+          "img": "https://g.cricapi.com/iapi/4-637897788303626448.png?w=48"
+        },
+        {
+          "name": "Saurashtra",
+          "shortname": "SAUR",
+          "img": "https://g.cricapi.com/iapi/78-637897803602821716.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 281,
+          "w": 10,
+          "o": 112.3,
+          "inning": "assam Inning 1"
+        },
+        {
+          "r": 387,
+          "w": 10,
+          "o": 131.4,
+          "inning": "Saurashtra,Assam Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 10,
+          "o": 44,
+          "inning": "assam Inning 2"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dcc8719c-27ab-4bc4-87c7-e9a2dfa82569",
+      "name": "Karnataka vs Tripura, Elite Group B, Ranji Trophy Elite 2026-27",
+      "matchType": "test",
+      "status": "Karnataka won by an innings and 116 runs",
+      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
+      "date": "2026-10-26",
+      "dateTimeGMT": "2026-10-26T04:00:00",
+      "teams": [
+        "Karnataka",
+        "Tripura"
+      ],
+      "teamInfo": [
+        {
+          "name": "Karnataka",
+          "shortname": "KAR",
+          "img": "https://g.cricapi.com/iapi/38-637897796420763611.png?w=48"
+        },
+        {
+          "name": "Tripura",
+          "shortname": "TRI",
+          "img": "https://g.cricapi.com/iapi/90-637897805085647315.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 194,
+          "w": 10,
+          "o": 82,
+          "inning": "Tripura Inning 1"
+        },
+        {
+          "r": 490,
+          "w": 9,
+          "o": 144,
+          "inning": "Karnataka Inning 1"
+        },
+        {
+          "r": 180,
+          "w": 10,
+          "o": 78.1,
+          "inning": "Tripura Inning 2"
+        }
+      ],
+      "series_id": "08a7f1fe-4dde-442e-86de-27de09457d51",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     }
   ],
   "ipl": {
