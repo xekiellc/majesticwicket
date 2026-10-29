@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T19:28:23.694Z",
+  "lastUpdated": "2026-10-29T23:50:57.143Z",
   "recentMatches": [
     {
       "id": "5dfe214e-3c24-4553-a0eb-a8d6ae12c063",
@@ -50,8 +50,8 @@
       "id": "df5dd379-9372-490a-99d2-b6b54a17f9a5",
       "name": "Netherlands vs Oman, 141st Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
-      "status": "Netherlands won by 106 runs",
-      "venue": "ICC Academy Ground, Dubai",
+      "status": "",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T05:30:00",
       "teams": [
@@ -140,8 +140,8 @@
       "id": "6cd2b904-81dd-4dd5-a4bd-e2f1359c3382",
       "name": "Kuwait vs Kenya, 41st Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Kuwait won by 150 runs",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "status": "",
+      "venue": "",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T05:30:00",
       "teams": [
@@ -185,8 +185,8 @@
       "id": "49d7bcea-8240-452a-aac0-fcf53e765849",
       "name": "Kuwait vs Jersey, 39th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Kuwait won by 7 wkts",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "status": "",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T05:30:00",
       "teams": [
@@ -230,8 +230,8 @@
       "id": "7b72f68e-5e02-483e-857c-08037e12971d",
       "name": "Qatar vs Papua New Guinea, 38th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Qatar won by 9 wkts",
-      "venue": "Gymkhana Club Ground, Nairobi",
+      "status": "",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T05:30:00",
       "teams": [
@@ -275,8 +275,8 @@
       "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
       "name": "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
-      "status": "Namibia won by 63 runs",
-      "venue": "High Performance Oval, Windhoek",
+      "status": "",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T08:00:00",
       "teams": [
@@ -320,8 +320,8 @@
       "id": "074cb065-c64b-476a-89df-b6bcde4da715",
       "name": "Sri Lanka vs England, 6th Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
-      "status": "England won by 55 runs",
-      "venue": "Gaddafi Stadium, Lahore",
+      "status": "",
+      "venue": "",
       "date": "2026-10-29",
       "dateTimeGMT": "2026-10-29T08:00:00",
       "teams": [
@@ -365,8 +365,8 @@
       "id": "bf282a4a-7348-487c-8b5c-12f2ac3f4237",
       "name": "Pakistan vs Sri Lanka, 5th Match, Pakistan ODI Tri-Series, 2026",
       "matchType": "odi",
-      "status": "Sri Lanka won by 8 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
+      "status": "",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T08:00:00",
       "teams": [
@@ -410,8 +410,8 @@
       "id": "e690b55f-e5ea-4b28-ac72-323d81d14291",
       "name": "Bangladesh vs West Indies, 1st Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 2: Stumps - West Indies trail by 138 runs",
-      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "",
+      "venue": "",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T03:30:00",
       "teams": [
@@ -501,7 +501,7 @@
       "name": "Afghanistan vs Zimbabwe, 1st T20I, Afghanistan vs Zimbabwe in UAE, 2026",
       "matchType": "t20",
       "status": "Afghanistan won by 37 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T14:30:00",
       "teams": [
@@ -544,8 +544,8 @@
     {
       "id": "7dc5c9c9-4924-4e36-a7a2-1f7eda3d5080",
       "name": "India Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of India, 2026",
-      "status": "India Women won by 8 wkts",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "",
+      "venue": "",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T08:30:00",
       "teams": [
@@ -589,8 +589,8 @@
       "id": "e8aa2cac-2d06-4411-9bd5-e28886838071",
       "name": "Wellington vs Otago, 3rd Match, The Ford Trophy 2026-27",
       "matchType": "odi",
-      "status": "Otago won by 6 wkts",
-      "venue": "Basin Reserve, Wellington",
+      "status": "",
+      "venue": "",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T21:30:00",
       "teams": [
@@ -723,8 +723,8 @@
     {
       "id": "e50a9d29-3043-47ef-b9ed-034f79cc6b0b",
       "name": "South Africa vs Australia, 3rd Test, Australia tour of South Africa, 2026",
-      "status": "Day 3: Stumps - South Africa lead by 40 runs",
-      "venue": "Newlands, Cape Town",
+      "status": "",
+      "venue": "",
       "date": "2026-10-27",
       "dateTimeGMT": "2026-10-27T08:30:00",
       "teams": [
@@ -831,8 +831,8 @@
       "id": "eec77188-4705-4751-9071-a01b947fef41",
       "name": "Mizoram vs Meghalaya, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
-      "status": "Match drawn",
-      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
+      "status": "",
+      "venue": "",
       "date": "2026-10-26",
       "dateTimeGMT": "2026-10-26T04:00:00",
       "teams": [
@@ -883,7 +883,7 @@
       "name": "Sikkim vs Nagaland, Plate, Ranji Trophy Plate 2026-27",
       "matchType": "test",
       "status": "Match drawn",
-      "venue": "SICA ground, Rangpo",
+      "venue": "",
       "date": "2026-10-26",
       "dateTimeGMT": "2026-10-26T04:00:00",
       "teams": [
@@ -940,7 +940,7 @@
       "name": "Melbourne Stars Women vs Hobart Hurricanes Women, 2nd Match, Womens Big Bash League 2026",
       "matchType": "t20",
       "status": "Melbourne Stars Women won by 18 runs",
-      "venue": "Junction Oval, Melbourne",
+      "venue": "",
       "date": "2026-10-29",
       "dateTimeGMT": "2026-10-29T08:10:00",
       "teams": [
@@ -1029,8 +1029,8 @@
       "id": "bac0f1bc-ed6d-4f69-ae99-340a6893e360",
       "name": "South Australia vs Western Australia, 7th Match, Sheffield Shield 2026-27",
       "matchType": "test",
-      "status": "Day 2: Stumps - Western Australia lead by 331 runs",
-      "venue": "Adelaide Oval, Adelaide",
+      "status": "",
+      "venue": "",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T00:00:00",
       "teams": [
@@ -1080,8 +1080,8 @@
       "id": "c81a306a-824b-48de-8229-76536188098a",
       "name": "Saurashtra vs Assam, Elite Group B, Ranji Trophy Elite 2026-27",
       "matchType": "test",
-      "status": "Saurashtra won by an innings and 12 runs",
-      "venue": "Niranjan Shah Stadium, Khandheri, Rajkot",
+      "status": "",
+      "venue": "",
       "date": "2026-10-26",
       "dateTimeGMT": "2026-10-26T04:00:00",
       "teams": [
