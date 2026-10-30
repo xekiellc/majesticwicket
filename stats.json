@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-10-30T08:22:21.990Z",
+  "lastUpdated": "2026-10-30T14:38:23.624Z",
   "recentMatches": [
+    {
+      "id": "8423f37a-7e8b-4509-a5ce-68ba23aca74c",
+      "name": "England vs Australia, Group A, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Australia won by 38 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-30",
+      "dateTimeGMT": "2026-10-30T08:05:00",
+      "teams": [
+        "England",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 4,
+          "o": 6,
+          "inning": "australia Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 0,
+          "o": 6,
+          "inning": "England,Australia Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "5f6b32d1-4dcb-468c-a5a9-8445c688ed8d",
       "name": "South Africa vs Afghanistan, Group D, Hong Kong Sixes 2026",
       "matchType": "t20",
-      "status": "Afghanistan need 71 runs in 18 balls",
+      "status": "Afghanistan won by 3 wkts",
       "venue": "Mission Road Ground, Mong Kok",
       "date": "2026-10-30",
       "dateTimeGMT": "2026-10-30T07:10:00",
@@ -33,9 +78,9 @@
           "inning": "south africa Inning 1"
         },
         {
-          "r": 37,
-          "w": 2,
-          "o": 3,
+          "r": 112,
+          "w": 3,
+          "o": 6,
           "inning": "South Africa,Afghanistan Inning 1"
         }
       ],
@@ -44,7 +89,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f34af7e2-9ab9-434b-9586-549a41e0744d",
@@ -95,7 +140,7 @@
       "id": "edbad102-f51e-4600-a73f-2aa80094a237",
       "name": "Bangladesh vs Sri Lanka, Group B, Hong Kong Sixes 2026",
       "matchType": "t20",
-      "status": "Sri Lanka won by 5 wkts",
+      "status": "Sri Lanka won by 1 wkts",
       "venue": "Mission Road Ground, Mong Kok",
       "date": "2026-10-30",
       "dateTimeGMT": "2026-10-30T05:20:00",
@@ -449,7 +494,7 @@
       "id": "27c5b49c-f9d5-4114-bf83-e0ce1fd50141",
       "name": "Jersey vs Denmark, 43rd Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Denmark opt to bowl",
+      "status": "Jersey won by 72 runs",
       "venue": "Ruaraka Sports Club Ground, Nairobi",
       "date": "2026-10-30",
       "dateTimeGMT": "2026-10-30T05:30:00",
@@ -469,18 +514,32 @@
           "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 312,
+          "w": 8,
+          "o": 50,
+          "inning": "Jersey Inning 1"
+        },
+        {
+          "r": 240,
+          "w": 10,
+          "o": 47.5,
+          "inning": "Denmark Inning 1"
+        }
+      ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "0d8232bd-00c0-4d63-b647-ef8773fcd19a",
       "name": "Papua New Guinea vs Kuwait, 42nd Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Kuwait opt to bowl",
+      "status": "Kuwait won by 10 wkts",
       "venue": "Gymkhana Club Ground, Nairobi",
       "date": "2026-10-30",
       "dateTimeGMT": "2026-10-30T05:30:00",
@@ -500,12 +559,26 @@
           "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 119,
+          "w": 10,
+          "o": 39.3,
+          "inning": "Papua New Guinea Inning 1"
+        },
+        {
+          "r": 123,
+          "w": 0,
+          "o": 21.3,
+          "inning": "Kuwait Inning 1"
+        }
+      ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "5e5a4c99-ab45-4f16-8593-c9aa1ba0bba6",
@@ -691,7 +764,7 @@
       "id": "ea3f4407-fbeb-4929-ba18-e7511175200b",
       "name": "Namibia vs Ireland, 4th ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
-      "status": "Namibia opt to bowl",
+      "status": "Namibia need 142 runs in 68 balls",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-10-30",
       "dateTimeGMT": "2026-10-30T08:00:00",
@@ -713,10 +786,16 @@
       ],
       "score": [
         {
-          "r": 39,
-          "w": 1,
-          "o": 12,
+          "r": 298,
+          "w": 8,
+          "o": 50,
           "inning": "Ireland Inning 1"
+        },
+        {
+          "r": 157,
+          "w": 9,
+          "o": 38.4,
+          "inning": "Namibia Inning 1"
         }
       ],
       "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
@@ -865,7 +944,7 @@
       "id": "e690b55f-e5ea-4b28-ac72-323d81d14291",
       "name": "Bangladesh vs West Indies, 1st Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 3: 2nd Session - Bangladesh lead by 61 runs",
+      "status": "Day 3: Stumps - Bangladesh lead by 106 runs",
       "venue": "Shere Bangla National Stadium, Dhaka",
       "date": "2026-10-28",
       "dateTimeGMT": "2026-10-28T03:30:00",
@@ -899,9 +978,9 @@
           "inning": "Bangladesh,West Indies Inning 1"
         },
         {
-          "r": 34,
-          "w": 4,
-          "o": 13,
+          "r": 79,
+          "w": 6,
+          "o": 29,
           "inning": "bangladesh Inning 2"
         }
       ],
@@ -1040,51 +1119,6 @@
         }
       ],
       "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e8aa2cac-2d06-4411-9bd5-e28886838071",
-      "name": "Wellington vs Otago, 3rd Match, The Ford Trophy 2026-27",
-      "matchType": "odi",
-      "status": "Otago won by 6 wkts",
-      "venue": "Basin Reserve, Wellington",
-      "date": "2026-10-28",
-      "dateTimeGMT": "2026-10-28T21:30:00",
-      "teams": [
-        "Wellington",
-        "Otago"
-      ],
-      "teamInfo": [
-        {
-          "name": "Otago",
-          "shortname": "OTG",
-          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
-        },
-        {
-          "name": "Wellington",
-          "shortname": "WEL",
-          "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 213,
-          "w": 10,
-          "o": 48.1,
-          "inning": "Wellington Inning 1"
-        },
-        {
-          "r": 214,
-          "w": 4,
-          "o": 37.1,
-          "inning": "Otago Inning 1"
-        }
-      ],
-      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
