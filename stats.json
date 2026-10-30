@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T14:38:23.624Z",
+  "lastUpdated": "2026-10-30T23:31:05.511Z",
   "recentMatches": [
     {
       "id": "8423f37a-7e8b-4509-a5ce-68ba23aca74c",
@@ -764,7 +764,7 @@
       "id": "ea3f4407-fbeb-4929-ba18-e7511175200b",
       "name": "Namibia vs Ireland, 4th ODI, Ireland tour of Namibia, 2026",
       "matchType": "odi",
-      "status": "Namibia need 142 runs in 68 balls",
+      "status": "Ireland won by 130 runs",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-10-30",
       "dateTimeGMT": "2026-10-30T08:00:00",
@@ -792,9 +792,9 @@
           "inning": "Ireland Inning 1"
         },
         {
-          "r": 157,
-          "w": 9,
-          "o": 38.4,
+          "r": 168,
+          "w": 10,
+          "o": 41,
           "inning": "Namibia Inning 1"
         }
       ],
@@ -803,7 +803,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
