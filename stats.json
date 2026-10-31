@@ -1,6 +1,391 @@
 {
-  "lastUpdated": "2026-10-30T23:31:05.511Z",
+  "lastUpdated": "2026-10-31T08:12:13.023Z",
   "recentMatches": [
+    {
+      "id": "fff79a10-9584-4062-b812-31ecea3c72d3",
+      "name": "Scotland vs Afghanistan, Cup, Semi Final 2, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Scotland opt to bowl",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T08:05:00",
+      "teams": [
+        "Scotland",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "06484c44-55d5-4300-8d8f-68ed59595817",
+      "name": "Australia vs United Arab Emirates, Cup, Semi Final 1, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates need 84 runs in 17 balls",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T07:10:00",
+      "teams": [
+        "Australia",
+        "United Arab Emirates"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 141,
+          "w": 3,
+          "o": 6,
+          "inning": "australia Inning 1"
+        },
+        {
+          "r": 58,
+          "w": 2,
+          "o": 3.1,
+          "inning": "Australia,United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "655281f7-30a2-44fa-b180-37f0ff0b82e8",
+      "name": "Hong Kong, China vs Pakistan, Plate, Semi Final 2, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Pakistan won by 6 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T06:15:00",
+      "teams": [
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 106,
+          "w": 3,
+          "o": 6,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 107,
+          "w": 0,
+          "o": 4.3,
+          "inning": " Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "274baeb3-e417-4854-8580-1b1edee65433",
+      "name": "Sri Lanka vs Oman, Plate, Semi Final 1, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Oman won by 5 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T05:20:00",
+      "teams": [
+        "Sri Lanka",
+        "Oman"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 92,
+          "w": 5,
+          "o": 6,
+          "inning": "Sri Lanka Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 1,
+          "o": 4.4,
+          "inning": "Oman Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8d266c50-c07f-4eb5-afc3-323662074b84",
+      "name": "England vs India, Bowl, Semi Final 2, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "England won by 3 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T04:25:00",
+      "teams": [
+        "England",
+        "India"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 124,
+          "w": 2,
+          "o": 6,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 4,
+          "o": 6,
+          "inning": "India Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "98709e54-eaae-4896-933c-cc0e05cf535a",
+      "name": "Bangladesh vs South Africa, Bowl, Semi Final 1, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "South Africa won by 1 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T03:30:00",
+      "teams": [
+        "Bangladesh",
+        "South Africa"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 129,
+          "w": 4,
+          "o": 6,
+          "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 5,
+          "o": 6,
+          "inning": "South Africa Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bda1cadb-9362-4905-aead-dde1fcb00f70",
+      "name": "United Arab Emirates vs India, Group C, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates won by 6 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T02:35:00",
+      "teams": [
+        "United Arab Emirates",
+        "India"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 94,
+          "w": 6,
+          "o": 6,
+          "inning": "India Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 0,
+          "o": 4.2,
+          "inning": "United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3dde79e5-6a4a-470e-bef8-437c22a93fcd",
+      "name": "Scotland vs Sri Lanka, Group B, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Scotland won by 26 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T01:40:00",
+      "teams": [
+        "Scotland",
+        "Sri Lanka"
+      ],
+      "teamInfo": [
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 144,
+          "w": 4,
+          "o": 6,
+          "inning": "Scotland Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 3,
+          "o": 6,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9f45e001-902f-4cd1-8987-4b5707925c4d",
+      "name": "Oman vs Afghanistan, Group D, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Afghanistan won by 4 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T00:45:00",
+      "teams": [
+        "Oman",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 4,
+          "o": 6,
+          "inning": "oman Inning 1"
+        },
+        {
+          "r": 125,
+          "w": 2,
+          "o": 5.2,
+          "inning": "Oman,Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "8423f37a-7e8b-4509-a5ce-68ba23aca74c",
       "name": "England vs Australia, Group A, Hong Kong Sixes 2026",
@@ -401,6 +786,45 @@
       "matchEnded": true
     },
     {
+      "id": "b2ee518b-8d47-430d-a28b-034dcac40cea",
+      "name": "United Arab Emirates vs Netherlands, 143rd Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Netherlands opt to bat",
+      "venue": "ICC Academy Ground, Dubai",
+      "date": "2026-10-31",
+      "dateTimeGMT": "2026-10-31T05:30:00",
+      "teams": [
+        "United Arab Emirates",
+        "Netherlands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 182,
+          "w": 4,
+          "o": 37.5,
+          "inning": "netherlands Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "5dfe214e-3c24-4553-a0eb-a8d6ae12c063",
       "name": "United Arab Emirates vs Oman, 142nd Match, ICC Cricket World Cup League Two 2023-27",
       "matchType": "odi",
@@ -667,461 +1091,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "49d7bcea-8240-452a-aac0-fcf53e765849",
-      "name": "Kuwait vs Jersey, 39th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Kuwait won by 7 wkts",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
-      "date": "2026-10-27",
-      "dateTimeGMT": "2026-10-27T05:30:00",
-      "teams": [
-        "Kuwait",
-        "Jersey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        },
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 224,
-          "w": 10,
-          "o": 50,
-          "inning": "Jersey Inning 1"
-        },
-        {
-          "r": 225,
-          "w": 3,
-          "o": 33.4,
-          "inning": "Kuwait Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7b72f68e-5e02-483e-857c-08037e12971d",
-      "name": "Qatar vs Papua New Guinea, 38th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Qatar won by 9 wkts",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-27",
-      "dateTimeGMT": "2026-10-27T05:30:00",
-      "teams": [
-        "Qatar",
-        "Papua New Guinea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 155,
-          "w": 10,
-          "o": 36.3,
-          "inning": "papua new guinea Inning 1"
-        },
-        {
-          "r": 157,
-          "w": 1,
-          "o": 14.5,
-          "inning": "Qatar,Papua New Guinea Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ea3f4407-fbeb-4929-ba18-e7511175200b",
-      "name": "Namibia vs Ireland, 4th ODI, Ireland tour of Namibia, 2026",
-      "matchType": "odi",
-      "status": "Ireland won by 130 runs",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-10-30",
-      "dateTimeGMT": "2026-10-30T08:00:00",
-      "teams": [
-        "Namibia",
-        "Ireland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 298,
-          "w": 8,
-          "o": 50,
-          "inning": "Ireland Inning 1"
-        },
-        {
-          "r": 168,
-          "w": 10,
-          "o": 41,
-          "inning": "Namibia Inning 1"
-        }
-      ],
-      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
-      "name": "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
-      "matchType": "odi",
-      "status": "Namibia won by 63 runs",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-10-27",
-      "dateTimeGMT": "2026-10-27T08:00:00",
-      "teams": [
-        "Namibia",
-        "Ireland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 316,
-          "w": 7,
-          "o": 50,
-          "inning": "namibia Inning 1"
-        },
-        {
-          "r": 253,
-          "w": 10,
-          "o": 44.5,
-          "inning": "Namibia,Ireland Inning 1"
-        }
-      ],
-      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "074cb065-c64b-476a-89df-b6bcde4da715",
-      "name": "Sri Lanka vs England, 6th Match, Pakistan ODI Tri-Series, 2026",
-      "matchType": "odi",
-      "status": "England won by 55 runs",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-10-29",
-      "dateTimeGMT": "2026-10-29T08:00:00",
-      "teams": [
-        "Sri Lanka",
-        "England"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 386,
-          "w": 5,
-          "o": 50,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 331,
-          "w": 10,
-          "o": 45.1,
-          "inning": "Sri Lanka Inning 1"
-        }
-      ],
-      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "bf282a4a-7348-487c-8b5c-12f2ac3f4237",
-      "name": "Pakistan vs Sri Lanka, 5th Match, Pakistan ODI Tri-Series, 2026",
-      "matchType": "odi",
-      "status": "Sri Lanka won by 8 wkts",
-      "venue": "Gaddafi Stadium, Lahore",
-      "date": "2026-10-27",
-      "dateTimeGMT": "2026-10-27T08:00:00",
-      "teams": [
-        "Pakistan",
-        "Sri Lanka"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 110,
-          "w": 10,
-          "o": 25.3,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 114,
-          "w": 2,
-          "o": 18.1,
-          "inning": "Sri Lanka Inning 1"
-        }
-      ],
-      "series_id": "4ae8cc66-cc9c-4e5f-b404-3bdc1e9a3a54",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e690b55f-e5ea-4b28-ac72-323d81d14291",
-      "name": "Bangladesh vs West Indies, 1st Test, West Indies tour of Bangladesh, 2026",
-      "matchType": "test",
-      "status": "Day 3: Stumps - Bangladesh lead by 106 runs",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "date": "2026-10-28",
-      "dateTimeGMT": "2026-10-28T03:30:00",
-      "teams": [
-        "Bangladesh",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 272,
-          "w": 10,
-          "o": 97.4,
-          "inning": "bangladesh Inning 1"
-        },
-        {
-          "r": 245,
-          "w": 10,
-          "o": 82.5,
-          "inning": "Bangladesh,West Indies Inning 1"
-        },
-        {
-          "r": 79,
-          "w": 6,
-          "o": 29,
-          "inning": "bangladesh Inning 2"
-        }
-      ],
-      "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "d153b19d-6528-4b07-9dc1-5c03c8112df1",
-      "name": "Afghanistan vs Zimbabwe, 2nd T20I, Afghanistan vs Zimbabwe in UAE, 2026",
-      "matchType": "t20",
-      "status": "Afghanistan won by 19 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-29",
-      "dateTimeGMT": "2026-10-29T14:30:00",
-      "teams": [
-        "Afghanistan",
-        "Zimbabwe"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 221,
-          "w": 7,
-          "o": 20,
-          "inning": "Afghanistan Inning 1"
-        },
-        {
-          "r": 202,
-          "w": 5,
-          "o": 20,
-          "inning": "Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1950e564-6c89-4a51-bd21-4b7413137434",
-      "name": "Afghanistan vs Zimbabwe, 1st T20I, Afghanistan vs Zimbabwe in UAE, 2026",
-      "matchType": "t20",
-      "status": "Afghanistan won by 37 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-10-27",
-      "dateTimeGMT": "2026-10-27T14:30:00",
-      "teams": [
-        "Afghanistan",
-        "Zimbabwe"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 177,
-          "w": 10,
-          "o": 19.5,
-          "inning": "Afghanistan Inning 1"
-        },
-        {
-          "r": 140,
-          "w": 10,
-          "o": 19.1,
-          "inning": "Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7dc5c9c9-4924-4e36-a7a2-1f7eda3d5080",
-      "name": "India Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of India, 2026",
-      "status": "India Women won by 8 wkts",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2026-10-28",
-      "dateTimeGMT": "2026-10-28T08:30:00",
-      "teams": [
-        "India Women",
-        "Zimbabwe Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "India Women",
-          "shortname": "INDW",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe Women",
-          "shortname": "ZIMW",
-          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 131,
-          "w": 10,
-          "o": 39.5,
-          "inning": "zimbabwe women Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 2,
-          "o": 17,
-          "inning": "India Women,Zimbabwe Women Inning 1"
-        }
-      ],
-      "series_id": "88529516-4e91-432b-b99b-1fdb57ffa1b7",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
