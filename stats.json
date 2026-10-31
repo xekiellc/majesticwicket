@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T13:56:57.421Z",
+  "lastUpdated": "2026-10-31T18:23:03.441Z",
   "recentMatches": [
     {
       "id": "fff79a10-9584-4062-b812-31ecea3c72d3",
@@ -938,7 +938,7 @@
       "id": "ee45ad1a-a5b0-4937-af89-008128f61159",
       "name": "Qatar vs Jersey, 45th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Qatar need 148 runs",
+      "status": "Jersey won by 34 runs  -  Match reduced to 24 overs due to rain",
       "venue": "Ruaraka Sports Club Ground, Nairobi",
       "date": "2026-10-31",
       "dateTimeGMT": "2026-10-31T05:30:00",
@@ -966,9 +966,9 @@
           "inning": "Jersey Inning 1"
         },
         {
-          "r": 47,
-          "w": 1,
-          "o": 6,
+          "r": 160,
+          "w": 10,
+          "o": 22.2,
           "inning": "Qatar Inning 1"
         }
       ],
@@ -977,13 +977,13 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "1c1a6a2d-bc5d-49e2-af3f-16670e2fdd31",
       "name": "Kenya vs Papua New Guinea, 44th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
-      "status": "Papua New Guinea need 147 runs - Match reduced to 38 overs due to rain",
+      "status": "Kenya won by 88 runs  -  Match reduced to 38 overs due to rain",
       "venue": "Gymkhana Club Ground, Nairobi",
       "date": "2026-10-31",
       "dateTimeGMT": "2026-10-31T05:30:00",
@@ -1011,9 +1011,9 @@
           "inning": "Kenya Inning 1"
         },
         {
-          "r": 84,
-          "w": 4,
-          "o": 18,
+          "r": 142,
+          "w": 10,
+          "o": 30.1,
           "inning": "Papua New Guinea Inning 1"
         }
       ],
@@ -1022,7 +1022,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "27c5b49c-f9d5-4114-bf83-e0ce1fd50141",
