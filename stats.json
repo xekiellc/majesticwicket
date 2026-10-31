@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T18:23:03.441Z",
+  "lastUpdated": "2026-10-31T23:11:20.260Z",
   "recentMatches": [
     {
       "id": "fff79a10-9584-4062-b812-31ecea3c72d3",
@@ -890,51 +890,6 @@
       "matchEnded": true
     },
     {
-      "id": "df5dd379-9372-490a-99d2-b6b54a17f9a5",
-      "name": "Netherlands vs Oman, 141st Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Netherlands won by 106 runs",
-      "venue": "ICC Academy Ground, Dubai",
-      "date": "2026-10-27",
-      "dateTimeGMT": "2026-10-27T05:30:00",
-      "teams": [
-        "Netherlands",
-        "Oman"
-      ],
-      "teamInfo": [
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 371,
-          "w": 5,
-          "o": 50,
-          "inning": "Netherlands Inning 1"
-        },
-        {
-          "r": 265,
-          "w": 10,
-          "o": 49.3,
-          "inning": "Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "ee45ad1a-a5b0-4937-af89-008128f61159",
       "name": "Qatar vs Jersey, 45th Match, ICC CWC Challenge League A, 2024-26",
       "matchType": "odi",
@@ -1105,6 +1060,51 @@
           "w": 0,
           "o": 21.3,
           "inning": "Kuwait Inning 1"
+        }
+      ],
+      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5e5a4c99-ab45-4f16-8593-c9aa1ba0bba6",
+      "name": "Qatar vs Denmark, 40th Match, ICC CWC Challenge League A, 2024-26",
+      "matchType": "odi",
+      "status": "Denmark won by 52 runs",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "date": "2026-10-28",
+      "dateTimeGMT": "2026-10-28T05:30:00",
+      "teams": [
+        "Qatar",
+        "Denmark"
+      ],
+      "teamInfo": [
+        {
+          "name": "Denmark",
+          "shortname": "DEN",
+          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
+        },
+        {
+          "name": "Qatar",
+          "shortname": "QAT",
+          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 10,
+          "o": 36.2,
+          "inning": "denmark Inning 1"
+        },
+        {
+          "r": 68,
+          "w": 10,
+          "o": 16.2,
+          "inning": "Qatar,Denmark Inning 1"
         }
       ],
       "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
