@@ -1,6 +1,276 @@
 {
-  "lastUpdated": "2026-10-31T23:11:20.260Z",
+  "lastUpdated": "2026-11-01T08:56:56.324Z",
   "recentMatches": [
+    {
+      "id": "92747aca-aecc-4e0a-b45b-add77e2cfe06",
+      "name": "Australia vs Afghanistan, Cup, Final, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Afghanistan won by 4 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-11-01",
+      "dateTimeGMT": "2026-11-01T07:10:00",
+      "teams": [
+        "Australia",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 115,
+          "w": 4,
+          "o": 6,
+          "inning": "australia Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 2,
+          "o": 5.1,
+          "inning": "Australia,Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "894b34bc-9eea-42fd-ae32-ccbf5ea4755e",
+      "name": "Oman vs Pakistan, Plate, Final, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Pakistan won by 18 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-11-01",
+      "dateTimeGMT": "2026-11-01T06:15:00",
+      "teams": [
+        "Oman",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 154,
+          "w": 4,
+          "o": 6,
+          "inning": "Pakistan Inning 1"
+        },
+        {
+          "r": 136,
+          "w": 4,
+          "o": 6,
+          "inning": "Oman Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "262e1165-d8dd-499d-a45a-50b8b69154b9",
+      "name": "South Africa vs England, Bowl, Final, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "South Africa won by 5 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-11-01",
+      "dateTimeGMT": "2026-11-01T05:20:00",
+      "teams": [
+        "South Africa",
+        "England"
+      ],
+      "teamInfo": [
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        },
+        {
+          "name": "South Africa",
+          "shortname": "RSA",
+          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 95,
+          "w": 6,
+          "o": 6,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 1,
+          "o": 5.1,
+          "inning": "South Africa Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "25f3a2af-fe6b-4adf-bd36-8e13f464ba70",
+      "name": "United Arab Emirates vs Scotland, 3rd/4th Cup, Play-off, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Scotland won by 45 runs",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-11-01",
+      "dateTimeGMT": "2026-11-01T03:30:00",
+      "teams": [
+        "United Arab Emirates",
+        "Scotland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Scotland",
+          "shortname": "SCO",
+          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 135,
+          "w": 0,
+          "o": 6,
+          "inning": "Scotland Inning 1"
+        },
+        {
+          "r": 90,
+          "w": 3,
+          "o": 6,
+          "inning": "United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7db252f7-80f5-4049-9419-4ba78bab4449",
+      "name": "Sri Lanka vs Hong Kong, China, 7th/8th Plate, Play-off, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "Hong Kong, China won by 1 run",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-11-01",
+      "dateTimeGMT": "2026-11-01T02:35:00",
+      "teams": [
+        "Sri Lanka",
+        "Hong Kong"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hong Kong",
+          "shortname": "HKG",
+          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 119,
+          "w": 0,
+          "o": 6,
+          "inning": "Hong Kong Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 4,
+          "o": 6,
+          "inning": "Sri Lanka Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d342801e-1419-4024-880a-7e0faa697a63",
+      "name": "Bangladesh vs India, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026",
+      "matchType": "t20",
+      "status": "India won by 5 wkts",
+      "venue": "Mission Road Ground, Mong Kok",
+      "date": "2026-11-01",
+      "dateTimeGMT": "2026-11-01T01:40:00",
+      "teams": [
+        "Bangladesh",
+        "India"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 5,
+          "o": 6,
+          "inning": "Bangladesh Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 1,
+          "o": 6,
+          "inning": "India Inning 1"
+        }
+      ],
+      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "fff79a10-9584-4062-b812-31ecea3c72d3",
       "name": "Scotland vs Afghanistan, Cup, Semi Final 2, Hong Kong Sixes 2026",
@@ -838,276 +1108,6 @@
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5dfe214e-3c24-4553-a0eb-a8d6ae12c063",
-      "name": "United Arab Emirates vs Oman, 142nd Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United Arab Emirates won by 4 wkts",
-      "venue": "ICC Academy Ground, Dubai",
-      "date": "2026-10-29",
-      "dateTimeGMT": "2026-10-29T05:30:00",
-      "teams": [
-        "United Arab Emirates",
-        "Oman"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 196,
-          "w": 10,
-          "o": 45.1,
-          "inning": "Oman Inning 1"
-        },
-        {
-          "r": 199,
-          "w": 6,
-          "o": 47.3,
-          "inning": "United Arab Emirates Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "ee45ad1a-a5b0-4937-af89-008128f61159",
-      "name": "Qatar vs Jersey, 45th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Jersey won by 34 runs  -  Match reduced to 24 overs due to rain",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
-      "date": "2026-10-31",
-      "dateTimeGMT": "2026-10-31T05:30:00",
-      "teams": [
-        "Qatar",
-        "Jersey"
-      ],
-      "teamInfo": [
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 194,
-          "w": 8,
-          "o": 24,
-          "inning": "Jersey Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 10,
-          "o": 22.2,
-          "inning": "Qatar Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1c1a6a2d-bc5d-49e2-af3f-16670e2fdd31",
-      "name": "Kenya vs Papua New Guinea, 44th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Kenya won by 88 runs  -  Match reduced to 38 overs due to rain",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-31",
-      "dateTimeGMT": "2026-10-31T05:30:00",
-      "teams": [
-        "Kenya",
-        "Papua New Guinea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 230,
-          "w": 7,
-          "o": 38,
-          "inning": "Kenya Inning 1"
-        },
-        {
-          "r": 142,
-          "w": 10,
-          "o": 30.1,
-          "inning": "Papua New Guinea Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "27c5b49c-f9d5-4114-bf83-e0ce1fd50141",
-      "name": "Jersey vs Denmark, 43rd Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Jersey won by 72 runs",
-      "venue": "Ruaraka Sports Club Ground, Nairobi",
-      "date": "2026-10-30",
-      "dateTimeGMT": "2026-10-30T05:30:00",
-      "teams": [
-        "Jersey",
-        "Denmark"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Jersey",
-          "shortname": "JER",
-          "img": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 312,
-          "w": 8,
-          "o": 50,
-          "inning": "Jersey Inning 1"
-        },
-        {
-          "r": 240,
-          "w": 10,
-          "o": 47.5,
-          "inning": "Denmark Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0d8232bd-00c0-4d63-b647-ef8773fcd19a",
-      "name": "Papua New Guinea vs Kuwait, 42nd Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Kuwait won by 10 wkts",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-30",
-      "dateTimeGMT": "2026-10-30T05:30:00",
-      "teams": [
-        "Papua New Guinea",
-        "Kuwait"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kuwait",
-          "shortname": "KUW",
-          "img": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 119,
-          "w": 10,
-          "o": 39.3,
-          "inning": "Papua New Guinea Inning 1"
-        },
-        {
-          "r": 123,
-          "w": 0,
-          "o": 21.3,
-          "inning": "Kuwait Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "5e5a4c99-ab45-4f16-8593-c9aa1ba0bba6",
-      "name": "Qatar vs Denmark, 40th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Denmark won by 52 runs",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-28",
-      "dateTimeGMT": "2026-10-28T05:30:00",
-      "teams": [
-        "Qatar",
-        "Denmark"
-      ],
-      "teamInfo": [
-        {
-          "name": "Denmark",
-          "shortname": "DEN",
-          "img": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48"
-        },
-        {
-          "name": "Qatar",
-          "shortname": "QAT",
-          "img": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 120,
-          "w": 10,
-          "o": 36.2,
-          "inning": "denmark Inning 1"
-        },
-        {
-          "r": 68,
-          "w": 10,
-          "o": 16.2,
-          "inning": "Qatar,Denmark Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
