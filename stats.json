@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-11-01T23:25:33.774Z",
+  "lastUpdated": "2026-11-02T09:08:14.234Z",
   "recentMatches": [
+    {
+      "id": "1ad639fd-dee9-4c10-9184-9e442b570e78",
+      "name": "Karnali Yaks vs Kathmandu Gorkhas, 10th Match, Nepal Premier League 2026",
+      "matchType": "t20",
+      "status": "Kathmandu Gorkhas need 154 runs",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-11-02",
+      "dateTimeGMT": "2026-11-02T06:45:00",
+      "teams": [
+        "Karnali Yaks",
+        "Kathmandu Gorkhas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Karnali Yaks",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kathmandu Gorkhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 180,
+          "w": 6,
+          "o": 20,
+          "inning": "Karnali Yaks Inning 1"
+        },
+        {
+          "r": 27,
+          "w": 1,
+          "o": 3.2,
+          "inning": "Kathmandu Gorkhas Inning 1"
+        }
+      ],
+      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "92747aca-aecc-4e0a-b45b-add77e2cfe06",
       "name": "Australia vs Afghanistan, Cup, Final, Hong Kong Sixes 2026",
@@ -42,7 +85,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -87,7 +130,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -132,7 +175,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -177,7 +220,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -222,7 +265,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -267,7 +310,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -312,7 +355,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -357,7 +400,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -441,7 +484,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -486,7 +529,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -531,7 +574,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -576,7 +619,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -621,7 +664,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -666,7 +709,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -711,7 +754,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -756,7 +799,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -801,7 +844,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -846,7 +889,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -930,7 +973,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -975,7 +1018,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -1020,7 +1063,7 @@
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -1063,51 +1106,6 @@
         }
       ],
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "b2ee518b-8d47-430d-a28b-034dcac40cea",
-      "name": "United Arab Emirates vs Netherlands, 143rd Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "United Arab Emirates won by 5 wkts",
-      "venue": "ICC Academy Ground, Dubai",
-      "date": "2026-10-31",
-      "dateTimeGMT": "2026-10-31T05:30:00",
-      "teams": [
-        "United Arab Emirates",
-        "Netherlands"
-      ],
-      "teamInfo": [
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 263,
-          "w": 4,
-          "o": 50,
-          "inning": "netherlands Inning 1"
-        },
-        {
-          "r": 266,
-          "w": 5,
-          "o": 49,
-          "inning": "United Arab Emirates,Netherlands Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
