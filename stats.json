@@ -1,11 +1,54 @@
 {
-  "lastUpdated": "2026-11-02T09:08:14.234Z",
+  "lastUpdated": "2026-11-02T17:29:42.660Z",
   "recentMatches": [
+    {
+      "id": "61292707-79ae-4976-91ba-5c5db4d4d24b",
+      "name": "Chitwan Rhinos vs Sudur Paschim Royals, 11th Match, Nepal Premier League 2026",
+      "matchType": "t20",
+      "status": "Sudur Paschim Royals won by 5 wkts",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-11-02",
+      "dateTimeGMT": "2026-11-02T10:45:00",
+      "teams": [
+        "Chitwan Rhinos",
+        "Sudur Paschim Royals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Chitwan Rhinos",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sudur Paschim Royals",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 129,
+          "w": 6,
+          "o": 20,
+          "inning": "Chitwan Rhinos Inning 1"
+        },
+        {
+          "r": 131,
+          "w": 5,
+          "o": 16.4,
+          "inning": "Sudur Paschim Royals Inning 1"
+        }
+      ],
+      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "1ad639fd-dee9-4c10-9184-9e442b570e78",
       "name": "Karnali Yaks vs Kathmandu Gorkhas, 10th Match, Nepal Premier League 2026",
       "matchType": "t20",
-      "status": "Kathmandu Gorkhas need 154 runs",
+      "status": "Kathmandu Gorkhas won by 4 wkts",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-11-02",
       "dateTimeGMT": "2026-11-02T06:45:00",
@@ -31,9 +74,9 @@
           "inning": "Karnali Yaks Inning 1"
         },
         {
-          "r": 27,
-          "w": 1,
-          "o": 3.2,
+          "r": 181,
+          "w": 6,
+          "o": 19.4,
           "inning": "Kathmandu Gorkhas Inning 1"
         }
       ],
@@ -42,7 +85,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "92747aca-aecc-4e0a-b45b-add77e2cfe06",
@@ -1058,51 +1101,6 @@
           "w": 4,
           "o": 6,
           "inning": "Scotland Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1b1a335c-8388-4822-84da-f0403f48bd45",
-      "name": "Australia vs Hong Kong, China, Group A, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "Australia won by 28 runs",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-10-30",
-      "dateTimeGMT": "2026-10-30T00:45:00",
-      "teams": [
-        "Australia",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        },
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 135,
-          "w": 2,
-          "o": 6,
-          "inning": "AustraliaHong Kong Inning 1"
-        },
-        {
-          "r": 107,
-          "w": 4,
-          "o": 6,
-          "inning": "Australia,Hong Kong Inning 1"
         }
       ],
       "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
