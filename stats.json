@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T00:28:59.726Z",
+  "lastUpdated": "2026-11-04T08:50:39.043Z",
   "recentMatches": [
     {
       "id": "e743011d-9258-4036-ae9e-e205c96c917f",
@@ -843,6 +843,51 @@
       "matchEnded": true
     },
     {
+      "id": "537ccc9a-901e-4ab0-90e8-eda0d1a9960a",
+      "name": "West Indies A vs England Lions, 2nd T20, England Lions tour of West Indies, 2026",
+      "matchType": "t20",
+      "status": "England Lions won by 17 runs",
+      "venue": "Conaree Sports Club, Basseterre, St Kitts",
+      "date": "2026-11-03",
+      "dateTimeGMT": "2026-11-03T18:00:00",
+      "teams": [
+        "West Indies A",
+        "England Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Lions",
+          "shortname": "ENGL",
+          "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
+        },
+        {
+          "name": "West Indies A",
+          "shortname": "WIA",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 151,
+          "w": 10,
+          "o": 18.5,
+          "inning": "England Lions Inning 1"
+        },
+        {
+          "r": 134,
+          "w": 7,
+          "o": 20,
+          "inning": "West Indies A Inning 1"
+        }
+      ],
+      "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "0a981b26-c75c-4d6a-8940-3fc3af9d54bd",
       "name": "West Indies A vs England Lions, 1st T20, England Lions tour of West Indies, 2026",
       "matchType": "t20",
@@ -886,6 +931,45 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "8d8e9784-d2ad-4663-a079-3df4db0a0a71",
+      "name": "United Arab Emirates vs Oman, 145th Match, ICC Cricket World Cup League Two 2023-27",
+      "matchType": "odi",
+      "status": "Oman opt to bowl",
+      "venue": "ICC Academy Ground, Dubai",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T05:30:00",
+      "teams": [
+        "United Arab Emirates",
+        "Oman"
+      ],
+      "teamInfo": [
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 221,
+          "w": 7,
+          "o": 49,
+          "inning": "United Arab Emirates Inning 1"
+        }
+      ],
+      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "a4a902f2-006c-49ad-9691-3baae52659bb",
@@ -1019,96 +1103,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1c1a6a2d-bc5d-49e2-af3f-16670e2fdd31",
-      "name": "Kenya vs Papua New Guinea, 44th Match, ICC CWC Challenge League A, 2024-26",
-      "matchType": "odi",
-      "status": "Kenya won by 88 runs  -  Match reduced to 38 overs due to rain",
-      "venue": "Gymkhana Club Ground, Nairobi",
-      "date": "2026-10-31",
-      "dateTimeGMT": "2026-10-31T05:30:00",
-      "teams": [
-        "Kenya",
-        "Papua New Guinea"
-      ],
-      "teamInfo": [
-        {
-          "name": "Kenya",
-          "shortname": "KEN",
-          "img": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=48"
-        },
-        {
-          "name": "Papua New Guinea",
-          "shortname": "PNG",
-          "img": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 230,
-          "w": 7,
-          "o": 38,
-          "inning": "Kenya Inning 1"
-        },
-        {
-          "r": 142,
-          "w": 10,
-          "o": 30.1,
-          "inning": "Papua New Guinea Inning 1"
-        }
-      ],
-      "series_id": "fca4f99a-269b-4fac-b6d0-4a7f70c6472e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "83d4f7ed-e83e-4a70-ba8b-602090d777b1",
-      "name": "Namibia vs Ireland, 5th ODI, Ireland tour of Namibia, 2026",
-      "matchType": "odi",
-      "status": "Namibia won by 5 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T08:00:00",
-      "teams": [
-        "Namibia",
-        "Ireland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 10,
-          "o": 33.1,
-          "inning": "ireland Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 5,
-          "o": 21.2,
-          "inning": "Namibia,Ireland Inning 1"
-        }
-      ],
-      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
