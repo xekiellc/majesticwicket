@@ -1,11 +1,54 @@
 {
-  "lastUpdated": "2026-11-05T09:14:31.205Z",
+  "lastUpdated": "2026-11-05T15:51:29.884Z",
   "recentMatches": [
+    {
+      "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
+      "name": "Biratnagar Kings vs Kathmandu Gorkhas, 15th Match, Nepal Premier League 2026",
+      "matchType": "t20",
+      "status": "Kathmandu Gorkhas won by 9 wkts",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2026-11-05",
+      "dateTimeGMT": "2026-11-05T10:45:00",
+      "teams": [
+        "Biratnagar Kings",
+        "Kathmandu Gorkhas"
+      ],
+      "teamInfo": [
+        {
+          "name": "Biratnagar Kings",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Kathmandu Gorkhas",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 83,
+          "w": 10,
+          "o": 18.3,
+          "inning": "Biratnagar Kings Inning 1"
+        },
+        {
+          "r": 86,
+          "w": 1,
+          "o": 9.4,
+          "inning": "Kathmandu Gorkhas Inning 1"
+        }
+      ],
+      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "a8e562f2-154c-4af1-84d1-9b346393678b",
       "name": "Janakpur Bolts vs Lumbini Lions, 14th Match, Nepal Premier League 2026",
       "matchType": "t20",
-      "status": "Janakpur Bolts need 102 runs in 70 balls",
+      "status": "Lumbini Lions won by 16 runs",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T06:45:00",
@@ -31,9 +74,9 @@
           "inning": "Lumbini Lions Inning 1"
         },
         {
-          "r": 48,
-          "w": 2,
-          "o": 8.2,
+          "r": 133,
+          "w": 8,
+          "o": 20,
           "inning": "Janakpur Bolts Inning 1"
         }
       ],
@@ -42,7 +85,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "e743011d-9258-4036-ae9e-e205c96c917f",
@@ -715,7 +758,7 @@
       "id": "7b5135ce-6494-4ac9-97cd-87999a602d5b",
       "name": "Bangladesh U19 vs Afghanistan U19, 2nd Match, Group B, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "Afghanistan U19 opt to bat",
+      "status": "Afghanistan U19 won by 113 runs",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T05:00:00",
@@ -738,9 +781,15 @@
       "score": [
         {
           "r": 231,
-          "w": 9,
-          "o": 48.5,
+          "w": 10,
+          "o": 49,
           "inning": "afghanistan u19 Inning 1"
+        },
+        {
+          "r": 118,
+          "w": 10,
+          "o": 25.5,
+          "inning": "Bangladesh U19,Afghanistan U19 Inning 1"
         }
       ],
       "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
@@ -748,13 +797,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "a7347ac9-842a-45a1-bd41-2c3cabdb01d3",
       "name": "Sri Lanka U19 vs Malaysia U19, 1st Match, Group B, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "Sri Lanka U19 need 69 runs",
+      "status": "Sri Lanka U19 won by 9 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T05:00:00",
@@ -781,9 +830,9 @@
           "inning": "Malaysia U19 Inning 1"
         },
         {
-          "r": 18,
+          "r": 91,
           "w": 1,
-          "o": 5,
+          "o": 13.5,
           "inning": "Sri Lanka U19 Inning 1"
         }
       ],
@@ -843,7 +892,7 @@
       "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
       "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: 3rd Session - West Indies opt to bat",
+      "status": "Day 1: Stumps - West Indies opt to bat",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T03:30:00",
@@ -865,9 +914,9 @@
       ],
       "score": [
         {
-          "r": 214,
+          "r": 235,
           "w": 4,
-          "o": 64.1,
+          "o": 70,
           "inning": "west indies Inning 1"
         }
       ],
@@ -881,7 +930,7 @@
     {
       "id": "8ad504bb-250d-41e3-b7cc-12cb65ea6e32",
       "name": "Afghanistan vs Zimbabwe, 1st Test, Afghanistan vs Zimbabwe in UAE, 2026",
-      "status": "Day 1: 2nd Session - Zimbabwe opt to bat",
+      "status": "Day 1: Stumps - Zimbabwe opt to bat",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T05:30:00",
@@ -903,9 +952,9 @@
       ],
       "score": [
         {
-          "r": 125,
-          "w": 2,
-          "o": 34.5,
+          "r": 326,
+          "w": 5,
+          "o": 87,
           "inning": "zimbabwe Inning 1"
         }
       ],
@@ -962,6 +1011,44 @@
       "matchEnded": true
     },
     {
+      "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
+      "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
+      "status": "Day 1: Stumps - Ireland A opt to bat",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T07:30:00",
+      "teams": [
+        "Zimbabwe A",
+        "Ireland A"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland A",
+          "shortname": "IRA",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Zimbabwe A",
+          "shortname": "ZIM-A",
+          "img": "https://g.cricapi.com/iapi/1140-637877079926865220.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 420,
+          "w": 9,
+          "o": 90,
+          "inning": "ireland a Inning 1"
+        }
+      ],
+      "series_id": "55616b78-3f8c-429a-b9c2-cf73c72d4cd4",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
       "id": "f6f37400-8288-45fb-b29f-2e6b4129f2c3",
       "name": "Central Stags vs Auckland, 7th Match, The Ford Trophy 2026-27",
       "matchType": "odi",
@@ -997,96 +1084,6 @@
           "w": 10,
           "o": 45.5,
           "inning": "Central Stags,Auckland Inning 1"
-        }
-      ],
-      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "50b58369-2263-4b6e-adf2-0e616732fd0f",
-      "name": "Wellington vs Northern Districts, 8th Match, The Ford Trophy 2026-27",
-      "matchType": "odi",
-      "status": "Wellington won by 202 runs",
-      "venue": "Basin Reserve, Wellington",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T21:30:00",
-      "teams": [
-        "Wellington",
-        "Northern Districts"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northern Districts",
-          "shortname": "ND",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Wellington",
-          "shortname": "WEL",
-          "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 354,
-          "w": 7,
-          "o": 50,
-          "inning": "Wellington Inning 1"
-        },
-        {
-          "r": 152,
-          "w": 10,
-          "o": 35.1,
-          "inning": "Northern Districts Inning 1"
-        }
-      ],
-      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d25bab77-bc46-4247-b948-896878695643",
-      "name": "Otago vs Canterbury, 9th Match, The Ford Trophy 2026-27",
-      "matchType": "odi",
-      "status": "Otago won by 6 wkts (46 Overs game due to rain)",
-      "venue": "University Oval, Dunedin",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T21:30:00",
-      "teams": [
-        "Otago",
-        "Canterbury"
-      ],
-      "teamInfo": [
-        {
-          "name": "Canterbury",
-          "shortname": "CAN",
-          "img": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=48"
-        },
-        {
-          "name": "Otago",
-          "shortname": "OTG",
-          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 175,
-          "w": 10,
-          "o": 43.3,
-          "inning": "Canterbury Inning 1"
-        },
-        {
-          "r": 176,
-          "w": 4,
-          "o": 37,
-          "inning": "Otago Inning 1"
         }
       ],
       "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
