@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T15:51:29.884Z",
+  "lastUpdated": "2026-11-05T20:58:05.568Z",
   "recentMatches": [
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
@@ -260,276 +260,6 @@
       "matchEnded": true
     },
     {
-      "id": "92747aca-aecc-4e0a-b45b-add77e2cfe06",
-      "name": "Australia vs Afghanistan, Cup, Final, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "Afghanistan won by 4 wkts",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T07:10:00",
-      "teams": [
-        "Australia",
-        "Afghanistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Australia",
-          "shortname": "AUS",
-          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 115,
-          "w": 4,
-          "o": 6,
-          "inning": "australia Inning 1"
-        },
-        {
-          "r": 119,
-          "w": 2,
-          "o": 5.1,
-          "inning": "Australia,Afghanistan Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "894b34bc-9eea-42fd-ae32-ccbf5ea4755e",
-      "name": "Oman vs Pakistan, Plate, Final, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "Pakistan won by 18 runs",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T06:15:00",
-      "teams": [
-        "Oman",
-        "Pakistan"
-      ],
-      "teamInfo": [
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        },
-        {
-          "name": "Pakistan",
-          "shortname": "PAK",
-          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 154,
-          "w": 4,
-          "o": 6,
-          "inning": "Pakistan Inning 1"
-        },
-        {
-          "r": 136,
-          "w": 4,
-          "o": 6,
-          "inning": "Oman Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "262e1165-d8dd-499d-a45a-50b8b69154b9",
-      "name": "South Africa vs England, Bowl, Final, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "South Africa won by 5 wkts",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T05:20:00",
-      "teams": [
-        "South Africa",
-        "England"
-      ],
-      "teamInfo": [
-        {
-          "name": "England",
-          "shortname": "ENG",
-          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
-        },
-        {
-          "name": "South Africa",
-          "shortname": "RSA",
-          "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 95,
-          "w": 6,
-          "o": 6,
-          "inning": "England Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 1,
-          "o": 5.1,
-          "inning": "South Africa Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "25f3a2af-fe6b-4adf-bd36-8e13f464ba70",
-      "name": "United Arab Emirates vs Scotland, 3rd/4th Cup, Play-off, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "Scotland won by 45 runs",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T03:30:00",
-      "teams": [
-        "United Arab Emirates",
-        "Scotland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Scotland",
-          "shortname": "SCO",
-          "img": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates",
-          "shortname": "UAE",
-          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 135,
-          "w": 0,
-          "o": 6,
-          "inning": "Scotland Inning 1"
-        },
-        {
-          "r": 90,
-          "w": 3,
-          "o": 6,
-          "inning": "United Arab Emirates Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7db252f7-80f5-4049-9419-4ba78bab4449",
-      "name": "Sri Lanka vs Hong Kong, China, 7th/8th Plate, Play-off, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "Hong Kong, China won by 1 run",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T02:35:00",
-      "teams": [
-        "Sri Lanka",
-        "Hong Kong"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hong Kong",
-          "shortname": "HKG",
-          "img": "https://g.cricapi.com/iapi/611-637877089158155520.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 119,
-          "w": 0,
-          "o": 6,
-          "inning": "Hong Kong Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 4,
-          "o": 6,
-          "inning": "Sri Lanka Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d342801e-1419-4024-880a-7e0faa697a63",
-      "name": "Bangladesh vs India, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026",
-      "matchType": "t20",
-      "status": "India won by 5 wkts",
-      "venue": "Mission Road Ground, Mong Kok",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T01:40:00",
-      "teams": [
-        "Bangladesh",
-        "India"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "India",
-          "shortname": "IND",
-          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 116,
-          "w": 5,
-          "o": 6,
-          "inning": "Bangladesh Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 1,
-          "o": 6,
-          "inning": "India Inning 1"
-        }
-      ],
-      "series_id": "f203fb5c-8911-43bd-ba8f-6a84bd34903e",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d2eca8a2-ed50-46fc-8369-e48cc1c757e0",
       "name": "West Indies A vs England Lions, 3rd T20, England Lions tour of West Indies, 2026",
       "matchType": "t20",
@@ -610,51 +340,6 @@
           "w": 7,
           "o": 20,
           "inning": "West Indies A Inning 1"
-        }
-      ],
-      "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0a981b26-c75c-4d6a-8940-3fc3af9d54bd",
-      "name": "West Indies A vs England Lions, 1st T20, England Lions tour of West Indies, 2026",
-      "matchType": "t20",
-      "status": "England Lions won by 8 wkts",
-      "venue": "Conaree Sports Club, Basseterre, St Kitts",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T18:00:00",
-      "teams": [
-        "West Indies A",
-        "England Lions"
-      ],
-      "teamInfo": [
-        {
-          "name": "England Lions",
-          "shortname": "ENGL",
-          "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
-        },
-        {
-          "name": "West Indies A",
-          "shortname": "WIA",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 10,
-          "o": 19.4,
-          "inning": "West Indies A Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 2,
-          "o": 10.1,
-          "inning": "England Lions Inning 1"
         }
       ],
       "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
@@ -844,51 +529,6 @@
       "matchEnded": true
     },
     {
-      "id": "83d4f7ed-e83e-4a70-ba8b-602090d777b1",
-      "name": "Namibia vs Ireland, 5th ODI, Ireland tour of Namibia, 2026",
-      "matchType": "odi",
-      "status": "Namibia won by 5 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T08:00:00",
-      "teams": [
-        "Namibia",
-        "Ireland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland",
-          "shortname": "IRE",
-          "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
-        },
-        {
-          "name": "Namibia",
-          "shortname": "NAM",
-          "img": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 10,
-          "o": 33.1,
-          "inning": "ireland Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 5,
-          "o": 21.2,
-          "inning": "Namibia,Ireland Inning 1"
-        }
-      ],
-      "series_id": "ac09b782-bac3-4861-971a-5559a4703507",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
       "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
@@ -966,51 +606,6 @@
       "matchEnded": false
     },
     {
-      "id": "acf970cc-d8e7-447f-b8d3-ad5396a8c621",
-      "name": "Afghanistan vs Zimbabwe, 3rd T20I, Afghanistan vs Zimbabwe in UAE, 2026",
-      "matchType": "t20",
-      "status": "Afghanistan won by 7 wkts",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T14:30:00",
-      "teams": [
-        "Afghanistan",
-        "Zimbabwe"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 79,
-          "w": 10,
-          "o": 14.3,
-          "inning": "Zimbabwe Inning 1"
-        },
-        {
-          "r": 81,
-          "w": 3,
-          "o": 8.1,
-          "inning": "Afghanistan Inning 1"
-        }
-      ],
-      "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
       "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
       "status": "Day 1: Stumps - Ireland A opt to bat",
@@ -1042,7 +637,7 @@
         }
       ],
       "series_id": "55616b78-3f8c-429a-b9c2-cf73c72d4cd4",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": false,
@@ -1090,6 +685,445 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "50b58369-2263-4b6e-adf2-0e616732fd0f",
+      "name": "Wellington vs Northern Districts, 8th Match, The Ford Trophy 2026-27",
+      "matchType": "odi",
+      "status": "Wellington won by 202 runs",
+      "venue": "Basin Reserve, Wellington",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T21:30:00",
+      "teams": [
+        "Wellington",
+        "Northern Districts"
+      ],
+      "teamInfo": [
+        {
+          "name": "Northern Districts",
+          "shortname": "ND",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Wellington",
+          "shortname": "WEL",
+          "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 354,
+          "w": 7,
+          "o": 50,
+          "inning": "Wellington Inning 1"
+        },
+        {
+          "r": 152,
+          "w": 10,
+          "o": 35.1,
+          "inning": "Northern Districts Inning 1"
+        }
+      ],
+      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d25bab77-bc46-4247-b948-896878695643",
+      "name": "Otago vs Canterbury, 9th Match, The Ford Trophy 2026-27",
+      "matchType": "odi",
+      "status": "Otago won by 6 wkts (46 Overs game due to rain)",
+      "venue": "University Oval, Dunedin",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T21:30:00",
+      "teams": [
+        "Otago",
+        "Canterbury"
+      ],
+      "teamInfo": [
+        {
+          "name": "Canterbury",
+          "shortname": "CAN",
+          "img": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=48"
+        },
+        {
+          "name": "Otago",
+          "shortname": "OTG",
+          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 175,
+          "w": 10,
+          "o": 43.3,
+          "inning": "Canterbury Inning 1"
+        },
+        {
+          "r": 176,
+          "w": 4,
+          "o": 37,
+          "inning": "Otago Inning 1"
+        }
+      ],
+      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bb0392dc-0a41-4fb1-b8b1-f12504673f4b",
+      "name": "Mizoram vs Arunachal Pradesh, Plate, Ranji Trophy Plate 2026-27",
+      "matchType": "test",
+      "status": "Mizoram won by an innings and 29 runs",
+      "venue": "Lal Bahadur Shastri Stadium, Vallabh Vidyanagar, Anand",
+      "date": "2026-11-02",
+      "dateTimeGMT": "2026-11-02T04:00:00",
+      "teams": [
+        "Mizoram",
+        "Arunachal Pradesh"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arunachal Pradesh",
+          "shortname": "ARNP",
+          "img": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=48"
+        },
+        {
+          "name": "Mizoram",
+          "shortname": "MIZ",
+          "img": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 285,
+          "w": 10,
+          "o": 77.5,
+          "inning": "arunachal pradesh Inning 1"
+        },
+        {
+          "r": 571,
+          "w": 9,
+          "o": 157,
+          "inning": "Mizoram,Arunachal Pradesh Inning 1"
+        },
+        {
+          "r": 257,
+          "w": 10,
+          "o": 87.2,
+          "inning": "arunachal pradesh Inning 2"
+        }
+      ],
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "dec60556-8963-41ce-a5ed-82f51c58c58c",
+      "name": "Meghalaya vs Nagaland, Plate, Ranji Trophy Plate 2026-27",
+      "matchType": "test",
+      "status": "Nagaland won by 122 runs",
+      "venue": "Meghalaya Cricket Association Cricket Ground, Shillong",
+      "date": "2026-11-02",
+      "dateTimeGMT": "2026-11-02T04:00:00",
+      "teams": [
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "teamInfo": [
+        {
+          "name": "Meghalaya",
+          "shortname": "MGLY",
+          "img": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=48"
+        },
+        {
+          "name": "Nagaland",
+          "shortname": "NGL",
+          "img": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 254,
+          "w": 10,
+          "o": 69.5,
+          "inning": "Nagaland Inning 1"
+        },
+        {
+          "r": 144,
+          "w": 10,
+          "o": 46.4,
+          "inning": "Meghalaya Inning 1"
+        },
+        {
+          "r": 184,
+          "w": 10,
+          "o": 78.5,
+          "inning": "Nagaland Inning 2"
+        },
+        {
+          "r": 172,
+          "w": 10,
+          "o": 57.2,
+          "inning": "Meghalaya Inning 2"
+        }
+      ],
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "946fb65d-26ef-4cc0-9789-69e6bf614fe8",
+      "name": "Manipur vs Sikkim, Plate, Ranji Trophy Plate 2026-27",
+      "matchType": "test",
+      "status": "Sikkim won by 201 runs",
+      "venue": "Gujarat College Ground, Ahmedabad",
+      "date": "2026-11-02",
+      "dateTimeGMT": "2026-11-02T04:00:00",
+      "teams": [
+        "Manipur",
+        "Sikkim"
+      ],
+      "teamInfo": [
+        {
+          "name": "Manipur",
+          "shortname": "MNP",
+          "img": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=48"
+        },
+        {
+          "name": "Sikkim",
+          "shortname": "SKM",
+          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 432,
+          "w": 10,
+          "o": 133.3,
+          "inning": "sikkim Inning 1"
+        },
+        {
+          "r": 289,
+          "w": 10,
+          "o": 108.2,
+          "inning": "Manipur,Sikkim Inning 1"
+        },
+        {
+          "r": 216,
+          "w": 1,
+          "o": 46.2,
+          "inning": "sikkim Inning 2"
+        },
+        {
+          "r": 158,
+          "w": 10,
+          "o": 62.2,
+          "inning": "Manipur,Sikkim Inning 2"
+        }
+      ],
+      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "f6bfa913-6f79-4fd9-ab8a-fe0b4cf5a456",
+      "name": "Sydney Thunder Women vs Perth Scorchers Women, 11th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 17 runs",
+      "venue": "Drummoyne Oval, Sydney",
+      "date": "2026-11-05",
+      "dateTimeGMT": "2026-11-05T08:10:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Perth Scorchers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 2,
+          "o": 20,
+          "inning": "Perth Scorchers Women Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 10,
+          "o": 19,
+          "inning": "Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "de774f34-7940-44c4-acce-8918a8069613",
+      "name": "Adelaide Strikers Women vs Brisbane Heat Women, 10th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 14 runs",
+      "venue": "Drummoyne Oval, Sydney",
+      "date": "2026-11-05",
+      "dateTimeGMT": "2026-11-05T04:40:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Brisbane Heat Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 184,
+          "w": 4,
+          "o": 20,
+          "inning": "Brisbane Heat Women Inning 1"
+        },
+        {
+          "r": 170,
+          "w": 5,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e94f6544-143e-4fdb-ac41-a922022899ed",
+      "name": "Pakistan Cricket Board Patrons XI vs Sri Lanka, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026",
+      "status": "Day 2: Stumps - Sri Lanka lead by 193 runs",
+      "venue": "Islamabad Club Cricket Oval, Islamabad",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T05:00:00",
+      "teams": [
+        "Pakistan Cricket Board Patrons XI",
+        "Sri Lanka"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Cricket Board Patrons XI",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 223,
+          "w": 7,
+          "o": 58,
+          "inning": "sri lanka Inning 1"
+        },
+        {
+          "r": 151,
+          "w": 8,
+          "o": 16,
+          "inning": "Pakistan Cricket Board Patrons XI,Sri Lanka Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 6,
+          "o": 38,
+          "inning": "sri lanka Inning 2"
+        }
+      ],
+      "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "786781a5-0548-479e-b268-a87521ea2e36",
+      "name": "Hobart Hurricanes Women vs Melbourne Renegades Women, 9th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Melbourne Renegades Women won by 4 wkts",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T08:10:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Melbourne Renegades Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        },
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 154,
+          "w": 7,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 6,
+          "o": 19.5,
+          "inning": "Melbourne Renegades Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
