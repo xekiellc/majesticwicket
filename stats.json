@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:42:28.500Z",
+  "lastUpdated": "2026-11-05T00:47:02.102Z",
   "recentMatches": [
     {
       "id": "e743011d-9258-4036-ae9e-e205c96c917f",
@@ -755,7 +755,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -800,7 +800,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
@@ -845,7 +845,7 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": true
     },
     {
