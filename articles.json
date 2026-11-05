@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-11-05T00:47:02.101Z",
+  "lastUpdated": "2026-11-05T09:14:31.204Z",
   "articles": [
+    {
+      "title": "CSK trade Khaleel and Ellis to SRH for Livingstone and Edwards",
+      "url": "https://www.cricinfo.com/ci/content/story/1561531.html?ex_cid=OTC-RSS",
+      "description": "Liam Livingstone will join CSK at a reduced fee of INR 6 crore after he was acquired by SRH for INR 13 crore at the 2026 auction",
+      "publishedAt": "2026-11-05T08:58:08.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Jangoo and Wickham fifties prop up West Indies",
+      "url": "https://www.cricinfo.com/ci/content/story/1561497.html?ex_cid=OTC-RSS",
+      "description": "The duo added 131 runs for the fourth wicket, helping West Indies recover from 27 for 3 to 180 for 4 at tea",
+      "publishedAt": "2026-11-05T08:44:00.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Beardman: 'I'm ready to go out and play some good cricket again'",
+      "url": "https://www.cricinfo.com/ci/content/story/1561520.html?ex_cid=OTC-RSS",
+      "description": "Beardman is keeping his Test ambitions in sight but is taking his comeback one game at a time",
+      "publishedAt": "2026-11-05T08:14:55.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Naqvi debuts, Cremer returns as Zimbabwe bat in opening Test",
+      "url": "https://www.cricinfo.com/ci/content/story/1561499.html?ex_cid=OTC-RSS",
+      "description": "Afghanistan handed a debut to middle-order batter Rahmanullah",
+      "publishedAt": "2026-11-05T06:18:43.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Johnson hoping to play first-class cricket again after injury-free run",
+      "url": "https://www.cricinfo.com/ci/content/story/1561491.html?ex_cid=OTC-RSS",
+      "description": "Left-arm quick is hopeful three ODIs in six days against England can help build his loads for a first-class return after playing Second XI for South Australia last week",
+      "publishedAt": "2026-11-05T05:46:21.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "WI opt to bat, hand Wickham debut; Mushfiqur back for Bangladesh",
+      "url": "https://www.cricinfo.com/ci/content/story/1561484.html?ex_cid=OTC-RSS",
+      "description": "Campbell and Chanderpaul were ruled out due to a viral fever, while Taskin also returned for Bangladesh",
+      "publishedAt": "2026-11-05T03:34:54.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Samarawickrama to lead Sri Lanka in Emerging Nations Trophy, Dilhari her deputy",
+      "url": "https://www.cricinfo.com/ci/content/story/1561414.html?ex_cid=OTC-RSS",
+      "description": "Chamari Athapaththu is unavailable because of the WBBL, and there are only three players older than 30 in the 14-member squad",
+      "publishedAt": "2026-11-05T07:49:05.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Afghanistan, Zimbabwe face-off with WTC spot on the horizon",
+      "url": "https://www.cricinfo.com/ci/content/story/1561389.html?ex_cid=OTC-RSS",
+      "description": "Antum Naqvi is set to make his Test debut, which would mean a rejig of the playing XI for Zimbabwe, who will be led by Brian Bennett in Richard Ngarava's absence",
+      "publishedAt": "2026-11-05T02:38:25.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
     {
       "title": "Moeen, Hales lead England contingent for inaugural Afghanistan Premier League",
       "url": "https://www.cricinfo.com/ci/content/story/1561441.html?ex_cid=OTC-RSS",
@@ -22,380 +102,300 @@
       "urlToImage": null
     },
     {
-      "title": "Leicestershire relegation confirmed as pitch penalty upheld",
-      "url": "https://www.cricinfo.com/ci/content/story/1561439.html?ex_cid=OTC-RSS",
-      "description": "Cricket Discipline Panel dismisses appeal against 19-point deduction, meaning Essex retain Division One status",
-      "publishedAt": "2026-11-04T17:28:09.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Kohli and quicks power India to 1-0 lead in Auckland",
-      "url": "https://www.cricinfo.com/ci/content/story/1561390.html?ex_cid=OTC-RSS",
-      "description": "India's seamers were relentless with their interrogation of the New Zealand batters and were supported by excellent fielding and captaincy",
-      "publishedAt": "2026-11-04T17:01:11.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Samarawickrama to lead Sri Lanka in Emerging Nations Trophy, Dilhari her deputy",
-      "url": "https://www.cricinfo.com/ci/content/story/1561414.html?ex_cid=OTC-RSS",
-      "description": "Sri Lanka have rested Chamari Athapaththu, and there are only three players older than 30 in the 14-member squad",
-      "publishedAt": "2026-11-04T15:05:23.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Oman secure spot at 2027 men's World Cup Qualifiers",
-      "url": "https://www.cricinfo.com/ci/content/story/1561415.html?ex_cid=OTC-RSS",
-      "description": "Namibia, one of the hosts of the 2027 ODI World Cup, will continue their qualification journey at the World Cup Qualifier Playoff",
-      "publishedAt": "2026-11-04T14:47:26.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "No-ball drama hands Renegades last-ball win against Hurricanes",
-      "url": "https://www.cricinfo.com/ci/content/story/1561401.html?ex_cid=OTC-RSS",
-      "description": "The players readied for a Super Over finish, but replays showed wicketkeeper Lee had taken the ball just in front of the stumps, leading to a no-ball and a Renegades victory",
-      "publishedAt": "2026-11-04T14:38:56.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Vadodara and Mumbai to host WPL 2027",
-      "url": "https://www.cricinfo.com/ci/content/story/1561411.html?ex_cid=OTC-RSS",
-      "description": "Vadodara will host the first 11 league matches before the remaining nine and the knockouts will be played at the Brabourne Stadium",
-      "publishedAt": "2026-11-04T14:33:20.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Anshul Kamboj: One bad match doesn't affect me",
-      "url": "https://www.cricinfo.com/ci/content/story/1561402.html?ex_cid=OTC-RSS",
-      "description": "Exactly a month after an expensive ODI debut, the India fast bowler took 2 for 22 in his second match in Auckland",
-      "publishedAt": "2026-11-04T14:23:43.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Injured Marufa to miss Emerging Nations Trophy for Bangladesh",
-      "url": "https://www.cricinfo.com/ci/content/story/1561408.html?ex_cid=OTC-RSS",
-      "description": "This will be Nahida Akter's first tournament as T20I captain since she took over from Nigar Sultana last month",
-      "publishedAt": "2026-11-04T13:52:44.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Late starts a factor in New Zealand's struggle to defend totals, says Jacob Duffy",
-      "url": "https://www.crictracker.com/cricket-news/late-starts-a-factor-in-new-zealands-struggle-to-defend-totals-says-jacob-duffy-3488/",
-      "description": "New Zealand pacer has identified late starts as a contributing factor to his team's inability to defend totals during the ongoing India tour, following the first ODI at Eden Park on November 4.",
-      "publishedAt": "2026-11-04T17:20:03.000Z",
+      "title": "Virat Kohli's 3 most memorable knocks that changed matches",
+      "url": "https://www.crictracker.com/cricket-appeal/virat-kohlis-3-most-memorable-knocks-that-changed-matches-4526/",
+      "description": "From a stunning chase at Hobart to a defiant fourth-innings stand at Adelaide, these three innings defined Virat Kohli at his very best.",
+      "publishedAt": "2026-11-05T09:04:25.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'Doing bad in a game didn't affect me much' - Anshul Kamboj on difficult start to international cricket after match-winning spell",
-      "url": "https://www.crictracker.com/cricket-news/doing-bad-in-a-game-didnt-affect-me-much-anshul-kamboj-on-difficult-start-to-international-cricket-after-match-winning-spell-1534/",
-      "description": "The Indian off-spinner took 2/22 in 10 overs to win Player of the Match at Eden Park, but reflected on his difficult ODI debut against West Indies and how he maintains focus despite early setbacks.",
-      "publishedAt": "2026-11-04T16:16:50.000Z",
+      "title": "CSK and SRH complete four-player trade, Liam Livingstone joins five-time champions",
+      "url": "https://www.crictracker.com/cricket-news/csk-and-srh-complete-four-player-trade-liam-livingstone-joins-five-time-champions/",
+      "description": "Chennai Super Kings and Sunrisers Hyderabad have finalised a four-player exchange ahead of IPL 2027, with England all-rounder Liam Livingstone headlining the move to the Men in Yellow.",
+      "publishedAt": "2026-11-05T09:01:51.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Michael Atherton says Lancashire did not handle James Anderson's release badly",
-      "url": "https://www.crictracker.com/cricket-news/michael-atherton-says-lancashire-did-not-handle-james-andersons-release-badly-4382/",
-      "description": "The former England captain argues that Lancashire and England managed the bowler's departure with transparency and face-to-face communication, though debate continues over the decision itself.",
-      "publishedAt": "2026-11-04T15:41:58.000Z",
+      "title": "Charli Knott ton fires Brisbane Heat to first win in 706 days",
+      "url": "https://www.crictracker.com/cricket-news/charli-knott-ton-fires-brisbane-heat-to-first-win-in-706-days/",
+      "description": "Charli Knott's maiden T20 century of 104 off 61 balls powered Brisbane Heat to a 14-run victory over Adelaide Strikers at Drummoyne Oval, Sydney.",
+      "publishedAt": "2026-11-05T08:51:40.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Samarawickrama to captain Sri Lanka at Women's Emerging Nations Trophy, Dilhari named deputy",
-      "url": "https://www.crictracker.com/cricket-news/samarawickrama-to-captain-sri-lanka-at-womens-emerging-nations-trophy-dilhari-named-deputy-1107/",
-      "description": "Harshitha Samarawickrama will lead a 14-member Sri Lanka side at the Women's Emerging Nations Trophy in Ajman, UAE, with Kavisha Dilhari as her deputy.",
-      "publishedAt": "2026-11-04T14:33:28.000Z",
+      "title": "'Now he has confidence in other players' - Ajay Jadeja's interesting observation about Virat Kohli after 1st ODI",
+      "url": "https://www.crictracker.com/cricket-news/now-he-has-confidence-in-other-players-ajay-jadejas-interesting-observation-about-virat-kohli-after-1st-odi/",
+      "description": "Ajay Jadeja highlighted Virat Kohli's match-winning 74 off 51 balls in India's five-wicket victory over New Zealand at Eden Park, noting the senior batter's evolved approach and trust in teammates.",
+      "publishedAt": "2026-11-05T08:48:08.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "'After that, he didn't swing the ball' - Sunil Gavaskar on Auqib Nabi's spell in 1st ODI",
-      "url": "https://www.crictracker.com/cricket-news/after-that-he-didnt-swing-the-ball-sunil-gavaskar-on-auqib-nabis-spell-in-1st-odi-4623/",
-      "description": "Sunil Gavaskar broke down Auqib Nabi's six-over spell in the first ODI at Auckland, noting the pacer lost swing and length as India won by five wickets.",
-      "publishedAt": "2026-11-04T13:54:36.000Z",
+      "title": "I'm ready to go out and play some good cricket again, says Mahli Beardman",
+      "url": "https://www.crictracker.com/cricket-news/im-ready-to-go-out-and-play-some-good-cricket-again-says-mahli-beardman-2299/",
+      "description": "The 21-year-old quick bowler eyes a return to international cricket after recovering from a back injury that cut short his season.",
+      "publishedAt": "2026-11-05T08:42:49.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Ajinkya Rahane heaps praise on Shubman Gill's captaincy, highlights key leadership qualities",
-      "url": "https://www.crictracker.com/cricket-news/ajinkya-rahane-heaps-praise-on-shubman-gills-captaincy-highlights-key-leadership-qualities-3047/",
-      "description": "Former India Test captain Ajinkya Rahane, speaking as part of Sony Sports Network's expert panel, highlighted Shubman Gill's growing maturity as a leader ahead of the ongoing New Zealand tour.",
-      "publishedAt": "2026-11-04T13:28:32.000Z",
+      "title": "Oman secure spot at ICC Men’s Cricket World Cup Qalifier 2027",
+      "url": "https://www.crictracker.com/cricket-press-release/oman-secure-spot-at-icc-mens-cricket-world-cup-qalifier-2027/",
+      "description": "Oman, who lost their last seven matches and finished tied with Namibia at 33 points in the standings, qualified on better net run rate.",
+      "publishedAt": "2026-11-05T08:32:47.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "WPL season 5 schedule announced with Vadodara and Mumbai hosting matches from January 14",
-      "url": "https://www.crictracker.com/cricket-news/wpl-season-5-schedule-announced-with-vadodara-and-mumbai-hosting-matches-from-january-14/",
-      "description": "The final of the WPL 2027 will happen on February 07, 2027.",
-      "publishedAt": "2026-11-04T13:21:50.000Z",
+      "title": "IPL's Impact Player rule to continue into the 2027 season",
+      "url": "https://www.crictracker.com/cricket-news/ipls-impact-player-rule-to-continue-into-the-2027-season-1786/",
+      "description": "The Impact Player rule will remain in place for IPL 2027, with franchises already factoring it into their planning ahead of next month's player auction.",
+      "publishedAt": "2026-11-05T08:21:59.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Gavaskar raises Arshdeep Singh's Test case after four-wicket haul in Auckland ODI",
-      "url": "https://www.crictracker.com/cricket-news/gavaskar-raises-arshdeep-singhs-test-case-after-four-wicket-haul-in-auckland-odi/",
-      "description": "Sunil Gavaskar questioned how much Arshdeep Singh could swing the red ball after the left-arm pacer claimed 4/70 to help bowl New Zealand out for 185 in the first ODI at Auckland.",
-      "publishedAt": "2026-11-04T12:57:46.000Z",
+      "title": "'There's not many holes in his game' - Jacob Duffy acknowledges Virat Kohli's greatness after Eden Park heroics",
+      "url": "https://www.crictracker.com/cricket-news/theres-not-many-holes-in-his-game-jacob-duffy-acknowledges-virat-kohlis-greatness-after-eden-park-heroics/",
+      "description": "Jacob Duffy praised Virat Kohli's match-winning 74 off 51 balls at Eden Park, saying the Indian batter showed exceptional skill in exploiting the small ground and demonstrated no obvious weaknesses.",
+      "publishedAt": "2026-11-05T08:00:54.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Shreyas Iyer or Hardik Pandya: Who has a better IPL captaincy record?",
-      "url": "https://www.crictracker.com/cricket-analysis/shreyas-iyer-or-hardik-pandya-who-has-a-better-ipl-captaincy-record/",
-      "description": "Two contrasting captaincy journeys across multiple franchises reveal different paths to success and struggle in the Indian Premier League.",
-      "publishedAt": "2026-11-04T13:07:13.000Z",
+      "title": "Gurnoor Brar reveals Indian pacers' hard-length plan for first NZ ODI",
+      "url": "https://www.crictracker.com/cricket-news/gurnoor-brar-reveals-indian-pacers-hard-length-plan-for-first-nz-odi/",
+      "description": "Right-arm pacer Gurnoor Brar took 3/44 in 9.2 overs as India bowled New Zealand out for 185 in the rain-curtailed first ODI at Auckland.",
+      "publishedAt": "2026-11-05T07:49:03.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "ICC Women's T20 World Cup 2026 sets viewership record with 471 million viewing hours",
-      "url": "https://www.crictracker.com/cricket-press-release/icc-womens-t20-world-cup-2026-sets-viewership-record-with-471-million-viewing-hours-9220/",
-      "description": "That figure means the 2026 edition outperformed its 2024 predecessor, which generated 184 million viewing hours, by 156 percent.",
-      "publishedAt": "2026-11-04T13:04:13.000Z",
+      "title": "Suryakumar Yadav set to lead Mumbai in Syed Mushtaq Ali Trophy and Vijay Hazare Trophy",
+      "url": "https://www.crictracker.com/cricket-news/suryakumar-yadav-set-to-lead-mumbai-in-syed-mushtaq-ali-trophy-and-vijay-hazare-trophy-2926/",
+      "description": "The 36-year-old India T20 World Cup-winning captain has been handed the Mumbai white-ball leadership for both the Syed Mushtaq Ali Trophy and the Vijay Hazare Trophy in 2026-27.",
+      "publishedAt": "2026-11-05T07:47:15.000Z",
       "source": {
         "name": "CricTracker"
       },
       "urlToImage": null
     },
     {
-      "title": "Adelaide Strikers land Pakistan’s pace sensation ahead of Big Bash League (BBL) 2026-27 - Cricket Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXpoY0F1WXNGOHdPZFhiN3RqbXpMSlhjWUsxQ2ZVMEppckQydUlRSHgzbm16VGhtTnVkV2FlWVBwQkttaXRYMC1Md1dCVzVKNHczRnpodzExSm1nSXFjYVh4TWdKSHEyWGFuMDFxaXE5QTRadWFPbGkwVXYyemM2ZE1oZnltelF5aFo4cDdsb1M2U0xObXRWcm9TOFcteHpLeDBMeTZYNWFNNXVNOXFnMEJ0c05DZzZDc3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXpoY0F1WXNGOHdPZFhiN3RqbXpMSlhjWUsxQ2ZVMEppckQydUlRSHgzbm16VGhtTnVkV2FlWVBwQkttaXRYMC1Md1dCVzVKNHczRnpodzExSm1nSXFjYVh4TWdKSHEyWGFuMDFxaXE5QTRadWFPbGkwVXYyemM2ZE1oZnltelF5aFo4cDdsb1M2U0xObXRWcm9TOFcteHpLeDBMeTZYNWFNNXVNOXFnMEJ0c05DZzZDc3",
-      "publishedAt": "2026-11-02T11:09:30.000Z",
+      "title": "Virat Kohli at 38: How Long Can a Man Run on Fire? - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDdVX2JyeDdIOVJJbWRNVzVheF9VTmRaUXl0WU9PdXdmN3BlOTEtOFZhVmRHX3U0NTNHanBBb0QwMnhPR2hnSlZJR0ZSenYtVzFaeUljOE5ham9laGNSbmhVTkRrekFkY2JOQTNlLTFyemUyczZUdVpnYTZJUzVXa0xNbGlXMTljdWtj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDdVX2JyeDdIOVJJbWRNVzVheF9VTmRaUXl0WU9PdXdmN3BlOTEtOFZhVmRHX3U0NTNHanBBb0QwMnhPR2hnSlZJR0ZSenYtVzFaeUljOE5ham9laGNSbmhVTkRrekFkY2JOQTNlLTFyemUyczZUdVpnYTZJUzVXa0xNbGlXMTljdWtj?oc=5\" target=\"_blank\">Virat Kohli at 38: How Long Can a Man R",
+      "publishedAt": "2026-11-05T03:05:59.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Glenn Maxwell Retires from International Cricket, Set to Continue Playing in Big Bash League - NKTV",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE00X0VCSFIzNV9xTWE1RjVaVHpqVTdmVVdZbDBILWd6bUJMaXY5QnFKYVJKRjlyUnpnLW1yZ2lPX3dkd3UybllwTDFhN1l2Sk1pQ1NkbGlOdUJXX2NTNjMxRElwa2FvSWJaTnR0amtNQVYzRDFlRFR1bGtnM2NUSVdkaF92OWsxajFTaDVLWUYyS3FsWW1nTHRzUVFXZV9qeWVtWXJsUWhYR0lQaDRyN3RB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE00X0VCSFIzNV9xTWE1RjVaVHpqVTdmVVdZbDBILWd6bUJMaXY5QnFKYVJKRjlyUnpnLW1yZ2lPX3dkd3UybllwTDFhN1l2Sk1pQ1NkbGlOdUJXX2NTNjMxRElwa2FvSWJaTnR0amtNQVYzRDFlRFR1bGtnM2NUSVdkaF92OWsxajFTaDVLWUYyS3FsWW1nTHRzUVFXZV9qeWVtWXJsUWhYR0lQaDRyN3RB?oc=5\" tar",
-      "publishedAt": "2026-11-03T07:27:31.000Z",
+      "title": "38 and driven: For birthday boy Virat, one last chase remains - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2MtZTJWYWVqdnF4MFNEZUR6TFJJbl9SdTdiZFFNSmFfc1NoaHRGV2lpd1EtYjdyR203ZTRrTUczTDdLSl9EdVhaXzJvc0swSFVRZ0dFZlpEN3Zsb2x1LVlJcmhDRG9WM0lpNFNpakUwX2ZkSVRncTlHdEd6d29sdjI2a3hQUEdIS3dwZF84VFY2anlwaU5xeHJJSjZpclJCUWtxZ0F30gGrAUFVX3lxTFBNYjRieUZfWkZXMzRmem9jWTZ1ellwdVdfU3RoaWFmLWpXN1BTdjJWaUxCaXdXWFFUdHFGUlR1SXdRS0J4YVpaMktVclRmUG5pU2VvTmZWSzNPX2piSy1wOHFqd3JNRFJ6OVluMTVFMnVEMl9mR2tNODlseWdiVFJkcEVOZ3R4a3loMmliVjd2cHZFek9aYklzd1JPbFh6WHF6cUxCaEpQRDltMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2MtZTJWYWVqdnF4MFNEZUR6TFJJbl9SdTdiZFFNSmFfc1NoaHRGV2lpd1EtYjdyR203ZTRrTUczTDdLSl9EdVhaXzJvc0swSFVRZ0dFZlpEN3Zsb2x1LVlJcmhDRG9WM0lpNFNpakUwX2ZkSVRncTlHdEd6d29sdjI2a3hQUEdIS3dwZF84VFY2anlwaU5xeHJJSjZpclJCUWtxZ0F30gGrAUFVX3lxTFBNYjRieUZfWk",
+      "publishedAt": "2026-11-05T07:37:19.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Cape Town backs SA20 finals with R5m sponsorship over two seasons - Cape Argus",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXZBdHlqS19FSFRaTFo2MXJGZ3dMY3JXRUNBT0hybU9CMzI4Tjd5V1pVckh6aFlSOWFSOUJKUjlDclM0dHNKWXlWdWhLcVNXbXdCa2c5Y2R4a01vVkVqZGxtOTI5dE1lT3dXQjI4TFlGOTlJUmk0eUU4ZG5uVk5zMlp1aVVkVm5KbUNocGo1aTJWczJNRFFXekpWa1RCUWUwTzFWQjBjclNYUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXZBdHlqS19FSFRaTFo2MXJGZ3dMY3JXRUNBT0hybU9CMzI4Tjd5V1pVckh6aFlSOWFSOUJKUjlDclM0dHNKWXlWdWhLcVNXbXdCa2c5Y2R4a01vVkVqZGxtOTI5dE1lT3dXQjI4TFlGOTlJUmk0eUU4ZG5uVk5zMlp1aVVkVm5KbUNocGo1aTJWczJNRFFXekpWa1RCUWUwTzFWQjBjclNYUQ?oc=5\" target=\"_blan",
-      "publishedAt": "2026-11-02T00:13:03.000Z",
+      "title": "Virat Kohli Birthday: Is 'King' the Best Chase Master Ever? Here's What Numbers Say - MensXP",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXN6TzN0QUt5bFNTUFg2MDkwemNzeWlzRDUyOVhSTUo3QURFaVNya0JNQ2pmZ1k2eDVvTXZUMEhaRDVFRERuYVJ1RHc3aVFLRjhDRnFFX3A4UTlwU0NXdkFuQk8wZFpwMTRhc2d1a2M4NV9Cb1piTzVBV3FGM2gwaFAtVFlkLUZfNHMyNnNDa0J5WWFZQ2Jybm0tWGY0NGZOamtIbFJFNUVfekJVY1o3TWJlbUpRX2NRYnhHWEpqTFB6RUlxR1dIcUpR0gHPAUFVX3lxTE9nLUVQOEg5M0hFMTE5dms5OUhkcHkxSzBkT1R2VDF2VXFGNGd1ZVlJTEVoS2NaT3FOTjJBMHgwNjc3NEI1VThkb28xSXh3T1FYMXFacmE2NndkTHppMjJvRWVmZzg5czY3UUxYNnhvWkZoMDFDVFJRV1I1TXNhd3VrNEF0Mk9UVHE1UllPZl81aVpKeUk0bDdHajZYS1RrR09iTmJ2UHhTQ21QLXNlVHc4ZEIyV2JXamZMTno3RlFyWDVIQXJ2NFV5RHhtMV9XSQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXN6TzN0QUt5bFNTUFg2MDkwemNzeWlzRDUyOVhSTUo3QURFaVNya0JNQ2pmZ1k2eDVvTXZUMEhaRDVFRERuYVJ1RHc3aVFLRjhDRnFFX3A4UTlwU0NXdkFuQk8wZFpwMTRhc2d1a2M4NV9Cb1piTzVBV3FGM2gwaFAtVFlkLUZfNHMyNnNDa0J5WWFZQ2Jybm0tWGY0NGZOamtIbFJFNUVfekJVY1o3TWJlbUpRX2NRYn",
+      "publishedAt": "2026-11-05T04:49:46.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Proteas show Test cricket not ready to die in SA just yet - HeraldLIVE",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnRhRjlYT1FPSGF2TFJtdm1QZGhXQS11TlMtTHQ1YWZjNDVTM21ZQjhmTUNQVHVoem9lLVVWaHM5M0w1SE54cV9sb2c1ak1wTkZtNjU1QTAxSXVYUmY2X1ZLb2gxRDJmVjdjNzhDNzNBcHpTWVl4bGdENFhwZFpub2RMZEM4ZGZZMm1Sbld1aGNSWnRHYWxhdmg2RzZJQ2dES1FmQ3N2alZyMWVScG5LNWhn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnRhRjlYT1FPSGF2TFJtdm1QZGhXQS11TlMtTHQ1YWZjNDVTM21ZQjhmTUNQVHVoem9lLVVWaHM5M0w1SE54cV9sb2c1ak1wTkZtNjU1QTAxSXVYUmY2X1ZLb2gxRDJmVjdjNzhDNzNBcHpTWVl4bGdENFhwZFpub2RMZEM4ZGZZMm1Sbld1aGNSWnRHYWxhdmg2RzZJQ2dES1FmQ3N2alZyMWVScG5LNWhn?oc=5\" tar",
-      "publishedAt": "2026-11-03T09:36:57.000Z",
+      "title": "38 Numbers You Must Know About Virat Kohli - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSEhKanduOUJ4TEg1S0tETWtiem51c19vdkoxVHRjLWkxV09veHBEd0NEcE5yRXBxTGtXYTJrM01XYlZUa2s5ZFVkbFktQU05WF9jN053NlVaallVNVE1QlFCQURvempGS0FvWHV6MmZSS3FrUDNIbGczQ2NqT2huX3Nfb2tsbjVBdmNIcUVnV0l1Y01aei1zRXdn0gGcAUFVX3lxTE9JdmNTeHl2cGV5UDNhUFVzbFlPdjNuQUoydFgta3VCQXEwLVNqVkRQTEhMVUhLNzZiVURZT004SEdERFBVZzFxbk4zY2pLb2c1T1NQbEdLem9aWVM2SWVKcXpCNGdLS3FLNi1MTzktczlYOVBPX2dzbG5CYzJlZk5UWnMyNldtdFZONkVWT0pMQ2JRelN1WFY0VkFMLQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSEhKanduOUJ4TEg1S0tETWtiem51c19vdkoxVHRjLWkxV09veHBEd0NEcE5yRXBxTGtXYTJrM01XYlZUa2s5ZFVkbFktQU05WF9jN053NlVaallVNVE1QlFCQURvempGS0FvWHV6MmZSS3FrUDNIbGczQ2NqT2huX3Nfb2tsbjVBdmNIcUVnV0l1Y01aei1zRXdn0gGcAUFVX3lxTE9JdmNTeHl2cGV5UDNhUFVzbFlPdj",
+      "publishedAt": "2026-11-05T06:03:45.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Nepal Premier League Franchises Suffer Major Blow Over PCB’s NOC Demands - ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSk5oS3I3X1JONFZpZ2ZrM2xmRi1DcGx4UDBKV0I5NWpKdF9vYm93OU5WdlZGNnR1VkFwS0NUTTNCMmw5V3J0NXc0UzRsMi1FamxNTzE5QVhmMG43QlRwTkZQaXBqX016M084WkVxNHBIREhhbVI1WmdZaEswWjdOOW9sNWxwbVJwR1d5cFFQTnJBQ0hqVmhTOWtNWjVkX2Q1VjBJazFvZ21sbHPSAbABQVVfeXFMUGhsMnpIZUIxZmhNSnpLNXNzNEJPTXJJR0pWaWJDTHFYcmZaNUctakN6M1Y5cE1XM001OTJpNHFkV1ZoQ01HQkFNdXItMTU1UVNRLWYtMmNVbFRmN29TTkl5c1FZcWd0N3oyeXVRSzFBVHliUzdKX2kzVnFGa05ENFlQLXhWVXY3dGJZRHh6UzJzd0ZWMnJ0YU96dURBaGJPVDM3TG5jc013ZTE3cl9zazg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSk5oS3I3X1JONFZpZ2ZrM2xmRi1DcGx4UDBKV0I5NWpKdF9vYm93OU5WdlZGNnR1VkFwS0NUTTNCMmw5V3J0NXc0UzRsMi1FamxNTzE5QVhmMG43QlRwTkZQaXBqX016M084WkVxNHBIREhhbVI1WmdZaEswWjdOOW9sNWxwbVJwR1d5cFFQTnJBQ0hqVmhTOWtNWjVkX2Q1VjBJazFvZ21sbHPSAbABQVVfeXFMUGhsMn",
-      "publishedAt": "2026-10-30T07:30:38.000Z",
+      "title": "Virat Kohli Makes History, Becomes First-Ever Batter With 50-Plus Average Across All SENA Nations - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSVZXU2RqVDJ0NEhQbERfNm5BeVd0MHdhTUEwT1RkSW41VXpXdnRIY2ZEMzNVUW90Q09YOUtLcm90aExpWlhkZEFDTTBQcnlJaFhzMXN3anBtUnZTVGJQdlFGM1FrSFFqaWZCZ0Q4N2VXZjUybU5BWU5BS1pRZm5uYnFqbmhpYUVpTDZicGhJb19CeFlJY3kydUV2RUlnUXhrRUt3aGJNVlpJWjhWa2owUDEzWFd3ckxpMkY5Z2pWcmlueVNReUZGR04yQncxeHJvWWg5MnBRcjNpS3PSAeABQVVfeXFMTUR3YTVVN3lyRDlsN290ZFdOZzktU1NWYXh1dVRubWdOSFRNOTVhRFdNY0FJVllGaXA4MUtoLWRGTWhIWU1WM2E1RkF2OUJDQXM3SXRjaE1RWTVDcDNXMWVZREtvQnhxUXhZTGpEWGsxelpwYkx1UzFUaGdWQmJjSmtOZElwa1JtNTVNV05YODF4NlFYQWlvSUc4ZDdWZlhTUkJhVlJOMUdYZ3lTNElFcWFPS1NTMXZZU09aRU1TREpzdXpjTmE4TkpvRldTaDdSZVhDRXExc2l0QmwwUUlyWmM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSVZXU2RqVDJ0NEhQbERfNm5BeVd0MHdhTUEwT1RkSW41VXpXdnRIY2ZEMzNVUW90Q09YOUtLcm90aExpWlhkZEFDTTBQcnlJaFhzMXN3anBtUnZTVGJQdlFGM1FrSFFqaWZCZ0Q4N2VXZjUybU5BWU5BS1pRZm5uYnFqbmhpYUVpTDZicGhJb19CeFlJY3kydUV2RUlnUXhrRUt3aGJNVlpJWjhWa2owUDEzWFd3ckxpMk",
+      "publishedAt": "2026-11-05T01:58:28.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "India vs New Zealand, 1st ODI Highlights: Virat Kohli's 74 guides India to five-wicket victory in first ODI - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPel9Zak81X0NPdmRDNjVUUFk0VXJRcGhtaUpoTGluNXk2dzliM3BFTUE2bjM0dlN0d21va2QxOUdRSFBnRXpkRnVXalU4YkM0cHkzbDBXN1Bkck1lMlpuUFFRS0QwRm5sLVpZUEhKT3FYOE4wX1ZOT0FMZExab0RfU1FJYUZEc29WWEVJbktGX0ktRlRSa0tVTHZoQmhLcWUwNG1iVGt3b0p4ZFhUZjAtVjZwUlBUTE51VURjeVYtY291MVFUaWN3bmcxdnBocjdyRVBzU3czb1RxWkF3dmRZTWY2cEtGb3hkaThFWWRQNlFtLVlHc2REd0J6dDdYOW4wRVhGYWg5cmE4dzlTYWJmc3hYZzdoeEs1Q1pGMHFJdGZOOXI3ZncxX2szX1ZVYjlMdk4wRE1ZRUVfVnJOS1RR0gHEAkFVX3lxTE5tNE1Fdzl4OGFOTkFQWENZanFGLXZubkFjMXE3SGVaRGhSbmo4dGt2aGZuUXNfMm0zVF9BTWl1YjhwOElXNk1ZeVpqaFVHTWo4Z1pWYkl2OTlXazQ4QUJFSlhoYl82MVAyQmtVdnhTZnRXWEVrQk14X0lGaUpyZUpSbkhlbGd1UkpIX0E2djA2Zy1VRnhfR2QxV0FMRk1BMndJcFhyeVNpd0J5NThTSE5MenRldGhza1VsTEx1TnlQa19vcHpFRHR2dzNxakRONk1XamdvcWhWTzZuUW1wOW1ZM0laODhPaHBwdlMwZGFPQ0w0SEczRzIxcWNwS19SZkFjN3VtU2VOaGdpZ0J6bjRTYUtmWFBOMVpjQ2VoajlaNmJ3NG1PSGVyamlWOTNPbDBpNkxQNkZEUjhibGd1MGdYYXFwZQ?oc=5",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxPel9Zak81X0NPdmRDNjVUUFk0VXJRcGhtaUpoTGluNXk2dzliM3BFTUE2bjM0dlN0d21va2QxOUdRSFBnRXpkRnVXalU4YkM0cHkzbDBXN1Bkck1lMlpuUFFRS0QwRm5sLVpZUEhKT3FYOE4wX1ZOT0FMZExab0RfU1FJYUZEc29WWEVJbktGX0ktRlRSa0tVTHZoQmhLcWUwNG1iVGt3b0p4ZFhUZjAtVjZwUl",
-      "publishedAt": "2026-11-04T09:42:46.000Z",
+      "title": "Virat Kohli Fitness Routine: How a 2012 wake-up call changed his diet; from 90% steamed food and no meat t - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOd0hIYkZSMXY1djFybVlDNGtyTW9ORkY3a1VRbHduVDRQbVdxVUxPVjhqVjRoN1dNTUFYRm0wQnY5Zk84Y1JaTUE1bWduNHJ1UjZMSjB2MjhWOGNWTDZaakxKVFhieDdOS3JOb19udG5haDdQdC10X2dVSmRXRXViR2RYWUY5MEV3dW1WLVVyZHJBZ0k4bk5qT3g5WnBBb2lzWkVYOXdhY1NiclJkT0RoTFE1ZWo0UHFtQTliRnNaYlB2VVRtNWlCOWZzM0pwVHhGdVNsak1PT2c4YnNEMmYxQjk3VUJFMmpLdUtLNklGamUyWkVPTEZRdERHUUtkV0huZlBZN1VCWXowVEtPeFUwZzJmWGVYaTdJMHBoVW02XzdRSThKQXRkZzBGWFFJRGQzOEhHZEw5VUdyZ9IBvwJBVV95cUxPTFVXM1JtNGhjY0ZSQmtHSGlEYmlXNVBRcUZaMm51UE9FQ2hlTmp5ZVItOTRJTkdBLW9ucTZWQ0xuTVpGd2V4ckNhWF92NEFxbE55NTZ4NEJfbVdSalVLUHdQeTEzTU5laWtBeGNnRmM4T3A5WjNPNkM1eFU2dGdkdDE5VHZnaVFaakxlVGQ3RUVBWWI2MlhHWFA4MUJXUGxqdHU2UDVUR2RFMG80aXJCeGFXcm5uMUtNdXhDYXJlUXhHcW0tYU5EMWVFcVNFMXRxTWlVWDhTTEpyMFVaejNrUHlpRDUtTXRKSTJzMER3R1NleEgzQTNFSmh2OFk0cVRrQkcxOUwtbnNJcXRuOEF3NEFMRzFXbjFKN3h5MUtPR1Q2ektYRHpWa0RoRU5RVjRBTFVBWGo0UlljaTdJZDVF?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOd0hIYkZSMXY1djFybVlDNGtyTW9ORkY3a1VRbHduVDRQbVdxVUxPVjhqVjRoN1dNTUFYRm0wQnY5Zk84Y1JaTUE1bWduNHJ1UjZMSjB2MjhWOGNWTDZaakxKVFhieDdOS3JOb19udG5haDdQdC10X2dVSmRXRXViR2RYWUY5MEV3dW1WLVVyZHJBZ0k4bk5qT3g5WnBBb2lzWkVYOXdhY1NiclJkT0RoTFE1ZWo0UHFtQT",
+      "publishedAt": "2026-11-05T06:07:21.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Blog | Virat Kohli At 38: The Man Who Gave Cricket His 100%, Every Single Time - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVdzZXdBc3hTSF8xWjNiVUlvZlk3RjhnY1RTSklkYTA0Tmw2SnZpMDFLd1ZNSDEtQ2hNZTJQY254ZDNYZDdPZUFJaHlpWkFrRC16amRPOTV0a29ESWZvVTI4ZE1fdmJVdFNTNDROZV9WeUtYODZhNUM0RlF3OXBjRnJLMThiYWRrSEdFY0ZOUXRCQU14eWdZTGFpVjlNUkU3WWM0UlNEOHJTME45Ry1NVw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVdzZXdBc3hTSF8xWjNiVUlvZlk3RjhnY1RTSklkYTA0Tmw2SnZpMDFLd1ZNSDEtQ2hNZTJQY254ZDNYZDdPZUFJaHlpWkFrRC16amRPOTV0a29ESWZvVTI4ZE1fdmJVdFNTNDROZV9WeUtYODZhNUM0RlF3OXBjRnJLMThiYWRrSEdFY0ZOUXRCQU14eWdZTGFpVjlNUkU3WWM0UlNEOHJTME45Ry1NVw?oc=5\" targe",
-      "publishedAt": "2026-11-04T09:03:45.000Z",
+      "title": "Cricketer Virat Kohli leads India to victory over New Zealand — Dawn - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVhTTDlrMmNBVDloLVV1Zm1taDQ2MDZmNURJbk04aGEwcU96SW5wWnJDX0x3SU5DZk4ycHp6UnNNaE5RVVZBNF9QNjZKSGdjVkRzZG01VzJPTzdCbWFLdGxPcE9sZGs3SnNDZEFMeEdLc20wUzFZcWlmN1Z3N25NcHpzWGVmT0x6UGlScEpQNEl0VWtsQUJaaVFYWkY?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVhTTDlrMmNBVDloLVV1Zm1taDQ2MDZmNURJbk04aGEwcU96SW5wWnJDX0x3SU5DZk4ycHp6UnNNaE5RVVZBNF9QNjZKSGdjVkRzZG01VzJPTzdCbWFLdGxPcE9sZGs3SnNDZEFMeEdLc20wUzFZcWlmN1Z3N25NcHpzWGVmT0x6UGlScEpQNEl0VWtsQUJaaVFYWkY?oc=5\" target=\"_blank\">Cricketer Virat ",
+      "publishedAt": "2026-11-05T00:45:56.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli surpasses Sachin Tendulkar to stand alone at the top of ODI chases - Rediff",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0JZZ0JzaWZkUm5ZWk95WXhyUzVEMHpYNUpENDJSeUdRU0dkWFBqVUtKcnUwZEJraGVOVmxKSW9QeFU3N0h0SjA4My1uci1idW8wU1RqSzQ5NFZRNXNTdmdEc2JvRldVUDE4TEhQaWJFM3hlRjl2NXJ1LWtqbk9JbUlKU2g1ajdQQ1U3aDJXcUF6MG9mOEFlUTVtNU9Zd28zQUN3SUFkT3E1dWR4ZjdSdjdfTXlCbjlBSlE5QUN2R1NRZXdXUE1RRNIBywFBVV95cUxQbkJVeDJxZGpmWmdnRnI1NFRNNURCQjNxbTlPbzRVVjM4S3FfVEdlUzRZLWpKdWZjY1dsbDNhenpUR0FXM1U2T3ltSzUwOWstRWtYQlJHVC1XWllFUmFHd3I1N3NKMmZaekc3dm1HSlR5OXB4SHhhVnNQeEZmS08wZVFZMFJoWDhGTFlKcXpsb3Z1dGR2Z3BOVlcxWGpsdWhnSl9TeTdycmtmanBudjM5aTJSUFhYd1pQOG5JMFRHdGx3cXozWTZkRDhlOA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0JZZ0JzaWZkUm5ZWk95WXhyUzVEMHpYNUpENDJSeUdRU0dkWFBqVUtKcnUwZEJraGVOVmxKSW9QeFU3N0h0SjA4My1uci1idW8wU1RqSzQ5NFZRNXNTdmdEc2JvRldVUDE4TEhQaWJFM3hlRjl2NXJ1LWtqbk9JbUlKU2g1ajdQQ1U3aDJXcUF6MG9mOEFlUTVtNU9Zd28zQUN3SUFkT3E1dWR4ZjdSdjdfTXlCbjlBSl",
-      "publishedAt": "2026-11-04T11:22:10.000Z",
+      "title": "38 and still unstoppable: The stats charting Virat Kohli’s journey from U19 sensation to all-format emperor - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORDJJekNXNVRESndWQTBDTnFzdUdrcm5nQXRROW80NHg4dkRIcjdYMldEYVpRS3FjSzFTRXh4aHpDdWRWRnNoOXlzeVVoSzUzYmg4Q3J3bW9oWTFRRTh1QWRlT19WU0RmUzlzenhBQ1ZNdGRjUU1WajJtV0padjd4UXZUT1o0MC0tZ0M2OF9BVXN6X2dJV0dvZ0JjTDF1bTV2eUc2N3ZDbTBfbVk1U1NsRGxnVDJLRUt5bElVTEVKZUtnd0hrOTI2b0tWXzNqdVJFV1AyRFVFaFFWaHoyU3RxM2o2NW1EMVFyUkhXN092d9IB9AFBVV95cUxOS0VoTVJTbVVMRUtKSk53S1Znd2dTMzRQUlYtWkRpOVRZbjNnZGZmSnVpVTFmY2tCTjRyOXlaSjNreWZSOVp6ekdEbmNiQXZ1aDFPejJFc2F4ME5WU3FRZklSNEtOa0NJYS10RkJXblZqcDlsYXpzdkJVNjVYRzlOLUtyQVBkc09ZNURlQ3Y1aGtwMHc4RS01Nlg2M3BoMjUtOHoxMlFPSldrNk0tTkVCNVRsZGxZb3BuR3RaWlVDSVBoekRiTGRXZE02cW95WDJsOEd2RElYR09fUzRwaHI1UlYySUd3SGI4bU9XeDM1cFBrQXZG?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxORDJJekNXNVRESndWQTBDTnFzdUdrcm5nQXRROW80NHg4dkRIcjdYMldEYVpRS3FjSzFTRXh4aHpDdWRWRnNoOXlzeVVoSzUzYmg4Q3J3bW9oWTFRRTh1QWRlT19WU0RmUzlzenhBQ1ZNdGRjUU1WajJtV0padjd4UXZUT1o0MC0tZ0M2OF9BVXN6X2dJV0dvZ0JjTDF1bTV2eUc2N3ZDbTBfbVk1U1NsRGxnVDJLRUt5bE",
+      "publishedAt": "2026-11-05T08:30:59.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli becomes first player to amass 13000 ODI runs at No. 3 as remarkable batting legacy grows even richer | Cricket - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT3FvVjY4Zm9vaUtibDVUUjJrejdfT3hNdktlYVZHdDBJNlJyQlBocDNFWEpJdUJkMWVBVm5yWVJaZ3VDTDBSMjRjVURRTFNtRTAyRXVxT3Rid0pvUjQtdVptMGZZcUlvTzJpTFV5VDBsWGlHTjlRT2tMLTBRcHlIVmdndU5qMVMzUk5rVi1EN1RxMUR1Q2toQTZLVGcyYW9lYm12cTBRTmVkVGhvY1JoU3V1cVgtRDRwOXZxajl1Tzd4cktKTGtVazdpWXU1NHpGcUs1eG1OYWh6OUhvbGlwVWRhdnZ3ODI3ODlLYnVYclBCQm1ucktBWHVoX280NmQx0gGGAkFVX3lxTFBfSDh4dXBLNUJVY190VmNWSldsNDAwYmlwSFdIbjRmSjJZT1pzOHlwMXNydzlLOXY0R3JZOTJwQTQ4VGlJdGJJb0R6OVZHcjhhWUVVSEdLdG9yZVlCZlQwTGZpa1dwNGJ2NS1MLTRacVJMaG1RR202T0lfUEFrX0RNT2hvVnNmdmVNbkxaYlIxQUZab2laTEJ1QkxGYmZTSUplbXJZdDVFVkxwY0hDQWYwRjFTeGhTZTNIcGVqcGcxc3JOTU9kLUVDR0JDNV9jU3VSOGVOUDVGX1hPdmN0LUExcFZhaVlwQjF3R3Nia3RTQnRiSzc1bndxRVVrdTd5S2tlTE9QT0E?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNT3FvVjY4Zm9vaUtibDVUUjJrejdfT3hNdktlYVZHdDBJNlJyQlBocDNFWEpJdUJkMWVBVm5yWVJaZ3VDTDBSMjRjVURRTFNtRTAyRXVxT3Rid0pvUjQtdVptMGZZcUlvTzJpTFV5VDBsWGlHTjlRT2tMLTBRcHlIVmdndU5qMVMzUk5rVi1EN1RxMUR1Q2toQTZLVGcyYW9lYm12cTBRTmVkVGhvY1JoU3V1cVgtRDRwOX",
-      "publishedAt": "2026-11-04T09:54:16.000Z",
+      "title": "Virat Kohli Reveals Shocking Best ODI Knock -- It's Not a Century! - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGxiR0h5MU1YLWdyelV6OGxTLTlJV09ta2ZKazlaSUg0QnZnQ1RWd182cHZyZlc4UkZJY2xueG9ndUNyd1RqZ1Rlek1neEF5YWk2NkZkNUZzQ0FVaVRrWVZPR2JTYmVsMVRxdDFVZi1vLWdjTm4xR1lqalBTSFNxcDI4STVHbXVWYXBRd214WmJoNVM2TW5BRXY0el9IQzNnODliaDNHSkNGN3RFN1k4cjVaVzRqakZYSlHSAbwBQVVfeXFMT2RtbEpyS0hoUGlGSF92cDJJVVliRF9TVXZsTlVDUDRBMFBMbVVvTmt1b2dGbDlXcW5NQVg2UjdyeUVFZzBKNng4dmpaYkZIYmRDY2dHNnhCNmVBOXdJNXBhTWM2QW1GMGk4azFjYXJQZXdIMElqVng2OHBtenVQYnVZNVY4UG1tRUtnTjgtR3VyaHliRkFiZDgyS3J0d3BURmNsOUZtRDB0QkZUcU5abW8tNG9sN0dkNlhra24?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGxiR0h5MU1YLWdyelV6OGxTLTlJV09ta2ZKazlaSUg0QnZnQ1RWd182cHZyZlc4UkZJY2xueG9ndUNyd1RqZ1Rlek1neEF5YWk2NkZkNUZzQ0FVaVRrWVZPR2JTYmVsMVRxdDFVZi1vLWdjTm4xR1lqalBTSFNxcDI4STVHbXVWYXBRd214WmJoNVM2TW5BRXY0el9IQzNnODliaDNHSkNGN3RFN1k4cjVaVzRqakZYSl",
+      "publishedAt": "2026-11-05T07:09:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Virat Kohli breaks Sachin Tendulkar's world record in first ODI vs New Zealand in Auckland - India TV News",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVWxUcHZGLXhWalFJYWx5MXo3SU9PVmNhejJEOGRxSkhxUDFwa0NzU2w2NWcwR0FNYVNUbUtLUUhxMXVxWVVRRmZTb0VYa3NhcnUzM0xhRlhFd29Wa3BLMXFMUVV5dHdTZTZQdnVvQWNLeHVUdFJTYkI4OC1jWWRfcm9tN21veDVKYWF6RmhBU0NVRGFBOE9ieDZCX0laSW11VFJKN3p3RGQ5NXpYa0ktS0FRVjRBaXc3TnQ5dVdSYTBRbWthUzI3UjNKbWZsQ2ZpcHpCWVpERU90MmFhU2MxSE9zR0xfNWvSAewBQVVfeXFMTVBuWVlzR2ZUTnVBQ0RGVS1wUnZyYk1wQXowTjJ4R19XY0Z6TEotNXgwODJkdG82QXFxWnlZQ3Y0eFNpeGI4Z2p1eWx3M3FiZjliOVJsTDRWeHd4d1NaWnRKNHZzZzdIb3dQXzluQnd1bFVvYTBleGRYT2pFRWw3NVQ0RWFRWGxRcHJvVG51TVJkbXNOZUhkazVMU0xsYm1fSXVDc1A3MnBoek5sOU1peXdkSjc5cnVtWnlPNDU5M0lvN2tiWDZrVHJpZUNFV182TEN2VTRMVWhUYXRCLWZ2UGhEUVJHYXg4UmxUaTE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVWxUcHZGLXhWalFJYWx5MXo3SU9PVmNhejJEOGRxSkhxUDFwa0NzU2w2NWcwR0FNYVNUbUtLUUhxMXVxWVVRRmZTb0VYa3NhcnUzM0xhRlhFd29Wa3BLMXFMUVV5dHdTZTZQdnVvQWNLeHVUdFJTYkI4OC1jWWRfcm9tN21veDVKYWF6RmhBU0NVRGFBOE9ieDZCX0laSW11VFJKN3p3RGQ5NXpYa0ktS0FRVjRBaXc3Tn",
-      "publishedAt": "2026-11-04T11:29:34.000Z",
+      "title": "Virat Kohli score today for New Zealand vs. India 1st ODI in Auckland - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0M0aXFoV0g4LTVEZTh3SzViV0hoU3ItODduaEtSMk1JS1dvQlViOGFEMmtwR01WdUp6N013TTRCWFQ0OTQzNjYzZTAzYktvaDVOMDJONmR5eUhjQWM3VDV4XzV6SktJTWJwejNfcW9yZV96ODJURFNVdEU2Y3pOY01RckFISjA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0M0aXFoV0g4LTVEZTh3SzViV0hoU3ItODduaEtSMk1JS1dvQlViOGFEMmtwR01WdUp6N013TTRCWFQ0OTQzNjYzZTAzYktvaDVOMDJONmR5eUhjQWM3VDV4XzV6SktJTWJwejNfcW9yZV96ODJURFNVdEU2Y3pOY01RckFISjA?oc=5\" target=\"_blank\">Virat Kohli score today for New Zealand vs. ",
+      "publishedAt": "2026-11-04T09:22:53.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "'Serial failure, walking wicket': Fans lambast Babar Azam as Pakistan star gets out for a golden duck in ODI Tri-series final - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0k1c3JNTGdIX3VWM0R5UHQ3NXdKY0FhVTVYd2Ffc0ZDYzZIZFJ6cDhMQkJHRFRZYl93SXJiclhSNUR6OV9DYXBGMFFzcV9HbmpxN1FqSjFYZk52ejRBU04taE5yazVZLXg3S25LMHg0eVFwUzZxdlBwam5GUEQyaHdSWk0wY053VVpB?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0k1c3JNTGdIX3VWM0R5UHQ3NXdKY0FhVTVYd2Ffc0ZDYzZIZFJ6cDhMQkJHRFRZYl93SXJiclhSNUR6OV9DYXBGMFFzcV9HbmpxN1FqSjFYZk52ejRBU04taE5yazVZLXg3S25LMHg0eVFwUzZxdlBwam5GUEQyaHdSWk0wY053VVpB?oc=5\" target=\"_blank\">'Serial failure, walking wicket': Fans ",
-      "publishedAt": "2026-10-31T15:15:59.000Z",
+      "title": "Babar Azam's Teammate Makes Explosive Remark, Calls His Fanbase 'Toxic' - Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbi1sUW9jMXpBSnhIaTNkcFVDaV9jWWtVak85WnFxSF9jM0t5aHhyeUI1ZzdVazdTZnhoTktDaEVDT2RqN1dsNkFNVGpiVlBLeU5xRUV1cUl5MFZuY3Y3Q3E4MXljaTRLNG84a0RKQS03b2wyMkMtUTV5bzhLZldmLXRvN1RUaW9kem9tWXppb3JLY2M3Xzc5NF9TRzBaRGfSAawBQVVfeXFMUGd5ODdBN3ZoQ093RXdyblZkWHJISmowcFRMTmcyc1RaUlV4SDVIWFpCOVJYaXdiRVJWcDJfUUVpMHVCYXI4WmdmZnViVHFvSzM5bF9ZXzVOZ1hQQzBzUnhYVFNhRnhuSlVvSXpSeHZ1WURfLS10MUFkY1gwdFM4cHVXc01lMnZFOWV2NnNwVGtlZmM2WGVaTXB0MTJDN21NM3NRSS1nblc4dWY0Zg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbi1sUW9jMXpBSnhIaTNkcFVDaV9jWWtVak85WnFxSF9jM0t5aHhyeUI1ZzdVazdTZnhoTktDaEVDT2RqN1dsNkFNVGpiVlBLeU5xRUV1cUl5MFZuY3Y3Q3E4MXljaTRLNG84a0RKQS03b2wyMkMtUTV5bzhLZldmLXRvN1RUaW9kem9tWXppb3JLY2M3Xzc5NF9TRzBaRGfSAawBQVVfeXFMUGd5ODdBN3ZoQ093RXdybl",
+      "publishedAt": "2026-11-05T07:13:50.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar Azam Told To Skip Domestic Cricket In Concerning Verdict By Pakistan Great: \"Listen Now\" - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenNtdTdvbTc4dGxkeTV0LXNnZ0NodS1NaDJwQXFjOHRJQkFrcXNCTjdJRXFPWWlHR0YtLTZZTDNXUTFZZ0xsRll0b1lWVThGR0htdER5aUNRZzZiSnc3UzZpaU5VazByTTgzcFBJc0J5ZE9nOXRmUm05dGdBQW1RRFZyQUFiTTdiRFFJNC0wMWdfeDNpU1ZzTy0yN3B4SXg2djhDT08xbHEyWWlNTFNMQ0x2TkRLZkl2R3p1M09ieHpQVkQ0WUc0aUNxMjdfVDhfaVpPelB3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenNtdTdvbTc4dGxkeTV0LXNnZ0NodS1NaDJwQXFjOHRJQkFrcXNCTjdJRXFPWWlHR0YtLTZZTDNXUTFZZ0xsRll0b1lWVThGR0htdER5aUNRZzZiSnc3UzZpaU5VazByTTgzcFBJc0J5ZE9nOXRmUm05dGdBQW1RRFZyQUFiTTdiRFFJNC0wMWdfeDNpU1ZzTy0yN3B4SXg2djhDT08xbHEyWWlNTFNMQ0x2TkRLZkl2R3",
-      "publishedAt": "2026-11-02T00:56:39.000Z",
+      "title": "'Nothing wrong with Babar Azam and his game, but his fan base is very toxic' - Azam Khan highlights social media abuse in Pakistan cricket - CricTracker",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMnpiRWdKRmRMdk9HNlBnYWlvYWRsRW8xLXRhOUgyNkVuaDlobUIzWklfcXFlR2tOUUFrdEhWTWZGS3BNbWZJM2NEZDFyV3VUbm93V3Z0MjBuTHJ6SkRnMUNiVzdTWUllNkhlbU01aUxONUNfeGU3X3BzUEp5dUd0S01KUEZLWS01cTU2cUpFaTI3Xzczcy1fTzNJd1MyZkp5TkR4RWRMRzZRUWpzRHVQejhyNHJ2RS0wWEZqZFFaenFVMnlnQXZiYm9nRkEyYjB0bm9MN0ZLelpYWXEtZjAxTmJLU0ZPUE9heFh2ZHMzOF9wV0lWRzRfcWw5VGVkUmRXLWp2RFpB0gGOAkFVX3lxTFBINmFHcnBFUFRYaVUzbWJERDJVSTZYeDVIVkt6dDBFMkthcFlNLU1PZXBoQXRLYVNoeWI1bWdsSEhaa0xqLXcxMkF2c2x2cDE0Si1kUkhwV2lQRldlckVrY3IzLXpwUUNSX1NLam1VVjRZaE5HTTl1T3VYMXAzWEh6LXZoMWZ6TE9BNVZXRTlUa2p6di1HZjBQSWNxTk9oVnBybWJGM2o0dFQyakowQzdBZWVKa3JZTmlCNFlPSVlKT3UtSDJDV3IxUkw3ai1TNEZId09BZWN1Q19VSEtYNDdfd2NDZXllN2MxOEQ0SGZrLXExdHF1Z2E5SC1HbjhuRkhyNXc5VS1iQlhjSzVxUQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNMnpiRWdKRmRMdk9HNlBnYWlvYWRsRW8xLXRhOUgyNkVuaDlobUIzWklfcXFlR2tOUUFrdEhWTWZGS3BNbWZJM2NEZDFyV3VUbm93V3Z0MjBuTHJ6SkRnMUNiVzdTWUllNkhlbU01aUxONUNfeGU3X3BzUEp5dUd0S01KUEZLWS01cTU2cUpFaTI3Xzczcy1fTzNJd1MyZkp5TkR4RWRMRzZRUWpzRHVQejhyNHJ2RS0wWE",
+      "publishedAt": "2026-11-05T06:55:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Former Pakistan captain wants Babar Azam sent to England or Australia for batting lessons - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFZNWmFDTXBkc295bmd3VUV1T0pwWnY1aFczbGZDUVpIcFRRbE9IM1VEdFp4SjZOWEpFZ1ZXS0RzWXhSY1UyZzBHSFFUZ25mcmZib3BrMW1FYW50YzcyaEZiclBJb0ZqWXZiOXIxRHFFWWZHemYzdUJaM0Q2M2RwQmdTNGZQczBDelk5ZGVqSW9QaUdyUG5ic3ZUU3gxUl9oU3cyVnlCVmpycFV1Q25lckNsRzBaSXJuMEpUNW0yNUdxRmZ2V0R6UWdTalprTWVDZlE?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFZNWmFDTXBkc295bmd3VUV1T0pwWnY1aFczbGZDUVpIcFRRbE9IM1VEdFp4SjZOWEpFZ1ZXS0RzWXhSY1UyZzBHSFFUZ25mcmZib3BrMW1FYW50YzcyaEZiclBJb0ZqWXZiOXIxRHFFWWZHemYzdUJaM0Q2M2RwQmdTNGZQczBDelk5ZGVqSW9QaUdyUG5ic3ZUU3gxUl9oU3cyVnlCVmpycFV1Q25lckNsRzBaSXJuME",
-      "publishedAt": "2026-11-02T03:25:46.000Z",
+      "title": "\"Your mom will die\": Azam Khan reveals horrific abuse from Babar Azam fan - Cricket Addictor",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBoYlZYNmc3dWNwbmRKU0gxSzAtaXdkTWJfck0ydk83TjBGWFg4Ml9tOTNGWGk1a19ZeHRfMVFnallDeEdEbks0a1VWbVc4TGJiN05kVVBPYjl1ZlY1N3hqaWxNdU1HV2RfTTZ0Z2hxYzVEN2hmWFR4ckxTQmNkYXF5TGNBdm9hLUdDXzBfdzFVM2xoSzlOamZGUkd4blNpVklJWHA5c3JZWUJhOXNUWThvSlJUTmk1SHpN?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBoYlZYNmc3dWNwbmRKU0gxSzAtaXdkTWJfck0ydk83TjBGWFg4Ml9tOTNGWGk1a19ZeHRfMVFnallDeEdEbks0a1VWbVc4TGJiN05kVVBPYjl1ZlY1N3hqaWxNdU1HV2RfTTZ0Z2hxYzVEN2hmWFR4ckxTQmNkYXF5TGNBdm9hLUdDXzBfdzFVM2xoSzlOamZGUkd4blNpVklJWHA5c3JZWUJhOXNUWThvSlJUTmk1SH",
+      "publishedAt": "2026-11-05T07:49:15.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Schedule and team rosters announced for Quaid-e-Azam Trophy Gold and Silver - Pakistan Cricket Board (PCB)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGEzYzIzN3NnLVdrWERwOHRTajdNcHpfbW9nTnBPWXNEOWlqUUhuQk1pTG1odFpUZF9ucjVxWVdNdEt5ME1DNEhDWXpjekN4bkd2d0tBSzhXa01WWmhQdFh5MnlUbWtWZUkzTEJ6T2luMXR2UVY2SzBvLWFOV0gzOGhLRzAxZ1JEU2t3blpZS1VVT2xieUZ5d1QtdEd1UHBTbGlFZF9UNm00NmdXNVc4VnRkQ0VDdFVsblIzaVk0UTR3QQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGEzYzIzN3NnLVdrWERwOHRTajdNcHpfbW9nTnBPWXNEOWlqUUhuQk1pTG1odFpUZF9ucjVxWVdNdEt5ME1DNEhDWXpjekN4bkd2d0tBSzhXa01WWmhQdFh5MnlUbWtWZUkzTEJ6T2luMXR2UVY2SzBvLWFOV0gzOGhLRzAxZ1JEU2t3blpZS1VVT2xieUZ5d1QtdEd1UHBTbGlFZF9UNm00NmdXNVc4VnRkQ0VDdFVsbl",
-      "publishedAt": "2026-11-02T08:15:11.000Z",
+      "title": "WATCH: Babar Azams Controversial Dismissal Sparks Umpiring Row In Pakistans Domestic Cricket - ABP Live English",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2tsVlpYZzNwY3lLSjhOemFpOGpMZGNrTFJUQ0tWVXJHZjZBUWhscmkyWUkxM1Y0Tnd3a3B5RUp4clhqOTEycnRhZzk0VG1vVGtKVWRkR1Y1NXNUTzJUQ0MzX2FiMnBKcnZXby1iSzhnWlVCZGF5UkRSSlhZRXQzOU00Vmg1RThBekFrTk11bmh3SVRET1hXZ0FzMVh5eEJfX2xMS085Z3pKdF960gGyAUFVX3lxTE5wcDBfaGJyYjhlUGhSTTdUN3dMLXdKV3NxZm0tOG5CSEJKT2k5VkJtcXBXOEk2VURvYlo5TUVhUy1JY1p4S2dTZHNaeXFwQWh6Sk1feWFqS0Q0c3NVbG1VbHpqd1VSbGh1bVVWN21rSGw0TFpRcEtYS2RuM2NfMHplejZZOU1qd1hhRVZIMWpsZmFkaVJtZkV3ZVBwbDgyeGdkNW45N2NJdmhlUTV5VUdfZ2c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2tsVlpYZzNwY3lLSjhOemFpOGpMZGNrTFJUQ0tWVXJHZjZBUWhscmkyWUkxM1Y0Tnd3a3B5RUp4clhqOTEycnRhZzk0VG1vVGtKVWRkR1Y1NXNUTzJUQ0MzX2FiMnBKcnZXby1iSzhnWlVCZGF5UkRSSlhZRXQzOU00Vmg1RThBekFrTk11bmh3SVRET1hXZ0FzMVh5eEJfX2xMS085Z3pKdF960gGyAUFVX3lxTE5wcD",
+      "publishedAt": "2026-11-04T12:01:14.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar, Shaheen set for Quaid-e-Azam Trophy opening-round clash - Dawn",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KbG1nUnRlMXRPcEpUYWJLMjlSOGp4T1pOR0RMYXFPUUM4OGtmQ2hQdU9WT0MyODJ3MlpYRHNMM28xSzJzWmFtaw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KbG1nUnRlMXRPcEpUYWJLMjlSOGp4T1pOR0RMYXFPUUM4OGtmQ2hQdU9WT0MyODJ3MlpYRHNMM28xSzJzWmFtaw?oc=5\" target=\"_blank\">Babar, Shaheen set for Quaid-e-Azam Trophy opening-round clash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dawn</font>",
-      "publishedAt": "2026-11-02T10:41:53.000Z",
+      "title": "WATCH: Babar Azam unhappy with umpires call during Quaid-e-Azam Trophy match - Geo Super",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzZEUWJUZkxiZ01kbkpyNU5oZUZCQllid1FqVzRzRGhKaW1MVUc4VGMxVFNLUnBTcDA3WmVtdW9KRm5uaEF6a3lKQ2xrcUJFbDhVZlF1Nm9WVkRvZnpPdFVyOHJ1Q0VSQy1rTURTOHhDWXMwRDFTNkJzVGdOeGExcV9MeVRCaFN6TXY1WDBkVWJHVFJvWGpCLWJtMWhGcGctallEWHZiekRZTXpVel8zc05n0gGuAUFVX3lxTE01ZnNHRmQwekxKdWxkYWVJMjBDSXFLbmtEYkpoUlRUR2FXaFl3N09oTTZUNU5VZlFadFZVcEV6RjJrWk9VdkUwREpyckJaMmlqajhPU3QzcTJlUVcyN0NMd0pIakhSOFVoTDBRTHdQVnRCQ2MxWFRuUGVIRXluNmo1VmRMRWwtZmZaWkdBQ2NMeHFrbUxaNko1R3pOSk1ZblAtMzVZQ1c1cnh2VG83dw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzZEUWJUZkxiZ01kbkpyNU5oZUZCQllid1FqVzRzRGhKaW1MVUc4VGMxVFNLUnBTcDA3WmVtdW9KRm5uaEF6a3lKQ2xrcUJFbDhVZlF1Nm9WVkRvZnpPdFVyOHJ1Q0VSQy1rTURTOHhDWXMwRDFTNkJzVGdOeGExcV9MeVRCaFN6TXY1WDBkVWJHVFJvWGpCLWJtMWhGcGctallEWHZiekRZTXpVel8zc05n0gGuAUFVX3",
+      "publishedAt": "2026-11-04T10:33:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Sadiq pinpoints flaws in Babar's batting - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnlJcFdjQzN5M1gtSTRodGxXRjdZeVY1eVFGY3RYeUVRUlN4QWt0VUx2TTV5YjRtV1dwdlVYZWVuaTV0VkJjM01Jc0l4UzgzcG5BaDNxNERHTXFwaWVIVE13VVhNOFBZN0ZmeEQ5d0FCbkM2ZjhxQmV2NFVFRDItRGFJRlJoUQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnlJcFdjQzN5M1gtSTRodGxXRjdZeVY1eVFGY3RYeUVRUlN4QWt0VUx2TTV5YjRtV1dwdlVYZWVuaTV0VkJjM01Jc0l4UzgzcG5BaDNxNERHTXFwaWVIVE13VVhNOFBZN0ZmeEQ5d0FCbkM2ZjhxQmV2NFVFRDItRGFJRlJoUQ?oc=5\" target=\"_blank\">Sadiq pinpoints flaws in Babar's batting</a>&",
-      "publishedAt": "2026-11-02T16:01:39.000Z",
+      "title": "Video shows Babar Azam teaching junior fielder to concentrate, then dropping catch on next ball - The Current",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkNpa3lzQzVhQ1hVV1B5Y1J6UDZiZElxNHdlOUxlTkJQOTREcXFObE5vcmZwZEE3aFpMR0tfSEdrTHlRNWszcTFneEJLa0s2WjltZGhCTzB3YWNRWlNtR0szeEFpWEJENDlsdDF6eGdVTzh3cEF2aHY2bXgyallUU2xZc1pZT2VxYXdqQlprSjQxZW5uX2ZOQVEwQWFaSHB6Q2w2Ym81b3p6ekN4NDI2bEpHMi1iR0JW?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkNpa3lzQzVhQ1hVV1B5Y1J6UDZiZElxNHdlOUxlTkJQOTREcXFObE5vcmZwZEE3aFpMR0tfSEdrTHlRNWszcTFneEJLa0s2WjltZGhCTzB3YWNRWlNtR0szeEFpWEJENDlsdDF6eGdVTzh3cEF2aHY2bXgyallUU2xZc1pZT2VxYXdqQlprSjQxZW5uX2ZOQVEwQWFaSHB6Q2w2Ym81b3p6ekN4NDI2bEpHMi1iR0JW?o",
+      "publishedAt": "2026-11-05T06:42:44.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Quaid-e-Azam Trophy to begin on November 3 with 20 regional teams - The Nation (Pakistan )",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUdUYzlZQ1Z2VEZZN0hEOXg2WUh0aWJkT0l1UWQ4eGJUTVZLaTlOTndZTG5uR3loQ29BMVJJQXpGUThxR1ZKd2dYZUY0LTd5aWpjOTc2b3IyTFB5c3RRNllTeUdUVVJvdmtScTZCSHViLTVSZFFEOHdVbTJJX2FuUUd1ZFlJb0lNby1SdTd1enNhZ19MclFr?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUdUYzlZQ1Z2VEZZN0hEOXg2WUh0aWJkT0l1UWQ4eGJUTVZLaTlOTndZTG5uR3loQ29BMVJJQXpGUThxR1ZKd2dYZUY0LTd5aWpjOTc2b3IyTFB5c3RRNllTeUdUVVJvdmtScTZCSHViLTVSZFFEOHdVbTJJX2FuUUd1ZFlJb0lNby1SdTd1enNhZ19MclFr?oc=5\" target=\"_blank\">Quaid-e-Azam Trophy to ",
-      "publishedAt": "2026-11-02T14:20:30.000Z",
+      "title": "Babar Azam’s poor form continues after controversial dismissal in Quaid-e-Azam Trophy - Cricket Addictor",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOemxJYnV4VW9WaHlWR1pvT0xfM1FwV1BRbVRNLTJuNkZ1LTBZdFg0MWRhWi1fSThMd19pU09MOEhjeFh3QUxZblpXNHdXX2NfemJOemxVZF85WHVxTFlfUS1SSDBISGlYWEFlVEZ4ZHZBVVR0Zk1Sd1dnRGVlRjYtUnZIaDVoUnZGeTRkUzJFN0I5ano0TWZ1SXFUTUF0NEhfZGE5b0FnMVh2am1jY2xSZ3VsVGJMTkZldHpJLXh2b0RaTzlPZU1vWUo3alBwZw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOemxJYnV4VW9WaHlWR1pvT0xfM1FwV1BRbVRNLTJuNkZ1LTBZdFg0MWRhWi1fSThMd19pU09MOEhjeFh3QUxZblpXNHdXX2NfemJOemxVZF85WHVxTFlfUS1SSDBISGlYWEFlVEZ4ZHZBVVR0Zk1Sd1dnRGVlRjYtUnZIaDVoUnZGeTRkUzJFN0I5ano0TWZ1SXFUTUF0NEhfZGE5b0FnMVh2am1jY2xSZ3VsVGJMTkZldH",
+      "publishedAt": "2026-11-04T12:02:09.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Quaid-e-Azam Trophy begins tomorrow - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmekRub3hEYkR2TGl5ZUk2bWtJWkpGWEUxb2hSYUkyNkdBeW1waHJqeVFISUl4dmxoekkzY1RoVEdIaGthaXRWX2RpMDRrdFFIZm9rY3JyMVhNQS10a0xsd05CUDFSX1FzMFdmQlYxcktYTFVyWEVwQTFfbznSAYQBQVVfeXFMUFlMRDZQaHZkZ3lkMWJYMTN4WG5scl9tb0hBUmN2STRPMUZ0d2xfemROa0xDNG11QWt6YTJ3cnA4cnV3bGdUOHdiX1hRNTROTTBsNkZjZzkzUFdHZ2ZIWEtEU0NGZUJZamlHR24wd09WSGdyZzNER09jNHM1V1F5Q2VMRW1T?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBmekRub3hEYkR2TGl5ZUk2bWtJWkpGWEUxb2hSYUkyNkdBeW1waHJqeVFISUl4dmxoekkzY1RoVEdIaGthaXRWX2RpMDRrdFFIZm9rY3JyMVhNQS10a0xsd05CUDFSX1FzMFdmQlYxcktYTFVyWEVwQTFfbznSAYQBQVVfeXFMUFlMRDZQaHZkZ3lkMWJYMTN4WG5scl9tb0hBUmN2STRPMUZ0d2xfemROa0xDNG11QWt6YT",
-      "publishedAt": "2026-11-02T07:40:10.000Z",
+      "title": "Babar Azam furious after controversial dismissal in Quaid-e-Azam Trophy - Minute Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmVndFRXVC1KUnBYU0dBT3BDd1FKR0N5S3gyeG54VTFrVHBJdmY4YWJoTXF2WU1sUWxTeVpMSFJ1aEUzNTBXY0hfSHVRY0xPTHZyTWZGNXJCNVhWVzk2YTZNdk13T1BHRG5SXzVtd2U3V2U2OGJVM0xYMGJ6VW9PcW5fM3ZIMnhzMnRfZVpiVHRHLW0wazZzaVlPSloxcnVFUDQwdlphWWppZDQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmVndFRXVC1KUnBYU0dBT3BDd1FKR0N5S3gyeG54VTFrVHBJdmY4YWJoTXF2WU1sUWxTeVpMSFJ1aEUzNTBXY0hfSHVRY0xPTHZyTWZGNXJCNVhWVzk2YTZNdk13T1BHRG5SXzVtd2U3V2U2OGJVM0xYMGJ6VW9PcW5fM3ZIMnhzMnRfZVpiVHRHLW0wazZzaVlPSloxcnVFUDQwdlphWWppZDQ?oc=5\" target=\"_bla",
+      "publishedAt": "2026-11-04T12:04:10.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Shaheen Afridi pleads guilty as Pakistan punished after tri-series win; Babar advised to 'go to Australia - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQeEZ4eEpsTUwwZWhFaVdEM2RlcmJIOTY5MVhzOGRCaXdjcjFnV29HYmZDV0hyaWQwcWtQcHZqVy1lX2xsNEM2S3dBeDVMa0llOFdNXzJRaGctM0l0UWJNQThzUjdQbnNOTkN6RmwydExCSFpRM3ROUG9tSjR4cC1wMHpQZGxKRXFDcTE1UnNTY1pYQk5NNm1NZEtMZGZUT3RTaFJVYjlERGFmazg5MlBMTHFPWVJHU29QeldXejFRV09haTFSVXFsTmtHZ2hwTGN2WmlrejlBRlR5UFBSdmQ2Q2lFcHpEajZRUy1JdGN2NDhEUEhqbDNtVHhKcTcxSmtCVEpoNHJVX29SN3ZEUEVBZU1oaVhaalg2Y2xIYmtlZThJMngtdGh30gGsAkFVX3lxTE9CeUItU1ZNczE1S3Nva01lbVBfSDVtTGVrR3lHMXl3SlRPQlBlY3UzR3pvZExoZUtTYTVUZ2RMbER0UVh1TTUwQVBHZFFULVRzTEdDYjBMbDU1cWFzcGZwUEtIUDFDUENaODl0MVZhZkR0RXlobGNMNUdzeVpIMkRGR29wY3FCU3NYMEZUcDNEWlVteThXbWl5QzNucXRfN0hrVFNDaklxeW0zZWwyUWFTY2FMbm0xdVdidkVVNXE5YjRkMk94cTl5cnZPcTF0bmhRNl9YeFY4OHZsN08yekxOZTZKT0FOZXp3VDlsY0lfdHJiWFNuNm9rOUVMY2FKWEZuS0ZzY0RpUm8wVl9wSU00TnVXblFlSFZFQ19GcmFvTlpscmZTaGlDOU5mSA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxQeEZ4eEpsTUwwZWhFaVdEM2RlcmJIOTY5MVhzOGRCaXdjcjFnV29HYmZDV0hyaWQwcWtQcHZqVy1lX2xsNEM2S3dBeDVMa0llOFdNXzJRaGctM0l0UWJNQThzUjdQbnNOTkN6RmwydExCSFpRM3ROUG9tSjR4cC1wMHpQZGxKRXFDcTE1UnNTY1pYQk5NNm1NZEtMZGZUT3RTaFJVYjlERGFmazg5MlBMTHFPWVJHU29Qel",
-      "publishedAt": "2026-11-02T10:02:00.000Z",
+      "title": "Mohammad Yousuf urges Babar Azam to seek specialised coaching in England or Australia - Geo Super",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1ZaVGVoVzVrYkJjN0V4aWRKRk84bkZ2WXI1VGVIaXhFaEdMZ3UyZmJhUkthMFVEY21fU1d2bXdGMXl0YXU1eGVjYlFleXJnd0VYdjRydHBuYTN2S0N2M2NDd3lnRl9yZ2FGNjhOX1V5ZS1zeTRTUkFJaWJmNDBPdlJlYlQ5QmlkUWFxaXEzSUFJekFNOWpEUTJYVFlDbUVsZ0NlTng3Z3hMTVlKekVBcFBjSmNzYnRvTi1ZM2NMRdIBuwFBVV95cUxPbGJ1aEdVVE9iV0FXZENkVVdvVjl2SWoyaXVVRzlJWk5uT3k3bDhKYW80aFllaEZrODRvR1NpWDNuSXZhSDlXT00xWlpJeHppUjZfd295c1JWV1Nlb3ZUeHg0V3pOeEFIMmFNd1k2T013ckdlamZIZ3ZTRFRWYU9sam9BcVhici0yVmpqcHo2Uy1vQ0RfRk9WVENmeHJncDZhbGxZVkstVE4yTEVpbklnZ1BPb2RfdDZDOTVj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1ZaVGVoVzVrYkJjN0V4aWRKRk84bkZ2WXI1VGVIaXhFaEdMZ3UyZmJhUkthMFVEY21fU1d2bXdGMXl0YXU1eGVjYlFleXJnd0VYdjRydHBuYTN2S0N2M2NDd3lnRl9yZ2FGNjhOX1V5ZS1zeTRTUkFJaWJmNDBPdlJlYlQ5QmlkUWFxaXEzSUFJekFNOWpEUTJYVFlDbUVsZ0NlTng3Z3hMTVlKekVBcFBjSmNzYnRvTi",
+      "publishedAt": "2026-11-01T10:20:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar, Shaheen to feature in Quaid Trophy - The News Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWM5dWhwTlROVTQ5d29jZ3ZaeWVwdXZFYzNGaXRWZXZPX1hxaDNESmcwT1V6ZW1nV28xZFdDZGhvTlcwQlZ4Z08yXy1XXzhUV2kxVGdsMFpvVm9rcE42RnRUVkQyRFMwcjFWNi1Eb2FQSVdObFJza21OMlo5dkZsaDl6Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxONWM5dWhwTlROVTQ5d29jZ3ZaeWVwdXZFYzNGaXRWZXZPX1hxaDNESmcwT1V6ZW1nV28xZFdDZGhvTlcwQlZ4Z08yXy1XXzhUV2kxVGdsMFpvVm9rcE42RnRUVkQyRFMwcjFWNi1Eb2FQSVdObFJza21OMlo5dkZsaDl6Zw?oc=5\" target=\"_blank\">Babar, Shaheen to feature in Quaid Trophy</a>&nbs",
-      "publishedAt": "2026-11-02T19:00:00.000Z",
+      "title": "Pakistan Legend Makes Bold Suggestion to Save Babar Azam’s Career - ProPakistani",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2lHaDJYaXhFTGlCVlY3TzFXVmZXWXBSNnhOUjJfMjltOUhNNHk1QW1iWlp2SlpCWERYakZ4d196UnU4dTJTM1dxRWhqanZkVGVCWW4xeENsTFgzVjF6NkVaTmtHbEdsM3VPWUJDek55TUYtM0ZMVDRUVnBCR2d2aUduQnlEdzBOQm1oUDRzZTFBcnV2VTZ3dGtaTFkyNy1YZEHSAacBQVVfeXFMTmp4Rm5acHBsMXBsMEJMMURSckVWVGFfNHdqZUQtcE5rT2o4UWFwM2wwbzJHNlBGOG1BU1l0RnltaHFxQS1sZmg2TkE0cDNBS24weE1XRm53RTl2elVKbEczNDE0ZmVhdXBNdU16OHUxOTlCWGV5Qy1rRXlCaWtEMzBIMU14Nnkwc2lzdk9pcXdrY01oODZvSWpVOGt1eTMwZ1lEV1FnTjg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2lHaDJYaXhFTGlCVlY3TzFXVmZXWXBSNnhOUjJfMjltOUhNNHk1QW1iWlp2SlpCWERYakZ4d196UnU4dTJTM1dxRWhqanZkVGVCWW4xeENsTFgzVjF6NkVaTmtHbEdsM3VPWUJDek55TUYtM0ZMVDRUVnBCR2d2aUduQnlEdzBOQm1oUDRzZTFBcnV2VTZ3dGtaTFkyNy1YZEHSAacBQVVfeXFMTmp4Rm5acHBsMXBsME",
+      "publishedAt": "2026-11-02T10:51:26.000Z",
       "source": {
         "name": "Google News"
       },
@@ -458,16 +458,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUWUyaG1adXNzRU10dVA2RXhjMlNlenRRRFppSm5JeF9OQlZucGdZZkRBQkdkYnJCNVZiM0FNcWZlNV84SHQ3S2ZlRXVkWVpZcFNZYXVwSlBST1U3WUdWVzVQTjFpSk40ZDRLeExMMC1LaEZyZS10bkpabEdRMElBRlB1LVJJWEVuM0xKdTdQelVrU2VXMTlZUlBOTFJZMEFEc1FnOXNhSWI5UGhKeVd6dTNRem15OUx2QjVrMTZFa05vSEFXa2pXc0FPTUN2ZERZMmxIUWpPMlBjd9IB4AFBVV95cUxPODBVelMzMTZfZlBfVnFDdXphQnV4eGM2cnYwWXlNaks3NFdYWGxpT0NrZkdUNGs3R3hGZGJMUV9FRTl0UEUtWjBTMkdIVjlaRUlZN3N4dU1MR0NWdXdjdkdvYnRjSGljdGt1bWpzZnR0bmU3cEo0LXFiM3FkLWE4RmV6X0k2bVhsdUZJVzFFWE03Q0s3WFdkZjBPZjBrQTJGZWVrQ0o1TVpuMTRkc1dqZk1pdFA1NDB2YWhlZkM0c1kxTTM4NUFCdzI3MzMxU28xWHRhOVdrbllhTFVYanNpZg?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUWUyaG1adXNzRU10dVA2RXhjMlNlenRRRFppSm5JeF9OQlZucGdZZkRBQkdkYnJCNVZiM0FNcWZlNV84SHQ3S2ZlRXVkWVpZcFNZYXVwSlBST1U3WUdWVzVQTjFpSk40ZDRLeExMMC1LaEZyZS10bkpabEdRMElBRlB1LVJJWEVuM0xKdTdQelVrU2VXMTlZUlBOTFJZMEFEc1FnOXNhSWI5UGhKeVd6dTNRem15OUx2Qj",
       "publishedAt": "2026-11-02T14:06:12.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Kerala Piravi 2026: Celebrating 70 years of modern Kerala’s rich history, culture and identity - Mathrubhumi English",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmtrQ1FSWG9ZbjB2dkRjejFkUGVySjVFY05xeG5fY182UEt3aUg5eksxVzR1dDlzdjlvc2xQNmJkQm13Y0xxRVk1RjItMy1BalVQTFhfRFdWdU9yVktCeEdxTERBNG5nNk9TdWxHLUU5VkFxYXA5MUJNd3E5WDVlRl9Md09pSUNwa3g2UHRLZ2VHMW9GdkNma3lITUYtZnRTZVVtamZuaTkyQ3htM0llcEYzeDBhNFE1bTMzc01vRUV0SUJsUTVxMm1mNFNOMzNacThBWjVqSUxXWWlv0gHiAUFVX3lxTFBSckUtQ0dVQ2JpZ1IxMnE1N2J3eUZTUkYyeXJRdGtrR0p1RkYwSlllME9qY0kyNHRMMklTcmNOeWJFUFlPY2ZFZ09ISWZtMmVNdEh5dXpJTXloSmdNeWV2dW1ieUZ1YzBtVjFvb05BaE1IQmdmdE9kc2pIUkNYbjNCbnhrRkZ4bG1vRVNhQ3VQc1p5eXAzejhJX3lRTXRLS05pUnhRem02Ul85Qk1OOWdTVGl3c2VKTkZqeGF4a1lvRk5RdXRlLUZLbEJDODd2a0pyQkJRWGhPTzNLVEhBMWNnNXc?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmtrQ1FSWG9ZbjB2dkRjejFkUGVySjVFY05xeG5fY182UEt3aUg5eksxVzR1dDlzdjlvc2xQNmJkQm13Y0xxRVk1RjItMy1BalVQTFhfRFdWdU9yVktCeEdxTERBNG5nNk9TdWxHLUU5VkFxYXA5MUJNd3E5WDVlRl9Md09pSUNwa3g2UHRLZ2VHMW9GdkNma3lITUYtZnRTZVVtamZuaTkyQ3htM0llcEYzeDBhNFE1bT",
-      "publishedAt": "2026-11-01T02:19:09.000Z",
       "source": {
         "name": "Google News"
       },
