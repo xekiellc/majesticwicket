@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T00:53:52.653Z",
+  "lastUpdated": "2026-11-06T09:06:18.910Z",
   "recentMatches": [
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
@@ -440,6 +440,90 @@
       "matchEnded": true
     },
     {
+      "id": "8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e",
+      "name": "India U19 vs Nepal U19, 4th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "India U19 need 83 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T05:00:00",
+      "teams": [
+        "India U19",
+        "Nepal U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Nepal U19",
+          "shortname": "NE19",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 128,
+          "w": 10,
+          "o": 42.3,
+          "inning": "Nepal U19 Inning 1"
+        },
+        {
+          "r": 46,
+          "w": 0,
+          "o": 8.5,
+          "inning": "India U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8073572e-2b62-4837-ad19-42e9f644276d",
+      "name": "Pakistan U19 vs United Arab Emirates U19, 3rd Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Innings Break",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T05:00:00",
+      "teams": [
+        "Pakistan U19",
+        "United Arab Emirates U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan U19",
+          "shortname": "PK19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Arab Emirates U19",
+          "shortname": "AE19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 224,
+          "w": 10,
+          "o": 50,
+          "inning": "United Arab Emirates U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "7b5135ce-6494-4ac9-97cd-87999a602d5b",
       "name": "Bangladesh U19 vs Afghanistan U19, 2nd Match, Group B, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
@@ -532,7 +616,7 @@
       "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
       "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 1: Stumps - West Indies opt to bat",
+      "status": "Day 2: 3rd Session - Bangladesh trail by 317 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T03:30:00",
@@ -554,10 +638,16 @@
       ],
       "score": [
         {
-          "r": 235,
-          "w": 4,
-          "o": 70,
+          "r": 356,
+          "w": 10,
+          "o": 106.4,
           "inning": "west indies Inning 1"
+        },
+        {
+          "r": 39,
+          "w": 2,
+          "o": 18.2,
+          "inning": "Bangladesh,West Indies Inning 1"
         }
       ],
       "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
@@ -570,7 +660,7 @@
     {
       "id": "8ad504bb-250d-41e3-b7cc-12cb65ea6e32",
       "name": "Afghanistan vs Zimbabwe, 1st Test, Afghanistan vs Zimbabwe in UAE, 2026",
-      "status": "Day 1: Stumps - Zimbabwe opt to bat",
+      "status": "Day 2: 2nd Session - Zimbabwe opt to bat",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T05:30:00",
@@ -592,9 +682,9 @@
       ],
       "score": [
         {
-          "r": 326,
-          "w": 5,
-          "o": 87,
+          "r": 431,
+          "w": 6,
+          "o": 115,
           "inning": "zimbabwe Inning 1"
         }
       ],
@@ -608,7 +698,7 @@
     {
       "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
       "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
-      "status": "Day 1: Stumps - Ireland A opt to bat",
+      "status": "Day 2: 1st Session - Zimbabwe A trail by 416 runs",
       "venue": "Harare Sports Club, Harare",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T07:30:00",
@@ -630,17 +720,23 @@
       ],
       "score": [
         {
-          "r": 420,
-          "w": 9,
-          "o": 90,
+          "r": 424,
+          "w": 10,
+          "o": 93.1,
           "inning": "ireland a Inning 1"
+        },
+        {
+          "r": 8,
+          "w": 2,
+          "o": 3,
+          "inning": "Zimbabwe A,Ireland A Inning 1"
         }
       ],
       "series_id": "55616b78-3f8c-429a-b9c2-cf73c72d4cd4",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
+      "matchStarted": true,
       "matchEnded": false
     },
     {
@@ -944,6 +1040,45 @@
       "matchEnded": true
     },
     {
+      "id": "0e3699f8-43b2-461b-a659-4d38daf9bf35",
+      "name": "Melbourne Stars Women vs Sydney Sixers Women, 12th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women opt to bat",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T08:10:00",
+      "teams": [
+        "Melbourne Stars Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 97,
+          "w": 3,
+          "o": 13.3,
+          "inning": "sydney sixers women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "f6bfa913-6f79-4fd9-ab8a-fe0b4cf5a456",
       "name": "Sydney Thunder Women vs Perth Scorchers Women, 11th Match, Womens Big Bash League 2026",
       "matchType": "t20",
@@ -979,145 +1114,6 @@
           "w": 10,
           "o": 19,
           "inning": "Sydney Thunder Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "de774f34-7940-44c4-acce-8918a8069613",
-      "name": "Adelaide Strikers Women vs Brisbane Heat Women, 10th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Brisbane Heat Women won by 14 runs",
-      "venue": "Drummoyne Oval, Sydney",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T04:40:00",
-      "teams": [
-        "Adelaide Strikers Women",
-        "Brisbane Heat Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Adelaide Strikers Women",
-          "shortname": "AS-W",
-          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
-        },
-        {
-          "name": "Brisbane Heat Women",
-          "shortname": "BH-W",
-          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 4,
-          "o": 20,
-          "inning": "Brisbane Heat Women Inning 1"
-        },
-        {
-          "r": 170,
-          "w": 5,
-          "o": 20,
-          "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e94f6544-143e-4fdb-ac41-a922022899ed",
-      "name": "Pakistan Cricket Board Patrons XI vs Sri Lanka, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026",
-      "status": "Day 2: Stumps - Sri Lanka lead by 193 runs",
-      "venue": "Islamabad Club Cricket Oval, Islamabad",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T05:00:00",
-      "teams": [
-        "Pakistan Cricket Board Patrons XI",
-        "Sri Lanka"
-      ],
-      "teamInfo": [
-        {
-          "name": "Pakistan Cricket Board Patrons XI",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 223,
-          "w": 7,
-          "o": 58,
-          "inning": "sri lanka Inning 1"
-        },
-        {
-          "r": 151,
-          "w": 8,
-          "o": 16,
-          "inning": "Pakistan Cricket Board Patrons XI,Sri Lanka Inning 1"
-        },
-        {
-          "r": 121,
-          "w": 6,
-          "o": 38,
-          "inning": "sri lanka Inning 2"
-        }
-      ],
-      "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "786781a5-0548-479e-b268-a87521ea2e36",
-      "name": "Hobart Hurricanes Women vs Melbourne Renegades Women, 9th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Melbourne Renegades Women won by 4 wkts",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T08:10:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Melbourne Renegades Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Hobart Hurricanes Women",
-          "shortname": "HB-W",
-          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
-        },
-        {
-          "name": "Melbourne Renegades Women",
-          "shortname": "MR-W",
-          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 154,
-          "w": 7,
-          "o": 20,
-          "inning": "Hobart Hurricanes Women Inning 1"
-        },
-        {
-          "r": 155,
-          "w": 6,
-          "o": 19.5,
-          "inning": "Melbourne Renegades Women Inning 1"
         }
       ],
       "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
