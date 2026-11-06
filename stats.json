@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T15:26:08.093Z",
+  "lastUpdated": "2026-11-06T20:18:52.661Z",
   "recentMatches": [
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
@@ -174,92 +174,6 @@
       "matchEnded": true
     },
     {
-      "id": "61292707-79ae-4976-91ba-5c5db4d4d24b",
-      "name": "Chitwan Rhinos vs Sudur Paschim Royals, 11th Match, Nepal Premier League 2026",
-      "matchType": "t20",
-      "status": "Sudur Paschim Royals won by 5 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T10:45:00",
-      "teams": [
-        "Chitwan Rhinos",
-        "Sudur Paschim Royals"
-      ],
-      "teamInfo": [
-        {
-          "name": "Chitwan Rhinos",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sudur Paschim Royals",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 129,
-          "w": 6,
-          "o": 20,
-          "inning": "Chitwan Rhinos Inning 1"
-        },
-        {
-          "r": 131,
-          "w": 5,
-          "o": 16.4,
-          "inning": "Sudur Paschim Royals Inning 1"
-        }
-      ],
-      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "1ad639fd-dee9-4c10-9184-9e442b570e78",
-      "name": "Karnali Yaks vs Kathmandu Gorkhas, 10th Match, Nepal Premier League 2026",
-      "matchType": "t20",
-      "status": "Kathmandu Gorkhas won by 4 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T06:45:00",
-      "teams": [
-        "Karnali Yaks",
-        "Kathmandu Gorkhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Karnali Yaks",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kathmandu Gorkhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 180,
-          "w": 6,
-          "o": 20,
-          "inning": "Karnali Yaks Inning 1"
-        },
-        {
-          "r": 181,
-          "w": 6,
-          "o": 19.4,
-          "inning": "Kathmandu Gorkhas Inning 1"
-        }
-      ],
-      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d2eca8a2-ed50-46fc-8369-e48cc1c757e0",
       "name": "West Indies A vs England Lions, 3rd T20, England Lions tour of West Indies, 2026",
       "matchType": "t20",
@@ -385,51 +299,6 @@
           "w": 9,
           "o": 50,
           "inning": "Oman Inning 1"
-        }
-      ],
-      "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a4a902f2-006c-49ad-9691-3baae52659bb",
-      "name": "Oman vs Netherlands, 144th Match, ICC Cricket World Cup League Two 2023-27",
-      "matchType": "odi",
-      "status": "Netherlands won by 7 wkts",
-      "venue": "ICC Academy Ground, Dubai",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T05:30:00",
-      "teams": [
-        "Oman",
-        "Netherlands"
-      ],
-      "teamInfo": [
-        {
-          "name": "Netherlands",
-          "shortname": "NED",
-          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
-        },
-        {
-          "name": "Oman",
-          "shortname": "OMAN",
-          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 182,
-          "w": 10,
-          "o": 49.2,
-          "inning": "Oman Inning 1"
-        },
-        {
-          "r": 183,
-          "w": 3,
-          "o": 36,
-          "inning": "Netherlands Inning 1"
         }
       ],
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
@@ -710,7 +579,7 @@
     {
       "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
       "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
-      "status": "Day 2: 3rd Session - Zimbabwe A trail by 164 runs",
+      "status": "Day 2: Stumps - Zimbabwe A trail by 163 runs",
       "venue": "Harare Sports Club, Harare",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T07:30:00",
@@ -738,9 +607,9 @@
           "inning": "ireland a Inning 1"
         },
         {
-          "r": 260,
-          "w": 9,
-          "o": 79,
+          "r": 261,
+          "w": 10,
+          "o": 80,
           "inning": "Zimbabwe A,Ireland A Inning 1"
         }
       ],
@@ -887,171 +756,6 @@
       "matchEnded": true
     },
     {
-      "id": "bb0392dc-0a41-4fb1-b8b1-f12504673f4b",
-      "name": "Mizoram vs Arunachal Pradesh, Plate, Ranji Trophy Plate 2026-27",
-      "matchType": "test",
-      "status": "Mizoram won by an innings and 29 runs",
-      "venue": "Lal Bahadur Shastri Stadium, Vallabh Vidyanagar, Anand",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T04:00:00",
-      "teams": [
-        "Mizoram",
-        "Arunachal Pradesh"
-      ],
-      "teamInfo": [
-        {
-          "name": "Arunachal Pradesh",
-          "shortname": "ARNP",
-          "img": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=48"
-        },
-        {
-          "name": "Mizoram",
-          "shortname": "MIZ",
-          "img": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 285,
-          "w": 10,
-          "o": 77.5,
-          "inning": "arunachal pradesh Inning 1"
-        },
-        {
-          "r": 571,
-          "w": 9,
-          "o": 157,
-          "inning": "Mizoram,Arunachal Pradesh Inning 1"
-        },
-        {
-          "r": 257,
-          "w": 10,
-          "o": 87.2,
-          "inning": "arunachal pradesh Inning 2"
-        }
-      ],
-      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "dec60556-8963-41ce-a5ed-82f51c58c58c",
-      "name": "Meghalaya vs Nagaland, Plate, Ranji Trophy Plate 2026-27",
-      "matchType": "test",
-      "status": "Nagaland won by 122 runs",
-      "venue": "Meghalaya Cricket Association Cricket Ground, Shillong",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T04:00:00",
-      "teams": [
-        "Meghalaya",
-        "Nagaland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Meghalaya",
-          "shortname": "MGLY",
-          "img": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=48"
-        },
-        {
-          "name": "Nagaland",
-          "shortname": "NGL",
-          "img": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 254,
-          "w": 10,
-          "o": 69.5,
-          "inning": "Nagaland Inning 1"
-        },
-        {
-          "r": 144,
-          "w": 10,
-          "o": 46.4,
-          "inning": "Meghalaya Inning 1"
-        },
-        {
-          "r": 184,
-          "w": 10,
-          "o": 78.5,
-          "inning": "Nagaland Inning 2"
-        },
-        {
-          "r": 172,
-          "w": 10,
-          "o": 57.2,
-          "inning": "Meghalaya Inning 2"
-        }
-      ],
-      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "946fb65d-26ef-4cc0-9789-69e6bf614fe8",
-      "name": "Manipur vs Sikkim, Plate, Ranji Trophy Plate 2026-27",
-      "matchType": "test",
-      "status": "Sikkim won by 201 runs",
-      "venue": "Gujarat College Ground, Ahmedabad",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T04:00:00",
-      "teams": [
-        "Manipur",
-        "Sikkim"
-      ],
-      "teamInfo": [
-        {
-          "name": "Manipur",
-          "shortname": "MNP",
-          "img": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=48"
-        },
-        {
-          "name": "Sikkim",
-          "shortname": "SKM",
-          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 432,
-          "w": 10,
-          "o": 133.3,
-          "inning": "sikkim Inning 1"
-        },
-        {
-          "r": 289,
-          "w": 10,
-          "o": 108.2,
-          "inning": "Manipur,Sikkim Inning 1"
-        },
-        {
-          "r": 216,
-          "w": 1,
-          "o": 46.2,
-          "inning": "sikkim Inning 2"
-        },
-        {
-          "r": 158,
-          "w": 10,
-          "o": 62.2,
-          "inning": "Manipur,Sikkim Inning 2"
-        }
-      ],
-      "series_id": "df672a9f-a5eb-4526-901c-1a5e1d7d84a4",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "0e3699f8-43b2-461b-a659-4d38daf9bf35",
       "name": "Melbourne Stars Women vs Sydney Sixers Women, 12th Match, Womens Big Bash League 2026",
       "matchType": "t20",
@@ -1138,6 +842,189 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "de774f34-7940-44c4-acce-8918a8069613",
+      "name": "Adelaide Strikers Women vs Brisbane Heat Women, 10th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 14 runs",
+      "venue": "Drummoyne Oval, Sydney",
+      "date": "2026-11-05",
+      "dateTimeGMT": "2026-11-05T04:40:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Brisbane Heat Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 184,
+          "w": 4,
+          "o": 20,
+          "inning": "Brisbane Heat Women Inning 1"
+        },
+        {
+          "r": 170,
+          "w": 5,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e94f6544-143e-4fdb-ac41-a922022899ed",
+      "name": "Pakistan Cricket Board Patrons XI vs Sri Lanka, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026",
+      "status": "Day 2: Stumps - Sri Lanka lead by 193 runs",
+      "venue": "Islamabad Club Cricket Oval, Islamabad",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T05:00:00",
+      "teams": [
+        "Pakistan Cricket Board Patrons XI",
+        "Sri Lanka"
+      ],
+      "teamInfo": [
+        {
+          "name": "Pakistan Cricket Board Patrons XI",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortname": "SL",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 223,
+          "w": 7,
+          "o": 58,
+          "inning": "sri lanka Inning 1"
+        },
+        {
+          "r": 151,
+          "w": 8,
+          "o": 16,
+          "inning": "Pakistan Cricket Board Patrons XI,Sri Lanka Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 6,
+          "o": 38,
+          "inning": "sri lanka Inning 2"
+        }
+      ],
+      "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "786781a5-0548-479e-b268-a87521ea2e36",
+      "name": "Hobart Hurricanes Women vs Melbourne Renegades Women, 9th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Melbourne Renegades Women won by 4 wkts",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T08:10:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Melbourne Renegades Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        },
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 154,
+          "w": 7,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 155,
+          "w": 6,
+          "o": 19.5,
+          "inning": "Melbourne Renegades Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c547eb46-2025-413a-b7f2-6d1584daa42f",
+      "name": "New Zealand vs India, 1st ODI, India tour of New Zealand 2026",
+      "status": "India won by 5 wkts  -  2nd inns reduced to 32 overs - DLS Target 143",
+      "venue": "Eden Park, Auckland",
+      "date": "2026-11-04",
+      "dateTimeGMT": "2026-11-04T02:00:00",
+      "teams": [
+        "New Zealand",
+        "India"
+      ],
+      "teamInfo": [
+        {
+          "name": "India",
+          "shortname": "IND",
+          "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 185,
+          "w": 10,
+          "o": 40.2,
+          "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 143,
+          "w": 5,
+          "o": 22.4,
+          "inning": "India Inning 1"
+        }
+      ],
+      "series_id": "9f0a2527-1508-42b3-9945-4ade13fd4b5a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
