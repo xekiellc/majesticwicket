@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T09:06:18.910Z",
+  "lastUpdated": "2026-11-06T15:26:08.093Z",
   "recentMatches": [
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
@@ -443,7 +443,7 @@
       "id": "8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e",
       "name": "India U19 vs Nepal U19, 4th Match, Group A, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "India U19 need 83 runs",
+      "status": "India U19 won by 10 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T05:00:00",
@@ -471,9 +471,9 @@
           "inning": "Nepal U19 Inning 1"
         },
         {
-          "r": 46,
+          "r": 129,
           "w": 0,
-          "o": 8.5,
+          "o": 19.1,
           "inning": "India U19 Inning 1"
         }
       ],
@@ -482,13 +482,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8073572e-2b62-4837-ad19-42e9f644276d",
       "name": "Pakistan U19 vs United Arab Emirates U19, 3rd Match, Group A, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Pakistan U19 won by 9 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T05:00:00",
@@ -514,6 +514,12 @@
           "w": 10,
           "o": 50,
           "inning": "United Arab Emirates U19 Inning 1"
+        },
+        {
+          "r": 225,
+          "w": 1,
+          "o": 37.3,
+          "inning": "Pakistan U19 Inning 1"
         }
       ],
       "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
@@ -521,7 +527,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "7b5135ce-6494-4ac9-97cd-87999a602d5b",
@@ -616,7 +622,7 @@
       "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
       "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 2: 3rd Session - Bangladesh trail by 317 runs",
+      "status": "Day 2: Stumps - Bangladesh trail by 268 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T03:30:00",
@@ -644,9 +650,9 @@
           "inning": "west indies Inning 1"
         },
         {
-          "r": 39,
-          "w": 2,
-          "o": 18.2,
+          "r": 88,
+          "w": 3,
+          "o": 40,
           "inning": "Bangladesh,West Indies Inning 1"
         }
       ],
@@ -660,7 +666,7 @@
     {
       "id": "8ad504bb-250d-41e3-b7cc-12cb65ea6e32",
       "name": "Afghanistan vs Zimbabwe, 1st Test, Afghanistan vs Zimbabwe in UAE, 2026",
-      "status": "Day 2: 2nd Session - Zimbabwe opt to bat",
+      "status": "Day 2: Stumps - Afghanistan trail by 391 runs",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T05:30:00",
@@ -682,10 +688,16 @@
       ],
       "score": [
         {
-          "r": 431,
-          "w": 6,
-          "o": 115,
+          "r": 504,
+          "w": 10,
+          "o": 134.3,
           "inning": "zimbabwe Inning 1"
+        },
+        {
+          "r": 113,
+          "w": 1,
+          "o": 35,
+          "inning": "Afghanistan,Zimbabwe Inning 1"
         }
       ],
       "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
@@ -698,7 +710,7 @@
     {
       "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
       "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
-      "status": "Day 2: 1st Session - Zimbabwe A trail by 416 runs",
+      "status": "Day 2: 3rd Session - Zimbabwe A trail by 164 runs",
       "venue": "Harare Sports Club, Harare",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T07:30:00",
@@ -726,9 +738,9 @@
           "inning": "ireland a Inning 1"
         },
         {
-          "r": 8,
-          "w": 2,
-          "o": 3,
+          "r": 260,
+          "w": 9,
+          "o": 79,
           "inning": "Zimbabwe A,Ireland A Inning 1"
         }
       ],
@@ -1043,7 +1055,7 @@
       "id": "0e3699f8-43b2-461b-a659-4d38daf9bf35",
       "name": "Melbourne Stars Women vs Sydney Sixers Women, 12th Match, Womens Big Bash League 2026",
       "matchType": "t20",
-      "status": "Sydney Sixers Women opt to bat",
+      "status": "Sydney Sixers Women won by 1 run",
       "venue": "Junction Oval, Melbourne",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T08:10:00",
@@ -1065,10 +1077,16 @@
       ],
       "score": [
         {
-          "r": 97,
-          "w": 3,
-          "o": 13.3,
+          "r": 160,
+          "w": 5,
+          "o": 20,
           "inning": "sydney sixers women Inning 1"
+        },
+        {
+          "r": 159,
+          "w": 7,
+          "o": 20,
+          "inning": "Melbourne Stars Women,Sydney Sixers Women Inning 1"
         }
       ],
       "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
@@ -1076,7 +1094,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f6bfa913-6f79-4fd9-ab8a-fe0b4cf5a456",
