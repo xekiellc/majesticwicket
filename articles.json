@@ -1,21 +1,11 @@
 {
-  "lastUpdated": "2026-11-07T14:27:01.540Z",
+  "lastUpdated": "2026-11-07T18:34:23.160Z",
   "articles": [
     {
-      "title": "Rahmanullah, Atal and Rahmat blunt Zimbabwe on third day",
-      "url": "https://www.cricinfo.com/ci/content/story/1561807.html?ex_cid=OTC-RSS",
-      "description": "Afghanistan ended at 402 for 7, just 102 runs behind, despite Newman Nyamhuri's four wickets",
-      "publishedAt": "2026-11-07T14:19:05.000Z",
-      "source": {
-        "name": "ESPNcricinfo"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Injured Josh Tongue out of Australia ODIs",
-      "url": "https://www.cricinfo.com/ci/content/story/1561802.html?ex_cid=OTC-RSS",
-      "description": "Fast bowler will return to UK to have big toe problem assessed",
-      "publishedAt": "2026-11-07T13:46:06.000Z",
+      "title": "Jamieson on bowler-friendly pitches: What do you think? You like it?",
+      "url": "https://www.cricinfo.com/ci/content/story/1561795.html?ex_cid=OTC-RSS",
+      "description": "New Zealand and India played out a thrilling low-scoring game in seam-friendly conditions in Wellington",
+      "publishedAt": "2026-11-07T16:03:53.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -25,17 +15,17 @@
       "title": "MI set to trade Hardik to PBKS for Arshdeep",
       "url": "https://www.cricinfo.com/ci/content/story/1561288.html?ex_cid=OTC-RSS",
       "description": "Once the trade goes through, MI will have a new captain for IPL 2027",
-      "publishedAt": "2026-11-07T14:24:12.000Z",
+      "publishedAt": "2026-11-07T16:02:43.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
       "urlToImage": null
     },
     {
-      "title": "Jamieson on bowler-friendly pitches: What do you think? You like it?",
-      "url": "https://www.cricinfo.com/ci/content/story/1561795.html?ex_cid=OTC-RSS",
-      "description": "New Zealand and India played out a thrilling low-scoring game in seam-friendly conditions in Wellington",
-      "publishedAt": "2026-11-07T13:38:09.000Z",
+      "title": "India go 2-0 up after narrow DLS win in low-scoring suspenser",
+      "url": "https://www.cricinfo.com/ci/content/story/1561779.html?ex_cid=OTC-RSS",
+      "description": "A total of 15 wickets fell to quick bowlers, only 247 runs were scored and there wasn't an outright result as the second ODI between New Zealand and India provided plenty of thrills",
+      "publishedAt": "2026-11-07T15:33:31.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -45,7 +35,27 @@
       "title": "Gurnoor Brar: 'Picking right time to bowl bouncers is important'",
       "url": "https://www.cricinfo.com/ci/content/story/1561800.html?ex_cid=OTC-RSS",
       "description": "India pacer stuck to his strengths in the seamer-friendly conditions to pick up 4 for 30 against New Zealand",
-      "publishedAt": "2026-11-07T13:28:16.000Z",
+      "publishedAt": "2026-11-07T15:32:36.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Injured Josh Tongue out of Australia ODIs",
+      "url": "https://www.cricinfo.com/ci/content/story/1561802.html?ex_cid=OTC-RSS",
+      "description": "Fast bowler will return to UK to have big toe problem assessed",
+      "publishedAt": "2026-11-07T14:36:38.000Z",
+      "source": {
+        "name": "ESPNcricinfo"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Rahmanullah, Atal and Rahmat blunt Zimbabwe on third day",
+      "url": "https://www.cricinfo.com/ci/content/story/1561807.html?ex_cid=OTC-RSS",
+      "description": "Afghanistan ended at 402 for 7, just 102 runs behind, despite Newman Nyamhuri's four wickets",
+      "publishedAt": "2026-11-07T14:31:26.000Z",
       "source": {
         "name": "ESPNcricinfo"
       },
@@ -92,12 +102,32 @@
       "urlToImage": null
     },
     {
-      "title": "India go 2-0 up after narrow DLS win in low-scoring suspenser",
-      "url": "https://www.cricinfo.com/ci/content/story/1561779.html?ex_cid=OTC-RSS",
-      "description": "A total of 15 wickets fell to quick bowlers, only 247 runs were scored and there wasn't an outright result as the second ODI between New Zealand and India provided plenty of thrills",
-      "publishedAt": "2026-11-07T10:43:15.000Z",
+      "title": "Gurnoor Brar's confidence impresses Ravi Shastri after match-winning spell in Wellington",
+      "url": "https://www.crictracker.com/cricket-news/gurnoor-brars-confidence-impresses-ravi-shastri-after-match-winning-spell-in-wellington-2210/",
+      "description": "Former India head coach praises left-arm pacer's self-awareness and performance after taking 4/30 in the second ODI against New Zealand on November 7, 2026.",
+      "publishedAt": "2026-11-07T17:14:31.000Z",
       "source": {
-        "name": "ESPNcricinfo"
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "It was an 'Unbelievable' innings from Towhid Hridoy, says Phil Simmons",
+      "url": "https://www.crictracker.com/cricket-news/it-was-an-unbelievable-innings-from-towhid-hridoy-says-phil-simmons-5649/",
+      "description": "Towhid Hridoy scored 242 not out off 359 balls to become Bangladesh's highest individual Test scorer, surpassing Mushfiqur Rahim's 219.",
+      "publishedAt": "2026-11-07T16:06:17.000Z",
+      "source": {
+        "name": "CricTracker"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Hardik Pandya - Arshdeep Singh trade nears completion",
+      "url": "https://www.crictracker.com/cricket-news/hardik-pandya-arshdeep-singh-trade-nears-completion-7219/",
+      "description": "Punjab Kings and Mumbai Indians have exchanged Expressions of Interest for Hardik Pandya and Arshdeep Singh, with BCCI ratification the only remaining step.",
+      "publishedAt": "2026-11-07T14:37:46.000Z",
+      "source": {
+        "name": "CricTracker"
       },
       "urlToImage": null
     },
@@ -172,70 +202,10 @@
       "urlToImage": null
     },
     {
-      "title": "'One of the best bowlers India has had' - Madan Lal hails Mohammed Shami as he retires from Test cricket",
-      "url": "https://www.crictracker.com/cricket-news/one-of-the-best-bowlers-india-has-had-madan-lal-hails-mohammed-shami-as-he-retires-from-test-cricket-7074/",
-      "description": "Former Indian cricketer Madan Lal has lauded Mohammed Shami's contributions to Indian cricket following the pacer's decision to step away from the longest format.",
-      "publishedAt": "2026-11-07T12:15:31.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Brisbane Heat Women beat Hobart Hurricanes to claim second straight WBBL 2026 win",
-      "url": "https://www.crictracker.com/cricket-news/brisbane-heat-women-beat-hobart-hurricanes-to-claim-second-straight-wbbl-2026-win-1430/",
-      "description": "Annie O'Neil's unbeaten 32 guided Brisbane Heat Women to 119 for 6 in 18.2 overs, sealing a four-wicket victory over Hobart Hurricanes Women in Match 14 of WBBL 2026.",
-      "publishedAt": "2026-11-07T11:40:07.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Rohit Sharma becomes the highest six-hitter against New Zealand in ODIs",
-      "url": "https://www.crictracker.com/cricket-news/rohit-sharma-becomes-the-highest-six-hitter-against-new-zealand-in-odis-2104/",
-      "description": "The 39-year-old surpassed Shahid Afridi's tally of 50 sixes against New Zealand during the second ODI at Wellington, taking his overall count to 51.",
-      "publishedAt": "2026-11-07T11:18:30.000Z",
-      "source": {
-        "name": "CricTracker"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Virat Kohli Told To Make Domestic Cricket Return: \"I'll Make Him Sit In The Dressing Room\" - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVBFcmVZVlFid3ZoaGl6VW1Ucy1nc3hKUzhTN0tRbUdrejZLT2tRdWZjZFA0U0F0WUdZY2dKWXl4T3M5UTRDcHpwQU9qVkEybG5MX0IzWGM4OWpGSWpuUkVJaU5pNFBPXzl6QV93RElheUwtY2VkeHliMWpBN3QyX19FMktlZHJDZGdnSzdnOVY5NHY5QmxnZU8zdGtkUF9adEF4OHlpQ1Q2UUtSWElaUktCWEFvaUREOC1SZFpaSWEyVU1xT3c?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVBFcmVZVlFid3ZoaGl6VW1Ucy1nc3hKUzhTN0tRbUdrejZLT2tRdWZjZFA0U0F0WUdZY2dKWXl4T3M5UTRDcHpwQU9qVkEybG5MX0IzWGM4OWpGSWpuUkVJaU5pNFBPXzl6QV93RElheUwtY2VkeHliMWpBN3QyX19FMktlZHJDZGdnSzdnOVY5NHY5QmxnZU8zdGtkUF9adEF4OHlpQ1Q2UUtSWElaUktCWEFvaUREOC",
-      "publishedAt": "2026-11-06T06:39:03.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Can Kohli Break Tendulkar's 100 Centuries Record? - Rediff",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUZDbEtURGFteG11WVpjeldGYVFIYXM2WTBqdlpDdjM2dnpOaDlwUHhuSW81QnRZT2liU29SX3JQSm00Y3k0c0pFcDM3THNlc1NKWTI4N3NSbDA3aE1JZ0htQzg0aTZuOEJsU3FvTFNSUUV5c1ZsdktuRldaaW4yb0YwNU1XdGFDMVZSMG50QmVCZTVxVnFJSE9kbVlpak51aFNCTFJSbXlCcWVCNUHSAbABQVVfeXFMTUJtZXJmaVZRZ0U4eUx3YkZiVmJtdjlQMVA1NlcxMXp3TXRSTm90LVdHOHE1MzJZTzFVeEtHRW5lN2ZMV0o3cHRUSUtQbzdxRUt0MVprTnJEeVJaM1dQQ19OR2xPdDQtT2F3Rm9SWnVSYzNIUndyYUlPQmQ4OHhFMUJ0SEhMUDdPMk1NbkpVODF6Sl82aW5ya0l3cnJXU2duVW9zUldXZGJTakxvNnF5YVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUZDbEtURGFteG11WVpjeldGYVFIYXM2WTBqdlpDdjM2dnpOaDlwUHhuSW81QnRZT2liU29SX3JQSm00Y3k0c0pFcDM3THNlc1NKWTI4N3NSbDA3aE1JZ0htQzg0aTZuOEJsU3FvTFNSUUV5c1ZsdktuRldaaW4yb0YwNU1XdGFDMVZSMG50QmVCZTVxVnFJSE9kbVlpak51aFNCTFJSbXlCcWVCNUHSAbABQVVfeXFMTU",
-      "publishedAt": "2026-11-06T10:29:50.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "India vs New Zealand Highlights, 2nd ODI: India beat New Zealand by 4 runs (DLS method) in Wellington - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNemFZVEVycDFSS3pPZkVQNTZId19FRmVkVlo4WkNfYW90a0NNOUhFSlBvcXlGeXJjQjRNT19ZOUxZelgxV3dmMnFGaTdITDVzR2VfYVJKN1dvZHFqbmFISFBtZF9td1hyWEJSY1dNbkRqd1piOWpYdDBfc1QtM2tZVEdzeFdDbVgwMEdSSjd6R2tsWXBpN05neUNkOVgwbmMzVlVhQThQcTVqYjlQcUlDZzcyNmp1cnY2M2Q3UGx4VHFxdGRhUzFSR0xVRDhXNnR5cWN3TV82OFBwbDhKRjB0WVZXTGdodlVBYVN2NnROMmlWcUdtaDhnbEZjWkZ0dmVaeXVSdUhPQy1JbklqY2g4RUxvNWRTS203TF9XcFZnRGFzZHJsbFdNMWpJTzVHQWJlVFptYlRzNzZXVEZLempGQ0ln0gHHAkFVX3lxTE9BZkFtVW9pbmVyVFVTRXQyYXFFM1lNcTMtTnFaYmNUOUVxUFlwYWRGcEJQYWhyRS1iamQwYk52Rk52TFEtcnI1RjQ3MEtwX2w1dERXQ25zb01nY2NnT3BURjNNRUZxT1JicXZrVjN1SzBQSGVnYTl4ZV9RdUpTeUxiOWg4bW1icmlqcUp5TVp3a2EzeXdGRFc1X0lXNExwWmZiZEZBZHdOVVpLUHV3YWQ3UXdreXFNcEVYSVp6ZVB3SjM2VGJnUEhweUVBSTZEMHhiOWlmUXRkRWRBRUtycnlEdnZYZUMzMFJjNWx1QTFiVFRZaGZUTDhVYXVCdUpuYk1XQUlUZlJRZWt2MFViQkQzQzVYaE9ySUsxNHB1SW8zQ2xtN3FfcG55ZFBZN0NpS28yZC1velV4ekVzX3pydmhFcS1DMWlJZw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxNemFZVEVycDFSS3pPZkVQNTZId19FRmVkVlo4WkNfYW90a0NNOUhFSlBvcXlGeXJjQjRNT19ZOUxZelgxV3dmMnFGaTdITDVzR2VfYVJKN1dvZHFqbmFISFBtZF9td1hyWEJSY1dNbkRqd1piOWpYdDBfc1QtM2tZVEdzeFdDbVgwMEdSSjd6R2tsWXBpN05neUNkOVgwbmMzVlVhQThQcTVqYjlQcUlDZzcyNmp1cnY2M2",
-      "publishedAt": "2026-11-07T10:25:56.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Kohli's Stunning Catch, Rohit's Run-Out: The Secret Behind Their Brilliance - Rediff",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcm9wck5ZR2VWdENIM3ZHNGFOTDlxMmtwNzZCaDU5d3lPUDJNVzBfNXVjVmZxeWVZYi1nNGwwY0ZkUnlYaFJIdEFNemZRV2dyTEh6MVNGUWkwcnJxS2NSOUVvLTVCZEFYT3Z5aU03eU5jbTlRZFREUHdhRHFqWTA3c09VdkcyWUphSFo0dElDLWdaZWtwcFhFbG5oSngxTGlfWDhTU0h3OHNHY1FjODhpRS1PVEhCT0pHZnNka2QtMkFCRXpBa04tYVRIem5YRHBoNDgyemZzWGlZd2lRWDJtdlEtbGxvWkhUZm54Ri1reHJEVGo30gH3AUFVX3lxTE5NNS1MVHp1OEtFd0kyMHd2Nmpfd1NmSWFhZGVPMGdEdVJQdkQtcWlPOU16X2VqZ3lzYnJQMjJpZXpVMzVnbE85YlJuVFVzd0Z3c1RTWnJUWHp5X05UOHRQVXJnLU5MS1RmRDFEcE5JVDMzOGxONlZ5cFJKUjdBZENZUnZnbVM5d0piZGFRczNJRzhJSkhnQWRycGhLSE4yOTdmOVRSUk40TlNkVGJaZWJVZDBSRGdCUmZVZlQ4YnJYb1BYdGVvRHIxNXZhak54d0UtcjNyNlNpaEhyYmNyMEtvb2R0SWhrenRyVEV6cjhFOUJyY1dZWTA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcm9wck5ZR2VWdENIM3ZHNGFOTDlxMmtwNzZCaDU5d3lPUDJNVzBfNXVjVmZxeWVZYi1nNGwwY0ZkUnlYaFJIdEFNemZRV2dyTEh6MVNGUWkwcnJxS2NSOUVvLTVCZEFYT3Z5aU03eU5jbTlRZFREUHdhRHFqWTA3c09VdkcyWUphSFo0dElDLWdaZWtwcFhFbG5oSngxTGlfWDhTU0h3OHNHY1FjODhpRS1PVEhCT0pHZn",
-      "publishedAt": "2026-11-06T04:19:52.000Z",
+      "title": "India wins the toss and bowls in the 2nd ODI cricket match against New Zealand - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWlhbUFUTVVLRG5yb3BEbS1NZ0dvUXpHcE5GS280QWpITG4wWDhuekVfSkZwSDc5RGhGUTRQZE55LUdQTEhCd0x6V3BCWWp4OFNUUnhaX045eGpteVNwR2hwTnU1VG84VWNJcHFCZFRXTFRXeE9YUTVvWko5eDM0bjNMbHJNNlQ1UTBoWGpSbzROWndaMmRueGo1VnJOWWdqZUV6bUpTSjk?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWlhbUFUTVVLRG5yb3BEbS1NZ0dvUXpHcE5GS280QWpITG4wWDhuekVfSkZwSDc5RGhGUTRQZE55LUdQTEhCd0x6V3BCWWp4OFNUUnhaX045eGpteVNwR2hwTnU1VG84VWNJcHFCZFRXTFRXeE9YUTVvWko5eDM0bjNMbHJNNlQ1UTBoWGpSbzROWndaMmRueGo1VnJOWWdqZUV6bUpTSjk?oc=5\" target=\"_blank\">",
+      "publishedAt": "2026-11-07T06:11:07.000Z",
       "source": {
         "name": "Google News"
       },
@@ -252,30 +222,10 @@
       "urlToImage": null
     },
     {
-      "title": "India wins the toss and bowls in the 2nd ODI cricket match against New Zealand - Houston Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWlhbUFUTVVLRG5yb3BEbS1NZ0dvUXpHcE5GS280QWpITG4wWDhuekVfSkZwSDc5RGhGUTRQZE55LUdQTEhCd0x6V3BCWWp4OFNUUnhaX045eGpteVNwR2hwTnU1VG84VWNJcHFCZFRXTFRXeE9YUTVvWko5eDM0bjNMbHJNNlQ1UTBoWGpSbzROWndaMmRueGo1VnJOWWdqZUV6bUpTSjk?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWlhbUFUTVVLRG5yb3BEbS1NZ0dvUXpHcE5GS280QWpITG4wWDhuekVfSkZwSDc5RGhGUTRQZE55LUdQTEhCd0x6V3BCWWp4OFNUUnhaX045eGpteVNwR2hwTnU1VG84VWNJcHFCZFRXTFRXeE9YUTVvWko5eDM0bjNMbHJNNlQ1UTBoWGpSbzROWndaMmRueGo1VnJOWWdqZUV6bUpTSjk?oc=5\" target=\"_blank\">",
-      "publishedAt": "2026-11-07T06:11:07.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "Evergreen Kohli’s 74 steers India to 5-wicket win over New Zealand in rain-affected 1st ODI - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWV8wSzhrUmEtNVVCOWJ5SExOczgwWHF6Y0JNNkdrWjA1UHdxdGtieUVFUnhoQlJqMFdVbWR2ZjhqM3pGT253bVhENEtyWEpJS0FDaXdfMThmVWpQYVpnMFBzSlNFalZWU3Y2RFRrcS1OVjZyVjFrVE5nQ1dXYW9Qeks5Z1hvNEJNRmhQMWpFaXVjZw?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWV8wSzhrUmEtNVVCOWJ5SExOczgwWHF6Y0JNNkdrWjA1UHdxdGtieUVFUnhoQlJqMFdVbWR2ZjhqM3pGT253bVhENEtyWEpJS0FDaXdfMThmVWpQYVpnMFBzSlNFalZWU3Y2RFRrcS1OVjZyVjFrVE5nQ1dXYW9Qeks5Z1hvNEJNRmhQMWpFaXVjZw?oc=5\" target=\"_blank\">Evergreen Kohli’s 74 steers I",
       "publishedAt": "2026-11-04T10:36:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Watch: Virat Kohli Gets KL Rahul \"Diwali-Ready\" During 2nd ODI, Wholesome Moment Viral - NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDIwSEZiQjg0RWxFMS1LRzdnNTNmSWZPck9ZVWNmc2VyeThRTzREMnJjQXJGNy1HOC1raFB6eUpXRDBXckVKbFJyeTNkZW9DSXpXZ0tEeXJRMHZ4aGN0eTVra1BMM082a29zQ0ktdmRTT2xGUjhEbzcycUtoYXBSU2RlTFlUNVpqaU05VTl1YzRhbi10VVZFX1pFcGN3blVFa2JXUllud3hDMG9UYUxEZ0llbDhaUEJsN1hLcGxINXZKcUh3NWRPRnNIeFhDN253aUlFSTZqcUlQVHB3?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDIwSEZiQjg0RWxFMS1LRzdnNTNmSWZPck9ZVWNmc2VyeThRTzREMnJjQXJGNy1HOC1raFB6eUpXRDBXckVKbFJyeTNkZW9DSXpXZ0tEeXJRMHZ4aGN0eTVra1BMM082a29zQ0ktdmRTT2xGUjhEbzcycUtoYXBSU2RlTFlUNVpqaU05VTl1YzRhbi10VVZFX1pFcGN3blVFa2JXUllud3hDMG9UYUxEZ0llbDhaUEJsN1",
-      "publishedAt": "2026-11-07T12:56:49.000Z",
       "source": {
         "name": "Google News"
       },
@@ -292,6 +242,36 @@
       "urlToImage": null
     },
     {
+      "title": "Watch: Virat Kohli Gets KL Rahul \"Diwali-Ready\" During 2nd ODI, Wholesome Moment Viral - NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDIwSEZiQjg0RWxFMS1LRzdnNTNmSWZPck9ZVWNmc2VyeThRTzREMnJjQXJGNy1HOC1raFB6eUpXRDBXckVKbFJyeTNkZW9DSXpXZ0tEeXJRMHZ4aGN0eTVra1BMM082a29zQ0ktdmRTT2xGUjhEbzcycUtoYXBSU2RlTFlUNVpqaU05VTl1YzRhbi10VVZFX1pFcGN3blVFa2JXUllud3hDMG9UYUxEZ0llbDhaUEJsN1hLcGxINXZKcUh3NWRPRnNIeFhDN253aUlFSTZqcUlQVHB3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDIwSEZiQjg0RWxFMS1LRzdnNTNmSWZPck9ZVWNmc2VyeThRTzREMnJjQXJGNy1HOC1raFB6eUpXRDBXckVKbFJyeTNkZW9DSXpXZ0tEeXJRMHZ4aGN0eTVra1BMM082a29zQ0ktdmRTT2xGUjhEbzcycUtoYXBSU2RlTFlUNVpqaU05VTl1YzRhbi10VVZFX1pFcGN3blVFa2JXUllud3hDMG9UYUxEZ0llbDhaUEJsN1",
+      "publishedAt": "2026-11-07T12:56:49.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Virat Kohli at 38: How Long Can a Man Run on Fire? - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDdVX2JyeDdIOVJJbWRNVzVheF9VTmRaUXl0WU9PdXdmN3BlOTEtOFZhVmRHX3U0NTNHanBBb0QwMnhPR2hnSlZJR0ZSenYtVzFaeUljOE5ham9laGNSbmhVTkRrekFkY2JOQTNlLTFyemUyczZUdVpnYTZJUzVXa0xNbGlXMTljdWtj?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDdVX2JyeDdIOVJJbWRNVzVheF9VTmRaUXl0WU9PdXdmN3BlOTEtOFZhVmRHX3U0NTNHanBBb0QwMnhPR2hnSlZJR0ZSenYtVzFaeUljOE5ham9laGNSbmhVTkRrekFkY2JOQTNlLTFyemUyczZUdVpnYTZJUzVXa0xNbGlXMTljdWtj?oc=5\" target=\"_blank\">Virat Kohli at 38: How Long Can a Man R",
+      "publishedAt": "2026-11-05T03:05:59.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "'King' Rules Forever! Virat Kohli Still Evolving at 38 & That's Why He's Really Dangerous - MensXP",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnNjcjhjX2tFMUdHS1dnSGpTS0M5aGFOeWxUckc5V191M19kWm1LTWJhaGJMNXYtZ3FXZFFXSHVkVzBfTDhQYkNlRDVFMTFWQ2NpOE1tcTNBMUxYZEtob092R2tvQUpaMUNsQmplWnRIYWNaSlRZYXV4ZWdVSGNtMWxrUlNxUHNYSU5GSFZmU0NPVlphbl9RQUdVZ2VZRkNvUG1FN2tSRU5KdWQ0RlpfTjg3LUZZd2JpeE5YSjF0YXpsbmhaS0FpaHhUdHQ5VG5LV2ZHUmwzZ9IB3AFBVV95cUxQcFlNaklPbHZZeHhKQ0txQnhxdVI1amNYNS1lSlRlX3hEMnM5QTlIQ0xZVmpUVTJuYUdkdjRZaEwtejB3c3htTFFhdVd2LVNGa19QSmFHUzd0VEtsajBtYl9xSjJhbkNVN29TSS1zUE45TnV2MFBoQmZlS1VwZmNFZjR3NmRPX05QejhHcXcwS3hPVnBkNTNHNm8xRVNXRXhlbnJ2V0pKLU5zRGpJZHVsX29wSUctWGtybncyazdVVVBjMFBzRkczR3FXLVVVdzZwVTdtZ1h1OXcyUlZm?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnNjcjhjX2tFMUdHS1dnSGpTS0M5aGFOeWxUckc5V191M19kWm1LTWJhaGJMNXYtZ3FXZFFXSHVkVzBfTDhQYkNlRDVFMTFWQ2NpOE1tcTNBMUxYZEtob092R2tvQUpaMUNsQmplWnRIYWNaSlRZYXV4ZWdVSGNtMWxrUlNxUHNYSU5GSFZmU0NPVlphbl9RQUdVZ2VZRkNvUG1FN2tSRU5KdWQ0RlpfTjg3LUZZd2JpeE",
+      "publishedAt": "2026-11-07T05:18:41.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
       "title": "Mohammed Shami: Virat Kohli’s go-to man at home and a second innings specialist - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTdNa0cxU01nSzdQbkdGdlBINFFFc2l4cWdaNjdJekx5YW9sLS1CZmZ2b2E5N25DVEtfWU5TeDltSjdCck8wZG1tSG82MFQyWVZaQ2libU5qMWtHVVBET0ctR2RQcFlCb242Wk1kRWlsS2lOQ1NfYzh5Z1JqaDluSkVDczMxZmhPNzZ5OWZiRjhpcTQ5cDUzSDQ4aFRibHFVdmp4a05HOFNpemtjeXh5MTB2TS1XWnBONElncExaY9IBxgFBVV95cUxNb0hmUjc0aDNuVFhNVGl5VGcya29FbjIwcm5xQmd5VG1uSXI1Qm1IbnhPMnlxLWdjYkt4cUt1YkZiRUlZZEZLaWNLdVdZcFZYQ2NNRFJraVhEZUlBR3I3MDVXT0dvTTQxTllTUnR3anV5RDg5RXR1R1lKTXc2UTRMTmdpQUg3VjQ1Mlc3el81ZDFhTGEtdUd6c3A0ODhheFM4bUNSc2tsNGhmMkk4cS1fc2hTd1pGM2hfa192S0tUaXBPdkpSUHc?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTdNa0cxU01nSzdQbkdGdlBINFFFc2l4cWdaNjdJekx5YW9sLS1CZmZ2b2E5N25DVEtfWU5TeDltSjdCck8wZG1tSG82MFQyWVZaQ2libU5qMWtHVVBET0ctR2RQcFlCb242Wk1kRWlsS2lOQ1NfYzh5Z1JqaDluSkVDczMxZmhPNzZ5OWZiRjhpcTQ5cDUzSDQ4aFRibHFVdmp4a05HOFNpemtjeXh5MTB2TS1XWnBONE",
@@ -302,60 +282,20 @@
       "urlToImage": null
     },
     {
-      "title": "Kamran Akmal hints Babar Azam’s struggles are not about cricket - The Current",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXpoNFVvRl9hSHM3djhmc0lDOUVOS1VXQjgzc0d4Nzk5bElyNG00ZmNTNDFKQmwtcWV3ZWlWNW03QmxhYW9XR0FSS1VDZHhlWkNhNXlGU05JN3ZBVUxqcDFDazZTRkZka0p5aDVac3hERDRTSDZLamlTdEJHVEpjS0lpMUpFd21odjVZYUVn?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXpoNFVvRl9hSHM3djhmc0lDOUVOS1VXQjgzc0d4Nzk5bElyNG00ZmNTNDFKQmwtcWV3ZWlWNW03QmxhYW9XR0FSS1VDZHhlWkNhNXlGU05JN3ZBVUxqcDFDazZTRkZka0p5aDVac3hERDRTSDZLamlTdEJHVEpjS0lpMUpFd21odjVZYUVn?oc=5\" target=\"_blank\">Kamran Akmal hints Babar Azam’s str",
-      "publishedAt": "2026-11-07T07:35:09.000Z",
+      "title": "Virat Kohli's birthday wishlist: Records that the India talisman would aim to achieve before retiring - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUI0OFhhRk83VVA2bEl4T3ZFelVRclFESnRGMGFjR25mSVFKNFItUW9qUGo5SjhpR09jU3Q0MnlES3VRWlRqSHd2bEVFOE4xSHRvTnc5cFY4cXFqTGRPYXo2STlHNFhnaHVWVTgtYl9iZDFUYjdxcTFfZHV6TEFsSU42WlY4a0tYTjZ5T2tqcUo?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUI0OFhhRk83VVA2bEl4T3ZFelVRclFESnRGMGFjR25mSVFKNFItUW9qUGo5SjhpR09jU3Q0MnlES3VRWlRqSHd2bEVFOE4xSHRvTnc5cFY4cXFqTGRPYXo2STlHNFhnaHVWVTgtYl9iZDFUYjdxcTFfZHV6TEFsSU42WlY4a0tYTjZ5T2tqcUo?oc=5\" target=\"_blank\">Virat Kohli's birthday wishlist:",
+      "publishedAt": "2026-11-05T06:30:00.000Z",
       "source": {
         "name": "Google News"
       },
       "urlToImage": null
     },
     {
-      "title": "Babar Azam's Teammate Makes Explosive Remark, Calls His Fanbase 'Toxic' - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbi1sUW9jMXpBSnhIaTNkcFVDaV9jWWtVak85WnFxSF9jM0t5aHhyeUI1ZzdVazdTZnhoTktDaEVDT2RqN1dsNkFNVGpiVlBLeU5xRUV1cUl5MFZuY3Y3Q3E4MXljaTRLNG84a0RKQS03b2wyMkMtUTV5bzhLZldmLXRvN1RUaW9kem9tWXppb3JLY2M3Xzc5NF9TRzBaRGfSAawBQVVfeXFMUGd5ODdBN3ZoQ093RXdyblZkWHJISmowcFRMTmcyc1RaUlV4SDVIWFpCOVJYaXdiRVJWcDJfUUVpMHVCYXI4WmdmZnViVHFvSzM5bF9ZXzVOZ1hQQzBzUnhYVFNhRnhuSlVvSXpSeHZ1WURfLS10MUFkY1gwdFM4cHVXc01lMnZFOWV2NnNwVGtlZmM2WGVaTXB0MTJDN21NM3NRSS1nblc4dWY0Zg?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbi1sUW9jMXpBSnhIaTNkcFVDaV9jWWtVak85WnFxSF9jM0t5aHhyeUI1ZzdVazdTZnhoTktDaEVDT2RqN1dsNkFNVGpiVlBLeU5xRUV1cUl5MFZuY3Y3Q3E4MXljaTRLNG84a0RKQS03b2wyMkMtUTV5bzhLZldmLXRvN1RUaW9kem9tWXppb3JLY2M3Xzc5NF9TRzBaRGfSAawBQVVfeXFMUGd5ODdBN3ZoQ093RXdybl",
-      "publishedAt": "2026-11-05T07:13:50.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Babar Azam's Angry Reaction After Getting Out For 42 Goes Viral | Watch - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0xBQkVHbG40QmdUcXBfa2p2ZVg1c1ZhbEZVOXJrWGJzRUlOZWV6T095NWREUE5Ja2lOT1BRcGdMNHVhRzZzcHA4Nlg5VjNtVk1rbjhkVDBpQTRMY3RPckstN0dnN1hGM0VJSEE5WWN0YzlwOWY4SUgtZDR2VFRRb0gteVhQSmFINVlUNjYza3NiRDBxMVpJTENXckllOWNjQzFZZUdJV0cyRE5GcUhLenhzNFEycmlG0gHGAUFVX3lxTFBnM0lDLTZfUHR5azJOX3dXNDRHMVJWUFdVcU0wU3oyR3ZnT09BWU9TMTA2WmZOOFJYMWM4bC1zMUJxVC1naEFlTVlvSVYxaDdtSDV4NHpGQ25ScU9jM2dNNEhRR0FaV0djVDNvZXFlcjRKd0toSU9oZ0VjN01zdm5oYU5TbTlGR3pUeWxDWERpNUNXYllXRzhONE8yaWxGdFkzVVQ1c1oxOEhJYnpzaGI0STQtQXVhVy1TSDc4VzMwTmdNZjhmQQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0xBQkVHbG40QmdUcXBfa2p2ZVg1c1ZhbEZVOXJrWGJzRUlOZWV6T095NWREUE5Ja2lOT1BRcGdMNHVhRzZzcHA4Nlg5VjNtVk1rbjhkVDBpQTRMY3RPckstN0dnN1hGM0VJSEE5WWN0YzlwOWY4SUgtZDR2VFRRb0gteVhQSmFINVlUNjYza3NiRDBxMVpJTENXckllOWNjQzFZZUdJV0cyRE5GcUhLenhzNFEycmlG0g",
-      "publishedAt": "2026-11-06T12:28:50.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Watch: Shubman Gill turns Babar Azam, drops sitter to gift Daryl Mitchell lifeline - Cricket Addictor",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzZzOW1BNk5Ub0c2QzN1UF9MOEVHRkxoMWlNX2llUXRKWnVOLVhJOGZFU1E2aGNHYlNhREN0Sm55ZkxocmlvSEN5VEtxYlRNUXNBck0wM3dOY2FIcjJvTjlVN3JIdFkxT2tKNGpZMzVmNUJVTHNlRnJDSjVkRENxZ1FVZTAxb2Q2WmRUU0xHbTFmMXZqU1RrcUR6aVBsUjJtZmZpUXo1dEdqbXhYMkowSEgwUW5OX2tITjNyczBNMjEwLUt3NDM5Zw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzZzOW1BNk5Ub0c2QzN1UF9MOEVHRkxoMWlNX2llUXRKWnVOLVhJOGZFU1E2aGNHYlNhREN0Sm55ZkxocmlvSEN5VEtxYlRNUXNBck0wM3dOY2FIcjJvTjlVN3JIdFkxT2tKNGpZMzVmNUJVTHNlRnJDSjVkRENxZ1FVZTAxb2Q2WmRUU0xHbTFmMXZqU1RrcUR6aVBsUjJtZmZpUXo1dEdqbXhYMkowSEgwUW5OX2tITj",
-      "publishedAt": "2026-11-07T04:43:14.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Babar Azam loses cool after dismissal for 42 in Quaid-e-Azam Trophy - CricTracker",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFVpZmE4akFpSC02Q3JwZFNCSUNQd1ZOd01EVVNEZk9remJYVV9qeU1iTVFiemd4UFhQUWIyaGJEQ3J0aENicWxWZ0tObkNmYkUyXzZrdTZncjFGVFBlQ05Uc0RPdnlYOWlUcWRBR1ZhVGRnWVdvLTg3YXFPSVQ1VnNCWnMzNXlDcDQyVlZ6QkpUaFhqSC12MUMwSWVFMG5DZ3RxUDVkUzJackdKSUNyZ3JmelfSAbwBQVVfeXFMTllnamhXQmVCeUduSkcyQTFtMkZOZzU1bzJGa0pBVVhTM0FiQU1QVXlMdDdabGFGNFNfRWViMmFvbEtscmhQYTJ5UzZlTnBLLUZIVm5rR3J5TmxmUlpSTGxvWnB3QVVsdDZSTXYzUnBpYUV1NEZXMUxfNVJKX2xTTWh5X2o5TGltLTBDbUVNTVU3azl4bEZuWlI3ZDgxeGgtdGNRa19MNmN6M1FfQ0Yyb0VpSDVBVi1pSUVPVVQ?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFVpZmE4akFpSC02Q3JwZFNCSUNQd1ZOd01EVVNEZk9remJYVV9qeU1iTVFiemd4UFhQUWIyaGJEQ3J0aENicWxWZ0tObkNmYkUyXzZrdTZncjFGVFBlQ05Uc0RPdnlYOWlUcWRBR1ZhVGRnWVdvLTg3YXFPSVQ1VnNCWnMzNXlDcDQyVlZ6QkpUaFhqSC12MUMwSWVFMG5DZ3RxUDVkUzJackdKSUNyZ3JmelfSAbwBQV",
-      "publishedAt": "2026-11-07T05:49:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Babar Azam smashes bat in anger as his poor form continues in domestic cricket - Cricket Addictor",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMi1POTl5Tk1RV3c2UlZ1TTY1UTNxdDRSbU8zNUpkWkFycTJiaTBQSTlmYlNqVkEtdXp2T2xZdUFXc045VkxNYWt6Y2Q4LUhpcGhBX05HQWptRWZoZUc5aFYxSnVRRU9CUDluWG14RzBDUUVySWF3YXRsbmVFN2E0d3N3M0R5cW85WDA4NVdOS0tRLU15M2pDTl9lVU1PX3JNWkl0U3lBMno0ZW54ZE5jNnpRc0tiMS1Na3FlamdrMA?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMi1POTl5Tk1RV3c2UlZ1TTY1UTNxdDRSbU8zNUpkWkFycTJiaTBQSTlmYlNqVkEtdXp2T2xZdUFXc045VkxNYWt6Y2Q4LUhpcGhBX05HQWptRWZoZUc5aFYxSnVRRU9CUDluWG14RzBDUUVySWF3YXRsbmVFN2E0d3N3M0R5cW85WDA4NVdOS0tRLU15M2pDTl9lVU1PX3JNWkl0U3lBMno0ZW54ZE5jNnpRc0tiMS1Na3",
-      "publishedAt": "2026-11-06T16:26:26.000Z",
+      "title": "How Virat Kohli, Rohit Sharma helped Gurnoor Brar bounce back in New Zealand - India Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnFBcjg0QUpiUG45YlFWNDRoZmJCNk1Sd0dTQVpCOWtJZHJrTHdLSld5UTVvS2M3MmhWdkNhUG5CV2Z5QlJhVGVzV1J3TzVST2F0NEVvWVFGV3pCV1NrT1ZtQlUyMVYtMEt5UkV1aHp2N3BrQnNKZHR4aUhPZU9Fek9mVG9lNE1KVzdINk5ZUXBoem5PeE9Xb2dFZjdVaXpDRk5WbFRKTFdQR0xoTmVmNEdoNUl6cXJvOGg5WHd0dE1HaVFSejNjV3U0X1DSAdIBQVVfeXFMUEJvRnFyaFlOSnFqajUtcldwbmZDaXNoc3lSVnotRFFnb1pib0lRVFpUcnp2UnBPUnVZSTZqdlJfdmlDSTE3TnpQZEMtYm5seTltZjBLc0Z5eG1mNnh4eGtHR1c0dUJDVW5PaHVkOGpCUjNIZzFZdERPTV9FY0MyMVpfd09tamxmLVZqQUlBYXgzdTdOSlRIeGZFNjZydG02akozN0RuaS1kUEFmNnhiLS1LeWdPSW9ETEpDMVRBeV9LYmIyRVFtWUQ0VjA0V1ZkS2xB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnFBcjg0QUpiUG45YlFWNDRoZmJCNk1Sd0dTQVpCOWtJZHJrTHdLSld5UTVvS2M3MmhWdkNhUG5CV2Z5QlJhVGVzV1J3TzVST2F0NEVvWVFGV3pCV1NrT1ZtQlUyMVYtMEt5UkV1aHp2N3BrQnNKZHR4aUhPZU9Fek9mVG9lNE1KVzdINk5ZUXBoem5PeE9Xb2dFZjdVaXpDRk5WbFRKTFdQR0xoTmVmNEdoNUl6cXJvOG",
+      "publishedAt": "2026-11-07T13:10:25.000Z",
       "source": {
         "name": "Google News"
       },
@@ -382,10 +322,10 @@
       "urlToImage": null
     },
     {
-      "title": "‘Babar’s fanbase is very toxic’: Azam Khan recalls abuse from supporters over Ireland innings - The Current",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWlLZ3lDN1dldXhGSnNmWWk4djE3Qi1lbGkxaHBFeHhHSXNYbjQzMVJyYzJ2bVBpZDVmV2VKNUhNT1NUamlqSWhZSUo2NDVSNUwwRGtGZ25iV2ZkWEJieHFaczctaS1MdzNrUjZFQnp0UWdJS09kWjczTUx2U1RNeVVfNVRvODZPeDY4?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWlLZ3lDN1dldXhGSnNmWWk4djE3Qi1lbGkxaHBFeHhHSXNYbjQzMVJyYzJ2bVBpZDVmV2VKNUhNT1NUamlqSWhZSUo2NDVSNUwwRGtGZ25iV2ZkWEJieHFaczctaS1MdzNrUjZFQnp0UWdJS09kWjczTUx2U1RNeVVfNVRvODZPeDY4?oc=5\" target=\"_blank\">‘Babar’s fanbase is very toxic’: Azam K",
-      "publishedAt": "2026-11-06T21:27:26.000Z",
+      "title": "Babar Azam smashes bat in anger as his poor form continues in domestic cricket - Cricket Addictor",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMi1POTl5Tk1RV3c2UlZ1TTY1UTNxdDRSbU8zNUpkWkFycTJiaTBQSTlmYlNqVkEtdXp2T2xZdUFXc045VkxNYWt6Y2Q4LUhpcGhBX05HQWptRWZoZUc5aFYxSnVRRU9CUDluWG14RzBDUUVySWF3YXRsbmVFN2E0d3N3M0R5cW85WDA4NVdOS0tRLU15M2pDTl9lVU1PX3JNWkl0U3lBMno0ZW54ZE5jNnpRc0tiMS1Na3FlamdrMA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMi1POTl5Tk1RV3c2UlZ1TTY1UTNxdDRSbU8zNUpkWkFycTJiaTBQSTlmYlNqVkEtdXp2T2xZdUFXc045VkxNYWt6Y2Q4LUhpcGhBX05HQWptRWZoZUc5aFYxSnVRRU9CUDluWG14RzBDUUVySWF3YXRsbmVFN2E0d3N3M0R5cW85WDA4NVdOS0tRLU15M2pDTl9lVU1PX3JNWkl0U3lBMno0ZW54ZE5jNnpRc0tiMS1Na3",
+      "publishedAt": "2026-11-06T16:26:26.000Z",
       "source": {
         "name": "Google News"
       },
@@ -396,6 +336,66 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVVSV1g3b0xhWl9IRkd0aEJPWVRBQ3BvVlIyNTRfUmIwbjZKWklSNnJFV2JFU3FlTnBhb3c1ZlNYSHdBdmZoUk9LWGtZY0hyVHFscXBxQU0zbUxORWlIYlg4dE1mTkUxQkdwbFlBYmotYTd0ZksyRDd2bzRUREdIWVRRSDFnODNjeG9MTU1HTDRQZ3RYN1h2YWcyeXBKTmtFM3VTdnJiR2thTktrdFprbWpQR1RlaThmNzlIYmJkS2RxWG1z?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVVSV1g3b0xhWl9IRkd0aEJPWVRBQ3BvVlIyNTRfUmIwbjZKWklSNnJFV2JFU3FlTnBhb3c1ZlNYSHdBdmZoUk9LWGtZY0hyVHFscXBxQU0zbUxORWlIYlg4dE1mTkUxQkdwbFlBYmotYTd0ZksyRDd2bzRUREdIWVRRSDFnODNjeG9MTU1HTDRQZ3RYN1h2YWcyeXBKTmtFM3VTdnJiR2thTktrdFprbWpQR1RlaThmNz",
       "publishedAt": "2026-11-05T14:25:31.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "WATCH: Babar Azam Smashes Bat In Anger After Getting Out - ABP Live English",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2N2bWtURE5iZVBWM1ljaC0xeXh3aVlwQjkxUmhsT3ltTzdUUXhDVDZTMTl2d0hsaDQtdl85UWpZQnZFZExtd2FudkpCMXVIQUJJWjFPTGdsbERrZVBRQ1JBRmM4NmxVd2dPZ3dOYXNzTFlnMHg3YWgyUDlGZmctbGozUkIwaERRRS1oV05xd1ZpX3E5ZmU1YkJGQ3BDQWQwM0I3ZkdjV05lS0VRV2fSAbMBQVVfeXFMUEx1U3pVek9OZy13Z3RtWnNhTU5pMkVtMnhZOWxaaDZhMGRDTXVOZmYtVmFQRjF0WjNPbXlBVjJNS19SUXA4N0llZGU2YzdQLVQtY0RWZG1PTmNQLWdrR0pxaDdlQlhtbmtVTEh5bEllUmNTQ1hwcUkxV3BLTW9CYXc1M0FFWm9nR0k3ckVDOS1sZlFuc093dEF1aS1GTFgxY1hlUm4xOExubHQtMFVOOXZqTzA?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2N2bWtURE5iZVBWM1ljaC0xeXh3aVlwQjkxUmhsT3ltTzdUUXhDVDZTMTl2d0hsaDQtdl85UWpZQnZFZExtd2FudkpCMXVIQUJJWjFPTGdsbERrZVBRQ1JBRmM4NmxVd2dPZ3dOYXNzTFlnMHg3YWgyUDlGZmctbGozUkIwaERRRS1oV05xd1ZpX3E5ZmU1YkJGQ3BDQWQwM0I3ZkdjV05lS0VRV2fSAbMBQVVfeXFMUE",
+      "publishedAt": "2026-11-06T11:32:22.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Azam Khan Slams 'Toxic' Babar Azam Fanbase, Calls Them 'Uneducated' - Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlBIMV9RS3dGRnVWVGo4X0phc3BlcE9KMG5qazdfV2dpU2tfZjJFNjduaFhiaG9acGFtaXNoRjVYUEp3LURnY1h3UUFXR1FNSlB6MTV5WFpQSmp6NTgyLWRnN19xektTQlBrVWZCN0JtaTQ5REEwYzNUSDVwRXQwUkRZcnBlckxkYUFRZlBiaTZWNTdKNjdLOFFpX1MxMGV2SDVsMWg1VDJ3eEZCVzVFN241QdIBuAFBVV95cUxOVkhITkNLRTRTR1pYNXM5Ty1SUk80Zk0wQ2REdTBBWm5Zdk9BSDNXZFFRdXY1S3JvMC1nLWNId3RiQ2VoUWNiZnhOSE43WjhHalBVc1ZUOFBGZ0tUZmZhbmJqSVBudlp3Q1k0QU0xRXVybHppNFU4bF9YQXByRFoyYkNNUjFMMEw1MjJMTlN1SkRiajVsakRFcm81S2JXcXJiaEc2YkMzbXliUHZmSVN3Ym9KMjFLWGh3?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORlBIMV9RS3dGRnVWVGo4X0phc3BlcE9KMG5qazdfV2dpU2tfZjJFNjduaFhiaG9acGFtaXNoRjVYUEp3LURnY1h3UUFXR1FNSlB6MTV5WFpQSmp6NTgyLWRnN19xektTQlBrVWZCN0JtaTQ5REEwYzNUSDVwRXQwUkRZcnBlckxkYUFRZlBiaTZWNTdKNjdLOFFpX1MxMGV2SDVsMWg1VDJ3eEZCVzVFN241QdIBuAFBVV",
+      "publishedAt": "2026-11-05T10:39:47.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "WATCH: Babar Azams Controversial Dismissal Sparks Umpiring Row In Pakistans Domestic Cricket - ABP Live English",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2tsVlpYZzNwY3lLSjhOemFpOGpMZGNrTFJUQ0tWVXJHZjZBUWhscmkyWUkxM1Y0Tnd3a3B5RUp4clhqOTEycnRhZzk0VG1vVGtKVWRkR1Y1NXNUTzJUQ0MzX2FiMnBKcnZXby1iSzhnWlVCZGF5UkRSSlhZRXQzOU00Vmg1RThBekFrTk11bmh3SVRET1hXZ0FzMVh5eEJfX2xMS085Z3pKdF960gGyAUFVX3lxTE5wcDBfaGJyYjhlUGhSTTdUN3dMLXdKV3NxZm0tOG5CSEJKT2k5VkJtcXBXOEk2VURvYlo5TUVhUy1JY1p4S2dTZHNaeXFwQWh6Sk1feWFqS0Q0c3NVbG1VbHpqd1VSbGh1bVVWN21rSGw0TFpRcEtYS2RuM2NfMHplejZZOU1qd1hhRVZIMWpsZmFkaVJtZkV3ZVBwbDgyeGdkNW45N2NJdmhlUTV5VUdfZ2c?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2tsVlpYZzNwY3lLSjhOemFpOGpMZGNrTFJUQ0tWVXJHZjZBUWhscmkyWUkxM1Y0Tnd3a3B5RUp4clhqOTEycnRhZzk0VG1vVGtKVWRkR1Y1NXNUTzJUQ0MzX2FiMnBKcnZXby1iSzhnWlVCZGF5UkRSSlhZRXQzOU00Vmg1RThBekFrTk11bmh3SVRET1hXZ0FzMVh5eEJfX2xMS085Z3pKdF960gGyAUFVX3lxTE5wcD",
+      "publishedAt": "2026-11-04T12:01:14.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "‘Babar’s fanbase is very toxic’: Azam Khan recalls abuse from supporters over Ireland innings - The Current",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWlLZ3lDN1dldXhGSnNmWWk4djE3Qi1lbGkxaHBFeHhHSXNYbjQzMVJyYzJ2bVBpZDVmV2VKNUhNT1NUamlqSWhZSUo2NDVSNUwwRGtGZ25iV2ZkWEJieHFaczctaS1MdzNrUjZFQnp0UWdJS09kWjczTUx2U1RNeVVfNVRvODZPeDY4?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWlLZ3lDN1dldXhGSnNmWWk4djE3Qi1lbGkxaHBFeHhHSXNYbjQzMVJyYzJ2bVBpZDVmV2VKNUhNT1NUamlqSWhZSUo2NDVSNUwwRGtGZ25iV2ZkWEJieHFaczctaS1MdzNrUjZFQnp0UWdJS09kWjczTUx2U1RNeVVfNVRvODZPeDY4?oc=5\" target=\"_blank\">‘Babar’s fanbase is very toxic’: Azam K",
+      "publishedAt": "2026-11-06T21:27:26.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Azam Khan criticises Babar Azam's 'toxic fan base' - CricTracker",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMnpiRWdKRmRMdk9HNlBnYWlvYWRsRW8xLXRhOUgyNkVuaDlobUIzWklfcXFlR2tOUUFrdEhWTWZGS3BNbWZJM2NEZDFyV3VUbm93V3Z0MjBuTHJ6SkRnMUNiVzdTWUllNkhlbU01aUxONUNfeGU3X3BzUEp5dUd0S01KUEZLWS01cTU2cUpFaTI3Xzczcy1fTzNJd1MyZkp5TkR4RWRMRzZRUWpzRHVQejhyNHJ2RS0wWEZqZFFaenFVMnlnQXZiYm9nRkEyYjB0bm9MN0ZLelpYWXEtZjAxTmJLU0ZPUE9heFh2ZHMzOF9wV0lWRzRfcWw5VGVkUmRXLWp2RFpB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNMnpiRWdKRmRMdk9HNlBnYWlvYWRsRW8xLXRhOUgyNkVuaDlobUIzWklfcXFlR2tOUUFrdEhWTWZGS3BNbWZJM2NEZDFyV3VUbm93V3Z0MjBuTHJ6SkRnMUNiVzdTWUllNkhlbU01aUxONUNfeGU3X3BzUEp5dUd0S01KUEZLWS01cTU2cUpFaTI3Xzczcy1fTzNJd1MyZkp5TkR4RWRMRzZRUWpzRHVQejhyNHJ2RS0wWE",
+      "publishedAt": "2026-11-05T06:55:00.000Z",
+      "source": {
+        "name": "Google News"
+      },
+      "urlToImage": null
+    },
+    {
+      "title": "Babar Azam slams bat on ground in frustration | WATCH - Mathrubhumi English",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjRlXzhKSnQ1TlFmRDZoZ1JoUm1VY0F1Ymc0UnptUFZUOHNNblN0NGQ3RFV3LWNMN3dMYnQ1TDJONHNqdnRMSE04Q1BNb2VzTXBWc1lwbjBSX0kxMmZObVNvVTBpdUNJZnFOQXBySTluYmJTZEtPRU5vLXBrc05LcVo0WS1yREJBbFQtVERkUGE1ay1CRk5rY21NZDNERDlJRGViUnVQWmJJOUQxc3FibUZDUkZUVHB4SnV0bW95elXSAcYBQVVfeXFMTUF6b2NLZTByWHh5T0JTTEtsUVgwdktGUzRYdFlrdlZoWlAxN3RLeG9SMUlfbVVQTjlrRGtscTlCc3BOcmlGV05QWm1RUXI3NEpzbnBNSTNVS1laWU1qUWFGLXBWTmx4RFhkWkMzWl9Mam5hX2xUdDJlZ29KMmQ4ajMtclg2cHlMNkEySUU5amJBV283ZXBZbW9ydnZtc2ktZENWLWRETUppQ1ZaZThxT1AzRGg3QmZUSnJSY3RWSy0yMnF1SEtn?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjRlXzhKSnQ1TlFmRDZoZ1JoUm1VY0F1Ymc0UnptUFZUOHNNblN0NGQ3RFV3LWNMN3dMYnQ1TDJONHNqdnRMSE04Q1BNb2VzTXBWc1lwbjBSX0kxMmZObVNvVTBpdUNJZnFOQXBySTluYmJTZEtPRU5vLXBrc05LcVo0WS1yREJBbFQtVERkUGE1ay1CRk5rY21NZDNERDlJRGViUnVQWmJJOUQxc3FibUZDUkZUVHB4Sn",
+      "publishedAt": "2026-11-06T09:48:30.000Z",
       "source": {
         "name": "Google News"
       },
@@ -444,16 +444,6 @@
       "urlToImage": null
     },
     {
-      "title": "Pillai University students recreate Shivneri Fort for Diwali - Newsband",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzBlNmhRbEx6TTdXLTQwLTdLQWRwNW44WmFJbkY0YlJ6SzdJNzhqb3N4NnIxN3BRM0hHZWpnVVo1T2tPTGptSHlieXliSE9aLWlwUWxycjJxOWdQa2Ywb0RDeGZQamhFT2J2ajltLTlxNmc2eGZCWDBzOWdoVmMwMkp5OXpmdXozZWk1S1NTc2dUYVBtU1lVdm4tMFAyWE11?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzBlNmhRbEx6TTdXLTQwLTdLQWRwNW44WmFJbkY0YlJ6SzdJNzhqb3N4NnIxN3BRM0hHZWpnVVo1T2tPTGptSHlieXliSE9aLWlwUWxycjJxOWdQa2Ywb0RDeGZQamhFT2J2ajltLTlxNmc2eGZCWDBzOWdoVmMwMkp5OXpmdXozZWk1S1NTc2dUYVBtU1lVdm4tMFAyWE11?oc=5\" target=\"_blank\">Pillai Univ",
-      "publishedAt": "2026-11-04T11:02:08.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
       "title": "\"Blessed and heartwarming moment\": Suryakumar Yadav shares Diwali wishes after meeting PM Modi - ANI News",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYU95eHZWVDJyN21HQTBuUXI4MWQwckZsSmtvY1ZfWUVWS09BWUswbDF0clRISHNIZHJrWFdUVDdNazNuQnNtcG4xSU5IWlZMZW9aQWxPWG51cV9GVm40Q296eENDUEhoZW1ndXZOektZSUtPVlpUcGpIS1doU3Z6RTRaclhISjRDcV9FNDBTLWIxaDhGNHFqdVZuNVpINXg4VnBBaENveFh2MHhhUXRZU3dGVEIxT1dMOXZ6OW9UQW9uM1NXR1czSGEyWmlFbzNGTlV2RFhFVWE5ZEFZMGtUX2Vn?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYU95eHZWVDJyN21HQTBuUXI4MWQwckZsSmtvY1ZfWUVWS09BWUswbDF0clRISHNIZHJrWFdUVDdNazNuQnNtcG4xSU5IWlZMZW9aQWxPWG51cV9GVm40Q296eENDUEhoZW1ndXZOektZSUtPVlpUcGpIS1doU3Z6RTRaclhISjRDcV9FNDBTLWIxaDhGNHFqdVZuNVpINXg4VnBBaENveFh2MHhhUXRZU3dGVEIxT1dMOX",
@@ -478,26 +468,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDhqYkVMemFkN3pVNnk3aHRjZHhUMzFlTFpoWDhRNlRwbGZmSm1PdFB0TFpFSXBDQzVrZHZIM3J6YzRsVGNXMGs3ZnB2Z2E1R0pWcHJ4QkJ1bGVHSmJsYmE0aFFNWVBNUXNJQ1JIaTNIWGdPcTVZa0I3Vm03ZjVuT0JqMk9Hb1RWZ2dVMThTd09IZjNnLVA0?oc=5",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDhqYkVMemFkN3pVNnk3aHRjZHhUMzFlTFpoWDhRNlRwbGZmSm1PdFB0TFpFSXBDQzVrZHZIM3J6YzRsVGNXMGs3ZnB2Z2E1R0pWcHJ4QkJ1bGVHSmJsYmE0aFFNWVBNUXNJQ1JIaTNIWGdPcTVZa0I3Vm03ZjVuT0JqMk9Hb1RWZ2dVMThTd09IZjNnLVA0?oc=5\" target=\"_blank\">Suryakumar Yadav shares",
       "publishedAt": "2026-11-06T11:32:20.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "SSK Community Appeal Calls for Unity and Collective Progress - PanAsiaBiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNVZLOUxtTGFfZEpQZkZXb29Ua0sxUHlEUmgxSmRMSG9VcU1VX0pXOUdHTTJZSElveHlGaGJtVUl6QThjUWM2RHFkbDZkMW9SY092U0tjb0x0Qi1OM1VSRFdFT2dlcVlLTnEzZlZkYVAybTFMNXR4bHdR?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNVZLOUxtTGFfZEpQZkZXb29Ua0sxUHlEUmgxSmRMSG9VcU1VX0pXOUdHTTJZSElveHlGaGJtVUl6QThjUWM2RHFkbDZkMW9SY092U0tjb0x0Qi1OM1VSRFdFT2dlcVlLTnEzZlZkYVAybTFMNXR4bHdR?oc=5\" target=\"_blank\">SSK Community Appeal Calls for Unity and Collective Progress</a",
-      "publishedAt": "2026-11-06T12:53:00.000Z",
-      "source": {
-        "name": "Google News"
-      },
-      "urlToImage": null
-    },
-    {
-      "title": "Chhattisgarh Plans ‘Riyasat Veethika’ Gallery to Preserve Heritage of 14 Former Princely States - Indianmasterminds",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXRyaEtzMFFzdGFOLWZXMy1pTGR4OTdKYlRqU180VFc3NmFPRFotbkhhNnZOR0wySER5cVREUklXQVFjMGROUlU2SnAwTTBDYklWRlIyeDlaVWZDeTBheVd4UXdtVGRFSVdxV2hDa0l3eTZKa3Y1azlkOWJCc0FhMVpTaTBySzhMeTduWTdpVENZMmlLMkdJN0pwbw?oc=5",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXRyaEtzMFFzdGFOLWZXMy1pTGR4OTdKYlRqU180VFc3NmFPRFotbkhhNnZOR0wySER5cVREUklXQVFjMGROUlU2SnAwTTBDYklWRlIyeDlaVWZDeTBheVd4UXdtVGRFSVdxV2hDa0l3eTZKa3Y1azlkOWJCc0FhMVpTaTBySzhMeTduWTdpVENZMmlLMkdJN0pwbw?oc=5\" target=\"_blank\">Chhattisgarh Plan",
-      "publishedAt": "2026-11-06T09:29:59.000Z",
       "source": {
         "name": "Google News"
       },
