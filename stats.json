@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T20:18:52.661Z",
+  "lastUpdated": "2026-11-06T23:59:52.665Z",
   "recentMatches": [
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
@@ -893,7 +893,7 @@
     {
       "id": "e94f6544-143e-4fdb-ac41-a922022899ed",
       "name": "Pakistan Cricket Board Patrons XI vs Sri Lanka, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026",
-      "status": "Day 2: Stumps - Sri Lanka lead by 193 runs",
+      "status": "Sri Lanka won by 142 runs",
       "venue": "Islamabad Club Cricket Oval, Islamabad",
       "date": "2026-11-04",
       "dateTimeGMT": "2026-11-04T05:00:00",
@@ -926,10 +926,16 @@
           "inning": "Pakistan Cricket Board Patrons XI,Sri Lanka Inning 1"
         },
         {
-          "r": 121,
-          "w": 6,
-          "o": 38,
+          "r": 181,
+          "w": 10,
+          "o": 54.3,
           "inning": "sri lanka Inning 2"
+        },
+        {
+          "r": 111,
+          "w": 10,
+          "o": 27.1,
+          "inning": "Pakistan Cricket Board Patrons XI,Sri Lanka Inning 2"
         }
       ],
       "series_id": "a67cb0af-300c-4449-8e80-e006301e5706",
@@ -937,7 +943,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "786781a5-0548-479e-b268-a87521ea2e36",
