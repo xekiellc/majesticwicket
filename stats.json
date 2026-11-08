@@ -1,17 +1,29 @@
 {
-  "lastUpdated": "2026-11-08T08:47:41.949Z",
+  "lastUpdated": "2026-11-08T14:36:18.290Z",
   "recentMatches": [
     {
-      "id": "df484f6c-3c1d-4128-9f3e-4520ad03ba3c",
-      "name": "Namibia Women vs Rwanda Women, 5th Match, Womens Victoria T20I Series, 2026",
+      "id": "958aa945-930f-4e17-af8a-c8966226ec1e",
+      "name": "Uganda Women vs United States of America Women, 6th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Namibia Women opt to bat",
+      "status": "United States of America Women opt to bat",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T06:30:00",
+      "dateTimeGMT": "2026-11-08T11:00:00",
       "teams": [
-        "Namibia Women",
-        "Rwanda Women"
+        "Uganda Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
       ],
       "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
       "fantasyEnabled": false,
@@ -19,6 +31,51 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
+    },
+    {
+      "id": "df484f6c-3c1d-4128-9f3e-4520ad03ba3c",
+      "name": "Namibia Women vs Rwanda Women, 5th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Namibia Women won by 39 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T06:30:00",
+      "teams": [
+        "Namibia Women",
+        "Rwanda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 8,
+          "o": 20,
+          "inning": "namibia women Inning 1"
+        },
+        {
+          "r": 59,
+          "w": 10,
+          "o": 17.5,
+          "inning": "Namibia Women,Rwanda Women Inning 1"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
@@ -109,7 +166,7 @@
     {
       "id": "4f5520d8-5b58-4b5c-a434-e713d6d259ae",
       "name": "West Indies A vs England Lions, 1st Unofficial ODI, England Lions tour of West Indies, 2026",
-      "status": "Match reduced to 40 overs due to rain - England Lions opt to bowl",
+      "status": "England Lions won by 4 wkts (DLS Method due to rain)",
       "venue": "Warner Park, Basseterre, St Kitts",
       "date": "2026-11-07",
       "dateTimeGMT": "2026-11-07T18:00:00",
@@ -131,10 +188,16 @@
       ],
       "score": [
         {
-          "r": 183,
-          "w": 4,
-          "o": 32.4,
+          "r": 212,
+          "w": 8,
+          "o": 40,
           "inning": "West Indies A Inning 1"
+        },
+        {
+          "r": 240,
+          "w": 6,
+          "o": 33.5,
+          "inning": "England Lions Inning 1"
         }
       ],
       "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
@@ -142,7 +205,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d2eca8a2-ed50-46fc-8369-e48cc1c757e0",
@@ -231,6 +294,86 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "34fcd8aa-3b5e-4dd8-b520-1595e878ed0b",
+      "name": "United Tigers vs UAE Bulls, 5th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "UAE Bulls opt to bowl",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T13:45:00",
+      "teams": [
+        "United Tigers",
+        "UAE Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uae Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 90,
+          "w": 5,
+          "o": 7.2,
+          "inning": "United Tigers Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "a172aa1d-a718-473e-8df2-5be778936b9d",
+      "name": "Yas Lions vs Emirates Eagles, 4th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Yas Lions won by 6 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T11:30:00",
+      "teams": [
+        "Yas Lions",
+        "Emirates Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yas Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 115,
+          "w": 4,
+          "o": 10,
+          "inning": "Emirates Eagles Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 4,
+          "o": 8.4,
+          "inning": "Yas Lions Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -367,7 +510,7 @@
       "id": "322865ca-688c-40d4-a7f0-275bd612abf2",
       "name": "United Arab Emirates U19 vs Nepal U19, 7th Match, Group A, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "United Arab Emirates U19 need 147 runs",
+      "status": "United Arab Emirates U19 won by 7 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
       "date": "2026-11-08",
       "dateTimeGMT": "2026-11-08T05:00:00",
@@ -395,9 +538,9 @@
           "inning": "Nepal U19 Inning 1"
         },
         {
-          "r": 6,
-          "w": 0,
-          "o": 2.2,
+          "r": 158,
+          "w": 3,
+          "o": 34.4,
           "inning": "United Arab Emirates U19 Inning 1"
         }
       ],
@@ -406,13 +549,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076",
       "name": "India U19 vs Pakistan U19, 8th Match, Group A, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "Pakistan U19 won by 3 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "date": "2026-11-08",
       "dateTimeGMT": "2026-11-08T05:00:00",
@@ -438,6 +581,12 @@
           "w": 10,
           "o": 46.3,
           "inning": "india u19 Inning 1"
+        },
+        {
+          "r": 209,
+          "w": 7,
+          "o": 48.1,
+          "inning": "India U19,Pakistan U19 Inning 1"
         }
       ],
       "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
@@ -445,7 +594,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "298fc307-6208-44b7-b2ed-b8a73d32627b",
@@ -719,7 +868,7 @@
       "id": "6f39b06b-e2b7-4a2b-ad14-88b29a3769f2",
       "name": "Perth Scorchers Women vs Melbourne Stars Women, 16th Match, Womens Big Bash League 2026",
       "matchType": "t20",
-      "status": "Perth Scorchers Women need 41 runs in 67 balls",
+      "status": "Perth Scorchers Women won by 6 wkts",
       "venue": "North Sydney Oval, Sydney",
       "date": "2026-11-08",
       "dateTimeGMT": "2026-11-08T06:10:00",
@@ -747,9 +896,9 @@
           "inning": "melbourne stars women Inning 1"
         },
         {
-          "r": 96,
-          "w": 3,
-          "o": 8.5,
+          "r": 137,
+          "w": 4,
+          "o": 15,
           "inning": "Perth Scorchers Women,Melbourne Stars Women Inning 1"
         }
       ],
@@ -758,7 +907,7 @@
       "bbbEnabled": false,
       "hasSquad": true,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "f9366950-2ae6-4b00-968c-4c6c8462e489",
@@ -934,157 +1083,6 @@
         }
       ],
       "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
-      "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
-      "matchType": "test",
-      "status": "Day 4: 3rd Session - West Indies lead by 229 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T03:30:00",
-      "teams": [
-        "Bangladesh",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 356,
-          "w": 10,
-          "o": 106.4,
-          "inning": "west indies Inning 1"
-        },
-        {
-          "r": 386,
-          "w": 10,
-          "o": 111.5,
-          "inning": "Bangladesh,West Indies Inning 1"
-        },
-        {
-          "r": 259,
-          "w": 2,
-          "o": 62,
-          "inning": "west indies Inning 2"
-        }
-      ],
-      "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8ad504bb-250d-41e3-b7cc-12cb65ea6e32",
-      "name": "Afghanistan vs Zimbabwe, 1st Test, Afghanistan vs Zimbabwe in UAE, 2026",
-      "status": "Day 4: Lunch Break - Afghanistan trail by 39 runs",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T05:30:00",
-      "teams": [
-        "Afghanistan",
-        "Zimbabwe"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Zimbabwe",
-          "shortname": "ZIM",
-          "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 504,
-          "w": 10,
-          "o": 134.3,
-          "inning": "zimbabwe Inning 1"
-        },
-        {
-          "r": 465,
-          "w": 7,
-          "o": 155,
-          "inning": "Afghanistan,Zimbabwe Inning 1"
-        }
-      ],
-      "series_id": "7d61737b-c4d8-4f44-b8cb-309ce4d9c57a",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
-      "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
-      "status": "Day 4: 1st Session - Zimbabwe A need 413 runs",
-      "venue": "Harare Sports Club, Harare",
-      "date": "2026-11-06",
-      "dateTimeGMT": "2026-11-06T07:30:00",
-      "teams": [
-        "Zimbabwe A",
-        "Ireland A"
-      ],
-      "teamInfo": [
-        {
-          "name": "Ireland A",
-          "shortname": "IRA",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Zimbabwe A",
-          "shortname": "ZIM-A",
-          "img": "https://g.cricapi.com/iapi/1140-637877079926865220.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 424,
-          "w": 10,
-          "o": 93.1,
-          "inning": "ireland a Inning 1"
-        },
-        {
-          "r": 261,
-          "w": 10,
-          "o": 80,
-          "inning": "Zimbabwe A,Ireland A Inning 1"
-        },
-        {
-          "r": 306,
-          "w": 6,
-          "o": 71,
-          "inning": "ireland a Inning 2"
-        },
-        {
-          "r": 61,
-          "w": 1,
-          "o": 11.4,
-          "inning": "Zimbabwe A,Ireland A Inning 2"
-        }
-      ],
-      "series_id": "55616b78-3f8c-429a-b9c2-cf73c72d4cd4",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
