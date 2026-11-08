@@ -1,6 +1,25 @@
 {
-  "lastUpdated": "2026-11-07T23:30:35.116Z",
+  "lastUpdated": "2026-11-08T08:47:41.949Z",
   "recentMatches": [
+    {
+      "id": "df484f6c-3c1d-4128-9f3e-4520ad03ba3c",
+      "name": "Namibia Women vs Rwanda Women, 5th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Namibia Women opt to bat",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T06:30:00",
+      "teams": [
+        "Namibia Women",
+        "Rwanda Women"
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
       "name": "Biratnagar Kings vs Kathmandu Gorkhas, 15th Match, Nepal Premier League 2026",
@@ -86,6 +105,44 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "4f5520d8-5b58-4b5c-a434-e713d6d259ae",
+      "name": "West Indies A vs England Lions, 1st Unofficial ODI, England Lions tour of West Indies, 2026",
+      "status": "Match reduced to 40 overs due to rain - England Lions opt to bowl",
+      "venue": "Warner Park, Basseterre, St Kitts",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T18:00:00",
+      "teams": [
+        "West Indies A",
+        "England Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Lions",
+          "shortname": "ENGL",
+          "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
+        },
+        {
+          "name": "West Indies A",
+          "shortname": "WIA",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 4,
+          "o": 32.4,
+          "inning": "West Indies A Inning 1"
+        }
+      ],
+      "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "d2eca8a2-ed50-46fc-8369-e48cc1c757e0",
@@ -305,6 +362,90 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "322865ca-688c-40d4-a7f0-275bd612abf2",
+      "name": "United Arab Emirates U19 vs Nepal U19, 7th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "United Arab Emirates U19 need 147 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T05:00:00",
+      "teams": [
+        "United Arab Emirates U19",
+        "Nepal U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal U19",
+          "shortname": "NE19",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates U19",
+          "shortname": "AE19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 152,
+          "w": 10,
+          "o": 41,
+          "inning": "Nepal U19 Inning 1"
+        },
+        {
+          "r": 6,
+          "w": 0,
+          "o": 2.2,
+          "inning": "United Arab Emirates U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076",
+      "name": "India U19 vs Pakistan U19, 8th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Innings Break",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T05:00:00",
+      "teams": [
+        "India U19",
+        "Pakistan U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Pakistan U19",
+          "shortname": "PK19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 10,
+          "o": 46.3,
+          "inning": "india u19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "298fc307-6208-44b7-b2ed-b8a73d32627b",
@@ -575,6 +716,96 @@
       "matchEnded": true
     },
     {
+      "id": "6f39b06b-e2b7-4a2b-ad14-88b29a3769f2",
+      "name": "Perth Scorchers Women vs Melbourne Stars Women, 16th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women need 41 runs in 67 balls",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T06:10:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Melbourne Stars Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 6,
+          "o": 20,
+          "inning": "melbourne stars women Inning 1"
+        },
+        {
+          "r": 96,
+          "w": 3,
+          "o": 8.5,
+          "inning": "Perth Scorchers Women,Melbourne Stars Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "f9366950-2ae6-4b00-968c-4c6c8462e489",
+      "name": "Sydney Sixers Women vs Sydney Thunder Women, 15th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 9 runs (16 Overs game due to rain, DLS target 168)",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T02:40:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Sydney Thunder Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 162,
+          "w": 2,
+          "o": 16,
+          "inning": "Sydney Sixers Women Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 10,
+          "o": 15.3,
+          "inning": "Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "1f4f3716-c5f2-44e7-9a35-056e63a2b1cf",
       "name": "Brisbane Heat Women vs Hobart Hurricanes Women, 14th Match, Womens Big Bash League 2026",
       "matchType": "t20",
@@ -668,7 +899,7 @@
       "id": "9bdb29a3-e23d-4400-b4d9-86a8f857d0ba",
       "name": "New Zealand A vs India A, 3rd Unofficial Test, India A tour of New Zealand, 2026",
       "matchType": "test",
-      "status": "Day 2: 1st Session - New Zealand A opt to bowl",
+      "status": "Day 2: Stumps - New Zealand A trail by 428 runs",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "date": "2026-11-07",
       "dateTimeGMT": "2026-11-07T21:30:00",
@@ -690,10 +921,16 @@
       ],
       "score": [
         {
-          "r": 306,
-          "w": 4,
-          "o": 92.1,
+          "r": 464,
+          "w": 5,
+          "o": 146,
           "inning": "India A Inning 1"
+        },
+        {
+          "r": 36,
+          "w": 2,
+          "o": 14,
+          "inning": "New Zealand A Inning 1"
         }
       ],
       "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
@@ -707,7 +944,7 @@
       "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
       "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
       "matchType": "test",
-      "status": "Day 3: Stumps - West Indies trail by 23 runs",
+      "status": "Day 4: 3rd Session - West Indies lead by 229 runs",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T03:30:00",
@@ -741,9 +978,9 @@
           "inning": "Bangladesh,West Indies Inning 1"
         },
         {
-          "r": 7,
-          "w": 0,
-          "o": 4,
+          "r": 259,
+          "w": 2,
+          "o": 62,
           "inning": "west indies Inning 2"
         }
       ],
@@ -757,7 +994,7 @@
     {
       "id": "8ad504bb-250d-41e3-b7cc-12cb65ea6e32",
       "name": "Afghanistan vs Zimbabwe, 1st Test, Afghanistan vs Zimbabwe in UAE, 2026",
-      "status": "Day 3: Stumps - Afghanistan trail by 102 runs",
+      "status": "Day 4: Lunch Break - Afghanistan trail by 39 runs",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "date": "2026-11-05",
       "dateTimeGMT": "2026-11-05T05:30:00",
@@ -785,9 +1022,9 @@
           "inning": "zimbabwe Inning 1"
         },
         {
-          "r": 402,
+          "r": 465,
           "w": 7,
-          "o": 125,
+          "o": 155,
           "inning": "Afghanistan,Zimbabwe Inning 1"
         }
       ],
@@ -801,7 +1038,7 @@
     {
       "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
       "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
-      "status": "Day 3: Stumps - Zimbabwe A need 413 runs",
+      "status": "Day 4: 1st Session - Zimbabwe A need 413 runs",
       "venue": "Harare Sports Club, Harare",
       "date": "2026-11-06",
       "dateTimeGMT": "2026-11-06T07:30:00",
@@ -853,276 +1090,6 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": false
-    },
-    {
-      "id": "f6f37400-8288-45fb-b29f-2e6b4129f2c3",
-      "name": "Central Stags vs Auckland, 7th Match, The Ford Trophy 2026-27",
-      "matchType": "odi",
-      "status": "Auckland won by 74 runs",
-      "venue": "Saxton Oval, Nelson",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T21:30:00",
-      "teams": [
-        "Central Stags",
-        "Auckland"
-      ],
-      "teamInfo": [
-        {
-          "name": "Auckland",
-          "shortname": "AKL",
-          "img": "https://g.cricapi.com/iapi/5-637993557414710285.webp?w=48"
-        },
-        {
-          "name": "Central Stags",
-          "shortname": "CS",
-          "img": "https://g.cricapi.com/iapi/133-637957472586275153.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 357,
-          "w": 7,
-          "o": 50,
-          "inning": "auckland Inning 1"
-        },
-        {
-          "r": 283,
-          "w": 10,
-          "o": 45.5,
-          "inning": "Central Stags,Auckland Inning 1"
-        }
-      ],
-      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "50b58369-2263-4b6e-adf2-0e616732fd0f",
-      "name": "Wellington vs Northern Districts, 8th Match, The Ford Trophy 2026-27",
-      "matchType": "odi",
-      "status": "Wellington won by 202 runs",
-      "venue": "Basin Reserve, Wellington",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T21:30:00",
-      "teams": [
-        "Wellington",
-        "Northern Districts"
-      ],
-      "teamInfo": [
-        {
-          "name": "Northern Districts",
-          "shortname": "ND",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Wellington",
-          "shortname": "WEL",
-          "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 354,
-          "w": 7,
-          "o": 50,
-          "inning": "Wellington Inning 1"
-        },
-        {
-          "r": 152,
-          "w": 10,
-          "o": 35.1,
-          "inning": "Northern Districts Inning 1"
-        }
-      ],
-      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "d25bab77-bc46-4247-b948-896878695643",
-      "name": "Otago vs Canterbury, 9th Match, The Ford Trophy 2026-27",
-      "matchType": "odi",
-      "status": "Otago won by 6 wkts (46 Overs game due to rain)",
-      "venue": "University Oval, Dunedin",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T21:30:00",
-      "teams": [
-        "Otago",
-        "Canterbury"
-      ],
-      "teamInfo": [
-        {
-          "name": "Canterbury",
-          "shortname": "CAN",
-          "img": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=48"
-        },
-        {
-          "name": "Otago",
-          "shortname": "OTG",
-          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 175,
-          "w": 10,
-          "o": 43.3,
-          "inning": "Canterbury Inning 1"
-        },
-        {
-          "r": 176,
-          "w": 4,
-          "o": 37,
-          "inning": "Otago Inning 1"
-        }
-      ],
-      "series_id": "127a3118-68a6-4f22-8375-1e2a9a8da0b3",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0e3699f8-43b2-461b-a659-4d38daf9bf35",
-      "name": "Melbourne Stars Women vs Sydney Sixers Women, 12th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 1 run",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-11-06",
-      "dateTimeGMT": "2026-11-06T08:10:00",
-      "teams": [
-        "Melbourne Stars Women",
-        "Sydney Sixers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Melbourne Stars Women",
-          "shortname": "MS-W",
-          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
-        },
-        {
-          "name": "Sydney Sixers Women",
-          "shortname": "SS-W",
-          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 160,
-          "w": 5,
-          "o": 20,
-          "inning": "sydney sixers women Inning 1"
-        },
-        {
-          "r": 159,
-          "w": 7,
-          "o": 20,
-          "inning": "Melbourne Stars Women,Sydney Sixers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "f6bfa913-6f79-4fd9-ab8a-fe0b4cf5a456",
-      "name": "Sydney Thunder Women vs Perth Scorchers Women, 11th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Perth Scorchers Women won by 17 runs",
-      "venue": "Drummoyne Oval, Sydney",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T08:10:00",
-      "teams": [
-        "Sydney Thunder Women",
-        "Perth Scorchers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Perth Scorchers Women",
-          "shortname": "PS-W",
-          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
-        },
-        {
-          "name": "Sydney Thunder Women",
-          "shortname": "ST-W",
-          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 183,
-          "w": 2,
-          "o": 20,
-          "inning": "Perth Scorchers Women Inning 1"
-        },
-        {
-          "r": 166,
-          "w": 10,
-          "o": 19,
-          "inning": "Sydney Thunder Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "de774f34-7940-44c4-acce-8918a8069613",
-      "name": "Adelaide Strikers Women vs Brisbane Heat Women, 10th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Brisbane Heat Women won by 14 runs",
-      "venue": "Drummoyne Oval, Sydney",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T04:40:00",
-      "teams": [
-        "Adelaide Strikers Women",
-        "Brisbane Heat Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Adelaide Strikers Women",
-          "shortname": "AS-W",
-          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
-        },
-        {
-          "name": "Brisbane Heat Women",
-          "shortname": "BH-W",
-          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 184,
-          "w": 4,
-          "o": 20,
-          "inning": "Brisbane Heat Women Inning 1"
-        },
-        {
-          "r": 170,
-          "w": 5,
-          "o": 20,
-          "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
     }
   ],
   "ipl": {
