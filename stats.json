@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T17:52:52.654Z",
+  "lastUpdated": "2026-11-09T23:19:44.294Z",
   "recentMatches": [
     {
       "id": "958aa945-930f-4e17-af8a-c8966226ec1e",
@@ -85,92 +85,6 @@
         }
       ],
       "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "22508d08-daf1-4a48-a83b-5d3084d2a7bc",
-      "name": "Biratnagar Kings vs Kathmandu Gorkhas, 15th Match, Nepal Premier League 2026",
-      "matchType": "t20",
-      "status": "Kathmandu Gorkhas won by 9 wkts",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T10:45:00",
-      "teams": [
-        "Biratnagar Kings",
-        "Kathmandu Gorkhas"
-      ],
-      "teamInfo": [
-        {
-          "name": "Biratnagar Kings",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Kathmandu Gorkhas",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 83,
-          "w": 10,
-          "o": 18.3,
-          "inning": "Biratnagar Kings Inning 1"
-        },
-        {
-          "r": 86,
-          "w": 1,
-          "o": 9.4,
-          "inning": "Kathmandu Gorkhas Inning 1"
-        }
-      ],
-      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a8e562f2-154c-4af1-84d1-9b346393678b",
-      "name": "Janakpur Bolts vs Lumbini Lions, 14th Match, Nepal Premier League 2026",
-      "matchType": "t20",
-      "status": "Lumbini Lions won by 16 runs",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T06:45:00",
-      "teams": [
-        "Janakpur Bolts",
-        "Lumbini Lions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Janakpur Bolts",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Lumbini Lions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 149,
-          "w": 8,
-          "o": 20,
-          "inning": "Lumbini Lions Inning 1"
-        },
-        {
-          "r": 133,
-          "w": 8,
-          "o": 20,
-          "inning": "Janakpur Bolts Inning 1"
-        }
-      ],
-      "series_id": "a8815363-b07e-48df-b185-42e43d1745cd",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -924,95 +838,6 @@
       "matchEnded": true
     },
     {
-      "id": "7b5135ce-6494-4ac9-97cd-87999a602d5b",
-      "name": "Bangladesh U19 vs Afghanistan U19, 2nd Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Afghanistan U19 won by 113 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T05:00:00",
-      "teams": [
-        "Bangladesh U19",
-        "Afghanistan U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan U19",
-          "shortname": "AF19",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Bangladesh U19",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 231,
-          "w": 10,
-          "o": 49,
-          "inning": "afghanistan u19 Inning 1"
-        },
-        {
-          "r": 118,
-          "w": 10,
-          "o": 25.5,
-          "inning": "Bangladesh U19,Afghanistan U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a7347ac9-842a-45a1-bd41-2c3cabdb01d3",
-      "name": "Sri Lanka U19 vs Malaysia U19, 1st Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Sri Lanka U19 won by 9 wkts",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T05:00:00",
-      "teams": [
-        "Sri Lanka U19",
-        "Malaysia U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Malaysia U19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 88,
-          "w": 10,
-          "o": 28.1,
-          "inning": "Malaysia U19 Inning 1"
-        },
-        {
-          "r": 91,
-          "w": 1,
-          "o": 13.5,
-          "inning": "Sri Lanka U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "6f39b06b-e2b7-4a2b-ad14-88b29a3769f2",
       "name": "Perth Scorchers Women vs Melbourne Stars Women, 16th Match, Womens Big Bash League 2026",
       "matchType": "t20",
@@ -1099,6 +924,197 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1f4f3716-c5f2-44e7-9a35-056e63a2b1cf",
+      "name": "Brisbane Heat Women vs Hobart Hurricanes Women, 14th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 4 wkts",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T08:10:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "Hobart Hurricanes Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 116,
+          "w": 9,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 6,
+          "o": 18.2,
+          "inning": "Brisbane Heat Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "300f2828-e1c8-44ad-8a74-be0a54ec4e02",
+      "name": "Melbourne Renegades Women vs Adelaide Strikers Women, 13th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Melbourne Renegades Women won by 36 runs",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T04:40:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Adelaide Strikers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 188,
+          "w": 3,
+          "o": 20,
+          "inning": "Melbourne Renegades Women Inning 1"
+        },
+        {
+          "r": 152,
+          "w": 8,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9bdb29a3-e23d-4400-b4d9-86a8f857d0ba",
+      "name": "New Zealand A vs India A, 3rd Unofficial Test, India A tour of New Zealand, 2026",
+      "matchType": "test",
+      "status": "Day 4: Lunch Break - New Zealand A trail by 428 runs",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T21:30:00",
+      "teams": [
+        "New Zealand A",
+        "India A"
+      ],
+      "teamInfo": [
+        {
+          "name": "India A",
+          "shortname": "INA",
+          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
+        },
+        {
+          "name": "New Zealand A",
+          "shortname": "NZA",
+          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 464,
+          "w": 5,
+          "o": 146,
+          "inning": "India A Inning 1"
+        },
+        {
+          "r": 36,
+          "w": 2,
+          "o": 14,
+          "inning": "New Zealand A Inning 1"
+        }
+      ],
+      "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "db5cceff-774e-47db-b6fc-a37862e6fe4a",
+      "name": "Zimbabwe A vs Ireland A, 1st unofficial Test, Ireland A tour of Zimbabwe, 2026",
+      "status": "Ireland A won by 216 runs",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T07:30:00",
+      "teams": [
+        "Zimbabwe A",
+        "Ireland A"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland A",
+          "shortname": "IRA",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Zimbabwe A",
+          "shortname": "ZIM-A",
+          "img": "https://g.cricapi.com/iapi/1140-637877079926865220.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 424,
+          "w": 10,
+          "o": 93.1,
+          "inning": "ireland a Inning 1"
+        },
+        {
+          "r": 261,
+          "w": 10,
+          "o": 80,
+          "inning": "Zimbabwe A,Ireland A Inning 1"
+        },
+        {
+          "r": 306,
+          "w": 6,
+          "o": 71,
+          "inning": "ireland a Inning 2"
+        },
+        {
+          "r": 257,
+          "w": 10,
+          "o": 65.4,
+          "inning": "Zimbabwe A,Ireland A Inning 2"
+        }
+      ],
+      "series_id": "55616b78-3f8c-429a-b9c2-cf73c72d4cd4",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
