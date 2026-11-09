@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T23:30:01.034Z",
+  "lastUpdated": "2026-11-09T09:27:28.468Z",
   "recentMatches": [
     {
       "id": "958aa945-930f-4e17-af8a-c8966226ec1e",
@@ -478,6 +478,95 @@
       "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "db346523-43d0-4221-b092-eb6a64f7915b",
+      "name": "Sri Lanka U19 vs Afghanistan U19, 10th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Sri Lanka U19 need 262 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T05:00:00",
+      "teams": [
+        "Sri Lanka U19",
+        "Afghanistan U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan U19",
+          "shortname": "AF19",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka U19",
+          "shortname": "SL19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 275,
+          "w": 10,
+          "o": 49.5,
+          "inning": "Afghanistan U19 Inning 1"
+        },
+        {
+          "r": 14,
+          "w": 2,
+          "o": 4,
+          "inning": "Sri Lanka U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8b442300-13c3-4567-a9b8-43b746468bb5",
+      "name": "Bangladesh U19 vs Malaysia U19, 9th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Malaysia U19 need 295 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T05:00:00",
+      "teams": [
+        "Bangladesh U19",
+        "Malaysia U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh U19",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Malaysia U19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 303,
+          "w": 8,
+          "o": 50,
+          "inning": "bangladesh u19 Inning 1"
+        },
+        {
+          "r": 9,
+          "w": 1,
+          "o": 3.3,
+          "inning": "Bangladesh U19,Malaysia U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "322865ca-688c-40d4-a7f0-275bd612abf2",
@@ -1014,102 +1103,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "9bdb29a3-e23d-4400-b4d9-86a8f857d0ba",
-      "name": "New Zealand A vs India A, 3rd Unofficial Test, India A tour of New Zealand, 2026",
-      "matchType": "test",
-      "status": "Day 3: Start delayed due to rain - New Zealand A trail by 428 runs",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "date": "2026-11-07",
-      "dateTimeGMT": "2026-11-07T21:30:00",
-      "teams": [
-        "New Zealand A",
-        "India A"
-      ],
-      "teamInfo": [
-        {
-          "name": "India A",
-          "shortname": "INA",
-          "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
-        },
-        {
-          "name": "New Zealand A",
-          "shortname": "NZA",
-          "img": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 464,
-          "w": 5,
-          "o": 146,
-          "inning": "India A Inning 1"
-        },
-        {
-          "r": 36,
-          "w": 2,
-          "o": 14,
-          "inning": "New Zealand A Inning 1"
-        }
-      ],
-      "series_id": "b1b67dd4-aeba-4f70-9a23-257a6da73d88",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": false
-    },
-    {
-      "id": "29f0a681-bd9b-40c4-af2d-cae8b5ad4efb",
-      "name": "Bangladesh vs West Indies, 2nd Test, West Indies tour of Bangladesh, 2026",
-      "matchType": "test",
-      "status": "Day 4: Stumps - West Indies lead by 315 runs",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "date": "2026-11-05",
-      "dateTimeGMT": "2026-11-05T03:30:00",
-      "teams": [
-        "Bangladesh",
-        "West Indies"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "West Indies",
-          "shortname": "WI",
-          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 356,
-          "w": 10,
-          "o": 106.4,
-          "inning": "west indies Inning 1"
-        },
-        {
-          "r": 386,
-          "w": 10,
-          "o": 111.5,
-          "inning": "Bangladesh,West Indies Inning 1"
-        },
-        {
-          "r": 345,
-          "w": 3,
-          "o": 83,
-          "inning": "west indies Inning 2"
-        }
-      ],
-      "series_id": "afc051fd-79b4-4635-8f3a-7cda1dd50f02",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     }
