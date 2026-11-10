@@ -1,4 +1,1585 @@
 {
-  "lastUpdated": "2026-11-10T15:52:12.988Z",
-  "recentMatches": []
+  "lastUpdated": "2026-11-10T20:44:21.903Z",
+  "recentMatches": [
+    {
+      "id": "37c4b752-cba7-474c-a413-45679a2f8927",
+      "name": "Namibia Women vs Uganda Women, 8th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Namibia Women won by 4 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T11:00:00",
+      "teams": [
+        "Namibia Women",
+        "Uganda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 81,
+          "w": 10,
+          "o": 19,
+          "inning": "Namibia Women Inning 1"
+        },
+        {
+          "r": 77,
+          "w": 10,
+          "o": 20,
+          "inning": "Uganda Women Inning 1"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "1f8b1266-3bbc-4b01-9269-62ec2db5b7c6",
+      "name": "Rwanda Women vs United States of America Women, 7th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Rwanda Women won by 2 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T06:30:00",
+      "teams": [
+        "Rwanda Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 107,
+          "w": 5,
+          "o": 20,
+          "inning": "Rwanda Women Inning 1"
+        },
+        {
+          "r": 105,
+          "w": 4,
+          "o": 20,
+          "inning": "United States of America Women Inning 1"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "958aa945-930f-4e17-af8a-c8966226ec1e",
+      "name": "Uganda Women vs United States of America Women, 6th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Uganda Women won by 7 wkts",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T11:00:00",
+      "teams": [
+        "Uganda Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 93,
+          "w": 7,
+          "o": 20,
+          "inning": "united states of america women Inning 1"
+        },
+        {
+          "r": 94,
+          "w": 3,
+          "o": 15.2,
+          "inning": "Uganda Women,United States of America Women Inning 1"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "df484f6c-3c1d-4128-9f3e-4520ad03ba3c",
+      "name": "Namibia Women vs Rwanda Women, 5th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Namibia Women won by 39 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T06:30:00",
+      "teams": [
+        "Namibia Women",
+        "Rwanda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 98,
+          "w": 8,
+          "o": 20,
+          "inning": "namibia women Inning 1"
+        },
+        {
+          "r": 59,
+          "w": 10,
+          "o": 17.5,
+          "inning": "Namibia Women,Rwanda Women Inning 1"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "019bf199-0d5a-491c-8056-20e89323e124",
+      "name": "West Indies A vs England Lions, 2nd Unofficial ODI, England Lions tour of West Indies, 2026",
+      "status": "England Lions won by 276 runs",
+      "venue": "Warner Park, Basseterre, St Kitts",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T18:00:00",
+      "teams": [
+        "West Indies A",
+        "England Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Lions",
+          "shortname": "ENGL",
+          "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
+        },
+        {
+          "name": "West Indies A",
+          "shortname": "WIA",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 487,
+          "w": 5,
+          "o": 50,
+          "inning": "england lions Inning 1"
+        },
+        {
+          "r": 211,
+          "w": 10,
+          "o": 30.5,
+          "inning": "West Indies A,England Lions Inning 1"
+        }
+      ],
+      "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4f5520d8-5b58-4b5c-a434-e713d6d259ae",
+      "name": "West Indies A vs England Lions, 1st Unofficial ODI, England Lions tour of West Indies, 2026",
+      "status": "England Lions won by 4 wkts (DLS Method due to rain)",
+      "venue": "Warner Park, Basseterre, St Kitts",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T18:00:00",
+      "teams": [
+        "West Indies A",
+        "England Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Lions",
+          "shortname": "ENGL",
+          "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
+        },
+        {
+          "name": "West Indies A",
+          "shortname": "WIA",
+          "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 212,
+          "w": 8,
+          "o": 40,
+          "inning": "West Indies A Inning 1"
+        },
+        {
+          "r": 240,
+          "w": 6,
+          "o": 33.5,
+          "inning": "England Lions Inning 1"
+        }
+      ],
+      "series_id": "de4e4745-dcbb-42bd-8254-ebf28f10d449",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4ef7125e-16e3-4125-8138-5d354cb1637d",
+      "name": "UAE Bulls vs Emirates Eagles, 10th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Emirates Eagles won by 25 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T16:00:00",
+      "teams": [
+        "UAE Bulls",
+        "Emirates Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Uae Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 137,
+          "w": 7,
+          "o": 10,
+          "inning": "Emirates Eagles Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 7,
+          "o": 10,
+          "inning": "UAE Bulls Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "6bef77c2-048c-4c66-a71b-e40b0a9c4350",
+      "name": "Yas Lions vs United Tigers, 9th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Yas Lions won by 13 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T13:45:00",
+      "teams": [
+        "Yas Lions",
+        "United Tigers"
+      ],
+      "teamInfo": [
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yas Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 115,
+          "w": 5,
+          "o": 10,
+          "inning": "Yas Lions Inning 1"
+        },
+        {
+          "r": 102,
+          "w": 5,
+          "o": 10,
+          "inning": "United Tigers Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "b113553a-e5cd-439b-a55e-dcc8be5de897",
+      "name": "United Tigers vs Royal Desert Champions, 8th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "United Tigers won by 9 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T16:00:00",
+      "teams": [
+        "United Tigers",
+        "Royal Desert Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Royal Desert Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 81,
+          "w": 9,
+          "o": 10,
+          "inning": "Royal Desert Champions Inning 1"
+        },
+        {
+          "r": 84,
+          "w": 1,
+          "o": 7,
+          "inning": "United Tigers Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5800456f-470d-46f8-a6dd-f1fd75da4de2",
+      "name": "Emirates Eagles vs Arabian Aces, 7th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Arabian Aces won by 10 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T13:45:00",
+      "teams": [
+        "Emirates Eagles",
+        "Arabian Aces"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arabian Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 108,
+          "w": 5,
+          "o": 10,
+          "inning": "Emirates Eagles Inning 1"
+        },
+        {
+          "r": 110,
+          "w": 0,
+          "o": 6.5,
+          "inning": "Arabian Aces Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8fab1286-a770-4021-af36-e469c49f9f1b",
+      "name": "Arabian Aces vs Royal Desert Champions, 6th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Arabian Aces won by 9 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T16:00:00",
+      "teams": [
+        "Arabian Aces",
+        "Royal Desert Champions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arabian Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Desert Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 112,
+          "w": 6,
+          "o": 10,
+          "inning": "Royal Desert Champions Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 1,
+          "o": 9,
+          "inning": "Arabian Aces Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "34fcd8aa-3b5e-4dd8-b520-1595e878ed0b",
+      "name": "United Tigers vs UAE Bulls, 5th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "United Tigers won by 25 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T13:45:00",
+      "teams": [
+        "United Tigers",
+        "UAE Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uae Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 126,
+          "w": 6,
+          "o": 10,
+          "inning": "United Tigers Inning 1"
+        },
+        {
+          "r": 101,
+          "w": 4,
+          "o": 10,
+          "inning": "UAE Bulls Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a172aa1d-a718-473e-8df2-5be778936b9d",
+      "name": "Yas Lions vs Emirates Eagles, 4th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Yas Lions won by 6 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T11:30:00",
+      "teams": [
+        "Yas Lions",
+        "Emirates Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yas Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 115,
+          "w": 4,
+          "o": 10,
+          "inning": "Emirates Eagles Inning 1"
+        },
+        {
+          "r": 117,
+          "w": 4,
+          "o": 8.4,
+          "inning": "Yas Lions Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "d6fd3ae2-02cf-47f1-ae7b-316ec369a44c",
+      "name": "United Tigers vs Arabian Aces, 3rd Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "United Tigers won by 51 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T16:00:00",
+      "teams": [
+        "United Tigers",
+        "Arabian Aces"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arabian Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 6,
+          "o": 10,
+          "inning": "United Tigers Inning 1"
+        },
+        {
+          "r": 89,
+          "w": 9,
+          "o": 10,
+          "inning": "Arabian Aces Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "217d000e-eaa3-4f72-a11b-cd4260956de3",
+      "name": "Royal Desert Champions vs Emirates Eagles, 2nd Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Emirates Eagles won by 16 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T13:45:00",
+      "teams": [
+        "Royal Desert Champions",
+        "Emirates Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Royal Desert Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 125,
+          "w": 2,
+          "o": 10,
+          "inning": "Emirates Eagles Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 7,
+          "o": 10,
+          "inning": "Royal Desert Champions Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "5cd5763c-6470-44a6-a184-c4869454280b",
+      "name": "UAE Bulls vs Yas Lions, 1st Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "UAE Bulls won by 7 wkts",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T11:30:00",
+      "teams": [
+        "UAE Bulls",
+        "Yas Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Uae Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yas Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 3,
+          "o": 10,
+          "inning": "Yas Lions Inning 1"
+        },
+        {
+          "r": 121,
+          "w": 3,
+          "o": 9.4,
+          "inning": "UAE Bulls Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "03d3ac80-f74f-4e02-9738-61edd8672fbb",
+      "name": "Pakistan U19 vs Nepal U19, 12th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Pakistan U19 won by 101 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T05:00:00",
+      "teams": [
+        "Pakistan U19",
+        "Nepal U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal U19",
+          "shortname": "NE19",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "Pakistan U19",
+          "shortname": "PK19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 275,
+          "w": 7,
+          "o": 50,
+          "inning": "Pakistan U19 Inning 1"
+        },
+        {
+          "r": 174,
+          "w": 10,
+          "o": 43.4,
+          "inning": "Nepal U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3fb2e0da-8759-48ec-8913-672394777f2f",
+      "name": "India U19 vs United Arab Emirates U19, 11th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "India U19 won by 70 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T05:00:00",
+      "teams": [
+        "India U19",
+        "United Arab Emirates U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates U19",
+          "shortname": "AE19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 309,
+          "w": 7,
+          "o": 50,
+          "inning": "India U19 Inning 1"
+        },
+        {
+          "r": 239,
+          "w": 10,
+          "o": 50,
+          "inning": "United Arab Emirates U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "db346523-43d0-4221-b092-eb6a64f7915b",
+      "name": "Sri Lanka U19 vs Afghanistan U19, 10th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Afghanistan U19 won by 106 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T05:00:00",
+      "teams": [
+        "Sri Lanka U19",
+        "Afghanistan U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan U19",
+          "shortname": "AF19",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka U19",
+          "shortname": "SL19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 275,
+          "w": 10,
+          "o": 49.5,
+          "inning": "Afghanistan U19 Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 10,
+          "o": 34.1,
+          "inning": "Sri Lanka U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8b442300-13c3-4567-a9b8-43b746468bb5",
+      "name": "Bangladesh U19 vs Malaysia U19, 9th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Bangladesh U19 won by 205 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T05:00:00",
+      "teams": [
+        "Bangladesh U19",
+        "Malaysia U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh U19",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Malaysia U19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 303,
+          "w": 8,
+          "o": 50,
+          "inning": "bangladesh u19 Inning 1"
+        },
+        {
+          "r": 98,
+          "w": 10,
+          "o": 30.5,
+          "inning": "Bangladesh U19,Malaysia U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "322865ca-688c-40d4-a7f0-275bd612abf2",
+      "name": "United Arab Emirates U19 vs Nepal U19, 7th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "United Arab Emirates U19 won by 7 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T05:00:00",
+      "teams": [
+        "United Arab Emirates U19",
+        "Nepal U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal U19",
+          "shortname": "NE19",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates U19",
+          "shortname": "AE19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 152,
+          "w": 10,
+          "o": 41,
+          "inning": "Nepal U19 Inning 1"
+        },
+        {
+          "r": 158,
+          "w": 3,
+          "o": 34.4,
+          "inning": "United Arab Emirates U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076",
+      "name": "India U19 vs Pakistan U19, 8th Match, Group A, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Pakistan U19 won by 3 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-08",
+      "dateTimeGMT": "2026-11-08T05:00:00",
+      "teams": [
+        "India U19",
+        "Pakistan U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Pakistan U19",
+          "shortname": "PK19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 10,
+          "o": 46.3,
+          "inning": "india u19 Inning 1"
+        },
+        {
+          "r": 209,
+          "w": 7,
+          "o": 48.1,
+          "inning": "India U19,Pakistan U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "298fc307-6208-44b7-b2ed-b8a73d32627b",
+      "name": "Sri Lanka U19 vs Bangladesh U19, 6th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Bangladesh U19 won by 45 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T05:00:00",
+      "teams": [
+        "Sri Lanka U19",
+        "Bangladesh U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh U19",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka U19",
+          "shortname": "SL19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 245,
+          "w": 10,
+          "o": 49.4,
+          "inning": "Bangladesh U19 Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 10,
+          "o": 46.1,
+          "inning": "Sri Lanka U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "7b6de40a-6d62-4b83-aaaf-3b42e4a81f8a",
+      "name": "Afghanistan U19 vs Malaysia U19, 5th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Afghanistan U19 won by 10 wkts",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T05:00:00",
+      "teams": [
+        "Afghanistan U19",
+        "Malaysia U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan U19",
+          "shortname": "AF19",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Malaysia U19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 42,
+          "w": 10,
+          "o": 22.3,
+          "inning": "Malaysia U19 Inning 1"
+        },
+        {
+          "r": 47,
+          "w": 0,
+          "o": 3,
+          "inning": "Afghanistan U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e6bb497f-1c63-4cab-911c-e03091e96029",
+      "name": "Hobart Hurricanes Women vs Adelaide Strikers Women, 17th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 4 wkts",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-11-10",
+      "dateTimeGMT": "2026-11-10T08:10:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Adelaide Strikers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 5,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 139,
+          "w": 6,
+          "o": 20,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    }
+  ],
+  "ipl": {
+    "seriesName": "Indian Premier League 2026",
+    "startDate": "2026-03-28",
+    "endDate": "May 31",
+    "standings": [
+      {
+        "team": "Royal Challengers Bengaluru",
+        "played": 14,
+        "won": 9,
+        "lost": 4,
+        "nr": 1,
+        "points": 19
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
+      },
+      {
+        "team": "Gujarat Titans",
+        "played": 14,
+        "won": 9,
+        "lost": 5,
+        "nr": 0,
+        "points": 18
+      },
+      {
+        "team": "Rajasthan Royals",
+        "played": 14,
+        "won": 8,
+        "lost": 6,
+        "nr": 0,
+        "points": 16
+      },
+      {
+        "team": "Punjab Kings",
+        "played": 14,
+        "won": 7,
+        "lost": 6,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Delhi Capitals",
+        "played": 14,
+        "won": 7,
+        "lost": 7,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Chennai Super Kings",
+        "played": 14,
+        "won": 6,
+        "lost": 8,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "played": 14,
+        "won": 5,
+        "lost": 7,
+        "nr": 2,
+        "points": 12
+      },
+      {
+        "team": "Mumbai Indians",
+        "played": 14,
+        "won": 4,
+        "lost": 10,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Lucknow Super Giants",
+        "played": 14,
+        "won": 3,
+        "lost": 9,
+        "nr": 2,
+        "points": 8
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "psl": {
+    "seriesName": "Pakistan Super League 2026",
+    "startDate": "2026-03-26",
+    "endDate": "May 03",
+    "standings": [
+      {
+        "team": "Peshawar Zalmi",
+        "played": 10,
+        "won": 8,
+        "lost": 1,
+        "nr": 1,
+        "points": 17
+      },
+      {
+        "team": "Islamabad United",
+        "played": 10,
+        "won": 6,
+        "lost": 3,
+        "nr": 1,
+        "points": 13
+      },
+      {
+        "team": "Multan Sultans",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Lahore Qalandars",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Hyderabad Kingsmen",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Karachi Kings",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Quetta Gladiators",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Rawalpindiz",
+        "played": 10,
+        "won": 1,
+        "lost": 9,
+        "nr": 0,
+        "points": 2
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "bbl": {
+    "seriesName": "Big Bash League 2025-26",
+    "startDate": "2025-12-14",
+    "endDate": "Jan 25",
+    "standings": [
+      {
+        "team": "Hobart Hurricanes",
+        "played": 12,
+        "won": 7,
+        "lost": 4,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Sydney Sixers",
+        "played": 11,
+        "won": 7,
+        "lost": 3,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Perth Scorchers",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Melbourne Stars",
+        "played": 11,
+        "won": 6,
+        "lost": 5,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Brisbane Heat",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Adelaide Strikers",
+        "played": 10,
+        "won": 4,
+        "lost": 6,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Melbourne Renegades",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Sydney Thunder",
+        "played": 10,
+        "won": 2,
+        "lost": 8,
+        "nr": 0,
+        "points": 4
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "cpl": {
+    "seriesName": "Caribbean Premier League 2025",
+    "startDate": "2025-08-14",
+    "endDate": "Sep 21",
+    "standings": [
+      {
+        "team": "Guyana Amazon Warriors",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Trinbago Knight Riders",
+        "played": 10,
+        "won": 6,
+        "lost": 4,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "Saint Lucia Kings",
+        "played": 10,
+        "won": 5,
+        "lost": 3,
+        "nr": 2,
+        "points": 12
+      },
+      {
+        "team": "Antigua and Barbuda Falcons",
+        "played": 10,
+        "won": 5,
+        "lost": 4,
+        "nr": 1,
+        "points": 11
+      },
+      {
+        "team": "St Kitts and Nevis Patriots",
+        "played": 10,
+        "won": 4,
+        "lost": 6,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Barbados Royals",
+        "played": 10,
+        "won": 2,
+        "lost": 7,
+        "nr": 1,
+        "points": 5
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "hundred": {
+    "seriesName": "The Hundred Men's Competition 2026",
+    "startDate": "2026-07-21",
+    "endDate": "Aug 16",
+    "standings": [
+      {
+        "team": "Trent Rockets",
+        "played": 8,
+        "won": 6,
+        "lost": 2,
+        "nr": 0,
+        "points": 12
+      },
+      {
+        "team": "MI London",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Sunrisers Leeds",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Manchester Super Giants",
+        "played": 8,
+        "won": 5,
+        "lost": 3,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Welsh Fire",
+        "played": 8,
+        "won": 4,
+        "lost": 4,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "London Spirit",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Southern Brave",
+        "played": 8,
+        "won": 3,
+        "lost": 5,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Birmingham Phoenix",
+        "played": 8,
+        "won": 1,
+        "lost": 7,
+        "nr": 0,
+        "points": 2
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "sa20": {
+    "seriesName": "SA20, 2025",
+    "startDate": "2025-01-09",
+    "endDate": "Feb 08",
+    "standings": [
+      {
+        "team": "MI Cape Town",
+        "played": 10,
+        "won": 7,
+        "lost": 2,
+        "nr": 1,
+        "points": 15
+      },
+      {
+        "team": "Paarl Royals",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "Sunrisers Eastern Cape",
+        "played": 10,
+        "won": 5,
+        "lost": 5,
+        "nr": 0,
+        "points": 10
+      },
+      {
+        "team": "Joburg Super Kings",
+        "played": 10,
+        "won": 4,
+        "lost": 4,
+        "nr": 2,
+        "points": 10
+      },
+      {
+        "team": "Pretoria Capitals",
+        "played": 10,
+        "won": 2,
+        "lost": 6,
+        "nr": 2,
+        "points": 6
+      },
+      {
+        "team": "Durban Super Giants",
+        "played": 10,
+        "won": 1,
+        "lost": 6,
+        "nr": 3,
+        "points": 5
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  },
+  "mlc": {
+    "seriesName": "Major League Cricket 2025",
+    "startDate": "2025-06-13",
+    "endDate": "Jul 13",
+    "standings": [
+      {
+        "team": "Washington Freedom",
+        "played": 10,
+        "won": 8,
+        "lost": 2,
+        "nr": 0,
+        "points": 16
+      },
+      {
+        "team": "Texas Super Kings",
+        "played": 11,
+        "won": 7,
+        "lost": 4,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "San Francisco Unicorns",
+        "played": 10,
+        "won": 7,
+        "lost": 3,
+        "nr": 0,
+        "points": 14
+      },
+      {
+        "team": "MI New York",
+        "played": 11,
+        "won": 4,
+        "lost": 7,
+        "nr": 0,
+        "points": 8
+      },
+      {
+        "team": "Seattle Orcas",
+        "played": 10,
+        "won": 3,
+        "lost": 7,
+        "nr": 0,
+        "points": 6
+      },
+      {
+        "team": "Los Angeles Knight Riders",
+        "played": 10,
+        "won": 2,
+        "lost": 8,
+        "nr": 0,
+        "points": 4
+      }
+    ],
+    "topBatters": [],
+    "topBowlers": []
+  }
 }
