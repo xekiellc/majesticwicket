@@ -1,11 +1,42 @@
 {
-  "lastUpdated": "2026-11-11T09:03:30.663Z",
+  "lastUpdated": "2026-11-11T15:40:02.710Z",
   "recentMatches": [
+    {
+      "id": "e2f98e6f-8267-433a-a915-f4d4b3b73ad0",
+      "name": "Namibia Women vs United States of America Women, 10th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "United States of America Women opt to bowl",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-11",
+      "dateTimeGMT": "2026-11-11T11:00:00",
+      "teams": [
+        "Namibia Women",
+        "United States of America Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Namibia Women",
+          "shortname": "NAMW",
+          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+        },
+        {
+          "name": "United States of America Women",
+          "shortname": "USW",
+          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "41a2b361-72c1-43a8-919a-eb7f68e50ef0",
       "name": "Uganda Women vs Rwanda Women, 9th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Uganda Women opt to field",
+      "status": "Rwanda Women won by 18 runs   -  Match reduced to 18 overs due to rain",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-11",
       "dateTimeGMT": "2026-11-11T06:30:00",
@@ -25,12 +56,26 @@
           "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
         }
       ],
+      "score": [
+        {
+          "r": 92,
+          "w": 5,
+          "o": 18,
+          "inning": "Rwanda Women Inning 1"
+        },
+        {
+          "r": 74,
+          "w": 6,
+          "o": 18,
+          "inning": "Uganda Women Inning 1"
+        }
+      ],
       "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "37c4b752-cba7-474c-a413-45679a2f8927",
@@ -299,6 +344,78 @@
       "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
+    },
+    {
+      "id": "a370e183-65df-43dd-83d0-ff872ca35eab",
+      "name": "Arabian Aces vs Yas Lions, 12th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Match starts at Nov 11, 16:00 GMT",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-11",
+      "dateTimeGMT": "2026-11-11T16:00:00",
+      "teams": [
+        "Arabian Aces",
+        "Yas Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arabian Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yas Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "3482d510-ad84-4730-a5c9-85431352162f",
+      "name": "Royal Desert Champions vs UAE Bulls, 11th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Royal Desert Champions need 1 run in 7 balls",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-11",
+      "dateTimeGMT": "2026-11-11T13:45:00",
+      "teams": [
+        "Royal Desert Champions",
+        "UAE Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Royal Desert Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Uae Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 123,
+          "w": 7,
+          "o": 10,
+          "inning": "UAE Bulls Inning 1"
+        },
+        {
+          "r": 123,
+          "w": 4,
+          "o": 8.5,
+          "inning": "Royal Desert Champions Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
     },
     {
       "id": "4ef7125e-16e3-4125-8138-5d354cb1637d",
@@ -945,140 +1062,6 @@
           "w": 3,
           "o": 34.4,
           "inning": "United Arab Emirates U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076",
-      "name": "India U19 vs Pakistan U19, 8th Match, Group A, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Pakistan U19 won by 3 wkts",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T05:00:00",
-      "teams": [
-        "India U19",
-        "Pakistan U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Pakistan U19",
-          "shortname": "PK19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 208,
-          "w": 10,
-          "o": 46.3,
-          "inning": "india u19 Inning 1"
-        },
-        {
-          "r": 209,
-          "w": 7,
-          "o": 48.1,
-          "inning": "India U19,Pakistan U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "298fc307-6208-44b7-b2ed-b8a73d32627b",
-      "name": "Sri Lanka U19 vs Bangladesh U19, 6th Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Bangladesh U19 won by 45 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-11-07",
-      "dateTimeGMT": "2026-11-07T05:00:00",
-      "teams": [
-        "Sri Lanka U19",
-        "Bangladesh U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh U19",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 245,
-          "w": 10,
-          "o": 49.4,
-          "inning": "Bangladesh U19 Inning 1"
-        },
-        {
-          "r": 200,
-          "w": 10,
-          "o": 46.1,
-          "inning": "Sri Lanka U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "7b6de40a-6d62-4b83-aaaf-3b42e4a81f8a",
-      "name": "Afghanistan U19 vs Malaysia U19, 5th Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Afghanistan U19 won by 10 wkts",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-07",
-      "dateTimeGMT": "2026-11-07T05:00:00",
-      "teams": [
-        "Afghanistan U19",
-        "Malaysia U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan U19",
-          "shortname": "AF19",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Malaysia U19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 42,
-          "w": 10,
-          "o": 22.3,
-          "inning": "Malaysia U19 Inning 1"
-        },
-        {
-          "r": 47,
-          "w": 0,
-          "o": 3,
-          "inning": "Afghanistan U19 Inning 1"
         }
       ],
       "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
