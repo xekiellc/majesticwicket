@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-11-11T00:28:24.974Z",
+  "lastUpdated": "2026-11-11T09:03:30.663Z",
   "recentMatches": [
+    {
+      "id": "41a2b361-72c1-43a8-919a-eb7f68e50ef0",
+      "name": "Uganda Women vs Rwanda Women, 9th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Uganda Women opt to field",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-11",
+      "dateTimeGMT": "2026-11-11T06:30:00",
+      "teams": [
+        "Uganda Women",
+        "Rwanda Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Rwanda Women",
+          "shortname": "RW",
+          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
+        },
+        {
+          "name": "Uganda Women",
+          "shortname": "UGAW",
+          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+        }
+      ],
+      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
     {
       "id": "37c4b752-cba7-474c-a413-45679a2f8927",
       "name": "Namibia Women vs Uganda Women, 8th Match, Womens Victoria T20I Series, 2026",
@@ -1054,51 +1085,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e6bb497f-1c63-4cab-911c-e03091e96029",
-      "name": "Hobart Hurricanes Women vs Adelaide Strikers Women, 17th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Adelaide Strikers Women won by 4 wkts",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-10",
-      "dateTimeGMT": "2026-11-10T08:10:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Adelaide Strikers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Adelaide Strikers Women",
-          "shortname": "AS-W",
-          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
-        },
-        {
-          "name": "Hobart Hurricanes Women",
-          "shortname": "HB-W",
-          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 138,
-          "w": 5,
-          "o": 20,
-          "inning": "Hobart Hurricanes Women Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 6,
-          "o": 20,
-          "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
