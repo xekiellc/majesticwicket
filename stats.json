@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-12T09:32:28.894Z",
+  "lastUpdated": "2026-11-12T16:23:27.529Z",
   "recentMatches": [
     {
       "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
       "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Bangladesh Women opt to bat",
+      "status": "Pakistan Women won by 8 wkts",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T09:15:00",
@@ -27,24 +27,30 @@
       ],
       "score": [
         {
-          "r": 15,
-          "w": 0,
-          "o": 3,
+          "r": 108,
+          "w": 9,
+          "o": 20,
           "inning": "bangladesh women Inning 1"
+        },
+        {
+          "r": 112,
+          "w": 2,
+          "o": 15.5,
+          "inning": "Pakistan Women,Bangladesh Women Inning 1"
         }
       ],
       "series_id": "267a5b0d-370a-4955-8016-17b8790cc33f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d374d074-eb3b-428e-abab-9a6e94b83e5b",
       "name": "Netherlands Women vs Thailand Women, 4th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Thailand Women opt to bat",
+      "status": "Netherlands Women won by 5 wkts",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T09:15:00",
@@ -66,18 +72,24 @@
       ],
       "score": [
         {
-          "r": 28,
-          "w": 1,
-          "o": 4,
+          "r": 136,
+          "w": 2,
+          "o": 20,
           "inning": "thailand women Inning 1"
+        },
+        {
+          "r": 137,
+          "w": 5,
+          "o": 19.3,
+          "inning": "Netherlands Women,Thailand Women Inning 1"
         }
       ],
       "series_id": "267a5b0d-370a-4955-8016-17b8790cc33f",
-      "fantasyEnabled": false,
+      "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "981e8508-63fe-4ac4-b92c-655fef836ae5",
@@ -918,7 +930,7 @@
       "id": "d1b15e05-287b-4a51-a115-2e6ea555f783",
       "name": "Afghanistan U19 vs India U19, Semi Final 2 (B1 v A2), ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "India U19 need 160 runs",
+      "status": "India U19 won by 8 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T05:00:00",
@@ -946,9 +958,9 @@
           "inning": "afghanistan u19 Inning 1"
         },
         {
-          "r": 68,
-          "w": 0,
-          "o": 11.1,
+          "r": 230,
+          "w": 2,
+          "o": 36.5,
           "inning": "Afghanistan U19,India U19 Inning 1"
         }
       ],
@@ -957,13 +969,13 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "b8a5db46-e867-432c-b24f-46539d720c3c",
       "name": "Pakistan U19 vs Bangladesh U19, Semi Final 1 (A1 v B2), ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "Pakistan U19 need 20 runs",
+      "status": "Pakistan U19 won by 9 wkts",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T05:00:00",
@@ -991,9 +1003,9 @@
           "inning": "bangladesh u19 Inning 1"
         },
         {
-          "r": 119,
-          "w": 0,
-          "o": 19.1,
+          "r": 141,
+          "w": 1,
+          "o": 21.5,
           "inning": "Pakistan U19,Bangladesh U19 Inning 1"
         }
       ],
@@ -1002,7 +1014,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "03d3ac80-f74f-4e02-9738-61edd8672fbb",
