@@ -1,6 +1,174 @@
 {
-  "lastUpdated": "2026-11-12T01:50:41.225Z",
+  "lastUpdated": "2026-11-12T09:32:28.894Z",
   "recentMatches": [
+    {
+      "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
+      "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Bangladesh Women opt to bat",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T09:15:00",
+      "teams": [
+        "Pakistan Women",
+        "Bangladesh Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 15,
+          "w": 0,
+          "o": 3,
+          "inning": "bangladesh women Inning 1"
+        }
+      ],
+      "series_id": "267a5b0d-370a-4955-8016-17b8790cc33f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "d374d074-eb3b-428e-abab-9a6e94b83e5b",
+      "name": "Netherlands Women vs Thailand Women, 4th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Thailand Women opt to bat",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T09:15:00",
+      "teams": [
+        "Netherlands Women",
+        "Thailand Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Netherlands Women",
+          "shortname": "NET-W",
+          "img": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=48"
+        },
+        {
+          "name": "Thailand Women",
+          "shortname": "THW",
+          "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 28,
+          "w": 1,
+          "o": 4,
+          "inning": "thailand women Inning 1"
+        }
+      ],
+      "series_id": "267a5b0d-370a-4955-8016-17b8790cc33f",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "981e8508-63fe-4ac4-b92c-655fef836ae5",
+      "name": "Sri Lanka Women vs Ireland Women, 1st Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 10 wkts",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T05:30:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Ireland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Ireland Women",
+          "shortname": "IRW",
+          "img": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 105,
+          "w": 9,
+          "o": 20,
+          "inning": "Ireland Women Inning 1"
+        },
+        {
+          "r": 110,
+          "w": 0,
+          "o": 13,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "267a5b0d-370a-4955-8016-17b8790cc33f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "487a116a-24df-41d2-80b1-692b855df4dc",
+      "name": "Papua New Guinea Women vs Scotland Women, 2nd Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Scotland Women won by 7 wkts",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T05:30:00",
+      "teams": [
+        "Papua New Guinea Women",
+        "Scotland Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea Women",
+          "shortname": "PN -W",
+          "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+        },
+        {
+          "name": "Scotland Women",
+          "shortname": "SCOW",
+          "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 93,
+          "w": 10,
+          "o": 20,
+          "inning": "Papua New Guinea Women Inning 1"
+        },
+        {
+          "r": 95,
+          "w": 3,
+          "o": 13.1,
+          "inning": "Scotland Women Inning 1"
+        }
+      ],
+      "series_id": "267a5b0d-370a-4955-8016-17b8790cc33f",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
     {
       "id": "e2f98e6f-8267-433a-a915-f4d4b3b73ad0",
       "name": "Namibia Women vs United States of America Women, 10th Match, Womens Victoria T20I Series, 2026",
@@ -747,6 +915,96 @@
       "matchEnded": true
     },
     {
+      "id": "d1b15e05-287b-4a51-a115-2e6ea555f783",
+      "name": "Afghanistan U19 vs India U19, Semi Final 2 (B1 v A2), ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "India U19 need 160 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T05:00:00",
+      "teams": [
+        "Afghanistan U19",
+        "India U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan U19",
+          "shortname": "AF19",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 227,
+          "w": 8,
+          "o": 50,
+          "inning": "afghanistan u19 Inning 1"
+        },
+        {
+          "r": 68,
+          "w": 0,
+          "o": 11.1,
+          "inning": "Afghanistan U19,India U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "b8a5db46-e867-432c-b24f-46539d720c3c",
+      "name": "Pakistan U19 vs Bangladesh U19, Semi Final 1 (A1 v B2), ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Pakistan U19 need 20 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T05:00:00",
+      "teams": [
+        "Pakistan U19",
+        "Bangladesh U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh U19",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Pakistan U19",
+          "shortname": "PK19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 138,
+          "w": 10,
+          "o": 31.4,
+          "inning": "bangladesh u19 Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 0,
+          "o": 19.1,
+          "inning": "Pakistan U19,Bangladesh U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "03d3ac80-f74f-4e02-9738-61edd8672fbb",
       "name": "Pakistan U19 vs Nepal U19, 12th Match, Group A, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
@@ -833,275 +1091,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "db346523-43d0-4221-b092-eb6a64f7915b",
-      "name": "Sri Lanka U19 vs Afghanistan U19, 10th Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Afghanistan U19 won by 106 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-11-09",
-      "dateTimeGMT": "2026-11-09T05:00:00",
-      "teams": [
-        "Sri Lanka U19",
-        "Afghanistan U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Afghanistan U19",
-          "shortname": "AF19",
-          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
-        },
-        {
-          "name": "Sri Lanka U19",
-          "shortname": "SL19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 275,
-          "w": 10,
-          "o": 49.5,
-          "inning": "Afghanistan U19 Inning 1"
-        },
-        {
-          "r": 169,
-          "w": 10,
-          "o": 34.1,
-          "inning": "Sri Lanka U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8b442300-13c3-4567-a9b8-43b746468bb5",
-      "name": "Bangladesh U19 vs Malaysia U19, 9th Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Bangladesh U19 won by 205 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-09",
-      "dateTimeGMT": "2026-11-09T05:00:00",
-      "teams": [
-        "Bangladesh U19",
-        "Malaysia U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh U19",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Malaysia U19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 303,
-          "w": 8,
-          "o": 50,
-          "inning": "bangladesh u19 Inning 1"
-        },
-        {
-          "r": 98,
-          "w": 10,
-          "o": 30.5,
-          "inning": "Bangladesh U19,Malaysia U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "322865ca-688c-40d4-a7f0-275bd612abf2",
-      "name": "United Arab Emirates U19 vs Nepal U19, 7th Match, Group A, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "United Arab Emirates U19 won by 7 wkts",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T05:00:00",
-      "teams": [
-        "United Arab Emirates U19",
-        "Nepal U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal U19",
-          "shortname": "NE19",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates U19",
-          "shortname": "AE19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 152,
-          "w": 10,
-          "o": 41,
-          "inning": "Nepal U19 Inning 1"
-        },
-        {
-          "r": 158,
-          "w": 3,
-          "o": 34.4,
-          "inning": "United Arab Emirates U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076",
-      "name": "India U19 vs Pakistan U19, 8th Match, Group A, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Pakistan U19 won by 3 wkts",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T05:00:00",
-      "teams": [
-        "India U19",
-        "Pakistan U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "Pakistan U19",
-          "shortname": "PK19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 208,
-          "w": 10,
-          "o": 46.3,
-          "inning": "india u19 Inning 1"
-        },
-        {
-          "r": 209,
-          "w": 7,
-          "o": 48.1,
-          "inning": "India U19,Pakistan U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "555337b0-04e8-4e3f-870a-8a8a0896b101",
-      "name": "Perth Scorchers Women vs Sydney Thunder Women, 18th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Perth Scorchers Women won by 4 wkts",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-11-11",
-      "dateTimeGMT": "2026-11-11T08:10:00",
-      "teams": [
-        "Perth Scorchers Women",
-        "Sydney Thunder Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Perth Scorchers Women",
-          "shortname": "PS-W",
-          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
-        },
-        {
-          "name": "Sydney Thunder Women",
-          "shortname": "ST-W",
-          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 5,
-          "o": 20,
-          "inning": "sydney thunder women Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 6,
-          "o": 18.3,
-          "inning": "Perth Scorchers Women,Sydney Thunder Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e6bb497f-1c63-4cab-911c-e03091e96029",
-      "name": "Hobart Hurricanes Women vs Adelaide Strikers Women, 17th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Adelaide Strikers Women won by 4 wkts",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-10",
-      "dateTimeGMT": "2026-11-10T08:10:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Adelaide Strikers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Adelaide Strikers Women",
-          "shortname": "AS-W",
-          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
-        },
-        {
-          "name": "Hobart Hurricanes Women",
-          "shortname": "HB-W",
-          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 138,
-          "w": 5,
-          "o": 20,
-          "inning": "Hobart Hurricanes Women Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 6,
-          "o": 20,
-          "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
