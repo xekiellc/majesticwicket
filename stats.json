@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T16:23:27.529Z",
+  "lastUpdated": "2026-11-12T21:22:38.675Z",
   "recentMatches": [
     {
       "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
@@ -362,96 +362,6 @@
       "matchEnded": true
     },
     {
-      "id": "958aa945-930f-4e17-af8a-c8966226ec1e",
-      "name": "Uganda Women vs United States of America Women, 6th Match, Womens Victoria T20I Series, 2026",
-      "matchType": "t20",
-      "status": "Uganda Women won by 7 wkts",
-      "venue": "Entebbe Cricket Oval, Entebbe",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T11:00:00",
-      "teams": [
-        "Uganda Women",
-        "United States of America Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Uganda Women",
-          "shortname": "UGAW",
-          "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
-        },
-        {
-          "name": "United States of America Women",
-          "shortname": "USW",
-          "img": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 93,
-          "w": 7,
-          "o": 20,
-          "inning": "united states of america women Inning 1"
-        },
-        {
-          "r": 94,
-          "w": 3,
-          "o": 15.2,
-          "inning": "Uganda Women,United States of America Women Inning 1"
-        }
-      ],
-      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "df484f6c-3c1d-4128-9f3e-4520ad03ba3c",
-      "name": "Namibia Women vs Rwanda Women, 5th Match, Womens Victoria T20I Series, 2026",
-      "matchType": "t20",
-      "status": "Namibia Women won by 39 runs",
-      "venue": "Entebbe Cricket Oval, Entebbe",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T06:30:00",
-      "teams": [
-        "Namibia Women",
-        "Rwanda Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Namibia Women",
-          "shortname": "NAMW",
-          "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
-        },
-        {
-          "name": "Rwanda Women",
-          "shortname": "RW",
-          "img": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 98,
-          "w": 8,
-          "o": 20,
-          "inning": "namibia women Inning 1"
-        },
-        {
-          "r": 59,
-          "w": 10,
-          "o": 17.5,
-          "inning": "Namibia Women,Rwanda Women Inning 1"
-        }
-      ],
-      "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "191f8d98-f583-47aa-bd09-38f7f52a36c7",
       "name": "West Indies A vs England Lions, 3rd Unofficial ODI, England Lions tour of West Indies, 2026",
       "status": "England Lions won by 6 wkts",
@@ -798,135 +708,6 @@
       "matchEnded": true
     },
     {
-      "id": "8fab1286-a770-4021-af36-e469c49f9f1b",
-      "name": "Arabian Aces vs Royal Desert Champions, 6th Match, Abu Dhabi T10 League 2026",
-      "matchType": "t10",
-      "status": "Arabian Aces won by 9 wkts",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T16:00:00",
-      "teams": [
-        "Arabian Aces",
-        "Royal Desert Champions"
-      ],
-      "teamInfo": [
-        {
-          "name": "Arabian Aces",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Royal Desert Champions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 112,
-          "w": 6,
-          "o": 10,
-          "inning": "Royal Desert Champions Inning 1"
-        },
-        {
-          "r": 114,
-          "w": 1,
-          "o": 9,
-          "inning": "Arabian Aces Inning 1"
-        }
-      ],
-      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "34fcd8aa-3b5e-4dd8-b520-1595e878ed0b",
-      "name": "United Tigers vs UAE Bulls, 5th Match, Abu Dhabi T10 League 2026",
-      "matchType": "t10",
-      "status": "United Tigers won by 25 runs",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T13:45:00",
-      "teams": [
-        "United Tigers",
-        "UAE Bulls"
-      ],
-      "teamInfo": [
-        {
-          "name": "Uae Bulls",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "United Tigers",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 126,
-          "w": 6,
-          "o": 10,
-          "inning": "United Tigers Inning 1"
-        },
-        {
-          "r": 101,
-          "w": 4,
-          "o": 10,
-          "inning": "UAE Bulls Inning 1"
-        }
-      ],
-      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "a172aa1d-a718-473e-8df2-5be778936b9d",
-      "name": "Yas Lions vs Emirates Eagles, 4th Match, Abu Dhabi T10 League 2026",
-      "matchType": "t10",
-      "status": "Yas Lions won by 6 wkts",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "date": "2026-11-08",
-      "dateTimeGMT": "2026-11-08T11:30:00",
-      "teams": [
-        "Yas Lions",
-        "Emirates Eagles"
-      ],
-      "teamInfo": [
-        {
-          "name": "Emirates Eagles",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        },
-        {
-          "name": "Yas Lions",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 115,
-          "w": 4,
-          "o": 10,
-          "inning": "Emirates Eagles Inning 1"
-        },
-        {
-          "r": 117,
-          "w": 4,
-          "o": 8.4,
-          "inning": "Yas Lions Inning 1"
-        }
-      ],
-      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
       "id": "d1b15e05-287b-4a51-a115-2e6ea555f783",
       "name": "Afghanistan U19 vs India U19, Semi Final 2 (B1 v A2), ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
@@ -1103,6 +884,230 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "db346523-43d0-4221-b092-eb6a64f7915b",
+      "name": "Sri Lanka U19 vs Afghanistan U19, 10th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Afghanistan U19 won by 106 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T05:00:00",
+      "teams": [
+        "Sri Lanka U19",
+        "Afghanistan U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan U19",
+          "shortname": "AF19",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka U19",
+          "shortname": "SL19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 275,
+          "w": 10,
+          "o": 49.5,
+          "inning": "Afghanistan U19 Inning 1"
+        },
+        {
+          "r": 169,
+          "w": 10,
+          "o": 34.1,
+          "inning": "Sri Lanka U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "8b442300-13c3-4567-a9b8-43b746468bb5",
+      "name": "Bangladesh U19 vs Malaysia U19, 9th Match, Group B, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Bangladesh U19 won by 205 runs",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-09",
+      "dateTimeGMT": "2026-11-09T05:00:00",
+      "teams": [
+        "Bangladesh U19",
+        "Malaysia U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh U19",
+          "shortname": "BAN",
+          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+        },
+        {
+          "name": "Malaysia U19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 303,
+          "w": 8,
+          "o": 50,
+          "inning": "bangladesh u19 Inning 1"
+        },
+        {
+          "r": 98,
+          "w": 10,
+          "o": 30.5,
+          "inning": "Bangladesh U19,Malaysia U19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "2643e1b7-5921-4c4f-8805-32a3defbae85",
+      "name": "Melbourne Renegades Women vs Sydney Sixers Women, 20th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Sydney Sixers Women won by 11 runs",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T08:10:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 140,
+          "w": 6,
+          "o": 20,
+          "inning": "sydney sixers women Inning 1"
+        },
+        {
+          "r": 129,
+          "w": 10,
+          "o": 20,
+          "inning": "Melbourne Renegades Women,Sydney Sixers Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0e094a86-1a1e-4a3e-9f41-4cf61c748b7e",
+      "name": "Melbourne Stars Women vs Brisbane Heat Women, 19th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 8 wkts",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T04:40:00",
+      "teams": [
+        "Melbourne Stars Women",
+        "Brisbane Heat Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        },
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 5,
+          "o": 20,
+          "inning": "melbourne stars women Inning 1"
+        },
+        {
+          "r": 166,
+          "w": 2,
+          "o": 18.5,
+          "inning": "Melbourne Stars Women,Brisbane Heat Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "555337b0-04e8-4e3f-870a-8a8a0896b101",
+      "name": "Perth Scorchers Women vs Sydney Thunder Women, 18th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 4 wkts",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-11-11",
+      "dateTimeGMT": "2026-11-11T08:10:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Sydney Thunder Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 159,
+          "w": 5,
+          "o": 20,
+          "inning": "sydney thunder women Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 6,
+          "o": 18.3,
+          "inning": "Perth Scorchers Women,Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
