@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T00:57:04.846Z",
+  "lastUpdated": "2026-11-13T09:18:22.958Z",
   "recentMatches": [
     {
       "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
@@ -355,6 +355,50 @@
         }
       ],
       "series_id": "6e1cdeda-f551-467c-a8d6-c66f14bf170b",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "558f2771-a71f-4328-b84e-6ecf5b0eb18d",
+      "name": "Australia vs England, 1st ODI, England tour of Australia, 2026",
+      "status": "Australia won by 7 wkts",
+      "venue": "Perth Stadium, Perth",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T03:30:00",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 131,
+          "w": 10,
+          "o": 33.4,
+          "inning": "England Inning 1"
+        },
+        {
+          "r": 132,
+          "w": 3,
+          "o": 23.3,
+          "inning": "Australia Inning 1"
+        }
+      ],
+      "series_id": "9c385594-20fe-4d3d-b2bb-df4de8e043bc",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
@@ -1057,51 +1101,6 @@
           "w": 2,
           "o": 18.5,
           "inning": "Melbourne Stars Women,Brisbane Heat Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "555337b0-04e8-4e3f-870a-8a8a0896b101",
-      "name": "Perth Scorchers Women vs Sydney Thunder Women, 18th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Perth Scorchers Women won by 4 wkts",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-11-11",
-      "dateTimeGMT": "2026-11-11T08:10:00",
-      "teams": [
-        "Perth Scorchers Women",
-        "Sydney Thunder Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Perth Scorchers Women",
-          "shortname": "PS-W",
-          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
-        },
-        {
-          "name": "Sydney Thunder Women",
-          "shortname": "ST-W",
-          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 5,
-          "o": 20,
-          "inning": "sydney thunder women Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 6,
-          "o": 18.3,
-          "inning": "Perth Scorchers Women,Sydney Thunder Women Inning 1"
         }
       ],
       "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
