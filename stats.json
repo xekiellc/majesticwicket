@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T09:18:22.958Z",
+  "lastUpdated": "2026-11-13T15:44:32.030Z",
   "recentMatches": [
     {
       "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
@@ -494,6 +494,121 @@
       "matchEnded": true
     },
     {
+      "id": "43157dfe-858c-46c0-acae-428fde8f0089",
+      "name": "Arabian Aces vs UAE Bulls, 15th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "UAE Bulls opt to bowl",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T16:00:00",
+      "teams": [
+        "Arabian Aces",
+        "UAE Bulls"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arabian Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Uae Bulls",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "9d26916e-9789-4f8d-8dd3-4394c41e195b",
+      "name": "Royal Desert Champions vs Yas Lions, 14th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Royal Desert Champions won by 39 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T13:45:00",
+      "teams": [
+        "Royal Desert Champions",
+        "Yas Lions"
+      ],
+      "teamInfo": [
+        {
+          "name": "Royal Desert Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Yas Lions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 4,
+          "o": 10,
+          "inning": "Royal Desert Champions Inning 1"
+        },
+        {
+          "r": 97,
+          "w": 6,
+          "o": 10,
+          "inning": "Yas Lions Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "91763eea-e1a4-4fa2-bbb1-4122bbbcc9eb",
+      "name": "United Tigers vs Emirates Eagles, 13th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "United Tigers won by 24 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T11:30:00",
+      "teams": [
+        "United Tigers",
+        "Emirates Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 5,
+          "o": 10,
+          "inning": "United Tigers Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 2,
+          "o": 10,
+          "inning": "Emirates Eagles Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "a370e183-65df-43dd-83d0-ff872ca35eab",
       "name": "Arabian Aces vs Yas Lions, 12th Match, Abu Dhabi T10 League 2026",
       "matchType": "t10",
@@ -973,140 +1088,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "8b442300-13c3-4567-a9b8-43b746468bb5",
-      "name": "Bangladesh U19 vs Malaysia U19, 9th Match, Group B, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Bangladesh U19 won by 205 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-09",
-      "dateTimeGMT": "2026-11-09T05:00:00",
-      "teams": [
-        "Bangladesh U19",
-        "Malaysia U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Bangladesh U19",
-          "shortname": "BAN",
-          "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
-        },
-        {
-          "name": "Malaysia U19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 303,
-          "w": 8,
-          "o": 50,
-          "inning": "bangladesh u19 Inning 1"
-        },
-        {
-          "r": 98,
-          "w": 10,
-          "o": 30.5,
-          "inning": "Bangladesh U19,Malaysia U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2643e1b7-5921-4c4f-8805-32a3defbae85",
-      "name": "Melbourne Renegades Women vs Sydney Sixers Women, 20th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 11 runs",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-11-12",
-      "dateTimeGMT": "2026-11-12T08:10:00",
-      "teams": [
-        "Melbourne Renegades Women",
-        "Sydney Sixers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Melbourne Renegades Women",
-          "shortname": "MR-W",
-          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
-        },
-        {
-          "name": "Sydney Sixers Women",
-          "shortname": "SS-W",
-          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 6,
-          "o": 20,
-          "inning": "sydney sixers women Inning 1"
-        },
-        {
-          "r": 129,
-          "w": 10,
-          "o": 20,
-          "inning": "Melbourne Renegades Women,Sydney Sixers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0e094a86-1a1e-4a3e-9f41-4cf61c748b7e",
-      "name": "Melbourne Stars Women vs Brisbane Heat Women, 19th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Brisbane Heat Women won by 8 wkts",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-11-12",
-      "dateTimeGMT": "2026-11-12T04:40:00",
-      "teams": [
-        "Melbourne Stars Women",
-        "Brisbane Heat Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brisbane Heat Women",
-          "shortname": "BH-W",
-          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
-        },
-        {
-          "name": "Melbourne Stars Women",
-          "shortname": "MS-W",
-          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 5,
-          "o": 20,
-          "inning": "melbourne stars women Inning 1"
-        },
-        {
-          "r": 166,
-          "w": 2,
-          "o": 18.5,
-          "inning": "Melbourne Stars Women,Brisbane Heat Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
