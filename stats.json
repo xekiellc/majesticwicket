@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T08:47:34.358Z",
+  "lastUpdated": "2026-11-14T14:34:51.871Z",
   "recentMatches": [
     {
       "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
@@ -409,7 +409,7 @@
       "id": "4ca29712-186c-4d8b-9a33-3f9ea6dc2da2",
       "name": "Services vs Sikkim, Plate, Syed Mushtaq Ali Trophy Plate 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "Services won by 6 wkts",
       "venue": "Nagaland Cricket Stadium, Sovima, Dimapur",
       "date": "2026-11-14",
       "dateTimeGMT": "2026-11-14T11:00:00",
@@ -435,14 +435,20 @@
           "w": 7,
           "o": 20,
           "inning": "services Inning 1"
+        },
+        {
+          "r": 168,
+          "w": 4,
+          "o": 18.4,
+          "inning": "Services,Sikkim Inning 1"
         }
       ],
       "series_id": "c4807728-f69b-4067-813a-18c656328b2a",
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": false,
-      "matchEnded": false
+      "matchStarted": true,
+      "matchEnded": true
     },
     {
       "id": "d8d10d5c-1f2d-4765-a3a6-bc657cc588f4",
@@ -575,6 +581,86 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "4408c117-75fa-4266-8886-faa366f67afc",
+      "name": "Arabian Aces vs Emirates Eagles, 17th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "Emirates Eagles opt to bowl",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T13:45:00",
+      "teams": [
+        "Arabian Aces",
+        "Emirates Eagles"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arabian Aces",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Emirates Eagles",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 124,
+          "w": 4,
+          "o": 9.4,
+          "inning": "Arabian Aces Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "6c7a29f6-46e6-4823-bff8-d2f4a8834a50",
+      "name": "Royal Desert Champions vs United Tigers, 16th Match, Abu Dhabi T10 League 2026",
+      "matchType": "t10",
+      "status": "United Tigers won by 19 runs",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T11:30:00",
+      "teams": [
+        "Royal Desert Champions",
+        "United Tigers"
+      ],
+      "teamInfo": [
+        {
+          "name": "Royal Desert Champions",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "United Tigers",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 2,
+          "o": 10,
+          "inning": "United Tigers Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 6,
+          "o": 10,
+          "inning": "Royal Desert Champions Inning 1"
+        }
+      ],
+      "series_id": "83667cc0-52ec-4a0f-83b4-59afc75c804c",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -883,7 +969,7 @@
       "id": "988a1f39-fe03-4f32-817b-5322885c90b5",
       "name": "Pakistan U19 vs India U19, Final, ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
-      "status": "Innings Break",
+      "status": "India U19 won by 1 wkt",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "date": "2026-11-14",
       "dateTimeGMT": "2026-11-14T05:00:00",
@@ -909,6 +995,12 @@
           "w": 9,
           "o": 50,
           "inning": "pakistan u19 Inning 1"
+        },
+        {
+          "r": 339,
+          "w": 9,
+          "o": 50,
+          "inning": "Pakistan U19,India U19 Inning 1"
         }
       ],
       "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
@@ -916,7 +1008,7 @@
       "bbbEnabled": false,
       "hasSquad": false,
       "matchStarted": true,
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "id": "d1b15e05-287b-4a51-a115-2e6ea555f783",
@@ -999,96 +1091,6 @@
           "w": 1,
           "o": 21.5,
           "inning": "Pakistan U19,Bangladesh U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "03d3ac80-f74f-4e02-9738-61edd8672fbb",
-      "name": "Pakistan U19 vs Nepal U19, 12th Match, Group A, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "Pakistan U19 won by 101 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "date": "2026-11-10",
-      "dateTimeGMT": "2026-11-10T05:00:00",
-      "teams": [
-        "Pakistan U19",
-        "Nepal U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "Nepal U19",
-          "shortname": "NE19",
-          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
-        },
-        {
-          "name": "Pakistan U19",
-          "shortname": "PK19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 275,
-          "w": 7,
-          "o": 50,
-          "inning": "Pakistan U19 Inning 1"
-        },
-        {
-          "r": 174,
-          "w": 10,
-          "o": 43.4,
-          "inning": "Nepal U19 Inning 1"
-        }
-      ],
-      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "3fb2e0da-8759-48ec-8913-672394777f2f",
-      "name": "India U19 vs United Arab Emirates U19, 11th Match, Group A, ACC Mens U19 Asia Cup 2026",
-      "matchType": "odi",
-      "status": "India U19 won by 70 runs",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "date": "2026-11-10",
-      "dateTimeGMT": "2026-11-10T05:00:00",
-      "teams": [
-        "India U19",
-        "United Arab Emirates U19"
-      ],
-      "teamInfo": [
-        {
-          "name": "India U19",
-          "shortname": "IN19",
-          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
-        },
-        {
-          "name": "United Arab Emirates U19",
-          "shortname": "AE19",
-          "img": "https://h.cricapi.com/img/icon512.png"
-        }
-      ],
-      "score": [
-        {
-          "r": 309,
-          "w": 7,
-          "o": 50,
-          "inning": "India U19 Inning 1"
-        },
-        {
-          "r": 239,
-          "w": 10,
-          "o": 50,
-          "inning": "United Arab Emirates U19 Inning 1"
         }
       ],
       "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
