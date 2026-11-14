@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T00:46:53.521Z",
+  "lastUpdated": "2026-11-14T08:47:34.358Z",
   "recentMatches": [
     {
       "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
@@ -406,6 +406,135 @@
       "matchEnded": true
     },
     {
+      "id": "4ca29712-186c-4d8b-9a33-3f9ea6dc2da2",
+      "name": "Services vs Sikkim, Plate, Syed Mushtaq Ali Trophy Plate 2026",
+      "matchType": "t20",
+      "status": "Innings Break",
+      "venue": "Nagaland Cricket Stadium, Sovima, Dimapur",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T11:00:00",
+      "teams": [
+        "Services",
+        "Sikkim"
+      ],
+      "teamInfo": [
+        {
+          "name": "Services",
+          "shortname": "SER",
+          "img": "https://g.cricapi.com/iapi/80-637897803943638638.png?w=48"
+        },
+        {
+          "name": "Sikkim",
+          "shortname": "SKM",
+          "img": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 7,
+          "o": 20,
+          "inning": "services Inning 1"
+        }
+      ],
+      "series_id": "c4807728-f69b-4067-813a-18c656328b2a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "d8d10d5c-1f2d-4765-a3a6-bc657cc588f4",
+      "name": "Arunachal Pradesh vs Manipur, Plate, Syed Mushtaq Ali Trophy Plate 2026",
+      "matchType": "t20",
+      "status": "Manipur won by 61 runs",
+      "venue": "Sovima Cricket Ground, Dimapur",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T05:30:00",
+      "teams": [
+        "Arunachal Pradesh",
+        "Manipur"
+      ],
+      "teamInfo": [
+        {
+          "name": "Arunachal Pradesh",
+          "shortname": "ARNP",
+          "img": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=48"
+        },
+        {
+          "name": "Manipur",
+          "shortname": "MNP",
+          "img": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 167,
+          "w": 9,
+          "o": 20,
+          "inning": "manipur Inning 1"
+        },
+        {
+          "r": 106,
+          "w": 9,
+          "o": 20,
+          "inning": "Arunachal Pradesh,Manipur Inning 1"
+        }
+      ],
+      "series_id": "c4807728-f69b-4067-813a-18c656328b2a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "c6f00696-f91a-4e22-a2da-e98bbd87adbc",
+      "name": "Nagaland vs Meghalaya, Plate, Syed Mushtaq Ali Trophy Plate 2026",
+      "matchType": "t20",
+      "status": "Meghalaya won by 18 runs",
+      "venue": "Nagaland Cricket Stadium, Sovima, Dimapur",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T05:30:00",
+      "teams": [
+        "Nagaland",
+        "Meghalaya"
+      ],
+      "teamInfo": [
+        {
+          "name": "Meghalaya",
+          "shortname": "MGLY",
+          "img": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=48"
+        },
+        {
+          "name": "Nagaland",
+          "shortname": "NGL",
+          "img": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 165,
+          "w": 6,
+          "o": 20,
+          "inning": "Meghalaya Inning 1"
+        },
+        {
+          "r": 147,
+          "w": 4,
+          "o": 20,
+          "inning": "Nagaland Inning 1"
+        }
+      ],
+      "series_id": "c4807728-f69b-4067-813a-18c656328b2a",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
       "id": "191f8d98-f583-47aa-bd09-38f7f52a36c7",
       "name": "West Indies A vs England Lions, 3rd Unofficial ODI, England Lions tour of West Indies, 2026",
       "status": "England Lions won by 6 wkts",
@@ -751,6 +880,45 @@
       "matchEnded": true
     },
     {
+      "id": "988a1f39-fe03-4f32-817b-5322885c90b5",
+      "name": "Pakistan U19 vs India U19, Final, ACC Mens U19 Asia Cup 2026",
+      "matchType": "odi",
+      "status": "Innings Break",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T05:00:00",
+      "teams": [
+        "Pakistan U19",
+        "India U19"
+      ],
+      "teamInfo": [
+        {
+          "name": "India U19",
+          "shortname": "IN19",
+          "img": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48"
+        },
+        {
+          "name": "Pakistan U19",
+          "shortname": "PK19",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        }
+      ],
+      "score": [
+        {
+          "r": 337,
+          "w": 9,
+          "o": 50,
+          "inning": "pakistan u19 Inning 1"
+        }
+      ],
+      "series_id": "d1cd3983-e0d2-4abd-87dc-4b122cc48481",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
       "id": "d1b15e05-287b-4a51-a115-2e6ea555f783",
       "name": "Afghanistan U19 vs India U19, Semi Final 2 (B1 v A2), ACC Mens U19 Asia Cup 2026",
       "matchType": "odi",
@@ -927,186 +1095,6 @@
       "fantasyEnabled": true,
       "bbbEnabled": false,
       "hasSquad": false,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "2643e1b7-5921-4c4f-8805-32a3defbae85",
-      "name": "Melbourne Renegades Women vs Sydney Sixers Women, 20th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Sydney Sixers Women won by 11 runs",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-11-12",
-      "dateTimeGMT": "2026-11-12T08:10:00",
-      "teams": [
-        "Melbourne Renegades Women",
-        "Sydney Sixers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Melbourne Renegades Women",
-          "shortname": "MR-W",
-          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
-        },
-        {
-          "name": "Sydney Sixers Women",
-          "shortname": "SS-W",
-          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 140,
-          "w": 6,
-          "o": 20,
-          "inning": "sydney sixers women Inning 1"
-        },
-        {
-          "r": 129,
-          "w": 10,
-          "o": 20,
-          "inning": "Melbourne Renegades Women,Sydney Sixers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "0e094a86-1a1e-4a3e-9f41-4cf61c748b7e",
-      "name": "Melbourne Stars Women vs Brisbane Heat Women, 19th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Brisbane Heat Women won by 8 wkts",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-11-12",
-      "dateTimeGMT": "2026-11-12T04:40:00",
-      "teams": [
-        "Melbourne Stars Women",
-        "Brisbane Heat Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Brisbane Heat Women",
-          "shortname": "BH-W",
-          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
-        },
-        {
-          "name": "Melbourne Stars Women",
-          "shortname": "MS-W",
-          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 165,
-          "w": 5,
-          "o": 20,
-          "inning": "melbourne stars women Inning 1"
-        },
-        {
-          "r": 166,
-          "w": 2,
-          "o": 18.5,
-          "inning": "Melbourne Stars Women,Brisbane Heat Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "555337b0-04e8-4e3f-870a-8a8a0896b101",
-      "name": "Perth Scorchers Women vs Sydney Thunder Women, 18th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Perth Scorchers Women won by 4 wkts",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-11-11",
-      "dateTimeGMT": "2026-11-11T08:10:00",
-      "teams": [
-        "Perth Scorchers Women",
-        "Sydney Thunder Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Perth Scorchers Women",
-          "shortname": "PS-W",
-          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
-        },
-        {
-          "name": "Sydney Thunder Women",
-          "shortname": "ST-W",
-          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 159,
-          "w": 5,
-          "o": 20,
-          "inning": "sydney thunder women Inning 1"
-        },
-        {
-          "r": 160,
-          "w": 6,
-          "o": 18.3,
-          "inning": "Perth Scorchers Women,Sydney Thunder Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
-      "matchStarted": true,
-      "matchEnded": true
-    },
-    {
-      "id": "e6bb497f-1c63-4cab-911c-e03091e96029",
-      "name": "Hobart Hurricanes Women vs Adelaide Strikers Women, 17th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Adelaide Strikers Women won by 4 wkts",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-10",
-      "dateTimeGMT": "2026-11-10T08:10:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Adelaide Strikers Women"
-      ],
-      "teamInfo": [
-        {
-          "name": "Adelaide Strikers Women",
-          "shortname": "AS-W",
-          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
-        },
-        {
-          "name": "Hobart Hurricanes Women",
-          "shortname": "HB-W",
-          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
-        }
-      ],
-      "score": [
-        {
-          "r": 138,
-          "w": 5,
-          "o": 20,
-          "inning": "Hobart Hurricanes Women Inning 1"
-        },
-        {
-          "r": 139,
-          "w": 6,
-          "o": 20,
-          "inning": "Adelaide Strikers Women Inning 1"
-        }
-      ],
-      "series_id": "99c71a79-bc1f-4496-be02-f6b9a2be03ba",
-      "fantasyEnabled": true,
-      "bbbEnabled": false,
-      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     }
